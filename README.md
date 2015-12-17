@@ -9,8 +9,8 @@ This is a weekly updated, automatically generated hosts file for blocking:
 Dupes and incorrect entries are removed from this list and it is maintained in such way that it should not break any usefull websites or mobile apps.
 
 # Download
- - Hosts file (0.0.0.0): https://raw.github.com/notracking/hosts-blocklists/master/combined.txt
- - Hosts file (127.0.0.1): https://raw.github.com/notracking/hosts-blocklists/master/combined_localhost.txt
+ - Hosts file (0.0.0.0 version): https://raw.github.com/notracking/hosts-blocklists/master/combined.txt
+ - Hosts file (127.0.0.1 version): https://raw.github.com/notracking/hosts-blocklists/master/combined_localhost.txt
 
 # Current sources
  - https://raw.github.com/notracking/hosts-blocklists/master/custom.txt (maintained in this repository)
