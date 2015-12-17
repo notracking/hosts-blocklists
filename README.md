@@ -6,7 +6,7 @@ This is a weekly updated, automatically generated hosts file for blocking:
  - malware hosts
  - tracking servers
 
-Dupes and incorrect entries are removed from this list and it is maintained in such way that it should not break any usefull weebsites or mobile apps.
+Dupes and incorrect entries are removed from this list and it is maintained in such way that it should not break any usefull websites or mobile apps.
 
 # Download
  - Hosts file (0.0.0.0): https://raw.github.com/notracking/hosts-blocklists/master/combined.txt
