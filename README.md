@@ -13,7 +13,7 @@ Dupes and incorrect entries are removed from this list and it is maintained in s
  - Hosts file (127.0.0.1): https://raw.github.com/notracking/hosts-blocklists/master/combined_localhost.txt
 
 # Current sources
- - https://raw.github.com/notracking/hosts-blocklists/master/custom.txt (maintained in this repos)
+ - https://raw.github.com/notracking/hosts-blocklists/master/custom.txt (maintained in this repository)
  - http://winhelp2002.mvps.org/hosts.txt
  - http://www.malwaredomainlist.com/hostslist/hosts.txt
  - http://someonewhocares.org/hosts/hosts/
