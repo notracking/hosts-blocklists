@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Dec 20 10:38:43 CET 2015
-# Number of unique domains: 150
+# Last update: Sun Dec 20 16:26:40 CET 2015
+# Number of unique domains: 154
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed veryfied false calls and added some custom entries
@@ -18,6 +18,7 @@ address=/2mdn.net/0.0.0.0
 address=/2o7.net/0.0.0.0
 address=/302br.net/0.0.0.0
 address=/51yes.com/0.0.0.0
+address=/addthis.com/0.0.0.0
 address=/adk2.co/0.0.0.0
 address=/adnxs.com/0.0.0.0
 address=/am15.net/0.0.0.0
@@ -67,6 +68,7 @@ address=/dol.ru/0.0.0.0
 address=/doubleclick.net/0.0.0.0
 address=/dreamwithken.com/0.0.0.0
 address=/drivealexus.com/0.0.0.0
+address=/dt51.net/0.0.0.0
 address=/dwitretiretio.com/0.0.0.0
 address=/dwnldfr.com/0.0.0.0
 address=/earnmoneywithken.com/0.0.0.0
@@ -145,6 +147,7 @@ address=/savetubevideo.com/0.0.0.0
 address=/smaato.net/0.0.0.0
 address=/speedypcdownloads.com/0.0.0.0
 address=/spylog.com/0.0.0.0
+address=/tawk.to/0.0.0.0
 address=/tem.ejtm.com/0.0.0.0
 address=/token.dreamwithken.com/0.0.0.0
 address=/tubesmobile.com/0.0.0.0
@@ -162,3 +165,4 @@ address=/windowfilmtraining.com/0.0.0.0
 address=/xiti.com/0.0.0.0
 address=/xt.pl/0.0.0.0
 address=/zaeb.enjoyadreamlifestyle.com/0.0.0.0
+address=/zopim.com/0.0.0.0
