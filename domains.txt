@@ -1,15 +1,16 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Dec 20 01:20:19 CET 2015
+# Last update: Sun Dec 20 01:37:51 CET 2015
 # Number of unique domains: 148
 #################################[INFO]##################################
-#
-# ! Only use this list in combination with the hostnames.txt filter ! 
-#
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed veryfied false calls and added some custom entries
 # This hostfiles aim is not to break any useful websites
 # Submit a issue on github in case you find any false positives
+###############################[INSTALL]#################################
+# Update your dnsmasq.conf file and add the following lines:
+#  conf-file=/path/to/domains.txt
+#  addn-hosts=/path/to/hostnames.txt
 ################################[DOMAINS]################################
 address=/13900139000.com/0.0.0.0
 address=/2cnt.net/0.0.0.0
