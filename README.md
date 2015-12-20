@@ -1,19 +1,26 @@
 # Readme
-This is a weekly updated, automatically generated hosts file for blocking:
- - advertising servers
- - fake websites
- - shock sites
- - malware hosts
- - tracking servers
+This repository provides hostname and domainname based blocklists for use with dnsmasq. Most entries are gathered from various, well known public block lists allthough a lot of custom entries have been added manually.
 
-Dupes and incorrect entries are removed from this list and it is maintained in such way that it should not break any usefull websites or mobile apps.
+These list are automatically updated. Common domain names are seperated in the domainname based filter for more efficient blocking and a whitelist is used to prevent false calls from entering the final lists.
 
-# Download
- - Hosts file (0.0.0.0 version): https://raw.github.com/notracking/hosts-blocklists/master/combined.txt
- - Hosts file (127.0.0.1 version): https://raw.github.com/notracking/hosts-blocklists/master/combined_localhost.txt
+General guidelines for these lists:
+ - Should not break useful websites or apps
+ - Blocks tracking servers
+ - Blocks advertising servers
+ - Blocks fake websites
+ - Blocks shock sites
+ - Blocks malware hosts
 
-# Current sources
- - https://raw.github.com/notracking/hosts-blocklists/master/custom.txt (maintained in this repository)
+# Install
+Download the following files:
+ - https://raw.github.com/notracking/hosts-blocklists/master/hostnames.txt
+ - https://raw.github.com/notracking/hosts-blocklists/master/domains.txt
+
+Update your dnsmasq.conf:
+ - add: conf-file=/path/to/domains.txt
+ - add: addn-hosts=/path/to/hostnames.txt
+
+# Current public sources used:
  - http://winhelp2002.mvps.org/hosts.txt
  - http://www.malwaredomainlist.com/hostslist/hosts.txt
  - http://someonewhocares.org/hosts/hosts/
