@@ -1,9 +1,11 @@
 # Readme
-This repository provides hostname and domainname based blocklists for use with dnsmasq. Most entries are gathered from various, well known public block lists allthough a lot of custom entries have been added manually.
+This repository provides hostname and domainname based blocklists for use with dnsmasq.
+Most entries are gathered from various, well known public block lists allthough a lot of custom entries have been added manually.
 
-These list are automatically updated. Common domain names are seperated in the domainname based filter for more efficient blocking and a whitelist is used to prevent false calls from entering the final lists.
+These list are automatically updated.
+Common domain names are seperated in the domainname based filter for more efficient blocking and a whitelist is used to prevent false calls from entering the final lists.
 
-General guidelines for these lists:
+General guidelines:
  - Should not break useful websites or apps
  - Blocks tracking servers
  - Blocks advertising servers
@@ -17,8 +19,8 @@ Download the following files:
  - https://raw.github.com/notracking/hosts-blocklists/master/domains.txt
 
 Update your dnsmasq.conf:
- - add: conf-file=/path/to/domains.txt
- - add: addn-hosts=/path/to/hostnames.txt
+ - Add: conf-file=/path/to/domains.txt
+ - Add: addn-hosts=/path/to/hostnames.txt
 
 # Current public sources used:
  - http://winhelp2002.mvps.org/hosts.txt
