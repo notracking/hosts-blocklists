@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Dec 20 01:56:25 CET 2015
-# Number of unique domains: 148
+# Last update: Sun Dec 20 02:23:44 CET 2015
+# Number of unique domains: 149
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed veryfied false calls and added some custom entries
@@ -122,6 +122,7 @@ address=/kocezereokoq.info/0.0.0.0
 address=/liveadvert.com/0.0.0.0
 address=/lontent.com/0.0.0.0
 address=/mega-turbo.ru/0.0.0.0
+address=/metric.gstatic.com/0.0.0.0
 address=/mir-turbo.ru/0.0.0.0
 address=/msdwnld.com/0.0.0.0
 address=/musicfrost.com/0.0.0.0
