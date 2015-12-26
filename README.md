@@ -11,7 +11,7 @@ General guidelines:
  - Blocks advertising servers
  - Blocks fake websites
  - Blocks shock sites
- - Blocks malware hosts
+ - Blocks known malware hosts
 
 # Install
 Download the following files:
@@ -22,7 +22,7 @@ Update your dnsmasq.conf:
  - Add: conf-file=/path/to/domains.txt
  - Add: addn-hosts=/path/to/hostnames.txt
 
-# Current public sources used:
+# Public sources used
  - http://winhelp2002.mvps.org/hosts.txt
  - http://www.malwaredomainlist.com/hostslist/hosts.txt
  - http://someonewhocares.org/hosts/hosts/
