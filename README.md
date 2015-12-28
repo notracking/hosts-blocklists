@@ -1,10 +1,10 @@
 # Info
 This repository provides a hostname and domainname based blocklist for use with dnsmasq.
-Most entries are gathered from various, well known public block lists combined with a large list of custom entries that have been manually added.
+Most entries are gathered from various, well known public block lists combined with a large list of manually added, custom entries.
 
-These blocklists are automatically updated, cleaned and verified. False calls are removed from these lists by whitelisting them.
-Domain names that are common within the hostnames block list are added to the domain blocklist for more efficient blocking.
-All hostnames that are covered by a domain based filter are removed from the hostnames list, so it's important to use both blocklists simultaniously at all time.
+These blocklists are automatically updated, cleaned and verified; false calls are removed by manually whitelisting them.
+Domain names that are common within the hostnames file will be added to the domain blocklist for more efficient blocking.
+All hostnames that are covered by a domain based filter are removed from the hostnames list, so it's important to use both blocklists simultaniously active at all time.
 
 General policy:
  - Should not break useful websites or apps
