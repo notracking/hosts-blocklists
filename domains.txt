@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Dec 28 22:17:52 CET 2015
-# Number of unique domains: 245
+# Last update: Mon Dec 28 22:36:51 CET 2015
+# Number of unique domains: 253
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed veryfied false calls and added some custom entries
@@ -28,13 +28,16 @@ address=/adk2.co/0.0.0.0
 address=/admob.com/0.0.0.0
 address=/adnxs.com/0.0.0.0
 address=/adocean.pl/0.0.0.0
+address=/adscience.nl/0.0.0.0
 address=/adtech.de/0.0.0.0
+address=/advertserve.com/0.0.0.0
 address=/am15.net/0.0.0.0
 address=/appads.com/0.0.0.0
 address=/asstraffic18.net/0.0.0.0
 address=/axfoxporn.com/0.0.0.0
 address=/bjk321.com/0.0.0.0
 address=/blueconic.net/0.0.0.0
+address=/boomads.com/0.0.0.0
 address=/brands.brandcollections.ru/0.0.0.0
 address=/businesscatalyst.com/0.0.0.0
 address=/bzhualin.com/0.0.0.0
@@ -47,6 +50,7 @@ address=/checkm8.com/0.0.0.0
 address=/ciy2kci.tk/0.0.0.0
 address=/clickbank.net/0.0.0.0
 address=/cnzz.com/0.0.0.0
+address=/collect.igodigital.com/0.0.0.0
 address=/com-0o6.net/0.0.0.0
 address=/com-0r0.net/0.0.0.0
 address=/com-10i.net/0.0.0.0
@@ -83,6 +87,7 @@ address=/com-xej.net/0.0.0.0
 address=/com-z54.net/0.0.0.0
 address=/com-z8g.net/0.0.0.0
 address=/cpcempower.com/0.0.0.0
+address=/datatrics.com/0.0.0.0
 address=/ddns.name/0.0.0.0
 address=/demdex.net/0.0.0.0
 address=/dnset.com/0.0.0.0
@@ -140,6 +145,7 @@ address=/hitbox.com/0.0.0.0
 address=/hnliyin.com/0.0.0.0
 address=/hpg.com.br/0.0.0.0
 address=/infnet.tk/0.0.0.0
+address=/inside-graph/0.0.0.0
 address=/intellitxt.com/0.0.0.0
 address=/interacsecurity.com/0.0.0.0
 address=/iphone-replica.net/0.0.0.0
@@ -204,12 +210,14 @@ address=/medialytics.com/0.0.0.0
 address=/mega-turbo.ru/0.0.0.0
 address=/metric.gstatic.com/0.0.0.0
 address=/mir-turbo.ru/0.0.0.0
+address=/mobileapptracking.com/0.0.0.0
 address=/mobpartner.mobi/0.0.0.0
 address=/msdwnld.com/0.0.0.0
 address=/musicfrost.com/0.0.0.0
 address=/mydas.mobi/0.0.0.0
 address=/neliver.com/0.0.0.0
 address=/new-christmas.ru/0.0.0.0
+address=/newrelic.com/0.0.0.0
 address=/notentop.com/0.0.0.0
 address=/oewabox.at/0.0.0.0
 address=/omtrdc.net/0.0.0.0
