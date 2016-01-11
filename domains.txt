@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Jan 10 13:08:51 CET 2016
-# Number of unique domains: 326
+# Last update: Mon Jan 11 09:06:29 CET 2016
+# Number of unique domains: 327
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed veryfied false calls and added some custom entries
@@ -29,6 +29,7 @@ address=/admob.com/0.0.0.0
 address=/adnxs.com/0.0.0.0
 address=/adocean.com/0.0.0.0
 address=/adocean.de/0.0.0.0
+address=/adocean.nl/0.0.0.0
 address=/adocean.pl/0.0.0.0
 address=/adscience.nl/0.0.0.0
 address=/adtech.de/0.0.0.0
