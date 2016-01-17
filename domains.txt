@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Jan 17 07:44:44 CET 2016
-# Number of unique domains: 332
+# Last update: Sun Jan 17 22:07:57 CET 2016
+# Number of unique domains: 336
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed veryfied false calls and added some custom entries
@@ -32,11 +32,13 @@ address=/adocean.de/0.0.0.0
 address=/adocean.nl/0.0.0.0
 address=/adocean.pl/0.0.0.0
 address=/adscience.nl/0.0.0.0
+address=/adsremote.scrippsnetworks.com/0.0.0.0
 address=/adtech.de/0.0.0.0
 address=/adtech.fr/0.0.0.0
 address=/adtech.us/0.0.0.0
 address=/advertising.com/0.0.0.0
 address=/advertserve.com/0.0.0.0
+address=/afsanalytics.com/0.0.0.0
 address=/am15.net/0.0.0.0
 address=/appads.com/0.0.0.0
 address=/appodeal.com/0.0.0.0
@@ -118,6 +120,7 @@ address=/datatrics.com/0.0.0.0
 address=/ddns.name/0.0.0.0
 address=/demdex.net/0.0.0.0
 address=/dkn-group.ru/0.0.0.0
+address=/dmtracker.com/0.0.0.0
 address=/dnset.com/0.0.0.0
 address=/dol.ru/0.0.0.0
 address=/doubleclick.net/0.0.0.0
@@ -321,6 +324,7 @@ address=/togoadvising.com/0.0.0.0
 address=/token.dreamwithken.com/0.0.0.0
 address=/trackmaven.com/0.0.0.0
 address=/tradedoubler.com/0.0.0.0
+address=/trafficfactory.biz/0.0.0.0
 address=/tubesmobile.com/0.0.0.0
 address=/tubesyndicate.net/0.0.0.0
 address=/tubesyndicate.org/0.0.0.0
