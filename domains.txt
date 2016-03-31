@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Mar 31 04:48:07 CEST 2016
-# Number of unique domains: 390
+# Last update: Thu Mar 31 05:08:31 CEST 2016
+# Number of unique domains: 391
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed veryfied false calls and added some custom entries
@@ -48,6 +48,7 @@ address=/afsanalytics.com/0.0.0.0
 address=/am15.net/0.0.0.0
 address=/amazon-adsystem.com/0.0.0.0
 address=/appads.com/0.0.0.0
+address=/appier.net/0.0.0.0
 address=/appodeal.com/0.0.0.0
 address=/asdajwe7331salert-browserlocked-call-immediately.xyz/0.0.0.0
 address=/asstraffic18.net/0.0.0.0
@@ -121,6 +122,7 @@ address=/com-ss47.net/0.0.0.0
 address=/com-swd.net/0.0.0.0
 address=/com-t0p.net/0.0.0.0
 address=/com-tl4.net/0.0.0.0
+address=/com.ua/0.0.0.0
 address=/com-uj82.net/0.0.0.0
 address=/com-v6z.net/0.0.0.0
 address=/com-vh47.net/0.0.0.0
@@ -135,7 +137,6 @@ address=/com-xej.net/0.0.0.0
 address=/com-xu32.net/0.0.0.0
 address=/com-z54.net/0.0.0.0
 address=/com-z8g.net/0.0.0.0
-address=/com.ua/0.0.0.0
 address=/coremetrics.eu/0.0.0.0
 address=/cpcempower.com/0.0.0.0
 address=/cqcounter.com/0.0.0.0
@@ -173,8 +174,8 @@ address=/faststartgameplan.com/0.0.0.0
 address=/faststartwebinars.com/0.0.0.0
 address=/feefo.com/0.0.0.0
 address=/focalink.com/0.0.0.0
-address=/focus-outdoors.com/0.0.0.0
 address=/focusfor90.com/0.0.0.0
+address=/focus-outdoors.com/0.0.0.0
 address=/futureisready.com/0.0.0.0
 address=/fyre.co/0.0.0.0
 address=/fzkjxy.com/0.0.0.0
@@ -345,8 +346,8 @@ address=/reporo.net/0.0.0.0
 address=/retargetexchange.com/0.0.0.0
 address=/ruchristmas.ru/0.0.0.0
 address=/savetubevideo.com/0.0.0.0
-address=/ser.liveadreamlifestyle.com/0.0.0.0
 address=/serd.lookinggoodlonger.com/0.0.0.0
+address=/ser.liveadreamlifestyle.com/0.0.0.0
 address=/sextracker.be/0.0.0.0
 address=/sextracker.com/0.0.0.0
 address=/shet.eveshamairporttransfers.co.uk/0.0.0.0
