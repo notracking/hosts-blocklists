@@ -38,5 +38,6 @@ Add the following lines to your dnsmasq.conf (and restart afterwards):
  - http://pgl.yoyo.org/as/serverlist.php?hostformat=hosts
  - https://raw.github.com/StevenBlack/hosts/master/hosts
  - https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt
+ - https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
  - http://malwaredomains.lehigh.edu/files/BOOT
  - http://malwaredomains.lehigh.edu/files/immortal_domains.txt
