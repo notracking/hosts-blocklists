@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Apr 3 14:03:11 CEST 2016
-# Number of unique domains: 400
+# Last update: Sun Apr 3 16:32:12 CEST 2016
+# Number of unique domains: 401
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed veryfied false calls and added some custom entries
@@ -21,6 +21,7 @@ address=/2mdn.net/0.0.0.0
 address=/2o7.net/0.0.0.0
 address=/302br.net/0.0.0.0
 address=/51yes.com/0.0.0.0
+address=/accounts-mailsession.com/0.0.0.0
 address=/adbuddiz.com/0.0.0.0
 address=/adcontext.pl/0.0.0.0
 address=/adcrowd.com/0.0.0.0
@@ -47,6 +48,7 @@ address=/advertserve.com/0.0.0.0
 address=/afsanalytics.com/0.0.0.0
 address=/am15.net/0.0.0.0
 address=/amazon-adsystem.com/0.0.0.0
+address=/amstercaholan.xyz/0.0.0.0
 address=/appads.com/0.0.0.0
 address=/appier.net/0.0.0.0
 address=/appodeal.com/0.0.0.0
@@ -304,7 +306,6 @@ address=/lookgoodlonger.com/0.0.0.0
 address=/lookinggoodlonger.com/0.0.0.0
 address=/lop.lifestyleluncheons.com/0.0.0.0
 address=/louisvuittonoutletusd.net/0.0.0.0
-address=/mac-system-warning.in/0.0.0.0
 address=/mac-system-warning.in/0.0.0.0
 address=/marketo.com/0.0.0.0
 address=/mdadx.com/0.0.0.0
