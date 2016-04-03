@@ -29,6 +29,7 @@ Add the following lines to your dnsmasq.conf (and restart afterwards):
  - http://www.malwaredomainlist.com/hostslist/hosts.txt
  - http://someonewhocares.org/hosts/hosts/
  - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+ - https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
  - http://hosts-file.net/ad_servers.txt
  - http://hosts-file.net/emd.txt
  - http://hosts-file.net/exp.txt
@@ -36,4 +37,6 @@ Add the following lines to your dnsmasq.conf (and restart afterwards):
  - http://hosts-file.net/mmt.txt
  - http://pgl.yoyo.org/as/serverlist.php?hostformat=hosts
  - https://raw.github.com/StevenBlack/hosts/master/hosts
+ - https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt
  - http://malwaredomains.lehigh.edu/files/BOOT
+ - http://malwaredomains.lehigh.edu/files/immortal_domains.txt
