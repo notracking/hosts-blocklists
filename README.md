@@ -1,30 +1,35 @@
 # Info
 This repository provides a hostname and domainname based blocklist for use with dnsmasq.
-Most entries are gathered from various, well known public block lists combined with a large list of manually added, custom entries.
+Most entries are gathered from well maintained public block lists combined with a large set of manually added entries.
 
-These blocklists are automatically updated, cleaned and verified; false calls are removed by manually whitelisting them.
+These blocklists are automatically updated, cleaned and verified; false calls are removed by manually maintained whitelists.
 Domain names that are common within the hostnames file will be added to the domain blocklist for more efficient blocking.
-All hostnames that are covered by a domain based filter are removed from the hostnames list, so it's important to use both blocklists simultaniously active at all time.
+All hostnames that are covered by the domain based filter are removed from the hostnames list, meaning that these two lists are complementary to each other.
 
-General policy:
+These two block lists should be used simultaniusly at all time to get full coverage!
+
+General policies:
  - Should not break useful websites or apps
  - Blocks tracking servers
  - Blocks advertising servers
  - Blocks analytics servers
  - Blocks fake websites
  - Blocks shock sites
- - Blocks known malware hosts
+ - Blocks malware servers
 
 # Install
 Download the following files:
  - https://raw.github.com/notracking/hosts-blocklists/master/hostnames.txt
  - https://raw.github.com/notracking/hosts-blocklists/master/domains.txt
 
-Add the following lines to your dnsmasq.conf (and restart afterwards):
+Add the following lines to your dnsmasq.conf:
  - conf-file=/path/to/domains.txt
  - addn-hosts=/path/to/hostnames.txt
 
-# Public lists used
+Restart dnsmasq:
+ - sudo service dnsmasq restart
+
+# Public lists used:
  - http://winhelp2002.mvps.org/hosts.txt
  - http://www.malwaredomainlist.com/hostslist/hosts.txt
  - http://someonewhocares.org/hosts/hosts/
