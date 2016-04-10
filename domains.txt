@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Apr 10 08:35:56 CEST 2016
-# Number of unique domains: 431
+# Last update: Sun Apr 10 08:46:25 CEST 2016
+# Number of unique domains: 441
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed veryfied false calls and added some custom entries
@@ -22,6 +22,7 @@ address=/2o7.net/0.0.0.0
 address=/302br.net/0.0.0.0
 address=/51yes.com/0.0.0.0
 address=/accounts-mailsession.com/0.0.0.0
+address=/active-advertising.com/0.0.0.0
 address=/adbuddiz.com/0.0.0.0
 address=/adbureau.net/0.0.0.0
 address=/adcontext.pl/0.0.0.0
@@ -31,6 +32,7 @@ address=/adinfuse.com/0.0.0.0
 address=/adition.com/0.0.0.0
 address=/adk2.co/0.0.0.0
 address=/admob.com/0.0.0.0
+address=/admtracker.com/0.0.0.0
 address=/adnxs.com/0.0.0.0
 address=/adocean.com/0.0.0.0
 address=/adocean.de/0.0.0.0
@@ -45,6 +47,7 @@ address=/adsremote.scrippsnetworks.com/0.0.0.0
 address=/adtech.de/0.0.0.0
 address=/adtech.fr/0.0.0.0
 address=/adtech.us/0.0.0.0
+address=/adtext.pl/0.0.0.0
 address=/advertising.com/0.0.0.0
 address=/advertserve.com/0.0.0.0
 address=/afsanalytics.com/0.0.0.0
@@ -154,6 +157,7 @@ address=/com-z8g.net/0.0.0.0
 address=/coremetrics.eu/0.0.0.0
 address=/cpcempower.com/0.0.0.0
 address=/cqcounter.com/0.0.0.0
+address=/crispadvertising.com/0.0.0.0
 address=/datatrics.com/0.0.0.0
 address=/ddns.name/0.0.0.0
 address=/demdex.net/0.0.0.0
@@ -314,6 +318,7 @@ address=/keyade.com/0.0.0.0
 address=/kicaqijereic.info/0.0.0.0
 address=/kicereiyenureq.info/0.0.0.0
 address=/kit.net/0.0.0.0
+address=/klikadvertising.com/0.0.0.0
 address=/kocezereokoq.info/0.0.0.0
 address=/ksmobile.com/0.0.0.0
 address=/lifestyleluncheons.com/0.0.0.0
@@ -327,6 +332,7 @@ address=/lookinggoodlonger.com/0.0.0.0
 address=/lop.lifestyleluncheons.com/0.0.0.0
 address=/louisvuittonoutletusd.net/0.0.0.0
 address=/mac-system-warning.in/0.0.0.0
+address=/mainstreamadvertising.com/0.0.0.0
 address=/marketo.com/0.0.0.0
 address=/mat.eveshamairporttaxis.co.uk/0.0.0.0
 address=/mdadx.com/0.0.0.0
@@ -339,9 +345,11 @@ address=/metric.gstatic.com/0.0.0.0
 address=/milk.fabproductsuk.info/0.0.0.0
 address=/millennialmedia.com/0.0.0.0
 address=/mir-turbo.ru/0.0.0.0
+address=/mlnadvertising.com/0.0.0.0
 address=/moatads.com/0.0.0.0
 address=/mobileapptracking.com/0.0.0.0
 address=/mobpartner.mobi/0.0.0.0
+address=/mocean.mobi/0.0.0.0
 address=/msdwnld.com/0.0.0.0
 address=/musicfrost.com/0.0.0.0
 address=/mxcdn.de/0.0.0.0
@@ -370,6 +378,7 @@ address=/pool.pchamberlain.co.uk/0.0.0.0
 address=/popunder.ru/0.0.0.0
 address=/postal.gameplansession.com/0.0.0.0
 address=/pp.pupilsprogress.co.uk/0.0.0.0
+address=/pro-advertising.com/0.0.0.0
 address=/pubmatics.info/0.0.0.0
 address=/qualtrics.com/0.0.0.0
 address=/razer.enjoyyourdreamlifestyle.com/0.0.0.0
@@ -435,6 +444,7 @@ address=/xiti.com/0.0.0.0
 address=/xt.pl/0.0.0.0
 address=/y8f286.com/0.0.0.0
 address=/yell.back2balancephysio.co.uk/0.0.0.0
+address=/yesadvertising.com/0.0.0.0
 address=/yieldlab.net/0.0.0.0
 address=/yourcomputerhaveaseriousproblemspleasecallonnumberbelowtollfree.com/0.0.0.0
 address=/zaeb.enjoyadreamlifestyle.com/0.0.0.0
