@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Apr 10 09:00:39 CEST 2016
-# Number of unique domains: 454
+# Last update: Sun Apr 10 10:28:02 CEST 2016
+# Number of unique domains: 460
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed veryfied false calls and added some custom entries
@@ -251,6 +251,8 @@ address=/healthgarciniatanm.ru/0.0.0.0
 address=/healthgarciniauldm.ru/0.0.0.0
 address=/hillsharvest.com/0.0.0.0
 address=/hitbox.com/0.0.0.0
+address=/hit.stat24.com/0.0.0.0
+address=/hit.stat.pl/0.0.0.0
 address=/hittail.com/0.0.0.0
 address=/hnfjx.com/0.0.0.0
 address=/hnliyin.com/0.0.0.0
@@ -362,6 +364,9 @@ address=/mobileapptracking.com/0.0.0.0
 address=/mobpartner.mobi/0.0.0.0
 address=/mocean.mobi/0.0.0.0
 address=/mojiva.com/0.0.0.0
+address=/mojiva.mobi/0.0.0.0
+address=/mojiva.net/0.0.0.0
+address=/mojiva.org/0.0.0.0
 address=/msdwnld.com/0.0.0.0
 address=/musicfrost.com/0.0.0.0
 address=/mxcdn.de/0.0.0.0
@@ -378,6 +383,7 @@ address=/oewabox.at/0.0.0.0
 address=/omtrdc.net/0.0.0.0
 address=/onl.onlinetrees.co.uk/0.0.0.0
 address=/p2l.info/0.0.0.0
+address=/partner-ads.com/0.0.0.0
 address=/paycount.com/0.0.0.0
 address=/petboutiquepawsnclaws.co.uk/0.0.0.0
 address=/petrovka.info/0.0.0.0
