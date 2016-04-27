@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Apr 27 07:38:00 CEST 2016
-# Number of unique domains: 460
+# Last update: Wed Apr 27 14:20:43 CEST 2016
+# Number of unique domains: 469
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed veryfied false calls and added some custom entries
@@ -12,6 +12,7 @@
 #  conf-file=/path/to/domains.txt
 #  addn-hosts=/path/to/hostnames.txt
 ################################[DOMAINS]################################
+address=/0531kt.com/0.0.0.0
 address=/13900139000.com/0.0.0.0
 address=/247realmedia.com/0.0.0.0
 address=/24x7help.org/0.0.0.0
@@ -47,6 +48,7 @@ address=/ads360.com/0.0.0.0
 address=/ads3-adnow.com/0.0.0.0
 address=/ads4-adnow.com/0.0.0.0
 address=/ads5-adnow.com/0.0.0.0
+address=/adsame.com/0.0.0.0
 address=/adscience.nl/0.0.0.0
 address=/adserver.yahoo.com/0.0.0.0
 address=/adsremote.scrippsnetwork.com/0.0.0.0
@@ -62,6 +64,7 @@ address=/afsanalytics.com/0.0.0.0
 address=/am15.net/0.0.0.0
 address=/amazon-adsystem.com/0.0.0.0
 address=/amstercaholan.xyz/0.0.0.0
+address=/ancoraplatform.com/0.0.0.0
 address=/appads.com/0.0.0.0
 address=/appier.net/0.0.0.0
 address=/appodeal.com/0.0.0.0
@@ -86,6 +89,7 @@ address=/brainsins.com/0.0.0.0
 address=/brands.brandcollections.ru/0.0.0.0
 address=/browser-alert-lockedcallimmediately.xyz/0.0.0.0
 address=/businesscatalyst.com/0.0.0.0
+address=/businessclick.com/0.0.0.0
 address=/byinter.net/0.0.0.0
 address=/bzhualin.com/0.0.0.0
 address=/cardiffwinetasting.co.uk/0.0.0.0
@@ -242,6 +246,7 @@ address=/gutesikrefiqew.com/0.0.0.0
 address=/gv.govtax.net/0.0.0.0
 address=/hangoutathome.com/0.0.0.0
 address=/hangoutfromhome.com/0.0.0.0
+address=/hao123.com/0.0.0.0
 address=/hao17go.com/0.0.0.0
 address=/hbg.hebdenbridgedental.co.uk/0.0.0.0
 address=/hbho.homebizhangout.com/0.0.0.0
@@ -249,6 +254,7 @@ address=/hdmoviesgroup.com/0.0.0.0
 address=/healthgarcinialam.ru/0.0.0.0
 address=/healthgarciniatanm.ru/0.0.0.0
 address=/healthgarciniauldm.ru/0.0.0.0
+address=/hearst.com.cn/0.0.0.0
 address=/hillsharvest.com/0.0.0.0
 address=/hitbox.com/0.0.0.0
 address=/hit.stat24.com/0.0.0.0
@@ -432,6 +438,7 @@ address=/telecharsoft.com/0.0.0.0
 address=/tem.ejtm.com/0.0.0.0
 address=/theadex.com/0.0.0.0
 address=/thruport.com/0.0.0.0
+address=/tlgslb.com/0.0.0.0
 address=/togoadvising.com/0.0.0.0
 address=/token.dreamwithken.com/0.0.0.0
 address=/trackmaven.com/0.0.0.0
@@ -458,6 +465,7 @@ address=/weedfreegrass.co.uk/0.0.0.0
 address=/win0x000000ceerror.in/0.0.0.0
 address=/windowfilmschool.com/0.0.0.0
 address=/windowfilmtraining.com/0.0.0.0
+address=/wuaiso.com/0.0.0.0
 address=/x-cago.net/0.0.0.0
 address=/xiti.com/0.0.0.0
 address=/xt.pl/0.0.0.0
@@ -466,6 +474,7 @@ address=/yell.back2balancephysio.co.uk/0.0.0.0
 address=/yesadvertising.com/0.0.0.0
 address=/yieldlab.net/0.0.0.0
 address=/yourcomputerhaveaseriousproblemspleasecallonnumberbelowtollfree.com/0.0.0.0
+address=/youxiaoad.com/0.0.0.0
 address=/zaeb.enjoyadreamlifestyle.com/0.0.0.0
 address=/zedo.com/0.0.0.0
 address=/zero.hillsharvest.com/0.0.0.0
