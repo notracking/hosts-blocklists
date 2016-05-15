@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat May 14 07:46:32 CEST 2016
-# Number of unique domains: 765
+# Last update: Sun May 15 07:46:27 CEST 2016
+# Number of unique domains: 772
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed veryfied false calls and added some custom entries
@@ -281,8 +281,14 @@ address=/count.brat-online.ro/0.0.0.0
 address=/cpcbroker.com/0.0.0.0
 address=/cpcempower.com/0.0.0.0
 address=/cqcounter.com/0.0.0.0
+address=/crashlytics.com/0.0.0.0
 address=/crispadvertising.com/0.0.0.0
+address=/criteo.biz/0.0.0.0
 address=/criteo.com/0.0.0.0
+address=/criteo.info/0.0.0.0
+address=/criteo.net/0.0.0.0
+address=/criteo.org/0.0.0.0
+address=/criteo.us/0.0.0.0
 address=/criticalwindowalert.com/0.0.0.0
 address=/crwdcntrl.net/0.0.0.0
 address=/csbew.com/0.0.0.0
@@ -544,6 +550,7 @@ address=/meetrics.net/0.0.0.0
 address=/mega-turbo.ru/0.0.0.0
 address=/metric.gstatic.com/0.0.0.0
 address=/mgid.com/0.0.0.0
+address=/microsoftsecuritysystems.com/0.0.0.0
 address=/milk.fabproductsuk.info/0.0.0.0
 address=/millennialmedia.com/0.0.0.0
 address=/mir-turbo.ru/0.0.0.0
