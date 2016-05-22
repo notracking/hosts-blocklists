@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun May 22 12:35:19 CEST 2016
-# Number of unique hostnames: 48271
+# Last update: Sun May 22 13:40:21 CEST 2016
+# Number of unique hostnames: 48328
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed veryfied false calls and added some custom entries
@@ -2319,6 +2319,7 @@
 0.0.0.0 ad.putenbrust.net
 0.0.0.0 ad.pxlad.io
 0.0.0.0 ad.pyce.info
+0.0.0.0 ad.qq.com
 0.0.0.0 ad.qwapi.com
 0.0.0.0 ad.qyer.com
 0.0.0.0 ad.r.worldssl.net
@@ -2902,6 +2903,7 @@
 0.0.0.0 adp.gazeta.pl
 0.0.0.0 adpaustralia.com.au
 0.0.0.0 adpick.switchboard.com
+0.0.0.0 adping.qq.com
 0.0.0.0 adplay.tudou.com
 0.0.0.0 adplus.co.id
 0.0.0.0 adplus.goo.mx
@@ -4856,6 +4858,7 @@
 0.0.0.0 adsby.breezeads.com
 0.0.0.0 adsby.klikki.com
 0.0.0.0 adsby.uzoogle.com
+0.0.0.0 adsclick.qq.com
 0.0.0.0 adscontent.indiatimes.com
 0.0.0.0 adscontent2.indiatimes.com
 0.0.0.0 adsearch.wp.pl
@@ -5264,9 +5267,13 @@
 0.0.0.0 adserwer.intercon.pl
 0.0.0.0 adserwer.o2.pl
 0.0.0.0 adsfeed3.brabys.co.za
+0.0.0.0 adsfile.qq.com
 0.0.0.0 adsgallery.brandera.com
 0.0.0.0 adsgen.bangbros.com
+0.0.0.0 adsgroup.qq.com
 0.0.0.0 adshare.freedocast.com
+0.0.0.0 adshmct.qq.com
+0.0.0.0 adshmmsg.qq.com
 0.0.0.0 adshow.it168.com
 0.0.0.0 adsim.sabah.com.tr
 0.0.0.0 adsintl.starwave.com
@@ -5274,6 +5281,8 @@
 0.0.0.0 adsiplytmedia.indiatimes.com
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 adsl-71-138-149-62.dsl.pltn13.pacbell.net
+0.0.0.0 adslvfile.qq.com
+0.0.0.0 adslvseed.qq.com
 0.0.0.0 adsm.gameforge.de
 0.0.0.0 adsm.soush.com
 0.0.0.0 adsmarket.co.il
@@ -5290,9 +5299,11 @@
 0.0.0.0 adspace.zaman.com.tr
 0.0.0.0 adspecs.aol.com
 0.0.0.0 adspr.haber7.net
+0.0.0.0 adsqqclick.qq.com
 0.0.0.0 adsr3pg.com.br
 0.0.0.0 adsrc.bankrate.com
 0.0.0.0 adsremote.scripps.com
+0.0.0.0 adsrich.qq.com
 0.0.0.0 adsrv.adplus.co.id
 0.0.0.0 adsrv.ads.eniro.com
 0.0.0.0 adsrv.bangbros.com
@@ -5326,9 +5337,12 @@
 0.0.0.0 adstest.reklamstore.com
 0.0.0.0 adstest.weather.com
 0.0.0.0 adstest.zaman.com.tr
+0.0.0.0 adstextview.qq.com
 0.0.0.0 adstil.indiatimes.com
 0.0.0.0 adstracking.s3-website-us-west-1.amazonaws.com
 0.0.0.0 adstream.cardboardfish.com
+0.0.0.0 adsview.qq.com
+0.0.0.0 adsview2.qq.com
 0.0.0.0 adsvr.adsparc.net
 0.0.0.0 adsvr.deviantart.com
 0.0.0.0 adsvr.taipeilink.net
@@ -6310,6 +6324,7 @@
 0.0.0.0 analhq.blogspot.com
 0.0.0.0 analiamemmoprop.com.ar
 0.0.0.0 analtube.stoporn.net
+0.0.0.0 analy.qq.com
 0.0.0.0 analysis.fc2.com
 0.0.0.0 analysis.focalprice.com
 0.0.0.0 analysis.shinobi.jp
@@ -9230,6 +9245,7 @@
 0.0.0.0 btinternet.carreteiroonline.com.br
 0.0.0.0 btn.counter.weather.ca
 0.0.0.0 btr.domywife.com
+0.0.0.0 btrace.qq.com
 0.0.0.0 btstats.devtribu.fr
 0.0.0.0 buceta.netne.net
 0.0.0.0 buchedosa.ye.ro
@@ -9517,6 +9533,7 @@
 0.0.0.0 c.firmcontext.work
 0.0.0.0 c.firstofficejob.biz
 0.0.0.0 c.fr.msn.com
+0.0.0.0 c.gdt.qq.com
 0.0.0.0 c.getsmartcontent.com
 0.0.0.0 c.goodystringuk.com
 0.0.0.0 c.gr.msn.com
@@ -9542,6 +9559,7 @@
 0.0.0.0 c.kele55.com
 0.0.0.0 c.kindscanmeta.net
 0.0.0.0 c.kuryjs.info
+0.0.0.0 c.l.qq.com
 0.0.0.0 c.la1w1.salesforceliveagent.com
 0.0.0.0 c.latam.msn.com
 0.0.0.0 c.live.com
@@ -9619,6 +9637,7 @@
 0.0.0.0 c11n4.i.teaserguide.com
 0.0.0.0 c2.campartner.com
 0.0.0.0 c2.clickprotects.com
+0.0.0.0 c2.l.qq.com
 0.0.0.0 c2.outster.com
 0.0.0.0 c25y1r.ure.breedingsolutions.co.uk
 0.0.0.0 c2mtrack01.track.c2m00b.net
@@ -11042,6 +11061,7 @@
 0.0.0.0 cm.best-thing.eu
 0.0.0.0 cm.dpclk.com
 0.0.0.0 cm.emarbox.com
+0.0.0.0 cm.l.qq.com
 0.0.0.0 cm.mobiletimes.info
 0.0.0.0 cm.myway.com
 0.0.0.0 cm.need2find.com
@@ -11283,6 +11303,7 @@
 0.0.0.0 comantrapctechsolution.blogspot.com
 0.0.0.0 combidata.internetdsl.pl
 0.0.0.0 combo-fix-download.blogspot.com
+0.0.0.0 combo.b.qq.com
 0.0.0.0 combo.landrushrabits.com
 0.0.0.0 come.nationalstainlesssteel.com
 0.0.0.0 come.northtexasreia.com
@@ -13924,6 +13945,7 @@
 0.0.0.0 e.mysecure24.com
 0.0.0.0 e.namevalid.ru
 0.0.0.0 e.ofuda.cc
+0.0.0.0 e.qq.com
 0.0.0.0 e.rmgserving.com
 0.0.0.0 e.sexad.net
 0.0.0.0 e.targetfuel.com
@@ -15648,6 +15670,8 @@
 0.0.0.0 focus.zarca-inc.com
 0.0.0.0 focustechnicalservice.co.uk
 0.0.0.0 focuswomensacco.co.ke
+0.0.0.0 fodder.qq.com
+0.0.0.0 fodder.tc.qq.com
 0.0.0.0 foj5.happy-lemon.com.hk
 0.0.0.0 folder.comptesteal.org
 0.0.0.0 foldergallery.friko.pl
@@ -16286,6 +16310,7 @@
 0.0.0.0 fvid.atm.youku.com
 0.0.0.0 fvpzz.movies.upgradespartner.biz
 0.0.0.0 fw.crir.com
+0.0.0.0 fw.qq.com
 0.0.0.0 fwd.themarvelousredirect.net
 0.0.0.0 fwd.theoutstandingredirect.net
 0.0.0.0 fwe.boutiquedepro.org
@@ -17810,6 +17835,7 @@
 0.0.0.0 hlok.qertewrt.com
 0.0.0.0 hm-revenue-gov-tax-refund.service-org-gov.org
 0.0.0.0 hm.baidu.com
+0.0.0.0 hm.l.qq.com
 0.0.0.0 hmc.uxuixsw0b.top
 0.0.0.0 hmd.fkm.ui.ac.id
 0.0.0.0 hmdosexploit.blogspot.com
@@ -18070,6 +18096,7 @@
 0.0.0.0 htr.kaitycarter.com
 0.0.0.0 htr5.amarteusa.com
 0.0.0.0 httj.aonncharity.org
+0.0.0.0 httpring.qq.com
 0.0.0.0 https.apple.com.client-cgibins.com
 0.0.0.0 https.paypal.com.cgi.bin.securedupdatingaccountcgibinf5b6hfvet3442344dfdfsqsqseerr.bsoftindia.net
 0.0.0.0 htuy1.rf1uq3.top
@@ -18484,6 +18511,7 @@
 0.0.0.0 imaginedecor.com.br
 0.0.0.0 imarishanaivasha.or.ke
 0.0.0.0 imb.mobitkr.com
+0.0.0.0 imc.l.qq.com
 0.0.0.0 imd-immor.com.bo
 0.0.0.0 imds.org.br
 0.0.0.0 imeco.com.co
@@ -19239,6 +19267,7 @@
 0.0.0.0 jimaimracing.co.uk
 0.0.0.0 jimwd.ehealthnewshedi.ru
 0.0.0.0 jimwd.ehealthnewssofi.ru
+0.0.0.0 jingjia.qq.com
 0.0.0.0 jiwopmn-jau-khb747bjg324yu.bvolpoleratsearts.in
 0.0.0.0 jj.2hew7rtu.ru
 0.0.0.0 jj.bonniewarrenmusic.com
@@ -20683,6 +20712,7 @@
 0.0.0.0 l.onlineupgradeonline.com
 0.0.0.0 l.pcupdateonline.com
 0.0.0.0 l.popin.cc
+0.0.0.0 l.qq.com
 0.0.0.0 l.socialsexnetwork.net
 0.0.0.0 l.speedupdate24.com
 0.0.0.0 l.speedyhashstation.com
@@ -20690,6 +20720,7 @@
 0.0.0.0 l.takeappscenter.com
 0.0.0.0 l0.videohub.tv
 0.0.0.0 l1.qsstats.com
+0.0.0.0 l2.l.qq.com
 0.0.0.0 l2.visiblemeasures.com
 0.0.0.0 l2000.com.au
 0.0.0.0 l3lacklord.persiangig.com
@@ -22882,6 +22913,7 @@
 0.0.0.0 mhpioi.ugiperson.top
 0.0.0.0 mhrc.shmh.gov.cn
 0.0.0.0 mhzthrs.servicemanagementforum.org
+0.0.0.0 mi.gdt.qq.com
 0.0.0.0 mianita.strefa.pl
 0.0.0.0 miasudi.bidwinners.co.uk
 0.0.0.0 miathfn.euccrustacean.top
@@ -25114,6 +25146,7 @@
 0.0.0.0 oimg.m.cnbc.com
 0.0.0.0 oimg.mobile.cnbc.com
 0.0.0.0 oimg.nbcuni.com
+0.0.0.0 oimsgad.qq.com
 0.0.0.0 oinet2.otomobililan.net
 0.0.0.0 oio4ju54h-khb747bjg324yu8.askiwmvno43.in
 0.0.0.0 oitcbw.my-age.net
@@ -25755,6 +25788,7 @@
 0.0.0.0 p.delivery.net
 0.0.0.0 p.emaradx.com
 0.0.0.0 p.imgur.com
+0.0.0.0 p.l.qq.com
 0.0.0.0 p.l.youku.com
 0.0.0.0 p.lp4.io
 0.0.0.0 p.pagesjaunes.fr
@@ -25783,6 +25817,7 @@
 0.0.0.0 p13n-int.herokuapp.com
 0.0.0.0 p13n-test.herokuapp.com
 0.0.0.0 p1wmbu.koll.pershoreairporttransfers.co.uk
+0.0.0.0 p2.l.qq.com
 0.0.0.0 p2p.adv.vz.ru
 0.0.0.0 p2pclients.musicdot.com
 0.0.0.0 p30download.ads.saba-e.com
@@ -25840,6 +25875,7 @@
 0.0.0.0 pages.etology.com
 0.0.0.0 pages.mrktsenses.com
 0.0.0.0 pagescheck.esy.es
+0.0.0.0 pagespeed.report.qq.com
 0.0.0.0 paginassterra.pop3.ru
 0.0.0.0 pain.allin1assistant.net
 0.0.0.0 paincake.yoll.net
@@ -26579,6 +26615,8 @@
 0.0.0.0 ping.rasset.ie
 0.0.0.0 pingback.sogou.com
 0.0.0.0 pinger.macromedia.com
+0.0.0.0 pingfore.qq.com
+0.0.0.0 pingjs.qq.com
 0.0.0.0 pings.blip.tv
 0.0.0.0 pings.conviva.com
 0.0.0.0 pinguin.com.ua
@@ -27689,6 +27727,7 @@
 0.0.0.0 qnphtw.angell.vantagesport.co.uk
 0.0.0.0 qo1dn4h4gj.ku6fvbi.net
 0.0.0.0 qos.bandwidth-check.de5.bobodise.com
+0.0.0.0 qos.report.qq.com
 0.0.0.0 qos.video.yimg.com
 0.0.0.0 qp8up.hzbed7ycd.xyz
 0.0.0.0 qpexradio.herobo.com
@@ -27697,8 +27736,11 @@
 0.0.0.0 qpufof.owen.kingsmist.co.uk
 0.0.0.0 qq.lanyuncm.cn
 0.0.0.0 qq.m.cn.miaozhen.com
+0.0.0.0 qqlogo.qq.com
 0.0.0.0 qrcdownload.ibcustomerzone.com
+0.0.0.0 qring-tms.qq.com
 0.0.0.0 qsrygrmloq.oawmouse.top
+0.0.0.0 qss-client.qq.com
 0.0.0.0 qt.quicktechies.com
 0.0.0.0 qtime1982.com.tw
 0.0.0.0 qtofplfvs.ugiperson.top
@@ -27992,6 +28034,7 @@
 0.0.0.0 rc6.i2i.jp
 0.0.0.0 rc9j24.lac.libro-alcoholismo.com
 0.0.0.0 rca.org.au
+0.0.0.0 rcgi.video.qq.com
 0.0.0.0 rchphysio.co.uk
 0.0.0.0 rclark.newsgarciniaaheck.eu
 0.0.0.0 rcm-de.amazon.de
@@ -28321,6 +28364,7 @@
 0.0.0.0 report.adview.cn
 0.0.0.0 report.com-jt23.net
 0.0.0.0 report.mitsubishicars.com
+0.0.0.0 report.qq.com
 0.0.0.0 report.rellefit.com
 0.0.0.0 reportarzach.glbacomliancy.com
 0.0.0.0 reporting.eu-survey.com
@@ -28434,6 +28478,7 @@
 0.0.0.0 rgg.mijetas.com
 0.0.0.0 rgrvvr.backflowspring.com
 0.0.0.0 rgzrgzd.dronesrule.com
+0.0.0.0 rh.qq.com
 0.0.0.0 rh.revolvermaps.com
 0.0.0.0 rhads.sv.publicus.com
 0.0.0.0 rhki.uvaldelawyer.com
@@ -28457,6 +28502,7 @@
 0.0.0.0 ricetrofl.strefa.pl
 0.0.0.0 rich-agent.s3.amazonaws.com
 0.0.0.0 rich.itketiquette.com
+0.0.0.0 rich.qq.com
 0.0.0.0 rich.ricardo4homes.com
 0.0.0.0 richardandson.co.uk
 0.0.0.0 richardsonlookoutcottages.nb.ca
@@ -28874,6 +28920,8 @@
 0.0.0.0 rs.epoq.de
 0.0.0.0 rs.instantservice.com
 0.0.0.0 rs0.co.uk
+0.0.0.0 rs1.qq.com
+0.0.0.0 rs2.qq.com
 0.0.0.0 rs4.anti-leech.com
 0.0.0.0 rsc.scmspain.com
 0.0.0.0 rsdt.free.fr
@@ -29587,6 +29635,7 @@
 0.0.0.0 scarf.dementiaadvocate.info
 0.0.0.0 scarfme.com.br
 0.0.0.0 scd.secureintl.com
+0.0.0.0 scdown.qq.com
 0.0.0.0 scenenguru.kilu.de
 0.0.0.0 scfksihyg.legacyminerals.net
 0.0.0.0 schauplatzprozess.christopherhasastrategy.com
@@ -30385,6 +30434,7 @@
 0.0.0.0 shout.localeet.com
 0.0.0.0 shoutcast.com.pl
 0.0.0.0 shovi.frost-electric-supply.com
+0.0.0.0 show-msgch.qq.com
 0.0.0.0 show.buzzcity.net
 0.0.0.0 show.communiad.com
 0.0.0.0 show.ctrmanager.com
@@ -31495,6 +31545,7 @@
 0.0.0.0 statik.topica.com
 0.0.0.0 stationerypoint.com.au
 0.0.0.0 statique.secureguards.eu
+0.0.0.0 statistic.qzone.qq.com
 0.0.0.0 statistics.crowdynews.com
 0.0.0.0 statistics.dynamicsitestats.com
 0.0.0.0 statistics.elsevier.nl
@@ -32435,6 +32486,7 @@
 0.0.0.0 tailsweep.co.uk
 0.0.0.0 taiwans.deadliestcancer.net
 0.0.0.0 taiwanspinecenter.com.tw
+0.0.0.0 tajs.qq.com
 0.0.0.0 take.h2optionsstore.com
 0.0.0.0 take.oncapeservices.com
 0.0.0.0 take.virtualheromessages.com
@@ -32533,6 +32585,7 @@
 0.0.0.0 tcookie.usatoday.com
 0.0.0.0 tcpos.com.vn
 0.0.0.0 tcrwharen.homepage.t-online.de
+0.0.0.0 tcss.qq.com
 0.0.0.0 tcu-football-schedule-2010.rur.vze.com
 0.0.0.0 tcutitans.idthreadz.com
 0.0.0.0 tcwebster.co.uk
@@ -33073,6 +33126,7 @@
 0.0.0.0 todonautica.com.ar
 0.0.0.0 toe.firstcarsdt.info
 0.0.0.0 toe.grabowomanor.com
+0.0.0.0 toestakenmareca.scottishhomesonline.com
 0.0.0.0 tohmeiwixu.co.vu
 0.0.0.0 tohoglflg.esy.es
 0.0.0.0 tokeioutlet.vlttransportation.com
@@ -33250,6 +33304,7 @@
 0.0.0.0 tracallcenter.com.br
 0.0.0.0 trace.binarylift.com
 0.0.0.0 trace.jdtracker.com
+0.0.0.0 trace.qq.com
 0.0.0.0 tracelog.www.alibaba.com
 0.0.0.0 tracer.perezhilton.com
 0.0.0.0 track-683.trafiz.net
@@ -35157,6 +35212,7 @@
 0.0.0.0 w.homes.yahoo.net
 0.0.0.0 w.hypercomments.com
 0.0.0.0 w.iphone.appleproducts-winner.com
+0.0.0.0 w.l.qq.com
 0.0.0.0 w.mcdir.ru
 0.0.0.0 w.mlv-cdn.com
 0.0.0.0 w.online-verlag-freiburg.de
@@ -41123,6 +41179,7 @@
 0.0.0.0 www.hao.se.97xx00.com
 0.0.0.0 www.hao123.biz
 0.0.0.0 www.haoinosenca.net
+0.0.0.0 www.haoma.qq.com
 0.0.0.0 www.haoshoesshop.com
 0.0.0.0 www.haowholesale.com
 0.0.0.0 www.haoyunlaid.com
