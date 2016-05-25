@@ -1,10 +1,10 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue May 24 07:54:54 CEST 2016
-# Number of unique hostnames: 48353
+# Last update: Wed May 25 07:54:22 CEST 2016
+# Number of unique hostnames: 48368
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
-# Removed veryfied false calls and added some custom entries
+# Removed verified false calls and added a large set of custom entries
 # This hostfiles aim is not to break any useful websites
 # Submit a issue on github in case you find any false positives
 ###############################[INSTALL]#################################
@@ -2086,8 +2086,6 @@
 0.0.0.0 ad.mesomorphosis.com
 0.0.0.0 ad.mgd.de
 0.0.0.0 adm.healthtealivin.com
-0.0.0.0 admicro1.vcmedia.vn
-0.0.0.0 admicro2.vcmedia.vn
 0.0.0.0 admin.4937rugbyrd.info
 0.0.0.0 admin.ads.basal.ca
 0.0.0.0 admin.ads.t-online.de
@@ -3631,7 +3629,6 @@
 0.0.0.0 ads.horyzon-media.com
 0.0.0.0 ads.host.camz.com
 0.0.0.0 ads.hostingbuy.net
-0.0.0.0 ads.hosting.vcmedia.vn
 0.0.0.0 ads.hotarena.net
 0.0.0.0 ads.hothardware.com
 0.0.0.0 ads.howabout.net
@@ -6306,6 +6303,7 @@
 0.0.0.0 angelbrides.co.uk
 0.0.0.0 angelinajolie.1stok.com
 0.0.0.0 angelinajolie.ca.tt
+0.0.0.0 angelocc.php5.cz
 0.0.0.0 angler.importexportgroupinc.com
 0.0.0.0 anglicanadr.com.br
 0.0.0.0 angree.indianmedicalsupply.org
@@ -6851,6 +6849,7 @@
 0.0.0.0 ard.sweetdiscreet.com
 0.0.0.0 ard.xxxblackbook.com
 0.0.0.0 ard.yahoo.co.jp
+0.0.0.0 area98.co.uk
 0.0.0.0 a.readerpot.xyz
 0.0.0.0 a.readerstate.com
 0.0.0.0 areadocliente.levelserver.com.br
@@ -7300,7 +7299,6 @@
 0.0.0.0 aushouseholdsurvey.com.au
 0.0.0.0 aus.laola1.tv
 0.0.0.0 ausloanscommercial.com.au
-0.0.0.0 auspice.augur.io
 0.0.0.0 aussiemigrationservices.com.au
 0.0.0.0 austasiafoods.com.au
 0.0.0.0 au.static.planet49.com
@@ -8181,6 +8179,7 @@
 0.0.0.0 bcq.aruh.ml
 0.0.0.0 bcrekah.atwebpages.com
 0.0.0.0 b.cultureprovider.com
+0.0.0.0 bd208.lutin.cz
 0.0.0.0 b.dataallstate.biz
 0.0.0.0 bdbox.hoxty.com
 0.0.0.0 bdcmagazine.co.uk
@@ -10023,7 +10022,6 @@
 0.0.0.0 cdn.atmdepot.com
 0.0.0.0 cdn.atomex.net
 0.0.0.0 cdna.tremormedia.com
-0.0.0.0 cdn.augur.io
 0.0.0.0 cdn.avmws.com
 0.0.0.0 cdn.b5m.cn
 0.0.0.0 cdn.banners.scubl.com
@@ -10617,7 +10615,6 @@
 0.0.0.0 c.il.msn.com
 0.0.0.0 cilohocltinkettle.coinetf.org
 0.0.0.0 ci.mb-sg.com
-0.0.0.0 c.imedia.cz
 0.0.0.0 cime.org.ar
 0.0.0.0 ci-mpsnare.iovation.com
 0.0.0.0 cims.com.np
@@ -12136,6 +12133,7 @@
 0.0.0.0 d1ey3fksimezm4.cloudfront.net
 0.0.0.0 d1fc8wv8zag5ca.cloudfront.net
 0.0.0.0 d1fo96xm8fci0r.cloudfront.net
+0.0.0.0 d1g3gvqfdsvkse.cloudfront.net
 0.0.0.0 d1gojtoka5qi10.cloudfront.net
 0.0.0.0 d1gp8joe0evc8s.cloudfront.net
 0.0.0.0 d1ivexoxmp59q7.cloudfront.net
@@ -12199,6 +12197,7 @@
 0.0.0.0 d2gt9oovykfp1z.cloudfront.net
 0.0.0.0 d2gtlljtkeiyzd.cloudfront.net
 0.0.0.0 d2gz6iop9uxobu.cloudfront.net
+0.0.0.0 d2ha22j8ys3e0o.cloudfront.net
 0.0.0.0 d2hap2bsh1k9lw.cloudfront.net
 0.0.0.0 d2mic0r0bo3i6z.cloudfront.net
 0.0.0.0 d2mq0uzafv8ytp.cloudfront.net
@@ -12226,6 +12225,7 @@
 0.0.0.0 d2xkqxdy6ewr93.cloudfront.net
 0.0.0.0 d2.xp922.com
 0.0.0.0 d2yhukq7vldf1u.cloudfront.net
+0.0.0.0 d2ymkpxi1rgldj.cloudfront.net
 0.0.0.0 d2z1smm3i01tnr.cloudfront.net
 0.0.0.0 d2zah9y47r7bi2.cloudfront.net
 0.0.0.0 d2.zw97.com
@@ -12245,6 +12245,7 @@
 0.0.0.0 d37h3y471q0lt2.cloudfront.net
 0.0.0.0 d37kzqe5knnh6t.cloudfront.net
 0.0.0.0 d3.800vod.com
+0.0.0.0 d38nbbai6u794i.cloudfront.net
 0.0.0.0 d38pxm3dmrdu6d.cloudfront.net
 0.0.0.0 d38r21vtgndgb1.cloudfront.net
 0.0.0.0 d39xqloz8t5a6x.cloudfront.net
@@ -12382,6 +12383,7 @@
 0.0.0.0 dancefuse.co.uk
 0.0.0.0 dance.rainharvestingdesign.com
 0.0.0.0 dancezonne.co.za
+0.0.0.0 dance.zp.ua
 0.0.0.0 dandaele.com.hk
 0.0.0.0 da.newstogram.com
 0.0.0.0 dan.fratean.ro
@@ -12622,6 +12624,7 @@
 0.0.0.0 dcs.plussizetech.com
 0.0.0.0 dcs.swiftnews.com
 0.0.0.0 dc.tremormedia.com
+0.0.0.0 dctsitation.bob.buttobi.net
 0.0.0.0 dd1006.kasserver.com
 0.0.0.0 d.dataallstate.biz
 0.0.0.0 ddd.crollon0.tk
@@ -13826,6 +13829,7 @@
 0.0.0.0 d.trymedia.com
 0.0.0.0 dt.sellpoint.net
 0.0.0.0 dtsrd.gov.cn
+0.0.0.0 dtt617kogtcso.cloudfront.net
 0.0.0.0 d.t.tailtarget.com
 0.0.0.0 dt.videohub2.tv
 0.0.0.0 dtwucw.net.a1traveldirect.co.uk
@@ -15926,7 +15930,6 @@
 0.0.0.0 fp108.digitaloptout.com
 0.0.0.0 fpcp.co.uk
 0.0.0.0 fp.creedy.hu
-0.0.0.0 fp.fraudmetrix.cn
 0.0.0.0 fpijjf.makeithappenin2014.com
 0.0.0.0 f.pinid.com
 0.0.0.0 fpjqk6.hiro.elsibbles.co.uk
@@ -16368,6 +16371,7 @@
 0.0.0.0 galataiplik.com.tr
 0.0.0.0 galaxyseating.co.uk
 0.0.0.0 galesalsur.com.ar
+0.0.0.0 g.alicdn.com
 0.0.0.0 galit-law.co.il
 0.0.0.0 galleries1.justcreampie.com
 0.0.0.0 galleries.abbydreams.com
@@ -17739,7 +17743,6 @@
 0.0.0.0 hiltoncastro.com.br
 0.0.0.0 himalref.com.np
 0.0.0.0 himcs.edu.in
-0.0.0.0 h.imedia.cz
 0.0.0.0 him.hindustanps.com
 0.0.0.0 himuro11.minibird.jp
 0.0.0.0 himwcw.gigy.gq
@@ -18349,7 +18352,6 @@
 0.0.0.0 ihsanacademy.org.uk
 0.0.0.0 ihservices.co.uk
 0.0.0.0 i.idownloadgalore.com
-0.0.0.0 i.imedia.cz
 0.0.0.0 i.interia.pl
 0.0.0.0 i.intro-biz.ru
 0.0.0.0 i.isohunt.to
@@ -20163,7 +20165,6 @@
 0.0.0.0 js7.clickzzs.nl
 0.0.0.0 js.ad.mediamond.it
 0.0.0.0 js.admngr.com
-0.0.0.0 js.ad-score.com
 0.0.0.0 jsads.sina.com.hk
 0.0.0.0 j.sahcdn.com
 0.0.0.0 js.aiya.com.cn
@@ -21875,6 +21876,7 @@
 0.0.0.0 m.adtc.daum.net
 0.0.0.0 m.adx.bg
 0.0.0.0 maetl.coretxt.net.nz
+0.0.0.0 magehosting.co.uk
 0.0.0.0 magicadigital.com.ar
 0.0.0.0 magicgloves.co.uk
 0.0.0.0 magicjacksupport.co.nr
@@ -22059,6 +22061,7 @@
 0.0.0.0 manuel.theonion.com
 0.0.0.0 manx.datengang.de
 0.0.0.0 man.zarca.org
+0.0.0.0 map2.ssl.hwcdn.net
 0.0.0.0 mapage.noos.fr
 0.0.0.0 maper.all-productz.com
 0.0.0.0 mapi.tapreason.com
@@ -23001,6 +23004,7 @@
 0.0.0.0 mir.okcdb.com
 0.0.0.0 mirror1.surf-town.net
 0.0.0.0 mirror.mirror-files.com
+0.0.0.0 mirstroyki.com.ua
 0.0.0.0 misif.org.my
 0.0.0.0 missaccs.com.ar
 0.0.0.0 miss.doctortoken.com
@@ -23990,6 +23994,7 @@
 0.0.0.0 njproducts.co.uk
 0.0.0.0 njump.youmobistein.com
 0.0.0.0 nkfreeukstore.co.uk
+0.0.0.0 nlazovic.mybesthost.com
 0.0.0.0 n.lcads.ru
 0.0.0.0 nlconsulateorlandoorg.siteprotect.net
 0.0.0.0 nl.count.worldstats.com
@@ -25873,6 +25878,7 @@
 0.0.0.0 palochusvet.szm.com
 0.0.0.0 pamedia.com.au
 0.0.0.0 panaceawellness.com.sg
+0.0.0.0 panaceya.nichost.ru
 0.0.0.0 panalette.alexchild.net
 0.0.0.0 panchanan.prv.pl
 0.0.0.0 pan.conanpartners.com
@@ -28947,7 +28953,6 @@
 0.0.0.0 rta.lifecountsllc.net
 0.0.0.0 rt.analytics.anvato.net
 0.0.0.0 rtb-ads.avazu.net
-0.0.0.0 rtb.metrigo.com
 0.0.0.0 rtb-pclick.secure.yahoo.com
 0.0.0.0 rtb.pclick.yahoo.com
 0.0.0.0 rtb.watchmedia.biz
@@ -29872,7 +29877,6 @@
 0.0.0.0 secure.adwebster.com
 0.0.0.0 secure.alwayspamela.com
 0.0.0.0 secure.asiansluttease.com
-0.0.0.0 secure.audienceinsights.net
 0.0.0.0 secure.avangate.com
 0.0.0.0 securebankofamerica.com.id34a8342d42f0ad67.colegionobel.com
 0.0.0.0 secure.bidvertiserr.com
@@ -30183,6 +30187,7 @@
 0.0.0.0 serv.tooplay.com
 0.0.0.0 serwer1374165.home.pl
 0.0.0.0 serwer1416594.home.pl
+0.0.0.0 serwer1650017.home.pl
 0.0.0.0 serwis-daro.com.pl
 0.0.0.0 sesame.com.au
 0.0.0.0 session.accesd.com-php-html-conf-5612-index-membre-accesd-desjardins.com
@@ -30255,7 +30260,6 @@
 0.0.0.0 sftrack.searchforce.net
 0.0.0.0 s.fxtimg.com
 0.0.0.0 sg.akamai.startappservice.com
-0.0.0.0 s.gateway.messenger.live.com
 0.0.0.0 sgcdn.duplomediaas.netdna-cdn.com
 0.0.0.0 s.getsmartcontent.com
 0.0.0.0 s.getspeedbrowserp.com
@@ -30385,6 +30389,7 @@
 0.0.0.0 shops.merea.se
 0.0.0.0 shop.stoehr-knitwear.com
 0.0.0.0 shop.studiodemariage.com
+0.0.0.0 shop.vixtro.com
 0.0.0.0 shopway.com.au
 0.0.0.0 shop.zisystech.com
 0.0.0.0 shop.zoomyoo.com
@@ -30552,6 +30557,7 @@
 0.0.0.0 site-line.com.ua
 0.0.0.0 site.mobile-evolution.net
 0.0.0.0 site.puritan.com
+0.0.0.0 siteriqi.bget.ru
 0.0.0.0 sites.alphakorgroup.com
 0.0.0.0 site.sawabj.com
 0.0.0.0 site.sitewithla.com
@@ -31104,6 +31110,7 @@
 0.0.0.0 sriitahfizdarululum.edu.my
 0.0.0.0 srijanexportstowelwarmers.co.uk
 0.0.0.0 srsvsgm.pe.hu
+0.0.0.0 srv02.dspinteractive.com
 0.0.0.0 srv12.hostserv.co.za
 0.0.0.0 srv18.xmediaserve.com
 0.0.0.0 srv1.hameonline.com
@@ -31396,7 +31403,6 @@
 0.0.0.0 static.appwatch.com
 0.0.0.0 static.ard.xxxblackbook.com
 0.0.0.0 static.atomload.at
-0.0.0.0 static.audienceinsights.net
 0.0.0.0 static.bannersbroker.com
 0.0.0.0 static.beintoo.com
 0.0.0.0 staticb.mydirtyhobby.com
@@ -34104,6 +34110,7 @@
 0.0.0.0 tz.jiguangie.com
 0.0.0.0 tzvfq6.flip.healingwellnesscounseling.com
 0.0.0.0 tzweb.999000.ru
+0.0.0.0 u0086064.cp.regruhosting.ru
 0.0.0.0 u0l6c.c2yop3.xyz
 0.0.0.0 u11.seoparts.net
 0.0.0.0 u17022.uvleda.ru
@@ -35934,6 +35941,7 @@
 0.0.0.0 wiki.digsby.com
 0.0.0.0 wiki.john-m-moore.com
 0.0.0.0 wiki.mc-server.org
+0.0.0.0 wikisecru.402.com1.ru
 0.0.0.0 wiklak.home.pl
 0.0.0.0 wildcard.cebufashion.com
 0.0.0.0 wildcard.universitelersporligi.org
@@ -36134,6 +36142,7 @@
 0.0.0.0 wp.kombinat-reklamowy.pl
 0.0.0.0 w.prize44.com
 0.0.0.0 wp.ssa-sd.org
+0.0.0.0 wp.sve-yurchenko.com
 0.0.0.0 wpwvhk.size.hammondalatasimages.com
 0.0.0.0 wp.zontown.com
 0.0.0.0 wqasmax.strefa.pl
@@ -37219,6 +37228,7 @@
 0.0.0.0 www.adultvideonews.com
 0.0.0.0 www.adultwebmasterempire.com
 0.0.0.0 www.advaliant.com
+0.0.0.0 www.advancedmaccleaner.com
 0.0.0.0 www.advancedwebpromotions.com
 0.0.0.0 www.advancepcguard.co.in
 0.0.0.0 www.adv.bdpcell.com
@@ -37839,7 +37849,6 @@
 0.0.0.0 www.auctionwhiz.com
 0.0.0.0 www.audacity.com.es
 0.0.0.0 www.audicanada.com
-0.0.0.0 www.audienceinsights.net
 0.0.0.0 www.audientia.com
 0.0.0.0 www.audileon.com.mx
 0.0.0.0 www.audio.davidsmuskokahomeentertainm.com
@@ -38704,6 +38713,7 @@
 0.0.0.0 www.cash4downloads.com
 0.0.0.0 www.cashback.co.uk
 0.0.0.0 www.cashbackwow.co.uk
+0.0.0.0 www.cashcapitalsystem.com
 0.0.0.0 www.cashdorado.de
 0.0.0.0 www.cash-duck.com
 0.0.0.0 www.cashfiesta.net
@@ -38785,6 +38795,7 @@
 0.0.0.0 www.ceco545.com.vn
 0.0.0.0 www.cegraufol.ebqjfdwzabgalzinj.cf
 0.0.0.0 www.ceiias.org.br
+0.0.0.0 www.ceisystems.it
 0.0.0.0 www.celeb-cafe.net
 0.0.0.0 www.celebnakedness.com
 0.0.0.0 www.celeb-post.net
@@ -43335,6 +43346,7 @@
 0.0.0.0 www.mo.polnavtomat.ml
 0.0.0.0 www.morally.de
 0.0.0.0 www.morethan21bends.com
+0.0.0.0 www.morettigioielleria.it
 0.0.0.0 www.morpheus-forum.de
 0.0.0.0 www.mortgagelion.co.uk
 0.0.0.0 www.morvaridclub.com
@@ -45345,6 +45357,7 @@
 0.0.0.0 www.seoservicesmumbai.co.in
 0.0.0.0 www.seotds.info
 0.0.0.0 www.seotrafficmonster.com
+0.0.0.0 www.seougostivar.mk
 0.0.0.0 www.sephie.110mb.com
 0.0.0.0 www.serciudadano.com.ar
 0.0.0.0 www.serendipitygiftsanddecor.com
@@ -45977,6 +45990,7 @@
 0.0.0.0 www.studio4d.webservis.ru
 0.0.0.0 www.studiochiarelli.eu
 0.0.0.0 www.studiodisc.com
+0.0.0.0 www.studio-leo.ru
 0.0.0.0 www.studioqapartments.com.au
 0.0.0.0 www.studyspace.com.sg
 0.0.0.0 www.stupid.co
@@ -47446,6 +47460,7 @@
 0.0.0.0 www.wwwgorving.com
 0.0.0.0 www.wwwjackpot.com
 0.0.0.0 www.wwwsexmovies.com
+0.0.0.0 www.www.www.freefuckbabes.com
 0.0.0.0 www.wxtpe.com
 0.0.0.0 www.wyroki.eu
 0.0.0.0 www.wysistat.com
