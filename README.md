@@ -1,16 +1,12 @@
-# Info
-This repository provides a host and domainname based blocklist for use with dnsmasq.
+# No Tracking, ADs or any other online garbage!
+This repository provides a host and domainname based blocklist specifically designed for use with dnsmasq (/pi-hole).
+Most entries are gathered from multiple, actively maintained sources and automatically updated, cleaned, optimized and moderated on a daily basis.
 
-Features:
- - Automatic daily updates from public block lists
- - Large set of custom entries
- - Optimized, cleaned and sorted
- - Actively maintained whitelists
+The optimizer makes full use of dnsmasqs capability to block entire domains such as *.doubleclick.net (domains.txt). This reduces the chance of missing any new subdomains and significantly reduces the size of the blocklists. Hostnames that cannot be blocked on a domain level will still be listed in a regular hostname based blocklist (hostnames.txt).
 
-Please note that these two lists should be used simultaniously in dnsmasq to get full coverage. The optimizer removes hostnames that are already covered by the domain based blocklist.
-Submit a ticket or pull request in case you find any incorrect or missing items.
+It is therefore important to use both these blocklists simultaniously to achieve full coverage against the contaminated parts of the internet.
 
-General policies:
+# General policies
  - Should not break useful websites or apps
  - Blocks tracking servers
  - Blocks advertising servers
@@ -19,19 +15,7 @@ General policies:
  - Blocks shock sites
  - Blocks malware servers
 
-# Install
-Download the following files:
- - https://raw.github.com/notracking/hosts-blocklists/master/hostnames.txt
- - https://raw.github.com/notracking/hosts-blocklists/master/domains.txt
-
-Add the following lines to your dnsmasq.conf:
- - conf-file=/path/to/domains.txt
- - addn-hosts=/path/to/hostnames.txt
-
-Restart dnsmasq:
- - sudo service dnsmasq restart
-
-# Public lists used:
+# Public lists that are used as source
  - http://winhelp2002.mvps.org/hosts.txt
  - http://www.malwaredomainlist.com/hostslist/hosts.txt
  - http://someonewhocares.org/hosts/hosts/
@@ -48,3 +32,25 @@ Restart dnsmasq:
  - https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
  - http://malwaredomains.lehigh.edu/files/BOOT
  - http://malwaredomains.lehigh.edu/files/immortal_domains.txt
+
+# How to install (pi-hole)
+Uncomment the following two lines in '/etc/pihole/adlist.default':
+ - https://raw.github.com/notracking/hosts-blocklists/master/hostnames.txt
+ - https://raw.github.com/notracking/hosts-blocklists/master/domains.txt
+
+Comment out any other list that is already included
+
+Update blocklists:
+ - pihole -g
+
+# How to install (dnsmasq)
+Download the following two files:
+ - https://raw.github.com/notracking/hosts-blocklists/master/hostnames.txt
+ - https://raw.github.com/notracking/hosts-blocklists/master/domains.txt
+
+Add the following lines to your dnsmasq.conf:
+ - conf-file=/path/to/domains.txt
+ - addn-hosts=/path/to/hostnames.txt
+
+Restart dnsmasq:
+ - sudo service dnsmasq restart
