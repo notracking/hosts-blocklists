@@ -1,10 +1,10 @@
-# No Tracking, ADs or any other online garbage!
+# No more ads, tracking or any other types of online garbage
 This repository provides a host and domainname based blocklist specifically designed for use with dnsmasq (/pi-hole).
 Most entries are gathered from multiple, actively maintained sources and automatically updated, cleaned, optimized and moderated on a daily basis.
 
-The optimizer makes full use of dnsmasqs capability to block entire domains such as *.doubleclick.net (domains.txt). This reduces the chance of missing any new subdomains and significantly reduces the size of the blocklists. Hostnames that cannot be blocked on a domain level will still be listed in a regular hostname based blocklist (hostnames.txt).
+The optimizer makes full use of dnsmasqs capability to block entire domains such as *.doubleclick.net ([domains.txt](ttps://raw.github.com/notracking/hosts-blocklists/master/domains.txt)). This reduces the chance of missing any new subdomains and significantly reduces the size of the blocklists. Hostnames that cannot be blocked on a domain level will still be listed in a regular hostname based blocklist ([hostnames.txt](ttps://raw.github.com/notracking/hosts-blocklists/master/hostnames.txt)).
 
-It's important to use both these blocklists simultaniously to get full coverage against the contaminated parts of the internet!
+It's important to use both these blocklists simultaniously to get full coverage against the contaminated parts of the internet.
 
 ## General policies
  - Should not break useful websites or apps
