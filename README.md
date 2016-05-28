@@ -22,9 +22,9 @@ It's important to use both these blocklists simultaniously to get full coverage 
  - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
  - https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
  - http://hosts-file.net/ad_servers.txt
- - ~~http://hosts-file.net/emd.txt~~ removed: Too many false calls
+ - ~~http://hosts-file.net/emd.txt~~ `removed: too many false calls`
  - http://hosts-file.net/exp.txt
- - ~~http://hosts-file.net/fsa.txt~~ removed: Too many false calls
+ - ~~http://hosts-file.net/fsa.txt~~ `removed: too many false calls`
  - http://hosts-file.net/mmt.txt
  - http://pgl.yoyo.org/as/serverlist.php?hostformat=hosts
  - https://raw.github.com/StevenBlack/hosts/master/hosts
