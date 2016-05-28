@@ -12,7 +12,6 @@ It's important to use both these blocklists simultaniously to get full coverage 
  - Blocks advertising servers
  - Blocks analytics servers
  - Blocks fake websites
- - Blocks shock sites
  - Blocks malware servers
 
 ## Public lists that are used as source
