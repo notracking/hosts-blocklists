@@ -4,7 +4,7 @@ Most entries are gathered from multiple, actively maintained sources and automat
 
 The optimizer makes full use of dnsmasqs capability to block entire domains such as *.doubleclick.net (domains.txt). This reduces the chance of missing any new subdomains and significantly reduces the size of the blocklists. Hostnames that cannot be blocked on a domain level will still be listed in a regular hostname based blocklist (hostnames.txt).
 
-It is therefore important to use both these blocklists simultaniously to achieve full coverage against the contaminated parts of the internet.
+It's important to use both these blocklists simultaniously to get full coverage against the contaminated parts of the internet!
 
 ## General policies
  - Should not break useful websites or apps
@@ -22,9 +22,9 @@ It is therefore important to use both these blocklists simultaniously to achieve
  - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
  - https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
  - http://hosts-file.net/ad_servers.txt
- - http://hosts-file.net/emd.txt
+ - ~~http://hosts-file.net/emd.txt~~ removed: Too many false calls
  - http://hosts-file.net/exp.txt
- - http://hosts-file.net/fsa.txt
+ - ~~http://hosts-file.net/fsa.txt~~ removed: Too many false calls
  - http://hosts-file.net/mmt.txt
  - http://pgl.yoyo.org/as/serverlist.php?hostformat=hosts
  - https://raw.github.com/StevenBlack/hosts/master/hosts
@@ -43,7 +43,7 @@ https://raw.github.com/notracking/hosts-blocklists/master/domains.txt
  - Comment out any other list that is already [included](#public-lists-that-are-used-as-source)
  - Update blocklists with `pihole -g`
 
-## For any other dnsmasq setups
+## For any other dnsmasq setup
  - Download the following two files
 ```
 https://raw.github.com/notracking/hosts-blocklists/master/hostnames.txt
