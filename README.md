@@ -1,4 +1,4 @@
-# No more ads, tracking and other online garbage
+# No more ads, tracking and other virtual garbage
 This repository provides a host and domainname based blocklist specifically designed for use with dnsmasq (/pi-hole).
 Most entries are gathered from multiple, actively maintained sources and automatically updated, cleaned, optimized and moderated on a daily basis.
 
@@ -31,6 +31,7 @@ It's important to use both these blocklists simultaniously to get full coverage 
  - https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
  - http://malwaredomains.lehigh.edu/files/BOOT
  - http://malwaredomains.lehigh.edu/files/immortal_domains.txt
+ - + a large set of custom entries!
 
 # How to install
 ## For a pi-hole setup
