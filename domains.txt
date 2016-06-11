@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Jun 10 07:49:23 CEST 2016
-# Number of unique domains: 42473
+# Last update: Sat Jun 11 07:50:17 CEST 2016
+# Number of unique domains: 42479
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -818,6 +818,7 @@ address=/9virgins.com/0.0.0.0
 address=/a1armyofone.com/0.0.0.0
 address=/a1hacks.com/0.0.0.0
 address=/a1tireandservices.com/0.0.0.0
+address=/a1webstats.com/0.0.0.0
 address=/a2dfp.net/0.0.0.0
 address=/a2pub.com/0.0.0.0
 address=/a2zb.com/0.0.0.0
@@ -1671,6 +1672,7 @@ address=/adplxmd.com/0.0.0.0
 address=/adpowerzone.com/0.0.0.0
 address=/adppv.com/0.0.0.0
 address=/adprimemedia.com/0.0.0.0
+address=/adprimemedia.net/0.0.0.0
 address=/adprofile.net/0.0.0.0
 address=/adprofs.com/0.0.0.0
 address=/adproject.net/0.0.0.0
@@ -1689,6 +1691,7 @@ address=/adrank.net/0.0.0.0
 address=/adrazzi.com/0.0.0.0
 address=/adreactor.com/0.0.0.0
 address=/adready.com/0.0.0.0
+address=/adready.info/0.0.0.0
 address=/adready.net/0.0.0.0
 address=/adreadytractions.com/0.0.0.0
 address=/adreaveningmanagment.com/0.0.0.0
@@ -1881,6 +1884,7 @@ address=/adsponse.de/0.0.0.0
 address=/ad-sponsor.com/0.0.0.0
 address=/adsppperv.com/0.0.0.0
 address=/adspserving.com/0.0.0.0
+address=/adspsp.com/0.0.0.0
 address=/adspynet.com/0.0.0.0
 address=/adsremote.scrippsnetwork.com/0.0.0.0
 address=/adsremote.scrippsnetworks.com/0.0.0.0
@@ -34150,6 +34154,8 @@ address=/rer-biomass.com/0.0.0.0
 address=/resanium.com/0.0.0.0
 address=/rescue7.net/0.0.0.0
 address=/rescuemalware.com/0.0.0.0
+address=/researchad.com/0.0.0.0
+address=/researchad.net/0.0.0.0
 address=/research-artisan.com/0.0.0.0
 address=/researchfocuses.com/0.0.0.0
 address=/research-int.com/0.0.0.0
