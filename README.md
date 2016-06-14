@@ -37,8 +37,8 @@ It's important to use both these blocklists simultaniously to get full coverage 
 ## For a pi-hole setup
  - Uncomment the following two lines in `/etc/pihole/adlist.default`
 ```
-https://raw.github.com/notracking/hosts-blocklists/master/hostnames.txt
-https://raw.github.com/notracking/hosts-blocklists/master/domains.txt
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
 ```
  - Comment out any other list that is already [included](#public-lists-that-are-used-as-source)
  - Update blocklists with `pihole -g`
@@ -46,8 +46,8 @@ https://raw.github.com/notracking/hosts-blocklists/master/domains.txt
 ## For any other dnsmasq setup
  - Download the following two files
 ```
-https://raw.github.com/notracking/hosts-blocklists/master/hostnames.txt
-https://raw.github.com/notracking/hosts-blocklists/master/domains.txt
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
 ```
  - Add the following lines to your dnsmasq.conf
 ```
