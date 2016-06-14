@@ -34,8 +34,9 @@ It's important to use both these blocklists simultaniously to get full coverage 
  - + a large set of custom entries!
 
 # How to install
-## For a pi-hole setup
- - Uncomment the following two lines in `/etc/pihole/adlist.default`
+ - run `cp /etc/pihole/adlists.default /etc/pihole/adlists.list`
+ - run `nano /etc/pihole/adlists.list` 
+ - Uncomment the following two lines in `/etc/pihole/adlists.list`
 ```
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
