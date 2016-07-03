@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Jul 2 07:49:48 CEST 2016
-# Number of unique hostnames: 27401
+# Last update: Sun Jul 3 07:50:34 CEST 2016
+# Number of unique hostnames: 27414
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -1087,6 +1087,7 @@
 0.0.0.0 add.oliveandemerald.com
 0.0.0.0 ad.domainfactory.de
 0.0.0.0 ad.donanimhaber.com
+0.0.0.0 ad.download.cnet.com
 0.0.0.0 ad.download.net
 0.0.0.0 add.providencegalleryandframes.com
 0.0.0.0 add.quantum-marketing-quickies.net
@@ -1265,6 +1266,7 @@
 0.0.0.0 adimg.alice.it
 0.0.0.0 adimg.bnet.com
 0.0.0.0 adimg.chow.com
+0.0.0.0 adimg.cnet.com
 0.0.0.0 adimg.com.com
 0.0.0.0 adimg.download.com
 0.0.0.0 adimg.egroups.com
@@ -1294,6 +1296,7 @@
 0.0.0.0 ad.inmuiads.info
 0.0.0.0 ad.inpizdads.info
 0.0.0.0 ad.inpulds.info
+0.0.0.0 adinterax.cnet.com.edgesuite.net
 0.0.0.0 ad.internetradioinc.com
 0.0.0.0 ad.intsig.net
 0.0.0.0 ad.investopedia.com
@@ -2099,6 +2102,7 @@
 0.0.0.0 ads.cluster01.oasis.zmh.zope.net
 0.0.0.0 ads.cmediaworld.com
 0.0.0.0 ads.cnbc.com
+0.0.0.0 ads.cnet.com
 0.0.0.0 ads.cnn.com
 0.0.0.0 ads.cnngo.com
 0.0.0.0 ads.cnpapers.com
@@ -9218,6 +9222,7 @@
 0.0.0.0 ct4dzr.boro.katsujinken.co.uk
 0.0.0.0 ctboucherie.com.br
 0.0.0.0 ct.buzzfeed.com
+0.0.0.0 ct.cnet-ssa.cnet.com
 0.0.0.0 ct.eid.co.nz
 0.0.0.0 c.teromil.com
 0.0.0.0 c.thanksearch.com
@@ -10414,6 +10419,7 @@
 0.0.0.0 dw.cbsi.com
 0.0.0.0 dw.cbsi.com.cn
 0.0.0.0 dw.cbsimg.net
+0.0.0.0 dw.cnet.com
 0.0.0.0 dw.com.com
 0.0.0.0 dwellersheritage.advancementconsultants.com
 0.0.0.0 dw-eu.com.com
@@ -12110,7 +12116,6 @@
 0.0.0.0 get-back-now.atwebpages.com
 0.0.0.0 get-back-ur-id-fb.atwebpages.com
 0.0.0.0 getbarometer.s3.amazonaws.com
-0.0.0.0 getboating.com.au
 0.0.0.0 getcarisoprodol.polybuild.ru
 0.0.0.0 get.designrainwater.com
 0.0.0.0 getdetails02.sim-technik.de
@@ -12380,6 +12385,8 @@
 0.0.0.0 granturismo.console2pc.info
 0.0.0.0 granular.matorral.cl
 0.0.0.0 graonoponto.com.br
+0.0.0.0 graph.facebook.com
+0.0.0.0 graph.facebook.net
 0.0.0.0 graphics7.nytimes.com
 0.0.0.0 graphics8.nytimes.m7z.net
 0.0.0.0 graphics.cams.com
@@ -15039,6 +15046,7 @@
 0.0.0.0 mads.cbs.com
 0.0.0.0 mads.cbsnews.com
 0.0.0.0 mads.chow.com
+0.0.0.0 mads.cnet.com
 0.0.0.0 mads.cnettv.com
 0.0.0.0 mads.com.com
 0.0.0.0 mads.dailymail.co.uk
@@ -15504,6 +15512,7 @@
 0.0.0.0 merchandising.mirage.it
 0.0.0.0 merchant.myofferpal.com
 0.0.0.0 merchant.wgiftcard.com
+0.0.0.0 mercury.jd.com
 0.0.0.0 mercury.tiser.com.au
 0.0.0.0 meregivo.com.ua
 0.0.0.0 meridiameridia.3xforum.ro
@@ -16391,6 +16400,7 @@
 0.0.0.0 nettpost.mchecc.com
 0.0.0.0 netwan.inf.br
 0.0.0.0 netweather.accuweather.com
+0.0.0.0 netwebb.gslb.monster.com
 0.0.0.0 network2.aufeminin.com
 0.0.0.0 network-a.bazaarvoice.com
 0.0.0.0 network.adbullion.com
@@ -19435,6 +19445,8 @@
 0.0.0.0 rembourssement-impots.gouv.fr.autoresponsi.com
 0.0.0.0 reminder-page.at.ua
 0.0.0.0 remission.tv.gg
+0.0.0.0 remotead.cnet.com
+0.0.0.0 remotead-internal.cnet.com
 0.0.0.0 rem.rezonmedia.eu
 0.0.0.0 rem-track.bild.de
 0.0.0.0 renaiolo.ch.vtxhosting.ch
@@ -21933,6 +21945,7 @@
 0.0.0.0 survey.china.alibaba.com
 0.0.0.0 survey.com-annualsurvey.info
 0.0.0.0 survey.interquest.com
+0.0.0.0 surveys.cnet.com
 0.0.0.0 survey.watson.microsoft.com
 0.0.0.0 survive.masterwatertanks.com
 0.0.0.0 survivor.thats.im
@@ -22027,6 +22040,7 @@
 0.0.0.0 syndication.streamads.yahoo.com
 0.0.0.0 syndication.teleborsa.it
 0.0.0.0 syndication.theguardian.com
+0.0.0.0 syndication.twitter.com
 0.0.0.0 syndication.universalnightlife.com
 0.0.0.0 syndication.visualthesaurus.com
 0.0.0.0 syndication.voodoo.com
@@ -25507,7 +25521,6 @@
 0.0.0.0 www.dowdenphotography.com
 0.0.0.0 www.down1oads.com
 0.0.0.0 www.downassbitches.com
-0.0.0.0 www.download.com
 0.0.0.0 www.downloaddirect.com
 0.0.0.0 www.downloadnowstart.com
 0.0.0.0 www.downloadseden.com
