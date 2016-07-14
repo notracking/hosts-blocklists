@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Jul 13 08:03:02 CEST 2016
-# Number of unique domains: 43744
+# Last update: Thu Jul 14 07:50:29 CEST 2016
+# Number of unique domains: 43745
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -6595,6 +6595,7 @@ address=/canadaalltax.com/0.0.0.0
 address=/canadabanner.com/0.0.0.0
 address=/canadabook.ca/0.0.0.0
 address=/canada-drug-center.com/0.0.0.0
+address=/canadasfamilyoffice.com/0.0.0.0
 address=/canadattparts.com/0.0.0.0
 address=/canadian-hq-pharmacy.com/0.0.0.0
 address=/canadian-medsonline.com/0.0.0.0
@@ -10370,7 +10371,6 @@ address=/dominionbuilder.com/0.0.0.0
 address=/dominoad.com/0.0.0.0
 address=/dominoziele.pw/0.0.0.0
 address=/domin-plin.hr/0.0.0.0
-address=/dom-marzen.eu/0.0.0.0
 address=/dom-milidom.co.rs/0.0.0.0
 address=/dom-monster-portal.ru/0.0.0.0
 address=/domusre.com/0.0.0.0
@@ -36926,6 +36926,7 @@ address=/shopesingl.net/0.0.0.0
 address=/shopesingl.org/0.0.0.0
 address=/shopexplorer.com/0.0.0.0
 address=/shopforgood.com/0.0.0.0
+address=/shoplov.in/0.0.0.0
 address=/shopmyhabitat.com/0.0.0.0
 address=/shopparka.com/0.0.0.0
 address=/shopperholic.in/0.0.0.0
