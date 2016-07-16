@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Jul 15 07:50:44 CEST 2016
-# Number of unique domains: 43743
+# Last update: Sat Jul 16 07:49:29 CEST 2016
+# Number of unique domains: 43745
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -1296,6 +1296,7 @@ address=/adbuyer.com/0.0.0.0
 address=/adcade.com/0.0.0.0
 address=/adcamp.ru/0.0.0.0
 address=/adcanadian.com/0.0.0.0
+address=/adcarem.co/0.0.0.0
 address=/adcash.com/0.0.0.0
 address=/adcastplus.net/0.0.0.0
 address=/adcdnx.com/0.0.0.0
@@ -2206,6 +2207,7 @@ address=/advolution.de/0.0.0.0
 address=/advombat.ru/0.0.0.0
 address=/advplace.com/0.0.0.0
 address=/adv-plus.com/0.0.0.0
+address=/advserver.xyz/0.0.0.0
 address=/advspot.com/0.0.0.0
 address=/advzilla.com/0.0.0.0
 address=/adware-guard.com/0.0.0.0
