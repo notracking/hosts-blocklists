@@ -35,15 +35,8 @@ It's important to use both these blocklists simultaniously to get full coverage 
 
 # How to install
 ## For a pi-hole setup
- - run `cp /etc/pihole/adlists.default /etc/pihole/adlists.list`
- - run `nano /etc/pihole/adlists.list` 
- - Uncomment the following two lines in `/etc/pihole/adlists.list`
-```
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
-```
- - Comment out any other list that is already [included](#public-lists-that-are-used-as-source)
- - Update blocklists with `pihole -g`
+Unfortunately pi-hole currently does not provide an easy way to use dnsmasqs 'addn-hosts' feature, making the key feature of this blocklist useless, see [this post](https://www.reddit.com/r/pihole/comments/4rn1b6/are_wildcards_a_thing/d52spwi) for more info.
+At this moment it is recommended to set up you own dnsmasq configuration to make use of these blocklists.
 
 ## For any other dnsmasq setup
  - Download the following two files
