@@ -35,8 +35,8 @@ It's important to use both these blocklists simultaniously to get full coverage 
 
 # How to install
 ## For a pi-hole setup
-Unfortunately pi-hole currently does not provide an easy way to use dnsmasqs 'addn-hosts' feature, making the key feature of this blocklist useless, see [this post](https://www.reddit.com/r/pihole/comments/4rn1b6/are_wildcards_a_thing/d52spwi) for more info.
-At this moment it is recommended to set up you own dnsmasq configuration to make use of these blocklists.
+Unfortunately pi-hole currently does not provide an easy way to use dnsmasqs 'conf-file' feature, making the key feature of this blocklist (blocking domains) useless, see [this post](https://www.reddit.com/r/pihole/comments/4rn1b6/are_wildcards_a_thing/d52spwi) for more info.
+At this moment it is recommended to set up you own dnsmasq configuration to make full use of these blocklists.
 
 ## For any other dnsmasq setup
  - Download the following two files
