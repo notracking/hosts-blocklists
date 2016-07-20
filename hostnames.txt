@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Jul 19 07:49:05 CEST 2016
-# Number of unique hostnames: 27235
+# Last update: Wed Jul 20 07:50:14 CEST 2016
+# Number of unique hostnames: 27233
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3922,7 +3922,6 @@
 0.0.0.0 ads.unixathome.org
 0.0.0.0 ads.unlimitedbanners.com
 0.0.0.0 ads.uol.com.ar
-0.0.0.0 ads.update.com
 0.0.0.0 ad.suprnova.org
 0.0.0.0 ads.uptobox.com
 0.0.0.0 ads.up-value.de
@@ -7792,6 +7791,7 @@
 0.0.0.0 cdn.firstimpression.io
 0.0.0.0 cdn.freefacti.com
 0.0.0.0 cdn.freefaits.com
+0.0.0.0 cdn.freefarcy.com
 0.0.0.0 cdn.ftdownloader.net
 0.0.0.0 cdn.funnel.naturaltracking.com
 0.0.0.0 cdn.gameadvert.com
@@ -10498,6 +10498,7 @@
 0.0.0.0 eco.buydrugtests.org
 0.0.0.0 ecocenter.com.ve
 0.0.0.0 eco.goldgramsandcash.net
+0.0.0.0 ecomcbjs.jomodns.com
 0.0.0.0 eco.mgbowl.com
 0.0.0.0 ecommerceday.com.ve
 0.0.0.0 ecommstats.s3.amazonaws.com
@@ -11722,7 +11723,6 @@
 0.0.0.0 fromthebootleofmy.hopto.org
 0.0.0.0 front.adproved.net
 0.0.0.0 frontend-loadbalancer.meteorsolutions.com
-0.0.0.0 front.facetz.net
 0.0.0.0 frontpage-stats.rbl.ms
 0.0.0.0 fr.slidein.clickintext.net
 0.0.0.0 fr.static.planet49.com
@@ -12740,7 +12740,6 @@
 0.0.0.0 hitx.statistics.ro
 0.0.0.0 hitx.waudit.cz
 0.0.0.0 hjchung.myweb.hinet.net
-0.0.0.0 hj.flxpxl.com
 0.0.0.0 hjtugfs.4everhappyhour.com
 0.0.0.0 hkhc-shop.lms.hk
 0.0.0.0 hkrsp.eaxtiger.top
@@ -13721,7 +13720,6 @@
 0.0.0.0 jewelryincandlescomplg-wxhost.netdna-ssl.com
 0.0.0.0 jf4bl.thaistocktimes.com
 0.0.0.0 jfcsolucoestecnologicas.com.br
-0.0.0.0 j.flxpxl.com
 0.0.0.0 jf.revolvermaps.com
 0.0.0.0 jgedads.cjt.net
 0.0.0.0 jg.hack-inter.net
@@ -18177,7 +18175,6 @@
 0.0.0.0 piwik.onlinemagasinet.no
 0.0.0.0 piwik.pokerlistings.com
 0.0.0.0 piwik.redtube.com
-0.0.0.0 pix3.esm1.net
 0.0.0.0 pix.bit.ly
 0.0.0.0 pixel.1und1.de
 0.0.0.0 pixel3.about.com
@@ -18819,6 +18816,7 @@
 0.0.0.0 pubs.mgn.net
 0.0.0.0 pub.sponsorselect.com
 0.0.0.0 pub.sv2.biz
+0.0.0.0 pubs.xl.pt
 0.0.0.0 pub.telecharger.com
 0.0.0.0 pub.weatherbug.com
 0.0.0.0 pub.web.sapo.io
