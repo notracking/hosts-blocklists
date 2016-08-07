@@ -15,6 +15,7 @@ It's important to use both these blocklists simultaniously to get full coverage 
  - Blocks malware servers
 
 ## Public lists that are used as source
+**Domain and hostname lists**
  - http://winhelp2002.mvps.org/hosts.txt
  - http://www.malwaredomainlist.com/hostslist/hosts.txt
  - http://someonewhocares.org/hosts/hosts/
@@ -31,7 +32,21 @@ It's important to use both these blocklists simultaniously to get full coverage 
  - https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
  - http://malwaredomains.lehigh.edu/files/BOOT
  - http://malwaredomains.lehigh.edu/files/immortal_domains.txt
- - + a large set of custom entries!
+ - a large set of custom entries!
+  
+**Adblock Plus lists** (only full hostname, non-3rd party filters)
+ - https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt
+ - https://www.fanboy.co.nz/enhancedstats.txt
+ - https://easylist-downloads.adblockplus.org/easylist.txt
+ - https://easylist-downloads.adblockplus.org/easylistchina.txt
+ - https://easylist-downloads.adblockplus.org/easylistdutch.txt
+ - https://easylist-downloads.adblockplus.org/easylistgermany.txt
+ - https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock.txt
+ - https://easylist-downloads.adblockplus.org/easylistspanish.txt
+ - https://easylist-downloads.adblockplus.org/liste_fr.txt
+ - https://easylist-downloads.adblockplus.org/easylistitaly.txt
+ - https://www.void.gr/kargig/void-gr-filters.txt
+ - https://raw.githubusercontent.com/k2jp/abp-japanese-filters/master/abpjf.txt
 
 # How to install
 ## For a pi-hole setup
