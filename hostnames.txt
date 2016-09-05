@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Sep 4 08:20:21 CEST 2016
-# Number of unique hostnames: 25694
+# Last update: Mon Sep 5 08:14:35 CEST 2016
+# Number of unique hostnames: 25695
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -978,6 +978,7 @@
 0.0.0.0 adbot.theonion.com
 0.0.0.0 adbox.beweb.com
 0.0.0.0 adbox.inbox-online.com
+0.0.0.0 adbox.sina.com.cn
 0.0.0.0 ad.brainbuzz.com
 0.0.0.0 ad.brainer.jp
 0.0.0.0 ad.broadstreetads.com
