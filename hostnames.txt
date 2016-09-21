@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Sep 20 08:25:08 CEST 2016
-# Number of unique hostnames: 25215
+# Last update: Wed Sep 21 08:03:30 CEST 2016
+# Number of unique hostnames: 25290
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -58,8 +58,12 @@
 0.0.0.0 100023.live173.com
 0.0.0.0 100.admin5.com
 0.0.0.0 104231.dtiblog.com
+0.0.0.0 108.61.165.54
 0.0.0.0 109070-deutschland-gast-angabe-nachweis.sicherheitshilfe-sicherheitssystem.tk
+0.0.0.0 109.203.100.122
 0.0.0.0 109-204-26-16.netconnexion.managedbroadband.co.uk
+0.0.0.0 109.230.199.54
+0.0.0.0 109.248.250.220
 0.0.0.0 1097834592.rsc.cdn77.org
 0.0.0.0 10.im.cz
 0.0.0.0 10pg.scl5fyd.info
@@ -84,9 +88,12 @@
 0.0.0.0 1278725189.pub.ezanga.com
 0.0.0.0 12bmkg.est.northerndishedends.com
 0.0.0.0 1347a8386f71e943.applecontactsq.xyz
+0.0.0.0 137.74.174.36
 0.0.0.0 13duyfzvxbqncjq1co9whwj.hmip.net
+0.0.0.0 141.105.71.73
 0.0.0.0 145639-4902.link.iwanttodeliver.com
 0.0.0.0 14713804a.l2m.net
+0.0.0.0 149.202.91.58
 0.0.0.0 1493361689.rsc.cdn77.org
 0.0.0.0 149fmh.iudasitebuildng.org
 0.0.0.0 149whc.lol.airporttaxipershore.co.uk
@@ -95,13 +102,29 @@
 0.0.0.0 1524001641.rsc.cdn77.org
 0.0.0.0 156166-de-storno-sicherheit-konto_identity.vorbeugung-sicher.gq
 0.0.0.0 15817.facebook.profilephdid.com
+0.0.0.0 158.69.115.114
 0.0.0.0 160x600.exad.me
 0.0.0.0 163.wrating.com
+0.0.0.0 166.78.109.152
 0.0.0.0 1696908298.rsc.cdn77.org
+0.0.0.0 173.233.77.122
+0.0.0.0 173.243.112.182
+0.0.0.0 173.247.235.36
 0.0.0.0 17567525724242400047ss7844577id40004546465465340522.cufflaw.com
+0.0.0.0 178.217.186.27
+0.0.0.0 185.13.38.130
+0.0.0.0 185.35.138.22
+0.0.0.0 185.56.80.67
+0.0.0.0 185.77.128.102
+0.0.0.0 185.81.158.164
+0.0.0.0 185.99.133.163
 0.0.0.0 1866809.securefastserver.com
 0.0.0.0 1901.nordstrom.com
+0.0.0.0 191.101.251.131
+0.0.0.0 192.169.82.254
+0.0.0.0 192.185.166.31
 0.0.0.0 1962lawiah.esy.es
+0.0.0.0 198.16.89.28
 0.0.0.0 1.activedriver.com
 0.0.0.0 1app.blob.core.windows.net
 0.0.0.0 1.che-ka.com
@@ -127,16 +150,20 @@
 0.0.0.0 1w8awv.angell.vantagetennis.co.uk
 0.0.0.0 1wzv1h.4.fourcrossesinn.com
 0.0.0.0 2006mindfreaklike.blogspot.com
+0.0.0.0 200.74.240.117
 0.0.0.0 206938-deu-prob-mitteilung-benutzer.vorbeugung-sicher.gq
 0.0.0.0 207-87-18-203.wsmg.digex.net
+0.0.0.0 209.133.221.62
 0.0.0.0 20996-1061.link.iwanttodeliver.com
 0.0.0.0 210237148191.cidr.jtidc.jp
 0.0.0.0 212489.debttowealthtoday.com
+0.0.0.0 2.155.245.7
 0.0.0.0 219-inteligen.biglovelygold.com
 0.0.0.0 21v6m.realsecuredredirect.com
 0.0.0.0 222-33544_999.pub.adfirmative.com
 0.0.0.0 222511-deutschland-verbraucher-angabe-validierung.sicherheitsabwehr-personal.gq
 0.0.0.0 22.duote.org
+0.0.0.0 23.227.199.175
 0.0.0.0 234.adru.net
 0.0.0.0 234x120.adv.vz.ru
 0.0.0.0 23gntj.blow.howtobelean.co.uk
@@ -177,6 +204,7 @@
 0.0.0.0 2yx42a.hightiudosbuld.net
 0.0.0.0 2zdhoh.koll.pershoreairporttransfers.co.uk
 0.0.0.0 30280827a.l2m.net
+0.0.0.0 31.192.105.24
 0.0.0.0 312.1d27c9b8fb.com
 0.0.0.0 31dea6.koll.pershoreairporttransfers.co.uk
 0.0.0.0 332818-de-prob-sicherheit-validierung.sicherheitshilfe-schutz.ml
@@ -191,6 +219,7 @@
 0.0.0.0 36crdj.most.bingeeater.co.uk
 0.0.0.0 36qvh6.size.hammondalatasimages.com
 0.0.0.0 373082.livecity.me
+0.0.0.0 37.48.125.119
 0.0.0.0 37yvzy.cyber.24hwebsport.co.uk
 0.0.0.0 380.bu2z.com
 0.0.0.0 380.hotpix.fr
@@ -234,8 +263,10 @@
 0.0.0.0 445600-deutschland-verbraucher-sicher-nachweis.newsafe-trade.com
 0.0.0.0 44jw8s.cdn.healing-wellness-counseling.com
 0.0.0.0 452-iq.hotdietsuperforms.com
+0.0.0.0 45.56.77.181
 0.0.0.0 45j4vg.hiro.elsibbles.co.uk
 0.0.0.0 461073-deu-gast-sicherheit-benutzer.sicherheitshilfe-sicherheitssystem.cf
+0.0.0.0 46.183.216.184
 0.0.0.0 465663-deutschland-nutzung-sicher-benutzer.sicher-vorbeugung.tk
 0.0.0.0 470032-de-gast-sicher-validierung.trade-verification-lite.com
 0.0.0.0 480191-deutschland-storno-kenntnis-validierung.vorbeugung-schutz.ml
@@ -285,6 +316,8 @@
 0.0.0.0 4yy56z.person.a1travelpershore.co.uk
 0.0.0.0 50efa6486f1ef.skydivesolutions.be
 0.0.0.0 51156434.swh.strato-hosting.eu
+0.0.0.0 5.196.199.229
+0.0.0.0 5.196.249.163
 0.0.0.0 51friend.anytome.com
 0.0.0.0 51gevy.gb.londondampproofer.co.uk
 0.0.0.0 521073--verbraucher-mitteilung-account.sicher-vorbeugung.tk
@@ -346,6 +379,7 @@
 0.0.0.0 6159.genieessp.com
 0.0.0.0 6165.rapidforum.com
 0.0.0.0 625491-deu-verbraucher-sicherheit-account.paypaldevelopment-system.top
+0.0.0.0 62faimi2fjkm.az.pl
 0.0.0.0 62wtqm.est.northerndishedends.com
 0.0.0.0 62ycbu.hear.angelldesign.co.uk
 0.0.0.0 6322.web-stats.org
@@ -356,6 +390,7 @@
 0.0.0.0 66573d.points.rapcitymayhem.net
 0.0.0.0 66w5dv.boro.katsujinken.co.uk
 0.0.0.0 686-inteligen.fastsgoodforms.com
+0.0.0.0 68.71.49.5
 0.0.0.0 696291--verbraucher-sicherheit-account.sicherheitsabfrage-sicher.gq
 0.0.0.0 6.bbnface.com
 0.0.0.0 6.bbnfaces.net
@@ -397,6 +432,7 @@
 0.0.0.0 774982-de-verbraucher-sicherheit-konto_identity.vorbeugung-sicher.gq
 0.0.0.0 7765817.facebook.profilephdid.com
 0.0.0.0 77tzz.win.adsservingtwig.xyz
+0.0.0.0 78.47.198.134
 0.0.0.0 79423.analytics.edgesuite.net
 0.0.0.0 79xh5d.air.airporttaxievesham.co.uk
 0.0.0.0 7bp5g7.boss.northerndishedends.uk
@@ -419,11 +455,14 @@
 0.0.0.0 7xsf3h.com1.z0.glb.clouddn.com
 0.0.0.0 801.tianyaui.com
 0.0.0.0 804460-germany-verbraucher-mitteilung-konto_identity.sicher-vorbeugung.tk
+0.0.0.0 80.88.89.222
 0.0.0.0 814988-deutschland-verbraucher-sicher-konto-identity.sicherheitsabwehr-pro.cf
 0.0.0.0 82jt1if.dekkora.com
 0.0.0.0 82uswb.angell.vantagetennis.co.uk
 0.0.0.0 835gfj.angell.vantagetennis.co.uk
 0.0.0.0 83xhco.angell.vantagetennis.co.uk
+0.0.0.0 85.143.219.89
+0.0.0.0 86.105.18.11
 0.0.0.0 86file.megajoy.com
 0.0.0.0 86get.joy.cn
 0.0.0.0 86log.joy.cn
@@ -446,12 +485,15 @@
 0.0.0.0 8pnmtq.king.creativemedia.buzz
 0.0.0.0 8u1qs3.size.hammondalatasimages.com
 0.0.0.0 910457-deu-prob-sicherheit-account.vorkehrung-sicherheitssystem.ml
+0.0.0.0 91.108.176.118
 0.0.0.0 911.sos-empleados.net
 0.0.0.0 911.x24hr.com
 0.0.0.0 918mzs.hiro.elsibbles.co.uk
+0.0.0.0 92.63.140.210
 0.0.0.0 9276p6.nsa.northpeninsulaopenspacetrust.com
 0.0.0.0 92x58f.lastiudabuildind.com
 0.0.0.0 92x.tumblr.com
+0.0.0.0 93.115.38.30
 0.0.0.0 93oiiais-khb747bjg324yu-2u3.loverol.in
 0.0.0.0 93t2yw.iudasitebuildng.com
 0.0.0.0 954669-de-gast-sicherheit-account.sicherheitssystem-sicherheitshilfe.ga
@@ -1566,6 +1608,7 @@
 0.0.0.0 adrepo.singlehop.com
 0.0.0.0 ad.repubblica.it
 0.0.0.0 adrequisitor-af.lp.uol.com.br
+0.0.0.0 adresaadresata.xhost.ro
 0.0.0.0 adres.internet.com
 0.0.0.0 ad-resource.huanqiu.com
 0.0.0.0 ad.response.jp
@@ -4806,6 +4849,8 @@
 0.0.0.0 alex.2404fairladypl.info
 0.0.0.0 alexandria90.etcserver.com
 0.0.0.0 alexa-sitestats.s3.amazonaws.com
+0.0.0.0 alexaspoteee.wha.la
+0.0.0.0 alexblog24.p-host.in
 0.0.0.0 ali59000.free.fr
 0.0.0.0 alias.dopepatch.com
 0.0.0.0 alias.goatsflyranch.com
@@ -4862,6 +4907,7 @@
 0.0.0.0 alopsitta.rusjohn.ru
 0.0.0.0 alopsitta.vard-forum.ru
 0.0.0.0 alpha.easy-hit-counters.com
+0.0.0.0 alpha.highclasssoftware.ru
 0.0.0.0 alphasite.indonet.co.id
 0.0.0.0 alpventures.bravejournal.com
 0.0.0.0 alruno.home.pl
@@ -5580,6 +5626,7 @@
 0.0.0.0 as.wkcr.cz
 0.0.0.0 asy.a8ww.net
 0.0.0.0 asynartete.makemoneywithmegan.net
+0.0.0.0 at3bk.hostkda.com
 0.0.0.0 at9jof.jack.relationshipsuccesssolutions.com
 0.0.0.0 a.tadd.react2media.com
 0.0.0.0 at-adserver.alltop.com
@@ -6352,6 +6399,7 @@
 0.0.0.0 bb-smiles826.atspace.cc
 0.0.0.0 bbs.nxdushi.com
 0.0.0.0 bbs.tiens.net.cn
+0.0.0.0 bbs.xy.ccjoy.com
 0.0.0.0 bbuacontinental.pe.hu
 0.0.0.0 bbvacontinental.co.at.hm
 0.0.0.0 bbxmail.gdoc.sercelinsaat.com
@@ -6600,6 +6648,7 @@
 0.0.0.0 bloggers.fuckyoucash.com
 0.0.0.0 blog.guiket.com
 0.0.0.0 blog.indianmedicalsupply.in
+0.0.0.0 blog.milesfranklin.com
 0.0.0.0 blog.ndstudio.xyz
 0.0.0.0 blog.onadvertise.com
 0.0.0.0 blog.quantumbusinessbuilding.com
@@ -6748,6 +6797,7 @@
 0.0.0.0 broda.50webs.com
 0.0.0.0 brokeneagledlc.goblogz.net
 0.0.0.0 broker.adobe.com
+0.0.0.0 brolaskjf.superweb.ws
 0.0.0.0 broock.mfrconnect.com
 0.0.0.0 brook.brookviewadvisorsinc.com
 0.0.0.0 browsertest.web.aol.com
@@ -6764,6 +6814,7 @@
 0.0.0.0 bs-meta.yandex.ru
 0.0.0.0 bsrv.adohana.com
 0.0.0.0 b.stats.paypal.com
+0.0.0.0 b.stop2asrertyasport3.com
 0.0.0.0 bstracker.blogspirit.net
 0.0.0.0 bsv6xs.koll.pershoreairporttransfers.co.uk
 0.0.0.0 bs.yandex.ru
@@ -6771,6 +6822,7 @@
 0.0.0.0 btg.mtvnservices.com
 0.0.0.0 b.thanksearch.com
 0.0.0.0 b.thefile.me
+0.0.0.0 b.thegjurertyasport18.com
 0.0.0.0 b.the-nextlevel.com
 0.0.0.0 btinternet.carreteiroonline.com.br
 0.0.0.0 btkdev.lgg.ru
@@ -8355,6 +8407,7 @@
 0.0.0.0 covermobil.web.id
 0.0.0.0 cow.gutterheaters.org
 0.0.0.0 cp1.news.com.au
+0.0.0.0 cp53072.cloudhosting.lv
 0.0.0.0 cp864033.cpsite.ru
 0.0.0.0 c.p-advg.com
 0.0.0.0 cpajump.centenr.com
@@ -8556,6 +8609,7 @@
 0.0.0.0 ct.thegear-box.com
 0.0.0.0 ctv.whpx8.com
 0.0.0.0 c.tw.msn.com
+0.0.0.0 ctwonx221.ddns.net
 0.0.0.0 cuatftj.freewww.biz
 0.0.0.0 cucdn.genesismedia.com
 0.0.0.0 cucenbaumen1.hol.es
@@ -8568,6 +8622,7 @@
 0.0.0.0 curiuos.dealtihjack.net
 0.0.0.0 currentevents.historyguy.com
 0.0.0.0 cursor.kvada.globescale.com
+0.0.0.0 cursosyposgrados.learningreview.com
 0.0.0.0 curtleax.mlmhypnosis.com
 0.0.0.0 c.usatoday.com
 0.0.0.0 customad.cnn.com
@@ -9496,6 +9551,7 @@
 0.0.0.0 dongguklee.wo.to
 0.0.0.0 dontblockme.modaco.com
 0.0.0.0 dont.rentmoxieproperties.com
+0.0.0.0 dooooon.byethost4.com
 0.0.0.0 door.berumba.com
 0.0.0.0 door.h-2-options.com
 0.0.0.0 door.jessami.com
@@ -9621,6 +9677,7 @@
 0.0.0.0 dream.managingforresults.com
 0.0.0.0 dreams.berumba.ca
 0.0.0.0 dreamsearch.or.kr
+0.0.0.0 dreamtropical.altervista.org
 0.0.0.0 d.recomendedsite.com
 0.0.0.0 drees.nationalstainlesssteelrainwatertanks.com
 0.0.0.0 dress.rain-harvesting-online.com
@@ -10044,6 +10101,7 @@
 0.0.0.0 eng.kukuzer.net
 0.0.0.0 eng.mywhitetigertkd.com
 0.0.0.0 eng.referability.mobi
+0.0.0.0 enigeria.gov.ng
 0.0.0.0 enlas.50webs.com
 0.0.0.0 enlightenment.secureshoppingbasket.com
 0.0.0.0 enligne.authentifications.e-carste.com
@@ -11724,6 +11782,7 @@
 0.0.0.0 hgads.silvercdn.com
 0.0.0.0 hgdc.gob.ec
 0.0.0.0 hgfdgsfsfgfghggfdf.royalcolombia.com
+0.0.0.0 hgfdshgdfdfg.esy.es
 0.0.0.0 hgjg.runthefarmmemphis.org
 0.0.0.0 hgkchm.inepal.net
 0.0.0.0 hgkmcgkc.unepali.com
@@ -12392,6 +12451,7 @@
 0.0.0.0 infoerors.ucoz.pl
 0.0.0.0 info-facebook.hitowy.pl
 0.0.0.0 info.hidden-secrets.net
+0.0.0.0 infoiarna.org.gt
 0.0.0.0 info-images.rambler.ru
 0.0.0.0 info.instantmixcup.com
 0.0.0.0 infoinvalids.at.ua
@@ -12416,6 +12476,7 @@
 0.0.0.0 info.web.de
 0.0.0.0 info.webvahini.com
 0.0.0.0 ingameads.gameloft.com
+0.0.0.0 inglescancun.garnetmovil.com
 0.0.0.0 ingpaynowfoorypdate.esy.es
 0.0.0.0 ingvar2000.no-ip.org
 0.0.0.0 in.in-houseexpo.com
@@ -12599,6 +12660,7 @@
 0.0.0.0 jactpysy.myutilitydomain.com
 0.0.0.0 j-ad.dominiosfree.net
 0.0.0.0 ja.gamersky.com
+0.0.0.0 jagconsulting.webimpakt-green.com
 0.0.0.0 jah.skateparkvr.com
 0.0.0.0 jake.bavin.us.kzpcmad.tk
 0.0.0.0 jake.henrylawnc.com
@@ -12621,6 +12683,7 @@
 0.0.0.0 jcontent.bns1.net
 0.0.0.0 jc.revolvermaps.com
 0.0.0.0 jcyt9k.nero.printersclothcompany.com
+0.0.0.0 jda3.byethost3.com
 0.0.0.0 jdjd.dgdgdgd.org
 0.0.0.0 jdn.monster.com
 0.0.0.0 jdownloaderitalia.netsons.org
@@ -12684,6 +12747,7 @@
 0.0.0.0 joomla.vsv.fr
 0.0.0.0 jorel.radfellas.com
 0.0.0.0 joshtest1.evsuite.com
+0.0.0.0 jossy2.shnet.al
 0.0.0.0 joukkomitassa.dannyserrano.com
 0.0.0.0 journalism.uk.smarttargetting.com
 0.0.0.0 joycash.joydate.com
@@ -12935,6 +12999,7 @@
 0.0.0.0 klipmart.dvlabs.com
 0.0.0.0 klipmart.forbes.com
 0.0.0.0 klubkk.nazwa.pl
+0.0.0.0 klunnyicat.in.net
 0.0.0.0 kn441d.best.angelltennis.co.uk
 0.0.0.0 kniga.tora.ru
 0.0.0.0 knight.economist.com
@@ -14428,6 +14493,7 @@
 0.0.0.0 metrika.yandex.ru
 0.0.0.0 metrika.yandex.ua
 0.0.0.0 metrixlablw.customers.luna.net
+0.0.0.0 metromall.good-media.co.il
 0.0.0.0 m.exactag.com
 0.0.0.0 mex.businessfromabottle.com
 0.0.0.0 mex.swiftnsnug.com
@@ -14561,6 +14627,7 @@
 0.0.0.0 mobile.traffic-tracker.net
 0.0.0.0 mobiletraffic.trafficjmp.com
 0.0.0.0 mobi.mobijo.tv
+0.0.0.0 mobiwap.hi2.ro
 0.0.0.0 mobix.a.bukugames.net
 0.0.0.0 mobi.yanosik.pl
 0.0.0.0 mobler.ostbergsmobelhus.com
@@ -14666,6 +14733,7 @@
 0.0.0.0 movie.truesuccess.info
 0.0.0.0 mozilla.comptesteal.org
 0.0.0.0 mozo-widgets.f2.com.au
+0.0.0.0 mp3upl.hi2.ro
 0.0.0.0 m.pl.pornzone.tv
 0.0.0.0 mpm.payback.de
 0.0.0.0 mpn-analytics.mokonocdn.com
@@ -14678,6 +14746,7 @@
 0.0.0.0 mp.twitch.tv
 0.0.0.0 mpv.sandai.net
 0.0.0.0 mp.weixin.qq.com
+0.0.0.0 mrchibuike.in.net
 0.0.0.0 mrmiseen-goblinry.michaelryanstudio.com
 0.0.0.0 mrss.ads.moguldom.com
 0.0.0.0 msalt.mysearch.com
@@ -16802,6 +16871,7 @@
 0.0.0.0 podzemi.myotis.info
 0.0.0.0 pogruz.wanyizhao.net
 0.0.0.0 pohem4.ure.breedingsolutions.co.uk
+0.0.0.0 poihyfded.superweb.ws
 0.0.0.0 point.authentic-power.com
 0.0.0.0 point.buyvbcondos.com
 0.0.0.0 point.glasshausproject.com
@@ -18056,6 +18126,7 @@
 0.0.0.0 s133d7.virtualxs.com
 0.0.0.0 s199.vh46547.eurodir.ru
 0.0.0.0 s1d2f3.wha.la
+0.0.0.0 s1.ddf.al
 0.0.0.0 s1freehdsportzappcom.maynemyltf.netdna-cdn.com
 0.0.0.0 s1.freehostedscripts.net
 0.0.0.0 s1hdflash-playercom.maynemyltf.netdna-cdn.com
@@ -19015,6 +19086,7 @@
 0.0.0.0 socitm.govmetric.com
 0.0.0.0 sock.zisvd.com
 0.0.0.0 s.o-clk.com
+0.0.0.0 socrd1dw.bget.ru
 0.0.0.0 soeiobu2ov-khb747bjg324yu.leegoratejoopa.in
 0.0.0.0 sofa.bankofamerica.com
 0.0.0.0 soft4update.forfreeupgrades.org
@@ -20360,6 +20432,7 @@
 0.0.0.0 test1.sem-tracking-analytics.com
 0.0.0.0 test.ad.asap-asp.net
 0.0.0.0 test-ads.asap-asp.net
+0.0.0.0 test.aideshabitat.com
 0.0.0.0 te.stamfordadvocate.com
 0.0.0.0 test.ancestrybloodhound.org
 0.0.0.0 testats.inuvo.com
@@ -20522,6 +20595,7 @@
 0.0.0.0 t.mtagmonetizationa.com
 0.0.0.0 t.mtagmonetizationb.com
 0.0.0.0 t.mtagmonetizationc.com
+0.0.0.0 t.m.u.radio.hi2.ro
 0.0.0.0 t.myvisualiq.net
 0.0.0.0 tn.adserve.com
 0.0.0.0 t.nrelate.com
@@ -21097,6 +21171,7 @@
 0.0.0.0 tractionsps.fish-salad.info
 0.0.0.0 tradedoubler.sonvideopro.com
 0.0.0.0 tradekeys.comlu.com
+0.0.0.0 tradeneww44.in.net
 0.0.0.0 trader.erosdlz.com
 0.0.0.0 traditionalfoodcongress.ipvc.pt
 0.0.0.0 tr.adsplats.com
@@ -21334,6 +21409,7 @@
 0.0.0.0 u17022.uvleda.ru
 0.0.0.0 u1ou98.iudasitebuildng.net
 0.0.0.0 u1.puls.lv
+0.0.0.0 u32513.netangels.ru
 0.0.0.0 u33vau.moro.pershoreprivatehire.co.uk
 0.0.0.0 u35233.nilopo.ru
 0.0.0.0 u358yd.most.bingeeater.co.uk
@@ -23677,7 +23753,6 @@
 0.0.0.0 www.hit-counter.5u.com
 0.0.0.0 www.hit-counter-download.com
 0.0.0.0 www.hit-counts.com
-0.0.0.0 www.hitekshop.vn
 0.0.0.0 www.hitmaster.de
 0.0.0.0 www.hitq.com
 0.0.0.0 www.hitstats.co.uk
