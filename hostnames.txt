@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Oct 3 08:01:04 CEST 2016
-# Number of unique hostnames: 25449
+# Last update: Tue Oct 4 08:07:28 CEST 2016
+# Number of unique hostnames: 25446
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -760,6 +760,7 @@
 0.0.0.0 ad0.haynet.com
 0.0.0.0 ad10.play3.de
 0.0.0.0 ad.114.com.cn
+0.0.0.0 ad.12dt.com
 0.0.0.0 ad.163.com
 0.0.0.0 ad.17173.com
 0.0.0.0 ad1.adtitan.net
@@ -2521,7 +2522,6 @@
 0.0.0.0 adserver.moitepari.bg
 0.0.0.0 adserver.monster.com
 0.0.0.0 adserver.monstersandcritics.com
-0.0.0.0 adserver.motdgd.com
 0.0.0.0 adserver.motonews.pl
 0.0.0.0 adserver.motorpresse.de
 0.0.0.0 adserver.mundo-service.de
@@ -4230,6 +4230,7 @@
 0.0.0.0 advertiser.microad.jp
 0.0.0.0 advertisers.federatedmedia.net
 0.0.0.0 advertise.twitpic.com
+0.0.0.0 advertising.amazon.co.uk
 0.0.0.0 advertising.aol.com
 0.0.0.0 advertising.apple.com
 0.0.0.0 advertising.bayoubuzz.com
@@ -7892,7 +7893,6 @@
 0.0.0.0 cm8.lycos.com
 0.0.0.0 cm.ac3.msn.com
 0.0.0.0 c.maccosmetics.com
-0.0.0.0 cm.adkmob.com
 0.0.0.0 cmads.sv.publicus.com
 0.0.0.0 cmads.us.publicus.com
 0.0.0.0 cma.zdnet.com
@@ -8448,6 +8448,7 @@
 0.0.0.0 craft.entersfieldszero.com
 0.0.0.0 cran.hmc-us.org
 0.0.0.0 crash.inlandempirebellydancer.net
+0.0.0.0 crash.steampowered.com
 0.0.0.0 crazy.mfr4fire.com
 0.0.0.0 c.realtytrac.com
 0.0.0.0 cream.good-mood-creator.com
@@ -8930,6 +8931,7 @@
 0.0.0.0 d3pkae9owd2lcf.cloudfront.net
 0.0.0.0 d3pkntwtp2ukl5.cloudfront.net
 0.0.0.0 d3pkrll6is44dx.cloudfront.net
+0.0.0.0 d3pphfzjkpjgfn.cloudfront.net
 0.0.0.0 d3q2dpprdsteo.cloudfront.net
 0.0.0.0 d3q6px0y2suh5n.cloudfront.net
 0.0.0.0 d3qszud4qdthr8.cloudfront.net
@@ -12218,7 +12220,6 @@
 0.0.0.0 images2.iac-online.de
 0.0.0.0 images.888.com
 0.0.0.0 images.about.com
-0.0.0.0 images.adkmob.com
 0.0.0.0 images.adrime.com
 0.0.0.0 images.ads.fairfax.com.au
 0.0.0.0 images.adsyndication.msn.com
@@ -12329,7 +12330,6 @@
 0.0.0.0 imgad2.3conline.com
 0.0.0.0 imgad3.3conline.com
 0.0.0.0 img.adecorp.co.kr
-0.0.0.0 img.adkmob.com
 0.0.0.0 img.admaster.net
 0.0.0.0 img.adplan-ds.com
 0.0.0.0 img.adpublisher.com
@@ -12808,7 +12808,6 @@
 0.0.0.0 js.francite.com
 0.0.0.0 js.geoads.com
 0.0.0.0 js.goods.redtram.com
-0.0.0.0 js.indexww.com
 0.0.0.0 js.leshen.com
 0.0.0.0 js.libertysurf.fr
 0.0.0.0 js.livehelper.com
@@ -12826,7 +12825,6 @@
 0.0.0.0 js.ru.redtram.com
 0.0.0.0 js.sddan.com
 0.0.0.0 jssd.uumeitu.com
-0.0.0.0 js-sec.indexww.com
 0.0.0.0 js.selectornews.com
 0.0.0.0 js.smartredirect.de
 0.0.0.0 js.smi2.ru
@@ -19288,7 +19286,6 @@
 0.0.0.0 ssceaf.kbgswwogodd.ml
 0.0.0.0 ss.crowdprocess.com
 0.0.0.0 ssdc.icelandair.com
-0.0.0.0 ssdk.adkmob.com
 0.0.0.0 ssdsdg.akirasmithtown.com
 0.0.0.0 ssend.microad.jp
 0.0.0.0 sshhsvv.beckmenlaw.info
