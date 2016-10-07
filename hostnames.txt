@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Oct 6 10:14:24 CEST 2016
-# Number of unique hostnames: 25207
+# Last update: Fri Oct 7 08:31:35 CEST 2016
+# Number of unique hostnames: 25221
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -1365,6 +1365,7 @@
 0.0.0.0 ad.mbn.bb.ru
 0.0.0.0 adm.cloud.cnfol.com
 0.0.0.0 admd.yam.com
+0.0.0.0 ad.mediabong.com
 0.0.0.0 ad.mediabong.net
 0.0.0.0 admedia.expedia.com
 0.0.0.0 ad.mediaprecision.net
@@ -5171,6 +5172,10 @@
 0.0.0.0 aphrodite.railsplayground.net
 0.0.0.0 api15.cmdragracing.com
 0.0.0.0 api.2easydroid.com
+0.0.0.0 api2.testrequest.info
+0.0.0.0 api3.testrequest.info
+0.0.0.0 api4.testrequest.info
+0.0.0.0 api5.testrequest.info
 0.0.0.0 api.7segments.com
 0.0.0.0 api.access-mc.com
 0.0.0.0 api.ad4push.com
@@ -5243,6 +5248,7 @@
 0.0.0.0 api.statdns.com
 0.0.0.0 api.taps.io
 0.0.0.0 api.target.smi2.net
+0.0.0.0 api.testrequest.info
 0.0.0.0 api.trackuity.com
 0.0.0.0 api.trak.io
 0.0.0.0 api.truuapp.com
@@ -7282,6 +7288,7 @@
 0.0.0.0 cdn.dsultra.com
 0.0.0.0 cdn.easy-ads.com
 0.0.0.0 cdn.epom.com
+0.0.0.0 cdn.epommarket.com
 0.0.0.0 cdneu.alcoholsoftcdn.com
 0.0.0.0 cdneu.filefactscdn.com
 0.0.0.0 cdn.exactag.com
@@ -7303,6 +7310,7 @@
 0.0.0.0 cdn.hiido.cn
 0.0.0.0 cdn.huidc.com
 0.0.0.0 cdn-i.dmdentertainment.com
+0.0.0.0 cdn.imgtty.com
 0.0.0.0 cdn.innity.com
 0.0.0.0 cdn.innovid.com
 0.0.0.0 cdn.insta.oibundles2.com
@@ -8611,6 +8619,7 @@
 0.0.0.0 d13czkep7ax7nj.cloudfront.net
 0.0.0.0 d13dhn7ldhrcf6.cloudfront.net
 0.0.0.0 d13im3ek7neeqp.cloudfront.net
+0.0.0.0 d13strl4lo8mtp.cloudfront.net
 0.0.0.0 d13xa9aa1tga7e.cloudfront.net
 0.0.0.0 d140sbu1b1m3h0.cloudfront.net
 0.0.0.0 d1447tq2m68ekg.cloudfront.net
@@ -12302,7 +12311,6 @@
 0.0.0.0 immeria.kupivoice.ru
 0.0.0.0 imoc.imoc.com
 0.0.0.0 im.of.pl
-0.0.0.0 i.mol.im
 0.0.0.0 imonitor.dhgate.com
 0.0.0.0 imonitor.nethost.cz
 0.0.0.0 im.ov.yahoo.co.jp
@@ -14673,6 +14681,7 @@
 0.0.0.0 mt.sellingrealestatemalta.com
 0.0.0.0 mts.mansion.com
 0.0.0.0 m.tstore.co.kr
+0.0.0.0 mtvbrazil-services.vimn.com
 0.0.0.0 mtx.allabout.co.jp
 0.0.0.0 muddinktogel.hol.es
 0.0.0.0 mugguriridea.seemarathon.com
@@ -16052,6 +16061,7 @@
 0.0.0.0 pad.creategreatcaptions.com
 0.0.0.0 padsdel.cdnads.com
 0.0.0.0 page-01.pe.hu
+0.0.0.0 page.0ffer.eu
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagead.topobiavi.com
@@ -21321,6 +21331,7 @@
 0.0.0.0 trk.etrigue.com
 0.0.0.0 trk.mailtoward.com
 0.0.0.0 trk.m.libero.it
+0.0.0.0 trk.mobile-setting.com
 0.0.0.0 trk.newtention.net
 0.0.0.0 trk.pswec.com
 0.0.0.0 trk.rrcpm.com
@@ -22983,6 +22994,7 @@
 0.0.0.0 www.advaliant.com
 0.0.0.0 www.advancedmaccleaner.com
 0.0.0.0 www.advancesrl.eu
+0.0.0.0 www.advanpromo.com
 0.0.0.0 www.adventertainment.it
 0.0.0.0 www.adverterenbijrtl.nl
 0.0.0.0 www.adverterenzeeland.nl
@@ -23306,6 +23318,7 @@
 0.0.0.0 www.click10.com
 0.0.0.0 www.click2bank.net
 0.0.0.0 www.clickaction.net
+0.0.0.0 www.click.alibaba.com
 0.0.0.0 www.clickansave.net
 0.0.0.0 www.clickbankmastery.com
 0.0.0.0 www.clickclick.com
@@ -23916,7 +23929,6 @@
 0.0.0.0 www.laugh-mail.net
 0.0.0.0 www.lccl.org.uk
 0.0.0.0 www.leadgreed.com
-0.0.0.0 www.leadtrackgo.com
 0.0.0.0 www.leadxml.com
 0.0.0.0 www.legionstudio.tora.ru
 0.0.0.0 www.lejournaldescarrieres.com
@@ -24355,6 +24367,7 @@
 0.0.0.0 www.rwpads.net
 0.0.0.0 www.s548173211.onlinehome.us
 0.0.0.0 www.sa44.net
+0.0.0.0 www.safenetdir.com
 0.0.0.0 www.safesoftware182.com
 0.0.0.0 www.sailing3.com
 0.0.0.0 www.salentoeasy.it
@@ -24899,6 +24912,7 @@
 0.0.0.0 x5.ifdef.jp
 0.0.0.0 x5xw2o.kozer.2ndincome4u.org.uk
 0.0.0.0 x5.yamanoha.com
+0.0.0.0 x65zz.popularprizes.8981275.com
 0.0.0.0 x6.ifdef.jp
 0.0.0.0 x6t1qr.best.a1taxispershore.co.uk
 0.0.0.0 x6x.a.la
