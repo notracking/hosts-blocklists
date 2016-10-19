@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Oct 18 08:30:30 CEST 2016
-# Number of unique hostnames: 24822
+# Last update: Wed Oct 19 08:10:12 CEST 2016
+# Number of unique hostnames: 24819
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -8739,6 +8739,7 @@
 0.0.0.0 d32ffatx74qnju.cloudfront.net
 0.0.0.0 d32k27yvyi4kmv.cloudfront.net
 0.0.0.0 d32pxqbknuxsuy.cloudfront.net
+0.0.0.0 d32r49xyei4vz6.cloudfront.net
 0.0.0.0 d32zx4lhje2crr.cloudfront.net
 0.0.0.0 d33dsfwui17p31.cloudfront.net
 0.0.0.0 d33f10u0pfpplc.cloudfront.net
@@ -9329,7 +9330,6 @@
 0.0.0.0 dlaafryki.org.pl
 0.0.0.0 dl.bzgthg.com
 0.0.0.0 dl.cr173.com
-0.0.0.0 dl.delivery.mp.microsoft.com
 0.0.0.0 dldkj.josemateorealtor.info
 0.0.0.0 dl.downf468.com
 0.0.0.0 dl.faedmr.com
@@ -9889,7 +9889,6 @@
 0.0.0.0 embed.sendtonews.com
 0.0.0.0 embed.spokenlayer.com
 0.0.0.0 embed-stats.rbl.ms
-0.0.0.0 embed.technorati.com
 0.0.0.0 emd10.medianext.com
 0.0.0.0 emea.rel.msn.com
 0.0.0.0 emilieetabel.free.fr
@@ -11097,7 +11096,6 @@
 0.0.0.0 geo.mtvnn.com
 0.0.0.0 geo.nbcsports.com
 0.0.0.0 geo.precisionclick.com
-0.0.0.0 geo-prod.do.dsp.mp.microsoft.com
 0.0.0.0 geo.q5media.net
 0.0.0.0 geo.query.yahoo.com
 0.0.0.0 geo.sanoma.fi
@@ -14061,7 +14059,6 @@
 0.0.0.0 metrics.nj.com
 0.0.0.0 metrics.nola.com
 0.0.0.0 metrics.npr.org
-0.0.0.0 metrics.nt.vc
 0.0.0.0 metrics.nutrisystem.com
 0.0.0.0 metrics.oclc.org
 0.0.0.0 metrics.olivegarden.com
