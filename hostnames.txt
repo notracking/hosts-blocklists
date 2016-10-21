@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Oct 20 08:30:21 CEST 2016
-# Number of unique hostnames: 24864
+# Last update: Fri Oct 21 08:24:54 CEST 2016
+# Number of unique hostnames: 24877
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2589,6 +2589,7 @@
 0.0.0.0 adserver.trafficsyndicate.com
 0.0.0.0 adserver.trb.com
 0.0.0.0 adserver.trellian.com
+0.0.0.0 adserver.trojaner-info.de
 0.0.0.0 adserver.tsgadv.com
 0.0.0.0 adserver.tulsaworld.com
 0.0.0.0 adserver.tvcatchup.com
@@ -4235,6 +4236,7 @@
 0.0.0.0 advertising.hardwarezone.com
 0.0.0.0 advertising.hiasys.com
 0.0.0.0 advertising.illinimedia.com
+0.0.0.0 advertising.ingame.de
 0.0.0.0 advertising.justusboys.net
 0.0.0.0 advertising.lycos.com
 0.0.0.0 advertising.microsoft.com
@@ -6290,6 +6292,8 @@
 0.0.0.0 batterfly.the-plr-empire.org
 0.0.0.0 battlefield4secondassaultdlc.goblogz.net
 0.0.0.0 batton.nationalrainwatergroup.com
+0.0.0.0 b-aws.aol.com
+0.0.0.0 b-aws.huffingtonpost.com
 0.0.0.0 bayanicgiyimsitesi.somee.com
 0.0.0.0 bazan.home.pl
 0.0.0.0 b.babylon.com
@@ -11893,6 +11897,7 @@
 0.0.0.0 iapref.orange.fr
 0.0.0.0 iapref.wanadoo.fr
 0.0.0.0 iar.worthathousandwords.com
+0.0.0.0 ias.avidmedia.net
 0.0.0.0 ia.spinbox.net
 0.0.0.0 ias.rakuten.co.jp
 0.0.0.0 ia.warnet-thunder.net
@@ -14603,6 +14608,7 @@
 0.0.0.0 narrow.azenergyforum.com
 0.0.0.0 nation.nauinternational.com
 0.0.0.0 native.national-rain-group.com
+0.0.0.0 nats4.fetishbucks.com
 0.0.0.0 nats.hushmoney.com
 0.0.0.0 natural.buckeyeenergyforum.com
 0.0.0.0 naturalizationoprijten.landmarktrucks.com
@@ -19064,6 +19070,7 @@
 0.0.0.0 statistics.theonion.com
 0.0.0.0 statistics.wibiya.com
 0.0.0.0 statistik.bundestag.de
+0.0.0.0 statistik.polizei-beratung.de
 0.0.0.0 statistik.simaja.de
 0.0.0.0 stat.it168.com
 0.0.0.0 stat.iteye.com
@@ -19130,6 +19137,7 @@
 0.0.0.0 stats.backcountry.com
 0.0.0.0 stats.bbc.co.uk
 0.0.0.0 stats.becu.org
+0.0.0.0 stats.berkman.harvard.edu
 0.0.0.0 stats.bestvirusremovalsoftware.com
 0.0.0.0 stats.betaseries.com
 0.0.0.0 stats.betradar.com
@@ -22081,6 +22089,7 @@
 0.0.0.0 widget.nativly.com
 0.0.0.0 widget.promoqui.it
 0.0.0.0 widget.raaze.com
+0.0.0.0 widget.realo.be
 0.0.0.0 widgets.cam-content.com
 0.0.0.0 widgets-cdn.rpxnow.com
 0.0.0.0 widgets.comcontent.net
@@ -22283,6 +22292,10 @@
 0.0.0.0 ws7.surf-town.net
 0.0.0.0 ws8.surf-town.net
 0.0.0.0 ws9.surf-town.net
+0.0.0.0 ws.abbp1.science
+0.0.0.0 ws.abbp1.website
+0.0.0.0 ws.adspayformymortgage.win
+0.0.0.0 ws.adspayformy.site
 0.0.0.0 ws.amazon.com
 0.0.0.0 wsb1.surf-town.net
 0.0.0.0 wsb2.surf-town.net
