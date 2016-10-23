@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Oct 22 08:20:34 CEST 2016
-# Number of unique hostnames: 24967
+# Last update: Sun Oct 23 08:10:40 CEST 2016
+# Number of unique hostnames: 24968
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -6381,6 +6381,7 @@
 0.0.0.0 beacon.sinauda.com
 0.0.0.0 beacon.sojern.com
 0.0.0.0 beacon.stage.walmart.com
+0.0.0.0 beacons.vessel-static.com
 0.0.0.0 beacon.tracelytics.com
 0.0.0.0 beacon.tunecore.com
 0.0.0.0 beacon.walmart.com
