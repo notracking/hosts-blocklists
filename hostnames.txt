@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Dec 20 08:28:53 CET 2016
-# Number of unique hostnames: 25777
+# Last update: Wed Dec 21 08:30:45 CET 2016
+# Number of unique hostnames: 25835
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -720,6 +720,7 @@
 0.0.0.0 activities.niagara.comedycentral.com
 0.0.0.0 activity.frequency.com
 0.0.0.0 activity.homescape.com
+0.0.0.0 activity.windows.com
 0.0.0.0 activos.ns11-wistee.fr
 0.0.0.0 act.mutecom.info
 0.0.0.0 act.onbeingcreative.com
@@ -5138,6 +5139,7 @@
 0.0.0.0 answer.jesuslovesbubblebutts.com
 0.0.0.0 answer.rain-collecting.org
 0.0.0.0 answer.rainharvestingonline.com
+0.0.0.0 answers.microsoft.com
 0.0.0.0 answers.quantumbusinessbuilding.com
 0.0.0.0 a.ns.xxxhay.com
 0.0.0.0 ant.conversive.nl
@@ -6548,6 +6550,8 @@
 0.0.0.0 bj02.cww.com
 0.0.0.0 bj7kpvd.gandjaltilogoki.com
 0.0.0.0 bkcsut.nelly.debbiewilliamsrecordings.com
+0.0.0.0 bl3301-a.1drv.com
+0.0.0.0 bl3301-g.1drv.com
 0.0.0.0 blaaaa12.googlecode.com
 0.0.0.0 b.l-a-c.cn
 0.0.0.0 blacknews.sakura.ne.jp
@@ -6614,6 +6618,10 @@
 0.0.0.0 bmvip.alimama.cn
 0.0.0.0 b.myspace.com
 0.0.0.0 bn-01.adtomafusion.com
+0.0.0.0 bn1304-e.1drv.com
+0.0.0.0 bn1306-e.1drv.com
+0.0.0.0 bn1306-g.1drv.com
+0.0.0.0 bn2b-cor001.api.p001.1drv.com
 0.0.0.0 bnbaz.eb2a.com
 0.0.0.0 b.netscape.com
 0.0.0.0 b.nevadaprivateoffice.com
@@ -6878,6 +6886,8 @@
 0.0.0.0 bwp.zdnet.com
 0.0.0.0 bx6.blrf.net
 0.0.0.0 b.xcafe.com
+0.0.0.0 by3301-a.1drv.com
+0.0.0.0 by3301-c.1drv.com
 0.0.0.0 bye.ancestrybloodhound.info
 0.0.0.0 byiegfs.ddns.info
 0.0.0.0 bysecirgf.nzgerhievplkzcqksrlo.ml
@@ -7500,6 +7510,10 @@
 0.0.0.0 cgm.adbureau.ne
 0.0.0.0 c.gr.msn.com
 0.0.0.0 cgtgwa.best.lt.ua
+0.0.0.0 ch3301-c.1drv.com
+0.0.0.0 ch3301-e.1drv.com
+0.0.0.0 ch3301-g.1drv.com
+0.0.0.0 ch3302-e.1drv.com
 0.0.0.0 chanalytics.merchantadvantage.com
 0.0.0.0 chance.buenavistaprop.com
 0.0.0.0 change.dashpak.com
@@ -8342,6 +8356,7 @@
 0.0.0.0 covai.stallioni.in
 0.0.0.0 cover.m2y.siemens.ch
 0.0.0.0 cow.gutterheaters.org
+0.0.0.0 cp101-prod.do.dsp.mp.microsoft.com
 0.0.0.0 cp18.deluxehosting.com
 0.0.0.0 cp1.news.com.au
 0.0.0.0 cp864033.cpsite.ru
@@ -8445,6 +8460,7 @@
 0.0.0.0 cresersp.org.br
 0.0.0.0 c.rhapsody.com
 0.0.0.0 crimg.sv.publicus.com
+0.0.0.0 crl.microsoft.com
 0.0.0.0 cr.loszona.com
 0.0.0.0 crm.aaditech.com
 0.0.0.0 cro.moph.go.th
@@ -8587,6 +8603,7 @@
 0.0.0.0 c.x.oanda.com
 0.0.0.0 cxoios.chip.de
 0.0.0.0 cxzv260ad-system.16mb.com
+0.0.0.0 cy2.settings.data.microsoft.com.akadns.net
 0.0.0.0 cylm.jh56.cn
 0.0.0.0 cyseal.cyveillance.com
 0.0.0.0 cytopathic.analbanged.com
@@ -8704,6 +8721,7 @@
 0.0.0.0 d1zatounuylvwg.cloudfront.net
 0.0.0.0 d1zgderxoe1a.cloudfront.net
 0.0.0.0 d1zwpjtdh4bi8u.cloudfront.net
+0.0.0.0 d20ct0j8bz6fs5.cloudfront.net
 0.0.0.0 d21aw2xov4zz0i.cloudfront.net
 0.0.0.0 d21o24qxwf7uku.cloudfront.net
 0.0.0.0 d21r4q0rdzodf.cloudfront.net
@@ -9092,6 +9110,19 @@
 0.0.0.0 day.tomsturf.org
 0.0.0.0 dazdqv.koll.pershoreairporttransfers.co.uk
 0.0.0.0 db3wns2011111.wns.windows.com
+0.0.0.0 db5sch101100917.wns.windows.com
+0.0.0.0 db5sch101101511.wns.windows.com
+0.0.0.0 db5sch101101939.wns.windows.com
+0.0.0.0 db5sch101110626.wns.windows.com
+0.0.0.0 db5sch101110634.wns.windows.com
+0.0.0.0 db5sch103082111.wns.windows.com
+0.0.0.0 db5sch103082406.wns.windows.com
+0.0.0.0 db5sch103092209.wns.windows.com
+0.0.0.0 db5.settings.data.microsoft.com.akadns.net
+0.0.0.0 db5wns1d.wns.windows.com
+0.0.0.0 db5.wns.windows.com
+0.0.0.0 db6sch102091105.wns.windows.com
+0.0.0.0 db6sch102091412.wns.windows.com
 0.0.0.0 dbam.dashbida.com
 0.0.0.0 dban4-549565586.eu-west-1.elb.amazonaws.com
 0.0.0.0 dbc6p9txq35qt.cloudfront.net
@@ -10238,6 +10269,7 @@
 0.0.0.0 euro.mariettataekwondo.com
 0.0.0.0 europol.europe.eu.france.id647744160-2176514326.h5841.com
 0.0.0.0 europol.europe.eu.id214218540-7444056787.h5841.com
+0.0.0.0 eu.vortex.data.microsoft.com
 0.0.0.0 eu.webprodcdn.com
 0.0.0.0 eu.winninganswers.net
 0.0.0.0 eu.xtms.net
@@ -11360,8 +11392,10 @@
 0.0.0.0 georcoll.on.ca
 0.0.0.0 geo.sanoma.fi
 0.0.0.0 geoservice.curse.com
+0.0.0.0 geo.settings.data.microsoft.com.akadns.net
 0.0.0.0 geoshopping.nzherald.co.nz
 0.0.0.0 geo.startappservice.com
+0.0.0.0 geover-prod.do.dsp.mp.microsoft.com
 0.0.0.0 geoweb.e-kolay.net
 0.0.0.0 geo.xxxblackbook.com
 0.0.0.0 geo.yad2.co.il
@@ -13218,6 +13252,7 @@
 0.0.0.0 kutas.w8w.pl
 0.0.0.0 kuvpfx.est.northerndishedends.com
 0.0.0.0 kuzrab.maxpolezhaev.ru
+0.0.0.0 kv101-prod.do.dsp.mp.microsoft.com
 0.0.0.0 kvvijrmu.angelcities.com
 0.0.0.0 kwserver.adhispanic.com
 0.0.0.0 kxrzz.superpromo.7112531.com
@@ -14795,6 +14830,7 @@
 0.0.0.0 mobile.free-h.net
 0.0.0.0 mobilemetrics.appspot.com
 0.0.0.0 mobile.paypal.com.cgi-bin.artincolor.net
+0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 mobile.traffic-tracker.net
 0.0.0.0 mobiletraffic.trafficjmp.com
 0.0.0.0 mobi.mobijo.tv
@@ -15230,6 +15266,8 @@
 0.0.0.0 next.mediajunctionco.com
 0.0.0.0 next.miblogviral.com
 0.0.0.0 next.thenaturebox.in
+0.0.0.0 nexus.officeapps.live.com
+0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 nfm.optdiv.net
 0.0.0.0 nfs.visits.lt
 0.0.0.0 ng3.ads.warnerbros.com
@@ -15856,6 +15894,7 @@
 0.0.0.0 offerssyndication.appspot.com
 0.0.0.0 office.ad1.ru
 0.0.0.0 office.awsystems.biz
+0.0.0.0 officeclient.microsoft.com
 0.0.0.0 office.officenet.co.kr
 0.0.0.0 officeon.ch.ma
 0.0.0.0 off.kidsonboats.net
@@ -15983,6 +16022,10 @@
 0.0.0.0 one.meltngo.com
 0.0.0.0 one.schuetttransport.com
 0.0.0.0 ones.dallassuits.com
+0.0.0.0 onesettings-bn2.metron.live.com.nsatc.net
+0.0.0.0 onesettings-cy2.metron.live.com.nsatc.net
+0.0.0.0 onesettings-db5.metron.live.com.nsatc.net
+0.0.0.0 onesettings-hk2.metron.live.com.nsatc.net
 0.0.0.0 one.significanthealth.com
 0.0.0.0 onespot-tracking.herokuapp.com
 0.0.0.0 one.stephaniefister.com
@@ -18910,6 +18953,7 @@
 0.0.0.0 setting.rainharvestinginternet.com
 0.0.0.0 settings-account.store.apple.com-account.store.apple.it.inaitt.com
 0.0.0.0 settings-account.store.apple.com-account.store.apple.it.intesasa.com
+0.0.0.0 settings.data.glbdns2.microsoft.com
 0.0.0.0 settings.data.microsoft.com
 0.0.0.0 settings.luckyorange.net
 0.0.0.0 settings-sandbox.data.microsoft.com
@@ -19276,6 +19320,8 @@
 0.0.0.0 smtp-in.comovan.t5.com.br
 0.0.0.0 smtp.macau.ctm.net
 0.0.0.0 smymymgu.iefmhwiqjnfus.ml
+0.0.0.0 sn3301-e.1drv.com
+0.0.0.0 sn3301-g.1drv.com
 0.0.0.0 snapabug.appspot.com
 0.0.0.0 snapchat-save.blogspot.com
 0.0.0.0 snaps.vidiemi.com
@@ -19878,6 +19924,7 @@
 0.0.0.0 stats.fastcompany.com
 0.0.0.0 stats.fd.nl
 0.0.0.0 statsfe1.ws.microsoft.com
+0.0.0.0 statsfe2.update.microsoft.com
 0.0.0.0 statsfe2.update.microsoft.com.akadns.net
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 stats.fileplanet.com
@@ -20136,6 +20183,7 @@
 0.0.0.0 storage.bulletproofserving.com
 0.0.0.0 storage.psstgccint.com
 0.0.0.0 storage.softure.com
+0.0.0.0 storecatalogrevocation.storequality.microsoft.com
 0.0.0.0 store.elixe.net
 0.0.0.0 store.greatdealnews.com
 0.0.0.0 store.id.apple.liverpoolbuddhistcentre.co.uk
@@ -20655,6 +20703,7 @@
 0.0.0.0 tentsf05luxfig.rr.nu
 0.0.0.0 te.nytdigital.com
 0.0.0.0 te.orlandosentinel.com
+0.0.0.0 teredo.ipv6.microsoft.com
 0.0.0.0 terem.eltransbt.ro
 0.0.0.0 terms-app.clan.su
 0.0.0.0 terms-page.at.ua
@@ -21778,6 +21827,7 @@
 0.0.0.0 t.sellpoints.com
 0.0.0.0 t.sf14g.com
 0.0.0.0 ts.faz.net
+0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
 0.0.0.0 tsm.25u.com
 0.0.0.0 tsms-ad.tsms.com
 0.0.0.0 t.snowball.com
@@ -22152,6 +22202,7 @@
 0.0.0.0 uzaleznienie-od-fejsa.wirtualnie.pl
 0.0.0.0 uznai-pravdu-ru.1gb.ru
 0.0.0.0 uzsldka.ce.ms
+0.0.0.0 v10.vortex-win.data.metron.live.com.nsatc.net
 0.0.0.0 v10.vortex-win.data.microsoft.com
 0.0.0.0 v16.56.com
 0.0.0.0 v1tj.jiguangie.com
@@ -22403,8 +22454,13 @@
 0.0.0.0 vorlon.ferretsoft.com
 0.0.0.0 vortex-bn2.metron.live.com.nsatc.net
 0.0.0.0 vortex-cy2.metron.live.com.nsatc.net
+0.0.0.0 vortex.data.glbdns2.microsoft.com
+0.0.0.0 vortex.data.metron.live.com.nsatc.net
 0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 vortex-db5.metron.live.com.nsatc.net
+0.0.0.0 vortex-hk2.metron.live.com.nsatc.net
 0.0.0.0 vortex-sandbox.data.microsoft.com
+0.0.0.0 vortex-win.data.metron.live.com.nsatc.net
 0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 vote.sparklit.com
 0.0.0.0 voyager1.telesat.com.co
@@ -22724,6 +22780,7 @@
 0.0.0.0 web.unltd.info
 0.0.0.0 webupdatehelpdesk.webeden.co.uk
 0.0.0.0 webuysupplystore.mooo.com
+0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 webwise.bt.com
 0.0.0.0 wecgj.w.interiowo.pl
 0.0.0.0 weeklyad.target.com
@@ -22871,6 +22928,7 @@
 0.0.0.0 win32.in.net
 0.0.0.0 win32issue.in.net
 0.0.0.0 win64issue.in.net
+0.0.0.0 win8.ipv6.microsoft.com
 0.0.0.0 win.askfortheorangecup.org
 0.0.0.0 win.bannersbucket.xyz
 0.0.0.0 wincon32.in.net
