@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Dec 31 08:20:48 CET 2016
-# Number of unique hostnames: 25890
+# Last update: Sun Jan 1 08:14:23 CET 2017
+# Number of unique hostnames: 25895
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -693,6 +693,7 @@
 0.0.0.0 a.consumer.net
 0.0.0.0 a.contentabc.net
 0.0.0.0 acookie.alibaba.com
+0.0.0.0 acookie.aliexpress.com
 0.0.0.0 acookie.alimama.com
 0.0.0.0 acookie.taobao.com
 0.0.0.0 acool.csheaven.com
@@ -2638,6 +2639,7 @@
 0.0.0.0 adserv.geocomm.com
 0.0.0.0 adserv.happypuppy.com
 0.0.0.0 adserv.iafrica.com
+0.0.0.0 adservice.aliexpress.com
 0.0.0.0 adservice.everyone.com
 0.0.0.0 adservice.everyone.net
 0.0.0.0 ad.services.distractify.com
@@ -8718,6 +8720,7 @@
 0.0.0.0 d1qqddufal4d58.cloudfront.net
 0.0.0.0 d1rb5wwywwoqqm.cloudfront.net
 0.0.0.0 d1rdh3xxuqlqfo.cloudfront.net
+0.0.0.0 d1re760tkiprs5.cloudfront.net
 0.0.0.0 d1rgnfh960lz2b.cloudfront.net
 0.0.0.0 d1ros97qkrwjf5.cloudfront.net
 0.0.0.0 d1s5n6wuwgnxf4.cloudfront.net
@@ -10400,6 +10403,7 @@
 0.0.0.0 eye.reinventerladn.com
 0.0.0.0 eye.skeltonancestry.com
 0.0.0.0 e.yycqc.com
+0.0.0.0 ez33.org.cn
 0.0.0.0 ez66jp.broz.northerndishedends.co
 0.0.0.0 ezrgdz.backflowpearland.com
 0.0.0.0 e-zshopper.activeshopper.com
@@ -18652,6 +18656,7 @@
 0.0.0.0 sc.independent.co.uk
 0.0.0.0 scipol.unito.it
 0.0.0.0 scisloscitenereris.analbanged.com
+0.0.0.0 s.click.aliexpress.com
 0.0.0.0 s.click.alimama.com
 0.0.0.0 sclick.baidu.com
 0.0.0.0 s.click.taobao.com
