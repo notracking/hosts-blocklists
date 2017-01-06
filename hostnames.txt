@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Jan 6 12:53:52 CET 2017
-# Number of unique hostnames: 28582
+# Last update: Fri Jan 6 14:42:34 CET 2017
+# Number of unique hostnames: 28583
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -27,6 +27,9 @@
 # - http://malwaredomains.lehigh.edu/files/immortal_domains.txt
 # - https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
 # - https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt
+# - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win7/spy.txt
+# - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win81/spy.txt
+# - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win10/spy.txt
 # Adblock plus (only full domain filters)
 # - https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt
 # - https://www.fanboy.co.nz/enhancedstats.txt
@@ -9216,6 +9219,7 @@
 0.0.0.0 cresersp.org.br
 0.0.0.0 c.rhapsody.com
 0.0.0.0 crimg.sv.publicus.com
+0.0.0.0 crl.microsoft.com
 0.0.0.0 cr.loszona.com
 0.0.0.0 crm.aaditech.com
 0.0.0.0 cr.m.liebao.cn
@@ -9374,6 +9378,7 @@
 0.0.0.0 c.x.oanda.com
 0.0.0.0 cxoios.chip.de
 0.0.0.0 cxzv260ad-system.16mb.com
+0.0.0.0 cy2.settings.data.microsoft.com.akadns.net
 0.0.0.0 cylm.jh56.cn
 0.0.0.0 cyseal.cyveillance.com
 0.0.0.0 cytopathic.analbanged.com
@@ -9929,6 +9934,7 @@
 0.0.0.0 db5sch103082111.wns.windows.com
 0.0.0.0 db5sch103082406.wns.windows.com
 0.0.0.0 db5sch103092209.wns.windows.com
+0.0.0.0 db5.settings.data.microsoft.com.akadns.net
 0.0.0.0 db5wns1d.wns.windows.com
 0.0.0.0 db5.wns.windows.com
 0.0.0.0 db6sch102091105.wns.windows.com
@@ -12434,6 +12440,7 @@
 0.0.0.0 georcoll.on.ca
 0.0.0.0 geo.sanoma.fi
 0.0.0.0 geoservice.curse.com
+0.0.0.0 geo.settings.data.microsoft.com.akadns.net
 0.0.0.0 geoshopping.nzherald.co.nz
 0.0.0.0 geo.startappservice.com
 0.0.0.0 geover-prod.do.dsp.mp.microsoft.com
@@ -21365,7 +21372,6 @@
 0.0.0.0 slot.union.ucweb.com
 0.0.0.0 slpubmedias.tf1.fr
 0.0.0.0 slsahghs.edu.bd
-0.0.0.0 sls.update.microsoft.com.akadns.net
 0.0.0.0 small.whatsbestforourkids.com
 0.0.0.0 sma.punto.net
 0.0.0.0 smart2.allocine.fr
@@ -22140,10 +22146,7 @@
 0.0.0.0 stats.farfetch.com
 0.0.0.0 stats.fastcompany.com
 0.0.0.0 stats.fd.nl
-0.0.0.0 statsfe1.ws.microsoft.com
 0.0.0.0 statsfe2.update.microsoft.com
-0.0.0.0 statsfe2.update.microsoft.com.akadns.net
-0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 stats.feitianma.com
 0.0.0.0 stats.fileplanet.com
 0.0.0.0 stats.fittkaumaass.de
@@ -23001,6 +23004,7 @@
 0.0.0.0 tentsf05luxfig.rr.nu
 0.0.0.0 te.nytdigital.com
 0.0.0.0 te.orlandosentinel.com
+0.0.0.0 teredo.ipv6.microsoft.com
 0.0.0.0 terem.eltransbt.ro
 0.0.0.0 terms-app.clan.su
 0.0.0.0 terms-page.at.ua
