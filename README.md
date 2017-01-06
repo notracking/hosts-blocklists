@@ -32,7 +32,9 @@ It's important to use both these blocklists simultaniously to get full coverage 
  - https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
  - http://malwaredomains.lehigh.edu/files/BOOT
  - http://malwaredomains.lehigh.edu/files/immortal_domains.txt
- - a large set of custom entries!
+ - https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt `Excluding license servers used for legit purposes`
+ - https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt
+ - a large set of custom entries
   
 **Adblock Plus lists** (only full hostname, non-3rd party filters)
  - https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt
