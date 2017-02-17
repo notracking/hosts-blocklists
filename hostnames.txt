@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Feb 16 05:54:23 CET 2017
-# Number of unique hostnames: 29595
+# Last update: Fri Feb 17 05:42:56 CET 2017
+# Number of unique hostnames: 29622
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -567,6 +567,7 @@
 0.0.0.0 a1.dnbizcdn.com
 0.0.0.0 a1.goo.ne.jp
 0.0.0.0 a1.greenadworks.net
+0.0.0.0 a1.kuku99.com
 0.0.0.0 a1.lmaq.cn
 0.0.0.0 a.1nimo.com
 0.0.0.0 a1.openxt.cn
@@ -579,6 +580,7 @@
 0.0.0.0 a2315.oadz.com
 0.0.0.0 a2.b310.com
 0.0.0.0 a2.cdnpark.com
+0.0.0.0 a2.kuku99.com
 0.0.0.0 a2.mediagra.com
 0.0.0.0 a2.openxt.cn
 0.0.0.0 a2shd.realshieldlinked.com
@@ -4576,6 +4578,7 @@
 0.0.0.0 advrts.s3.amazonaws.com
 0.0.0.0 ad.vrvm.com
 0.0.0.0 adv.s8bbs.com
+0.0.0.0 adv.satsis.info
 0.0.0.0 adv.sec.miui.com
 0.0.0.0 adv.speednet.bg
 0.0.0.0 adv.starozagorci.com
@@ -5450,7 +5453,6 @@
 0.0.0.0 andmlbf.tj.ijinshan.com
 0.0.0.0 android.bigresource.com
 0.0.0.0 androiddev.orkitra.com
-0.0.0.0 android-lrcresource.wps.cn
 0.0.0.0 android.push.126.net
 0.0.0.0 androidquery.appspot.com
 0.0.0.0 android.rqd.qq.com
@@ -7267,6 +7269,7 @@
 0.0.0.0 bofaverlfy.pe.hu
 0.0.0.0 boksy.dir.onet.pl
 0.0.0.0 boksy.onet.pl
+0.0.0.0 bole.shangshufang.ksosoft.com
 0.0.0.0 boll.phoenixsports.org
 0.0.0.0 bolt.jebe.renren.com
 0.0.0.0 bombastearviso.1gramgold.info
@@ -10481,6 +10484,7 @@
 0.0.0.0 dispatcher.upmc.uc.cn
 0.0.0.0 dispatch.login.dlethbridge.com
 0.0.0.0 dispenser-rtb.sape.ru
+0.0.0.0 display.360totalsecurity.com
 0.0.0.0 display.ad.daum.net
 0.0.0.0 displayadserv.adsimilate.com
 0.0.0.0 display-c5.bazaarvoice.com
@@ -10560,6 +10564,7 @@
 0.0.0.0 dl.nx5.com
 0.0.0.0 dload.qd.qingting.fm
 0.0.0.0 dl.ops.baidu.com
+0.0.0.0 dl.op.wpscdn.cn
 0.0.0.0 dl.ourinfoonlinestack.com
 0.0.0.0 dlsw.br.baidu.com
 0.0.0.0 dl.thefirstrowapp.com
@@ -10627,6 +10632,7 @@
 0.0.0.0 dnyjp3iys0r8o.cloudfront.net
 0.0.0.0 doc.2makeaprofit.com
 0.0.0.0 doc.doc.instruction.ukfrn.co.uk
+0.0.0.0 docerad.wps.cn
 0.0.0.0 doc.indianmedicalsupply.co.in
 0.0.0.0 doc.innovative-rain-systems.com
 0.0.0.0 doc.kidsthatgo.com
@@ -12567,7 +12573,6 @@
 0.0.0.0 gasurvey.gemius.com
 0.0.0.0 gaswljdh.qpoe.com
 0.0.0.0 gaszq7.nero.printersclothcompany.com
-0.0.0.0 gate.hockeyapp.net
 0.0.0.0 gate.hyperpaysys.com
 0.0.0.0 gateste.sanatate.us
 0.0.0.0 gate.technopolis.kirov.ru
@@ -13034,6 +13039,7 @@
 0.0.0.0 g.ousns.net
 0.0.0.0 go.util.zlibs.com
 0.0.0.0 gouv.impots.fr.fusiontek.com.ar
+0.0.0.0 gou.wps.cn
 0.0.0.0 govahoyuge.itup.pw
 0.0.0.0 gover.governcoller.com
 0.0.0.0 go.verymuchad.com
@@ -13735,6 +13741,7 @@
 0.0.0.0 ice.wwfcolvid.com
 0.0.0.0 ic.ie.027ie.com
 0.0.0.0 icioudsupportteamref46532.topslearningsystem.org
+0.0.0.0 ic.ksosoft.com
 0.0.0.0 i.clkservice.youdao.com
 0.0.0.0 icloud.account-id.com
 0.0.0.0 icloud.com-activation.us
@@ -13745,6 +13752,7 @@
 0.0.0.0 icon.55bbs.com
 0.0.0.0 icon.ajiang.net
 0.0.0.0 icon.cnmo.com
+0.0.0.0 ic.rdtuijian.com
 0.0.0.0 icscards.nl.bymabogados.cl
 0.0.0.0 ictservicedesk.webeden.co.uk
 0.0.0.0 id34128.supportcenter.taxrefund.ashfdl.com
@@ -14005,8 +14013,8 @@
 0.0.0.0 img.163.com
 0.0.0.0 img1.g.pptv.com
 0.0.0.0 img1.km.com
+0.0.0.0 img1.mini.cache.wps.cn
 0.0.0.0 img1.ncsreporting.com
-0.0.0.0 img1.pcfg.cache.wps.cn
 0.0.0.0 img1.ru.redtram.com
 0.0.0.0 img1.tan5858.com
 0.0.0.0 img1.trxxn.com
@@ -14024,6 +14032,7 @@
 0.0.0.0 img2.jiuzhilan.com
 0.0.0.0 img2.km.com
 0.0.0.0 img.2leva.bg
+0.0.0.0 img2.mini.cache.wps.cn
 0.0.0.0 img2.paipaiimg.com
 0.0.0.0 img2.ru.redtram.com
 0.0.0.0 img2.trxxn.com
@@ -14114,6 +14123,7 @@
 0.0.0.0 img.gaore.com
 0.0.0.0 img.geruishengwu.com
 0.0.0.0 img.gmo.jp
+0.0.0.0 img.gou.wpscdn.cn
 0.0.0.0 img.gz9d.com
 0.0.0.0 img.hai61.com
 0.0.0.0 img.hostmonster.com
@@ -14183,6 +14193,7 @@
 0.0.0.0 img.wmp10.elsitiodc.com
 0.0.0.0 img.woolik.com
 0.0.0.0 imgwx3.2345.com
+0.0.0.0 img.xingzuo360.cn
 0.0.0.0 img.xinjunshi.com
 0.0.0.0 img.xinzhongwo.com.cn
 0.0.0.0 img.xnxx.com
@@ -16874,6 +16885,7 @@
 0.0.0.0 mklj.1ts.pl
 0.0.0.0 m.kt0731.com
 0.0.0.0 mktg.marktplaats.nl
+0.0.0.0 mkt.publico.pt
 0.0.0.0 m.kubiqq.com
 0.0.0.0 m.laigame7.net
 0.0.0.0 m.laikahotel.com
@@ -17556,6 +17568,7 @@
 0.0.0.0 nl-moneyou.netmining.com
 0.0.0.0 nlog.baidu.com
 0.0.0.0 nl-saab.netmining.com
+0.0.0.0 nlytcs.diffen.com
 0.0.0.0 nm6vqv.net.a1traveldirect.co.uk
 0.0.0.0 n.ma.social-touch.com
 0.0.0.0 nmp.ac.th
@@ -17625,6 +17638,7 @@
 0.0.0.0 notice.uchome.manyou.com
 0.0.0.0 noticias.guiaterapeutica.cl
 0.0.0.0 notification-recovery.twomini.com
+0.0.0.0 notify.wps.cn
 0.0.0.0 nourteenthp.angelcities.com
 0.0.0.0 nouvelobs.s3-website-eu-west-1.amazonaws.com
 0.0.0.0 nova.cheryldare.com
@@ -19149,6 +19163,7 @@
 0.0.0.0 pc.systemsclotherneting.net
 0.0.0.0 pctuzing.php5.cz
 0.0.0.0 pctweu.vancouverco.com
+0.0.0.0 pc.uf.ksosoft.com
 0.0.0.0 pcupgrade.check4newupdates.net
 0.0.0.0 pc.videoclick.baidu.com
 0.0.0.0 pd1.funnyhost.com
@@ -19449,6 +19464,7 @@
 0.0.0.0 pixel.yola.net
 0.0.0.0 pix.gfycat.com
 0.0.0.0 pixiedust.buzzfeed.com
+0.0.0.0 pixiu.shangshufang.ksosoft.com
 0.0.0.0 pix.news.at
 0.0.0.0 pix.omroep.nl
 0.0.0.0 pix.silverpush.co
@@ -22382,6 +22398,8 @@
 0.0.0.0 spyware-scan.100gal.net
 0.0.0.0 spyware.usafreespace.com
 0.0.0.0 sq0nmiiw.njylyljg.com
+0.0.0.0 sq1.chinacsky.com
+0.0.0.0 sq2.chinacsky.com
 0.0.0.0 sq6.getmetob.ru
 0.0.0.0 s.qd.qingting.fm
 0.0.0.0 s.qd.qingtingfm.com
@@ -22739,6 +22757,7 @@
 0.0.0.0 static.tracking202.com
 0.0.0.0 static.trackuity.com
 0.0.0.0 static.traffe.eu
+0.0.0.0 static.ts.360.com
 0.0.0.0 static.tv508.com
 0.0.0.0 static.uk.addynamo.com
 0.0.0.0 static.unister-adservices.com
@@ -23782,7 +23801,9 @@
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.battle.net
 0.0.0.0 telemetry.gfe.nvidia.com
+0.0.0.0 telemetry.jivosite.com
 0.0.0.0 telemetry.microsoft.com
+0.0.0.0 telemetry.microsoft.com.nsatc.net
 0.0.0.0 telemetry.nvidia.com
 0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 telemetry.urs.microsoft.com
@@ -23910,6 +23931,8 @@
 0.0.0.0 tfp.2ref.co
 0.0.0.0 tg.1155t.cn
 0.0.0.0 tg.52digua.com
+0.0.0.0 tg.602.com
+0.0.0.0 tg.654321wan.com
 0.0.0.0 tg.7477.com
 0.0.0.0 tgd.timesonline.co.uk
 0.0.0.0 tgjhyjxjy.everestkarate.com
@@ -25386,6 +25409,7 @@
 0.0.0.0 ups.xplosion.de
 0.0.0.0 uptpro.homestead.com
 0.0.0.0 upush.res.meizu.com
+0.0.0.0 up.wps.kingsoft.com
 0.0.0.0 uqd168.shouji56.com
 0.0.0.0 u.qoxyo.cn
 0.0.0.0 uqxue3.cmbtn.combertonplaygroup.co.uk
@@ -25667,6 +25691,7 @@
 0.0.0.0 ves1q919.myutilitydomain.com
 0.0.0.0 vesoj.ayantut.com
 0.0.0.0 ve.tscapeplay.com
+0.0.0.0 ve.tsdlp.com
 0.0.0.0 veycyy.hiro.elsibbles.co.uk
 0.0.0.0 vf1.soundsecuredredir.com
 0.0.0.0 vf2.soundsecuredredir.com
@@ -26137,7 +26162,6 @@
 0.0.0.0 web-hosting.hitslog.net
 0.0.0.0 webhosting.hut1.ru
 0.0.0.0 web.houyi.baofeng.net
-0.0.0.0 webindicator.siteheart.com
 0.0.0.0 web.informer.com
 0.0.0.0 webinline.look4like.com
 0.0.0.0 webinline-usage.streamesh.net
@@ -26350,7 +26374,6 @@
 0.0.0.0 widgets.fccinteractive.com
 0.0.0.0 widgets.goldankauf123.de
 0.0.0.0 widget.shopstyle.com.au
-0.0.0.0 widget.siteheart.com
 0.0.0.0 widgets.markosweb.com
 0.0.0.0 widgets.mobilelocalnews.com
 0.0.0.0 widgets.mozo.com.au
@@ -26514,6 +26537,7 @@
 0.0.0.0 wp-index.remapsuk.co.uk
 0.0.0.0 w.prize44.com
 0.0.0.0 wp-stat.s3.amazonasw.com
+0.0.0.0 wpsweb-dc.wps.cn
 0.0.0.0 wp.twells.com.hostingmurah.co
 0.0.0.0 wpvhiedhnzxs.myfw.us
 0.0.0.0 wpwvhk.size.hammondalatasimages.com
@@ -29133,8 +29157,10 @@
 0.0.0.0 www.zwierzakiatakuja.pl
 0.0.0.0 www.zywawoda.pl
 0.0.0.0 www.zyxyfy.com
+0.0.0.0 ww.xiaopiaoyou.com
 0.0.0.0 wx.8536818.com
 0.0.0.0 w.x.baidu.com
+0.0.0.0 w.xiaopiaoyou.com
 0.0.0.0 wxsnsdy.tc.qq.com
 0.0.0.0 wxsnsdy.video.qq.com
 0.0.0.0 wxy.bnuep.com
@@ -29417,6 +29443,7 @@
 0.0.0.0 yl.apyuelang.com
 0.0.0.0 ylgingq.angelcities.com
 0.0.0.0 ylpzt.juzojossai.net
+0.0.0.0 yn.001fzc.com
 0.0.0.0 y.net-games.co.il
 0.0.0.0 yn.xsu.cc
 0.0.0.0 yoclub.waphall.com
