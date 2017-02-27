@@ -38,6 +38,8 @@ It's important to use both these blocklists simultaniously to get full coverage 
  - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win81/spy.txt
  - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win10/spy.txt
  - https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+ - http://www.dshield.org/feeds/suspiciousdomains_Medium.txt
+ - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
  - a large set of custom entries
   
 **Adblock Plus lists** (only full hostname, non-3rd party filters)
