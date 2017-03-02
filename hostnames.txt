@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Mar 1 05:32:58 CET 2017
-# Number of unique hostnames: 30638
+# Last update: Thu Mar 2 05:23:04 CET 2017
+# Number of unique hostnames: 30656
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -103,6 +103,7 @@
 0.0.0.0 123counter.mycomputer.com
 0.0.0.0 123.fluxads.com
 0.0.0.0 123.ichkoche.at
+0.0.0.0 123.sogou.com
 0.0.0.0 125668.csmes.org
 0.0.0.0 126419-deu-storno-sicherheit-konto_identity.sicherheitssystem-sicherheitshilfe.ga
 0.0.0.0 1274.mediatraffic.com
@@ -5415,6 +5416,7 @@
 0.0.0.0 analytics.atomiconline.com
 0.0.0.0 analytics.beeznest.com
 0.0.0.0 analytics.belgacom.be
+0.0.0.0 analytics.bigcommerce.com
 0.0.0.0 analytics.blogspot.com
 0.0.0.0 analytics.bloomberg.com
 0.0.0.0 analytics.bluemars.net
@@ -5721,6 +5723,7 @@
 0.0.0.0 api.cpu.baidu.com
 0.0.0.0 api.dewmobile.net
 0.0.0.0 apidiamondatanet-a.akamaihd.net
+0.0.0.0 api.drxdai.com
 0.0.0.0 api.elasticemail.com
 0.0.0.0 apifasterlightin-a.akamaihd.net
 0.0.0.0 api.flicktweets.com
@@ -7068,6 +7071,7 @@
 0.0.0.0 bc685d37-266c-488e-824e-dd95d1c0e98b.statcamp.net
 0.0.0.0 b.c8.net.ua
 0.0.0.0 b.camplace.com
+0.0.0.0 bcanalytics.bigcommerce.com
 0.0.0.0 bcc.bradweb.co.uk
 0.0.0.0 bccc.kickme.to
 0.0.0.0 bcc.linternaute.com
@@ -9631,6 +9635,7 @@
 0.0.0.0 cs18.livetex.ru
 0.0.0.0 cs19.livetex.ru
 0.0.0.0 cs1.livetex.ru
+0.0.0.0 cs1.wpc.v0cdn.net
 0.0.0.0 cs20.livetex.ru
 0.0.0.0 cs2.livetex.ru
 0.0.0.0 cs3.livetex.ru
@@ -10577,6 +10582,7 @@
 0.0.0.0 demo02.firstdigitalshowcase.com
 0.0.0.0 demo1.dimensionindia.com
 0.0.0.0 demo1.zohaibpk.com
+0.0.0.0 demo25.extstore.com
 0.0.0.0 demo.ahost5.ru
 0.0.0.0 demo.bizcompare.co.uk
 0.0.0.0 demo.evgesha.ru
@@ -11574,6 +11580,7 @@
 0.0.0.0 e-kasa.w8w.pl
 0.0.0.0 e.kde.cz
 0.0.0.0 ekdmnw.3836.mig3836.co.uk
+0.0.0.0 e.kimgfvz.com
 0.0.0.0 eko.cal.pl
 0.0.0.0 elearning.iav.it
 0.0.0.0 elections.org.sz
@@ -12023,6 +12030,7 @@
 0.0.0.0 f91esh5t3c71.doudou-couffin-jouets-tissus-personnalise.be
 0.0.0.0 f958gz.hightiudosbuld.net
 0.0.0.0 f9ezxc.wm.warmglow.org
+0.0.0.0 fable.in.ua
 0.0.0.0 f.about.com
 0.0.0.0 fabryka-chinczykow.blogspot.com
 0.0.0.0 face.annularvelocity.net
@@ -14556,6 +14564,7 @@
 0.0.0.0 imgcache.classesusa.com
 0.0.0.0 img.cbs99.com
 0.0.0.0 img.ccxuanhang.com
+0.0.0.0 imgcdn2.pdsywd.com
 0.0.0.0 imgcdn.ahzlep.com
 0.0.0.0 imgcdn.de92.com
 0.0.0.0 imgcdn.mazaibang.com
@@ -14612,6 +14621,7 @@
 0.0.0.0 imgpromo.easyrencontre.com
 0.0.0.0 img.qiyou.com
 0.0.0.0 img.qj.media8.cn
+0.0.0.0 img.qqgeshou.com
 0.0.0.0 img.qtdfg.com
 0.0.0.0 img.qun89.com
 0.0.0.0 img.readme.ru
@@ -15338,6 +15348,7 @@
 0.0.0.0 js.union.doudouguo.net
 0.0.0.0 js.union-wifi.com
 0.0.0.0 js.uvidi.com
+0.0.0.0 js.wdad001.com
 0.0.0.0 js-webt-lol.9cache.com
 0.0.0.0 js.willads.pw
 0.0.0.0 js.wjnpxk.com
@@ -16806,6 +16817,7 @@
 0.0.0.0 mb.yidianzixun.com
 0.0.0.0 mb.zam.com
 0.0.0.0 mc-acc.hpage.com
+0.0.0.0 mcar.in.ua
 0.0.0.0 m.cartekj.com
 0.0.0.0 m.catalogue-sample.page.tl
 0.0.0.0 mcc.chinauma.net
@@ -17468,6 +17480,7 @@
 0.0.0.0 mm.bbrpg.cn
 0.0.0.0 mm.dopa.com.cn
 0.0.0.0 mmedc.kbgswwogodd.ml
+0.0.0.0 mm.hlipqiuo.net
 0.0.0.0 mmi.bemobile.ua
 0.0.0.0 m.mirmay.com
 0.0.0.0 mm-mmm0.paykasabozdurma.xyz
@@ -17706,6 +17719,7 @@
 0.0.0.0 msphoneclick.kuwo.cn
 0.0.0.0 mss.handmark.com
 0.0.0.0 mssp.baidu.com
+0.0.0.0 mssp.yuanfenba.net
 0.0.0.0 mssqladmin.surf-town.net
 0.0.0.0 mst.f1foodies.info
 0.0.0.0 m.support.paypal.comwalletsettings.co.vu
@@ -20212,6 +20226,7 @@
 0.0.0.0 po4dbsjbneljhrlbvaueqrgveatv.bonmawp.at
 0.0.0.0 pobieraj.xh.pl
 0.0.0.0 pobieramy.lt.pl
+0.0.0.0 pobierz.shop.pl
 0.0.0.0 pocketmoney-presupuestario.zee3o.com
 0.0.0.0 podcasts.screenrant.com
 0.0.0.0 podgfb.5x.pl
@@ -22838,6 +22853,7 @@
 0.0.0.0 s.lianmeng.360.cn
 0.0.0.0 slide.howardnapper.co.uk
 0.0.0.0 slides.discovery.tom.com
+0.0.0.0 slim.sellany.ru
 0.0.0.0 slip.madmoizelle.com
 0.0.0.0 slo34p89ujhs-khb747bjg324yu0-234.skops0d-xiemopqno.in
 0.0.0.0 slo3pmnsop-khb747bjg324yu830k.endzoneroot.in
@@ -25017,6 +25033,7 @@
 0.0.0.0 townhall.weekendinc.com
 0.0.0.0 town.zi-systech.com
 0.0.0.0 toyota.cyberealhosting.com
+0.0.0.0 toys.erolove.in
 0.0.0.0 tpads.ovguide.com
 0.0.0.0 tpads.sv.publicus.com
 0.0.0.0 t.paypal.com
@@ -26907,6 +26924,7 @@
 0.0.0.0 wangmeng.sogou.com
 0.0.0.0 wangnumku.plpolice.com
 0.0.0.0 wan.rising.cn
+0.0.0.0 wan.sogou.com
 0.0.0.0 want.firemfr.com
 0.0.0.0 want.visionsquad.com
 0.0.0.0 want.zla.se
