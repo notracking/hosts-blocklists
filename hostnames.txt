@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Mar 25 05:34:54 CET 2017
-# Number of unique hostnames: 30764
+# Last update: Sun Mar 26 05:19:32 CEST 2017
+# Number of unique hostnames: 30741
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -4563,6 +4563,7 @@
 0.0.0.0 advert.exaccess.ru
 0.0.0.0 advert.funimation.com
 0.0.0.0 advert.gamedp.com
+0.0.0.0 advert.gameranger.com
 0.0.0.0 advert.gittigidiyor.com
 0.0.0.0 advertise.about.com
 0.0.0.0 advertise.bingads.microsoft.com
@@ -6378,7 +6379,6 @@
 0.0.0.0 a.yesadsrv.com
 0.0.0.0 a.yichum.com
 0.0.0.0 ayjp.sisplm.ml
-0.0.0.0 a.youdao.com
 0.0.0.0 a.yu0123456.com
 0.0.0.0 ayvalik.info.tr
 0.0.0.0 az361816.vo.msecnd.net
@@ -7082,7 +7082,6 @@
 0.0.0.0 bccc.kickme.to
 0.0.0.0 bcc.linternaute.com
 0.0.0.0 bce.baidu.com
-0.0.0.0 b.clkservice.youdao.com
 0.0.0.0 bc.marfeel.com
 0.0.0.0 bcm.itv.com
 0.0.0.0 bc.nhk.jp
@@ -8019,6 +8018,7 @@
 0.0.0.0 cc5f.dnyp.com
 0.0.0.0 c.ca.msn.com
 0.0.0.0 ccas.clearchannel.com
+0.0.0.0 ccb.uncle-ad.com
 0.0.0.0 cc.dace.hupu.com
 0.0.0.0 c.cd-secure.com
 0.0.0.0 ccjbox.ivyro.net
@@ -8883,7 +8883,6 @@
 0.0.0.0 clk.optaim.com
 0.0.0.0 clk.pdb.madserving.com
 0.0.0.0 clk.secureintl.com
-0.0.0.0 clkservice.youdao.com
 0.0.0.0 clk.sjopt.com
 0.0.0.0 clk.solocpm.com
 0.0.0.0 clkstat.qihoo.com
@@ -9241,7 +9240,6 @@
 0.0.0.0 conversion.adpro.cn
 0.0.0.0 conversion.buddymedia.com
 0.0.0.0 convertglobal.s3.amazonaws.com
-0.0.0.0 conv.youdao.com
 0.0.0.0 cookex.amp.yahoo.com
 0.0.0.0 cookiecontainer.blox.pl
 0.0.0.0 cookie.disneylandparis.com
@@ -9938,6 +9936,7 @@
 0.0.0.0 d21j20wsoewvjq.cloudfront.net
 0.0.0.0 d21o24qxwf7uku.cloudfront.net
 0.0.0.0 d21r4q0rdzodf.cloudfront.net
+0.0.0.0 d2222t5nvb13ei.cloudfront.net
 0.0.0.0 d22248tsz5887t.cloudfront.net
 0.0.0.0 d23guct4biwna6.cloudfront.net
 0.0.0.0 d23nyyb6dc29z6.cloudfront.net
@@ -10464,7 +10463,6 @@
 0.0.0.0 dc.letv.com
 0.0.0.0 dclk.haaretz.co.il
 0.0.0.0 dclk.haaretz.com
-0.0.0.0 d.clkservice.youdao.com
 0.0.0.0 dclk.themarker.com
 0.0.0.0 dclk.themarketer.com
 0.0.0.0 dcmw-39ubdfh.bxoskh388yhs.in
@@ -11272,7 +11270,6 @@
 0.0.0.0 dsp.ad.cmvideo.cn
 0.0.0.0 dsp.brand.sogou.com
 0.0.0.0 dspcm.brand.sogou.com
-0.0.0.0 dsp-impr2.youdao.com
 0.0.0.0 dspserver.ad.cmvideo.cn
 0.0.0.0 dsp.simba.taobao.com
 0.0.0.0 dsp.toutiao.com
@@ -13466,7 +13463,6 @@
 0.0.0.0 go.qb.by
 0.0.0.0 goracynews24.prv.pl
 0.0.0.0 go.realvu.net
-0.0.0.0 gorgon.youdao.com
 0.0.0.0 gorilas.zyns.com
 0.0.0.0 go.securelinktrack.com
 0.0.0.0 goska.siol.net
@@ -14260,7 +14256,6 @@
 0.0.0.0 ic.ie.027ie.com
 0.0.0.0 icioudsupportteamref46532.topslearningsystem.org
 0.0.0.0 ic.ksosoft.com
-0.0.0.0 i.clkservice.youdao.com
 0.0.0.0 icloud.account-id.com
 0.0.0.0 icloud.com-activation.us
 0.0.0.0 icloud.com.ic12.pro
@@ -14786,16 +14781,6 @@
 0.0.0.0 impots.gouv.fr.direction.des.finance.publique.simgoonfelez.com
 0.0.0.0 imp.pdb.madserving.com
 0.0.0.0 impression.clickinc.com
-0.0.0.0 impservice2.youdao.com
-0.0.0.0 impservice.chnl.youdao.com
-0.0.0.0 impservice.dictapp.youdao.com
-0.0.0.0 impservice.dictvista.youdao.com
-0.0.0.0 impservice.dictweb.youdao.com
-0.0.0.0 impservice.dictword.youdao.com
-0.0.0.0 impservice.dict.youdao.com
-0.0.0.0 impservice.mail.youdao.com
-0.0.0.0 impservice-test.dictapp.youdao.com
-0.0.0.0 impservice.union.youdao.com
 0.0.0.0 imp.xgo.com.cn
 0.0.0.0 imp.zdnet.com.cn
 0.0.0.0 imp.zol.com.cn
@@ -16915,7 +16900,6 @@
 0.0.0.0 mcgee35.netfirms.com
 0.0.0.0 mcgfa.fmgupbjivsvtyh.ml
 0.0.0.0 mcl.girlsgothic.com
-0.0.0.0 m.clkservice.youdao.com
 0.0.0.0 mcmads.mediacapital.pt
 0.0.0.0 mcniwok3hnxio4.ejedop38mospuleuy.in
 0.0.0.0 mco32jiosp-khb747bjg324yua-92h3.gertasoper-joome.in
@@ -18014,8 +17998,6 @@
 0.0.0.0 n.bodybuilding.com
 0.0.0.0 nbook.far.ru
 0.0.0.0 nbsdk-baichuan.taobao.com
-0.0.0.0 nc004x.corp.youdao.com
-0.0.0.0 nc045x.corp.youdao.com
 0.0.0.0 nc2199.eden5.netclusive.de
 0.0.0.0 ncads.s3.amazonaws.com
 0.0.0.0 ncbvhwg28ujk.zxqeiqp4j-dhbeow.in
@@ -19886,7 +19868,6 @@
 0.0.0.0 pclick.europe.yahoo.com
 0.0.0.0 pclick.internal.yahoo.com
 0.0.0.0 pclick.yahoo.com
-0.0.0.0 p.clkservice.youdao.com
 0.0.0.0 pclog.suishenyun.net
 0.0.0.0 pc.moji.com
 0.0.0.0 pcookie.tanx.com
@@ -21051,7 +21032,6 @@
 0.0.0.0 qsrmjfkfithk.findhere.org
 0.0.0.0 qss-client.qq.com
 0.0.0.0 q.stripe.com
-0.0.0.0 qt002x.corp.youdao.com
 0.0.0.0 qt.biqugezw.com
 0.0.0.0 quad-registry-cleaner.softonic.fr
 0.0.0.0 quasar.sitegauge.com
@@ -22088,6 +22068,7 @@
 0.0.0.0 sayac.onlinewebstats.com
 0.0.0.0 say.boomerzguide.com
 0.0.0.0 say.sellwithaustinhomegroup.com
+0.0.0.0 sayyoethe.blogspot.co.za
 0.0.0.0 sb1.surf-town.net
 0.0.0.0 sba.about.co.kr
 0.0.0.0 s.baidu7653.com
@@ -24547,8 +24528,6 @@
 0.0.0.0 tax-professionals.irsefiletaxpro.com
 0.0.0.0 tax-refund-hmrc-id00233.com.dormoszip.com
 0.0.0.0 taxrefund.irsgov.connect.astroharihar.com
-0.0.0.0 tb060x.corp.youdao.com
-0.0.0.0 tb104x.corp.youdao.com
 0.0.0.0 tb.altervista.org
 0.0.0.0 t.bbtrack.net
 0.0.0.0 t.beanstalkdata.com
@@ -25337,7 +25316,6 @@
 0.0.0.0 track.greatofferstoyou.net
 0.0.0.0 track.grmtracking.com
 0.0.0.0 track.happylifestylestoday.com
-0.0.0.0 track.happysitewriter.com
 0.0.0.0 track.hatena.ne.jp
 0.0.0.0 track.homestead.com
 0.0.0.0 track.hotdrugsstore.in
@@ -30519,7 +30497,6 @@
 0.0.0.0 ycrpdty.kbgswwogodd.ml
 0.0.0.0 ycs-w1.design-develop-deploy.com
 0.0.0.0 y.da.hunantv.com
-0.0.0.0 ydpushserver.youdao.com
 0.0.0.0 year.brookviewcommunications.com
 0.0.0.0 year.ebreezetech.com
 0.0.0.0 yeas.yahoo.co.jp
