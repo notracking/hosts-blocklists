@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Apr 5 05:31:43 CEST 2017
-# Number of unique hostnames: 31007
+# Last update: Thu Apr 6 05:25:36 CEST 2017
+# Number of unique hostnames: 31008
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -1165,6 +1165,7 @@
 0.0.0.0 a.dangdang.com
 0.0.0.0 ad.anprom.com
 0.0.0.0 ad.anuntis.com
+0.0.0.0 ad-api.cnblogs.com
 0.0.0.0 adapi.lenovogame.com
 0.0.0.0 ad.api.moji.com
 0.0.0.0 adapi.ragapa.com
@@ -10185,6 +10186,7 @@
 0.0.0.0 d3jnni91martf0.cloudfront.net
 0.0.0.0 d3jw53rnbzs7gr.cloudfront.net
 0.0.0.0 d3k5fl0ycdyj0l.cloudfront.net
+0.0.0.0 d3k68ig7ckr3r6.cloudfront.net
 0.0.0.0 d3l3lkinz3f56t.cloudfront.net
 0.0.0.0 d3laygk9zni6hc.cloudfront.net
 0.0.0.0 d3lc9zmxv46zr.cloudfront.net
@@ -11855,7 +11857,6 @@
 0.0.0.0 epowernetworktrackerimages.s3.amazonaws.com
 0.0.0.0 epson-printer-ink.beesearch.info
 0.0.0.0 epxkb8zz4ssdv7b.global.ssl.fastly.net
-0.0.0.0 e.qdchunyu.com
 0.0.0.0 e.qq.com
 0.0.0.0 eqs-redserver.appspot.com
 0.0.0.0 equation.cutecheapshoes.com
@@ -17872,7 +17873,6 @@
 0.0.0.0 mpv.sandai.net
 0.0.0.0 mp.weixin.qq.com
 0.0.0.0 m.qcw.com
-0.0.0.0 m.qdchunyu.com
 0.0.0.0 m.qianka.com
 0.0.0.0 mqqad.cs0309.html5.qq.com
 0.0.0.0 mqqad.html5.qq.com
@@ -18012,6 +18012,7 @@
 0.0.0.0 mychannelvip2.netscape.com
 0.0.0.0 my.clickdesk.com
 0.0.0.0 mycounter.tinycounter.com
+0.0.0.0 m.ycsensornet.com
 0.0.0.0 mydaddy.b0x.com
 0.0.0.0 mydb1.surf-town.net
 0.0.0.0 mydb2.surf-town.net
