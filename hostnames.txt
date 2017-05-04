@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed May 3 05:23:55 CEST 2017
-# Number of unique hostnames: 31638
+# Last update: Thu May 4 05:34:17 CEST 2017
+# Number of unique hostnames: 31680
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -5297,6 +5297,7 @@
 0.0.0.0 a.kat.ph
 0.0.0.0 akbid-alikhlas.ac.id
 0.0.0.0 ak.buyservices.com
+0.0.0.0 akdanji.yxdown.cn
 0.0.0.0 a.kerg.net
 0.0.0.0 akhbar.msryh.com
 0.0.0.0 a.kickassunblock.net
@@ -10263,6 +10264,7 @@
 0.0.0.0 d2d2lbvq8xirbs.cloudfront.net
 0.0.0.0 d2dq2ahtl5zl1z.cloudfront.net
 0.0.0.0 d2dxgm96wvaa5j.cloudfront.net
+0.0.0.0 d2g4rjb98r20op.cloudfront.net
 0.0.0.0 d2gfdmu30u15x7.cloudfront.net
 0.0.0.0 d2gfi8ctn6kki7.cloudfront.net
 0.0.0.0 d2ggw6du5pulet.cloudfront.net
@@ -11672,6 +11674,7 @@
 0.0.0.0 duuu.c0.pl
 0.0.0.0 dv0uonokej56p.cloudfront.net
 0.0.0.0 dv4uxy777adjt.cloudfront.net
+0.0.0.0 dvbee3zterhof.cloudfront.net
 0.0.0.0 dvbhvbqu34i-u2ih23.asdo3ubdfkjsh4.in
 0.0.0.0 dvf2u7vwmkr5w.cloudfront.net
 0.0.0.0 dviixeyykyqjv.cloudfront.net
@@ -24242,6 +24245,7 @@
 0.0.0.0 staticrr.sslsecure7.com
 0.0.0.0 staticrr.sslsecure8.com
 0.0.0.0 staticrr.sslsecure9.com
+0.0.0.0 statics.9669.com
 0.0.0.0 static.salesresourcepartners.com
 0.0.0.0 static-shareaholic.s3.amazonaws.com
 0.0.0.0 static.smni.com
@@ -25253,7 +25257,6 @@
 0.0.0.0 tcad.wedolook.com
 0.0.0.0 tcbwg1.blow.howtobelean.co.uk
 0.0.0.0 tc.ci123.com
-0.0.0.0 tce.alicdn.com
 0.0.0.0 tc.freehostedscripts.net
 0.0.0.0 tchakh93.myhostpoint.ch
 0.0.0.0 t.chengadx.com
@@ -27743,7 +27746,6 @@
 0.0.0.0 wap.chatwalk.com
 0.0.0.0 wap.cioujs.com
 0.0.0.0 wap.cmgame.com
-0.0.0.0 wap.koudaitong.com
 0.0.0.0 wap.mobiltek.pl
 0.0.0.0 wap.mpush.qq.com
 0.0.0.0 wapp2de.mobimaniac.com
@@ -28415,6 +28417,7 @@
 0.0.0.0 wtpn.twenga.it
 0.0.0.0 wtrace.cmgame.com
 0.0.0.0 wtracy.free.fr
+0.0.0.0 wtradv.market.xiaomi.com
 0.0.0.0 wtsdc.worldnow.com
 0.0.0.0 wt.sexsearchcom.com
 0.0.0.0 wt.socialsex.biz
@@ -28921,13 +28924,23 @@
 0.0.0.0 www.appfh.com
 0.0.0.0 www.appfindr.org
 0.0.0.0 www.appfoxes.com
+0.0.0.0 www.appie-securing.com
 0.0.0.0 www.appie-useragent.com
 0.0.0.0 www.apple-activation.net
+0.0.0.0 www.apple-air-icloud.com
+0.0.0.0 www.apple-applexd.com
 0.0.0.0 www.apple.com-redirect-authenticatio-accountid.info
+0.0.0.0 www.applefindtwios.com
+0.0.0.0 www.apple-gpsch.com
 0.0.0.0 www.apple-icloud-1.com
 0.0.0.0 www.apple-icloudldid.com
 0.0.0.0 www.apple-icloud.net
 0.0.0.0 www.appleidinfo.net
+0.0.0.0 www.apple-id-manage-apps.com
+0.0.0.0 www.appleid-passwords.com
+0.0.0.0 www.appleid-top.com
+0.0.0.0 www.apple-iforgax.com
+0.0.0.0 www.apple-kor.store
 0.0.0.0 www.applelounge.com
 0.0.0.0 www.appleprotection.org
 0.0.0.0 www.applexcid.com
@@ -29034,7 +29047,6 @@
 0.0.0.0 www.bettingmarket.com
 0.0.0.0 www.bfqnup.party
 0.0.0.0 www.bgchicks.com
-0.0.0.0 www.bgpxrwjrbsjb.com
 0.0.0.0 www.biddingx.com
 0.0.0.0 www.bidwee.com
 0.0.0.0 www.bigad.com.au
@@ -29116,7 +29128,6 @@
 0.0.0.0 www.buzzclick.com
 0.0.0.0 www.buzzuapp.club
 0.0.0.0 www.bxgjiage.com
-0.0.0.0 www.bzfguipyjops.com
 0.0.0.0 www.caerleon.com
 0.0.0.0 www.cafecoquin.com
 0.0.0.0 www.caixapre.com.br
@@ -29770,15 +29781,21 @@
 0.0.0.0 www.ibroadband.com
 0.0.0.0 www.icdxc.com
 0.0.0.0 www.icentric.net
+0.0.0.0 www.icloud-aer-apple.com
+0.0.0.0 www.icloud-air-apple.com
 0.0.0.0 www.icloud-appc.com
 0.0.0.0 www.icloud-appied.com
 0.0.0.0 www.icloud-apple-2.com
+0.0.0.0 www.icloud-appleld.com
 0.0.0.0 www.icloud-chinaid.net
+0.0.0.0 www.icloud-iphoneld.com
 0.0.0.0 www.icloud-ivce.com
 0.0.0.0 www.icloud-lncid.com
+0.0.0.0 www.icloud-locide.site
 0.0.0.0 www.icloud-rastrear.com
 0.0.0.0 www.icloudsiphone.com
 0.0.0.0 www.icloudz-apple.top
+0.0.0.0 www.icloup-yuie.cn
 0.0.0.0 www.icybrand.eu
 0.0.0.0 www.idealcasino.net
 0.0.0.0 www.ideaworks.com
@@ -29813,6 +29830,7 @@
 0.0.0.0 www.inevo.co.il
 0.0.0.0 www.infoaz.nl
 0.0.0.0 www.infolinia-kontakt-telefon.pl
+0.0.0.0 www.infoplantillas.com
 0.0.0.0 www.infotelsrl.com
 0.0.0.0 www.innovaimpresa.site90.net
 0.0.0.0 www.innovateads.com
@@ -29833,6 +29851,7 @@
 0.0.0.0 www.iperbanner.com
 0.0.0.0 www.iphone6plus.ewygrana.pl
 0.0.0.0 www.iphone-amy.com
+0.0.0.0 www.iphone-ary.com
 0.0.0.0 www.iphone-axe.com
 0.0.0.0 www.iphone-azs.com
 0.0.0.0 www.iphone-azx.com
@@ -29997,6 +30016,7 @@
 0.0.0.0 www.lonelycheatingwives.com
 0.0.0.0 www.looksmartclicks.com
 0.0.0.0 www.loongweed.com
+0.0.0.0 www.losapple.com
 0.0.0.0 www.lottoforever.com
 0.0.0.0 www.lovecouple.ru
 0.0.0.0 www.lovetrust.ru
@@ -30138,6 +30158,7 @@
 0.0.0.0 www.myclickbankads.com
 0.0.0.0 www.my-dirty-hobby.com
 0.0.0.0 www.myforum365.com
+0.0.0.0 www.my-iocid-icloud.com
 0.0.0.0 www.mylovecards.com
 0.0.0.0 www.myluvcrush.ca
 0.0.0.0 www.mymobcn.com
@@ -30213,7 +30234,6 @@
 0.0.0.0 www.nutten-verzeichnis.cxa.de
 0.0.0.0 www.nuvon.com
 0.0.0.0 www.nvshenfan.com
-0.0.0.0 www.nxcxithvcoeh.com
 0.0.0.0 www.nxsrv1.com
 0.0.0.0 www.nyackhomes.com
 0.0.0.0 www.oainternet.com
@@ -30296,6 +30316,7 @@
 0.0.0.0 www.patricia-selders.us
 0.0.0.0 www.pawnauctions.net
 0.0.0.0 www.pay-day-loans.net.au
+0.0.0.0 www.payments-appleid-apple.com
 0.0.0.0 www.paypaal.it
 0.0.0.0 www.pay-pal.com-cgibin-canada.4mcmeta4v.cn
 0.0.0.0 www.paypal-secure.me
@@ -30521,6 +30542,7 @@
 0.0.0.0 www.samb0a.com
 0.0.0.0 www.samsclub33.pochta.ru
 0.0.0.0 www.samsung.ewygrana.pl
+0.0.0.0 www.sanagustinromblon.gov.ph
 0.0.0.0 www.sankyo.gr.jp
 0.0.0.0 www.sanoma-adverteren.nl
 0.0.0.0 www.sanseracingteam.com
@@ -30558,6 +30580,7 @@
 0.0.0.0 www.secretgrowth-9489.us
 0.0.0.0 www.secretgrowth-97676.us
 0.0.0.0 www.secretosx.com
+0.0.0.0 www.secure-activityss.com
 0.0.0.0 www.securefreelinks.com
 0.0.0.0 www.security-us.org
 0.0.0.0 www.sedoxo.ewygrana.pl
@@ -30685,6 +30708,7 @@
 0.0.0.0 www.stirparts.ru
 0.0.0.0 www.stkjw.net
 0.0.0.0 www.stockhostingvault.com
+0.0.0.0 www.stops-appid.com
 0.0.0.0 www.streamatelive.com
 0.0.0.0 www.streamen.com
 0.0.0.0 www.stream-onlinemovies.com
@@ -30898,6 +30922,7 @@
 0.0.0.0 www.uniqebrokeroffers.com
 0.0.0.0 www.uniqueinternettexasholdempoker.com
 0.0.0.0 www.unitedmall.com
+0.0.0.0 www.update-appleid-apple.com
 0.0.0.0 www.updatestar.com
 0.0.0.0 www.updateyourinformationaccount.com
 0.0.0.0 www.upi6.pillsstore-c.com
@@ -31244,6 +31269,23 @@
 0.0.0.0 xgtswx.king.creativemedia.buzz
 0.0.0.0 xgxk2b.most.bingeeater.co.uk
 0.0.0.0 xian.jztedu.com
+0.0.0.0 xiao2012-01.yxdown.cn
+0.0.0.0 xiao2012-06.yxdown.cn
+0.0.0.0 xiao2012-15.yxdown.cn
+0.0.0.0 xiao2013-01.yxdown.cn
+0.0.0.0 xiao2013-03.yxdown.cn
+0.0.0.0 xiao2013-04.yxdown.cn
+0.0.0.0 xiao2013-05.yxdown.cn
+0.0.0.0 xiao2013-06.yxdown.cn
+0.0.0.0 xiao2013-07.yxdown.cn
+0.0.0.0 xiao2013-08.yxdown.cn
+0.0.0.0 xiao2013-10.yxdown.cn
+0.0.0.0 xiao2013-11.yxdown.cn
+0.0.0.0 xiao2013-12.yxdown.cn
+0.0.0.0 xiao2013-13.yxdown.cn
+0.0.0.0 xiao2013-14.yxdown.cn
+0.0.0.0 xiao2013-15.yxdown.cn
+0.0.0.0 xiao2013-17.yxdown.cn
 0.0.0.0 xiaoqiang
 0.0.0.0 xia.xiazailou.la
 0.0.0.0 xiazai.cdren.com
