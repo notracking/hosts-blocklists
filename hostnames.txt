@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue May 9 05:33:55 CEST 2017
-# Number of unique hostnames: 31837
+# Last update: Wed May 10 05:55:36 CEST 2017
+# Number of unique hostnames: 31871
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -822,6 +822,7 @@
 0.0.0.0 aa.oasfile.aftenposten.no
 0.0.0.0 aao.hawaiiconvention.com
 0.0.0.0 aap.bitterstrawberry.org
+0.0.0.0 a-api.dianview.com
 0.0.0.0 a.appcpa.net
 0.0.0.0 a.appjiagu.com
 0.0.0.0 a.aproductmsg.com
@@ -1313,6 +1314,7 @@
 0.0.0.0 adclient-uol.lp.uol.com.br
 0.0.0.0 ad.clix.pt
 0.0.0.0 adcl.japan.zdnet.com
+0.0.0.0 adclock.zdworks.com
 0.0.0.0 ad.clovenetwork.com
 0.0.0.0 adcl.pchome.com.tw
 0.0.0.0 adcl.sankei.co.jp
@@ -1860,6 +1862,7 @@
 0.0.0.0 ad.next2news.com
 0.0.0.0 adng.ascii24.com
 0.0.0.0 ad.nifty.com
+0.0.0.0 adn.insight.ucweb.com
 0.0.0.0 adnirvgo.qhigh.com
 0.0.0.0 adn.kinkydollars.com
 0.0.0.0 adn.meinsol.de
@@ -2617,6 +2620,7 @@
 0.0.0.0 ads.discovery.com
 0.0.0.0 ads.discreetad.com
 0.0.0.0 ads.dixcom.com
+0.0.0.0 adsdk.9imobi.com
 0.0.0.0 ads.d-msquared.com
 0.0.0.0 ads.dns-look-up.com
 0.0.0.0 ads.doclix.com
@@ -4914,6 +4918,7 @@
 0.0.0.0 adz.afterdawn.net
 0.0.0.0 ad.zaman.com
 0.0.0.0 ad.zaman.com.tr
+0.0.0.0 ad.zdworks.com
 0.0.0.0 adzerk.s3.amazonaws.com
 0.0.0.0 adzerk-www.s3.amazonaws.com
 0.0.0.0 ad.zet.net
@@ -5884,10 +5889,12 @@
 0.0.0.0 api.getvero.com
 0.0.0.0 api.gi.igexin.com
 0.0.0.0 api.goulegu.com
+0.0.0.0 api.growingio.com
 0.0.0.0 api.gtbrowser.com
 0.0.0.0 apihk.growingio.com
 0.0.0.0 apiholdingmypage-a.akamaihd.net
 0.0.0.0 api.hostip.info
+0.0.0.0 api.iapps.ifeng.com
 0.0.0.0 api.iflychat.com
 0.0.0.0 api.iimedia.cn
 0.0.0.0 api.ilius.net
@@ -5920,6 +5927,7 @@
 0.0.0.0 api.otherlevels.com
 0.0.0.0 apioutoboxnet-a.akamaihd.net
 0.0.0.0 api.perun.s5labs.io
+0.0.0.0 api.pingstart.com
 0.0.0.0 apiportalmorecom-a.akamaihd.net
 0.0.0.0 api.proofpositivemedia.com
 0.0.0.0 apipub.oumma.com
@@ -6047,6 +6055,7 @@
 0.0.0.0 apple.com.confiduration.clients.updating.service.foxdizi.net
 0.0.0.0 apple.com.icloud.billing.verifiy.9200938771663883991773817836476289732.valcla.com.br
 0.0.0.0 apple.com-internet-security-review.info
+0.0.0.0 apple.com-internet-security-review.review
 0.0.0.0 apple.com-safetyalert.com
 0.0.0.0 apple.com--------scanner.bid
 0.0.0.0 apple.com-----scanner.club
@@ -6342,6 +6351,7 @@
 0.0.0.0 as.sinahk.net
 0.0.0.0 assistance-free.fr-post.com
 0.0.0.0 assistenza.login-appleit-apple.com-support.itilprot.com
+0.0.0.0 assistenzapaypa.altervista.org
 0.0.0.0 assys01.fc2.com
 0.0.0.0 ast.adiquity.com
 0.0.0.0 astalavista.box.sk
@@ -8087,6 +8097,8 @@
 0.0.0.0 calm.differencemaking.com
 0.0.0.0 cal.meizu.com
 0.0.0.0 calouskype.over-blog.com
+0.0.0.0 cal.stat2.zdworks.com
+0.0.0.0 cal.stat.zdworks.com
 0.0.0.0 calvet.altervista.org
 0.0.0.0 caly-film-online-pl.epoznan.pl
 0.0.0.0 c.am10.ru
@@ -8530,6 +8542,7 @@
 0.0.0.0 cdn.linksmart.com
 0.0.0.0 cdn.livechatinc.com
 0.0.0.0 cdn.llogetfastcach.us
+0.0.0.0 cdn.mahmukhach.info
 0.0.0.0 cdn.mb.datingadzone.com
 0.0.0.0 cdn.mbp91.com
 0.0.0.0 cdn.mcextjmp.com
@@ -8552,6 +8565,7 @@
 0.0.0.0 cdn.optimatic.com
 0.0.0.0 cdn.orbengine.com
 0.0.0.0 cdn.outfit7.com
+0.0.0.0 cdn.palomatik.info
 0.0.0.0 cdn.permutive.com
 0.0.0.0 cdn.pickyopahs.com
 0.0.0.0 cdn.polmontventures.com
@@ -9152,6 +9166,7 @@
 0.0.0.0 clk.voyages-sncf.com
 0.0.0.0 cl.muscatscience.org
 0.0.0.0 cloak.trackermaterial.xyz
+0.0.0.0 clock.stat2.zdworks.com
 0.0.0.0 clog.go.com
 0.0.0.0 c.lomadee.com
 0.0.0.0 close.24x7finance.com
@@ -9244,6 +9259,7 @@
 0.0.0.0 cms.ad2click.nl
 0.0.0.0 cms.analytics.yahoo.com
 0.0.0.0 cms.an.m.liebao.cn
+0.0.0.0 cms-bucket.nosdn.127.net
 0.0.0.0 cmsconsultoria.adv.br
 0.0.0.0 cms.grandcloud.cn
 0.0.0.0 cms.gtags.net
@@ -9848,6 +9864,7 @@
 0.0.0.0 craigslist-message.ballenawings.com
 0.0.0.0 craigslist-support-message.esy.es
 0.0.0.0 cran.hmc-us.org
+0.0.0.0 crashapi.growingio.com
 0.0.0.0 crashdump.spotify.com
 0.0.0.0 crash.inlandempirebellydancer.net
 0.0.0.0 crashlytics.163.com
@@ -10339,6 +10356,7 @@
 0.0.0.0 d2o307dm5mqftz.cloudfront.net
 0.0.0.0 d2o7lat8cdoi27.cloudfront.net
 0.0.0.0 d2oallm7wrqvmi.cloudfront.net
+0.0.0.0 d2od2b2huvmzuj.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2omcicc3a4zlg.cloudfront.net
 0.0.0.0 d2ov8u95yeeh5v.cloudfront.net
@@ -12446,6 +12464,7 @@
 0.0.0.0 e.yycqc.com
 0.0.0.0 ez33.org.cn
 0.0.0.0 ez66jp.broz.northerndishedends.co
+0.0.0.0 e.zccompressor.com
 0.0.0.0 ezigarettekaufen1.hpage.com
 0.0.0.0 ezigarettekaufen2.blox.pl
 0.0.0.0 ezigarettekaufen2.mpbloggar.se
@@ -16713,6 +16732,7 @@
 0.0.0.0 ljvixhf6i-site.1tempurl.com
 0.0.0.0 lkb.berlinermedienvertrieb.de
 0.0.0.0 lk.brand.sogou.com
+0.0.0.0 lkf1.m.sanhao3.com
 0.0.0.0 lladinserts.us.publicus.com
 0.0.0.0 ll.a.hulu.com
 0.0.0.0 llaredlrgn.angelcities.com
@@ -18506,6 +18526,7 @@
 0.0.0.0 mz7oyb3v32vshcvk.torlongor.li
 0.0.0.0 mz7oyb3v32vshcvk.tormidle.at
 0.0.0.0 mz7oyb3v32vshcvk.toysworlds.at
+0.0.0.0 m.zccompressor.com
 0.0.0.0 mze.net.au
 0.0.0.0 m.zhuashouji.com
 0.0.0.0 m.zuyuewang.com
@@ -18517,6 +18538,7 @@
 0.0.0.0 n15.net.ua
 0.0.0.0 n2.smartyads.com
 0.0.0.0 n339.asp-cc.com
+0.0.0.0 n.3g.163.com
 0.0.0.0 n4cnx1.wm.warmglow.org
 0.0.0.0 n4p.ru.redtram.com
 0.0.0.0 n4p.ua.redtram.com
@@ -18732,6 +18754,7 @@
 0.0.0.0 newware16.jtkf120.com
 0.0.0.0 newwave.orge.pl
 0.0.0.0 new.yokaunion.com
+0.0.0.0 nexstep.zdworks.com
 0.0.0.0 next.dallasrainwater.com
 0.0.0.0 nextel-ringtone.komi.su
 0.0.0.0 nextel-ringtone.spb.su
@@ -18922,6 +18945,7 @@
 0.0.0.0 now.fda-compliance-trainings.com
 0.0.0.0 now.hardworkinglawyers.com
 0.0.0.0 no.williamhillcasino.com
+0.0.0.0 nowinstallupgrade.clickforultimateandbest2updatingpc.top
 0.0.0.0 now.laurita.org
 0.0.0.0 now.mfr4fire.com
 0.0.0.0 now.raincollectiontanks.com
@@ -20813,6 +20837,7 @@
 0.0.0.0 pivotal.github.com
 0.0.0.0 piwik.almelo.nl
 0.0.0.0 piwik.cam-content.com
+0.0.0.0 piwik.com-online.com
 0.0.0.0 piwik.datawrapper.de
 0.0.0.0 piwik.denik.cz
 0.0.0.0 piwik.duiven.nl
@@ -21613,6 +21638,7 @@
 0.0.0.0 pups.bdimg.com
 0.0.0.0 purchase.hut1.ru
 0.0.0.0 purchase.ssbservices.com.np
+0.0.0.0 push-android.myzaker.com
 0.0.0.0 push.appsgeyser.com
 0.0.0.0 push.cdnads.com
 0.0.0.0 push.com2us.net
@@ -21626,6 +21652,7 @@
 0.0.0.0 push.wandoujia.com
 0.0.0.0 push.wps.cn
 0.0.0.0 push.yuedu.163.com
+0.0.0.0 push.zdworks.com
 0.0.0.0 push.zhangyue.com
 0.0.0.0 push.zhanzhang.baidu.com
 0.0.0.0 pv.cheshi.com
@@ -26135,7 +26162,6 @@
 0.0.0.0 tracker.msales.com
 0.0.0.0 tracker.netklix.com
 0.0.0.0 tracker.netmechanic.com
-0.0.0.0 tracker.nmp1.com
 0.0.0.0 tracker.offermarket.net
 0.0.0.0 tracker.onapps.org
 0.0.0.0 tracker.pinnaclesports.com
@@ -26630,6 +26656,7 @@
 0.0.0.0 track.topromotion.net
 0.0.0.0 track.tracking85.com
 0.0.0.0 track.trademail.fr
+0.0.0.0 track.traffcdn.com
 0.0.0.0 tracktrue.clicktrue.biz
 0.0.0.0 track.turboyourpc.com
 0.0.0.0 track.upaknee.com
@@ -28826,6 +28853,7 @@
 0.0.0.0 www.706529.com
 0.0.0.0 www.7080555.com
 0.0.0.0 www.70e.com
+0.0.0.0 www.70niandai.net
 0.0.0.0 www.716703.com
 0.0.0.0 www.7218.pl
 0.0.0.0 www730.mm6500.com
@@ -29081,6 +29109,7 @@
 0.0.0.0 www.apple-air-icloud.com
 0.0.0.0 www.apple-applexd.com
 0.0.0.0 www.apple.com-redirect-authenticatio-accountid.info
+0.0.0.0 www.apple.com-servwork.info
 0.0.0.0 www.applefindtwios.com
 0.0.0.0 www.apple-gpsch.com
 0.0.0.0 www.apple-icloud-1.com
@@ -29806,6 +29835,7 @@
 0.0.0.0 www.gentedicartoonia.it
 0.0.0.0 www.geolocation.performgroup.com
 0.0.0.0 www.geoworldonline.com
+0.0.0.0 www.getfilemacgetdmg.com
 0.0.0.0 www.getfilesmact.com
 0.0.0.0 www.getlikesandfans.com
 0.0.0.0 www.getloan.com
@@ -30596,6 +30626,7 @@
 0.0.0.0 www.qantasairways.net
 0.0.0.0 www.qbop.com
 0.0.0.0 www.qchannel01.cn
+0.0.0.0 www.qchannel02.cn
 0.0.0.0 www.qchannel03.cn
 0.0.0.0 www.qchannel04.cn
 0.0.0.0 www.qdlansehaiwan.com
@@ -31024,6 +31055,7 @@
 0.0.0.0 www.trafficpace.com
 0.0.0.0 www.trafficresults.com
 0.0.0.0 www.trafix.ro
+0.0.0.0 www.traktrafficflow.com
 0.0.0.0 www.trannys.us
 0.0.0.0 www.treeloot.com
 0.0.0.0 www.trendsonline.biz
@@ -31078,6 +31110,7 @@
 0.0.0.0 www.updatestar.com
 0.0.0.0 www.updateyourinformationaccount.com
 0.0.0.0 www.upi6.pillsstore-c.com
+0.0.0.0 www.urdoot.win
 0.0.0.0 www.uriyuri.com
 0.0.0.0 www.urmediazone.com
 0.0.0.0 www.usaenterprise.com
@@ -31331,6 +31364,7 @@
 0.0.0.0 x17.ifdef.jp
 0.0.0.0 x18.ifdef.jp
 0.0.0.0 x19.ifdef.jp
+0.0.0.0 x1.go.sohu.com
 0.0.0.0 x1.ifdef.jp
 0.0.0.0 x1.moarclicks.com
 0.0.0.0 x1.yamanoha.com
