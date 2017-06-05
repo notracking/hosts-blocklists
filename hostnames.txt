@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Jun 4 05:19:27 CEST 2017
-# Number of unique hostnames: 33080
+# Last update: Mon Jun 5 05:25:29 CEST 2017
+# Number of unique hostnames: 33100
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -1398,6 +1398,7 @@
 0.0.0.0 ad.contentspecific.com
 0.0.0.0 adcontrol.tudou.com
 0.0.0.0 ad.cooks.com
+0.0.0.0 adcore.lenovomm.com
 0.0.0.0 ad.cornerpost.com
 0.0.0.0 ad-count.adwo.com
 0.0.0.0 adcounter.globeandmail.com
@@ -5610,6 +5611,7 @@
 0.0.0.0 ams.addflow.ru
 0.0.0.0 a.msclickrdr.com
 0.0.0.0 ams.fx678.com
+0.0.0.0 ams.lenovomm.com
 0.0.0.0 a-m-s.poco.cn
 0.0.0.0 ams.toxity.biz
 0.0.0.0 amstudio.net.in
@@ -5959,6 +5961,7 @@
 0.0.0.0 api.analytics.omgpop.com
 0.0.0.0 api.android.dianru.com
 0.0.0.0 api.anti.wauee.com
+0.0.0.0 api.anzhuoshangdian.com
 0.0.0.0 apiappenableinfo-a.akamaihd.net
 0.0.0.0 api.appfireworks.com
 0.0.0.0 api.appjiagu.com
@@ -5975,6 +5978,7 @@
 0.0.0.0 api.bitp.it
 0.0.0.0 api.boomtrain.com
 0.0.0.0 apibrowsesmartne-a.akamaihd.net
+0.0.0.0 api.bs.zui.com
 0.0.0.0 api.cheatsheet.me
 0.0.0.0 api.citygridmedia.com
 0.0.0.0 api.cmt.mob.com
@@ -13819,6 +13823,7 @@
 0.0.0.0 furousya-carbonle.hatster.co.uk
 0.0.0.0 fuse.loosepattern.com
 0.0.0.0 fusion.nettavisen.no
+0.0.0.0 fus.lenovomm.com
 0.0.0.0 fus.walla.co.il
 0.0.0.0 future.onyxsavingscard.com
 0.0.0.0 futurepay.globway.eu
@@ -17000,9 +17005,12 @@
 0.0.0.0 lcha414.cadilahealth-pharmacy.net16.net
 0.0.0.0 lc.jiathis.com
 0.0.0.0 lcloud-verifybillinginformation.ryhta.com
+0.0.0.0 lcs.dev.surepush.cn
+0.0.0.0 lcs.lenovomm.com
 0.0.0.0 lcs.livedoor.net
 0.0.0.0 lcs.naver.com
 0.0.0.0 lcs.naver.jp
+0.0.0.0 lcs.test.lenovomm.cn
 0.0.0.0 ldaop3iuugsph.zxqeiqp4j-dhbeow.in
 0.0.0.0 l.deals.ebay.com
 0.0.0.0 l.deindeal.ch
@@ -17010,6 +17018,7 @@
 0.0.0.0 ldo293ihs.bchwpqolaoher.in
 0.0.0.0 ldpgl.code.mytanwan.com
 0.0.0.0 lds.lenovomm.com
+0.0.0.0 lds.zui.com
 0.0.0.0 ldy.350.com
 0.0.0.0 leaddyno-client-images.s3.amazonaws.com
 0.0.0.0 leadmobi.en.alibaba.com
@@ -21366,6 +21375,7 @@
 0.0.0.0 p.blkz2x.com
 0.0.0.0 p.bm23.com
 0.0.0.0 pb.s3wfg.com
+0.0.0.0 pbs.lenovomm.com
 0.0.0.0 pb.sogou.com
 0.0.0.0 pc.107788.com
 0.0.0.0 pc1.da.mgtv.com
@@ -22325,6 +22335,7 @@
 0.0.0.0 pr-static.tnaflix.com
 0.0.0.0 prsvaddr.lateadaclinton.com
 0.0.0.0 pr.wikiwiki.jp
+0.0.0.0 prw.lenovomm.com
 0.0.0.0 prx.freecj.com
 0.0.0.0 pr.ybp.yahoo.com
 0.0.0.0 pr.ydp.yahoo.com
@@ -22343,6 +22354,7 @@
 0.0.0.0 ps9.ultraflawlesspop.com
 0.0.0.0 psa9416.codns.com
 0.0.0.0 psbhkp.owen.kingsmist.co.uk
+0.0.0.0 psb.lenovomm.com
 0.0.0.0 ps.dev.360.cn
 0.0.0.0 p.sdu8cvc.com
 0.0.0.0 p.searchmission.com
@@ -22474,6 +22486,7 @@
 0.0.0.0 pups.bdimg.com
 0.0.0.0 purchase.ssbservices.com.np
 0.0.0.0 push-android.myzaker.com
+0.0.0.0 pushapi.lenovomm.com
 0.0.0.0 push.app.autohome.com.cn
 0.0.0.0 push.appsgeyser.com
 0.0.0.0 push.cdnads.com
@@ -23902,6 +23915,7 @@
 0.0.0.0 scvorcov.21415s12.edusite.ru
 0.0.0.0 sd-1162258-l.dattaweb.com
 0.0.0.0 sd3.44276644.com
+0.0.0.0 sdac.lenovomm.com
 0.0.0.0 sda.groupspaces.com
 0.0.0.0 sda.quinews.net
 0.0.0.0 sdc2.sakura.ad.jp
@@ -26081,6 +26095,7 @@
 0.0.0.0 survivor.thats.im
 0.0.0.0 surv.xbizmedia.com
 0.0.0.0 susandsecusaaownawre.esy.es
+0.0.0.0 susapi.dev.surepush.cn
 0.0.0.0 susapi.lenovomm.com
 0.0.0.0 sushvc.beckmanlawfirm.info
 0.0.0.0 sus.nieuwmoer.info
@@ -26625,6 +26640,7 @@
 0.0.0.0 testpconly12.prepare2upvideosafesystem4setnow.online
 0.0.0.0 test-script.dotmetrics.net
 0.0.0.0 test.sexeanonyme.com
+0.0.0.0 test.surepush.cn
 0.0.0.0 test.theeagle.com
 0.0.0.0 test-traffic.narod.ru
 0.0.0.0 testtralala.xorg.pl
@@ -28460,6 +28476,7 @@
 0.0.0.0 us.r1.yimg.com
 0.0.0.0 usr.dropkickmedia.com
 0.0.0.0 us.s1.yimg.com
+0.0.0.0 uss-pid.lenovomm.com
 0.0.0.0 us.static.planet49.com
 0.0.0.0 us.t1.yimg.com
 0.0.0.0 ustaw-tlo.blogspot.com
@@ -29641,6 +29658,7 @@
 0.0.0.0 wrapper.teamxbox.com
 0.0.0.0 wrb.pornme.com
 0.0.0.0 wr.da.netease.com
+0.0.0.0 wr.ecartoon.net
 0.0.0.0 writingservices17.blogspot.ru
 0.0.0.0 wrk.fingalcsrnetwork.ie
 0.0.0.0 wrong-infos-updater.informations-update.online
@@ -29724,6 +29742,7 @@
 0.0.0.0 wtc.wat.edu.pl
 0.0.0.0 wtftube-gimnazjalistka-mp4.prv.pl
 0.0.0.0 wtgylzokmsyd.myfw.us
+0.0.0.0 wth.lenovomm.com
 0.0.0.0 wt.neton-line.com
 0.0.0.0 wtnj.worldnow.com
 0.0.0.0 wt.o.nytimes.com
@@ -32917,6 +32936,7 @@
 0.0.0.0 ywzjvqssv.myfw.us
 0.0.0.0 yx-in-f108.1e100.net
 0.0.0.0 yxkgtyqmz.myfw.us
+0.0.0.0 yx.lenovomm.com
 0.0.0.0 y.xm9178.com
 0.0.0.0 yxo.warmportrait.com
 0.0.0.0 yxu6m6.iudasitebuildng.org
