@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Jul 9 00:45:20 CEST 2017
-# Number of unique hostnames: 33209
+# Last update: Mon Jul 10 00:46:08 CEST 2017
+# Number of unique hostnames: 33231
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -151,6 +151,7 @@
 0.0.0.0 1.chcx.cn
 0.0.0.0 1.che-ka.com
 0.0.0.0 1.chipde.damoh.schneevonmorgen.com
+0.0.0.0 1.cjcp.cn
 0.0.0.0 1.feihua.com
 0.0.0.0 1.forgetstore.com
 0.0.0.0 1fwpni8daq.lazyfrog1.xyz
@@ -2339,6 +2340,7 @@
 0.0.0.0 ads.aol.com
 0.0.0.0 ads.aol.co.uk
 0.0.0.0 ads.apartmenttherapy.com
+0.0.0.0 ads.aplus.pptv.com
 0.0.0.0 ads.apn.co.za
 0.0.0.0 ads.appleinsider.com
 0.0.0.0 ads.applelinks.com
@@ -4930,6 +4932,7 @@
 0.0.0.0 adx.infomed.co.il
 0.0.0.0 adx.kat.ph
 0.0.0.0 ad.xmovies8.ru
+0.0.0.0 ad.xmovies8.tv
 0.0.0.0 adx.ocala.com
 0.0.0.0 adx.panet.co.il
 0.0.0.0 adxserver.ad.cmvideo.cn
@@ -5925,7 +5928,6 @@
 0.0.0.0 api.dianru.com
 0.0.0.0 api.doumob.com
 0.0.0.0 api.drxdai.com
-0.0.0.0 api.dsp.yhd.com
 0.0.0.0 api.elasticemail.com
 0.0.0.0 api.exc.mob.com
 0.0.0.0 apifasterlightin-a.akamaihd.net
@@ -6075,6 +6077,7 @@
 0.0.0.0 app.activetrail.com
 0.0.0.0 appanalytics.embarcadero.com
 0.0.0.0 app.androidphone.mobi
+0.0.0.0 app.aplus.pptv.com
 0.0.0.0 app.beanstalkdata.com
 0.0.0.0 app.bronto.com
 0.0.0.0 app-carrinho-americanas-iphone-6s.cq94089.tmweb.ru
@@ -6126,6 +6129,7 @@
 0.0.0.0 apple.com.virus-mac.com
 0.0.0.0 apple.com-webbrowsing-security.bid
 0.0.0.0 apple.com-webbrowsing-security.download
+0.0.0.0 apple.com-webbrowsing-security.review
 0.0.0.0 apple.dainehosre.com
 0.0.0.0 apple.happyfamilyhappymum.net
 0.0.0.0 apple-id.accounts.comli.com
@@ -6659,6 +6663,7 @@
 0.0.0.0 b17261b2b5010f3c6c93-d77e110c9a6908e75cd02fbd7eb24572.r86.cf2.rackcdn.com
 0.0.0.0 b17.shangc.net
 0.0.0.0 b17.xiumu.cn
+0.0.0.0 b1.91jucai.com
 0.0.0.0 b1.azjmp.com
 0.0.0.0 b1bw3j.3836.mig3836.co.uk
 0.0.0.0 b.1s2.in.ua
@@ -7388,10 +7393,12 @@
 0.0.0.0 bd1.jobui.com
 0.0.0.0 bd1.nipic.com
 0.0.0.0 bd1.nxing.cn
+0.0.0.0 bd1.szhk.com
 0.0.0.0 bd1.wowoqq.com
 0.0.0.0 bd1.xiangha.com
 0.0.0.0 bd2.52che.com
 0.0.0.0 bd2.nipic.com
+0.0.0.0 bdad.hao224.com
 0.0.0.0 bdcode.youke.com
 0.0.0.0 bdcqxaadv.freewww.info
 0.0.0.0 bddm.999d.com
@@ -9261,7 +9268,6 @@
 0.0.0.0 click.watchjmp.com
 0.0.0.0 click.whittlesbiz.info
 0.0.0.0 click.wrating.com
-0.0.0.0 click.yhd.com
 0.0.0.0 click.zeroclickdirect.com
 0.0.0.0 click.zipcodez.com
 0.0.0.0 clickz.lonelycheatingwives.com
@@ -10484,6 +10490,7 @@
 0.0.0.0 d1vbm0eveofcle.cloudfront.net
 0.0.0.0 d1vguuq5efvsfq.cloudfront.net
 0.0.0.0 d1vp02a2w2d335.cloudfront.net
+0.0.0.0 d1vrcwxei1aj0g.cloudfront.net
 0.0.0.0 d1vwpe7grtcv9d.cloudfront.net
 0.0.0.0 d1wi563t0137vz.cloudfront.net
 0.0.0.0 d1.windows8downloads.com
@@ -10574,6 +10581,7 @@
 0.0.0.0 d2l8bbn629wykr.cloudfront.net
 0.0.0.0 d2lv4zbk7v5f93.cloudfront.net
 0.0.0.0 d2lxztepvo7ma1.cloudfront.net
+0.0.0.0 d2mgk3zfd02vd2.cloudfront.net
 0.0.0.0 d2mic0r0bo3i6z.cloudfront.net
 0.0.0.0 d2moz0h55szev9.cloudfront.net
 0.0.0.0 d2mq0uzafv8ytp.cloudfront.net
@@ -11139,6 +11147,7 @@
 0.0.0.0 dco-de.sanoma.fi
 0.0.0.0 dc.plussizetech.com
 0.0.0.0 dcproxy1.thrunet.com
+0.0.0.0 dcps.nuomi.com
 0.0.0.0 d.cpsoft86.com
 0.0.0.0 dc.services.visualstudio.com
 0.0.0.0 dc.sify.com
@@ -12042,6 +12051,7 @@
 0.0.0.0 dtlilztwypawv.cloudfront.net
 0.0.0.0 dtm1.eim.ae.fulfillmentireland.ie
 0.0.0.0 dtmvdvtzf8rz0.cloudfront.net
+0.0.0.0 d.tonghua5.com
 0.0.0.0 d-track.send.microadinc.com
 0.0.0.0 d-track.send.microad.jp
 0.0.0.0 dt.sellpoint.net
@@ -12849,6 +12859,9 @@
 0.0.0.0 ezine.oupeng.com
 0.0.0.0 ezrgdz.backflowpearland.com
 0.0.0.0 e-zshopper.activeshopper.com
+0.0.0.0 f10.baidu.com
+0.0.0.0 f11.baidu.com
+0.0.0.0 f12.baidu.com
 0.0.0.0 f150123.privacy4browsing.com
 0.0.0.0 f1b1f4.iudasitebuildng.net
 0.0.0.0 f1.bizhiku.net
@@ -13106,6 +13119,7 @@
 0.0.0.0 feedback.search.microsoft.com
 0.0.0.0 feedback.whalecloud.com
 0.0.0.0 feedback.windows.com
+0.0.0.0 feed.baidu.com
 0.0.0.0 feeds.global-intermedia.com
 0.0.0.0 feeds.logicbuy.com
 0.0.0.0 feeds.mofos.com
@@ -14432,6 +14446,8 @@
 0.0.0.0 gsm.biz.id
 0.0.0.0 gsm-mobile-phone.beesearch.info
 0.0.0.0 gsorder.berlin.strato.de
+0.0.0.0 gss0.bdstatic.com
+0.0.0.0 gss2.bdstatic.com
 0.0.0.0 g.starmoe.xyz
 0.0.0.0 gsu733.off.thesecretspelltospelling.co.uk
 0.0.0.0 gsuittedoc.mischeclinic.com
@@ -15056,6 +15072,7 @@
 0.0.0.0 hpad.www.infoseek.co.jp
 0.0.0.0 h.pcd.autohome.com.cn
 0.0.0.0 hp.dasheng100.com
+0.0.0.0 hpd.baidu.com
 0.0.0.0 hp.gelendwagensjeeps.info
 0.0.0.0 hplaserjetpdriver8y.pen.io
 0.0.0.0 h.ppjol.com
@@ -15210,7 +15227,6 @@
 0.0.0.0 ib.nab.com.au.nabib.301.start.pl.index.vapourfrog.co.uk
 0.0.0.0 ib.nab.com.au.nab-professionnel.com
 0.0.0.0 ibs.indiatimes.com
-0.0.0.0 ib.snssdk.com
 0.0.0.0 i-by3p-cor001.api.p001.1drv.com
 0.0.0.0 icar17.sigappfr.org
 0.0.0.0 icarusvk.beget.tech
@@ -17522,6 +17538,7 @@
 0.0.0.0 log.netgeography.net
 0.0.0.0 log.newsvine.com
 0.0.0.0 log.nexgen.neustar.biz
+0.0.0.0 log.nuomi.com
 0.0.0.0 log.nvwa.baofeng.com
 0.0.0.0 log.omiga-plus.com
 0.0.0.0 logo.naulogistics.com
@@ -22574,7 +22591,6 @@
 0.0.0.0 pv.ra.icast.cn
 0.0.0.0 pvsite.zol.com.cn
 0.0.0.0 pv.sogou.com
-0.0.0.0 pv.sohu.com
 0.0.0.0 pvstat.html5.qq.com
 0.0.0.0 pv.wantsfly.com
 0.0.0.0 pvx.autohome.com.cn
@@ -23116,7 +23132,6 @@
 0.0.0.0 regularizacao-fisica-vangogh-select.000webhostapp.com
 0.0.0.0 regular.simplicomply.com
 0.0.0.0 rehyejereeeefh.bij.pl
-0.0.0.0 re.jd.com
 0.0.0.0 rek2.tascatlasa.com
 0.0.0.0 re.karamurseltesisat.com
 0.0.0.0 reklama.botevgrad.com
@@ -24596,6 +24611,7 @@
 0.0.0.0 show.niqiu99.org
 0.0.0.0 show.re.taobao.com
 0.0.0.0 shows.21cn.com
+0.0.0.0 show-s.mediav.com
 0.0.0.0 show.targead.com
 0.0.0.0 show.tcth8.com
 0.0.0.0 show.textads.lv
@@ -25178,7 +25194,11 @@
 0.0.0.0 srv.thespacereporter.com
 0.0.0.0 srv.tonefuse.com
 0.0.0.0 s.ryre.cn
+0.0.0.0 ss0.baidu.com
+0.0.0.0 ss0.bdstatic.com
 0.0.0.0 ss1107ss.zz.am
+0.0.0.0 ss1.baidu.com
+0.0.0.0 ss2.baidu.com
 0.0.0.0 ss2p.uuxs.net
 0.0.0.0 ss2.zsjuchang.cn
 0.0.0.0 s.sa.aol.com
@@ -26654,6 +26674,7 @@
 0.0.0.0 tell.spectehnika.eu
 0.0.0.0 tell.whatsbestforourkids.com
 0.0.0.0 tell.zarcahealth.com
+0.0.0.0 temai.snssdk.com
 0.0.0.0 temai.taobao.com
 0.0.0.0 temb.runthefarmmemphis.net
 0.0.0.0 te.mcall.com
@@ -27328,7 +27349,6 @@
 0.0.0.0 tracker.vinsight.de
 0.0.0.0 tracker.winload.de
 0.0.0.0 tracker.wordstream.com
-0.0.0.0 tracker.yhd.com
 0.0.0.0 track.exclusivecpa.com
 0.0.0.0 track.fling.com
 0.0.0.0 track.ft.com
@@ -27878,6 +27898,7 @@
 0.0.0.0 tramp.nationalraingroup.com
 0.0.0.0 trand.zarca-inc.com
 0.0.0.0 tran.mediav.com
+0.0.0.0 tran.news.so.com
 0.0.0.0 trans20120430.getjar.com
 0.0.0.0 transcript.login.2016.alerttoday.org
 0.0.0.0 transcript.login.2016.doc.highplainsmp.com
@@ -28046,7 +28067,6 @@
 0.0.0.0 tt.onmypc.org
 0.0.0.0 ttrade.elegance.bg
 0.0.0.0 ttt.fwq101.tk
-0.0.0.0 ttts.leztc.com
 0.0.0.0 ttts.miyue17.com
 0.0.0.0 ttuk.offers4u.mobi
 0.0.0.0 tu.59jd.com
@@ -29060,6 +29080,7 @@
 0.0.0.0 v-sence.gentags.net
 0.0.0.0 vserv.bc.cdn.bitgravity.com
 0.0.0.0 vs.forbes.com
+0.0.0.0 vs.funshion.com
 0.0.0.0 vsii.spinbox.net
 0.0.0.0 vsii.spindox.net
 0.0.0.0 vssyfg.beckmenconsulting.com
@@ -29895,6 +29916,7 @@
 0.0.0.0 wu44m2.size.hammondalatasimages.com
 0.0.0.0 wuauzoyway.supermweb.su
 0.0.0.0 wuliao.epro.sogou.com
+0.0.0.0 wuliao.juqingba.cn
 0.0.0.0 wumii-cc.wumii.cn
 0.0.0.0 wup.imtt.qq.com
 0.0.0.0 w.uptolike.com
