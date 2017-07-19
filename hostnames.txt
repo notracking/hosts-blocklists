@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Jul 19 00:48:20 CEST 2017
-# Number of unique hostnames: 33579
+# Last update: Thu Jul 20 00:54:17 CEST 2017
+# Number of unique hostnames: 33574
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -84,7 +84,6 @@
 0.0.0.0 0x.x.gg
 0.0.0.0 100023.live173.com
 0.0.0.0 100035152.at.ua
-0.0.0.0 100.1qingdao.com
 0.0.0.0 100.admin5.com
 0.0.0.0 100lend.in.net
 0.0.0.0 104231.dtiblog.com
@@ -258,10 +257,12 @@
 0.0.0.0 2gdb4.leoraorage.at
 0.0.0.0 2.googlenews.xorg.pl
 0.0.0.0 2gsgz1.most.bingeeater.co.uk
+0.0.0.0 2.heiyange.com
 0.0.0.0 2jc8k6.moro.pershoreprivatehire.co.uk
 0.0.0.0 2kbdyu.best.angelltennis.co.uk
 0.0.0.0 2.marketbanker.com
 0.0.0.0 2mnxpe.kozer.2ndincome4u.org.uk
+0.0.0.0 2.mobixs.cn
 0.0.0.0 2mtups.gb.londondampproofer.co.uk
 0.0.0.0 2.nanrenwo.net
 0.0.0.0 2nfupu.kal.wkcengland.com
@@ -796,6 +797,7 @@
 0.0.0.0 a1shd.realshieldlinked.com
 0.0.0.0 a1.suntimes.com
 0.0.0.0 a1.vdolady.com
+0.0.0.0 a1.yuuedu.com
 0.0.0.0 a207.p.f.qz3.net
 0.0.0.0 a2132959.0lx.net
 0.0.0.0 a2315.oadz.com
@@ -1224,7 +1226,6 @@
 0.0.0.0 ad3.bonadza.com
 0.0.0.0 ad3.depositfiles.com
 0.0.0.0 ad.3dnews.ru
-0.0.0.0 ad3.hornymatches.com
 0.0.0.0 ad3.iinfo.cz
 0.0.0.0 ad3.l3go.com
 0.0.0.0 ad3.nationalreview.com
@@ -1648,7 +1649,6 @@
 0.0.0.0 ad.hodomobile.com
 0.0.0.0 ad.holaq.com
 0.0.0.0 adhome.1fangchan.com
-0.0.0.0 ad.hornymatches.com
 0.0.0.0 ad.horvitznewspapers.net
 0.0.0.0 adhosting.ohmyad.co
 0.0.0.0 ad.hosting.pl
@@ -3436,7 +3436,6 @@
 0.0.0.0 ads.hollandsentinel.com
 0.0.0.0 ads.hollywood.com
 0.0.0.0 ads.home.net
-0.0.0.0 ads.hornymatches.com
 0.0.0.0 ads.hornypharaoh.com
 0.0.0.0 ads.horsehero.com
 0.0.0.0 ads.horyzon-media.com
@@ -4915,10 +4914,7 @@
 0.0.0.0 adwcleaner.programmesetjeux.com
 0.0.0.0 adwcleaner.telecharger.toggle.com
 0.0.0.0 ad.weatherbug.com
-0.0.0.0 adweb1.hornymatches.com
-0.0.0.0 adweb2.hornymatches.com
 0.0.0.0 ad.webadvertising.ch
-0.0.0.0 adweb.hornymatches.com
 0.0.0.0 ad.webisleri.com
 0.0.0.0 ad.wedoo.com
 0.0.0.0 ad.where.com
@@ -5207,7 +5203,6 @@
 0.0.0.0 affl.sucuri.net
 0.0.0.0 aff.marathonbet.com
 0.0.0.0 aff.mclick.mobi
-0.0.0.0 aff.naughtyconnect.com
 0.0.0.0 aff.nextdating.com
 0.0.0.0 aff.nscash.com
 0.0.0.0 aff.optionbit.com
@@ -5376,6 +5371,7 @@
 0.0.0.0 aka.accortech.com
 0.0.0.0 akaads-abc.starwave.com
 0.0.0.0 akaads-espn.starwave.com
+0.0.0.0 a.kandiaoyu.com
 0.0.0.0 aka.p80.net
 0.0.0.0 a.karmatrail.club
 0.0.0.0 a.kat.cr
@@ -5898,6 +5894,7 @@
 0.0.0.0 apache2-wp223656.wp223656.dreamhostps.com
 0.0.0.0 apachestat.cimedia.net
 0.0.0.0 apac.rel.msn.com
+0.0.0.0 apapi.dc121677.com
 0.0.0.0 apapi.rapsio.com
 0.0.0.0 aparat.ads.saba-e.com
 0.0.0.0 apas.aipai.com
@@ -6214,6 +6211,7 @@
 0.0.0.0 apple-login-appleit-assistenza-apple.com-support.itilprot.com
 0.0.0.0 apple-login.verification-login-xe32-09e0c934.info
 0.0.0.0 apple.mapconnect.info
+0.0.0.0 apple.map-iphone.com
 0.0.0.0 apple-notes.quinnssupplystores.ie
 0.0.0.0 apple.p60731134x.cn
 0.0.0.0 applepayment.brianfeed.com
@@ -7513,8 +7511,10 @@
 0.0.0.0 bdmm.xywy.com
 0.0.0.0 bdnad1.bangornews.com
 0.0.0.0 bdplus.baidu.com
+0.0.0.0 bd.soarfi.cn
 0.0.0.0 bdsp.x.jd.com
 0.0.0.0 bduserlog.eastmoney.com
+0.0.0.0 bd.wayqq.cn
 0.0.0.0 be18hk.wm.warmglow.org
 0.0.0.0 beach.rainanalysis.com
 0.0.0.0 beacon2.indieclicktv.com
@@ -8063,6 +8063,7 @@
 0.0.0.0 bsv.atm.youku.com
 0.0.0.0 bs.yandex.ru
 0.0.0.0 b.szwzcf.com
+0.0.0.0 bt641499.gotoip4.com
 0.0.0.0 btfile.mycosmetiks.fr
 0.0.0.0 btg.mtvnservices.com
 0.0.0.0 b.thanksearch.com
@@ -8207,6 +8208,7 @@
 0.0.0.0 c0.atm.pl
 0.0.0.0 c0.ifengimg.com
 0.0.0.0 c100.thehotquality.com
+0.0.0.0 c1.4qx.net
 0.0.0.0 c1523.paas1.fra.modxcloud.com
 0.0.0.0 c1.668559.com
 0.0.0.0 c1.ifengimg.com
@@ -9325,7 +9327,6 @@
 0.0.0.0 click.sexmoney.com
 0.0.0.0 clicks.hurriyet.com.tr
 0.0.0.0 clicks.igg.com
-0.0.0.0 click.silvercash.com
 0.0.0.0 click.simba.taobao.com
 0.0.0.0 clicksimpact.cashtrk.com
 0.0.0.0 clicks.izea.com
@@ -10452,11 +10453,6 @@
 0.0.0.0 cypj520xx.f3322.net
 0.0.0.0 cyseal.cyveillance.com
 0.0.0.0 cytopathic.analbanged.com
-0.0.0.0 cz11.clickzzs.nl
-0.0.0.0 cz4.clickzzs.nl
-0.0.0.0 cz5.clickzzs.nl
-0.0.0.0 cz7.clickzzs.nl
-0.0.0.0 cz8.clickzzs.nl
 0.0.0.0 c.za.msn.com
 0.0.0.0 czas-na-fb.blogspot.com
 0.0.0.0 czas-na-fb.bo.pl
@@ -11307,6 +11303,7 @@
 0.0.0.0 dd713.bj.bcebos.com
 0.0.0.0 dd7bsndhr45nfksdnkferfer.javakale.at
 0.0.0.0 ddasdeadmsilatmaiui.arlamooz.net
+0.0.0.0 d.dc121677.com
 0.0.0.0 ddc.m.txt99.cc
 0.0.0.0 ddd.gouwuke.cn
 0.0.0.0 ddd.yuyouge.com
@@ -12239,6 +12236,7 @@
 0.0.0.0 dubstep.onedumb.com
 0.0.0.0 duct5ntjian71.cloudfront.net
 0.0.0.0 dufue2m4sondk.cloudfront.net
+0.0.0.0 duhocanh.pro.vn
 0.0.0.0 duiwai.baidu.com
 0.0.0.0 du.jd.com
 0.0.0.0 dujur.barginginfrance.net
@@ -12957,7 +12955,6 @@
 0.0.0.0 exits1.webquest.net
 0.0.0.0 exits2.webquest.net
 0.0.0.0 exits.adultcash.com
-0.0.0.0 exit.silvercash.com
 0.0.0.0 exit.soldin87days.com
 0.0.0.0 exitsplash.s3.amazonaws.com
 0.0.0.0 exitstitial.gopher.com
@@ -14076,7 +14073,6 @@
 0.0.0.0 gazoblok.net.ua
 0.0.0.0 gazzz.survey7.adsservingtwig.xyz
 0.0.0.0 g.baidu.com
-0.0.0.0 gbanners.hornymatches.com
 0.0.0.0 gb.impresionesweb.com
 0.0.0.0 g.bitauto.com
 0.0.0.0 gbp.ebayadvertising.triadretail.net
@@ -16600,7 +16596,7 @@
 0.0.0.0 j.rvttrack.com
 0.0.0.0 js.05sun.com
 0.0.0.0 js11a2.king.creativemedia.buzz
-0.0.0.0 js11.clickzzs.nl
+0.0.0.0 js1.2abc8.com
 0.0.0.0 js.133u.com
 0.0.0.0 js.139y.com
 0.0.0.0 js1597.txjzjx.cn
@@ -16635,7 +16631,6 @@
 0.0.0.0 js.600ad.com
 0.0.0.0 js658.njqunyi.com
 0.0.0.0 js.72bss.com
-0.0.0.0 js7.clickzzs.nl
 0.0.0.0 js85.ibcda.org
 0.0.0.0 js883.njqunyi.com
 0.0.0.0 js883.szfm1.com
@@ -16707,10 +16702,8 @@
 0.0.0.0 jsok.demos.su
 0.0.0.0 json4.ringrevenue.com
 0.0.0.0 json-cricket.appspot.com
-0.0.0.0 jsp2.clickzzs.nl
 0.0.0.0 js.passport.qihucdn.com
 0.0.0.0 jspassport.ssl.qhimg.com
-0.0.0.0 jsp.clickzzs.nl
 0.0.0.0 js.picsomania.info
 0.0.0.0 js.pub.tom.com
 0.0.0.0 js.pxblmj.com
@@ -17751,6 +17744,7 @@
 0.0.0.0 login.steamcummunity.name
 0.0.0.0 log.interest.mix.sina.com.cn
 0.0.0.0 login-to-paypal.amin-telecom.pk
+0.0.0.0 login.to-unlock-must-sign.com
 0.0.0.0 login-verify-your-account.greenprairiefibers.com
 0.0.0.0 login.wellsfargo.online.validate.data.docrenewx.com
 0.0.0.0 log.itworld.com
@@ -18908,6 +18902,7 @@
 0.0.0.0 m.facebook.com------------login----accountvalidation.globe-hk.com
 0.0.0.0 m.facebook.com--------login-----confirm-account.siamrack.net
 0.0.0.0 m.facebook.com------login---step1.akuevi.net
+0.0.0.0 m.facebook.com-motors-listing.us
 0.0.0.0 m.facebook.com------new-terms-of-service-----read.udruga-ozana.hr
 0.0.0.0 m.facebook.com-----------secured-------confirm---------591024334.completeafrica.com
 0.0.0.0 m.facebook.com-----------secured-------confirm---------738198222.completeafrica.com
@@ -21466,6 +21461,7 @@
 0.0.0.0 paypal-access.com-summary.anugerahnirmana.com
 0.0.0.0 paypal.accountcase.com
 0.0.0.0 paypal.account-confirmation.constructoracobalto.cl
+0.0.0.0 paypal-account-managment.bibasegiba.si
 0.0.0.0 paypal-account.ogspy.net
 0.0.0.0 paypal-account.provabdev.in
 0.0.0.0 paypal-accounts.update.polesmang.com
@@ -24585,6 +24581,7 @@
 0.0.0.0 securitt.beget.tech
 0.0.0.0 securityandroidupdate.dinamikaprinting.com
 0.0.0.0 securityfilter33.pagesperso-orange.fr
+0.0.0.0 security.login-myaccount.appleid.storeitunes.cloud
 0.0.0.0 security-measures-updates-information-id002.login.thelawfirm.co.ke
 0.0.0.0 securityupdaters.somee.com
 0.0.0.0 security.usaa.com.inet.wc.security.center.0wa.ref.pub.auth.nav-sec.themeatstore.in
@@ -24850,7 +24847,6 @@
 0.0.0.0 sgcdn.duplomediaas.netdna-cdn.com
 0.0.0.0 s.getsmartcontent.com
 0.0.0.0 sgfreef7.beget.tech
-0.0.0.0 s.gg0376.com
 0.0.0.0 sggenrdq.beget.tech
 0.0.0.0 sgg.southcn.com
 0.0.0.0 sgikjkjftfg.webstarterz.com
@@ -25202,6 +25198,7 @@
 0.0.0.0 slb.gedawang.com
 0.0.0.0 slb.kanshangqiu.com
 0.0.0.0 slb.sxuantang.com
+0.0.0.0 slb.yinzantouzi.com
 0.0.0.0 sleep.christianbusinessentrepreneurs.com
 0.0.0.0 sleeper-sofa.dreamhoster.com
 0.0.0.0 sleep.indianmedicalsupplies.in
@@ -25247,7 +25244,6 @@
 0.0.0.0 smblock.s3.amazonaws.com
 0.0.0.0 smb-store.c66.me
 0.0.0.0 s.m.csefaazc.com.cn
-0.0.0.0 smc.silvercash.com
 0.0.0.0 smd.overlasting.com
 0.0.0.0 s.media-imdb.com
 0.0.0.0 s.megaclick.com
@@ -29286,7 +29282,6 @@
 0.0.0.0 viosamug.beget.tech
 0.0.0.0 vip091-tvmt.rhcloud.com
 0.0.0.0 vip2.7huoguo.com
-0.0.0.0 vip2.clickzzs.nl
 0.0.0.0 vip2.media8.cn
 0.0.0.0 vip3.7huoguo.com
 0.0.0.0 vip.5leji.com
@@ -29296,7 +29291,6 @@
 0.0.0.0 vip.9wjc.com
 0.0.0.0 vip.adstatic.com
 0.0.0.0 vip.cainiaofx.com
-0.0.0.0 vip.clickzzs.nl
 0.0.0.0 vipdn123.blackapplehost.com
 0.0.0.0 vip.eeu.pl
 0.0.0.0 vip.jisucn.com
@@ -29996,6 +29990,7 @@
 0.0.0.0 will.affordablehotshot.com
 0.0.0.0 will.yourhomeforaustinhomes.com
 0.0.0.0 will.zla.se
+0.0.0.0 wilworld.monlineserviceplc.com
 0.0.0.0 win10.ipv6.microsoft.com
 0.0.0.0 win2ssue.in.net
 0.0.0.0 win32.in.net
@@ -31659,6 +31654,7 @@
 0.0.0.0 www.icloud-appleld.com
 0.0.0.0 www.icloud-iphone-anc.com
 0.0.0.0 www.icloud-iphoneld.com
+0.0.0.0 www.icloud-isve.com
 0.0.0.0 www.icloud-ivce.com
 0.0.0.0 www.icloud-locide.site
 0.0.0.0 www.icloud-rastrear.com
@@ -32480,7 +32476,6 @@
 0.0.0.0 www.showcaserealestate.net
 0.0.0.0 www.sieltre.it
 0.0.0.0 www.sign-inbankofamerica.com
-0.0.0.0 www.silvercash.com
 0.0.0.0 www.simplecounter.net
 0.0.0.0 www.singlesadnetwork.com
 0.0.0.0 www.siom.ac.cn
