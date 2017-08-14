@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Aug 14 00:49:43 CEST 2017
-# Number of unique hostnames: 34183
+# Last update: Tue Aug 15 00:54:56 CEST 2017
+# Number of unique hostnames: 34195
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2044,6 +2044,7 @@
 0.0.0.0 ad.paypal.com
 0.0.0.0 ad.pbs.bb.ru
 0.0.0.0 ad.pchome.com.tw
+0.0.0.0 adp.cnki.net
 0.0.0.0 adp.cnool.net
 0.0.0.0 adp.cplaza.ne.jp
 0.0.0.0 ad.pensamedia.org
@@ -6074,6 +6075,7 @@
 0.0.0.0 apilinkswiftco-a.akamaihd.net
 0.0.0.0 api.linkz.net
 0.0.0.0 api.loyaltylion.com
+0.0.0.0 apiluckyleapnet-a.akamaihd.net
 0.0.0.0 api.magmamobile.com
 0.0.0.0 apimegabrowsebiz-a.akamaihd.net
 0.0.0.0 api.moogos.com
@@ -6093,10 +6095,12 @@
 0.0.0.0 apipub.oumma.com
 0.0.0.0 api.push.le.com
 0.0.0.0 api-push.meizu.com
+0.0.0.0 apiqualitinknet-a.akamaihd.net
 0.0.0.0 api.quarticon.com
 0.0.0.0 api.rees46.com
 0.0.0.0 api.salesfeed.com
 0.0.0.0 apiscantacknet-a.akamaihd.net
+0.0.0.0 apisecretsaucebi-a.akamaihd.net
 0.0.0.0 api.seomsg.com
 0.0.0.0 api.share.baidu.com
 0.0.0.0 api.sharedcount.com
@@ -6282,6 +6286,7 @@
 0.0.0.0 appleini.beget.tech
 0.0.0.0 appleitl.rewards-bonanza-2.com
 0.0.0.0 apple.it-secure1.store.apple.apple-idacount-italia.terapt.com
+0.0.0.0 appleld.apple.com.t5j2kdkc88dd2m423-verif.info
 0.0.0.0 apple-login-appleit-assistenza-apple.com-support.itilprot.com
 0.0.0.0 apple-login.verification-login-xe32-09e0c934.info
 0.0.0.0 apple.mapconnect.info
@@ -12025,6 +12030,7 @@
 0.0.0.0 dmg.digitaltarget.ru
 0.0.0.0 dm.gzpinda.com
 0.0.0.0 dm.hugolescargot.com
+0.0.0.0 dm.huochepiao.com
 0.0.0.0 d.mingyihui.net
 0.0.0.0 dm.jb51.net
 0.0.0.0 dm.journaldesfemmes.com
@@ -15865,6 +15871,7 @@
 0.0.0.0 iliilllio00oo0.321.cn
 0.0.0.0 i.linkurysearch.me
 0.0.0.0 ilinuknofumi.mybjjblog.com
+0.0.0.0 ilumigrafias.adriancugar.com
 0.0.0.0 ilu.troughtheend.com
 0.0.0.0 i.lynsjx.com
 0.0.0.0 im1.56zzw.com
@@ -16790,6 +16797,7 @@
 0.0.0.0 jnep.sumdu.edu.ua
 0.0.0.0 jn.lightsalep.su
 0.0.0.0 j.nnsky.com
+0.0.0.0 jnpzz.1445tzvxq.firc.gdn
 0.0.0.0 jnsz.net.cn
 0.0.0.0 jnvamritsar.org.in
 0.0.0.0 jnvzpp.sellclassics.com
@@ -16950,6 +16958,7 @@
 0.0.0.0 js.embedarticle.com
 0.0.0.0 js.en.redtram.com
 0.0.0.0 js.eyouv.cn
+0.0.0.0 jsf.cnlinfo.net
 0.0.0.0 js.fengniao.com
 0.0.0.0 js.francite.com
 0.0.0.0 js.goods.redtram.com
@@ -19668,7 +19677,6 @@
 0.0.0.0 mp.tscapeplay.com
 0.0.0.0 mp.twitch.tv
 0.0.0.0 mpv.sandai.net
-0.0.0.0 mp.weixin.qq.com
 0.0.0.0 mqaoc.westgroupa.su
 0.0.0.0 m.qcw.com
 0.0.0.0 m.qianka.com
@@ -28458,6 +28466,7 @@
 0.0.0.0 tracking.wisepops.com
 0.0.0.0 tracking.worldmedia.net
 0.0.0.0 tracking.wuzzon.nl
+0.0.0.0 tracking.xsellapp.com
 0.0.0.0 tracking.yourfilehost.com
 0.0.0.0 track.interracialtgirlsex.com
 0.0.0.0 track.ionicmedia.com
@@ -32150,6 +32159,7 @@
 0.0.0.0 www-google-analytics.l.google.com
 0.0.0.0 www.google.com-document-view.alibabatradegroup.com
 0.0.0.0 www.google.ienet.pl
+0.0.0.0 www.googmel.win
 0.0.0.0 www.gooogle.co.uk
 0.0.0.0 www.gopopup.com
 0.0.0.0 www.gospelcelebration.com
@@ -32505,6 +32515,7 @@
 0.0.0.0 www.lyztdz.com
 0.0.0.0 www.macaddictads.snv.futurenet.nl
 0.0.0.0 www.mac.com-w.net
+0.0.0.0 www.macfillerck.com
 0.0.0.0 www.macombdisplayads.com
 0.0.0.0 www.madhouse.cn
 0.0.0.0 www.madmax53.stellar.cpa.clicksure.com
@@ -33373,6 +33384,7 @@
 0.0.0.0 www.tw.vipbeanfun.com
 0.0.0.0 www.typepad.com
 0.0.0.0 www.tz-dsp.com
+0.0.0.0 www.u1trkqf.com
 0.0.0.0 www.ugripe.com
 0.0.0.0 www.ujian.cc
 0.0.0.0 www.ukantivirus.co.uk
