@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Sep 17 00:59:38 CEST 2017
-# Number of unique hostnames: 35189
+# Last update: Mon Sep 18 01:02:57 CEST 2017
+# Number of unique hostnames: 35210
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -1890,6 +1890,7 @@
 0.0.0.0 ad.lolipop.jp
 0.0.0.0 ad.looktraffic.com
 0.0.0.0 ad.lupa.cz
+0.0.0.0 adl.windows.com
 0.0.0.0 ad.lyricswire.com
 0.0.0.0 adm0.autoimg.cn
 0.0.0.0 adm.10jqka.com.cn
@@ -6544,6 +6545,10 @@
 0.0.0.0 array102-prod.do.dsp.mp.microsoft.com
 0.0.0.0 array103-prod.do.dsp.mp.microsoft.com
 0.0.0.0 array104-prod.do.dsp.mp.microsoft.com
+0.0.0.0 array201-prod.do.dsp.mp.microsoft.com
+0.0.0.0 array202-prod.do.dsp.mp.microsoft.com
+0.0.0.0 array203-prod.do.dsp.mp.microsoft.com
+0.0.0.0 array204-prod.do.dsp.mp.microsoft.com
 0.0.0.0 arsconsole.global-intermedia.com
 0.0.0.0 ars.couphole.com
 0.0.0.0 arsenalforum.cekuj.net
@@ -8580,6 +8585,7 @@
 0.0.0.0 c.91wan.com
 0.0.0.0 c.9388.com
 0.0.0.0 c.a2g-secure.com
+0.0.0.0 ca3.revieworbit.com
 0.0.0.0 ca4.revieworbit.com
 0.0.0.0 ca.5173car.com
 0.0.0.0 ca.abv.bg
@@ -10498,6 +10504,7 @@
 0.0.0.0 cp101-prod.do.dsp.mp.microsoft.com
 0.0.0.0 cp1.news.com.au
 0.0.0.0 cp.1o26.com
+0.0.0.0 cp201-prod.do.dsp.mp.microsoft.com
 0.0.0.0 cp53072.cloudhosting.lv
 0.0.0.0 cp53091.cloudhosting.lv
 0.0.0.0 cp5.astrahosting.com
@@ -11618,6 +11625,7 @@
 0.0.0.0 db5sch101101813.wns.windows.com
 0.0.0.0 db5sch101101835.wns.windows.com
 0.0.0.0 db5sch101101837.wns.windows.com
+0.0.0.0 db5sch101101844.wns.windows.com
 0.0.0.0 db5sch101101914.wns.windows.com
 0.0.0.0 db5sch101101939.wns.windows.com
 0.0.0.0 db5sch101102015.wns.windows.com
@@ -11639,6 +11647,7 @@
 0.0.0.0 db5sch101110403.wns.windows.com
 0.0.0.0 db5sch101110438.wns.windows.com
 0.0.0.0 db5sch101110442.wns.windows.com
+0.0.0.0 db5sch101110501.wns.windows.com
 0.0.0.0 db5sch101110527.wns.windows.com
 0.0.0.0 db5sch101110533.wns.windows.com
 0.0.0.0 db5sch101110622.wns.windows.com
@@ -11681,17 +11690,22 @@
 0.0.0.0 db5wns1d.wns.windows.com
 0.0.0.0 db5.wns.windows.com
 0.0.0.0 db6sch102090122.wns.windows.com
+0.0.0.0 db6sch102090208.wns.windows.com
 0.0.0.0 db6sch102090305.wns.windows.com
 0.0.0.0 db6sch102090311.wns.windows.com
+0.0.0.0 db6sch102090410.wns.windows.com
 0.0.0.0 db6sch102090412.wns.windows.com
 0.0.0.0 db6sch102090510.wns.windows.com
+0.0.0.0 db6sch102090512.wns.windows.com
 0.0.0.0 db6sch102090513.wns.windows.com
+0.0.0.0 db6sch102090613.wns.windows.com
 0.0.0.0 db6sch102090619.wns.windows.com
 0.0.0.0 db6sch102090811.wns.windows.com
 0.0.0.0 db6sch102090907.wns.windows.com
 0.0.0.0 db6sch102090910.wns.windows.com
 0.0.0.0 db6sch102091008.wns.windows.com
 0.0.0.0 db6sch102091105.wns.windows.com
+0.0.0.0 db6sch102091307.wns.windows.com
 0.0.0.0 db6sch102091309.wns.windows.com
 0.0.0.0 db6sch102091412.wns.windows.com
 0.0.0.0 db6sch102091603.wns.windows.com
@@ -12133,6 +12147,7 @@
 0.0.0.0 disa.generalsfloppscouts.net
 0.0.0.0 disa.lengthwellform.net
 0.0.0.0 disc101-prod.do.dsp.mp.microsoft.com
+0.0.0.0 disc201-prod.do.dsp.mp.microsoft.com
 0.0.0.0 discover.connect.weelpointz.com
 0.0.0.0 discover.dnsi.co.za
 0.0.0.0 discovermintini.oucreate.com
@@ -14477,6 +14492,7 @@
 0.0.0.0 fsksbg.legacyminerals.info
 0.0.0.0 fskww.areteenergy.us
 0.0.0.0 fsl.sytes.net
+0.0.0.0 fs.microsoft.com
 0.0.0.0 fsr.lenovomm.com
 0.0.0.0 f.staticlp.com
 0.0.0.0 fs.uc.nearme.com.cn
@@ -15182,6 +15198,7 @@
 0.0.0.0 go.wsockd.com
 0.0.0.0 go.youlamedia.com
 0.0.0.0 gp.dejanews.com
+0.0.0.0 g.pgu.cc
 0.0.0.0 gp.jstv.com
 0.0.0.0 gpms.org.my
 0.0.0.0 gpoint.gpoint.com.gr
@@ -15319,6 +15336,7 @@
 0.0.0.0 gwhwpxbw.bloger.index.hr
 0.0.0.0 g.wrating.com
 0.0.0.0 gwrtmds.000webhostapp.com
+0.0.0.0 gwx.windows.com
 0.0.0.0 gwxyz.5gbfree.com
 0.0.0.0 gwyn-arholiad.000webhostapp.com
 0.0.0.0 gwynethpaltrow.ca.tt
@@ -15352,6 +15370,7 @@
 0.0.0.0 h1.18sd.cn
 0.0.0.0 h1317070.stratoserver.net
 0.0.0.0 h1666015.stratoserver.net
+0.0.0.0 h1.kukuw.com
 0.0.0.0 h1.msn.com
 0.0.0.0 h1psma.nero.printersclothcompany.com
 0.0.0.0 h1.ripway.com
@@ -17883,6 +17902,7 @@
 0.0.0.0 kuzai.cooguo.com
 0.0.0.0 kuzrab.maxpolezhaev.ru
 0.0.0.0 kv101-prod.do.dsp.mp.microsoft.com
+0.0.0.0 kv201-prod.do.dsp.mp.microsoft.com
 0.0.0.0 kv-moniottelu.asikkalanraikas.net
 0.0.0.0 kv.stat.nearme.com.cn
 0.0.0.0 kvvijrmu.angelcities.com
@@ -30014,6 +30034,7 @@
 0.0.0.0 unins.5b55.com
 0.0.0.0 union1.cnbetacdn.com
 0.0.0.0 union2.50bang.org
+0.0.0.0 union2.cnbetacdn.com
 0.0.0.0 union.56.com
 0.0.0.0 union.6.cn
 0.0.0.0 union.baidu.com
