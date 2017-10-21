@@ -1,13 +1,13 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Oct 21 01:12:53 CEST 2017
-# Number of unique hostnames: 33407
+# Last update: Sun Oct 22 00:59:27 CEST 2017
+# Number of unique hostnames: 33459
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
 # This hostfiles aim is not to break any useful websites
 # Submit a issue on github in case you find any false positives
-###############################[INSTALL]#################################
+################################[INSTALL]################################
 # Update your dnsmasq.conf file and add the following lines:
 #  conf-file=/path/to/domains.txt
 #  addn-hosts=/path/to/hostnames.txt
@@ -72,6 +72,7 @@
 0.0.0.0 0ffice.webnode.com
 0.0.0.0 0inlkjxp.njylyljg.com
 0.0.0.0 0koryu0.easter.ne.jp
+0.0.0.0 0leaf.supportpaypal.secure-sessionlogin.com
 0.0.0.0 0lost.littleriverretreat.net
 0.0.0.0 0lovespells0.blogspot.com
 0.0.0.0 0nline.23welsfargo39.com.al4all.co.za
@@ -1038,6 +1039,7 @@
 0.0.0.0 accounts.craigslist.org.svrrc.com
 0.0.0.0 accountsettings3176.000webhostapp.com
 0.0.0.0 accountsettings31761.000webhostapp.com
+0.0.0.0 accountsettings317651.000webhostapp.com
 0.0.0.0 account.sewstitchenadorable.com
 0.0.0.0 accounts.google.c0m.juhaszpiroska.hu
 0.0.0.0 account.skrill.com.login.locale.bukafa.com
@@ -5036,6 +5038,7 @@
 0.0.0.0 a.fashiocdn.com
 0.0.0.0 afb-developers.pe.hu
 0.0.0.0 afb-services.96.lt
+0.0.0.0 afcdongbac.edu.vn
 0.0.0.0 afcxvcrtytyq.at.ua
 0.0.0.0 afd.baidu.com
 0.0.0.0 afeez.leatherforgay.co.uk
@@ -5369,7 +5372,6 @@
 0.0.0.0 a.jadizayo.com
 0.0.0.0 ajamattomana.spectraat.com
 0.0.0.0 a.jandolav.com
-0.0.0.0 ajax.cloudflare.com
 0.0.0.0 ajax-googleapis.chexinet.com
 0.0.0.0 ajbhsh.edu.bd
 0.0.0.0 aj.daniweb.com
@@ -5597,6 +5599,7 @@
 0.0.0.0 a.mobify.com
 0.0.0.0 a.mobile.toboads.com
 0.0.0.0 a.modernmedicine.com
+0.0.0.0 amodulco.vh62.hosterby.com
 0.0.0.0 a.moitepari.bg
 0.0.0.0 a.mologiq.net
 0.0.0.0 amoqixadomolir.blogspot.com
@@ -5725,6 +5728,7 @@
 0.0.0.0 analytics.ooyala.com
 0.0.0.0 analytics.openload.co
 0.0.0.0 analytic.spamfighter.com
+0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.poferries.com
 0.0.0.0 analytics.popsci.com
 0.0.0.0 analytics-prod-ingress.bricknet.com
@@ -6223,6 +6227,8 @@
 0.0.0.0 appleid.apple.miniwatt.it
 0.0.0.0 appleid.apple.mollae.ir
 0.0.0.0 appleid.apple.restore-id.info
+0.0.0.0 appleid.com-fixed-account.net
+0.0.0.0 appleid.comjp-fixed-account.net
 0.0.0.0 apple-id-itunes.webcindario.com
 0.0.0.0 appleid-member765.id-hr644gff7adc.com
 0.0.0.0 appleid.storesapple.com.internalsupport-log.com
@@ -6240,6 +6246,7 @@
 0.0.0.0 apple.mapconnect.info
 0.0.0.0 apple.map-iphone.com
 0.0.0.0 applepayment.brianfeed.com
+0.0.0.0 applepayments.gatewaybilling.appleid.euid01.apple-validation.com
 0.0.0.0 apple.phishing.at.all.possible.subdomins.of.gwtoys.cn
 0.0.0.0 appleservice.com.e-matcom.com
 0.0.0.0 applessseceureers.com.z14sns.com
@@ -8555,6 +8562,7 @@
 0.0.0.0 c.cldlr.com
 0.0.0.0 c.cl.msn.com
 0.0.0.0 ccl.payments.appleid-apple.store.swdho.decoys.com.ar
+0.0.0.0 cc.moquanad.com
 0.0.0.0 c.cnstats.ru
 0.0.0.0 c.cocacola.co.jp
 0.0.0.0 ccomglobal.net.in
@@ -9177,6 +9185,7 @@
 0.0.0.0 cielopromocao.esy.es
 0.0.0.0 cielosempredapremiospravc.cq14619.tmweb.ru
 0.0.0.0 c.ie.msn.com
+0.0.0.0 cijfers.tweakers.nl
 0.0.0.0 c.il.msn.com
 0.0.0.0 cinema.cheryldare.com
 0.0.0.0 cinema.zarca-inc.com
@@ -9226,6 +9235,10 @@
 0.0.0.0 cl64195.tmweb.ru
 0.0.0.0 c.la1w1.salesforceliveagent.com
 0.0.0.0 claming11.000webhostapp.com
+0.0.0.0 claming324.000webhostapp.com
+0.0.0.0 claming454.000webhostapp.com
+0.0.0.0 claming543.000webhostapp.com
+0.0.0.0 claming5432.000webhostapp.com
 0.0.0.0 claminger453.000webhostapp.com
 0.0.0.0 claming-yourligin.planet-host.club
 0.0.0.0 claminogin897.givent.top
@@ -10677,8 +10690,8 @@
 0.0.0.0 d2bbvl6dq48fa6.cloudfront.net
 0.0.0.0 d2bgg7rjywcwsy.cloudfront.net
 0.0.0.0 d2bj2texxib1qg.cloudfront.net
+0.0.0.0 d2bnxibecyz4h5.cloudfront.net
 0.0.0.0 d2bw638ufki166.cloudfront.net
-0.0.0.0 d2c8v52ll5s99u.cloudfront.net
 0.0.0.0 d2cgumzzqhgmdu.cloudfront.net
 0.0.0.0 d2cxkkxhecdzsq.cloudfront.net
 0.0.0.0 d2d2lbvq8xirbs.cloudfront.net
@@ -10852,6 +10865,7 @@
 0.0.0.0 d3dphmosjk9rot.cloudfront.net
 0.0.0.0 d3dytsf4vrjn5x.cloudfront.net
 0.0.0.0 d3edizycpjjo07.cloudfront.net
+0.0.0.0 d3elm8wezzwg42.cloudfront.net
 0.0.0.0 d3emsmln8xfj03.cloudfront.net
 0.0.0.0 d3ezl4ajpp2zy8.cloudfront.net
 0.0.0.0 d3f4u3khr0ycep.cloudfront.net
@@ -11525,6 +11539,7 @@
 0.0.0.0 demkc32bq01ah.cloudfront.net
 0.0.0.0 demnitiontrompeters.netneutralitysopa.com
 0.0.0.0 demo02.firstdigitalshowcase.com
+0.0.0.0 demo1.dandbplants.com
 0.0.0.0 demo1.zohaibpk.com
 0.0.0.0 demo25.extstore.com
 0.0.0.0 demo.firefighterpreplan.com
@@ -12520,6 +12535,7 @@
 0.0.0.0 eclick.360doc.com
 0.0.0.0 eclick.baidu.com
 0.0.0.0 e.clubske.com
+0.0.0.0 e.cluoy.com
 0.0.0.0 ecma.bdimg.com
 0.0.0.0 ecmb.bdimg.com
 0.0.0.0 ecmc.bdimg.com
@@ -12608,6 +12624,7 @@
 0.0.0.0 egaagb.toptradewebb.su
 0.0.0.0 egg.capitalsociety.org
 0.0.0.0 egine.zhengongfupills.com
+0.0.0.0 e.gjshcn.com
 0.0.0.0 egrtjhtrx.bighydraulicdoors.com
 0.0.0.0 e.gythsg.com
 0.0.0.0 eh4zo1.best.a1taxispershore.co.uk
@@ -13239,6 +13256,7 @@
 0.0.0.0 fan.twitch.tv
 0.0.0.0 fanxing.kugou.com
 0.0.0.0 fapet.ipb.ac.id
+0.0.0.0 faqsnter-payments-declined.com-account.com
 0.0.0.0 far0m.somaliaworking.org
 0.0.0.0 fargomailactivate.minijozveh.ir
 0.0.0.0 fari07.fabrikatur.de
@@ -13297,6 +13315,7 @@
 0.0.0.0 fb-colors.ct8.pl
 0.0.0.0 fb.com.accounts.login.userid.293160.2bjdm.com
 0.0.0.0 fb.com--------validate---account----step1.yudumay.com
+0.0.0.0 fbc.wcfbc.net
 0.0.0.0 fbdgreh.backflowplano.com
 0.0.0.0 fb-generalpair1.at.ua
 0.0.0.0 fbgroupslikes.2fh.co
@@ -14523,6 +14542,7 @@
 0.0.0.0 go.bluewin.ch
 0.0.0.0 go.data1rtb.com
 0.0.0.0 go.delnapb.com
+0.0.0.0 godhelper.5gbfree.com
 0.0.0.0 godisgood.sweetkylebear.com
 0.0.0.0 god.mykiddi.com
 0.0.0.0 godpore2.0pe.ke
@@ -14802,6 +14822,7 @@
 0.0.0.0 gylra.cruisingsmallship.com
 0.0.0.0 gyodundena.hotmail.ru
 0.0.0.0 gytyu.ihsanfrancisco.com
+0.0.0.0 gz.hxdaka.com
 0.0.0.0 h01.hxsame.hexun.com
 0.0.0.0 h02.hxsame.hexun.com
 0.0.0.0 h03.hxsame.hexun.com
@@ -15074,6 +15095,7 @@
 0.0.0.0 hipub.hiwit.org
 0.0.0.0 hiq.fotolog.com
 0.0.0.0 hiroad.wight-space.com
+0.0.0.0 hirpcard.000webhostapp.com
 0.0.0.0 histats2014.simply-webspace.it
 0.0.0.0 history.buydrugtests.com
 0.0.0.0 history.citysatins.com
@@ -15148,6 +15170,7 @@
 0.0.0.0 hm.baidu.com
 0.0.0.0 hmc.uxuixsw0b.top
 0.0.0.0 hm-department-of-taxes-uniqueid-rr322ll251.gabrieltellier.com
+0.0.0.0 hmdp.dingdianzw.com
 0.0.0.0 hmgxky.ge-ix.info
 0.0.0.0 hm.l.qq.com
 0.0.0.0 hmma.baidu.com
@@ -15886,6 +15909,7 @@
 0.0.0.0 imgpromo.easyrencontre.com
 0.0.0.0 img.qdscgj.com
 0.0.0.0 img.qqgeshou.com
+0.0.0.0 img.qrsw.net
 0.0.0.0 img.qun89.com
 0.0.0.0 img.readme.ru
 0.0.0.0 img.royal-cash.com
@@ -15977,6 +16001,7 @@
 0.0.0.0 imp.pdb.madserving.com
 0.0.0.0 impression.clickinc.com
 0.0.0.0 impr.superpages.com
+0.0.0.0 imp.rtb.cat
 0.0.0.0 imp.xgo.com.cn
 0.0.0.0 imp.zdnet.com.cn
 0.0.0.0 imp.zol.com.cn
@@ -16039,6 +16064,7 @@
 0.0.0.0 info0ifbt921177.000webhostapp.com
 0.0.0.0 info0tfb66577100.000webhostapp.com
 0.0.0.0 info10008775gbtf005n.000webhostapp.com
+0.0.0.0 info1009882310000d.000webhostapp.com
 0.0.0.0 info101.centre-fanpage9991.gq
 0.0.0.0 info11001578ne.000webhostapp.com
 0.0.0.0 info112kff198.000webhostapp.com
@@ -16047,6 +16073,7 @@
 0.0.0.0 info12fbg67777.000webhostapp.com
 0.0.0.0 info1578nefb009111.000webhostapp.com
 0.0.0.0 info1fb158870000n1.000webhostapp.com
+0.0.0.0 info2001666511v.000webhostapp.com
 0.0.0.0 info200fbt51110.000webhostapp.com
 0.0.0.0 info221fb399011n.000webhostapp.com
 0.0.0.0 info222fb0119944c.000webhostapp.com
@@ -16082,6 +16109,7 @@
 0.0.0.0 info77fbd33187100.000webhostapp.com
 0.0.0.0 info7e100056117100c.000webhostapp.com
 0.0.0.0 info8700fbr322100.000webhostapp.com
+0.0.0.0 info88524nf4400111.000webhostapp.com
 0.0.0.0 info887fbr4112.000webhostapp.com
 0.0.0.0 info899fbgt341100.000webhostapp.com
 0.0.0.0 info8sfb50091777.000webhostapp.com
@@ -16301,6 +16329,7 @@
 0.0.0.0 irondel.swisshost.by
 0.0.0.0 irpmt.mail.163.com
 0.0.0.0 irr.highefficiencyirrigationsystems.com
+0.0.0.0 irs.gov.falmouthroadrace.com
 0.0.0.0 irs.gov.irs-qus.com
 0.0.0.0 irsgov.nswsoccer.com.au
 0.0.0.0 irs.gov.nuestrasmanualidades.cl
@@ -16896,6 +16925,7 @@
 0.0.0.0 kali.mycom.co.jp
 0.0.0.0 kali.mynavi.jp
 0.0.0.0 kalstats.kaltura.com
+0.0.0.0 kalwik.wsite.cz
 0.0.0.0 kamabusuok.000webhostapp.com
 0.0.0.0 kamadenlai.5gbfree.com
 0.0.0.0 kameja-veikals-78267.rekviziti.lv
@@ -18478,6 +18508,7 @@
 0.0.0.0 mcl.girlsgothic.com
 0.0.0.0 mclick.simba.taobao.com
 0.0.0.0 m.clubske.com
+0.0.0.0 m.cluoy.com
 0.0.0.0 mcmads.mediacapital.pt
 0.0.0.0 mcm.fastrisings.com
 0.0.0.0 m.cnbmaterials.com
@@ -19018,6 +19049,7 @@
 0.0.0.0 m.gdyyyg.net
 0.0.0.0 mgfd1b.petrix.net
 0.0.0.0 mg.games.sina.com.cn
+0.0.0.0 m.gjshcn.com
 0.0.0.0 mgqfmjuc.nzgerhievplkzcqksrlo.ml
 0.0.0.0 m_graph.vidpark.com
 0.0.0.0 mgtscience.lasu.edu.ng
@@ -19126,6 +19158,7 @@
 0.0.0.0 mirrors.site50.net
 0.0.0.0 m.ishangtong.com
 0.0.0.0 miss.doctortoken.com
+0.0.0.0 missionservice.000webhostapp.com
 0.0.0.0 mission.transformation-center.com
 0.0.0.0 miss.scoginfinance.com
 0.0.0.0 mitchlljetterforskning.djmorgan.info
@@ -19600,6 +19633,7 @@
 0.0.0.0 mydisplay.ctfile.com
 0.0.0.0 mydownload.speedypc.safecart.com
 0.0.0.0 myes.youku.com
+0.0.0.0 myfaceb00ksecrets.comeze.com
 0.0.0.0 my.followerinfo.xyz
 0.0.0.0 myftp.myftp.biz
 0.0.0.0 mygoodness.in.ua
@@ -19624,6 +19658,7 @@
 0.0.0.0 mytrafficvalue.commsedge.net
 0.0.0.0 my.trgino.com
 0.0.0.0 mytxinf.000webhostapp.com
+0.0.0.0 myunion1.qm120.com
 0.0.0.0 my.xadsales.com
 0.0.0.0 m.yxbag.net
 0.0.0.0 mz7oyb3v32vshcvk.getstar.li
@@ -21701,6 +21736,7 @@
 0.0.0.0 pei-ads.thesmokingjacket.com
 0.0.0.0 pellamuseum.culture.gr
 0.0.0.0 p.emaradx.com
+0.0.0.0 pemoallu.beget.tech
 0.0.0.0 pendencia21.com.sapo.pt
 0.0.0.0 pen.kidsonboats.net
 0.0.0.0 pen.mgbowl.com
@@ -22278,6 +22314,7 @@
 0.0.0.0 pp-ger-de.germanger-verifyanfrage.ru
 0.0.0.0 ppid.posokab.go.id
 0.0.0.0 ppiy.v5.yy.com
+0.0.0.0 ppjm.unnes.ac.id
 0.0.0.0 p.placemypixel.com
 0.0.0.0 pple.com.virus-mac.com
 0.0.0.0 pp.nrelate.com
@@ -23610,6 +23647,7 @@
 0.0.0.0 ronjaapplegallery.net16.net
 0.0.0.0 roofers.org.uk
 0.0.0.0 roofgreen.in.ua
+0.0.0.0 room24.superdows.com
 0.0.0.0 roomairbnbnet.altervista.org
 0.0.0.0 roomsairbnub.altervista.org
 0.0.0.0 roomsiarbab.altervista.org
@@ -23637,7 +23675,6 @@
 0.0.0.0 rotor6.newzfind.com
 0.0.0.0 router.googlecom.biz
 0.0.0.0 router.gwdang.com
-0.0.0.0 rover.ebay.com
 0.0.0.0 rovio-news-app.angrybirdsgame.com
 0.0.0.0 row-advil.waze.com
 0.0.0.0 row.bc.yahoo.com
@@ -24071,6 +24108,7 @@
 0.0.0.0 schauplatzprozess.christopherhasastrategy.com
 0.0.0.0 schemas.microsoft.akadns.net
 0.0.0.0 schiller123.ddns.net
+0.0.0.0 schlaefereit.nrdc.de
 0.0.0.0 schlicher-domung.brightfuture.biz
 0.0.0.0 school.obec.go.th
 0.0.0.0 schoorsteen.geenstijl.nl
@@ -25231,6 +25269,7 @@
 0.0.0.0 sound.quantumjvs.info
 0.0.0.0 soundwave.mobile.yahoo.com
 0.0.0.0 soupesiovoortstuwden.lanuevabancadenegocios.com
+0.0.0.0 sourcefb5.000webhostapp.com
 0.0.0.0 soviet-portal.do.am
 0.0.0.0 sowmilk.pacorahome.com
 0.0.0.0 soxorok.ddospower.ro
@@ -26340,6 +26379,7 @@
 0.0.0.0 supplies.pioneertanksupplies.com
 0.0.0.0 supply-submit-pdf.rogibgroup.com
 0.0.0.0 supply.upjers.com
+0.0.0.0 support0001221.000webhostapp.com
 0.0.0.0 support232.confrim-fanpage111.ga
 0.0.0.0 support-account.chordguitarkito.com
 0.0.0.0 support-billing.info.billystaproomormondbeach.com
@@ -26418,6 +26458,7 @@
 0.0.0.0 swb.gol.ge
 0.0.0.0 swc6pn.japan.katsujinkendojo.co.uk
 0.0.0.0 swear.ntxrain.com
+0.0.0.0 swebanalytics.eniro.se
 0.0.0.0 sweepstakes.about.com
 0.0.0.0 sweet.berumba.ca
 0.0.0.0 sweet.game-rust.ru
@@ -26820,6 +26861,7 @@
 0.0.0.0 tedeumssteinbergs.shock-fun.com
 0.0.0.0 ted.metro.co.uk
 0.0.0.0 t-e.flyme.cn
+0.0.0.0 te.gdhdfs.com
 0.0.0.0 te.greenwichtime.com
 0.0.0.0 t.eharmony.com
 0.0.0.0 te.infoworld.com
@@ -28026,6 +28068,7 @@
 0.0.0.0 transcript.login.2016.lerupublishers.com
 0.0.0.0 transition.org.cn
 0.0.0.0 transportiertest.ultraketonehealth.com
+0.0.0.0 tr.apsislead.com
 0.0.0.0 traspalaciorubicell.whygibraltar.co.uk
 0.0.0.0 travel-insurance-quotes.beesearch.info
 0.0.0.0 travelmail.traveltek.net
@@ -28203,6 +28246,7 @@
 0.0.0.0 tuleram.lazarofencing.net
 0.0.0.0 tu.mulhollandluxury.com
 0.0.0.0 t.unbounce.com
+0.0.0.0 tungkinjayala01.000webhostapp.com
 0.0.0.0 tunion-api.m.taobao.com
 0.0.0.0 tu.njflfd.com
 0.0.0.0 t.upajs.co
@@ -28533,6 +28577,7 @@
 0.0.0.0 updddha.dhlercodhl.tk
 0.0.0.0 upd.faronicslabs.com
 0.0.0.0 updpplserve.neat-url.com
+0.0.0.0 upf.go.ug
 0.0.0.0 upgrade4life.inlineonlinesafeupdates.org
 0.0.0.0 upgrade.app.services.shivajibedbped.org
 0.0.0.0 upgradenote.checkupdateslive.net
@@ -29345,6 +29390,7 @@
 0.0.0.0 warning404.facebok-securtity.tk
 0.0.0.0 warning405.facebok-securtity.ml
 0.0.0.0 warning406.facebok-securtity.ga
+0.0.0.0 warningfb.000webhostapp.com
 0.0.0.0 warningfb3434.000webhostapp.com
 0.0.0.0 warningfb6666.000webhostapp.com
 0.0.0.0 warningzscaler.heraeus.com
@@ -30552,6 +30598,9 @@
 0.0.0.0 www.appfoxes.com
 0.0.0.0 www.apphostcapital.com
 0.0.0.0 www.appid-chazhao.com
+0.0.0.0 www.appid-lnc.com
+0.0.0.0 www.applecare-inc.com
+0.0.0.0 www.appled-found-icloud.com
 0.0.0.0 www.apple-iaed.com
 0.0.0.0 www.appleid-inc-find.com
 0.0.0.0 www.appleidinfo.net
@@ -30870,6 +30919,7 @@
 0.0.0.0 www.collect.mentad.com
 0.0.0.0 www.colonresectionsurgery.com
 0.0.0.0 www.coloritpak.by
+0.0.0.0 www.com-cuenta-de-servicio-662494.org
 0.0.0.0 www.comfm.com
 0.0.0.0 www.commercialclientsgroup.ru
 0.0.0.0 www.commissionempire.com
@@ -31668,6 +31718,7 @@
 0.0.0.0 www.lyzgs.com
 0.0.0.0 www.lzcei.com
 0.0.0.0 www.macaddictads.snv.futurenet.nl
+0.0.0.0 www.macaheadapps.com
 0.0.0.0 www.mac.com-w.net
 0.0.0.0 www.macfillerck.com
 0.0.0.0 www.macombdisplayads.com
@@ -32432,6 +32483,7 @@
 0.0.0.0 www.te81.net
 0.0.0.0 www.teachersfc.org
 0.0.0.0 www.teamaxe.wz.cz
+0.0.0.0 www.teb-bireysell.com
 0.0.0.0 www.technix.it
 0.0.0.0 www.teenwise.com
 0.0.0.0 www.tekyalhaja.xyz
