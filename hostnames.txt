@@ -1,58 +1,20 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Oct 24 01:12:35 CEST 2017
-# Number of unique hostnames: 35856
+# Last update: Wed Oct 25 01:12:30 CEST 2017
+# Number of unique hostnames: 35617
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
 # This hostfiles aim is not to break any useful websites
-# Submit a issue on github in case you find any false positives
+# Submit a issue on Github in case of any false or missing hosts
 ################################[INSTALL]################################
-# Update your dnsmasq.conf file and add the following lines:
+# Update your dnsmasq.conf file and add the following 2 lines:
 #  conf-file=/path/to/domains.txt
 #  addn-hosts=/path/to/hostnames.txt
-################################[SOURCES]################################
-# - http://winhelp2002.mvps.org/hosts.txt
-# - http://www.malwaredomainlist.com/hostslist/hosts.txt
-# - http://someonewhocares.org/hosts/hosts/
-# - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# - https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
-# - http://hosts-file.net/ad_servers.txt
-# - http://hosts-file.net/exp.txt
-# - http://hosts-file.net/mmt.txt
-# - http://pgl.yoyo.org/as/serverlist.php?hostformat=hosts
-# - https://raw.github.com/StevenBlack/hosts/master/hosts
-# - https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
-# - http://malwaredomains.lehigh.edu/files/BOOT
-# - http://malwaredomains.lehigh.edu/files/immortal_domains.txt
-# - https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
-# - https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt
-# - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win7/spy.txt
-# - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win81/spy.txt
-# - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win10/spy.txt
-# - https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
-# - http://www.dshield.org/feeds/suspiciousdomains_Medium.txt
-# - http://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz (only ads)
-# - https://ssl.bblck.me/blacklists/hosts-file.txt
-# - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# - http://www.shallalist.de/Downloads/shallalist.tar.gz (only ads and tracker)
-# Adblock plus (only full domain filters)
-# - https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt
-# - https://www.fanboy.co.nz/enhancedstats.txt
-# - https://easylist-downloads.adblockplus.org/easylist.txt
-# - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# - https://easylist-downloads.adblockplus.org/easylistdutch.txt
-# - https://easylist-downloads.adblockplus.org/easylistgermany.txt
-# - https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock.txt
-# - https://easylist-downloads.adblockplus.org/easylistspanish.txt
-# - https://easylist-downloads.adblockplus.org/liste_fr.txt
-# - https://easylist-downloads.adblockplus.org/easylistitaly.txt
-# - https://www.void.gr/kargig/void-gr-filters.txt
-# - https://raw.githubusercontent.com/k2jp/abp-japanese-filters/master/abpjf.txt
-##############################[LOCALHOSTS]###############################
+###############################[LOCALHOST]###############################
 127.0.0.1 localhost
 ::1       localhost
-#############################[COMBINED_LIST]#############################
+###############################[HOSTNAMES]###############################
 0.0.0.0 0000mps.webpreview.dsl.net
 0.0.0.0 0000shgfdskjhgfoffice365.000webhostapp.com
 0.0.0.0 0001.2waky.com
@@ -777,6 +739,7 @@
 0.0.0.0 a1.azg168.cn
 0.0.0.0 a1.cdnpark.com
 0.0.0.0 a1.cdnprk.com
+0.0.0.0 a1.chajiaotong.com
 0.0.0.0 a1click.cpc.sogou.com
 0.0.0.0 a1.dnbizcdn.com
 0.0.0.0 a1.gexing.me
@@ -916,7 +879,6 @@
 0.0.0.0 ababy.dragon.uaezvcvs.tk
 0.0.0.0 a.backclick.net
 0.0.0.0 ab.adpro.com.ua
-0.0.0.0 ab.adrevivify.com
 0.0.0.0 a.bahaimlo.com
 0.0.0.0 a.baidu.com
 0.0.0.0 a.baiy.net
@@ -1076,6 +1038,7 @@
 0.0.0.0 acm2.ei.m.twosisterswine.com.au
 0.0.0.0 acm-em.hazren.com
 0.0.0.0 ac.mz-web.de
+0.0.0.0 a.cn.duoyi.com
 0.0.0.0 acnk45-fugh45ylisdj3.molmojerta5.in
 0.0.0.0 a.cntv.cn
 0.0.0.0 acodes.b2b.cn
@@ -2481,247 +2444,128 @@
 0.0.0.0 ad.r.worldssl.net
 0.0.0.0 ads001.stickam.com
 0.0.0.0 ads01.groovinads.com
-0.0.0.0 ads01.liteweb.net
-0.0.0.0 ads02.liteweb.net
-0.0.0.0 ads03.liteweb.net
 0.0.0.0 ads03.redtube.com
-0.0.0.0 ads04.liteweb.net
 0.0.0.0 ads05.freecity.de
-0.0.0.0 ads05.liteweb.net
-0.0.0.0 ads06.liteweb.net
-0.0.0.0 ads07.liteweb.net
-0.0.0.0 ads08.liteweb.net
-0.0.0.0 ads09.liteweb.net
 0.0.0.0 ads0.okcupid.com
 0.0.0.0 ads.0x7f000001.com
 0.0.0.0 ads.1000mercis.com
 0.0.0.0 ads.100asians.com
 0.0.0.0 ads100.hpg.ig.com.br
-0.0.0.0 ads100.liteweb.net
 0.0.0.0 ads.100megswebhosting.com
 0.0.0.0 ads101.hpg.ig.com.br
-0.0.0.0 ads101.liteweb.net
 0.0.0.0 ads102.hpg.ig.com.br
-0.0.0.0 ads102.liteweb.net
 0.0.0.0 ads103.hpg.ig.com.br
-0.0.0.0 ads103.liteweb.net
 0.0.0.0 ads104.hpg.ig.com.br
-0.0.0.0 ads104.liteweb.net
 0.0.0.0 ads105.hpg.ig.com.br
-0.0.0.0 ads105.liteweb.net
 0.0.0.0 ads106.hpg.ig.com.br
-0.0.0.0 ads106.liteweb.net
 0.0.0.0 ads107.hpg.ig.com.br
-0.0.0.0 ads107.liteweb.net
 0.0.0.0 ads108.hpg.ig.com.br
-0.0.0.0 ads108.liteweb.net
 0.0.0.0 ads109.hpg.ig.com.br
-0.0.0.0 ads109.liteweb.net
 0.0.0.0 ads10.gladen.bg
 0.0.0.0 ads10.hpg.ig.com.br
-0.0.0.0 ads10.liteweb.net
 0.0.0.0 ads110.hpg.ig.com.br
-0.0.0.0 ads110.liteweb.net
 0.0.0.0 ads111.hpg.ig.com.br
-0.0.0.0 ads111.liteweb.net
 0.0.0.0 ads112.hpg.ig.com.br
-0.0.0.0 ads112.liteweb.net
 0.0.0.0 ads113.hpg.ig.com.br
-0.0.0.0 ads113.liteweb.net
 0.0.0.0 ads114.hpg.ig.com.br
-0.0.0.0 ads114.liteweb.net
 0.0.0.0 ads115.hpg.ig.com.br
-0.0.0.0 ads115.liteweb.net
 0.0.0.0 ads116.hpg.ig.com.br
-0.0.0.0 ads116.liteweb.net
 0.0.0.0 ads117.hpg.ig.com.br
-0.0.0.0 ads117.liteweb.net
 0.0.0.0 ads118.hpg.ig.com.br
-0.0.0.0 ads118.liteweb.net
 0.0.0.0 ads.118.lv
 0.0.0.0 ads119.hpg.ig.com.br
-0.0.0.0 ads119.liteweb.net
 0.0.0.0 ads11.hpg.ig.com.br
-0.0.0.0 ads11.liteweb.net
 0.0.0.0 ads120.hpg.ig.com.br
-0.0.0.0 ads120.liteweb.net
 0.0.0.0 ads121.hpg.ig.com.br
-0.0.0.0 ads121.liteweb.net
 0.0.0.0 ads122.hpg.ig.com.br
-0.0.0.0 ads122.liteweb.net
 0.0.0.0 ads123.hpg.ig.com.br
-0.0.0.0 ads123.liteweb.net
 0.0.0.0 ads124.hpg.ig.com.br
-0.0.0.0 ads124.liteweb.net
 0.0.0.0 ads125.hpg.ig.com.br
-0.0.0.0 ads125.liteweb.net
 0.0.0.0 ads126.hpg.ig.com.br
-0.0.0.0 ads126.liteweb.net
 0.0.0.0 ads127.hpg.ig.com.br
-0.0.0.0 ads127.liteweb.net
 0.0.0.0 ads128.hpg.ig.com.br
-0.0.0.0 ads128.liteweb.net
 0.0.0.0 ads129.hpg.ig.com.br
-0.0.0.0 ads129.liteweb.net
 0.0.0.0 ads12.hpg.ig.com.br
-0.0.0.0 ads12.liteweb.net
 0.0.0.0 ads13000.cpmoz.com
 0.0.0.0 ads130.hpg.ig.com.br
-0.0.0.0 ads130.liteweb.net
 0.0.0.0 ads131.hpg.ig.com.br
-0.0.0.0 ads131.liteweb.net
 0.0.0.0 ads132.hpg.ig.com.br
-0.0.0.0 ads132.liteweb.net
 0.0.0.0 ads133.hpg.ig.com.br
-0.0.0.0 ads133.liteweb.net
 0.0.0.0 ads134.hpg.ig.com.br
-0.0.0.0 ads134.liteweb.net
 0.0.0.0 ads135.hpg.ig.com.br
-0.0.0.0 ads135.liteweb.net
 0.0.0.0 ads136.hpg.ig.com.br
-0.0.0.0 ads136.liteweb.net
 0.0.0.0 ads137.hpg.ig.com.br
-0.0.0.0 ads137.liteweb.net
 0.0.0.0 ads138.hpg.ig.com.br
-0.0.0.0 ads138.liteweb.net
 0.0.0.0 ads139.hpg.ig.com.br
-0.0.0.0 ads139.liteweb.net
 0.0.0.0 ads.13.cl
 0.0.0.0 ads13.hpg.ig.com.br
-0.0.0.0 ads13.liteweb.net
 0.0.0.0 ads140.hpg.ig.com.br
-0.0.0.0 ads140.liteweb.net
 0.0.0.0 ads141.hpg.ig.com.br
-0.0.0.0 ads141.liteweb.net
 0.0.0.0 ads142.hpg.ig.com.br
-0.0.0.0 ads142.liteweb.net
 0.0.0.0 ads143.hpg.ig.com.br
-0.0.0.0 ads143.liteweb.net
 0.0.0.0 ads144.hpg.ig.com.br
-0.0.0.0 ads144.liteweb.net
 0.0.0.0 ads145.hpg.ig.com.br
-0.0.0.0 ads145.liteweb.net
 0.0.0.0 ads146.hpg.ig.com.br
-0.0.0.0 ads146.liteweb.net
 0.0.0.0 ads147.hpg.ig.com.br
-0.0.0.0 ads147.liteweb.net
 0.0.0.0 ads148.hpg.ig.com.br
-0.0.0.0 ads148.liteweb.net
 0.0.0.0 ads149.hpg.ig.com.br
-0.0.0.0 ads149.liteweb.net
 0.0.0.0 ads14.hpg.ig.com.br
-0.0.0.0 ads14.liteweb.net
 0.0.0.0 ads150.hpg.ig.com.br
-0.0.0.0 ads150.liteweb.net
 0.0.0.0 ads151.hpg.ig.com.br
-0.0.0.0 ads151.liteweb.net
 0.0.0.0 ads152.hpg.ig.com.br
-0.0.0.0 ads152.liteweb.net
 0.0.0.0 ads153.hpg.ig.com.br
-0.0.0.0 ads153.liteweb.net
 0.0.0.0 ads154.hpg.ig.com.br
-0.0.0.0 ads154.liteweb.net
 0.0.0.0 ads155.hpg.ig.com.br
-0.0.0.0 ads155.liteweb.net
 0.0.0.0 ads156.hpg.ig.com.br
-0.0.0.0 ads156.liteweb.net
 0.0.0.0 ads157.hpg.ig.com.br
-0.0.0.0 ads157.liteweb.net
 0.0.0.0 ads158.hpg.ig.com.br
-0.0.0.0 ads158.liteweb.net
 0.0.0.0 ads159.hpg.ig.com.br
-0.0.0.0 ads159.liteweb.net
 0.0.0.0 ads15.hpg.ig.com.br
-0.0.0.0 ads15.liteweb.net
 0.0.0.0 ads160.hpg.ig.com.br
-0.0.0.0 ads160.liteweb.net
 0.0.0.0 ads161.hpg.ig.com.br
-0.0.0.0 ads161.liteweb.net
 0.0.0.0 ads162.hpg.ig.com.br
-0.0.0.0 ads162.liteweb.net
 0.0.0.0 ads163.hpg.ig.com.br
-0.0.0.0 ads163.liteweb.net
 0.0.0.0 ads164.hpg.ig.com.br
-0.0.0.0 ads164.liteweb.net
 0.0.0.0 ads165.hpg.ig.com.br
-0.0.0.0 ads165.liteweb.net
 0.0.0.0 ads166.hpg.ig.com.br
-0.0.0.0 ads166.liteweb.net
 0.0.0.0 ads167.hpg.ig.com.br
-0.0.0.0 ads167.liteweb.net
 0.0.0.0 ads168.hpg.ig.com.br
-0.0.0.0 ads168.liteweb.net
 0.0.0.0 ads169.hpg.ig.com.br
-0.0.0.0 ads169.liteweb.net
 0.0.0.0 ads16.advance.net
 0.0.0.0 ads16.hpg.ig.com.br
-0.0.0.0 ads16.liteweb.net
 0.0.0.0 ads170.hpg.ig.com.br
-0.0.0.0 ads170.liteweb.net
 0.0.0.0 ads171.hpg.ig.com.br
-0.0.0.0 ads171.liteweb.net
 0.0.0.0 ads172.hpg.ig.com.br
-0.0.0.0 ads172.liteweb.net
 0.0.0.0 ads173.hpg.ig.com.br
-0.0.0.0 ads173.liteweb.net
 0.0.0.0 ads174.hpg.ig.com.br
-0.0.0.0 ads174.liteweb.net
 0.0.0.0 ads175.hpg.ig.com.br
-0.0.0.0 ads175.liteweb.net
 0.0.0.0 ads176.hpg.ig.com.br
-0.0.0.0 ads176.liteweb.net
 0.0.0.0 ads177.hpg.ig.com.br
-0.0.0.0 ads177.liteweb.net
 0.0.0.0 ads178.hpg.ig.com.br
-0.0.0.0 ads178.liteweb.net
 0.0.0.0 ads179.hpg.ig.com.br
-0.0.0.0 ads179.liteweb.net
 0.0.0.0 ads17.hpg.ig.com.br
-0.0.0.0 ads17.liteweb.net
 0.0.0.0 ads180.hpg.ig.com.br
-0.0.0.0 ads180.liteweb.net
 0.0.0.0 ads181.hpg.ig.com.br
-0.0.0.0 ads181.liteweb.net
 0.0.0.0 ads182.hpg.ig.com.br
-0.0.0.0 ads182.liteweb.net
 0.0.0.0 ads183.hpg.ig.com.br
-0.0.0.0 ads183.liteweb.net
 0.0.0.0 ads184.hpg.ig.com.br
-0.0.0.0 ads184.liteweb.net
 0.0.0.0 ads185.hpg.ig.com.br
-0.0.0.0 ads185.liteweb.net
 0.0.0.0 ads186.hpg.ig.com.br
-0.0.0.0 ads186.liteweb.net
 0.0.0.0 ads187.hpg.ig.com.br
-0.0.0.0 ads187.liteweb.net
 0.0.0.0 ads188.hpg.ig.com.br
-0.0.0.0 ads188.liteweb.net
 0.0.0.0 ads189.hpg.ig.com.br
-0.0.0.0 ads189.liteweb.net
 0.0.0.0 ads18.hpg.ig.com.br
-0.0.0.0 ads18.liteweb.net
 0.0.0.0 ads190.hpg.ig.com.br
-0.0.0.0 ads190.liteweb.net
 0.0.0.0 ads191.hpg.ig.com.br
-0.0.0.0 ads191.liteweb.net
 0.0.0.0 ads192.hpg.ig.com.br
-0.0.0.0 ads192.liteweb.net
 0.0.0.0 ads193.hpg.ig.com.br
-0.0.0.0 ads193.liteweb.net
 0.0.0.0 ads194.hpg.ig.com.br
-0.0.0.0 ads194.liteweb.net
 0.0.0.0 ads195.hpg.ig.com.br
-0.0.0.0 ads195.liteweb.net
 0.0.0.0 ads196.hpg.ig.com.br
-0.0.0.0 ads196.liteweb.net
 0.0.0.0 ads197.hpg.ig.com.br
-0.0.0.0 ads197.liteweb.net
 0.0.0.0 ads198.hpg.ig.com.br
-0.0.0.0 ads198.liteweb.net
 0.0.0.0 ads199.hpg.ig.com.br
-0.0.0.0 ads199.liteweb.net
 0.0.0.0 ads19.hpg.ig.com.br
-0.0.0.0 ads19.liteweb.net
 0.0.0.0 ads1a.depositfiles.com
 0.0.0.0 ads1.advance.de
 0.0.0.0 ads1.advance.net
@@ -2746,7 +2590,6 @@
 0.0.0.0 ads1.jev.co.za
 0.0.0.0 ads1.jp.msn.com
 0.0.0.0 ads1.legalworld.bg
-0.0.0.0 ads1.liteweb.net
 0.0.0.0 ads1.mb.datingadzone.com
 0.0.0.0 ads1.mediacapital.pt
 0.0.0.0 ads1.mediaops.com.br
@@ -2771,141 +2614,75 @@
 0.0.0.0 ads2000.hw.net
 0.0.0.0 ads2004.treiberupdate.de
 0.0.0.0 ads200.hpg.ig.com.br
-0.0.0.0 ads200.liteweb.net
 0.0.0.0 ads201.hpg.ig.com.br
-0.0.0.0 ads201.liteweb.net
 0.0.0.0 ads202.hpg.ig.com.br
-0.0.0.0 ads202.liteweb.net
 0.0.0.0 ads203.hpg.ig.com.br
-0.0.0.0 ads203.liteweb.net
 0.0.0.0 ads204.hpg.ig.com.br
-0.0.0.0 ads204.liteweb.net
 0.0.0.0 ads205.hpg.ig.com.br
-0.0.0.0 ads205.liteweb.net
 0.0.0.0 ads206.hpg.ig.com.br
-0.0.0.0 ads206.liteweb.net
 0.0.0.0 ads207.hpg.ig.com.br
-0.0.0.0 ads207.liteweb.net
 0.0.0.0 ads208.hpg.ig.com.br
-0.0.0.0 ads208.liteweb.net
 0.0.0.0 ads209.hpg.ig.com.br
-0.0.0.0 ads209.liteweb.net
 0.0.0.0 ads20.hpg.ig.com.br
-0.0.0.0 ads20.liteweb.net
 0.0.0.0 ads.20minutes.fr
 0.0.0.0 ads.20minutos.es
 0.0.0.0 ads20.wwe-media.de
 0.0.0.0 ads210.hpg.ig.com.br
-0.0.0.0 ads210.liteweb.net
 0.0.0.0 ads211.hpg.ig.com.br
-0.0.0.0 ads211.liteweb.net
 0.0.0.0 ads212.hpg.ig.com.br
-0.0.0.0 ads212.liteweb.net
 0.0.0.0 ads213.hpg.ig.com.br
-0.0.0.0 ads213.liteweb.net
 0.0.0.0 ads214.hpg.ig.com.br
-0.0.0.0 ads214.liteweb.net
 0.0.0.0 ads215.hpg.ig.com.br
-0.0.0.0 ads215.liteweb.net
 0.0.0.0 ads216.hpg.ig.com.br
-0.0.0.0 ads216.liteweb.net
 0.0.0.0 ads217.hpg.ig.com.br
-0.0.0.0 ads217.liteweb.net
 0.0.0.0 ads218.hpg.ig.com.br
-0.0.0.0 ads218.liteweb.net
 0.0.0.0 ads219.hpg.ig.com.br
-0.0.0.0 ads219.liteweb.net
 0.0.0.0 ads21.hpg.ig.com.br
-0.0.0.0 ads21.liteweb.net
 0.0.0.0 ads220.hpg.ig.com.br
-0.0.0.0 ads220.liteweb.net
 0.0.0.0 ads221.hpg.ig.com.br
-0.0.0.0 ads221.liteweb.net
 0.0.0.0 ads222.hpg.ig.com.br
-0.0.0.0 ads222.liteweb.net
 0.0.0.0 ads223.hpg.ig.com.br
-0.0.0.0 ads223.liteweb.net
 0.0.0.0 ads224.hpg.ig.com.br
-0.0.0.0 ads224.liteweb.net
 0.0.0.0 ads225.hpg.ig.com.br
-0.0.0.0 ads225.liteweb.net
 0.0.0.0 ads226.hpg.ig.com.br
-0.0.0.0 ads226.liteweb.net
 0.0.0.0 ads227.hpg.ig.com.br
-0.0.0.0 ads227.liteweb.net
 0.0.0.0 ads228.hpg.ig.com.br
-0.0.0.0 ads228.liteweb.net
 0.0.0.0 ads229.hpg.ig.com.br
-0.0.0.0 ads229.liteweb.net
 0.0.0.0 ads22.hpg.ig.com.br
-0.0.0.0 ads22.liteweb.net
 0.0.0.0 ads230.hpg.ig.com.br
-0.0.0.0 ads230.liteweb.net
 0.0.0.0 ads231.hpg.ig.com.br
-0.0.0.0 ads231.liteweb.net
 0.0.0.0 ads232.hpg.ig.com.br
-0.0.0.0 ads232.liteweb.net
 0.0.0.0 ads233.hpg.ig.com.br
-0.0.0.0 ads233.liteweb.net
 0.0.0.0 ads234.hpg.ig.com.br
-0.0.0.0 ads234.liteweb.net
 0.0.0.0 ads235.hpg.ig.com.br
-0.0.0.0 ads235.liteweb.net
 0.0.0.0 ads236.hpg.ig.com.br
-0.0.0.0 ads236.liteweb.net
 0.0.0.0 ads237.hpg.ig.com.br
-0.0.0.0 ads237.liteweb.net
 0.0.0.0 ads238.hpg.ig.com.br
-0.0.0.0 ads238.liteweb.net
 0.0.0.0 ads239.hpg.ig.com.br
-0.0.0.0 ads239.liteweb.net
 0.0.0.0 ads23.hpg.ig.com.br
-0.0.0.0 ads23.liteweb.net
 0.0.0.0 ads240.hpg.ig.com.br
-0.0.0.0 ads240.liteweb.net
 0.0.0.0 ads241.hpg.ig.com.br
-0.0.0.0 ads241.liteweb.net
 0.0.0.0 ads242.hpg.ig.com.br
-0.0.0.0 ads242.liteweb.net
 0.0.0.0 ads243.hpg.ig.com.br
-0.0.0.0 ads243.liteweb.net
 0.0.0.0 ads244.hpg.ig.com.br
-0.0.0.0 ads244.liteweb.net
 0.0.0.0 ads245.hpg.ig.com.br
-0.0.0.0 ads245.liteweb.net
 0.0.0.0 ads246.hpg.ig.com.br
-0.0.0.0 ads246.liteweb.net
 0.0.0.0 ads247.hpg.ig.com.br
-0.0.0.0 ads247.liteweb.net
 0.0.0.0 ads248.hpg.ig.com.br
-0.0.0.0 ads248.liteweb.net
 0.0.0.0 ads249.hpg.ig.com.br
-0.0.0.0 ads249.liteweb.net
 0.0.0.0 ads.24.com
 0.0.0.0 ads24.hpg.ig.com.br
-0.0.0.0 ads24.liteweb.net
 0.0.0.0 ads250.hpg.ig.com.br
-0.0.0.0 ads250.liteweb.net
 0.0.0.0 ads251.hpg.ig.com.br
-0.0.0.0 ads251.liteweb.net
 0.0.0.0 ads252.hpg.ig.com.br
-0.0.0.0 ads252.liteweb.net
 0.0.0.0 ads253.hpg.ig.com.br
-0.0.0.0 ads253.liteweb.net
 0.0.0.0 ads254.hpg.ig.com.br
-0.0.0.0 ads254.liteweb.net
 0.0.0.0 ads255.hpg.ig.com.br
-0.0.0.0 ads255.liteweb.net
 0.0.0.0 ads25.hpg.ig.com.br
-0.0.0.0 ads25.liteweb.net
 0.0.0.0 ads26.hpg.ig.com.br
-0.0.0.0 ads26.liteweb.net
 0.0.0.0 ads27.hpg.ig.com.br
-0.0.0.0 ads27.liteweb.net
 0.0.0.0 ads28.hpg.ig.com.br
-0.0.0.0 ads28.liteweb.net
 0.0.0.0 ads29.hpg.ig.com.br
-0.0.0.0 ads29.liteweb.net
 0.0.0.0 ads2.advance.de
 0.0.0.0 ads2.advance.net
 0.0.0.0 ads2.backads.com
@@ -2938,7 +2715,6 @@
 0.0.0.0 ads2.i-kool.com
 0.0.0.0 ads2.iweb.cortica.com
 0.0.0.0 ads2.jubii.dk
-0.0.0.0 ads2.liteweb.net
 0.0.0.0 ads2.ljworld.com
 0.0.0.0 ads2.medianord.de
 0.0.0.0 ads2.mediaops.com.br
@@ -2972,26 +2748,16 @@
 0.0.0.0 ads2.zdnet.com
 0.0.0.0 ads2.zdnet.org
 0.0.0.0 ads30.hpg.ig.com.br
-0.0.0.0 ads30.liteweb.net
 0.0.0.0 ads31.hpg.ig.com.br
-0.0.0.0 ads31.liteweb.net
 0.0.0.0 ads32.hpg.ig.com.br
-0.0.0.0 ads32.liteweb.net
 0.0.0.0 ads33.hpg.ig.com.br
-0.0.0.0 ads33.liteweb.net
 0.0.0.0 ads34.hpg.ig.com.br
-0.0.0.0 ads34.liteweb.net
 0.0.0.0 ads.359group.com
 0.0.0.0 ads35.hpg.ig.com.br
-0.0.0.0 ads35.liteweb.net
 0.0.0.0 ads36.hpg.ig.com.br
-0.0.0.0 ads36.liteweb.net
 0.0.0.0 ads37.hpg.ig.com.br
-0.0.0.0 ads37.liteweb.net
 0.0.0.0 ads38.hpg.ig.com.br
-0.0.0.0 ads38.liteweb.net
 0.0.0.0 ads39.hpg.ig.com.br
-0.0.0.0 ads39.liteweb.net
 0.0.0.0 ads3.advance.de
 0.0.0.0 ads3.advance.net
 0.0.0.0 ads3.bangkokpost.co.th
@@ -3009,7 +2775,6 @@
 0.0.0.0 ads3.hpg.ig.com.br
 0.0.0.0 ads3.ihaberadserver.com
 0.0.0.0 ads3.jubii.dk
-0.0.0.0 ads3.liteweb.net
 0.0.0.0 ads3.moitepari.bg
 0.0.0.0 ads3.net2day.de
 0.0.0.0 ads3.realcities.com
@@ -3021,25 +2786,15 @@
 0.0.0.0 ads3.zdnet.com
 0.0.0.0 ads3.zdnet.org
 0.0.0.0 ads40.hpg.ig.com.br
-0.0.0.0 ads40.liteweb.net
 0.0.0.0 ads41.hpg.ig.com.br
-0.0.0.0 ads41.liteweb.net
 0.0.0.0 ads42.hpg.ig.com.br
-0.0.0.0 ads42.liteweb.net
 0.0.0.0 ads43.hpg.ig.com.br
-0.0.0.0 ads43.liteweb.net
 0.0.0.0 ads44.hpg.ig.com.br
-0.0.0.0 ads44.liteweb.net
 0.0.0.0 ads45.hpg.ig.com.br
-0.0.0.0 ads45.liteweb.net
 0.0.0.0 ads46.hpg.ig.com.br
-0.0.0.0 ads46.liteweb.net
 0.0.0.0 ads47.hpg.ig.com.br
-0.0.0.0 ads47.liteweb.net
 0.0.0.0 ads48.hpg.ig.com.br
-0.0.0.0 ads48.liteweb.net
 0.0.0.0 ads49.hpg.ig.com.br
-0.0.0.0 ads49.liteweb.net
 0.0.0.0 ads4.advance.de
 0.0.0.0 ads4.advance.net
 0.0.0.0 ads4.canoe.ca
@@ -3047,7 +2802,6 @@
 0.0.0.0 ads4.gamecity.net
 0.0.0.0 ads.4gifs.com
 0.0.0.0 ads4.hpg.ig.com.br
-0.0.0.0 ads4.liteweb.net
 0.0.0.0 ads4.net2day.de
 0.0.0.0 ads.4rati.lv
 0.0.0.0 ads4.realcities.com
@@ -3058,140 +2812,85 @@
 0.0.0.0 ads4.wwe.biz
 0.0.0.0 ads4.zdnet.org
 0.0.0.0 ads50.hpg.ig.com.br
-0.0.0.0 ads50.liteweb.net
 0.0.0.0 ads51.hpg.ig.com.br
-0.0.0.0 ads51.liteweb.net
 0.0.0.0 ads.51.net
 0.0.0.0 ads52.hpg.ig.com.br
-0.0.0.0 ads52.liteweb.net
 0.0.0.0 ads53.hpg.ig.com.br
-0.0.0.0 ads53.liteweb.net
 0.0.0.0 ads54.hpg.ig.com.br
-0.0.0.0 ads54.liteweb.net
 0.0.0.0 ads55.hpg.ig.com.br
-0.0.0.0 ads55.liteweb.net
 0.0.0.0 ads56.hpg.ig.com.br
-0.0.0.0 ads56.liteweb.net
 0.0.0.0 ads57.hpg.ig.com.br
-0.0.0.0 ads57.liteweb.net
 0.0.0.0 ads58.hpg.ig.com.br
-0.0.0.0 ads58.liteweb.net
 0.0.0.0 ads59.hpg.ig.com.br
-0.0.0.0 ads59.liteweb.net
 0.0.0.0 ads5.advance.net
 0.0.0.0 ads5.canoe.ca
 0.0.0.0 ads.5ci.lt
 0.0.0.0 ads5.fxdepo.com
 0.0.0.0 ads5.gamecity.net
 0.0.0.0 ads5.hpg.ig.com.br
-0.0.0.0 ads5.liteweb.net
 0.0.0.0 ads5.mconetwork.com
 0.0.0.0 ads5.sabah.com.tr
 0.0.0.0 ads5.virtual-nights.com
 0.0.0.0 ads5.virtumundo.com
 0.0.0.0 ads5.woamobile.com
 0.0.0.0 ads60.hpg.ig.com.br
-0.0.0.0 ads60.liteweb.net
 0.0.0.0 ads61.hpg.ig.com.br
-0.0.0.0 ads61.liteweb.net
 0.0.0.0 ads.626apps.com
 0.0.0.0 ads62.hpg.ig.com.br
-0.0.0.0 ads62.liteweb.net
 0.0.0.0 ads63.hpg.ig.com.br
-0.0.0.0 ads63.liteweb.net
 0.0.0.0 ads64.hpg.ig.com.br
-0.0.0.0 ads64.liteweb.net
 0.0.0.0 ads65.hpg.ig.com.br
-0.0.0.0 ads65.liteweb.net
 0.0.0.0 ads.666network.com
 0.0.0.0 ads66.hpg.ig.com.br
-0.0.0.0 ads66.liteweb.net
 0.0.0.0 ads67.hpg.ig.com.br
-0.0.0.0 ads67.liteweb.net
 0.0.0.0 ads68.hpg.ig.com.br
-0.0.0.0 ads68.liteweb.net
 0.0.0.0 ads69.hpg.ig.com.br
-0.0.0.0 ads69.liteweb.net
 0.0.0.0 ads6.advance.net
 0.0.0.0 ads.6arab.com
 0.0.0.0 ads6.gamecity.net
 0.0.0.0 ads6.hpg.ig.com.br
-0.0.0.0 ads6.liteweb.net
 0.0.0.0 ads70.hpg.ig.com.br
-0.0.0.0 ads70.liteweb.net
 0.0.0.0 ads71.hpg.ig.com.br
-0.0.0.0 ads71.liteweb.net
 0.0.0.0 ads72.hpg.ig.com.br
-0.0.0.0 ads72.liteweb.net
 0.0.0.0 ads73.hpg.ig.com.br
-0.0.0.0 ads73.liteweb.net
 0.0.0.0 ads74.hpg.ig.com.br
-0.0.0.0 ads74.liteweb.net
 0.0.0.0 ads75.hpg.ig.com.br
-0.0.0.0 ads75.liteweb.net
 0.0.0.0 ads76.hpg.ig.com.br
-0.0.0.0 ads76.liteweb.net
 0.0.0.0 ads77.hpg.ig.com.br
-0.0.0.0 ads77.liteweb.net
 0.0.0.0 ads78.hpg.ig.com.br
-0.0.0.0 ads78.liteweb.net
 0.0.0.0 ads79.hpg.ig.com.br
-0.0.0.0 ads79.liteweb.net
 0.0.0.0 ads7.advance.net
 0.0.0.0 ads7.c.no1.asap-asp.net
 0.0.0.0 ads.7days.ae
 0.0.0.0 ads7.gamecity.net
 0.0.0.0 ads7.hpg.ig.com.br
 0.0.0.0 ads7.inet1.com
-0.0.0.0 ads7.liteweb.net
 0.0.0.0 ads80.hpg.ig.com.br
-0.0.0.0 ads80.liteweb.net
 0.0.0.0 ads81.hpg.ig.com.br
-0.0.0.0 ads81.liteweb.net
 0.0.0.0 ads82.hpg.ig.com.br
-0.0.0.0 ads82.liteweb.net
 0.0.0.0 ads83.hpg.ig.com.br
-0.0.0.0 ads83.liteweb.net
 0.0.0.0 ads84.hpg.ig.com.br
-0.0.0.0 ads84.liteweb.net
 0.0.0.0 ads85.hpg.ig.com.br
-0.0.0.0 ads85.liteweb.net
 0.0.0.0 ads86.hpg.ig.com.br
-0.0.0.0 ads86.liteweb.net
 0.0.0.0 ads87.hpg.ig.com.br
-0.0.0.0 ads87.liteweb.net
 0.0.0.0 ads.8833.com
 0.0.0.0 ads88.hpg.ig.com.br
-0.0.0.0 ads88.liteweb.net
 0.0.0.0 ads89.hpg.ig.com.br
-0.0.0.0 ads89.liteweb.net
 0.0.0.0 ads8.c.no1.asap-asp.net
 0.0.0.0 ads8.hpg.ig.com.br
-0.0.0.0 ads8.liteweb.net
 0.0.0.0 ads90.hpg.ig.com.br
-0.0.0.0 ads90.liteweb.net
 0.0.0.0 ads91.hpg.ig.com.br
-0.0.0.0 ads91.liteweb.net
 0.0.0.0 ads.91s.com
 0.0.0.0 ads92.hpg.ig.com.br
-0.0.0.0 ads92.liteweb.net
 0.0.0.0 ads93.hpg.ig.com.br
-0.0.0.0 ads93.liteweb.net
 0.0.0.0 ads94.hpg.ig.com.br
-0.0.0.0 ads94.liteweb.net
 0.0.0.0 ads95.hpg.ig.com.br
-0.0.0.0 ads95.liteweb.net
 0.0.0.0 ads96.hpg.ig.com.br
-0.0.0.0 ads96.liteweb.net
 0.0.0.0 ads.977music.com
 0.0.0.0 ads97.hpg.ig.com.br
-0.0.0.0 ads97.liteweb.net
 0.0.0.0 ads98.hpg.ig.com.br
-0.0.0.0 ads98.liteweb.net
 0.0.0.0 ads99.hpg.ig.com.br
-0.0.0.0 ads99.liteweb.net
 0.0.0.0 ads9.hpg.ig.com.br
-0.0.0.0 ads9.liteweb.net
 0.0.0.0 ads.9mp.ro
 0.0.0.0 ads.a8ww.net
 0.0.0.0 ad.sa9.woowy.com
@@ -4249,7 +3948,6 @@
 0.0.0.0 adserving.ariesads.com
 0.0.0.0 adserving.autotrader.com
 0.0.0.0 adserving.bizcrank.com
-0.0.0.0 adserving.clicknety.com
 0.0.0.0 adserving.cpmgo.com
 0.0.0.0 adserving.cpminventory.com
 0.0.0.0 adserving.favorit-network.com
@@ -4783,7 +4481,6 @@
 0.0.0.0 ads.linuxsecurity.com
 0.0.0.0 ads.listingware.com
 0.0.0.0 ads.list-universe.com
-0.0.0.0 ads.liteweb.net
 0.0.0.0 ads.live365.com
 0.0.0.0 ads.livenation.com
 0.0.0.0 ads.livescore.com
@@ -5373,7 +5070,6 @@
 0.0.0.0 ads.sagabg.net
 0.0.0.0 ads.sandino.net
 0.0.0.0 ads.sanomalehtimedia.fi
-0.0.0.0 ads.sanomamobileads.nl
 0.0.0.0 ads.santanderrio.com.ar
 0.0.0.0 ads.sapo.pt
 0.0.0.0 ads.satyamonline.com
@@ -6335,7 +6031,6 @@
 0.0.0.0 advertise.chicagotribune.com
 0.0.0.0 advertise.engineering.com
 0.0.0.0 advertiser.ads.ec
-0.0.0.0 advertiser.clicknety.com
 0.0.0.0 advertiserconnection.azurewebsites.net
 0.0.0.0 advertiser.cyberghostvpn.com
 0.0.0.0 advertiser.lifestyleadnetwork.com
@@ -6876,7 +6571,6 @@
 0.0.0.0 afimg.liveperson.com
 0.0.0.0 afm9ry.lol.airporttaxipershore.co.uk
 0.0.0.0 afo.armandocamacho.com
-0.0.0.0 a.forkitz.com
 0.0.0.0 a.fortumo.com
 0.0.0.0 a.fox.com
 0.0.0.0 afp.adpolestar.net
@@ -7265,6 +6959,7 @@
 0.0.0.0 analy.qq.com
 0.0.0.0 analysis.fc2.com
 0.0.0.0 analysis.focalprice.com
+0.0.0.0 analysis.polarisoffice.com
 0.0.0.0 analysis.shinobi.jp
 0.0.0.0 analytic.ae.com
 0.0.0.0 analyticcdn.globalmailer.com
@@ -7286,6 +6981,7 @@
 0.0.0.0 analytics.ambient-platform.com
 0.0.0.0 analytics.amilliamilli.com
 0.0.0.0 analytics.androidandme.com
+0.0.0.0 analyticsapi.bsbportal.com
 0.0.0.0 analytics-api-samples.googlecode.com
 0.0.0.0 analytics.apnewsregistry.com
 0.0.0.0 analytics.archive.org
@@ -7307,9 +7003,11 @@
 0.0.0.0 analytics.cervellio.com
 0.0.0.0 analytics.clickdimensions.com
 0.0.0.0 analytics.clickpathmedia.com
+0.0.0.0 analytics.cloudron.io
 0.0.0.0 analytics.cmg.net
 0.0.0.0 analytics.cnd-motionmedia.de
 0.0.0.0 analytics.cocolog-nifty.com
+0.0.0.0 analytics.colacoweb.net
 0.0.0.0 analytics-collector-28944298.us-east-1.elb.amazonaws.com
 0.0.0.0 analytics.conmio.com
 0.0.0.0 analytics.convertlanguage.com
@@ -7317,6 +7015,8 @@
 0.0.0.0 analytics.datahc.com
 0.0.0.0 analytics.degeeict.nl
 0.0.0.0 analytics.dev.popdust.com
+0.0.0.0 analytics.digit.in
+0.0.0.0 analytics-digit-in.cdn.ampproject.org
 0.0.0.0 analytics.digitouch.it
 0.0.0.0 analytics.disneyinternational.com
 0.0.0.0 analytics.dolansoft.org
@@ -7343,6 +7043,7 @@
 0.0.0.0 analytics.industriemagazin.net
 0.0.0.0 analytics.informationweek.com
 0.0.0.0 analytics.ip-profis.de
+0.0.0.0 analytics.jabong.com
 0.0.0.0 analytics.jiuzhilan.com
 0.0.0.0 analytics.juggle.com
 0.0.0.0 analytics.kaltura.com
@@ -7351,6 +7052,7 @@
 0.0.0.0 analytics.leadlifesolutions.net
 0.0.0.0 analytics.live.com
 0.0.0.0 analytics.live-panorama.com
+0.0.0.0 analytics.lk.api.ditto.com
 0.0.0.0 analytics.loop-cloud.de
 0.0.0.0 analytics.magelan.it
 0.0.0.0 analytics.mail-corp.com
@@ -7367,6 +7069,7 @@
 0.0.0.0 analytics.msnbc.com
 0.0.0.0 analytics.msnbc.msn.com
 0.0.0.0 analytics.msn.com
+0.0.0.0 analytics.mytvzion.pro
 0.0.0.0 analytics.nascar.com
 0.0.0.0 analytics.newsvine.com
 0.0.0.0 analytics.nionex.net
@@ -7376,9 +7079,12 @@
 0.0.0.0 analytics.ooyala.com
 0.0.0.0 analytics.openload.co
 0.0.0.0 analytic.spamfighter.com
+0.0.0.0 analytics.phando.com
+0.0.0.0 analytics.picsart.com
 0.0.0.0 analytics.pixeltricks.de
 0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.poferries.com
+0.0.0.0 analytics.poolshool.com
 0.0.0.0 analytics.popsci.com
 0.0.0.0 analytics-prod-ingress.bricknet.com
 0.0.0.0 analytics.prx.org
@@ -7396,6 +7102,7 @@
 0.0.0.0 analytics.sapo.pt
 0.0.0.0 analytics.schoolwires.com
 0.0.0.0 analytics.services.kirra.nl
+0.0.0.0 analytics.siliconexpert.com
 0.0.0.0 analytics.similarweb.com
 0.0.0.0 analytics.sitewit.com
 0.0.0.0 analytics.slashdotmedia.com
@@ -7421,6 +7128,7 @@
 0.0.0.0 analytics.theknot.com
 0.0.0.0 analytics.themarketiq.com
 0.0.0.0 analytics.thenest.com
+0.0.0.0 analytics.thevideo.me
 0.0.0.0 analytics.thingx.tv
 0.0.0.0 analytics.tout.com
 0.0.0.0 analytics.trackerstatus.info
@@ -7475,6 +7183,7 @@
 0.0.0.0 anapixel.telva.com
 0.0.0.0 ana.stg8.com
 0.0.0.0 anat.tacoda.net
+0.0.0.0 anayltics.kuikr.com
 0.0.0.0 anazakschools.ac.tz
 0.0.0.0 anbqjdoyw6wkmpeu.oldtrees.at
 0.0.0.0 anchor.stailamedia.com
@@ -7844,6 +7553,7 @@
 0.0.0.0 apple.appyboys.com
 0.0.0.0 applebilling.officessl.com
 0.0.0.0 apple.chasefeeds.com
+0.0.0.0 apple.com-analysis-safety-antimalware-support.accountant
 0.0.0.0 apple.com.confiduration.clients.updating.service.foxdizi.net
 0.0.0.0 apple.com.icloud.billing.verifiy.9200938771663883991773817836476289732.valcla.com.br
 0.0.0.0 apple.com-internet-security-review.info
@@ -7963,6 +7673,7 @@
 0.0.0.0 app.wumii.com
 0.0.0.0 appx.91.com
 0.0.0.0 app.xizi.com
+0.0.0.0 app.xyjqy.com
 0.0.0.0 a.press24.mk
 0.0.0.0 a.prisacom.com
 0.0.0.0 ap.rtrgt.com
@@ -8287,7 +7998,6 @@
 0.0.0.0 audit.webinform.hu
 0.0.0.0 a.udorik.com
 0.0.0.0 aufgestapeltemzeitalter.lollygagtours.com
-0.0.0.0 a.ufraton.com
 0.0.0.0 auftragserweiterungen.thechecklove.com
 0.0.0.0 augermachinelninhallituksia.bestraveldestination.com
 0.0.0.0 augustj.000webhostapp.com
@@ -8296,7 +8006,6 @@
 0.0.0.0 au.link.decideinteractive.com
 0.0.0.0 aunz.yimg.com
 0.0.0.0 a.update.51edm.net
-0.0.0.0 a.upnorma.com
 0.0.0.0 a.uralap.com
 0.0.0.0 aurora.starpartner.com
 0.0.0.0 aus.laola1.tv
@@ -9061,7 +8770,6 @@
 0.0.0.0 banners99.hpg.ig.com.br
 0.0.0.0 banners9.hpg.ig.com.br
 0.0.0.0 banners.absolpublisher.com
-0.0.0.0 banners.adcentral.nl
 0.0.0.0 banners.adnet.lt
 0.0.0.0 banners.adnetmedia.lt
 0.0.0.0 banners.adtractive.com
@@ -11662,6 +11370,7 @@
 0.0.0.0 cnbzoui348ysd-fyhg2jfkdf.jsincopbotream.in
 0.0.0.0 cncdn.9966.org
 0.0.0.0 cn.clickable.net
+0.0.0.0 cn.duoyi.com
 0.0.0.0 cndy.legacyminerals.mobi
 0.0.0.0 c.netu.tv
 0.0.0.0 cnetwidget.creativemark.co.uk
@@ -13952,6 +13661,7 @@
 0.0.0.0 dmdigbrzjbmso.cloudfront.net
 0.0.0.0 dmd.metaservices.microsoft.com
 0.0.0.0 dmg.digitaltarget.ru
+0.0.0.0 dm.haojuzi.net
 0.0.0.0 dm.huochepiao.com
 0.0.0.0 d.mingyihui.net
 0.0.0.0 dm.jb51.net
@@ -14406,7 +14116,6 @@
 0.0.0.0 dvbee3zterhof.cloudfront.net
 0.0.0.0 dvbhvbqu34i-u2ih23.asdo3ubdfkjsh4.in
 0.0.0.0 dvb.pandora.xiaomi.com
-0.0.0.0 dvertenties.ekliks.nl
 0.0.0.0 dvf2u7vwmkr5w.cloudfront.net
 0.0.0.0 dviixeyykyqjv.cloudfront.net
 0.0.0.0 dvnafl0qtqz9k.cloudfront.net
@@ -14627,6 +14336,7 @@
 0.0.0.0 econt.elegance.bg
 0.0.0.0 ecos.e-mailcom.co.uk
 0.0.0.0 ecpm.tanx.com
+0.0.0.0 e.csyueye.com
 0.0.0.0 ectoplasticgumhashab.customsuitsdallas.com
 0.0.0.0 e.czxhgc.com
 0.0.0.0 ed16c02e.amy.gs
@@ -15172,6 +14882,7 @@
 0.0.0.0 eye.f1foodies.org
 0.0.0.0 eye.reinventerladn.com
 0.0.0.0 eye.skeltonancestry.com
+0.0.0.0 ey.hmj800.com
 0.0.0.0 eyrossi.altervista.org
 0.0.0.0 e.yxbag.net
 0.0.0.0 e.yycqc.com
@@ -16082,6 +15793,7 @@
 0.0.0.0 fsl.sytes.net
 0.0.0.0 fs.microsoft.com
 0.0.0.0 fsr.lenovomm.com
+0.0.0.0 fssl.caohua.com
 0.0.0.0 f.staticlp.com
 0.0.0.0 fs.uc.nearme.com.cn
 0.0.0.0 fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
@@ -17060,6 +16772,7 @@
 0.0.0.0 hdad.baike.com
 0.0.0.0 hdapp1003-a.akamaihd.net
 0.0.0.0 hdapp1008-a.akamaihd.net
+0.0.0.0 hd.biyao365.com
 0.0.0.0 hd.hd.hhyhfs.com
 0.0.0.0 hdj.baidu.com
 0.0.0.0 hd.jiedaibao.com
@@ -17415,6 +17128,7 @@
 0.0.0.0 hpd.baidu.com
 0.0.0.0 hp.gelendwagensjeeps.info
 0.0.0.0 hplaserjetpdriver8y.pen.io
+0.0.0.0 hp.moecz.com
 0.0.0.0 h.ppjol.com
 0.0.0.0 hptwaakw.blog.fc2.com
 0.0.0.0 hqfootyad4.blogspot.com
@@ -17972,7 +17686,6 @@
 0.0.0.0 img.ads.csdn.net
 0.0.0.0 img.ads.kompas.com
 0.0.0.0 img.ads.mobilefuse.net
-0.0.0.0 img.ads.sanomamobileads.nl
 0.0.0.0 img.ads.taptapnetworks.com
 0.0.0.0 imgad.thepaper.cn
 0.0.0.0 img.ad.zhangyue.com
@@ -18937,6 +18650,8 @@
 0.0.0.0 jsok.demos.su
 0.0.0.0 json4.ringrevenue.com
 0.0.0.0 json-cricket.appspot.com
+0.0.0.0 js.passport.qihucdn.com
+0.0.0.0 jspassport.ssl.qhimg.com
 0.0.0.0 js.picsomania.info
 0.0.0.0 js.pub.tom.com
 0.0.0.0 js.pxblmj.com
@@ -20238,6 +19953,7 @@
 0.0.0.0 lz.bdaerfa.com
 0.0.0.0 lz.bjbsti.com
 0.0.0.0 lz.chaelc.com
+0.0.0.0 lz.hmbgw.com
 0.0.0.0 lz.hzkcbs.com
 0.0.0.0 lzplugin.bshare.cn
 0.0.0.0 lzstatic.bshare.cn
@@ -20701,6 +20417,7 @@
 0.0.0.0 mcs.delvenetworks.com
 0.0.0.0 m.csmdzj.com
 0.0.0.0 mcs.mlmwebtracker.com
+0.0.0.0 m.csyueye.com
 0.0.0.0 mct.rkdms.com
 0.0.0.0 mcvsewse.esy.es
 0.0.0.0 mc.yandex.ru
@@ -23951,6 +23668,7 @@
 0.0.0.0 pcweb.v1.mgtv.com
 0.0.0.0 pcxzo.pluto.sogou.com
 0.0.0.0 pc.yingshi.tcclick.1kxun.mobi
+0.0.0.0 p.d.0emn.com
 0.0.0.0 pd1.funnyhost.com
 0.0.0.0 pd78s3.owen.kingsmist.co.uk
 0.0.0.0 p.dandan19.top
@@ -24720,6 +24438,7 @@
 0.0.0.0 promo.ads.softbank.net
 0.0.0.0 promo.asiatique.org
 0.0.0.0 promobcpzonasegura.betaviabcp.com
+0.0.0.0 promo.betcity.net
 0.0.0.0 promo.blackcrush.com
 0.0.0.0 promo.cams.com
 0.0.0.0 promocao-americanas.kl.com.ua
@@ -26249,6 +25968,7 @@
 0.0.0.0 s.6travel.com
 0.0.0.0 s702530809.sito-web-online.it
 0.0.0.0 s.7now.cn
+0.0.0.0 s7.qhres.com
 0.0.0.0 s7rg3o.ure.breedingsolutions.co.uk
 0.0.0.0 s883.szfm1.com
 0.0.0.0 s8-nowy-wygraj.comli.com
@@ -29349,6 +29069,7 @@
 0.0.0.0 tfncdn.thaflynation.com
 0.0.0.0 tfn.das.tamedia.ch
 0.0.0.0 tfp.2ref.co
+0.0.0.0 tfssl.caohua.com
 0.0.0.0 tg.1155t.cn
 0.0.0.0 tg.52digua.com
 0.0.0.0 tgd.timesonline.co.uk
@@ -35246,6 +34967,7 @@
 0.0.0.0 www.yoyozz.net
 0.0.0.0 www.ypmadserver.com
 0.0.0.0 www.ypmate.com
+0.0.0.0 www.yunxuu.com
 0.0.0.0 www.yvmads.com
 0.0.0.0 www.ywvcomputerprocess.info
 0.0.0.0 www.yxnbroot.com
@@ -35522,6 +35244,7 @@
 0.0.0.0 xwne.wcdn.co.il
 0.0.0.0 xxi.ss.la
 0.0.0.0 xxmano778istow792u.mopxytemoerta5.in
+0.0.0.0 xx.popo.6615871.com
 0.0.0.0 xxx18.ucoz.com
 0.0.0.0 xxx.art.webjump.net
 0.0.0.0 xxx.caip2y.com
