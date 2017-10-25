@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Oct 25 01:12:30 CEST 2017
-# Number of unique hostnames: 35617
+# Last update: Thu Oct 26 01:10:27 CEST 2017
+# Number of unique hostnames: 35633
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -747,6 +747,7 @@
 0.0.0.0 a1.greenadworks.net
 0.0.0.0 a1.huanqiumil.com
 0.0.0.0 a1.huiqituan.com
+0.0.0.0 a1.ikafan.com
 0.0.0.0 a1.jandan.net
 0.0.0.0 a1.liuxue86.com
 0.0.0.0 a1.lmaq.cn
@@ -7086,6 +7087,7 @@
 0.0.0.0 analytics.poferries.com
 0.0.0.0 analytics.poolshool.com
 0.0.0.0 analytics.popsci.com
+0.0.0.0 analytics.posttv.com
 0.0.0.0 analytics-prod-ingress.bricknet.com
 0.0.0.0 analytics.prx.org
 0.0.0.0 analytics.query.yahoo.com
@@ -10581,7 +10583,6 @@
 0.0.0.0 cdn.puatraffic.com
 0.0.0.0 cdn.putono5.com
 0.0.0.0 cdn.qbaka.net
-0.0.0.0 cdn.quantummetric.com
 0.0.0.0 cdn.radiatewheel.info
 0.0.0.0 cdn.redlightcenter.com
 0.0.0.0 cdn.rooktemplate.com
@@ -11462,6 +11463,7 @@
 0.0.0.0 collection.acromas.com
 0.0.0.0 collection.theaa.com
 0.0.0.0 collect.m-pathy.com
+0.0.0.0 collector.abc-host.net.au
 0.0.0.0 collector-cdn.github.com
 0.0.0.0 collector.deepmetrix.com
 0.0.0.0 collector.githubapp.com
@@ -11610,6 +11612,7 @@
 0.0.0.0 contentserv.brandaffinity.net
 0.0.0.0 content.streamplay.to
 0.0.0.0 content.surpax.net
+0.0.0.0 content.synapsys.us
 0.0.0.0 content.thrixxx.com
 0.0.0.0 content.tucows.com
 0.0.0.0 content.womensforum.com
@@ -12211,6 +12214,7 @@
 0.0.0.0 cyberle.usww.com
 0.0.0.0 cyberservers.colo.onramp.net
 0.0.0.0 cyberweb.engagetech.com
+0.0.0.0 cydia.saurik.com.cdngc.net
 0.0.0.0 c.ylist.cn
 0.0.0.0 cylm.jh56.cn
 0.0.0.0 cynthialemos1225.ddns.net
@@ -13259,6 +13263,7 @@
 0.0.0.0 del.expresshotshot.com
 0.0.0.0 deliver.ads.uigc.net
 0.0.0.0 deliver.ifeng.com
+0.0.0.0 deliver.oztam.com.au
 0.0.0.0 delivery04.dhe.ibm.com
 0.0.0.0 delivery.ad.newsnow.net
 0.0.0.0 delivery.adscension.com
@@ -15158,6 +15163,7 @@
 0.0.0.0 fc.webmasterpro.de
 0.0.0.0 fdads.sv.publicus.com
 0.0.0.0 fdcbn-url-photos.zyro.com
+0.0.0.0 fd-fp3.wg1.b.yahoo.com
 0.0.0.0 fdg.10eurosbonheur.net
 0.0.0.0 fdl.eu.msn.com
 0.0.0.0 f.doodlemobile.com
@@ -16203,6 +16209,7 @@
 0.0.0.0 gfsql.geforce.com
 0.0.0.0 gfswl.geforce.com
 0.0.0.0 gftuaope.traeumtgerade.de
+0.0.0.0 gfwsl.geforce.com
 0.0.0.0 gfx3.avn.com
 0.0.0.0 gfxa.sheetmusicplus.com
 0.0.0.0 gfx.infomine.com
@@ -16550,6 +16557,7 @@
 0.0.0.0 gsmforumbd.gsmforumbd.website
 0.0.0.0 gsm-mobile-phone.beesearch.info
 0.0.0.0 gsorder.berlin.strato.de
+0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 gsu733.off.thesecretspelltospelling.co.uk
 0.0.0.0 gsvx.5gbfree.com
 0.0.0.0 g.symcd.com
@@ -18247,6 +18255,7 @@
 0.0.0.0 itau.banking-30hrs.com
 0.0.0.0 itau-looking.oni.cc
 0.0.0.0 it.bannerout.com
+0.0.0.0 i-technet.sec.s-msft.com
 0.0.0.0 item-408286386651-resolution-center-case-782738-buyer.offer-70discount-action-fast-shipping.science
 0.0.0.0 item.ttkvod.com
 0.0.0.0 it.erosadv.com
@@ -19911,6 +19920,7 @@
 0.0.0.0 l.socialsexnetwork.net
 0.0.0.0 lsowpa-retaiop-khb747bjg324yu.zabolpotadeno.in
 0.0.0.0 l.springmetrics.com
+0.0.0.0 ls.srvcs.tumblr.com
 0.0.0.0 lstat.susanin.com
 0.0.0.0 lstat.youku.com
 0.0.0.0 lstdata.net.ec
@@ -20438,6 +20448,7 @@
 0.0.0.0 mean.cellman.info
 0.0.0.0 mean.realgodproof.com
 0.0.0.0 mean.thinkerwealth.com
+0.0.0.0 measure.ameblo.jp
 0.0.0.0 measure.mf.cz
 0.0.0.0 m-ebay-kleinanzeigen-de.clanweb.eu
 0.0.0.0 mebel.by.ru.fqwerz.cn
@@ -21397,6 +21408,7 @@
 0.0.0.0 msite.baidu.com
 0.0.0.0 msjsma.gay.tathamservice.com
 0.0.0.0 msk2he.most.bingeeater.co.uk
+0.0.0.0 msmetrics.ws.sonos.com
 0.0.0.0 msnads-wm9.fplive.net
 0.0.0.0 msnbot-65-55-108-23.search.msn.com
 0.0.0.0 msn.careerbuilder.de
@@ -24399,6 +24411,7 @@
 0.0.0.0 production-mcs.lvp.llnw.net
 0.0.0.0 production-ps.lvp.llnw.net
 0.0.0.0 production-stats-ezpublishing.netdna-ssl.com
+0.0.0.0 production-ultimate-assets.ratecity.com.au
 0.0.0.0 producttesting.uk.com
 0.0.0.0 productviews.000webhostapp.com
 0.0.0.0 produla.czatgg.pl
@@ -25987,6 +26000,7 @@
 0.0.0.0 sa.bbc.co.uk
 0.0.0.0 s.abcache.com
 0.0.0.0 saber.mystagingwebsite.com
+0.0.0.0 saber.srvcs.tumblr.com
 0.0.0.0 sabin.free.fr
 0.0.0.0 sac3qh.gay.tathamservice.com
 0.0.0.0 sacdcad01.salon.com
@@ -27211,7 +27225,6 @@
 0.0.0.0 s.motads.com
 0.0.0.0 s.mousetrace.com
 0.0.0.0 smp4mandau.sch.id
-0.0.0.0 smpl.hit.ppdb.pl
 0.0.0.0 smpn2blado.sch.id
 0.0.0.0 smpn2wonosalamdemak.sch.id
 0.0.0.0 smpn5jpr.sch.id
@@ -28569,6 +28582,7 @@
 0.0.0.0 sxxhu4.lol.airporttaxipershore.co.uk
 0.0.0.0 sx.z0rz.com
 0.0.0.0 s.xz15801.com
+0.0.0.0 sy.ameblo.jp
 0.0.0.0 s.yanpoly.com
 0.0.0.0 s.ybnrm.com
 0.0.0.0 sy.brand.sogou.com
@@ -33500,6 +33514,7 @@
 0.0.0.0 www-google-analytics.l.google.com
 0.0.0.0 www.google.com-document-view.alibabatradegroup.com
 0.0.0.0 www.google.ienet.pl
+0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 www.googmel.win
 0.0.0.0 www.gooogle.co.uk
 0.0.0.0 www.gospelcelebration.com
@@ -34770,6 +34785,7 @@
 0.0.0.0 www.usaenterprise.com
 0.0.0.0 www.usaphotocopyservice.com
 0.0.0.0 www.usd.bravo-dog.com
+0.0.0.0 www.usekahuna.com
 0.0.0.0 www.usenetjunction.com
 0.0.0.0 www.usersonlinecounter.com
 0.0.0.0 www.uyunad.com
