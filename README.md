@@ -60,6 +60,7 @@ At this moment it is recommended to set up you own dnsmasq configuration to make
  - http://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz `only 'publicite' list`
  - https://ssl.bblck.me/blacklists/hosts-file.txt
  - https://raw.githubusercontent.com/bkrcrc/turk-adlist/master/hosts
+ - https://v.firebog.net/hosts/static/w3kbl.txt
  - a large set of custom entries
   
 **Adblock Plus lists** (only full hostname, non-3rd party filters)
