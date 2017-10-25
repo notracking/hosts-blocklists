@@ -32,7 +32,7 @@ addn-hosts=/path/to/hostnames.txt
 Unfortunately pi-hole currently does not provide an easy way to use dnsmasqs 'conf-file' feature, making the key feature of this blocklist (blocking domains) useless, see [this post](https://www.reddit.com/r/pihole/comments/4rn1b6/are_wildcards_a_thing/d52spwi) for more info. Using only our hostname list will not give you full coverage.
 At this moment it is recommended to set up you own dnsmasq configuration to make full use of our blocklists.
 
-# List sources
+# Sources
 **Domain and hostname lists**
  - http://winhelp2002.mvps.org/hosts.txt
  - http://www.malwaredomainlist.com/hostslist/hosts.txt
@@ -80,7 +80,7 @@ At this moment it is recommended to set up you own dnsmasq configuration to make
  - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
  - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
 
-# Lists sources that will NOT be included
+# Lists that will NOT be included
  - http://hosts-file.net/fsa.txt `too many false calls`
  - http://hosts-file.net/emd.txt `too many false calls`
  - http://rlwpx.free.fr/WPFF/hosts.htm `too many false calls, focussed on content blocking`
