@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Oct 27 01:06:21 CEST 2017
-# Number of unique hostnames: 35620
+# Last update: Fri Oct 27 01:29:24 CEST 2017
+# Number of unique hostnames: 35730
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -1706,7 +1706,6 @@
 0.0.0.0 ad.clickotmedia.com
 0.0.0.0 adclick.stuff.co.nz
 0.0.0.0 adclient.163.com
-0.0.0.0 adclient1.tucows.com
 0.0.0.0 adclient-af.lp.uol.com.br
 0.0.0.0 adclient-af.shopping.uol.com.br
 0.0.0.0 adclient.detelefoongids.nl
@@ -2306,6 +2305,7 @@
 0.0.0.0 ad.ntvmsnbc.com
 0.0.0.0 ad.nwt.cz
 0.0.0.0 adn.zone-telechargement.com
+0.0.0.0 adobe.com.us.reader.cloud.web.access.securely.asinacabinets.com
 0.0.0.0 adobe.fisher-realty.org
 0.0.0.0 ad.obuy.tw
 0.0.0.0 adode.account.ivasistema.com
@@ -5343,7 +5343,6 @@
 0.0.0.0 ads.tso.dennisnet.co.uk
 0.0.0.0 ads.ttv.com.tw
 0.0.0.0 ads.tubewolf.com
-0.0.0.0 ads.tucows.com
 0.0.0.0 adstudio.switchboard.com
 0.0.0.0 ads.tunein.com
 0.0.0.0 ads.turadioweb.com
@@ -6035,7 +6034,6 @@
 0.0.0.0 advertiser.cyberghostvpn.com
 0.0.0.0 advertiser.lifestyleadnetwork.com
 0.0.0.0 advertisers.federatedmedia.net
-0.0.0.0 advertise.tucows.com
 0.0.0.0 advertise.twitpic.com
 0.0.0.0 advertising.adsoundmedia.com
 0.0.0.0 advertising.amazon.co.uk
@@ -6764,6 +6762,7 @@
 0.0.0.0 alias.goatsflyranch.com
 0.0.0.0 alias.jjbworks.com
 0.0.0.0 alias.pioneertanksus.com
+0.0.0.0 alibaba.com.dongbangchem.com
 0.0.0.0 alibabbaa.bugs3.com
 0.0.0.0 alibaiiba.bugs3.com
 0.0.0.0 alibiaba.bugs3.com
@@ -6881,6 +6880,10 @@
 0.0.0.0 amazonamzo.temp.swtest.ru
 0.0.0.0 amazon.aws.secured.com-id9.99s8d8s2ccs288f290091899999100s9.malvernhillsbrewery.co.uk
 0.0.0.0 amazoncodes.freehacks.pw
+0.0.0.0 amazon.co.uk.security-check.ga
+0.0.0.0 amazon.de.konto-35810604.de
+0.0.0.0 amazon.de.konto-35910201.de
+0.0.0.0 amazon.de-kundencenter-konto1065188.com
 0.0.0.0 amazon.secure-center.org
 0.0.0.0 amazon-sicherheit.kunden-ueberpruefung.xyz
 0.0.0.0 amazon.webdirect.cf
@@ -6950,7 +6953,6 @@
 0.0.0.0 amzn.trendhure.com
 0.0.0.0 amz.steamprices.com
 0.0.0.0 anachronisms-anaboliset.repipeseattlenow.com
-0.0.0.0 anad.tacoda.net
 0.0.0.0 anafartalartml.k12.tr
 0.0.0.0 analy.qq.com
 0.0.0.0 analysis.fc2.com
@@ -7179,7 +7181,6 @@
 0.0.0.0 anapixel.marca.com
 0.0.0.0 anapixel.telva.com
 0.0.0.0 ana.stg8.com
-0.0.0.0 anat.tacoda.net
 0.0.0.0 anayltics.kuikr.com
 0.0.0.0 anazakschools.ac.tz
 0.0.0.0 anbqjdoyw6wkmpeu.oldtrees.at
@@ -7238,15 +7239,12 @@
 0.0.0.0 a.nowscore.com
 0.0.0.0 anquan.baidu.com
 0.0.0.0 an-retargeting.awsotherlevels.com
-0.0.0.0 anrtx.tacoda.net
 0.0.0.0 anseati.shedapplyangel.ru
-0.0.0.0 an.secure.tacoda.net
 0.0.0.0 ans.mlb.com
 0.0.0.0 ansukh.demos.su
 0.0.0.0 answer.brookviewadvisor.com
 0.0.0.0 answer.rainharvestingonline.com
 0.0.0.0 a.ns.xxxhay.com
-0.0.0.0 an.tacoda.net
 0.0.0.0 ant.conversive.nl
 0.0.0.0 antiklerikalen.kiyahona.com
 0.0.0.0 antivirus.baidu.com
@@ -7551,6 +7549,29 @@
 0.0.0.0 apple.appyboys.com
 0.0.0.0 applebilling.officessl.com
 0.0.0.0 apple.chasefeeds.com
+0.0.0.0 apple.com-analysis-safety-antimalware-support.accountant
+0.0.0.0 apple.com.confiduration.clients.updating.service.foxdizi.net
+0.0.0.0 apple.com.icloud.billing.verifiy.9200938771663883991773817836476289732.valcla.com.br
+0.0.0.0 apple.com-internet-security-review.info
+0.0.0.0 apple.com-internet-security-review.review
+0.0.0.0 apple.com-safetyalert.com
+0.0.0.0 apple.com--------scanner.bid
+0.0.0.0 apple.com-----scanner.club
+0.0.0.0 apple.com-scan-virus-detected.com
+0.0.0.0 apple.com-security-desktop-antimalware-support.download
+0.0.0.0 apple.com-store.me
+0.0.0.0 apple.com-supportcenter.pro
+0.0.0.0 apple.com------support.host
+0.0.0.0 apple.com--validation.systems
+0.0.0.0 apple.com-verify-account-information.entranceonline.org
+0.0.0.0 apple.com-verify-account-information.othersideministries.org
+0.0.0.0 apple.com.virus-mac.com
+0.0.0.0 apple.com-webbrowsing-security.bid
+0.0.0.0 apple.com-webbrowsing-security.download
+0.0.0.0 apple.com-webbrowsing-security.review
+0.0.0.0 apple.com-webbrowsing-security.science
+0.0.0.0 apple.com-webbrowsing-security.site
+0.0.0.0 apple.com-web-security-analysis.win
 0.0.0.0 apple.dainehosre.com
 0.0.0.0 applee-conffig.irfani.pk
 0.0.0.0 apple.happyfamilyhappymum.net
@@ -7558,6 +7579,11 @@
 0.0.0.0 appleid.app.intl-member.com
 0.0.0.0 appleid.apple-accounted.com
 0.0.0.0 appleid.apple.benhviendakhoae.com
+0.0.0.0 appleid.apple.com-account-rev.com
+0.0.0.0 appleid.apple.com.onefamilycatering.com
+0.0.0.0 appleid.apple.com.paandiirspesciacad.org
+0.0.0.0 appleid.apple.com-stores-secure.com
+0.0.0.0 appleid.apple.com-subscriptions.manager784393.weekendtime.com.au
 0.0.0.0 appleid.apple.miniwatt.it
 0.0.0.0 appleid.apple.mollae.ir
 0.0.0.0 appleid.apple.restore-id.info
@@ -9272,7 +9298,6 @@
 0.0.0.0 beacon.gutefrage.net
 0.0.0.0 beacon.heliumnetwork.com
 0.0.0.0 beacon.indieclicktv.com
-0.0.0.0 beacon.jumptime.com
 0.0.0.0 beacon.jump-time.net
 0.0.0.0 beacon.kmi-us.com
 0.0.0.0 beacon.lycos.com
@@ -11356,6 +11381,7 @@
 0.0.0.0 cn01.dwstat.cn
 0.0.0.0 cn.abcibankcard.com
 0.0.0.0 cn.api.push.le.com
+0.0.0.0 cnbc.com-article906773.us
 0.0.0.0 cnb.cnews.ru
 0.0.0.0 cnbvqjku327alhalkj.029uhbsdfisjdj4.in
 0.0.0.0 cnbzoui348ysd-fyhg2jfkdf.jsincopbotream.in
@@ -11607,7 +11633,6 @@
 0.0.0.0 content.surpax.net
 0.0.0.0 content.synapsys.us
 0.0.0.0 content.thrixxx.com
-0.0.0.0 content.tucows.com
 0.0.0.0 content.womensforum.com
 0.0.0.0 content.wt.net
 0.0.0.0 content.yieldmanager.edgesuite.net
@@ -11636,7 +11661,6 @@
 0.0.0.0 cookie.pebblemedia.be
 0.0.0.0 cookies.cmpnet.com
 0.0.0.0 cookies.reedbusiness.nl
-0.0.0.0 cookie.tucows.com
 0.0.0.0 cookiex.ngd.yahoo.com
 0.0.0.0 coolertracks.emailroi.com
 0.0.0.0 coolfiles.toget.com.tw
@@ -11854,7 +11878,6 @@
 0.0.0.0 count.shopping.t-online.de
 0.0.0.0 count.snacktv.de
 0.0.0.0 count.spiegel.de
-0.0.0.0 counts.tucows.com
 0.0.0.0 count.timedg.com
 0.0.0.0 countubn.light.soufun.com
 0.0.0.0 countus1.editeurjavascript.com
@@ -13293,7 +13316,6 @@
 0.0.0.0 del.offshorepassagemaker.com
 0.0.0.0 d.elong.cn
 0.0.0.0 delta223.homestead.com
-0.0.0.0 delta-a1.tucows.com
 0.0.0.0 delta.rspcdn.com
 0.0.0.0 demandmedia.s3.amazonaws.com
 0.0.0.0 demimoorenude.1stok.com
@@ -13981,6 +14003,7 @@
 0.0.0.0 drmcmm.baidu.com
 0.0.0.0 drobebill.tranchespay.cf
 0.0.0.0 drobox.japahall.com.br
+0.0.0.0 dropbox.com-server-filesharing-center-authentication-cpsess3032626070.buceoanilao.com
 0.0.0.0 drop.box.com-shared231.comicfish.com
 0.0.0.0 dropboxdema.aguntasolo.club
 0.0.0.0 dropbox.disndat.com.ng
@@ -14257,6 +14280,7 @@
 0.0.0.0 ebay.acconto.sigin.it.jetblackdesign.com
 0.0.0.0 ebayadvertising.triadretail.net
 0.0.0.0 ebay.bucketlist-shop.com
+0.0.0.0 ebay.com-apple-iphone-6s-plus-64gb-rose-gold-factory-unlocked.dihfg.online
 0.0.0.0 ebay.de-login-account.com
 0.0.0.0 ebay-id0251.de-kundeninformationen2333233.ru
 0.0.0.0 ebay.it.ws.it.mezarkabristanisleri.com
@@ -14959,6 +14983,16 @@
 0.0.0.0 facebook-bella-fati.serverlux.me
 0.0.0.0 facebook-color.5v.pl
 0.0.0.0 facebookcolors24.blogspot.com
+0.0.0.0 facebook.com.esa-snc.com
+0.0.0.0 facebook.com.f4r5.pw
+0.0.0.0 facebook.com-fbs.us
+0.0.0.0 facebook.com-info.download
+0.0.0.0 facebook.com.linkedstate.in
+0.0.0.0 facebook.com-o.me
+0.0.0.0 facebook.com.piihs.edu.bd
+0.0.0.0 facebook.com-profile-100008362948392.site88.net
+0.0.0.0 facebook.com.skiie.com
+0.0.0.0 facebook.com-------validate----credentials----new-tos--19182121.enkaemlak.com
 0.0.0.0 facebook.corn.profile.php.id.c983a7028bd82d1c983a7028bd82d4.bah.in
 0.0.0.0 facebookfansigned.comlu.com
 0.0.0.0 facebook.fasting.tk
@@ -15100,6 +15134,8 @@
 0.0.0.0 fbcolor071.blogspot.com
 0.0.0.0 fb-color.qpq.pl
 0.0.0.0 fb-colors.ct8.pl
+0.0.0.0 fb.com.accounts.login.userid.293160.2bjdm.com
+0.0.0.0 fb.com--------validate---account----step1.yudumay.com
 0.0.0.0 fbc.wcfbc.net
 0.0.0.0 fbdgreh.backflowplano.com
 0.0.0.0 fb-generalpair1.at.ua
@@ -16403,6 +16439,7 @@
 0.0.0.0 googledocs.pe.hu
 0.0.0.0 googledrive.continentartistique.com
 0.0.0.0 google-drive-services-online.upload97-download88-document-access.mellatworld.org
+0.0.0.0 googlefestas.agropecuariacaxambu.com.br
 0.0.0.0 google.file.sidrahotel.com
 0.0.0.0 googlegetmyphotos.pythonanywhere.com
 0.0.0.0 googlegetmysyncphotos.pythonanywhere.com
@@ -16410,9 +16447,9 @@
 0.0.0.0 google-hacks.softonic.fr
 0.0.0.0 googlenews.xorg.pl
 0.0.0.0 googlepf.altervista.org
+0.0.0.0 google.plle.pl
 0.0.0.0 google.poultrymiddleeast.com
 0.0.0.0 google.ryantoddrose.com
-0.0.0.0 google.tucows.com
 0.0.0.0 googleworks.tripod.com
 0.0.0.0 gool.frieghtiger.com
 0.0.0.0 goot.daily-secrets.com
@@ -17154,7 +17191,6 @@
 0.0.0.0 html.centralmediaserver.com
 0.0.0.0 html.cnzzj.com.cn
 0.0.0.0 htmlphp.ddns.net
-0.0.0.0 html.tucows.com
 0.0.0.0 ht.pornhub.com
 0.0.0.0 htprf.prfmultas.info
 0.0.0.0 ht.redtube.com
@@ -18205,7 +18241,11 @@
 0.0.0.0 irondel.swisshost.by
 0.0.0.0 irpmt.mail.163.com
 0.0.0.0 irr.highefficiencyirrigationsystems.com
+0.0.0.0 irs.gov.falmouthroadrace.com
+0.0.0.0 irs.gov.irs-qus.com
 0.0.0.0 irsgov.nswsoccer.com.au
+0.0.0.0 irs.gov.nuestrasmanualidades.cl
+0.0.0.0 irs.gov.sgn-irs.com
 0.0.0.0 irstaxrefund.com.graficaolivense.com
 0.0.0.0 i.rtkshealth.com
 0.0.0.0 irudhkunrlfu25fhkaqw34blr5qlby4tgq43t.orrisbirth.com
@@ -18725,6 +18765,20 @@
 0.0.0.0 juliofernandeez22.000webhostapp.com
 0.0.0.0 juliofernandeez23.000webhostapp.com
 0.0.0.0 juliopaste8654.000webhostapp.com
+0.0.0.0 jump.001union.com
+0.0.0.0 jump.59jd.com
+0.0.0.0 jump.admin6.com
+0.0.0.0 jump.aragontrack.com
+0.0.0.0 jump.baidu.001union.com
+0.0.0.0 jump.eudora.com
+0.0.0.0 jump.ewoss.net
+0.0.0.0 jumping.nyyryy.com
+0.0.0.0 jump.jspg.cc
+0.0.0.0 jumpluna.58.com
+0.0.0.0 jump.nationalraingroupinc.com
+0.0.0.0 jump.omnitarget.com
+0.0.0.0 jump.tampaconcretepumping.com
+0.0.0.0 jump.youmobistein.com
 0.0.0.0 junggomania.nefficient.co.kr
 0.0.0.0 junglenet-a.akamaihd.net
 0.0.0.0 junior.apk.net
@@ -19423,6 +19477,9 @@
 0.0.0.0 link.dashpaq.com
 0.0.0.0 link.deal-of-king.com
 0.0.0.0 link.easy-courriel.com
+0.0.0.0 linkedin.com.be.login.submit.request.type.usersupportminlinkedin.belgium.amea.net.au
+0.0.0.0 linkedin.com.login.secure.message.linkedin.yayithequeen.com
+0.0.0.0 linkedin.com.uas.consumer.captcha.v2challengeid.aqeq81smued4iwaaavetrwe5crrrqe.gl2uqazct0vuxx.laprima.com.au
 0.0.0.0 linkedinupdate.couplejamtangan.com
 0.0.0.0 linked.nstrefa.pl
 0.0.0.0 link.email-boxes.net
@@ -20990,6 +21047,7 @@
 0.0.0.0 microreporting.metronews.ru
 0.0.0.0 microreporting.metro.se
 0.0.0.0 microreporting.publimetro.cl
+0.0.0.0 microsoft.com-msoft52.info
 0.0.0.0 microsoft.helptechnicalsupport.com
 0.0.0.0 microsofto.sytes.net
 0.0.0.0 microsoftpoints.premium-codes.com
@@ -21349,6 +21407,7 @@
 0.0.0.0 moviestarplanethack.net.pl
 0.0.0.0 moviestarplanet-haki-i-kody.crazylife.pl
 0.0.0.0 movie.truesuccess.info
+0.0.0.0 mozilla.comptesteal.org
 0.0.0.0 mozo-widgets.f2.com.au
 0.0.0.0 mp-04.fbmetrix.club
 0.0.0.0 mp4.res.hunantv.com
@@ -23454,11 +23513,59 @@
 0.0.0.0 paypal.cgi-intl-customer.com
 0.0.0.0 paypal-check4848949.at-kundencheckid2152458216.ru
 0.0.0.0 paypal-claim.gdj4.com
+0.0.0.0 paypal.com30ebbywi4y2e0zmriogi0zthimtmwoweyn2mxognjngu4.sterbanot.com
 0.0.0.0 paypalcom88gibinebscrcmdhomegeneraldispatch0db1f3842.voldrotan.com
+0.0.0.0 paypal-com-add-carte-to-account-limited.zwagezz.com
+0.0.0.0 paypal.com.akbidmuhammadiyahcrb.ac.id
+0.0.0.0 paypal.com.appmkr.us
+0.0.0.0 paypal.com-asp.info
+0.0.0.0 paypal.com.bankcreditunionlocation.customer.service.paypal.token.verify.acounts.customer2017.token1002998272617282736525272288387272732.christianiptv.tv
+0.0.0.0 paypal.com.case-id-fgg-39721831.cf
+0.0.0.0 paypal.com.case-id-fgg-39721831.ml
+0.0.0.0 paypal.com-cgi-bin-update-your-account-andcredit-card.check-loginanjeeeng.ml
+0.0.0.0 paypal.com.costumer-safety-first.com
+0.0.0.0 paypal.com-customer.sign-in.authflow-summaries.com
+0.0.0.0 paypal.com.ecoteh.org
+0.0.0.0 paypal.com.es.webapps.mpp.home.almouta3alim.com
+0.0.0.0 paypal.com.es.webapps.mpp.home.servicio.almouta3alim.com
+0.0.0.0 paypal.com.iman.com.pk
 0.0.0.0 pay.pal.com.imsfcu.ac.bd
+0.0.0.0 paypal.com.istiyakamin.com
+0.0.0.0 paypal.com.it.webapps.mpp.home.holpbenk24.com
+0.0.0.0 paypal-commiunty.com-id-accountd.snikers.lv
+0.0.0.0 paypal.com-mpp-resolve-problem-suspicious-activity.mytlcc.org
+0.0.0.0 paypal.com.my-accounte-support-verefication.serverlux.me
+0.0.0.0 paypal.com.myaccount.wallet.iatxmjzqhibe81zbfzzy7nidicadefnaleaa46cq6nxackdbwrrfd2z.metrofunders.com
+0.0.0.0 paypal.com.omicron.si
+0.0.0.0 paypal.com.online.honarekohan.com
+0.0.0.0 paypal.com.paypalclient098093209jkbnnov9839fnoof9.paypal.com.paypal.com.paypalclient098093209jkbnnov9839fnoof9.paypal.com.secured.superbmedia.net
+0.0.0.0 paypal.com.privacy-police.info
 0.0.0.0 paypalcom.secure1-update-limited.renewss-appass.com
+0.0.0.0 paypal.com.secure.information1.vineyardadvice.com
+0.0.0.0 paypal.com.secure.information.vineyardadvice.com
+0.0.0.0 paypal.comservice.cf
+0.0.0.0 paypal.com.se.webapps.mpp.home.foreignsurgical.com
+0.0.0.0 paypal.com.signin.country.xgblocale.xengb.lindamay.com.au
+0.0.0.0 paypal.com.signin.de.webapps.mpp.home.signin.country.xdelocale.xendelocale.thedaze.info
+0.0.0.0 paypal.com.signin.webapps.com-unsualactivity.cf
 0.0.0.0 paypalcom-synchronization-account.tumer-apps.com
+0.0.0.0 paypal.com.ticket-case-ld-3651326.info
+0.0.0.0 paypal.com.uk.signin.priauth.nav.f9a348bf60bbc6569f2.rasheedcomputers.com
+0.0.0.0 paypal.com.uk.signin.priauth.nav.f9a348bf60bbc6569f2.solutionslaw.com.au
+0.0.0.0 paypal.com.update-cgi-informationsecour.mxhecqbulyadinru4pjwgofs3z5ctiady6mk.mxhecqbulyadinru4pjwgofs3z5ctiady6mk.mxhecqbulyadinru4pjwgofs3z5ctiady6mk.hrbelectric.com
+0.0.0.0 paypal.com.update-limited.accounts.interdom.info
+0.0.0.0 paypal.com.verification-user-services.com
+0.0.0.0 paypal.com-verified-account.info
+0.0.0.0 paypal.com.webapps.cgibin.mpp.compare-lokdwevzvt.com
+0.0.0.0 paypal.com.webapps.cgibin.mpp.managed.aspl-lokdwevzvt.com
+0.0.0.0 paypal.com.webapps.cgibin-mpp.scurity.com-lokdwevzvt.com
+0.0.0.0 paypal.com.webapps.cgibin.mpp-solved.accs-lokdwevzvt.com
 0.0.0.0 paypalcom-webapps-confirm-payment-revision-unvailable.clkhss.com
+0.0.0.0 paypal.com.webapps.mpp.de.home.almouta3alim.com
+0.0.0.0 paypal.com.webapps.mpp-home.almouta3alim.com
+0.0.0.0 paypal.com.webapps.mpp.home.de.almouta3alim.com
+0.0.0.0 paypal.com.webapps.mpp.home.e.belllimeited.belllimeited.com
+0.0.0.0 paypal.com-webaps-login-access-your-account-limited-scure.aprovedaccount.info
 0.0.0.0 paypal-confirmation.aoic.org.my
 0.0.0.0 paypal-cotumerinterview.com-actionhelpingus.com
 0.0.0.0 paypal.co.uk.account.recovery.portal.stoneycreekfiji.net
@@ -24090,6 +24197,13 @@
 0.0.0.0 pm.deinsexdate.com
 0.0.0.0 pmd-vp-aka.canal-plus.com
 0.0.0.0 pmellen.ddns.net
+0.0.0.0 pmenboeqhyrpvomq.afteghonte.lol
+0.0.0.0 pmenboeqhyrpvomq.factordo.site
+0.0.0.0 pmenboeqhyrpvomq.gletterstan.trade
+0.0.0.0 pmenboeqhyrpvomq.hasterlyston.cloud
+0.0.0.0 pmenboeqhyrpvomq.loopsay.link
+0.0.0.0 pmenboeqhyrpvomq.paypoints.red
+0.0.0.0 pmenboeqhyrpvomq.shutlazy.casa
 0.0.0.0 pm.fetischsexkontakte.com
 0.0.0.0 pmgw4a.hightiudosbuld.net
 0.0.0.0 pm.heutenochficken.com
@@ -28820,6 +28934,7 @@
 0.0.0.0 tc.freehostedscripts.net
 0.0.0.0 t.chengadx.com
 0.0.0.0 tck.bangbros.com
+0.0.0.0 t.collect.yinyuetai.com
 0.0.0.0 tcookie.usatoday.com
 0.0.0.0 t.cpa37.com
 0.0.0.0 t.cr-nielsen.com
@@ -29136,7 +29251,6 @@
 0.0.0.0 timelog.moviebox.baofeng.com
 0.0.0.0 time.moxiefortworth.com
 0.0.0.0 time.runthefarmmemphis.net
-0.0.0.0 timeseg.modules.jumptime.com
 0.0.0.0 timeslog.indiatimes.com
 0.0.0.0 timeslogtn.timesnow.tv
 0.0.0.0 timestrends.indiatimes.com
@@ -31303,10 +31417,12 @@
 0.0.0.0 vjvhfvd.legacyminerals.us
 0.0.0.0 v.jwpcdn.com
 0.0.0.0 vk.18sexporn.ru
+0.0.0.0 vk.com.club52534765.45678754.5435.8454343.11010164345678763256487634434876524.34567876546789876.tw1.ru
 0.0.0.0 vkcvyvxpxh.ivyleaguefunnels.com.au
 0.0.0.0 vkfdj.iglesiapentecostalaposentoalto.com
 0.0.0.0 vkjbn.jamaicankisses.com
 0.0.0.0 vkld.datiks.com
+0.0.0.0 vkmcom.beget.tech
 0.0.0.0 vk.myago.tk
 0.0.0.0 vkont.bos.ru
 0.0.0.0 vk.serulom.tk
@@ -31392,7 +31508,6 @@
 0.0.0.0 vssyfg.beckmenconsulting.com
 0.0.0.0 vs.target.com
 0.0.0.0 vstats.digitaltrends.com
-0.0.0.0 vs.tucows.com
 0.0.0.0 vt-1.nrelate.com
 0.0.0.0 vte.nexteramedia.com
 0.0.0.0 v.tf.360.cn
@@ -32519,7 +32634,6 @@
 0.0.0.0 www.888zr022.com
 0.0.0.0 www.88cncc.com
 0.0.0.0 www8.mystats.nl
-0.0.0.0 www8.tucows.com
 0.0.0.0 www8.xitek.com
 0.0.0.0 www91.intel.com
 0.0.0.0 www.93meimei.info
@@ -33497,10 +33611,8 @@
 0.0.0.0 www-google-analytics.l.google.com
 0.0.0.0 www.google.com-document-view.alibabatradegroup.com
 0.0.0.0 www.google.ienet.pl
-0.0.0.0 www.google-plays.com
 0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 www.googmel.win
-0.0.0.0 www.gooogle.co.uk
 0.0.0.0 www.gospelcelebration.com
 0.0.0.0 www.gotwarez.com
 0.0.0.0 www.goviral.co.uk
@@ -33708,7 +33820,6 @@
 0.0.0.0 www.ju12345.com
 0.0.0.0 www.juegoseroticos.co
 0.0.0.0 www.jumboplastics.ru
-0.0.0.0 www.jumponline.com
 0.0.0.0 www.jung201.tk
 0.0.0.0 www.just4single.com
 0.0.0.0 www.justdropped.com
@@ -34731,7 +34842,6 @@
 0.0.0.0 www.ttcdn.cn
 0.0.0.0 www.ttnet.yandex.com.tr
 0.0.0.0 www.tubehits.com
-0.0.0.0 www.tucows.com
 0.0.0.0 www.tui1999.com
 0.0.0.0 www.turbotweetmultiplier.co
 0.0.0.0 www.turnwood.net
