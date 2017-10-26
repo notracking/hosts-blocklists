@@ -4,7 +4,7 @@ Most entries are gathered from multiple, actively maintained sources and automat
 
 The optimizer makes full use of dnsmasqs capability to block entire domains such as *.doubleclick.net ([domains.txt](https://raw.github.com/notracking/hosts-blocklists/master/domains.txt)). This reduces the chance of missing any new subdomains and significantly reduces the size of the blocklists. Hostnames that cannot be blocked on a domain level will still be listed in a regular hostname based blocklist ([hostnames.txt](https://raw.github.com/notracking/hosts-blocklists/master/hostnames.txt)).
 
-It's important to use both these blocklists simultaniously to get full coverage against the contaminated parts of the internet.
+It's important to use both `domains.txt` and `hostnames.txt` blocklists simultaniously in dnsmasq to get full coverage!
 
 ## General policies
  - Should not break useful websites or apps
