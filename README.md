@@ -4,7 +4,7 @@ Most entries are gathered from multiple, actively maintained sources and automat
 
 The optimizer makes full use of dnsmasqs capability to block entire domains such as *.doubleclick.net ([domains.txt](https://raw.github.com/notracking/hosts-blocklists/master/domains.txt)). This reduces the chance of missing any new subdomains and significantly reduces the size of the blocklists. Hostnames that cannot be blocked on a domain level will still be listed in a regular hostname based blocklist ([hostnames.txt](https://raw.github.com/notracking/hosts-blocklists/master/hostnames.txt)).
 
-It's important to use both `domains.txt` and `hostnames.txt` blocklists simultaniously in dnsmasq to get full coverage!
+It's important to use both `domains.txt` and `hostnames.txt` simultaniously in dnsmasq to get full coverage!
 
 ## General policies
  - Should not break useful websites or apps
@@ -13,6 +13,7 @@ It's important to use both `domains.txt` and `hostnames.txt` blocklists simultan
  - Blocks analytics servers
  - Blocks fake websites
  - Blocks malware servers
+ - Blocks webminers
 
 # How to install
 ## Default dnsmasq setup
@@ -62,6 +63,8 @@ At this moment it is recommended to set up you own dnsmasq configuration to make
  - https://raw.githubusercontent.com/bkrcrc/turk-adlist/master/hosts
  - https://v.firebog.net/hosts/static/w3kbl.txt
  - https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
+ - https://raw.githubusercontent.com/greatis/Anti-WebMiner/master/hosts
+ - https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt
  - a large set of custom entries
   
 **Adblock Plus lists** (only full hostname, non-3rd party filters)
