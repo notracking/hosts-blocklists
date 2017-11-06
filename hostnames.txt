@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Nov 5 01:03:01 CET 2017
-# Number of unique hostnames: 34685
+# Last update: Mon Nov 6 01:06:35 CET 2017
+# Number of unique hostnames: 34694
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -17340,6 +17340,7 @@
 0.0.0.0 img.alibaba.com
 0.0.0.0 img.alimama.cn
 0.0.0.0 imgaliyun.da.mgtv.com
+0.0.0.0 imgaliyun.res.mgtv.com
 0.0.0.0 img.amp.ad.sina.com.cn
 0.0.0.0 img.apnanalytics.com
 0.0.0.0 imgapp.yeyou.com
@@ -19268,9 +19269,11 @@
 0.0.0.0 logo.naulogistics.com
 0.0.0.0 logonext.tv.kuyun.com
 0.0.0.0 logo.webservis.gen.tr
+0.0.0.0 log.p2p.hunantv.com
 0.0.0.0 log.paulbetts.org
 0.0.0.0 log.pinterest.com
 0.0.0.0 log.popnet.vn
+0.0.0.0 log.rc.hunantv.com
 0.0.0.0 logs.51cto.com
 0.0.0.0 logs.aiya.com.cn
 0.0.0.0 logs.cnfol.com
@@ -20636,6 +20639,7 @@
 0.0.0.0 mobad.ijinshan.com
 0.0.0.0 mobads.baidu.com
 0.0.0.0 mobads-logs.baidu.com
+0.0.0.0 mobaliyun.res.mgtv.com
 0.0.0.0 mob.coolnay.com
 0.0.0.0 mobe.jayjagannathhotel.com
 0.0.0.0 mob-faceb00k.comli.com
@@ -20655,6 +20659,7 @@
 0.0.0.0 mobileanalytics.us-west-2.amazonaws.com
 0.0.0.0 mobile.banzai.it
 0.0.0.0 mobile.biz.daum.net
+0.0.0.0 mobile.da.mgtv.com
 0.0.0.0 mobiledl.adboe.com
 0.0.0.0 mobiledl.adobe.com
 0.0.0.0 mobile.facebook.ismartnaija.com
@@ -23005,7 +23010,6 @@
 0.0.0.0 pc.boxshows.com
 0.0.0.0 pcbutts1.software.informer.com
 0.0.0.0 pcbutts1-therealtruth.blogspot.com
-0.0.0.0 pc.bz.mgtv.com
 0.0.0.0 pc.da.mgtv.com
 0.0.0.0 pcd.autohome.com.cn
 0.0.0.0 p.chinapxg.com
@@ -23032,6 +23036,7 @@
 0.0.0.0 pcvideoaliyun.titan.mgtv.com
 0.0.0.0 pc.videoclick.baidu.com
 0.0.0.0 pcvideoyd.titan.mgtv.com
+0.0.0.0 pcweb-v1.log.mgtv.com
 0.0.0.0 pcweb.v1.mgtv.com
 0.0.0.0 pcxzo.pluto.sogou.com
 0.0.0.0 pc.yingshi.tcclick.1kxun.mobi
@@ -30121,16 +30126,19 @@
 0.0.0.0 v1-feed.idreamsky.com
 0.0.0.0 v1.log.moji.com
 0.0.0.0 v1.play.log.hunantv.com
+0.0.0.0 v1-play.log.mgtv.com
 0.0.0.0 v1.res.log.hunantv.com
 0.0.0.0 v1tj.jiguangie.com
 0.0.0.0 v1.ujian.cc
 0.0.0.0 v2.ads3.ipon.lt
+0.0.0.0 v2.da.mgtv.com
 0.0.0.0 v2.hdd.log.hunantv.com
 0.0.0.0 v2.hd.log.hunantv.com
 0.0.0.0 v2html.atm.youku.com
 0.0.0.0 v2.ipopup.ir
 0.0.0.0 v2.jiathis.com
 0.0.0.0 v2.log.hunantv.com
+0.0.0.0 v2.log.mgtv.com
 0.0.0.0 v2.popupsky.ir
 0.0.0.0 v2.res.log.hunantv.com
 0.0.0.0 v2.urlads.net
@@ -30788,6 +30796,7 @@
 0.0.0.0 webcounter.together.net
 0.0.0.0 webcount.finn.no
 0.0.0.0 web.cvut.cz
+0.0.0.0 web.da.mgtv.com
 0.0.0.0 web.data.pplive.com
 0.0.0.0 webdata.vidz.com
 0.0.0.0 webd.francite.com
