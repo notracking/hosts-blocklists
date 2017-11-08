@@ -63,8 +63,8 @@ At this moment it is recommended to set up you own dnsmasq configuration to make
  - https://raw.githubusercontent.com/bkrcrc/turk-adlist/master/hosts
  - https://v.firebog.net/hosts/static/w3kbl.txt
  - https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
- - https://raw.githubusercontent.com/greatis/Anti-WebMiner/master/hosts
  - https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt
+ - https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser
  - a large set of custom entries
   
 **Adblock Plus lists** (only full hostname, non-3rd party filters)
