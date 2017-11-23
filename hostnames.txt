@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Nov 22 01:09:29 CET 2017
-# Number of unique hostnames: 33666
+# Last update: Thu Nov 23 01:12:55 CET 2017
+# Number of unique hostnames: 33683
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -6891,6 +6891,7 @@
 0.0.0.0 array404-prod.do.dsp.mp.microsoft.com
 0.0.0.0 array405-prod.do.dsp.mp.microsoft.com
 0.0.0.0 array406-prod.do.dsp.mp.microsoft.com
+0.0.0.0 array407-prod.do.dsp.mp.microsoft.com
 0.0.0.0 array408-prod.do.dsp.mp.microsoft.com
 0.0.0.0 arsconsole.global-intermedia.com
 0.0.0.0 ars.couphole.com
@@ -9406,11 +9407,13 @@
 0.0.0.0 cds1265.lon.llnw.net
 0.0.0.0 cds1269.lon.llnw.net
 0.0.0.0 cds1273.lon.llnw.net
+0.0.0.0 cds1285.lon.llnw.net
 0.0.0.0 cds1287.lon.llnw.net
 0.0.0.0 cds20404.lcy.llnw.net
 0.0.0.0 cds20424.lcy.llnw.net
 0.0.0.0 cds20435.lcy.llnw.net
 0.0.0.0 cds20461.lcy.llnw.net
+0.0.0.0 cds20475.lcy.llnw.net
 0.0.0.0 cds21229.lon.llnw.net
 0.0.0.0 cds21256.lon.llnw.net
 0.0.0.0 cds21278.lon.llnw.net
@@ -11725,7 +11728,9 @@
 0.0.0.0 db5sch101101334.wns.windows.com
 0.0.0.0 db5sch101101419.wns.windows.com
 0.0.0.0 db5sch101101426.wns.windows.com
+0.0.0.0 db5sch101101427.wns.windows.com
 0.0.0.0 db5sch101101430.wns.windows.com
+0.0.0.0 db5sch101101445.wns.windows.com
 0.0.0.0 db5sch101101511.wns.windows.com
 0.0.0.0 db5sch101101519.wns.windows.com
 0.0.0.0 db5sch101101535.wns.windows.com
@@ -11743,6 +11748,7 @@
 0.0.0.0 db5sch101101914.wns.windows.com
 0.0.0.0 db5sch101101939.wns.windows.com
 0.0.0.0 db5sch101102015.wns.windows.com
+0.0.0.0 db5sch101102017.wns.windows.com
 0.0.0.0 db5sch101102025.wns.windows.com
 0.0.0.0 db5sch101102032.wns.windows.com
 0.0.0.0 db5sch101102033.wns.windows.com
@@ -11765,6 +11771,7 @@
 0.0.0.0 db5sch101110501.wns.windows.com
 0.0.0.0 db5sch101110527.wns.windows.com
 0.0.0.0 db5sch101110533.wns.windows.com
+0.0.0.0 db5sch101110618.wns.windows.com
 0.0.0.0 db5sch101110622.wns.windows.com
 0.0.0.0 db5sch101110626.wns.windows.com
 0.0.0.0 db5sch101110634.wns.windows.com
@@ -11798,6 +11805,7 @@
 0.0.0.0 db5sch103092109.wns.windows.com
 0.0.0.0 db5sch103092209.wns.windows.com
 0.0.0.0 db5sch103100117.wns.windows.com
+0.0.0.0 db5sch103100221.wns.windows.com
 0.0.0.0 db5sch103100313.wns.windows.com
 0.0.0.0 db5sch103100510.wns.windows.com
 0.0.0.0 db5sch103100511.wns.windows.com
@@ -11807,18 +11815,22 @@
 0.0.0.0 db5sch103101513.wns.windows.com
 0.0.0.0 db5sch103101611.wns.windows.com
 0.0.0.0 db5sch103101705.wns.windows.com
+0.0.0.0 db5sch103101711.wns.windows.com
+0.0.0.0 db5sch103102009.wns.windows.com
 0.0.0.0 db5sch103102112.wns.windows.com
+0.0.0.0 db5sch103102404.wns.windows.com
 0.0.0.0 db5sch103102609.wns.windows.com
 0.0.0.0 db5sch103102610.wns.windows.com
 0.0.0.0 db5.settings.data.microsoft.com.akadns.net
 0.0.0.0 db5wns1d.wns.windows.com
-0.0.0.0 db5.wns.windows.com
 0.0.0.0 db621f3a.amy.gs
 0.0.0.0 db6sch102090122.wns.windows.com
 0.0.0.0 db6sch102090203.wns.windows.com
 0.0.0.0 db6sch102090208.wns.windows.com
 0.0.0.0 db6sch102090209.wns.windows.com
+0.0.0.0 db6sch102090211.wns.windows.com
 0.0.0.0 db6sch102090305.wns.windows.com
+0.0.0.0 db6sch102090306.wns.windows.com
 0.0.0.0 db6sch102090311.wns.windows.com
 0.0.0.0 db6sch102090313.wns.windows.com
 0.0.0.0 db6sch102090410.wns.windows.com
@@ -11830,14 +11842,17 @@
 0.0.0.0 db6sch102090514.wns.windows.com
 0.0.0.0 db6sch102090613.wns.windows.com
 0.0.0.0 db6sch102090619.wns.windows.com
+0.0.0.0 db6sch102090810.wns.windows.com
 0.0.0.0 db6sch102090811.wns.windows.com
 0.0.0.0 db6sch102090902.wns.windows.com
+0.0.0.0 db6sch102090905.wns.windows.com
 0.0.0.0 db6sch102090907.wns.windows.com
 0.0.0.0 db6sch102090910.wns.windows.com
 0.0.0.0 db6sch102090911.wns.windows.com
 0.0.0.0 db6sch102091007.wns.windows.com
 0.0.0.0 db6sch102091008.wns.windows.com
 0.0.0.0 db6sch102091105.wns.windows.com
+0.0.0.0 db6sch102091209.wns.windows.com
 0.0.0.0 db6sch102091305.wns.windows.com
 0.0.0.0 db6sch102091307.wns.windows.com
 0.0.0.0 db6sch102091309.wns.windows.com
@@ -24983,6 +24998,7 @@
 0.0.0.0 setting.snswin.qq.com
 0.0.0.0 settings-sandbox.data.microsoft.com
 0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 settings-win-ppe.data.microsoft.com
 0.0.0.0 setupdate24.updateworkfreshandnew.space
 0.0.0.0 setupdate24.updateworkfreshandnew.website
 0.0.0.0 setup.errorkiller.com
@@ -30067,6 +30083,7 @@
 0.0.0.0 will.yourhomeforaustinhomes.com
 0.0.0.0 will.zla.se
 0.0.0.0 win10.ipv6.microsoft.com
+0.0.0.0 win1710.ipv6.microsoft.com
 0.0.0.0 win2ssue.in.net
 0.0.0.0 win32.in.net
 0.0.0.0 win32issue.in.net
