@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Dec 11 00:40:35 CET 2017
-# Number of unique hostnames: 33413
+# Last update: Tue Dec 12 00:57:18 CET 2017
+# Number of unique hostnames: 33412
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -6468,6 +6468,7 @@
 0.0.0.0 apiluckyleapnet-a.akamaihd.net
 0.0.0.0 api.magmamobile.com
 0.0.0.0 apimegabrowsebiz-a.akamaihd.net
+0.0.0.0 api.mobads4app.com
 0.0.0.0 api.moogos.com
 0.0.0.0 apimossnetinfo-a.akamaihd.net
 0.0.0.0 apimountainbikei-a.akamaihd.net
@@ -6570,25 +6571,20 @@
 0.0.0.0 app-1510325760.000webhostapp.com
 0.0.0.0 app1.firstusa.com
 0.0.0.0 app1.letitbefaster.life
-0.0.0.0 app1.letitbefaster.website
 0.0.0.0 app2.letitbefaster.life
-0.0.0.0 app2.letitbefaster.website
 0.0.0.0 app2.letslowbefast.life
 0.0.0.0 app2.vinsight.de
 0.0.0.0 app.3987.com
 0.0.0.0 app3.letitbefaster.life
-0.0.0.0 app3.letitbefaster.website
 0.0.0.0 app3.rutarget.ru
 0.0.0.0 app3.vinsight.de
 0.0.0.0 app4com.bestgrade4update.trade
 0.0.0.0 app4com.codecheckgroup.com
 0.0.0.0 app4.letitbefaster.life
-0.0.0.0 app4.letitbefaster.website
 0.0.0.0 app4.letslowbefast.life
 0.0.0.0 app.50bang.org
 0.0.0.0 app.5211hui.com
 0.0.0.0 app5.letitbefaster.life
-0.0.0.0 app5.letitbefaster.website
 0.0.0.0 app.acm.dzwww.com
 0.0.0.0 app.activetrail.com
 0.0.0.0 app.adblockhyper.us
@@ -7935,6 +7931,7 @@
 0.0.0.0 bd1.52che.com
 0.0.0.0 bd1.dopa.com
 0.0.0.0 bd1.fengdu100.com
+0.0.0.0 bd1.flfgw.cn
 0.0.0.0 bd1.jobui.com
 0.0.0.0 bd1.nipic.com
 0.0.0.0 bd1.nxing.cn
@@ -12390,6 +12387,7 @@
 0.0.0.0 dompark.dadapro.com
 0.0.0.0 domseo.com.edgesuite.net
 0.0.0.0 donesecuresacc32189.000webhostapp.com
+0.0.0.0 done.witchcraftcash.com
 0.0.0.0 dontblockme.modaco.com
 0.0.0.0 dont.rentmoxieproperties.com
 0.0.0.0 donvito.unas.cz
@@ -14889,6 +14887,7 @@
 0.0.0.0 go.clicktrackopt.com
 0.0.0.0 godanswerme.5gbfree.com
 0.0.0.0 go.data1rtb.com
+0.0.0.0 go.deliverymodo.com
 0.0.0.0 go.delnapb.com
 0.0.0.0 godhelper.5gbfree.com
 0.0.0.0 godisgood.sweetkylebear.com
@@ -14919,6 +14918,7 @@
 0.0.0.0 go.mobilix.mobi
 0.0.0.0 go.mobitraxk.com
 0.0.0.0 go.mobtrks.com
+0.0.0.0 go.mooncklick.com
 0.0.0.0 gomovies.track.clicksure.com
 0.0.0.0 gom-player.gooofull.com
 0.0.0.0 go.myimgt.com
@@ -19743,6 +19743,7 @@
 0.0.0.0 mtrc1.digital-metric.com
 0.0.0.0 mtrcs.popcap.com
 0.0.0.0 mtrcs.redhat.com
+0.0.0.0 mtrcs.samba.tv
 0.0.0.0 mtrics.cdc.gov
 0.0.0.0 m.trk44.mobi
 0.0.0.0 mt.sellingrealestatemalta.com
@@ -21840,7 +21841,6 @@
 0.0.0.0 pcookie.tanx.com
 0.0.0.0 pcookie.taobao.com
 0.0.0.0 pcplus.or.kr
-0.0.0.0 p.cpx.to
 0.0.0.0 pc.regsdoomsxeons.net
 0.0.0.0 pc.richsinglserrno.net
 0.0.0.0 pc.searchtypejusts.net
@@ -24276,7 +24276,6 @@
 0.0.0.0 scout.lexisnexis.com
 0.0.0.0 scout.rollcall.com
 0.0.0.0 s.cpro.baidu.com
-0.0.0.0 s.cpx.to
 0.0.0.0 sc.radiofficine.it
 0.0.0.0 scream.cavingidentificationconsulting.com
 0.0.0.0 scream.garudamp3.com
