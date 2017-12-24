@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Dec 24 00:39:04 CET 2017
-# Number of unique hostnames: 33602
+# Last update: Mon Dec 25 00:39:22 CET 2017
+# Number of unique hostnames: 33657
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -739,7 +739,6 @@
 0.0.0.0 a1.jandan.net
 0.0.0.0 a1.juzih.com
 0.0.0.0 a1.lmaq.cn
-0.0.0.0 a1.mzstatic.com
 0.0.0.0 a.1nimo.com
 0.0.0.0 a1.peoplecdn.cn
 0.0.0.0 a1.qqjay.com
@@ -7135,6 +7134,7 @@
 0.0.0.0 ax61xs.quik.a1taxisworcester.co.uk
 0.0.0.0 axad.shinobi.jp
 0.0.0.0 a.xanga.com
+0.0.0.0 axd.cpapush.com
 0.0.0.0 a.xeozir.com
 0.0.0.0 ax.ggfeng.com
 0.0.0.0 ax.ifeng.com
@@ -9343,6 +9343,7 @@
 0.0.0.0 cdn.ziffstatic.com
 0.0.0.0 c.dokrmob.com
 0.0.0.0 cds1143.lon.llnw.net
+0.0.0.0 cds1204.lon.llnw.net
 0.0.0.0 cds1228.lon.llnw.net
 0.0.0.0 cds1244.lon.llnw.net
 0.0.0.0 cds1265.lon.llnw.net
@@ -9350,23 +9351,34 @@
 0.0.0.0 cds1273.lon.llnw.net
 0.0.0.0 cds1285.lon.llnw.net
 0.0.0.0 cds1287.lon.llnw.net
+0.0.0.0 cds1293.lon.llnw.net
 0.0.0.0 cds20404.lcy.llnw.net
+0.0.0.0 cds20417.lcy.llnw.net
 0.0.0.0 cds20424.lcy.llnw.net
+0.0.0.0 cds20431.lcy.llnw.net
 0.0.0.0 cds20435.lcy.llnw.net
+0.0.0.0 cds20452.lcy.llnw.net
+0.0.0.0 cds20457.lcy.llnw.net
 0.0.0.0 cds20461.lcy.llnw.net
 0.0.0.0 cds20475.lcy.llnw.net
+0.0.0.0 cds20482.lcy.llnw.net
 0.0.0.0 cds21229.lon.llnw.net
+0.0.0.0 cds21244.lon.llnw.net
 0.0.0.0 cds21256.lon.llnw.net
 0.0.0.0 cds21278.lon.llnw.net
 0.0.0.0 cds21281.lon.llnw.net
+0.0.0.0 cds21293.lon.llnw.net
 0.0.0.0 cds26.ams9.msecn.net
 0.0.0.0 cds2.freenet.de
 0.0.0.0 cds339.lcy.llnw.net
 0.0.0.0 cds344.lcy.llnw.net
 0.0.0.0 cds407.fra.llnw.net
+0.0.0.0 cds425.lcy.llnw.net
 0.0.0.0 cds459.lcy.llnw.net
+0.0.0.0 cds494.lcy.llnw.net
 0.0.0.0 cds.51y5.net
 0.0.0.0 cds818.lon.llnw.net
+0.0.0.0 cds832.lon.llnw.net
 0.0.0.0 cds965.lon.llnw.net
 0.0.0.0 cds.g8j8b9g6.hwcdn.net
 0.0.0.0 cdsusa.veinteractive.com
@@ -11644,6 +11656,7 @@
 0.0.0.0 db5sch101100835.wns.windows.com
 0.0.0.0 db5sch101100917.wns.windows.com
 0.0.0.0 db5sch101100928.wns.windows.com
+0.0.0.0 db5sch101100938.wns.windows.com
 0.0.0.0 db5sch101101001.wns.windows.com
 0.0.0.0 db5sch101101022.wns.windows.com
 0.0.0.0 db5sch101101024.wns.windows.com
@@ -11651,6 +11664,10 @@
 0.0.0.0 db5sch101101034.wns.windows.com
 0.0.0.0 db5sch101101042.wns.windows.com
 0.0.0.0 db5sch101101044.wns.windows.com
+0.0.0.0 db5sch101101122.wns.windows.com
+0.0.0.0 db5sch101101123.wns.windows.com
+0.0.0.0 db5sch101101125.wns.windows.com
+0.0.0.0 db5sch101101128.wns.windows.com
 0.0.0.0 db5sch101101145.wns.windows.com
 0.0.0.0 db5sch101101209.wns.windows.com
 0.0.0.0 db5sch101101221.wns.windows.com
@@ -11661,6 +11678,7 @@
 0.0.0.0 db5sch101101333.wns.windows.com
 0.0.0.0 db5sch101101334.wns.windows.com
 0.0.0.0 db5sch101101419.wns.windows.com
+0.0.0.0 db5sch101101424.wns.windows.com
 0.0.0.0 db5sch101101426.wns.windows.com
 0.0.0.0 db5sch101101427.wns.windows.com
 0.0.0.0 db5sch101101430.wns.windows.com
@@ -11669,6 +11687,7 @@
 0.0.0.0 db5sch101101519.wns.windows.com
 0.0.0.0 db5sch101101535.wns.windows.com
 0.0.0.0 db5sch101101541.wns.windows.com
+0.0.0.0 db5sch101101629.wns.windows.com
 0.0.0.0 db5sch101101640.wns.windows.com
 0.0.0.0 db5sch101101711.wns.windows.com
 0.0.0.0 db5sch101101739.wns.windows.com
@@ -11680,9 +11699,13 @@
 0.0.0.0 db5sch101101844.wns.windows.com
 0.0.0.0 db5sch101101907.wns.windows.com
 0.0.0.0 db5sch101101914.wns.windows.com
+0.0.0.0 db5sch101101929.wns.windows.com
 0.0.0.0 db5sch101101939.wns.windows.com
+0.0.0.0 db5sch101101941.wns.windows.com
 0.0.0.0 db5sch101102015.wns.windows.com
 0.0.0.0 db5sch101102017.wns.windows.com
+0.0.0.0 db5sch101102019.wns.windows.com
+0.0.0.0 db5sch101102023.wns.windows.com
 0.0.0.0 db5sch101102025.wns.windows.com
 0.0.0.0 db5sch101102032.wns.windows.com
 0.0.0.0 db5sch101102033.wns.windows.com
@@ -11697,6 +11720,7 @@
 0.0.0.0 db5sch101110323.wns.windows.com
 0.0.0.0 db5sch101110325.wns.windows.com
 0.0.0.0 db5sch101110328.wns.windows.com
+0.0.0.0 db5sch101110331.wns.windows.com
 0.0.0.0 db5sch101110343.wns.windows.com
 0.0.0.0 db5sch101110345.wns.windows.com
 0.0.0.0 db5sch101110403.wns.windows.com
@@ -11729,21 +11753,29 @@
 0.0.0.0 db5sch103082709.wns.windows.com
 0.0.0.0 db5sch103082712.wns.windows.com
 0.0.0.0 db5sch103082806.wns.windows.com
+0.0.0.0 db5sch103090415.wns.windows.com
+0.0.0.0 db5sch103090806.wns.windows.com
 0.0.0.0 db5sch103090906.wns.windows.com
 0.0.0.0 db5sch103091106.wns.windows.com
 0.0.0.0 db5sch103091212.wns.windows.com
+0.0.0.0 db5sch103091311.wns.windows.com
+0.0.0.0 db5sch103091414.wns.windows.com
 0.0.0.0 db5sch103091617.wns.windows.com
 0.0.0.0 db5sch103091715.wns.windows.com
 0.0.0.0 db5sch103091908.wns.windows.com
 0.0.0.0 db5sch103092108.wns.windows.com
 0.0.0.0 db5sch103092109.wns.windows.com
 0.0.0.0 db5sch103092209.wns.windows.com
+0.0.0.0 db5sch103092509.wns.windows.com
 0.0.0.0 db5sch103100117.wns.windows.com
 0.0.0.0 db5sch103100221.wns.windows.com
 0.0.0.0 db5sch103100313.wns.windows.com
+0.0.0.0 db5sch103100314.wns.windows.com
 0.0.0.0 db5sch103100510.wns.windows.com
 0.0.0.0 db5sch103100511.wns.windows.com
 0.0.0.0 db5sch103100611.wns.windows.com
+0.0.0.0 db5sch103100712.wns.windows.com
+0.0.0.0 db5sch103101212.wns.windows.com
 0.0.0.0 db5sch103101314.wns.windows.com
 0.0.0.0 db5sch103101411.wns.windows.com
 0.0.0.0 db5sch103101513.wns.windows.com
@@ -11752,19 +11784,25 @@
 0.0.0.0 db5sch103101711.wns.windows.com
 0.0.0.0 db5sch103102009.wns.windows.com
 0.0.0.0 db5sch103102112.wns.windows.com
+0.0.0.0 db5sch103102203.wns.windows.com
 0.0.0.0 db5sch103102404.wns.windows.com
 0.0.0.0 db5sch103102609.wns.windows.com
 0.0.0.0 db5sch103102610.wns.windows.com
 0.0.0.0 db5.settings.data.microsoft.com.akadns.net
 0.0.0.0 db5wns1d.wns.windows.com
+0.0.0.0 db5.wns.windows.com
 0.0.0.0 db621f3a.amy.gs
+0.0.0.0 db6sch102090104.wns.windows.com
+0.0.0.0 db6sch102090112.wns.windows.com
 0.0.0.0 db6sch102090122.wns.windows.com
 0.0.0.0 db6sch102090203.wns.windows.com
+0.0.0.0 db6sch102090206.wns.windows.com
 0.0.0.0 db6sch102090208.wns.windows.com
 0.0.0.0 db6sch102090209.wns.windows.com
 0.0.0.0 db6sch102090211.wns.windows.com
 0.0.0.0 db6sch102090305.wns.windows.com
 0.0.0.0 db6sch102090306.wns.windows.com
+0.0.0.0 db6sch102090308.wns.windows.com
 0.0.0.0 db6sch102090311.wns.windows.com
 0.0.0.0 db6sch102090313.wns.windows.com
 0.0.0.0 db6sch102090410.wns.windows.com
@@ -11785,6 +11823,7 @@
 0.0.0.0 db6sch102090911.wns.windows.com
 0.0.0.0 db6sch102091007.wns.windows.com
 0.0.0.0 db6sch102091008.wns.windows.com
+0.0.0.0 db6sch102091103.wns.windows.com
 0.0.0.0 db6sch102091105.wns.windows.com
 0.0.0.0 db6sch102091209.wns.windows.com
 0.0.0.0 db6sch102091305.wns.windows.com
@@ -11792,6 +11831,7 @@
 0.0.0.0 db6sch102091309.wns.windows.com
 0.0.0.0 db6sch102091314.wns.windows.com
 0.0.0.0 db6sch102091412.wns.windows.com
+0.0.0.0 db6sch102091602.wns.windows.com
 0.0.0.0 db6sch102091603.wns.windows.com
 0.0.0.0 db6sch102091607.wns.windows.com
 0.0.0.0 dbam.dashbida.com
@@ -15591,6 +15631,7 @@
 0.0.0.0 hobbat.fvds.ru
 0.0.0.0 hockeysubnantais.free.fr
 0.0.0.0 hogwart.konkuk.ac.kr
+0.0.0.0 hoisin.coocaatv.com
 0.0.0.0 holy.henrylawnc.com
 0.0.0.0 holy.mldlandfrantz.com
 0.0.0.0 holyw.ddns.me.uk
@@ -22267,6 +22308,7 @@
 0.0.0.0 pixel.ani-view.com
 0.0.0.0 pixel.autoaffiliatenetwork.com
 0.0.0.0 pixel.bild.de
+0.0.0.0 pixel.bilinmedia.net
 0.0.0.0 pixel.blog.hu
 0.0.0.0 pixel.brit.co
 0.0.0.0 pixel.captora.com
@@ -24045,6 +24087,7 @@
 0.0.0.0 ru.scn.net
 0.0.0.0 rus-teh.narod.ru
 0.0.0.0 ru.theswiftones.com
+0.0.0.0 rutht.vgzmedia.com
 0.0.0.0 rvde.investbody.com
 0.0.0.0 rv.furaffinity.net
 0.0.0.0 r.voila.fr
@@ -25823,6 +25866,7 @@
 0.0.0.0 static2.amateurpin.net
 0.0.0.0 static.2.chenggao.cn
 0.0.0.0 static.365inews.com
+0.0.0.0 static.3-mobiappu.com
 0.0.0.0 static4.emoticonize.com
 0.0.0.0 static.5411.com
 0.0.0.0 static7.adrepublic.net
@@ -25840,6 +25884,7 @@
 0.0.0.0 static.aliceadsl.fr
 0.0.0.0 static.anquan.org
 0.0.0.0 static.ap.bittorrent.com
+0.0.0.0 static.application-77my.com
 0.0.0.0 static.appwatch.com
 0.0.0.0 static.ard.xxxblackbook.com
 0.0.0.0 static.atomload.at
@@ -25894,9 +25939,11 @@
 0.0.0.0 static.kinghost.com
 0.0.0.0 static.kinley.com
 0.0.0.0 static.l3.cdn.adsucks.com
+0.0.0.0 static.live2delivery.com
 0.0.0.0 static.live.nagezan.net
 0.0.0.0 static.lstat.youku.com
 0.0.0.0 static.matchnet.com
+0.0.0.0 static.mb89-live.com
 0.0.0.0 static.mct01.com
 0.0.0.0 static.meteorsolutions.com
 0.0.0.0 static.mntzm.com
@@ -25904,6 +25951,7 @@
 0.0.0.0 static.nectarads.com
 0.0.0.0 static.nirror.com
 0.0.0.0 static.nrelate.com
+0.0.0.0 static.o67-theguard.com
 0.0.0.0 static.oh100.com
 0.0.0.0 static.onlinevenditatio.space
 0.0.0.0 static.openads.motorrad-net.at
@@ -25915,6 +25963,7 @@
 0.0.0.0 static.proximic.com
 0.0.0.0 static.realmediadigital.com
 0.0.0.0 static.regiojobs.be
+0.0.0.0 static.resetamobil.com
 0.0.0.0 static.retirementcommunitiesfyi.com
 0.0.0.0 static.rpxnow.com
 0.0.0.0 staticrr.paleokits.net
@@ -27127,6 +27176,7 @@
 0.0.0.0 tes.stuckin.org
 0.0.0.0 test1.lmsoft.cz
 0.0.0.0 test1.sem-tracking-analytics.com
+0.0.0.0 test.activity.windows.com
 0.0.0.0 test.ad.asap-asp.net
 0.0.0.0 test.ad.cmvideo.cn
 0.0.0.0 test-ads.asap-asp.net
@@ -30334,6 +30384,7 @@
 0.0.0.0 www1.oratosaeron.com
 0.0.0.0 www1.pollg.com
 0.0.0.0 www1.popinads.com
+0.0.0.0 www1.qicheyinyue.wang
 0.0.0.0 www.1quickclickrx.com
 0.0.0.0 www1.realsoft34.com
 0.0.0.0 www1.runnergameshk.com
@@ -31852,6 +31903,7 @@
 0.0.0.0 www.mb102.com
 0.0.0.0 www.mb103.com
 0.0.0.0 www.mb57.com
+0.0.0.0 www.mb89-live.com
 0.0.0.0 www.mbai.cn
 0.0.0.0 www.mcsqd.com
 0.0.0.0 www.me404.net
@@ -32025,6 +32077,7 @@
 0.0.0.0 www.nvshenfan.com
 0.0.0.0 www.nxsrv1.com
 0.0.0.0 www.nytimes.no
+0.0.0.0 www.o67-theguard.com
 0.0.0.0 www.oainternet.com
 0.0.0.0 www.oaojd.com
 0.0.0.0 www.obanner.net
@@ -32496,6 +32549,8 @@
 0.0.0.0 www.starstream.com
 0.0.0.0 www.start-page.org
 0.0.0.0 www.statcount.com
+0.0.0.0 www.static.mb89-live.com
+0.0.0.0 www.static.o67-theguard.com
 0.0.0.0 www.statsector.hu
 0.0.0.0 www.statsession.com
 0.0.0.0 www.statsforever.com
