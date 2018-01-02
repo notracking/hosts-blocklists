@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Jan 2 00:43:07 CET 2018
-# Number of unique hostnames: 33661
+# Last update: Wed Jan 3 00:47:25 CET 2018
+# Number of unique hostnames: 33659
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -56,6 +56,7 @@
 0.0.0.0 100023.live173.com
 0.0.0.0 100.admin5.com
 0.0.0.0 100lend.in.net
+0.0.0.0 100.pncdn.cn
 0.0.0.0 104231.dtiblog.com
 0.0.0.0 109070-deutschland-gast-angabe-nachweis.sicherheitshilfe-sicherheitssystem.tk
 0.0.0.0 109-204-26-16.netconnexion.managedbroadband.co.uk
@@ -842,7 +843,6 @@
 0.0.0.0 a-api.dianview.com
 0.0.0.0 a.appcpa.net
 0.0.0.0 a.appjiagu.com
-0.0.0.0 a.applvn.com
 0.0.0.0 a.aproductmsg.com
 0.0.0.0 a.armystar.com
 0.0.0.0 aaron.fansju.com
@@ -6426,7 +6426,6 @@
 0.0.0.0 api.bailingjiankang.com
 0.0.0.0 apibatbrowsecom-a.akamaihd.net
 0.0.0.0 api.bee7.com
-0.0.0.0 api.behavioralengine.com
 0.0.0.0 apibeta.zeti.com
 0.0.0.0 apibetweenlinesn-a.akamaihd.net
 0.0.0.0 api.bitp.it
@@ -9121,7 +9120,6 @@
 0.0.0.0 cdn.banners.scubl.com
 0.0.0.0 cdn.banner.thumbplay.com
 0.0.0.0 cdn.beaconpush.com
-0.0.0.0 cdn.behavioralengine.com
 0.0.0.0 cdn.blackberryempire.com
 0.0.0.0 cdn.brcdn.com
 0.0.0.0 cdn.broadstreetads.com
@@ -11533,7 +11531,6 @@
 0.0.0.0 dap.digitalgov.gov
 0.0.0.0 dap.ntua.gr
 0.0.0.0 dap.pagechoice.net
-0.0.0.0 d.applvn.com
 0.0.0.0 darkavenger.hackfree.us
 0.0.0.0 dark.dataphyle.com
 0.0.0.0 dark.iboctn.org
@@ -13716,6 +13713,7 @@
 0.0.0.0 faceviewe.blogspot.com
 0.0.0.0 face--viewer.blogspot.com
 0.0.0.0 face-vip.ujm.pl
+0.0.0.0 facewatch.borec.cz
 0.0.0.0 face.workfromhomemightywomen.com
 0.0.0.0 face.zuzu10545.xyz
 0.0.0.0 fact.azsportsent.net
@@ -17479,6 +17477,7 @@
 0.0.0.0 kollory-fejsa.blogspot.com
 0.0.0.0 kolloryfejsa.blogspot.com
 0.0.0.0 kolorfacebooka24.blogspot.com
+0.0.0.0 kolor.oq.pl
 0.0.0.0 kolorowo.grupki.com
 0.0.0.0 kolorowy-f-b.blogspot.com
 0.0.0.0 kolorowy-fejs.blogspot.com
@@ -24046,7 +24045,6 @@
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rta.lifecountsllc.net
 0.0.0.0 rt.analytics.anvato.net
-0.0.0.0 rt.applvn.com
 0.0.0.0 rtas.videocc.net
 0.0.0.0 rtb.adjux.com
 0.0.0.0 rtb-pclick.secure.yahoo.com
@@ -25605,6 +25603,7 @@
 0.0.0.0 spproxy.autobytel.com
 0.0.0.0 sprawdzaj-gosci6.6te.net
 0.0.0.0 sprawdziany-odpowiedzi.bo.pl
+0.0.0.0 sprawdzikk.v0r.org
 0.0.0.0 sprawdzktopodgglada.blogspot.com
 0.0.0.0 sprawdz-ogladaj.bo.pl
 0.0.0.0 sprawdz-to.cba.pl
@@ -28332,7 +28331,6 @@
 0.0.0.0 traffic.erotik-portal.com
 0.0.0.0 trafficex.adlandpro.com
 0.0.0.0 traffic.firstmobilelink.com
-0.0.0.0 traffic.focuusing.com
 0.0.0.0 traffic.index.hu
 0.0.0.0 traffic.jackpot247.com
 0.0.0.0 traffic.libsyn.com
