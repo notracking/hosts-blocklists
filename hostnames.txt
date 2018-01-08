@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Jan 8 00:33:05 CET 2018
-# Number of unique hostnames: 33743
+# Last update: Tue Jan 9 00:39:05 CET 2018
+# Number of unique hostnames: 33746
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -6433,7 +6433,6 @@
 0.0.0.0 aphrodite.railsplayground.net
 0.0.0.0 api0.tuisong.baidu.com
 0.0.0.0 api15.cmdragracing.com
-0.0.0.0 api.1beb2a44.space
 0.0.0.0 api1.tuisong.baidu.com
 0.0.0.0 api2.analysys.cn
 0.0.0.0 api.2easydroid.com
@@ -11116,6 +11115,7 @@
 0.0.0.0 d1pdpbxj733bb1.cloudfront.net
 0.0.0.0 d1piupybsgr6dr.cloudfront.net
 0.0.0.0 d1.playboy.com
+0.0.0.0 d1pozdfelzfhyt.cloudfront.net
 0.0.0.0 d1pv6e37nco3b2.cloudfront.net
 0.0.0.0 d1q247yvaifpkc.cloudfront.net
 0.0.0.0 d1qfcp0bdb2hxl.cloudfront.net
@@ -17107,6 +17107,9 @@
 0.0.0.0 jpropst.altervista.org
 0.0.0.0 jpush.html5.qq.com
 0.0.0.0 jq8e9f.points.rapcitymayhem.net
+0.0.0.0 jqcdn01.herokuapp.com
+0.0.0.0 jqcdn03.herokuapp.com
+0.0.0.0 jqcdn2.herokuapp.com
 0.0.0.0 jqmt.qq.com
 0.0.0.0 jrclick.jd.com
 0.0.0.0 jrlt.beacon.qq.com
@@ -20018,6 +20021,8 @@
 0.0.0.0 mx4.weishiqiang.cn
 0.0.0.0 m.xc0429.com
 0.0.0.0 m.xcams.com
+0.0.0.0 mxcdn1.now.sh
+0.0.0.0 mxcdn2.now.sh
 0.0.0.0 m.xigeng0375.com
 0.0.0.0 m.xingxd.com
 0.0.0.0 mxmodd.mxmfb.com
@@ -20524,6 +20529,7 @@
 0.0.0.0 now.thecentsofcommunitycard.com
 0.0.0.0 now.thejesusteachings.com
 0.0.0.0 np7beacon.cloudapp.net
+0.0.0.0 npcdn1.now.sh
 0.0.0.0 np.lexity.com
 0.0.0.0 n.popclck.org
 0.0.0.0 nrads.1host.co.il
@@ -26837,6 +26843,11 @@
 0.0.0.0 swswfwsf.beckmenlaw.net
 0.0.0.0 swwsbk.greatriverohio.net
 0.0.0.0 swwsg.mylifemirror.com
+0.0.0.0 sxcdn02.now.sh
+0.0.0.0 sxcdn1.herokuapp.com
+0.0.0.0 sxcdn4.now.sh
+0.0.0.0 sxcdn5.herokuapp.com
+0.0.0.0 sxcdn6.now.sh
 0.0.0.0 s.xcfe.cn
 0.0.0.0 s.x.cn.xtgreat.com
 0.0.0.0 sxdnserror1.wo.com.cn
@@ -30276,6 +30287,7 @@
 0.0.0.0 wp3r75.japan.katsujinkendojo.co.uk
 0.0.0.0 wpa.qq.com
 0.0.0.0 wpc.32df9.rhocdn.net
+0.0.0.0 wpcdn1.herokuapp.com
 0.0.0.0 wpk.edu.hk
 0.0.0.0 wpkoszyk.wp.pl
 0.0.0.0 wp-stat.s3.amazonasw.com
@@ -30306,7 +30318,6 @@
 0.0.0.0 ws05.home.sapo.pt
 0.0.0.0 ws06.home.sapo.pt
 0.0.0.0 ws10.surf-town.net
-0.0.0.0 ws1.1beb2a44.space
 0.0.0.0 ws11.surf-town.net
 0.0.0.0 ws12.surf-town.net
 0.0.0.0 ws13.surf-town.net
@@ -30319,7 +30330,6 @@
 0.0.0.0 ws1.datouniao.com
 0.0.0.0 ws1.surf-town.net
 0.0.0.0 ws20.surf-town.net
-0.0.0.0 ws2.1beb2a44.space
 0.0.0.0 ws21.surf-town.net
 0.0.0.0 ws22.surf-town.net
 0.0.0.0 ws23.surf-town.net
@@ -30332,19 +30342,12 @@
 0.0.0.0 ws2.cootekservice.com
 0.0.0.0 ws2.datouniao.com
 0.0.0.0 ws2.surf-town.net
-0.0.0.0 ws3.1beb2a44.space
 0.0.0.0 ws3.surf-town.net
-0.0.0.0 ws4.1beb2a44.space
 0.0.0.0 ws4.surf-town.net
-0.0.0.0 ws5.1beb2a44.space
 0.0.0.0 ws5.surf-town.net
-0.0.0.0 ws6.1beb2a44.space
 0.0.0.0 ws6.surf-town.net
-0.0.0.0 ws7.1beb2a44.space
 0.0.0.0 ws7.surf-town.net
-0.0.0.0 ws8.1beb2a44.space
 0.0.0.0 ws8.surf-town.net
-0.0.0.0 ws9.1beb2a44.space
 0.0.0.0 ws9.surf-town.net
 0.0.0.0 ws.amazon.com
 0.0.0.0 wsb1.surf-town.net
@@ -33753,7 +33756,7 @@
 0.0.0.0 zzpush.58.com
 0.0.0.0 zzrv1uha.njylyljg.com
 0.0.0.0 zzskmmdu.cz.cc
-0.0.0.0 zzwzjidz.bid0.0.0.0 1beb2a44.space
+0.0.0.0 zzwzjidz.bid0.0.0 0
 0.0.0.0 zzy1.mipujia.com
 0.0.0.0 zzy.mipujia.com
 0.0.0.0 zzz7.52896368.com
