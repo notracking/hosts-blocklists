@@ -84,6 +84,11 @@ At this moment it is recommended to set up you own dnsmasq configuration to make
  - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
  - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
  - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
+ - https://raw.githubusercontent.com/abpvn/abpvn/master/filter/src/abpvn_general.txt
+ - https://raw.githubusercontent.com/szpeter80/hufilter/master/hufilter.txt
+ - https://easylist-downloads.adblockplus.org/advblock.txt
+ - https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
+
 
 # Lists that will NOT be included
  - http://hosts-file.net/fsa.txt `too many false calls`
