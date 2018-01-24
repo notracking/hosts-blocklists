@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Jan 23 01:10:39 CET 2018
-# Number of unique hostnames: 34637
+# Last update: Wed Jan 24 01:10:15 CET 2018
+# Number of unique hostnames: 34653
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -1264,6 +1264,7 @@
 0.0.0.0 ad33.atlas.cz
 0.0.0.0 ad34.atlas.cz
 0.0.0.0 ad35.atlas.cz
+0.0.0.0 ad.360in.com
 0.0.0.0 ad36.atlas.cz
 0.0.0.0 ad37.atlas.cz
 0.0.0.0 ad.37.com
@@ -1379,6 +1380,7 @@
 0.0.0.0 ad.anuntis.com
 0.0.0.0 ad.aorta-net.com
 0.0.0.0 ad-api.cnblogs.com
+0.0.0.0 ad.api.kaffnet.com
 0.0.0.0 adapi.lenovogame.com
 0.0.0.0 ad.api.moji.com
 0.0.0.0 adapi.ragapa.com
@@ -1487,6 +1489,7 @@
 0.0.0.0 ad.clickdistrict.com
 0.0.0.0 adclick.gamespy.com
 0.0.0.0 adclick.g.doublecklick.net
+0.0.0.0 ad.click.kaffnet.com
 0.0.0.0 adclick.mint.se
 0.0.0.0 ad.clicknet.com.tr
 0.0.0.0 ad.clickotmedia.com
@@ -6715,6 +6718,7 @@
 0.0.0.0 api.ad-patrick.com
 0.0.0.0 api.adquality.ch
 0.0.0.0 api.adrenalads.com
+0.0.0.0 api.ad.snappea.com
 0.0.0.0 api.adv.ott.cibntv.net
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 apiae.hopscore.com
@@ -7416,6 +7420,7 @@
 0.0.0.0 a.velvet.by
 0.0.0.0 a.villeges.com
 0.0.0.0 a.visadd.com
+0.0.0.0 a.volvelle.tech
 0.0.0.0 a.vonage.com
 0.0.0.0 avpa.dzone.com
 0.0.0.0 avpa.javalobby.org
@@ -12351,6 +12356,7 @@
 0.0.0.0 ddkbyyg.qhigh.com
 0.0.0.0 ddkkrrla.m.qxs.la
 0.0.0.0 dd.liberty-llc.com
+0.0.0.0 dd.mangofortune.net
 0.0.0.0 dd.myapp.com
 0.0.0.0 ddos.93se.com
 0.0.0.0 dd.redmensteakjerky.info
@@ -13911,6 +13917,7 @@
 0.0.0.0 eu0.content-serve.net
 0.0.0.0 eu1.recompenses.win
 0.0.0.0 euapi.ibm.xtify.com
+0.0.0.0 eu.a.volvelle.tech
 0.0.0.0 eue.collect-opnet.com
 0.0.0.0 eufdxm.000webhostapp.com
 0.0.0.0 euib.iewical.eu
@@ -17133,7 +17140,6 @@
 0.0.0.0 instituerezpressend.specialday.events
 0.0.0.0 institutomariadapenha.org.br
 0.0.0.0 instruminahui.edu.ec
-0.0.0.0 int.anon-ib.co
 0.0.0.0 int.cdn.hw.installzone.info
 0.0.0.0 intel.blueskywatertanks.com
 0.0.0.0 intelhdgraphicsgtdrive6w.metroblog.com
@@ -19972,6 +19978,7 @@
 0.0.0.0 mfsr.lenovomm.com
 0.0.0.0 m.fxbga.com
 0.0.0.0 m.game.weibo.cn
+0.0.0.0 m.gameyun907.net
 0.0.0.0 m.gdyyyg.net
 0.0.0.0 mgfd1b.petrix.net
 0.0.0.0 mg.games.sina.com.cn
@@ -20447,12 +20454,14 @@
 0.0.0.0 msn.uvwbox.de
 0.0.0.0 msn.wrating.com
 0.0.0.0 msoftdl.360.cn
+0.0.0.0 ms.qaqact.cn
 0.0.0.0 mssp.baidu.com
 0.0.0.0 mssqladmin.surf-town.net
 0.0.0.0 mst.f1foodies.info
 0.0.0.0 ms.vipstatic.com
 0.0.0.0 msxml.webcrawler.com
 0.0.0.0 ms.yandex.ru
+0.0.0.0 m.symac.cn
 0.0.0.0 m.symah.cn
 0.0.0.0 m.symaw.cn
 0.0.0.0 mt.adquality.ch
@@ -21215,6 +21224,7 @@
 0.0.0.0 nzads.net.nz
 0.0.0.0 nzfilecloud.weebly.com
 0.0.0.0 nztv.netzero.net
+0.0.0.0 o.08jm.cn
 0.0.0.0 o0-er3.cashixirbozdur.com
 0.0.0.0 o0.winfuture.de
 0.0.0.0 o1b257.koll.pershoreairporttransfers.co.uk
@@ -22513,6 +22523,7 @@
 0.0.0.0 paypal.com.paypalclient098093209jkbnnov9839fnoof9.paypal.com.paypal.com.paypalclient098093209jkbnnov9839fnoof9.paypal.com.secured.superbmedia.net
 0.0.0.0 paypal.com.privacyaccount.resolutioncenter.updateinformation.supportaccount.pagelogin.uybv78t.org
 0.0.0.0 paypal.com.resolutioncenter.privacypolicy.updatecenter.loginpage-xsaucs7a56sa7c.c3v4.space
+0.0.0.0 paypal.com-resolution.center-ujpmq2vvcy7.l06v.com
 0.0.0.0 paypal.com.secure.information1.vineyardadvice.com
 0.0.0.0 paypal.com.secure.information.vineyardadvice.com
 0.0.0.0 paypal.comservice.cf
@@ -28626,6 +28637,7 @@
 0.0.0.0 tracker.dawanda.in
 0.0.0.0 tracker.departapp.com
 0.0.0.0 tracker.dev.hearst.nl
+0.0.0.0 tracker.divvit.com
 0.0.0.0 tracker.drippler.com
 0.0.0.0 tracker.egora.fr
 0.0.0.0 tracker.emailaptitude.com
@@ -29941,6 +29953,7 @@
 0.0.0.0 usdtop.58.com
 0.0.0.0 us.e1.yimg.com
 0.0.0.0 us-east-1.profile-api.ads.linkedin.com
+0.0.0.0 use.a.volvelle.tech
 0.0.0.0 use.convertglobal.com
 0.0.0.0 usenet.raidrush.org
 0.0.0.0 use.pickleup.com
@@ -29991,6 +30004,7 @@
 0.0.0.0 us.v1.yimg.com
 0.0.0.0 us.w1.yimg.com
 0.0.0.0 us.wa.ui-portal.com
+0.0.0.0 usw.a.volvelle.tech
 0.0.0.0 us.webprodcdn.com
 0.0.0.0 us.winninganswers.net
 0.0.0.0 us.x1.yimg.com
@@ -30414,6 +30428,7 @@
 0.0.0.0 vokr-gtavc.ic.cz
 0.0.0.0 vok.thedistillery.co
 0.0.0.0 voluum.redirecting.site
+0.0.0.0 volvelle-ads-cdn.azureedge.net
 0.0.0.0 vomit.facilitandosonhos.com.br
 0.0.0.0 voordeel.ad.nl
 0.0.0.0 voortgeleefdetoetssituasie.garyb2.com
@@ -31810,6 +31825,7 @@
 0.0.0.0 www.aussiemoneymethod.com
 0.0.0.0 www.autoappassionati.it
 0.0.0.0 www.au-toloan.info
+0.0.0.0 www.a.volvelle.tech
 0.0.0.0 www.awalkerjones.com
 0.0.0.0 www.awmads.com
 0.0.0.0 www.axill.com
