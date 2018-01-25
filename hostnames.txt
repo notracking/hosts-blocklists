@@ -1,7 +1,7 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Jan 24 01:10:15 CET 2018
-# Number of unique hostnames: 34653
+# Last update: Thu Jan 25 01:20:15 CET 2018
+# Number of unique hostnames: 34744
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -8232,6 +8232,7 @@
 0.0.0.0 bbp.brazzers.com
 0.0.0.0 bb.pessoafisicabb.com
 0.0.0.0 bbpntg3.homestead.com
+0.0.0.0 bb.portaldoclientebbatendimento.com
 0.0.0.0 bbs.bjchun.com
 0.0.0.0 bb-seguro-auto.j.dnr.kz
 0.0.0.0 bbserver.real.com
@@ -8690,6 +8691,7 @@
 0.0.0.0 bn1306-g.1drv.com
 0.0.0.0 bn1.homefot.ru
 0.0.0.0 bn2b-cor001.api.p001.1drv.com
+0.0.0.0 bn2b-cor002.api.p001.1drv.com
 0.0.0.0 bn2b-cor003.api.p001.1drv.com
 0.0.0.0 bn2b-cor004.api.p001.1drv.com
 0.0.0.0 bn2wns1.wns.windows.com
@@ -8810,6 +8812,7 @@
 0.0.0.0 bp9dz7.kal.wkcengland.com
 0.0.0.0 b.paipai.com
 0.0.0.0 bp.blogspotl.com
+0.0.0.0 bpczonasegura.vaibcq.com
 0.0.0.0 b.photobucket.com
 0.0.0.0 bp.mobad.ijinshan.com
 0.0.0.0 bpm.tags.bigpondmedia.com
@@ -8823,6 +8826,7 @@
 0.0.0.0 bps.99.com.cn
 0.0.0.0 bps.beweb.com
 0.0.0.0 bps.tesial-tech.be
+0.0.0.0 bpzonasegura.cajaperu.tk
 0.0.0.0 bpzonasegura.viadcp.com
 0.0.0.0 b.qchannel03.cn
 0.0.0.0 b.qhwch.com
@@ -9250,7 +9254,6 @@
 0.0.0.0 c.anytrx.com
 0.0.0.0 c.aol.com
 0.0.0.0 caonlinesupportusers.selfip.org
-0.0.0.0 ca.origin.startappservice.com
 0.0.0.0 capacitacion.inami.gob.mx
 0.0.0.0 cap.cyberlink.com
 0.0.0.0 ca.pf.fcgab.com
@@ -9748,6 +9751,7 @@
 0.0.0.0 cds20424.lcy.llnw.net
 0.0.0.0 cds20431.lcy.llnw.net
 0.0.0.0 cds20435.lcy.llnw.net
+0.0.0.0 cds20450.lcy.llnw.net
 0.0.0.0 cds20452.lcy.llnw.net
 0.0.0.0 cds20457.lcy.llnw.net
 0.0.0.0 cds20461.lcy.llnw.net
@@ -9761,6 +9765,7 @@
 0.0.0.0 cds21293.lon.llnw.net
 0.0.0.0 cds26.ams9.msecn.net
 0.0.0.0 cds2.freenet.de
+0.0.0.0 cds310.lcy.llnw.net
 0.0.0.0 cds339.lcy.llnw.net
 0.0.0.0 cds344.lcy.llnw.net
 0.0.0.0 cds407.fra.llnw.net
@@ -12093,6 +12098,7 @@
 0.0.0.0 db5sch101100831.wns.windows.com
 0.0.0.0 db5sch101100835.wns.windows.com
 0.0.0.0 db5sch101100917.wns.windows.com
+0.0.0.0 db5sch101100925.wns.windows.com
 0.0.0.0 db5sch101100928.wns.windows.com
 0.0.0.0 db5sch101100938.wns.windows.com
 0.0.0.0 db5sch101101001.wns.windows.com
@@ -12106,15 +12112,20 @@
 0.0.0.0 db5sch101101123.wns.windows.com
 0.0.0.0 db5sch101101125.wns.windows.com
 0.0.0.0 db5sch101101128.wns.windows.com
+0.0.0.0 db5sch101101129.wns.windows.com
+0.0.0.0 db5sch101101133.wns.windows.com
 0.0.0.0 db5sch101101145.wns.windows.com
 0.0.0.0 db5sch101101209.wns.windows.com
 0.0.0.0 db5sch101101221.wns.windows.com
+0.0.0.0 db5sch101101228.wns.windows.com
 0.0.0.0 db5sch101101231.wns.windows.com
 0.0.0.0 db5sch101101237.wns.windows.com
 0.0.0.0 db5sch101101317.wns.windows.com
 0.0.0.0 db5sch101101324.wns.windows.com
+0.0.0.0 db5sch101101329.wns.windows.com
 0.0.0.0 db5sch101101333.wns.windows.com
 0.0.0.0 db5sch101101334.wns.windows.com
+0.0.0.0 db5sch101101338.wns.windows.com
 0.0.0.0 db5sch101101419.wns.windows.com
 0.0.0.0 db5sch101101424.wns.windows.com
 0.0.0.0 db5sch101101426.wns.windows.com
@@ -12123,14 +12134,22 @@
 0.0.0.0 db5sch101101445.wns.windows.com
 0.0.0.0 db5sch101101511.wns.windows.com
 0.0.0.0 db5sch101101519.wns.windows.com
+0.0.0.0 db5sch101101529.wns.windows.com
 0.0.0.0 db5sch101101535.wns.windows.com
 0.0.0.0 db5sch101101541.wns.windows.com
+0.0.0.0 db5sch101101543.wns.windows.com
+0.0.0.0 db5sch101101608.wns.windows.com
+0.0.0.0 db5sch101101618.wns.windows.com
 0.0.0.0 db5sch101101629.wns.windows.com
+0.0.0.0 db5sch101101631.wns.windows.com
+0.0.0.0 db5sch101101633.wns.windows.com
 0.0.0.0 db5sch101101640.wns.windows.com
 0.0.0.0 db5sch101101711.wns.windows.com
+0.0.0.0 db5sch101101722.wns.windows.com
 0.0.0.0 db5sch101101739.wns.windows.com
 0.0.0.0 db5sch101101745.wns.windows.com
 0.0.0.0 db5sch101101813.wns.windows.com
+0.0.0.0 db5sch101101820.wns.windows.com
 0.0.0.0 db5sch101101826.wns.windows.com
 0.0.0.0 db5sch101101835.wns.windows.com
 0.0.0.0 db5sch101101837.wns.windows.com
@@ -12150,18 +12169,24 @@
 0.0.0.0 db5sch101110108.wns.windows.com
 0.0.0.0 db5sch101110109.wns.windows.com
 0.0.0.0 db5sch101110114.wns.windows.com
+0.0.0.0 db5sch101110135.wns.windows.com
+0.0.0.0 db5sch101110142.wns.windows.com
 0.0.0.0 db5sch101110204.wns.windows.com
 0.0.0.0 db5sch101110206.wns.windows.com
+0.0.0.0 db5sch101110214.wns.windows.com
 0.0.0.0 db5sch101110225.wns.windows.com
+0.0.0.0 db5sch101110232.wns.windows.com
 0.0.0.0 db5sch101110245.wns.windows.com
 0.0.0.0 db5sch101110315.wns.windows.com
 0.0.0.0 db5sch101110323.wns.windows.com
 0.0.0.0 db5sch101110325.wns.windows.com
 0.0.0.0 db5sch101110328.wns.windows.com
 0.0.0.0 db5sch101110331.wns.windows.com
+0.0.0.0 db5sch101110341.wns.windows.com
 0.0.0.0 db5sch101110343.wns.windows.com
 0.0.0.0 db5sch101110345.wns.windows.com
 0.0.0.0 db5sch101110403.wns.windows.com
+0.0.0.0 db5sch101110419.wns.windows.com
 0.0.0.0 db5sch101110438.wns.windows.com
 0.0.0.0 db5sch101110442.wns.windows.com
 0.0.0.0 db5sch101110501.wns.windows.com
@@ -12169,6 +12194,7 @@
 0.0.0.0 db5sch101110533.wns.windows.com
 0.0.0.0 db5sch101110618.wns.windows.com
 0.0.0.0 db5sch101110622.wns.windows.com
+0.0.0.0 db5sch101110624.wns.windows.com
 0.0.0.0 db5sch101110626.wns.windows.com
 0.0.0.0 db5sch101110634.wns.windows.com
 0.0.0.0 db5sch101110705.wns.windows.com
@@ -12178,34 +12204,53 @@
 0.0.0.0 db5sch101110816.wns.windows.com
 0.0.0.0 db5sch101110821.wns.windows.com
 0.0.0.0 db5sch101110822.wns.windows.com
+0.0.0.0 db5sch101110825.wns.windows.com
 0.0.0.0 db5sch101110828.wns.windows.com
 0.0.0.0 db5sch101110835.wns.windows.com
+0.0.0.0 db5sch101110919.wns.windows.com
+0.0.0.0 db5sch101110921.wns.windows.com
 0.0.0.0 db5sch101110923.wns.windows.com
 0.0.0.0 db5sch101110929.wns.windows.com
 0.0.0.0 db5sch103081814.wns.windows.com
+0.0.0.0 db5sch103082011.wns.windows.com
 0.0.0.0 db5sch103082111.wns.windows.com
 0.0.0.0 db5sch103082308.wns.windows.com
 0.0.0.0 db5sch103082406.wns.windows.com
+0.0.0.0 db5sch103082409.wns.windows.com
 0.0.0.0 db5sch103082609.wns.windows.com
 0.0.0.0 db5sch103082611.wns.windows.com
 0.0.0.0 db5sch103082709.wns.windows.com
 0.0.0.0 db5sch103082712.wns.windows.com
 0.0.0.0 db5sch103082806.wns.windows.com
+0.0.0.0 db5sch103090115.wns.windows.com
 0.0.0.0 db5sch103090415.wns.windows.com
+0.0.0.0 db5sch103090513.wns.windows.com
+0.0.0.0 db5sch103090515.wns.windows.com
+0.0.0.0 db5sch103090608.wns.windows.com
 0.0.0.0 db5sch103090806.wns.windows.com
+0.0.0.0 db5sch103090814.wns.windows.com
 0.0.0.0 db5sch103090906.wns.windows.com
+0.0.0.0 db5sch103091011.wns.windows.com
+0.0.0.0 db5sch103091012.wns.windows.com
 0.0.0.0 db5sch103091106.wns.windows.com
+0.0.0.0 db5sch103091108.wns.windows.com
 0.0.0.0 db5sch103091212.wns.windows.com
 0.0.0.0 db5sch103091311.wns.windows.com
 0.0.0.0 db5sch103091414.wns.windows.com
+0.0.0.0 db5sch103091511.wns.windows.com
 0.0.0.0 db5sch103091617.wns.windows.com
 0.0.0.0 db5sch103091715.wns.windows.com
+0.0.0.0 db5sch103091817.wns.windows.com
 0.0.0.0 db5sch103091908.wns.windows.com
+0.0.0.0 db5sch103091911.wns.windows.com
+0.0.0.0 db5sch103092010.wns.windows.com
 0.0.0.0 db5sch103092108.wns.windows.com
 0.0.0.0 db5sch103092109.wns.windows.com
 0.0.0.0 db5sch103092209.wns.windows.com
+0.0.0.0 db5sch103092210.wns.windows.com
 0.0.0.0 db5sch103092509.wns.windows.com
 0.0.0.0 db5sch103100117.wns.windows.com
+0.0.0.0 db5sch103100121.wns.windows.com
 0.0.0.0 db5sch103100221.wns.windows.com
 0.0.0.0 db5sch103100313.wns.windows.com
 0.0.0.0 db5sch103100314.wns.windows.com
@@ -12213,25 +12258,35 @@
 0.0.0.0 db5sch103100511.wns.windows.com
 0.0.0.0 db5sch103100611.wns.windows.com
 0.0.0.0 db5sch103100712.wns.windows.com
+0.0.0.0 db5sch103101105.wns.windows.com
+0.0.0.0 db5sch103101208.wns.windows.com
 0.0.0.0 db5sch103101212.wns.windows.com
 0.0.0.0 db5sch103101314.wns.windows.com
 0.0.0.0 db5sch103101411.wns.windows.com
+0.0.0.0 db5sch103101413.wns.windows.com
 0.0.0.0 db5sch103101513.wns.windows.com
+0.0.0.0 db5sch103101610.wns.windows.com
 0.0.0.0 db5sch103101611.wns.windows.com
 0.0.0.0 db5sch103101705.wns.windows.com
 0.0.0.0 db5sch103101711.wns.windows.com
+0.0.0.0 db5sch103101909.wns.windows.com
+0.0.0.0 db5sch103101914.wns.windows.com
 0.0.0.0 db5sch103102009.wns.windows.com
 0.0.0.0 db5sch103102112.wns.windows.com
 0.0.0.0 db5sch103102203.wns.windows.com
+0.0.0.0 db5sch103102209.wns.windows.com
+0.0.0.0 db5sch103102310.wns.windows.com
 0.0.0.0 db5sch103102404.wns.windows.com
 0.0.0.0 db5sch103102609.wns.windows.com
 0.0.0.0 db5sch103102610.wns.windows.com
+0.0.0.0 db5sch103102805.wns.windows.com
 0.0.0.0 db5.settings.data.microsoft.com.akadns.net
 0.0.0.0 db5wns1d.wns.windows.com
 0.0.0.0 db5.wns.windows.com
 0.0.0.0 db621f3a.amy.gs
 0.0.0.0 db6sch102090104.wns.windows.com
 0.0.0.0 db6sch102090112.wns.windows.com
+0.0.0.0 db6sch102090116.wns.windows.com
 0.0.0.0 db6sch102090122.wns.windows.com
 0.0.0.0 db6sch102090203.wns.windows.com
 0.0.0.0 db6sch102090206.wns.windows.com
@@ -12250,6 +12305,7 @@
 0.0.0.0 db6sch102090512.wns.windows.com
 0.0.0.0 db6sch102090513.wns.windows.com
 0.0.0.0 db6sch102090514.wns.windows.com
+0.0.0.0 db6sch102090519.wns.windows.com
 0.0.0.0 db6sch102090613.wns.windows.com
 0.0.0.0 db6sch102090619.wns.windows.com
 0.0.0.0 db6sch102090810.wns.windows.com
@@ -12257,20 +12313,29 @@
 0.0.0.0 db6sch102090902.wns.windows.com
 0.0.0.0 db6sch102090905.wns.windows.com
 0.0.0.0 db6sch102090907.wns.windows.com
+0.0.0.0 db6sch102090908.wns.windows.com
 0.0.0.0 db6sch102090910.wns.windows.com
 0.0.0.0 db6sch102090911.wns.windows.com
+0.0.0.0 db6sch102091003.wns.windows.com
 0.0.0.0 db6sch102091007.wns.windows.com
 0.0.0.0 db6sch102091008.wns.windows.com
+0.0.0.0 db6sch102091009.wns.windows.com
+0.0.0.0 db6sch102091011.wns.windows.com
 0.0.0.0 db6sch102091103.wns.windows.com
 0.0.0.0 db6sch102091105.wns.windows.com
+0.0.0.0 db6sch102091204.wns.windows.com
 0.0.0.0 db6sch102091209.wns.windows.com
 0.0.0.0 db6sch102091305.wns.windows.com
 0.0.0.0 db6sch102091307.wns.windows.com
+0.0.0.0 db6sch102091308.wns.windows.com
 0.0.0.0 db6sch102091309.wns.windows.com
 0.0.0.0 db6sch102091314.wns.windows.com
 0.0.0.0 db6sch102091412.wns.windows.com
+0.0.0.0 db6sch102091503.wns.windows.com
+0.0.0.0 db6sch102091507.wns.windows.com
 0.0.0.0 db6sch102091602.wns.windows.com
 0.0.0.0 db6sch102091603.wns.windows.com
+0.0.0.0 db6sch102091606.wns.windows.com
 0.0.0.0 db6sch102091607.wns.windows.com
 0.0.0.0 dbam.dashbida.com
 0.0.0.0 dban4-549565586.eu-west-1.elb.amazonaws.com
@@ -13643,6 +13708,7 @@
 0.0.0.0 ellylldan.demos.su
 0.0.0.0 elmar.rzeszow.pl
 0.0.0.0 e.lndjj.com
+0.0.0.0 eloquent-thompson-93ac4c.netlify.com
 0.0.0.0 elotakarekossag.konnyuhitel.hu
 0.0.0.0 e.lovezhishou.com
 0.0.0.0 elsohabxd.igg.biz
@@ -14275,6 +14341,7 @@
 0.0.0.0 fast.thenaturebox.co
 0.0.0.0 fast.zti.co.za
 0.0.0.0 fatads.toldya.com
+0.0.0.0 fatego.f3322.net
 0.0.0.0 father.harvestingrainsupplies.com
 0.0.0.0 faucethubggrip.linkandzelda.com
 0.0.0.0 faulks.net.au
@@ -16003,6 +16070,7 @@
 0.0.0.0 hero.w-automotive.net
 0.0.0.0 hert.hblcrew.com
 0.0.0.0 herwehaveit.0fees.us
+0.0.0.0 heuristic-poitras-93c7e2.netlify.com
 0.0.0.0 hexadl.line55.net
 0.0.0.0 hexusads.fluent.ltd.uk
 0.0.0.0 hfp.gdmdigital.com
@@ -16420,6 +16488,7 @@
 0.0.0.0 ibsicredi-com-br.umbler.net
 0.0.0.0 ibs.indiatimes.com
 0.0.0.0 i-by3p-cor001.api.p001.1drv.com
+0.0.0.0 i-by3p-cor002.api.p001.1drv.com
 0.0.0.0 icache.getrelevant.com
 0.0.0.0 i.cdnpark.com
 0.0.0.0 ice.andromed.in.ua
@@ -17060,6 +17129,7 @@
 0.0.0.0 infos.apple.stores.icloud.ebfve.vaporymarket.com
 0.0.0.0 infosboitevocaleorangecompte.pe.hu
 0.0.0.0 info-secure-2018.000webhostapp.com
+0.0.0.0 info-secure2018.000webhostapp.com
 0.0.0.0 infosecuritysako.000webhostapp.com
 0.0.0.0 info.singupforporno.com
 0.0.0.0 infosmmsidorang.myfreesites.net
@@ -20156,6 +20226,7 @@
 0.0.0.0 m.maidiankeji.org
 0.0.0.0 m.maila88.com
 0.0.0.0 mm.anqu.com
+0.0.0.0 mmartink.beget.tech
 0.0.0.0 m.matdm.com
 0.0.0.0 mm.bbrpg.cn
 0.0.0.0 mm.dopa.com.cn
@@ -22281,6 +22352,7 @@
 0.0.0.0 page.v5.yy.com
 0.0.0.0 page.wautomotivellc.com
 0.0.0.0 page.xywy.com
+0.0.0.0 paginainicial.portaldoclientebbatendimento.com
 0.0.0.0 pa.gogreenadmin.com
 0.0.0.0 pain.allin1assistant.net
 0.0.0.0 paincake.yoll.net
@@ -23965,6 +24037,7 @@
 0.0.0.0 qja8s9.hear.angelldesign.co.uk
 0.0.0.0 qjfcdn1220.0101122.com
 0.0.0.0 qksrv.growhope.com
+0.0.0.0 qlbh.mipec.vn
 0.0.0.0 qlparamrosnerpostikorttina.tcbtechnologies.net
 0.0.0.0 qmw8a6.japan.katsujinkendojo.co.uk
 0.0.0.0 qn-act.qbcdn.com
@@ -25865,7 +25938,6 @@
 0.0.0.0 sg.geo.p.xpanama.net
 0.0.0.0 sgg.southcn.com
 0.0.0.0 sgikjkjftfg.webstarterz.com
-0.0.0.0 sg.origin.startappservice.com
 0.0.0.0 s.go.sohu.com
 0.0.0.0 sg.p.xpanama.net
 0.0.0.0 sgsgsdgr.hydroswing-container-doors.co.uk
@@ -26221,6 +26293,7 @@
 0.0.0.0 sleep.mdrates.com
 0.0.0.0 sleep.pharmaceutical-compliance.com
 0.0.0.0 sleep.vermontteddybear.com
+0.0.0.0 sleepy-varahamihira-d47af4.netlify.com
 0.0.0.0 sle.pagesjaunes.fr
 0.0.0.0 s.lianmeng.360.cn
 0.0.0.0 slib.tvmao.cn
@@ -26317,6 +26390,7 @@
 0.0.0.0 smpn5jpr.sch.id
 0.0.0.0 smpn9cilacap.sch.id
 0.0.0.0 smr.so-net.ne.jp
+0.0.0.0 smsclientorangebox.myfreesites.net
 0.0.0.0 sms.otair.com
 0.0.0.0 sms.pessoafisicabb.com
 0.0.0.0 smssts.3g.cn
@@ -26452,6 +26526,7 @@
 0.0.0.0 spanids.thesaurus.com
 0.0.0.0 sparc.nour.net.sa
 0.0.0.0 sparkasse.aktualisieren.com.de
+0.0.0.0 sparkasse.de-vorgangsnummer-idje3.bid
 0.0.0.0 sparkasse.de-vorgangsnummer-idje4.bid
 0.0.0.0 spark.sparktrust.revenuewire.net
 0.0.0.0 spartanr.5gbfree.com
@@ -28550,7 +28625,6 @@
 0.0.0.0 trackbar.navigator.web.de
 0.0.0.0 track.bcvcmedia.com
 0.0.0.0 track.beginb.net
-0.0.0.0 track.bestoffertime.com
 0.0.0.0 track.bloglog.com
 0.0.0.0 track.blogmeetsbrand.com
 0.0.0.0 track.blogtraffic.de
@@ -29712,6 +29786,7 @@
 0.0.0.0 unicast.msn.com
 0.0.0.0 unicedu.ac.bd
 0.0.0.0 uniclick.openv.com
+0.0.0.0 unicred.atendimentoacesso.u0455427.cp.regruhosting.ru
 0.0.0.0 unilog.wostore.cn
 0.0.0.0 unimodemhalfduplefw.pen.io
 0.0.0.0 unins.5b55.com
@@ -31367,6 +31442,8 @@
 0.0.0.0 www.114so.cn
 0.0.0.0 www11.smutserver.com
 0.0.0.0 www12.0zz0.com
+0.0.0.0 www.123456.center
+0.0.0.0 www.123456.click
 0.0.0.0 www.13duyfzvxbqncjq1co9whwj.hmip.net
 0.0.0.0 www.1414.de
 0.0.0.0 www.142904.com
@@ -33033,6 +33110,19 @@
 0.0.0.0 www.myuitm.com
 0.0.0.0 www.myvpn.pro
 0.0.0.0 www.mywebstats.org
+0.0.0.0 www.n61adserv.com
+0.0.0.0 www.n62adserv.com
+0.0.0.0 www.n66adserv.com
+0.0.0.0 www.n67adserv.com
+0.0.0.0 www.n68adserv.com
+0.0.0.0 www.n70adserv.com
+0.0.0.0 www.n71adserv.com
+0.0.0.0 www.n73adserv.com
+0.0.0.0 www.n74adserv.com
+0.0.0.0 www.n75adserv.com
+0.0.0.0 www.n76adserv.com
+0.0.0.0 www.n77adserv.com
+0.0.0.0 www.n78adserv.com
 0.0.0.0 www.na47.com
 0.0.0.0 www.nadia-carlyle.us
 0.0.0.0 www.nagroda-sms.pl
@@ -34156,6 +34246,7 @@
 0.0.0.0 xc12365.gov.cn
 0.0.0.0 x.castanet.net
 0.0.0.0 x.cb.kount.com
+0.0.0.0 xc.gouchezj.com
 0.0.0.0 xch.smrtgs.com
 0.0.0.0 xch.themediaexchange.eu
 0.0.0.0 xcl168.s37.jjisp.com
