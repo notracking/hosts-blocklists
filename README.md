@@ -44,7 +44,7 @@ At this moment it is recommended to set up you own dnsmasq configuration to make
  - http://hosts-file.net/exp.txt
  - http://hosts-file.net/mmt.txt
  - http://pgl.yoyo.org/as/serverlist.php?hostformat=hosts
- - https://raw.github.com/StevenBlack/hosts/master/hosts
+ - https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
  - https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt
  - https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
  - http://malwaredomains.lehigh.edu/files/BOOT
@@ -65,6 +65,13 @@ At this moment it is recommended to set up you own dnsmasq configuration to make
  - https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
  - https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt
  - https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser
+ - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/SpotifyAds/hosts
+ - https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
+ - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
+ - https://raw.githubusercontent.com/tyzbit/hosts/master/data/tyzbit/hosts
+ - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
+ - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
+ - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts
  - a large set of custom entries
   
 **Adblock Plus lists** (only full hostname, non-3rd party filters)
