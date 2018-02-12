@@ -65,7 +65,7 @@ At this moment it is recommended to set up you own dnsmasq configuration to make
  - https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
  - https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt
  - https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser
- - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/SpotifyAds/hosts
+ - https://raw.githubusercontent.com/FadeMind/hosts.extended/master/data/SpotifyAds/hosts
  - https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
  - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
  - https://raw.githubusercontent.com/tyzbit/hosts/master/data/tyzbit/hosts
