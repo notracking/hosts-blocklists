@@ -29,9 +29,16 @@ addn-hosts=/path/to/hostnames.txt
 ```
  - Restart dnsmasq `sudo service dnsmasq restart`
 
-## For a pi-hole setup
-Unfortunately pi-hole currently does not provide an easy way to use dnsmasqs 'conf-file' feature, making the key feature of this blocklist (blocking domains) useless, see [this post](https://www.reddit.com/r/pihole/comments/4rn1b6/are_wildcards_a_thing/d52spwi) for more info. Using only our hostname list will not give you full coverage.
-At this moment it is recommended to set up you own dnsmasq configuration to make full use of our blocklists.
+## For a Pi-hole setup
+Instead of using Pi-holes default method of adding new lists, you should add your own `.conf` file in `/etc/dnsmasq.d/`.
+
+ - Add the following lines to `/etc/dnsmasq.d/99-pihole-custom-lists.conf` (example filename)
+```
+conf-file=/path/to/domains.txt
+addn-hosts=/path/to/hostnames.txt
+```
+ - Restart PiHole
+This also will survive a `pihole -g`
 
 # Sources
 **Domain and hostname lists**
