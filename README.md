@@ -37,7 +37,8 @@ Instead of using Pi-holes default method of adding new lists, you should add you
 conf-file=/path/to/domains.txt
 addn-hosts=/path/to/hostnames.txt
 ```
- - Restart PiHole
+ - Restart PiHole 
+ 
 This also will survive a `pihole -g`
 
 # Sources
