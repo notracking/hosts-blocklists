@@ -72,6 +72,8 @@ At this moment it is recommended to set up you own dnsmasq configuration to make
  - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
  - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
  - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts
+ - https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
+ - https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
  - a large set of custom entries
   
 **Adblock Plus lists** (only full hostname, non-3rd party filters)
