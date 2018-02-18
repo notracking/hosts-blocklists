@@ -30,16 +30,15 @@ addn-hosts=/path/to/hostnames.txt
  - Restart dnsmasq `sudo service dnsmasq restart`
 
 ## For a Pi-hole setup
-Instead of using Pi-holes default method of adding new lists, you should add your own `.conf` file in `/etc/dnsmasq.d/`.
+Because Pi-hole does not fully support loading of dnsmasq domain filters ([details here](https://github.com/pi-hole/pi-hole/blob/1e87850952b6d886674b487f57e47fae1c20dc8a/gravity.sh#L338)), you should add your own `.conf` file in `/etc/dnsmasq.d/`. This way you can still use our blocklists with Pi-hole, but updating has to done by an external daily cronjob. It's also recommended to remove all default Pi-hole lists, since these are already included in our list in a more efficient manner.
 
  - Add the following lines to `/etc/dnsmasq.d/99-pihole-custom-lists.conf` (example filename)
 ```
 conf-file=/path/to/domains.txt
 addn-hosts=/path/to/hostnames.txt
 ```
- - Restart PiHole 
- 
-This also will survive a `pihole -g`
+ - (Optional, but recommended) Remove the default Pi-hole lists in `/etc/pihole/adlists.list`
+ - Update Pi-hole `pihole -g`
 
 # Sources
 **Domain and hostname lists**
