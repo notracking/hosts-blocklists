@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Feb 24 01:03:57 CET 2018
+# Last update: Tue Feb 27 00:53:15 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 38154
+# Number of unique hostnames: 38179
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -10501,6 +10501,8 @@
 :: ads.sportsblog.com
 0.0.0.0 ads.sports.fr
 :: ads.sports.fr
+0.0.0.0 ads.spotify.com
+:: ads.spotify.com
 0.0.0.0 ads.springclick.com
 :: ads.springclick.com
 0.0.0.0 ads.sprintrade.com
@@ -16065,8 +16067,6 @@
 :: a.vartoken.com
 0.0.0.0 avast.d0wnloadz.net
 :: avast.d0wnloadz.net
-0.0.0.0 avatar.pr0gramm.com
-:: avatar.pr0gramm.com
 0.0.0.0 av.babypin.net
 :: av.babypin.net
 0.0.0.0 avban.av.by
@@ -19411,6 +19411,8 @@
 :: bt1.gutgirl.ru
 0.0.0.0 bt641499.gotoip4.com
 :: bt641499.gotoip4.com
+0.0.0.0 btds.artplay.info
+:: btds.artplay.info
 0.0.0.0 btfile.mycosmetiks.fr
 :: btfile.mycosmetiks.fr
 0.0.0.0 btg.mtvnservices.com
@@ -20605,6 +20607,8 @@
 :: cdn4.urbanmusichq.se
 0.0.0.0 cdn5.bad-credit-cdn.com
 :: cdn5.bad-credit-cdn.com
+0.0.0.0 cdn.5bong.com
+:: cdn.5bong.com
 0.0.0.0 cdn5.deals-discounts-codes.com
 :: cdn5.deals-discounts-codes.com
 0.0.0.0 cdn5.psdvault.com
@@ -21497,6 +21501,8 @@
 :: cfba.org.uk
 0.0.0.0 cfbpj3.can.torontobrandpartnerevents.com
 :: cfbpj3.can.torontobrandpartnerevents.com
+0.0.0.0 cfcd.duckdns.org
+:: cfcd.duckdns.org
 0.0.0.0 cfceu.duckdns.org
 :: cfceu.duckdns.org
 0.0.0.0 cfcs1.duckdns.org
@@ -22857,6 +22863,8 @@
 :: cncdn.9966.org
 0.0.0.0 cn.clickable.net
 :: cn.clickable.net
+0.0.0.0 cndjs-1251973891.coshk.myqcloud.com
+:: cndjs-1251973891.coshk.myqcloud.com
 0.0.0.0 cndy.legacyminerals.mobi
 :: cndy.legacyminerals.mobi
 0.0.0.0 c.netu.tv
@@ -24657,6 +24665,8 @@
 :: cyril.pisselet.free.fr
 0.0.0.0 cyseal.cyveillance.com
 :: cyseal.cyveillance.com
+0.0.0.0 c.ytbnm.cn
+:: c.ytbnm.cn
 0.0.0.0 cytopathic.analbanged.com
 :: cytopathic.analbanged.com
 0.0.0.0 c.ytvbn.cn
@@ -26769,8 +26779,6 @@
 :: dcproxy1.thrunet.com
 0.0.0.0 d.cpsoft86.com
 :: d.cpsoft86.com
-0.0.0.0 d.cpufan.club
-:: d.cpufan.club
 0.0.0.0 dc.services.visualstudio.com
 :: dc.services.visualstudio.com
 0.0.0.0 dc.sify.com
@@ -28785,6 +28793,8 @@
 :: dubstep.onedumb.com
 0.0.0.0 duct5ntjian71.cloudfront.net
 :: duct5ntjian71.cloudfront.net
+0.0.0.0 dudm.qingsj.cn
+:: dudm.qingsj.cn
 0.0.0.0 duffwilliam2020.000webhostapp.com
 :: duffwilliam2020.000webhostapp.com
 0.0.0.0 dufue2m4sondk.cloudfront.net
@@ -28929,6 +28939,8 @@
 :: dyareview-document.pdf-iso.webapps-security.review-2jk39w92.gymwiso.gq
 0.0.0.0 dyau9xqp8gzji.cloudfront.net
 :: dyau9xqp8gzji.cloudfront.net
+0.0.0.0 dyb.jdcbuy.com
+:: dyb.jdcbuy.com
 0.0.0.0 dybumzmi.cz.cc
 :: dybumzmi.cz.cc
 0.0.0.0 dycpc40hvg4ki.cloudfront.net
@@ -29385,6 +29397,8 @@
 :: eekro.cruisingsmallship.com
 0.0.0.0 eeliot.free.fr
 :: eeliot.free.fr
+0.0.0.0 e.emgwq.com
+:: e.emgwq.com
 0.0.0.0 eemylt.fmgupbjivsvtyh.ml
 :: eemylt.fmgupbjivsvtyh.ml
 0.0.0.0 e.ennmt.com
@@ -29453,6 +29467,8 @@
 :: ehd.baike.com
 0.0.0.0 eh-eh.snprobbx.pbz.r.de.a2ip.ru
 :: eh-eh.snprobbx.pbz.r.de.a2ip.ru
+0.0.0.0 e.hellomingpian.com
+:: e.hellomingpian.com
 0.0.0.0 ehg.fedex.com
 :: ehg.fedex.com
 0.0.0.0 e.htper.com
@@ -29901,6 +29917,8 @@
 :: epromo.beyond.com
 0.0.0.0 epson-printer-ink.beesearch.info
 :: epson-printer-ink.beesearch.info
+0.0.0.0 e.ptrvc.com
+:: e.ptrvc.com
 0.0.0.0 epxkb8zz4ssdv7b.global.ssl.fastly.net
 :: epxkb8zz4ssdv7b.global.ssl.fastly.net
 0.0.0.0 eqantics.freeservers.com
@@ -31527,6 +31545,12 @@
 :: fgawegwr.chez.com
 0.0.0.0 fg.bibleandbullets.com
 :: fg.bibleandbullets.com
+0.0.0.0 fghmc.ga25.com
+:: fghmc.ga25.com
+0.0.0.0 fghm.ga25.com
+:: fghm.ga25.com
+0.0.0.0 fghmimg.ga25.com
+:: fghmimg.ga25.com
 0.0.0.0 f.gj555.net
 :: f.gj555.net
 0.0.0.0 fgnfdfthrv.bee.pl
@@ -34751,6 +34775,8 @@
 :: h1.kukuw.com
 0.0.0.0 h1.msn.com
 :: h1.msn.com
+0.0.0.0 h1ng3lem8.m.lanseshuba.com
+:: h1ng3lem8.m.lanseshuba.com
 0.0.0.0 h1psma.nero.printersclothcompany.com
 :: h1psma.nero.printersclothcompany.com
 0.0.0.0 h1.ripway.com
@@ -34873,8 +34899,6 @@
 :: hank.southerndelightsgifts.com
 0.0.0.0 hanoman4455.000webhostapp.com
 :: hanoman4455.000webhostapp.com
-0.0.0.0 hans.pr0gramm.com
-:: hans.pr0gramm.com
 0.0.0.0 hao123.xywy.com
 :: hao123.xywy.com
 0.0.0.0 hao.315hyw.com
@@ -35159,8 +35183,6 @@
 :: helper.comptesteal.net
 0.0.0.0 helper-stats.wondershare.com
 :: helper-stats.wondershare.com
-0.0.0.0 help.evernote.com
-:: help.evernote.com
 0.0.0.0 help.exhibitionlit.com
 :: help.exhibitionlit.com
 0.0.0.0 help.expoilluminated.com
@@ -36197,8 +36219,6 @@
 :: huodong.mobilem.360.cn
 0.0.0.0 huostaan-eksperten.makemoneywithmegan.net
 :: huostaan-eksperten.makemoneywithmegan.net
-0.0.0.0 hurensohn.pr0gramm.com
-:: hurensohn.pr0gramm.com
 0.0.0.0 hurensuche.de.lv
 :: hurensuche.de.lv
 0.0.0.0 husp.cccccd.com
@@ -42171,6 +42191,8 @@
 :: m1s3.wha.la
 0.0.0.0 m1v62r.moro.pershoreprivatehire.co.uk
 :: m1v62r.moro.pershoreprivatehire.co.uk
+0.0.0.0 m1.videos.vidto.me
+:: m1.videos.vidto.me
 0.0.0.0 m1.vodjk.com
 :: m1.vodjk.com
 0.0.0.0 m1.webstats.motigo.com
@@ -42189,6 +42211,8 @@
 :: m2.qinsx.cn
 0.0.0.0 m2.sexgarantie.nl
 :: m2.sexgarantie.nl
+0.0.0.0 m2.videos.vidto.me
+:: m2.videos.vidto.me
 0.0.0.0 m2.webstats.motigo.com
 :: m2.webstats.motigo.com
 0.0.0.0 m2.xhamster.com
@@ -42843,6 +42867,8 @@
 :: mask.itk-etiquette.com
 0.0.0.0 mask.org.za
 :: mask.org.za
+0.0.0.0 mas-onjs.github.io
+:: mas-onjs.github.io
 0.0.0.0 mas.sector.sk
 :: mas.sector.sk
 0.0.0.0 mass.mall044.com
@@ -43507,6 +43533,8 @@
 :: member-unblock.000webhostapp.com
 0.0.0.0 membsonbnacombin.8bxcgv7bc3y6pncqj.gdn
 :: membsonbnacombin.8bxcgv7bc3y6pncqj.gdn
+0.0.0.0 m.emgwq.com
+:: m.emgwq.com
 0.0.0.0 memnahyaho.wildcitymedia.com
 :: memnahyaho.wildcitymedia.com
 0.0.0.0 memorix1.sdv.fr
@@ -43783,6 +43811,8 @@
 :: metrics.elle.com
 0.0.0.0 metrics.ems.com
 :: metrics.ems.com
+0.0.0.0 metrics.experts-exchange.com
+:: metrics.experts-exchange.com
 0.0.0.0 metrics.express.com
 :: metrics.express.com
 0.0.0.0 metrics.expressen.se
@@ -44247,10 +44277,14 @@
 :: m.guanren6.com
 0.0.0.0 m.guanren9.com
 :: m.guanren9.com
+0.0.0.0 m.guifei99.com
+:: m.guifei99.com
 0.0.0.0 m.haowj.com.cn
 :: m.haowj.com.cn
 0.0.0.0 m.harbinbaojia.net
 :: m.harbinbaojia.net
+0.0.0.0 m.hellomingpian.com
+:: m.hellomingpian.com
 0.0.0.0 m.hhllyt.com
 :: m.hhllyt.com
 0.0.0.0 m.hmzsfmjc.com
@@ -44545,6 +44579,8 @@
 :: mjx.ads.nwsource.com
 0.0.0.0 mkc8gh.cyber.24hwebsport.co.uk
 :: mkc8gh.cyber.24hwebsport.co.uk
+0.0.0.0 m.kcooy.com
+:: m.kcooy.com
 0.0.0.0 m.kejet.net
 :: m.kejet.net
 0.0.0.0 m.kewro.com
@@ -45093,6 +45129,8 @@
 :: mpb2.iteye.com
 0.0.0.0 mpegs.allmanpages.com
 :: mpegs.allmanpages.com
+0.0.0.0 m.phonthing.com
+:: m.phonthing.com
 0.0.0.0 mphtadhci5mrdlju.onion.to
 :: mphtadhci5mrdlju.onion.to
 0.0.0.0 mphtadhci5mrdlju.tor2web.org
@@ -45117,6 +45155,8 @@
 :: mpsschool.edu.bd
 0.0.0.0 mp-tagak.000webhostapp.com
 :: mp-tagak.000webhostapp.com
+0.0.0.0 m.ptrvc.com
+:: m.ptrvc.com
 0.0.0.0 mp.tscapeplay.com
 :: mp.tscapeplay.com
 0.0.0.0 mp.twitch.tv
@@ -45145,6 +45185,8 @@
 :: m.qulishi.com
 0.0.0.0 m.qusub.com
 :: m.qusub.com
+0.0.0.0 m.qvxyz.com
+:: m.qvxyz.com
 0.0.0.0 mrad.webjump.net
 :: mrad.webjump.net
 0.0.0.0 mr.da.netease.com
@@ -53313,6 +53355,8 @@
 :: puntualiingessaste.greatestatesofsonomacounty.info
 0.0.0.0 pups.bdimg.com
 :: pups.bdimg.com
+0.0.0.0 pupu.xnhh120.com
+:: pupu.xnhh120.com
 0.0.0.0 purchaseorrder.000webhostapp.com
 :: purchaseorrder.000webhostapp.com
 0.0.0.0 purloined-restraint.000webhostapp.com
@@ -57201,6 +57245,8 @@
 :: service1.adten.de
 0.0.0.0 serviceactivation-page2018.000webhostapp.com
 :: serviceactivation-page2018.000webhostapp.com
+0.0.0.0 service.ad.adesk.com
+:: service.ad.adesk.com
 0.0.0.0 service.ad.duomi.com
 :: service.ad.duomi.com
 0.0.0.0 serviceama-a.akamaihd.net
@@ -59561,6 +59607,8 @@
 :: static.atomload.at
 0.0.0.0 static.baifendian.com
 :: static.baifendian.com
+0.0.0.0 static.beilamusi.com
+:: static.beilamusi.com
 0.0.0.0 static.beintoo.com
 :: static.beintoo.com
 0.0.0.0 static.bmob.cn
@@ -61439,6 +61487,8 @@
 :: sy.qycmjt.com
 0.0.0.0 sysadmin.map24.com
 :: sysadmin.map24.com
+0.0.0.0 sy.shongcheng.com
+:: sy.shongcheng.com
 0.0.0.0 sysimustassa.undercurrentaudio.co.uk
 :: sysimustassa.undercurrentaudio.co.uk
 0.0.0.0 sys.osttirol-online.at
@@ -63831,8 +63881,6 @@
 :: tracking.presence-pc.com
 0.0.0.0 tracking.prm20cloud.com
 :: tracking.prm20cloud.com
-0.0.0.0 tracking.prmtracking.com
-:: tracking.prmtracking.com
 0.0.0.0 tracking.promiflash.de
 :: tracking.promiflash.de
 0.0.0.0 tracking.quillion.com
@@ -69467,8 +69515,6 @@
 :: w.wooboo.com.cn
 0.0.0.0 wwp-cartasi-titoari-portale-sicreuzza-2017-ci.dynamic-dns.net
 :: wwp-cartasi-titoari-portale-sicreuzza-2017-ci.dynamic-dns.net
-0.0.0.0 ww.pr0gramm.com
-:: ww.pr0gramm.com
 0.0.0.0 ww.sexlinkexchanger.com
 :: ww.sexlinkexchanger.com
 0.0.0.0 ww.thefile.me
@@ -69519,6 +69565,8 @@
 :: www.163ren.com
 0.0.0.0 www.17168.com
 :: www.17168.com
+0.0.0.0 www172.lpwangzhan.com
+:: www172.lpwangzhan.com
 0.0.0.0 www.17k.originalsafteyredir.com
 :: www.17k.originalsafteyredir.com
 0.0.0.0 www.17zhaole.com
@@ -70699,6 +70747,8 @@
 :: www.bruceleevideo.tk
 0.0.0.0 www.bshare.cn
 :: www.bshare.cn
+0.0.0.0 www.btds.artplay.info
+:: www.btds.artplay.info
 0.0.0.0 www.bt.emsecure.net
 :: www.bt.emsecure.net
 0.0.0.0 www.btstorrent.cc
@@ -71897,6 +71947,8 @@
 :: www-googletagmanager.l.google.com
 0.0.0.0 www.googmel.win
 :: www.googmel.win
+0.0.0.0 www.goolpter.com
+:: www.goolpter.com
 0.0.0.0 www.gospelcelebration.com
 :: www.gospelcelebration.com
 0.0.0.0 www.gotwarez.com
@@ -74425,8 +74477,6 @@
 :: www.trafix.ro
 0.0.0.0 www.trails.nu
 :: www.trails.nu
-0.0.0.0 www.traktrafficflow.com
-:: www.traktrafficflow.com
 0.0.0.0 www.trannys.us
 :: www.trannys.us
 0.0.0.0 www.trendsonline.biz
