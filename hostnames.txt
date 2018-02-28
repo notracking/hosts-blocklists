@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Feb 27 00:53:15 CET 2018
+# Last update: Wed Feb 28 01:06:08 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 38179
+# Number of unique hostnames: 38190
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -69,8 +69,6 @@
 :: 0ba7bb7e.ngrok.io
 0.0.0.0 0br.realsecuredredirect.com
 :: 0br.realsecuredredirect.com
-0.0.0.0 0d077ef9e74d8.cdn.sohucs.com
-:: 0d077ef9e74d8.cdn.sohucs.com
 0.0.0.0 0koryu0.easter.ne.jp
 :: 0koryu0.easter.ne.jp
 0.0.0.0 0lost.littleriverretreat.net
@@ -14791,6 +14789,8 @@
 :: api.pingstart.com
 0.0.0.0 apiportalmorecom-a.akamaihd.net
 :: apiportalmorecom-a.akamaihd.net
+0.0.0.0 api.primecaster.net
+:: api.primecaster.net
 0.0.0.0 api.proofpositivemedia.com
 :: api.proofpositivemedia.com
 0.0.0.0 apipub.oumma.com
@@ -14853,6 +14853,8 @@
 :: api.trackuity.com
 0.0.0.0 api.trak.io
 :: api.trak.io
+0.0.0.0 api.tr.blismedia.com
+:: api.tr.blismedia.com
 0.0.0.0 api.truuapp.com
 :: api.truuapp.com
 0.0.0.0 api.tuisong.baidu.com
@@ -17885,8 +17887,6 @@
 :: bcm.itv.com
 0.0.0.0 bc.nhk.jp
 :: bc.nhk.jp
-0.0.0.0 bcnmonetize.go2affise.com
-:: bcnmonetize.go2affise.com
 0.0.0.0 b.code.tanwanyx.com
 :: b.code.tanwanyx.com
 0.0.0.0 bcontent.life.ru
@@ -20793,6 +20793,8 @@
 :: cdn.dirjournal.com
 0.0.0.0 cdn.districtm.ca
 :: cdn.districtm.ca
+0.0.0.0 cdn.districtm.io
+:: cdn.districtm.io
 0.0.0.0 cdn.downloaddabs.com
 :: cdn.downloaddabs.com
 0.0.0.0 cdn.download.sweetpacks.com
@@ -24685,6 +24687,8 @@
 :: cz.ifeng0.com
 0.0.0.0 c.zlongad.com
 :: c.zlongad.com
+0.0.0.0 czmlfc.sxtm30.badudns.cc
+:: czmlfc.sxtm30.badudns.cc
 0.0.0.0 cznshuya.ivnet.ru
 :: cznshuya.ivnet.ru
 0.0.0.0 d00.sina.com.cn
@@ -29517,6 +29521,8 @@
 :: ejzr.golden1.sogou.com
 0.0.0.0 e-kasa.w8w.pl
 :: e-kasa.w8w.pl
+0.0.0.0 e.kcooy.com
+:: e.kcooy.com
 0.0.0.0 e.kde.cz
 :: e.kde.cz
 0.0.0.0 ekdmnw.3836.mig3836.co.uk
@@ -29897,8 +29903,6 @@
 :: e.ofuda.cc
 0.0.0.0 eol1.egyptonline.com
 :: eol1.egyptonline.com
-0.0.0.0 e.opqsr.com
-:: e.opqsr.com
 0.0.0.0 eotech-yoqblou5gqrdrn.netdna-ssl.com
 :: eotech-yoqblou5gqrdrn.netdna-ssl.com
 0.0.0.0 e-p4p.163.com
@@ -30371,6 +30375,8 @@
 :: evt.adrcntr.com
 0.0.0.0 ew16d.package12.com
 :: ew16d.package12.com
+0.0.0.0 ew1.dms-gld.bigdata.ssp.samsung.com
+:: ew1.dms-gld.bigdata.ssp.samsung.com
 0.0.0.0 e.wevvt.com
 :: e.wevvt.com
 0.0.0.0 e.wjhehaofc.com
@@ -34567,8 +34573,6 @@
 :: gtave3e7.beget.tech
 0.0.0.0 gt.duowan.com
 :: gt.duowan.com
-0.0.0.0 gtg02.bestsecurepractice.com
-:: gtg02.bestsecurepractice.com
 0.0.0.0 g.thegaygarage.com
 :: g.thegaygarage.com
 0.0.0.0 gtomktw.braincall.win
@@ -38969,6 +38973,8 @@
 :: js.cdn.ac
 0.0.0.0 js.cnmo.com
 :: js.cnmo.com
+0.0.0.0 jscode.jbzj.com
+:: jscode.jbzj.com
 0.0.0.0 js.convertale.com
 :: js.convertale.com
 0.0.0.0 js.csai.cn
@@ -39007,6 +39013,8 @@
 :: js.francite.com
 0.0.0.0 js.goods.redtram.com
 :: js.goods.redtram.com
+0.0.0.0 js.hcw888.com
+:: js.hcw888.com
 0.0.0.0 js.hhcskj.com
 :: js.hhcskj.com
 0.0.0.0 js.hkslg520.com
@@ -44561,6 +44569,8 @@
 :: mjhkj8.u5a.wentserver.com
 0.0.0.0 m.jieyixiu.com
 :: m.jieyixiu.com
+0.0.0.0 mjija.github.io
+:: mjija.github.io
 0.0.0.0 m.jingonghuanbao.com
 :: m.jingonghuanbao.com
 0.0.0.0 m.jltdbyq.com
@@ -44991,8 +45001,6 @@
 :: mootostudiocoid.masterweb.id
 0.0.0.0 m.openv.tv
 :: m.openv.tv
-0.0.0.0 m.opqsr.com
-:: m.opqsr.com
 0.0.0.0 moran10.karoo.net
 :: moran10.karoo.net
 0.0.0.0 morarerque-1bruzual.paladin-global.net
@@ -55799,6 +55807,8 @@
 :: s7rg3o.ure.breedingsolutions.co.uk
 0.0.0.0 s8-nowy-wygraj.comli.com
 :: s8-nowy-wygraj.comli.com
+0.0.0.0 s.918jcw.com
+:: s.918jcw.com
 0.0.0.0 s95.research.de.com
 :: s95.research.de.com
 0.0.0.0 s.9dcdn.cn
@@ -61429,6 +61439,8 @@
 :: sync.credebat.com
 0.0.0.0 sync.darikweb.com
 :: sync.darikweb.com
+0.0.0.0 sync.extend.tv
+:: sync.extend.tv
 0.0.0.0 sync.morgdm.ru
 :: sync.morgdm.ru
 0.0.0.0 sync.rambler.ru
@@ -63247,6 +63259,8 @@
 :: track.e7r.com.br
 0.0.0.0 track.easeus.com
 :: track.easeus.com
+0.0.0.0 track-east.mobileadtrading.com
+:: track-east.mobileadtrading.com
 0.0.0.0 track-east.mobilepassback.com
 :: track-east.mobilepassback.com
 0.0.0.0 track.ecommerce-holding.com
@@ -64439,6 +64453,8 @@
 :: track.tagesanzeiger.ch
 0.0.0.0 track.talarsystems.com
 :: track.talarsystems.com
+0.0.0.0 track.tastyfoodcombos.com
+:: track.tastyfoodcombos.com
 0.0.0.0 track.td3x.com
 :: track.td3x.com
 0.0.0.0 track.tenjin.io
@@ -68381,6 +68397,8 @@
 :: web.vortex.data.microsoft.com
 0.0.0.0 webweb.picforall.ru
 :: webweb.picforall.ru
+0.0.0.0 webwidgetz.duckdns.org
+:: webwidgetz.duckdns.org
 0.0.0.0 webwise.bt.com
 :: webwise.bt.com
 0.0.0.0 weebvivian72.uk.to
@@ -72853,6 +72871,8 @@
 :: www.melissa-ruggles.us
 0.0.0.0 www.memeva.com
 :: www.memeva.com
+0.0.0.0 www.mengyuanwei.com
+:: www.mengyuanwei.com
 0.0.0.0 www.menhad.com
 :: www.menhad.com
 0.0.0.0 www.merchantapp.com
@@ -75483,6 +75503,8 @@
 :: xq.zz1000y.com
 0.0.0.0 xr3xno.4.fourcrossesinn.com
 :: xr3xno.4.fourcrossesinn.com
+0.0.0.0 xr77.adj.st
+:: xr77.adj.st
 0.0.0.0 xray.jebe.renren.com
 :: xray.jebe.renren.com
 0.0.0.0 xr.flyboytees.com
