@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Feb 28 01:06:08 CET 2018
+# Last update: Thu Mar 1 00:59:16 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 38190
+# Number of unique hostnames: 38188
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -15883,8 +15883,6 @@
 :: atfmq2.iudasitebuildng.com
 0.0.0.0 a.thanksearch.com
 :: a.thanksearch.com
-0.0.0.0 at.hayhaytv.vn
-:: at.hayhaytv.vn
 0.0.0.0 at.hdsieunhanh.com
 :: at.hdsieunhanh.com
 0.0.0.0 a.thefreedictionary.com
@@ -16307,8 +16305,6 @@
 :: azixwkmrp.ns2.name
 0.0.0.0 azjatki.qii.pl
 :: azjatki.qii.pl
-0.0.0.0 a.zoomby.ru
-:: a.zoomby.ru
 0.0.0.0 azoos.csheaven.com
 :: azoos.csheaven.com
 0.0.0.0 a.zoot.ro
@@ -22483,8 +22479,6 @@
 :: clientaa.beget.tech
 0.0.0.0 client.cobrowser.net
 :: client.cobrowser.net
-0.0.0.0 clientconfig.passport.net
-:: clientconfig.passport.net
 0.0.0.0 client.contextual.esyndicate.com
 :: client.contextual.esyndicate.com
 0.0.0.0 client-dmp.suishenyun.cn
@@ -46889,6 +46883,8 @@
 :: number.vxshopping.com
 0.0.0.0 numb.hotshare.biz
 :: numb.hotshare.biz
+0.0.0.0 nunu-001.now.sh
+:: nunu-001.now.sh
 0.0.0.0 nuralihsan.bphn.go.id
 :: nuralihsan.bphn.go.id
 0.0.0.0 nuru.viadiarte.com
