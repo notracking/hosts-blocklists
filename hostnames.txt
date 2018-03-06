@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Mar 5 00:53:37 CET 2018
+# Last update: Tue Mar 6 01:04:28 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 38579
+# Number of unique hostnames: 38582
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2561,6 +2561,8 @@
 :: aabb123.liuxue86.com
 0.0.0.0 a.abv.bg
 :: a.abv.bg
+0.0.0.0 a.adexchangemachine.com
+:: a.adexchangemachine.com
 0.0.0.0 a.ad.playstation.net
 :: a.ad.playstation.net
 0.0.0.0 a.ads1.msn.com
@@ -16163,6 +16165,8 @@
 :: b.adbox.lv
 0.0.0.0 bad-boy-sex-toy.inhit.com
 :: bad-boy-sex-toy.inhit.com
+0.0.0.0 b.adexchangemachine.com
+:: b.adexchangemachine.com
 0.0.0.0 badges.instagram.com
 :: badges.instagram.com
 0.0.0.0 badge.stumbleupon.com
@@ -19653,6 +19657,8 @@
 :: cadechire.films-internet.info
 0.0.0.0 cadetcollegebhurban.edu.pk
 :: cadetcollegebhurban.edu.pk
+0.0.0.0 c.adexchangemachine.com
+:: c.adexchangemachine.com
 0.0.0.0 cadreon.s3.amazonaws.com
 :: cadreon.s3.amazonaws.com
 0.0.0.0 c.ad.ru
@@ -32349,6 +32355,8 @@
 :: fpb1.chinacar.asia
 0.0.0.0 fpb.51edu.com
 :: fpb.51edu.com
+0.0.0.0 fpbbdx1.51240.com
+:: fpbbdx1.51240.com
 0.0.0.0 fpbjiansuo.mn586.com
 :: fpbjiansuo.mn586.com
 0.0.0.0 fpb.mn586.com
@@ -51769,6 +51777,8 @@
 :: plsifreeskox.esy.es
 0.0.0.0 pl.slimg0ji-berry.com
 :: pl.slimg0ji-berry.com
+0.0.0.0 pl.superando.net
+:: pl.superando.net
 0.0.0.0 pls.webtype.com
 :: pls.webtype.com
 0.0.0.0 plt.data.pplive.com
@@ -51797,6 +51807,8 @@
 :: pluton2084.free.fr
 0.0.0.0 pluton2087.free.fr
 :: pluton2087.free.fr
+0.0.0.0 pl.web.toleadoo.com
+:: pl.web.toleadoo.com
 0.0.0.0 p.l.youku.com
 :: p.l.youku.com
 0.0.0.0 p.m5bn.com
@@ -65805,8 +65817,6 @@
 :: ua.badongo.com
 0.0.0.0 uac.net.au
 :: uac.net.au
-0.0.0.0 uad-api.nicovideo.jp
-:: uad-api.nicovideo.jp
 0.0.0.0 uain4-1.eye.to
 :: uain4-1.eye.to
 0.0.0.0 ualumphuoldi.angelcities.com
@@ -66749,8 +66759,6 @@
 :: urchin.estadao.com.br
 0.0.0.0 urchin.lstat.youku.com
 :: urchin.lstat.youku.com
-0.0.0.0 urc.live.nicovideo.jp
-:: urc.live.nicovideo.jp
 0.0.0.0 urd103.analysys.cn
 :: urd103.analysys.cn
 0.0.0.0 urd240.analysys.cn
@@ -70949,6 +70957,8 @@
 :: www.ailicee.com
 0.0.0.0 www.airbornehydrography.com
 :: www.airbornehydrography.com
+0.0.0.0 www.airfrance.life
+:: www.airfrance.life
 0.0.0.0 www.airsonett.se
 :: www.airsonett.se
 0.0.0.0 www.ajalis.com
@@ -72321,8 +72331,6 @@
 :: www.f3search.com
 0.0.0.0 www.fabioalbini.com
 :: www.fabioalbini.com
-0.0.0.0 www.fabryka-nagrod.com
-:: www.fabryka-nagrod.com
 0.0.0.0 www.face2trade.com
 :: www.face2trade.com
 0.0.0.0 www.facebok.com.ba
@@ -72335,8 +72343,6 @@
 :: www.facesofgoo.com
 0.0.0.0 www.factcheck.com
 :: www.factcheck.com
-0.0.0.0 www.fajnefanty.com
-:: www.fajnefanty.com
 0.0.0.0 www.falkag.de
 :: www.falkag.de
 0.0.0.0 www.family-partners.fr
@@ -73853,8 +73859,6 @@
 :: www.nadia-carlyle.us
 0.0.0.0 www.naijakush.ml
 :: www.naijakush.ml
-0.0.0.0 www.najlepszedlaciebie.com
-:: www.najlepszedlaciebie.com
 0.0.0.0 www.nakedreams.com
 :: www.nakedreams.com
 0.0.0.0 www.nakhit.com
@@ -75309,6 +75313,8 @@
 :: www.tujidao.com
 0.0.0.0 www.turbotweetmultiplier.co
 :: www.turbotweetmultiplier.co
+0.0.0.0 www.turkishạirlines.com
+:: www.turkishạirlines.com
 0.0.0.0 www.turnwood.net
 :: www.turnwood.net
 0.0.0.0 www.tutop.com
@@ -75325,8 +75331,6 @@
 :: www.tvsquad.com
 0.0.0.0 www.tweettornado.com
 :: www.tweettornado.com
-0.0.0.0 www.twoj-voucher.com
-:: www.twoj-voucher.com
 0.0.0.0 www.two-of-us.at
 :: www.two-of-us.at
 0.0.0.0 www.tw.vipbeanfun.com
@@ -75685,6 +75689,8 @@
 :: www.xl-rank.com
 0.0.0.0 www.xml.admetix.com
 :: www.xml.admetix.com
+0.0.0.0 www.xn--turkishirlines-1p8g.com
+:: www.xn--turkishirlines-1p8g.com
 0.0.0.0 www.xpays.com
 :: www.xpays.com
 0.0.0.0 www.xpjylc9977.com
