@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Mar 11 00:55:36 CET 2018
+# Last update: Mon Mar 12 00:54:33 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 32887
+# Number of unique hostnames: 32892
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3235,6 +3235,8 @@
 :: ad.blm.org
 0.0.0.0 ad.blogdrive.com
 :: ad.blogdrive.com
+0.0.0.0 ad.blueice.pl
+:: ad.blueice.pl
 0.0.0.0 ad.bnmedia.ru
 :: ad.bnmedia.ru
 0.0.0.0 ad.boardhost.com
@@ -17847,8 +17849,6 @@
 :: c.afekv.com
 0.0.0.0 c.afftrx.com
 :: c.afftrx.com
-0.0.0.0 c.allegrostatic.pl
-:: c.allegrostatic.pl
 0.0.0.0 c.anytrx.com
 :: c.anytrx.com
 0.0.0.0 c.aol.com
@@ -18911,6 +18911,8 @@
 :: cdn.thetorntv.com
 0.0.0.0 cdn.theturboforums.com
 :: cdn.theturboforums.com
+0.0.0.0 cdn.tinypass.com
+:: cdn.tinypass.com
 0.0.0.0 cdn.tradelab.fr
 :: cdn.tradelab.fr
 0.0.0.0 cdn.trafficexchangelist.com
@@ -35293,6 +35295,8 @@
 :: livechat.s3.amazonaws.com
 0.0.0.0 livecheck.theperfectsystoupdating.date
 :: livecheck.theperfectsystoupdating.date
+0.0.0.0 livecheck2update.thepointofforcontentingclear.bid
+:: livecheck2update.thepointofforcontentingclear.bid
 0.0.0.0 livemovie.me.uk
 :: livemovie.me.uk
 0.0.0.0 liveproperty.morsit.com
@@ -48857,6 +48861,8 @@
 :: setupdate24.updateworkfreshandnew.website
 0.0.0.0 setupoin17.000webhostapp.com
 :: setupoin17.000webhostapp.com
+0.0.0.0 setupupgrade12.thepointofforcontentingperfect.win
+:: setupupgrade12.thepointofforcontentingperfect.win
 0.0.0.0 seul.blueskywatertanks.com
 :: seul.blueskywatertanks.com
 0.0.0.0 seven.beyondsurveys.com
@@ -58795,6 +58801,8 @@
 :: wtyczkapodgladacz.bo.pl
 0.0.0.0 wu44m2.size.hammondalatasimages.com
 :: wu44m2.size.hammondalatasimages.com
+0.0.0.0 wuliao.epro.sogou.com
+:: wuliao.epro.sogou.com
 0.0.0.0 wuliao.juqingba.cn
 :: wuliao.juqingba.cn
 0.0.0.0 wup.browser.qq.com
@@ -59881,6 +59889,8 @@
 :: www.canadasmedicine.com
 0.0.0.0 www.canadianrugs.com
 :: www.canadianrugs.com
+0.0.0.0 www.canadianshawid.com
+:: www.canadianshawid.com
 0.0.0.0 www.canalstat.com
 :: www.canalstat.com
 0.0.0.0 www.candi-nolen.us
