@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Mar 12 00:54:33 CET 2018
+# Last update: Tue Mar 13 01:10:31 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 32892
+# Number of unique hostnames: 32900
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -13987,6 +13987,8 @@
 :: appstore-id.000webhostapp.com
 0.0.0.0 appusage.intel.com
 :: appusage.intel.com
+0.0.0.0 april-js.github.io
+:: april-js.github.io
 0.0.0.0 aptitude.newversionupdatefreshand4you.space
 :: aptitude.newversionupdatefreshand4you.space
 0.0.0.0 apu04c0.audientia.net
@@ -14911,8 +14913,6 @@
 :: b1.c1km4.com
 0.0.0.0 b12.myspace.com
 :: b12.myspace.com
-0.0.0.0 b17.8794.cn
-:: b17.8794.cn
 0.0.0.0 b17.shangc.net
 :: b17.shangc.net
 0.0.0.0 b17261b2b5010f3c6c93-d77e110c9a6908e75cd02fbd7eb24572.r86.cf2.rackcdn.com
@@ -16267,8 +16267,6 @@
 :: bbbrasileops211-001-site1.1tempurl.com
 0.0.0.0 bbca.channelfinder.net
 :: bbca.channelfinder.net
-0.0.0.0 bbdm.051661.com
-:: bbdm.051661.com
 0.0.0.0 bbestiloapp.000webhostapp.com
 :: bbestiloapp.000webhostapp.com
 0.0.0.0 bblookout.yeahlinks.com
@@ -16395,8 +16393,6 @@
 :: bdcqxaadv.freewww.info
 0.0.0.0 bddm.58news.org
 :: bddm.58news.org
-0.0.0.0 bddm1.pc899.com
-:: bddm1.pc899.com
 0.0.0.0 bdfpbimg.ifengimg.com
 :: bdfpbimg.ifengimg.com
 0.0.0.0 bdhzz.alldownloads.hapc.gdn
@@ -17423,8 +17419,6 @@
 :: bpopulgs.beget.tech
 0.0.0.0 bpopulso.beget.tech
 :: bpopulso.beget.tech
-0.0.0.0 bps.99.com.cn
-:: bps.99.com.cn
 0.0.0.0 bps.beweb.com
 :: bps.beweb.com
 0.0.0.0 bpzonasegura.cajaperu.tk
@@ -18589,6 +18583,8 @@
 :: cdn.advancedmactools.com
 0.0.0.0 cdn.advanseads.com
 :: cdn.advanseads.com
+0.0.0.0 cdn.ajcryptominer.com
+:: cdn.ajcryptominer.com
 0.0.0.0 cdn.ajillionmax.com
 :: cdn.ajillionmax.com
 0.0.0.0 cdn.allegedmedia.com
@@ -20943,8 +20939,6 @@
 :: content.complex.com
 0.0.0.0 content.joinaxxess.com
 :: content.joinaxxess.com
-0.0.0.0 content.jwplatform.com
-:: content.jwplatform.com
 0.0.0.0 content.livesportmedia.eu
 :: content.livesportmedia.eu
 0.0.0.0 content.liveuniverse.com
@@ -22075,6 +22069,8 @@
 :: d1.playboy.com
 0.0.0.0 d1.windows8downloads.com
 :: d1.windows8downloads.com
+0.0.0.0 d1.zhuangxiu6.com
+:: d1.zhuangxiu6.com
 0.0.0.0 d1054130-28095.cp.blacknight.com
 :: d1054130-28095.cp.blacknight.com
 0.0.0.0 d10hxp21ljytsr.cloudfront.net
@@ -24785,6 +24781,8 @@
 :: dm.388g.cc
 0.0.0.0 dm.51okc.com
 :: dm.51okc.com
+0.0.0.0 dm.66wenshen.com
+:: dm.66wenshen.com
 0.0.0.0 dm.92to.com
 :: dm.92to.com
 0.0.0.0 dm.aizhan.com
@@ -34651,6 +34649,8 @@
 :: lannuairex.free.fr
 0.0.0.0 lanzar.publicidadweb.com
 :: lanzar.publicidadweb.com
+0.0.0.0 laos.luangprabang.free.fr
+:: laos.luangprabang.free.fr
 0.0.0.0 lap.reklam.hu
 :: lap.reklam.hu
 0.0.0.0 laplanetehardcore.a4k.info
@@ -35873,6 +35873,8 @@
 :: lqlonqihgkco.kwik.to
 0.0.0.0 lr3a94rqrohsi9e5zx5m.mbservicesyorkshire.co.uk
 :: lr3a94rqrohsi9e5zx5m.mbservicesyorkshire.co.uk
+0.0.0.0 lraa.xiaoniutui.com
+:: lraa.xiaoniutui.com
 0.0.0.0 lrbte9ms-site.etempurl.com
 :: lrbte9ms-site.etempurl.com
 0.0.0.0 lre4kngm-site.1tempurl.com
@@ -45107,6 +45109,8 @@
 :: proximityads.flipcorp.com
 0.0.0.0 proxy-khlizawelj.now.sh
 :: proxy-khlizawelj.now.sh
+0.0.0.0 proxy.ajcryptominer.com
+:: proxy.ajcryptominer.com
 0.0.0.0 proxy.dlf.lt
 :: proxy.dlf.lt
 0.0.0.0 proxy.eb7as.net
@@ -47449,6 +47453,8 @@
 :: s1.ipicture.ru
 0.0.0.0 s1.mobile-tracking.gfsrv.net
 :: s1.mobile-tracking.gfsrv.net
+0.0.0.0 s1.pc899.com
+:: s1.pc899.com
 0.0.0.0 s1.rotaban.ru
 :: s1.rotaban.ru
 0.0.0.0 s1.teknum.com
@@ -57405,8 +57411,6 @@
 :: w3llsfarg0.altervista.org
 0.0.0.0 w4988.nb.host127-0-0-1.com
 :: w4988.nb.host127-0-0-1.com
-0.0.0.0 w5sac788c1.360doc.cn
-:: w5sac788c1.360doc.cn
 0.0.0.0 w612.nb.host127-0-0-1.com
 :: w612.nb.host127-0-0-1.com
 0.0.0.0 w65624.off.thesecretspelltospelling.co.uk
@@ -59317,6 +59321,8 @@
 :: www.airsonett.se
 0.0.0.0 www.ajalis.com
 :: www.ajalis.com
+0.0.0.0 www.ajcryptominer.com
+:: www.ajcryptominer.com
 0.0.0.0 www.akoneplatit.sk
 :: www.akoneplatit.sk
 0.0.0.0 www.ala7sastube.net
@@ -59805,6 +59811,8 @@
 :: www.browntrkn.com
 0.0.0.0 www.browser-statistik.de
 :: www.browser-statistik.de
+0.0.0.0 www.browsersolution.win
+:: www.browsersolution.win
 0.0.0.0 www.bruceleevideo.tk
 :: www.bruceleevideo.tk
 0.0.0.0 www.bt.emsecure.net
@@ -64585,6 +64593,8 @@
 :: www213.hdhd55.com
 0.0.0.0 www238.killevo.com
 :: www238.killevo.com
+0.0.0.0 www246.oliwei.com
+:: www246.oliwei.com
 0.0.0.0 www25.bathandbodyworks.com
 :: www25.bathandbodyworks.com
 0.0.0.0 www25.victoriassecret.com
@@ -65003,6 +65013,8 @@
 :: xlpfycamwlsewxemknq5.alfacomercial.com.br
 0.0.0.0 xlsmoyvwt.ivydancefloors.com
 :: xlsmoyvwt.ivydancefloors.com
+0.0.0.0 xmdm.99.com.cn
+:: xmdm.99.com.cn
 0.0.0.0 xml.adfclick1.com
 :: xml.adfclick1.com
 0.0.0.0 xml.admeridian.com
@@ -65045,6 +65057,8 @@
 :: xmndo0p348-khb747bjg324yu934.bvokiretamuskas.in
 0.0.0.0 xn--d1abj0abs9d.in.ua
 :: xn--d1abj0abs9d.in.ua
+0.0.0.0 xne1ocient87zxz.360doc.cn
+:: xne1ocient87zxz.360doc.cn
 0.0.0.0 xobor.miranus.com
 :: xobor.miranus.com
 0.0.0.0 xoom.virgilio.it
@@ -65489,10 +65503,10 @@
 :: z.yellupload.com
 0.0.0.0 z0bu.dynu.com
 :: z0bu.dynu.com
+0.0.0.0 z1.cyla.cn
+:: z1.cyla.cn
 0.0.0.0 z1.icauto.com.cn
 :: z1.icauto.com.cn
-0.0.0.0 z1.zyjjqxw.com
-:: z1.zyjjqxw.com
 0.0.0.0 z1hihu.xmcimg.com
 :: z1hihu.xmcimg.com
 0.0.0.0 z32538.nb.host127-0-0-1.com
@@ -65669,6 +65683,8 @@
 :: zjfq4lnfbs7pncr5.tor2web.org
 0.0.0.0 zjjlf.croukwexdbyerr.net
 :: zjjlf.croukwexdbyerr.net
+0.0.0.0 zk.91post.com
+:: zk.91post.com
 0.0.0.0 zl1.bravo-deg.com
 :: zl1.bravo-deg.com
 0.0.0.0 zlalictr.cz.cc
