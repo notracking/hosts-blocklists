@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Mar 16 00:54:09 CET 2018
+# Last update: Sat Mar 17 01:01:08 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 32640
+# Number of unique hostnames: 32643
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -12037,6 +12037,8 @@
 :: affiliates.powweb.com
 0.0.0.0 affiliates.quintura.com
 :: affiliates.quintura.com
+0.0.0.0 affiliates.rozetka.com.ua
+:: affiliates.rozetka.com.ua
 0.0.0.0 affiliates.scorbet12.com
 :: affiliates.scorbet12.com
 0.0.0.0 affiliates.spark.net
@@ -22573,6 +22575,8 @@
 :: d24rtvkqjwgutp.cloudfront.net
 0.0.0.0 d258hxk86e2ixw.cloudfront.net
 :: d258hxk86e2ixw.cloudfront.net
+0.0.0.0 d258j801nsw1p7.cloudfront.net
+:: d258j801nsw1p7.cloudfront.net
 0.0.0.0 d25dm6si79ycpo.cloudfront.net
 :: d25dm6si79ycpo.cloudfront.net
 0.0.0.0 d25ruj6ht8bs1.cloudfront.net
@@ -27121,8 +27125,6 @@
 :: f150123.privacy4browsing.com
 0.0.0.0 f18085.privacy4browsers.com
 :: f18085.privacy4browsers.com
-0.0.0.0 f1c.m.b5200.org
-:: f1c.m.b5200.org
 0.0.0.0 f2.p0y.com
 :: f2.p0y.com
 0.0.0.0 f263w7.ndc.northern-dishedends.co.uk
@@ -40969,6 +40971,8 @@
 :: one.123counters.com
 0.0.0.0 one.520319.cn
 :: one.520319.cn
+0.0.0.0 one.88dus.com
+:: one.88dus.com
 0.0.0.0 one.azsportsent.info
 :: one.azsportsent.info
 0.0.0.0 one.buson.in
@@ -41373,6 +41377,8 @@
 :: oprd.gov.mk
 0.0.0.0 opserver01.iti.net.pk
 :: opserver01.iti.net.pk
+0.0.0.0 opskins.net.in
+:: opskins.net.in
 0.0.0.0 opt-upgrdhot.000webhostapp.com
 :: opt-upgrdhot.000webhostapp.com
 0.0.0.0 opt.ximad.com
