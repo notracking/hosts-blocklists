@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Mar 18 00:53:45 CET 2018
+# Last update: Mon Mar 19 01:03:14 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 32704
+# Number of unique hostnames: 32705
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -11687,6 +11687,8 @@
 :: afb-developers.pe.hu
 0.0.0.0 afb-services.96.lt
 :: afb-services.96.lt
+0.0.0.0 afd.baidu.com
+:: afd.baidu.com
 0.0.0.0 afdcadasd.000webhostapp.com
 :: afdcadasd.000webhostapp.com
 0.0.0.0 afeez.leatherforgay.co.uk
