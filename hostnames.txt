@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Mar 19 01:03:14 CET 2018
+# Last update: Tue Mar 20 01:16:42 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 32705
+# Number of unique hostnames: 32713
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -19019,6 +19019,8 @@
 :: cdn.spoutable.com
 0.0.0.0 cdn.stat.easydate.biz
 :: cdn.stat.easydate.biz
+0.0.0.0 cdn.streambeam.io
+:: cdn.streambeam.io
 0.0.0.0 cdn.syn.verticalacuity.com
 :: cdn.syn.verticalacuity.com
 0.0.0.0 cdn.tanx.com
@@ -19877,6 +19879,8 @@
 :: checking.alerts.capital-one.insidmaldesign.com
 0.0.0.0 checkingdomerition.borec.cz
 :: checkingdomerition.borec.cz
+0.0.0.0 checkingfree.thebig-centeralplacecontentprepared.review
+:: checkingfree.thebig-centeralplacecontentprepared.review
 0.0.0.0 checkofficeracct48.000webhostapp.com
 :: checkofficeracct48.000webhostapp.com
 0.0.0.0 checkout-secure.000webhostapp.com
@@ -35659,8 +35663,8 @@
 :: lm.dawenxue.org
 0.0.0.0 lm.visualware.com
 :: lm.visualware.com
-0.0.0.0 lm.xiashu.cc
-:: lm.xiashu.cc
+0.0.0.0 lm.xiashu.la
+:: lm.xiashu.la
 0.0.0.0 lm5.spyc.biz
 :: lm5.spyc.biz
 0.0.0.0 lm6recxr-site.gtempurl.com
@@ -37105,6 +37109,8 @@
 :: maxovvk2.beget.tech
 0.0.0.0 maxsecureacc4876.000webhostapp.com
 :: maxsecureacc4876.000webhostapp.com
+0.0.0.0 may-js.github.io
+:: may-js.github.io
 0.0.0.0 may.ancestrybloodhound.mobi
 :: may.ancestrybloodhound.mobi
 0.0.0.0 may.h-2-options.com
@@ -41263,6 +41269,8 @@
 :: opcwdns.opcw.nl
 0.0.0.0 opec.lflink.com
 :: opec.lflink.com
+0.0.0.0 open-hive-server-1.pp.ua
+:: open-hive-server-1.pp.ua
 0.0.0.0 open-x.technic3d.de
 :: open-x.technic3d.de
 0.0.0.0 open.24x7finance.com
@@ -41461,6 +41469,8 @@
 :: opserver01.iti.net.pk
 0.0.0.0 opskins.net.in
 :: opskins.net.in
+0.0.0.0 opskins.pp.ua
+:: opskins.pp.ua
 0.0.0.0 opt-upgrdhot.000webhostapp.com
 :: opt-upgrdhot.000webhostapp.com
 0.0.0.0 opt.ximad.com
@@ -44447,6 +44457,8 @@
 :: pong.netcaptor.com
 0.0.0.0 pong.prognet.com
 :: pong.prognet.com
+0.0.0.0 pool.hws.ru
+:: pool.hws.ru
 0.0.0.0 poolnoodle.tech.
 :: poolnoodle.tech.
 0.0.0.0 pop-over.powered-by.justplayzone.com
@@ -61125,6 +61137,8 @@
 :: www.freebechler.com
 0.0.0.0 www.freecamsecrets.com
 :: www.freecamsecrets.com
+0.0.0.0 www.freecontent.win
+:: www.freecontent.win
 0.0.0.0 www.freecounter.it
 :: www.freecounter.it
 0.0.0.0 www.freedominschool.com
@@ -64025,6 +64039,8 @@
 :: www.yasnogorie.tora.ru
 0.0.0.0 www.yataro.jp
 :: www.yataro.jp
+0.0.0.0 www.yc1234.com
+:: www.yc1234.com
 0.0.0.0 www.ydhyjy.com
 :: www.ydhyjy.com
 0.0.0.0 www.yibaruxet.cn
