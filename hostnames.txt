@@ -1,6 +1,6 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Mar 20 01:16:42 CET 2018
+# Last update: Wed Mar 21 01:12:37 CET 2018
 # Filter supports ipv4 and ipv6
 # Number of unique hostnames: 32713
 #################################[INFO]##################################
@@ -2317,6 +2317,8 @@
 :: a.macuser.co.uk
 0.0.0.0 a.meteonova.ru
 :: a.meteonova.ru
+0.0.0.0 a.mfcad.net
+:: a.mfcad.net
 0.0.0.0 a.mibbit.com
 :: a.mibbit.com
 0.0.0.0 a.mktw.net
@@ -13641,6 +13643,8 @@
 :: api.sharedcount.com
 0.0.0.0 api.stats.appa.pe
 :: api.stats.appa.pe
+0.0.0.0 api.systempartnerski.pl
+:: api.systempartnerski.pl
 0.0.0.0 api.taps.io
 :: api.taps.io
 0.0.0.0 api.target.smi2.net
@@ -16487,6 +16491,8 @@
 :: bdasd.wmxa.cn
 0.0.0.0 bdcode.youke.com
 :: bdcode.youke.com
+0.0.0.0 bdcode1.haodou.com
+:: bdcode1.haodou.com
 0.0.0.0 bdcqxaadv.freewww.info
 :: bdcqxaadv.freewww.info
 0.0.0.0 bddm.58news.org
@@ -18671,8 +18677,6 @@
 :: cdn-qc.coccoc.com
 0.0.0.0 cdn-rtb.sape.ru
 :: cdn-rtb.sape.ru
-0.0.0.0 cdn-social.janrain.com
-:: cdn-social.janrain.com
 0.0.0.0 cdn.2app.lk
 :: cdn.2app.lk
 0.0.0.0 cdn.2xbpub.com
@@ -51315,8 +51319,6 @@
 :: static.resetamobil.com
 0.0.0.0 static.retirementcommunitiesfyi.com
 :: static.retirementcommunitiesfyi.com
-0.0.0.0 static.rpxnow.com
-:: static.rpxnow.com
 0.0.0.0 static.salesresourcepartners.com
 :: static.salesresourcepartners.com
 0.0.0.0 static.smni.com
@@ -58803,8 +58805,6 @@
 :: widgetcf.adviceiq.com
 0.0.0.0 widgethost.barnebys.com
 :: widgethost.barnebys.com
-0.0.0.0 widgets-cdn.rpxnow.com
-:: widgets-cdn.rpxnow.com
 0.0.0.0 widgets.amazon.com
 :: widgets.amazon.com
 0.0.0.0 widgets.cam-content.com
