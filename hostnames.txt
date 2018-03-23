@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Mar 22 01:12:33 CET 2018
+# Last update: Fri Mar 23 01:18:35 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 32754
+# Number of unique hostnames: 32671
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -20363,8 +20363,6 @@
 :: click1.performance-zone.com
 0.0.0.0 click2.cafepress.com
 :: click2.cafepress.com
-0.0.0.0 click2.danarimedia.com
-:: click2.danarimedia.com
 0.0.0.0 click2.scour.com
 :: click2.scour.com
 0.0.0.0 clickad.eo.pl
@@ -54721,6 +54719,8 @@
 :: track.us.org
 0.0.0.0 track.v2.sslsecure1.com
 :: track.v2.sslsecure1.com
+0.0.0.0 track.viewdeos.com
+:: track.viewdeos.com
 0.0.0.0 track.viralvidi.com
 :: track.viralvidi.com
 0.0.0.0 track.vitringez.com
@@ -54793,6 +54793,8 @@
 :: track1.breakmedia.com
 0.0.0.0 track1.offers2004.com
 :: track1.offers2004.com
+0.0.0.0 track1.viewdeos.com
+:: track1.viewdeos.com
 0.0.0.0 track12.offersbymail.com
 :: track12.offersbymail.com
 0.0.0.0 track2.cliplister.com
@@ -63119,6 +63121,8 @@
 :: www.searchapps.me
 0.0.0.0 www.searchdot.com
 :: www.searchdot.com
+0.0.0.0 www.searchfusion.com
+:: www.searchfusion.com
 0.0.0.0 www.searchv.com
 :: www.searchv.com
 0.0.0.0 www.secondome.com
@@ -63415,8 +63419,6 @@
 :: www.taichang.co.kr
 0.0.0.0 www.talentbroker.net
 :: www.talentbroker.net
-0.0.0.0 www.talia-mettler.us
-:: www.talia-mettler.us
 0.0.0.0 www.tamilrockers.link
 :: www.tamilrockers.link
 0.0.0.0 www.tanger.com.br
@@ -63427,8 +63429,6 @@
 :: www.tao123.com
 0.0.0.0 www.tapfortap.com
 :: www.tapfortap.com
-0.0.0.0 www.tarakc1.net
-:: www.tarakc1.net
 0.0.0.0 www.targeted-banners.com
 :: www.targeted-banners.com
 0.0.0.0 www.targetedemaillists.com
@@ -63437,8 +63437,6 @@
 :: www.targetedemailmarketing.com
 0.0.0.0 www.targetmarketingusa.com
 :: www.targetmarketingusa.com
-0.0.0.0 www.tarkita.ru
-:: www.tarkita.ru
 0.0.0.0 www.tatirivoire.com.br
 :: www.tatirivoire.com.br
 0.0.0.0 www.td553.com
@@ -63465,20 +63463,10 @@
 :: www.teleeye.com.ph
 0.0.0.0 www.templatezone.com
 :: www.templatezone.com
-0.0.0.0 www.teresa-taveras.us
-:: www.teresa-taveras.us
 0.0.0.0 www.terraads.net
 :: www.terraads.net
-0.0.0.0 www.terri-camarena.us
-:: www.terri-camarena.us
-0.0.0.0 www.terri-macomber.us
-:: www.terri-macomber.us
-0.0.0.0 www.terri-thrailkill.us
-:: www.terri-thrailkill.us
 0.0.0.0 www.tesimages.com
 :: www.tesimages.com
-0.0.0.0 www.tess-nell.us
-:: www.tess-nell.us
 0.0.0.0 www.test-zdrady-na-telefon.pl
 :: www.test-zdrady-na-telefon.pl
 0.0.0.0 www.testracking.com
@@ -63493,8 +63481,6 @@
 :: www.textlinkads.com
 0.0.0.0 www.tfuller.com
 :: www.tfuller.com
-0.0.0.0 www.thanksforinstalling.com
-:: www.thanksforinstalling.com
 0.0.0.0 www.thatrendsystem.com
 :: www.thatrendsystem.com
 0.0.0.0 www.the-binary-options-guide.com
@@ -63513,16 +63499,8 @@
 :: www.thegaymen.com
 0.0.0.0 www.thehitman.com
 :: www.thehitman.com
-0.0.0.0 www.theoads.com
-:: www.theoads.com
 0.0.0.0 www.thereefrestaurant.com
 :: www.thereefrestaurant.com
-0.0.0.0 www.theresa-buchman.us
-:: www.theresa-buchman.us
-0.0.0.0 www.theresa-ellett.us
-:: www.theresa-ellett.us
-0.0.0.0 www.theresa-zirkle.us
-:: www.theresa-zirkle.us
 0.0.0.0 www.thesarus.co
 :: www.thesarus.co
 0.0.0.0 www.thesexcinema.com
@@ -63535,28 +63513,14 @@
 :: www.thetop10.com
 0.0.0.0 www.thetraderinpajamas.com
 :: www.thetraderinpajamas.com
-0.0.0.0 www.thetravelcards.com
-:: www.thetravelcards.com
-0.0.0.0 www.thevanda.tk
-:: www.thevanda.tk
 0.0.0.0 www.thewaycloud.com
 :: www.thewaycloud.com
 0.0.0.0 www.tickerassist.co.uk
 :: www.tickerassist.co.uk
 0.0.0.0 www.tiergestuetzt.de
 :: www.tiergestuetzt.de
-0.0.0.0 www.tiffanie-doane.us
-:: www.tiffanie-doane.us
-0.0.0.0 www.tiffanie-machin.us
-:: www.tiffanie-machin.us
-0.0.0.0 www.tiffany-santee.us
-:: www.tiffany-santee.us
-0.0.0.0 www.tigerloads.com
-:: www.tigerloads.com
 0.0.0.0 www.timefor.com
 :: www.timefor.com
-0.0.0.0 www.tina-skiles.us
-:: www.tina-skiles.us
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tings.com
@@ -63567,20 +63531,14 @@
 :: www.tinybox.com
 0.0.0.0 www.tinydicks.com
 :: www.tinydicks.com
-0.0.0.0 www.tisha-stickney.us
-:: www.tisha-stickney.us
 0.0.0.0 www.titansbet.com.au
 :: www.titansbet.com.au
 0.0.0.0 www.tittis.com
 :: www.tittis.com
 0.0.0.0 www.tkdami.net
 :: www.tkdami.net
-0.0.0.0 www.tll.tl
-:: www.tll.tl
 0.0.0.0 www.to-j.com
 :: www.to-j.com
-0.0.0.0 www.tojoh.info
-:: www.tojoh.info
 0.0.0.0 www.tomtomnavigation.org
 :: www.tomtomnavigation.org
 0.0.0.0 www.toochattoo.com
@@ -63613,12 +63571,8 @@
 :: www.topblogs.com.ph
 0.0.0.0 www.topclubpalmas.com.br
 :: www.topclubpalmas.com.br
-0.0.0.0 www.topixc.net
-:: www.topixc.net
 0.0.0.0 www.toplistim.com
 :: www.toplistim.com
-0.0.0.0 www.toppagefinder.com
-:: www.toppagefinder.com
 0.0.0.0 www.topsiteguide.com
 :: www.topsiteguide.com
 0.0.0.0 www.topsites24.de
@@ -63629,8 +63583,6 @@
 :: www.topsiteuri.ro
 0.0.0.0 www.toptracker.ru
 :: www.toptracker.ru
-0.0.0.0 www.tori-rakes.us
-:: www.tori-rakes.us
 0.0.0.0 www.toriyo.tj
 :: www.toriyo.tj
 0.0.0.0 www.torrent.pl
@@ -63649,28 +63601,16 @@
 :: www.tr100.net
 0.0.0.0 www.tracc.it
 :: www.tracc.it
-0.0.0.0 www.traci-sirianni.us
-:: www.traci-sirianni.us
 0.0.0.0 www.tracker.peerclick.io
 :: www.tracker.peerclick.io
-0.0.0.0 www.trackflv.net
-:: www.trackflv.net
 0.0.0.0 www.trackhost.com
 :: www.trackhost.com
 0.0.0.0 www.trackimpression.com
 :: www.trackimpression.com
-0.0.0.0 www.trackingbin.com
-:: www.trackingbin.com
 0.0.0.0 www.trackingclick.net
 :: www.trackingclick.net
-0.0.0.0 www.trackinguk2.com
-:: www.trackinguk2.com
-0.0.0.0 www.tracknewsletter.com
-:: www.tracknewsletter.com
 0.0.0.0 www.traffe.eu
 :: www.traffe.eu
-0.0.0.0 www.traffic-exchanger.net
-:: www.traffic-exchanger.net
 0.0.0.0 www.traffic-trades.com
 :: www.traffic-trades.com
 0.0.0.0 www.traffic4u.com
@@ -63679,8 +63619,6 @@
 :: www.trafficbeamer.com
 0.0.0.0 www.trafficbeamer.nl
 :: www.trafficbeamer.nl
-0.0.0.0 www.trafficcash.biz
-:: www.trafficcash.biz
 0.0.0.0 www.trafficcenter.de
 :: www.trafficcenter.de
 0.0.0.0 www.trafficflame.com
@@ -63695,8 +63633,6 @@
 :: www.trafficpace.com
 0.0.0.0 www.trafficresults.com
 :: www.trafficresults.com
-0.0.0.0 www.traffspot.com
-:: www.traffspot.com
 0.0.0.0 www.trafix.ro
 :: www.trafix.ro
 0.0.0.0 www.trails.nu
@@ -63709,20 +63645,12 @@
 :: www.trendsonline.me
 0.0.0.0 www.trendsonline.mobi
 :: www.trendsonline.mobi
-0.0.0.0 www.trisha-meikle.us
-:: www.trisha-meikle.us
-0.0.0.0 www.trkag1.com
-:: www.trkag1.com
 0.0.0.0 www.trkfl.com
 :: www.trkfl.com
 0.0.0.0 www.trkr1.com
 :: www.trkr1.com
 0.0.0.0 www.trkroi.com
 :: www.trkroi.com
-0.0.0.0 www.trksst.com
-:: www.trksst.com
-0.0.0.0 www.trkzen.com
-:: www.trkzen.com
 0.0.0.0 www.trndsys.mobi
 :: www.trndsys.mobi
 0.0.0.0 www.trucktirehotline.com
@@ -63731,8 +63659,6 @@
 :: www.truegritanimation.com
 0.0.0.0 www.truetraffic4u.com
 :: www.truetraffic4u.com
-0.0.0.0 www.tryry.info
-:: www.tryry.info
 0.0.0.0 www.tsgonline.com
 :: www.tsgonline.com
 0.0.0.0 www.tsrparaclk.biz
@@ -63777,8 +63703,6 @@
 :: www.ultimatesearch.com
 0.0.0.0 www.ultimatetopsites.com
 :: www.ultimatetopsites.com
-0.0.0.0 www.um-per.com
-:: www.um-per.com
 0.0.0.0 www.uncover.us
 :: www.uncover.us
 0.0.0.0 www.unicaitaly.it
@@ -63801,8 +63725,6 @@
 :: www.uriyuri.com
 0.0.0.0 www.urmediazone.com
 :: www.urmediazone.com
-0.0.0.0 www.urx.io
-:: www.urx.io
 0.0.0.0 www.usaenterprise.com
 :: www.usaenterprise.com
 0.0.0.0 www.usaphotocopyservice.com
@@ -63821,24 +63743,14 @@
 :: www.v3club.net
 0.0.0.0 www.v61.com
 :: www.v61.com
-0.0.0.0 www.valarie-marceau.us
-:: www.valarie-marceau.us
-0.0.0.0 www.valeria-tremper.us
-:: www.valeria-tremper.us
-0.0.0.0 www.valerie-nilson.us
-:: www.valerie-nilson.us
 0.0.0.0 www.valhallarisingthemovie.co.uk
 :: www.valhallarisingthemovie.co.uk
 0.0.0.0 www.validatedsite.com
 :: www.validatedsite.com
 0.0.0.0 www.validview.com
 :: www.validview.com
-0.0.0.0 www.vanessa-cohn.us
-:: www.vanessa-cohn.us
 0.0.0.0 www.vaultsappsbyte.com
 :: www.vaultsappsbyte.com
-0.0.0.0 www.vdownloadall.com
-:: www.vdownloadall.com
 0.0.0.0 www.vertourmer.com
 :: www.vertourmer.com
 0.0.0.0 www.verypositiveus.com
@@ -63915,8 +63827,6 @@
 :: www.wantsfly.com
 0.0.0.0 www.wantstraffic.com
 :: www.wantstraffic.com
-0.0.0.0 www.wapdollar.in
-:: www.wapdollar.in
 0.0.0.0 www.watchlivestream.me.uk
 :: www.watchlivestream.me.uk
 0.0.0.0 www.waterpipe.ca
@@ -63953,8 +63863,6 @@
 :: www.webmoblink.com
 0.0.0.0 www.webos.in
 :: www.webos.in
-0.0.0.0 www.webquickfind.com
-:: www.webquickfind.com
 0.0.0.0 www.webservis.gen.tr
 :: www.webservis.gen.tr
 0.0.0.0 www.webshoptoppers.nl
@@ -63985,10 +63893,6 @@
 :: www.weitclick.de
 0.0.0.0 www.wellness.co.rs
 :: www.wellness.co.rs
-0.0.0.0 www.wendi-bell.us
-:: www.wendi-bell.us
-0.0.0.0 www.werehacked.com
-:: www.werehacked.com
 0.0.0.0 www.westbournec.com
 :: www.westbournec.com
 0.0.0.0 www.westreclameadvies.nl
@@ -64053,14 +63957,10 @@
 :: www.wowjs.1www.cn
 0.0.0.0 www.wrestlingexposed.com
 :: www.wrestlingexposed.com
-0.0.0.0 www.wsspeed.com
-:: www.wsspeed.com
 0.0.0.0 www.ww-tv.net
 :: www.ww-tv.net
 0.0.0.0 www.wwkiosk.com
 :: www.wwkiosk.com
-0.0.0.0 www.www-cm.com
-:: www.www-cm.com
 0.0.0.0 www.wwwblackdick.com
 :: www.wwwblackdick.com
 0.0.0.0 www.wwwfreesmut.com
@@ -64193,8 +64093,6 @@
 :: www.zipleads.com
 0.0.0.0 www.zlotyskok.pl
 :: www.zlotyskok.pl
-0.0.0.0 www.zoe-labat.us
-:: www.zoe-labat.us
 0.0.0.0 www.zyxyfy.com
 :: www.zyxyfy.com
 0.0.0.0 www1.100hot.com
@@ -64209,8 +64107,6 @@
 :: www1.firesavez5.com
 0.0.0.0 www1.firesavez6.com
 :: www1.firesavez6.com
-0.0.0.0 www1.fwarnr.us
-:: www1.fwarnr.us
 0.0.0.0 www1.gto-media.com
 :: www1.gto-media.com
 0.0.0.0 www1.mystats.nl
@@ -64251,8 +64147,6 @@
 :: www180.myway.com
 0.0.0.0 www198.jixnbl.com
 :: www198.jixnbl.com
-0.0.0.0 www1flypeit.maynemyltf.netdna-cdn.com
-:: www1flypeit.maynemyltf.netdna-cdn.com
 0.0.0.0 www2.a-counter.kiev.ua
 :: www2.a-counter.kiev.ua
 0.0.0.0 www2.acint.net
@@ -64269,14 +64163,10 @@
 :: www2.delta-search.com
 0.0.0.0 www2.discount-pharmacy-online-e.com
 :: www2.discount-pharmacy-online-e.com
-0.0.0.0 www2.fwarnr.us
-:: www2.fwarnr.us
 0.0.0.0 www2.kampanyatakip.net
 :: www2.kampanyatakip.net
 0.0.0.0 www2.kiehls.com
 :: www2.kiehls.com
-0.0.0.0 www2.mawords.com
-:: www2.mawords.com
 0.0.0.0 www2.mystats.nl
 :: www2.mystats.nl
 0.0.0.0 www2.purecandygirls.com
@@ -64313,8 +64203,6 @@
 :: www3.delta-search.com
 0.0.0.0 www3.exn.net
 :: www3.exn.net
-0.0.0.0 www3.fwarnr.us
-:: www3.fwarnr.us
 0.0.0.0 www3.haberturk.com
 :: www3.haberturk.com
 0.0.0.0 www3.ihaberadserver.com
@@ -64345,26 +64233,8 @@
 :: www4.directrdr.com
 0.0.0.0 www4.dk3.com
 :: www4.dk3.com
-0.0.0.0 www4.efailf.us
-:: www4.efailf.us
-0.0.0.0 www4.efailo.us
-:: www4.efailo.us
 0.0.0.0 www4.epac.to
 :: www4.epac.to
-0.0.0.0 www4.fwarna.us
-:: www4.fwarna.us
-0.0.0.0 www4.fwarnf.us
-:: www4.fwarnf.us
-0.0.0.0 www4.fwarno.us
-:: www4.fwarno.us
-0.0.0.0 www4.fwarnp.us
-:: www4.fwarnp.us
-0.0.0.0 www4.fwarnr.us
-:: www4.fwarnr.us
-0.0.0.0 www4.fwarnv.us
-:: www4.fwarnv.us
-0.0.0.0 www4.fwarnz.us
-:: www4.fwarnz.us
 0.0.0.0 www4.gy7k.net
 :: www4.gy7k.net
 0.0.0.0 www4.kampanyatakip.net
@@ -64379,8 +64249,6 @@
 :: www49.playercdn.net
 0.0.0.0 www5.3-a.net
 :: www5.3-a.net
-0.0.0.0 www5.fwarnr.us
-:: www5.fwarnr.us
 0.0.0.0 www5.kampanyatakip.net
 :: www5.kampanyatakip.net
 0.0.0.0 www5.mackolik1.com
@@ -64395,8 +64263,6 @@
 :: www57.kannilulu.com
 0.0.0.0 www6.ezua.com
 :: www6.ezua.com
-0.0.0.0 www6.fwarnr.us
-:: www6.fwarnr.us
 0.0.0.0 www6.kampanyatakip.net
 :: www6.kampanyatakip.net
 0.0.0.0 www6.mystats.nl
@@ -64417,8 +64283,6 @@
 :: www69.ugly.as
 0.0.0.0 www7.31mnn.com
 :: www7.31mnn.com
-0.0.0.0 www7.fwarnr.us
-:: www7.fwarnr.us
 0.0.0.0 www7.kampanyatakip.net
 :: www7.kampanyatakip.net
 0.0.0.0 www7.mystats.nl
@@ -64427,8 +64291,6 @@
 :: www7.ygto.com
 0.0.0.0 www8.0zz0.com
 :: www8.0zz0.com
-0.0.0.0 www8.fwarnr.us
-:: www8.fwarnr.us
 0.0.0.0 www8.mystats.nl
 :: www8.mystats.nl
 0.0.0.0 www8.tucows.com
@@ -64437,8 +64299,6 @@
 :: www9.collectiblestoday.com
 0.0.0.0 www9.compblue.com
 :: www9.compblue.com
-0.0.0.0 www9.fwarnr.us
-:: www9.fwarnr.us
 0.0.0.0 www9.mystats.nl
 :: www9.mystats.nl
 0.0.0.0 www9.servequake.com
@@ -64615,8 +64475,6 @@
 :: x9.ifdef.jp
 0.0.0.0 x95752.earth.northerndishedends.co.uk
 :: x95752.earth.northerndishedends.co.uk
-0.0.0.0 xa.xingcloud.com
-:: xa.xingcloud.com
 0.0.0.0 xaca15.earth.northerndishedends.co.uk
 :: xaca15.earth.northerndishedends.co.uk
 0.0.0.0 xads.100links.com
@@ -64735,8 +64593,6 @@
 :: xml.explorads.com
 0.0.0.0 xml.ezmob.com
 :: xml.ezmob.com
-0.0.0.0 xml.fusionxml.com
-:: xml.fusionxml.com
 0.0.0.0 xml.mxsads.com
 :: xml.mxsads.com
 0.0.0.0 xml.nbcsearch.com
@@ -64747,8 +64603,6 @@
 :: xml.plusfind.net
 0.0.0.0 xml.sahcdn.com
 :: xml.sahcdn.com
-0.0.0.0 xml.searcherpro.net
-:: xml.searcherpro.net
 0.0.0.0 xml.seekandsee.com
 :: xml.seekandsee.com
 0.0.0.0 xml.vokut.com
@@ -64925,8 +64779,6 @@
 :: xzwwvr.gb.londondampproofer.co.uk
 0.0.0.0 xzz.goodoboy.com
 :: xzz.goodoboy.com
-0.0.0.0 y.analytics.yahoo.com
-:: y.analytics.yahoo.com
 0.0.0.0 y.damifan.cn
 :: y.damifan.cn
 0.0.0.0 y.net-games.co.il
@@ -64997,8 +64849,6 @@
 :: yannick.delamarre.free.fr
 0.0.0.0 yanshidairy.000webhostapp.com
 :: yanshidairy.000webhostapp.com
-0.0.0.0 yapi.awe.sm
-:: yapi.awe.sm
 0.0.0.0 yasnogorie.tora.ru
 :: yasnogorie.tora.ru
 0.0.0.0 yast.rutube.ru
@@ -65043,8 +64893,6 @@
 :: ychan.pctools.revenuewire.net
 0.0.0.0 ycrpdty.kbgswwogodd.ml
 :: ycrpdty.kbgswwogodd.ml
-0.0.0.0 ycv.netadsloc.com
-:: ycv.netadsloc.com
 0.0.0.0 ydjqtsamhn.bradul.creatory.org
 :: ydjqtsamhn.bradul.creatory.org
 0.0.0.0 yea.uploadimagex.com
@@ -65135,8 +64983,6 @@
 :: yoyo-zdjecia.bo.pl
 0.0.0.0 yp.uxernab.com
 :: yp.uxernab.com
-0.0.0.0 ypn-js.ysm.yahoo.com
-:: ypn-js.ysm.yahoo.com
 0.0.0.0 ypufubegopem.mynetav.org
 :: ypufubegopem.mynetav.org
 0.0.0.0 yrpdgiti.cz.cc
@@ -65199,8 +65045,6 @@
 :: z.nowscore.com
 0.0.0.0 z.on.aol.com
 :: z.on.aol.com
-0.0.0.0 z.times.lv
-:: z.times.lv
 0.0.0.0 z.yellupload.com
 :: z.yellupload.com
 0.0.0.0 z0bu.dynu.com
@@ -65413,8 +65257,6 @@
 :: zmoda.hostreo.com
 0.0.0.0 znaptag-us.s3.amazonaws.com
 :: znaptag-us.s3.amazonaws.com
-0.0.0.0 zo6.adservlite.com
-:: zo6.adservlite.com
 0.0.0.0 zobaczktopodgladaa.blogspot.com
 :: zobaczktopodgladaa.blogspot.com
 0.0.0.0 zobaczto.pisz.pl
@@ -65443,14 +65285,6 @@
 :: zone.laurita.net
 0.0.0.0 zone.raincollectiontanks.com
 :: zone.raincollectiontanks.com
-0.0.0.0 zone01.advertik.com
-:: zone01.advertik.com
-0.0.0.0 zone02.advertik.com
-:: zone02.advertik.com
-0.0.0.0 zone03.advertik.com
-:: zone03.advertik.com
-0.0.0.0 zone04.advertik.com
-:: zone04.advertik.com
 0.0.0.0 zork.jerkngo.com
 :: zork.jerkngo.com
 0.0.0.0 zous.szm.sk
