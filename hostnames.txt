@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Mar 27 11:54:21 CEST 2018
+# Last update: Wed Mar 28 01:15:42 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 32766
+# Number of unique hostnames: 32767
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -61671,6 +61671,8 @@
 :: www.guyvsgirl.com
 0.0.0.0 www.gwebspace.de
 :: www.gwebspace.de
+0.0.0.0 www.gzjjtz.com
+:: www.gzjjtz.com
 0.0.0.0 www.h3h2h1.com
 :: www.h3h2h1.com
 0.0.0.0 www.hacker-reporte.net
