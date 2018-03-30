@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Mar 30 01:15:01 CEST 2018
+# Last update: Sat Mar 31 01:18:44 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 32838
+# Number of unique hostnames: 32851
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -10755,6 +10755,8 @@
 :: adservice.everyone.com
 0.0.0.0 adservice.everyone.net
 :: adservice.everyone.net
+0.0.0.0 adservice.google.ca
+:: adservice.google.ca
 0.0.0.0 adservice.google.com
 :: adservice.google.com
 0.0.0.0 adservice.google.com.tr
@@ -18969,6 +18971,8 @@
 :: cdn.gameadvert.com
 0.0.0.0 cdn.geni.us
 :: cdn.geni.us
+0.0.0.0 cdn.getsmartcontent.com
+:: cdn.getsmartcontent.com
 0.0.0.0 cdn.goateastcach.us
 :: cdn.goateastcach.us
 0.0.0.0 cdn.hanaging.info
@@ -34205,8 +34209,6 @@
 :: js.smartredirect.de
 0.0.0.0 js.smi2.ru
 :: js.smi2.ru
-0.0.0.0 js.srcsmrtgs.com
-:: js.srcsmrtgs.com
 0.0.0.0 js.stats.de
 :: js.stats.de
 0.0.0.0 js.stormcontainertag.com
@@ -42289,12 +42291,16 @@
 :: p0stepay-p0ste-it-start-lista-m0vimenti-accedi-utent001928.25u.com
 0.0.0.0 p1.18zhongyao.com
 :: p1.18zhongyao.com
+0.0.0.0 p1.assetscdn.stream
+:: p1.assetscdn.stream
 0.0.0.0 p13n-int.herokuapp.com
 :: p13n-int.herokuapp.com
 0.0.0.0 p13n-test.herokuapp.com
 :: p13n-test.herokuapp.com
 0.0.0.0 p1wmbu.koll.pershoreairporttransfers.co.uk
 :: p1wmbu.koll.pershoreairporttransfers.co.uk
+0.0.0.0 p2.assetscdn.stream
+:: p2.assetscdn.stream
 0.0.0.0 p2.dnvod.tv
 :: p2.dnvod.tv
 0.0.0.0 p2.l.qq.com
@@ -42579,6 +42585,8 @@
 :: p27dokhpz2n7nvgr.1wmvk2.top
 0.0.0.0 p2hzz.alldownloads.hapc.gdn
 :: p2hzz.alldownloads.hapc.gdn
+0.0.0.0 p3.assetscdn.stream
+:: p3.assetscdn.stream
 0.0.0.0 p3.dnvod.tv
 :: p3.dnvod.tv
 0.0.0.0 p30download.ads.saba-e.com
@@ -46437,6 +46445,8 @@
 :: qwwxb.yrezonvtrkc.tk
 0.0.0.0 qxpx3c.angell.vantagetennis.co.uk
 :: qxpx3c.angell.vantagetennis.co.uk
+0.0.0.0 qxxru.linknotification.com
+:: qxxru.linknotification.com
 0.0.0.0 qy.corrmedic.ru
 :: qy.corrmedic.ru
 0.0.0.0 qz.informs.com
@@ -48243,6 +48253,8 @@
 :: s1.rotaban.ru
 0.0.0.0 s1.teknum.com
 :: s1.teknum.com
+0.0.0.0 s1.vidtod.me
+:: s1.vidtod.me
 0.0.0.0 s12an3.boss.northerndishedends.uk
 :: s12an3.boss.northerndishedends.uk
 0.0.0.0 s133d7.virtualxs.com
@@ -48261,6 +48273,8 @@
 :: s2.rotaban.ru
 0.0.0.0 s2.socialannex.com
 :: s2.socialannex.com
+0.0.0.0 s2.vidtod.me
+:: s2.vidtod.me
 0.0.0.0 s2.youtube.com
 :: s2.youtube.com
 0.0.0.0 s212.ucoz.net
@@ -48281,6 +48295,8 @@
 :: s3-tracking.synthasite.net.s3.amazonaws.com
 0.0.0.0 s3.ongsono.com
 :: s3.ongsono.com
+0.0.0.0 s3.vidtod.me
+:: s3.vidtod.me
 0.0.0.0 s32.bilsay.com
 :: s32.bilsay.com
 0.0.0.0 s32.research.de.com
@@ -52975,6 +52991,8 @@
 :: sync.credebat.com
 0.0.0.0 sync.darikweb.com
 :: sync.darikweb.com
+0.0.0.0 sync.pulseradius.com
+:: sync.pulseradius.com
 0.0.0.0 sync.ttlbd.net
 :: sync.ttlbd.net
 0.0.0.0 sync.upravel.com
@@ -59641,12 +59659,18 @@
 :: ws.yellowpages.ca
 0.0.0.0 ws01.do.nu
 :: ws01.do.nu
+0.0.0.0 ws01cn.streamplay.to
+:: ws01cn.streamplay.to
 0.0.0.0 ws02.do.nu
 :: ws02.do.nu
+0.0.0.0 ws02cn.streamplay.to
+:: ws02cn.streamplay.to
 0.0.0.0 ws03.do.nu
 :: ws03.do.nu
 0.0.0.0 ws03.home.sapo.pt
 :: ws03.home.sapo.pt
+0.0.0.0 ws03cn.streamplay.to
+:: ws03cn.streamplay.to
 0.0.0.0 ws04.do.nu
 :: ws04.do.nu
 0.0.0.0 ws04.home.sapo.pt
@@ -60409,6 +60433,8 @@
 :: www.artisticasrl.com
 0.0.0.0 www.asiansforu.com
 :: www.asiansforu.com
+0.0.0.0 www.assetscdn.stream
+:: www.assetscdn.stream
 0.0.0.0 www.astalavista.us
 :: www.astalavista.us
 0.0.0.0 www.asworld.com
