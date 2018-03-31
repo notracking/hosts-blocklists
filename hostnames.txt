@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Mar 31 01:18:44 CEST 2018
+# Last update: Sun Apr 1 01:08:20 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 32851
+# Number of unique hostnames: 32857
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -1831,6 +1831,8 @@
 :: 6.bbnface.com
 0.0.0.0 6.bbnsmsgateway.com
 :: 6.bbnsmsgateway.com
+0.0.0.0 6.mamaswishes.com
+:: 6.mamaswishes.com
 0.0.0.0 6.spacepur.de
 :: 6.spacepur.de
 0.0.0.0 60aalexandrastreetcom.domainstel.org
@@ -3115,8 +3117,6 @@
 :: ad-pub.terra.com
 0.0.0.0 ad-pub.terra.com.mx
 :: ad-pub.terra.com.mx
-0.0.0.0 ad-resource.huanqiu.com
-:: ad-resource.huanqiu.com
 0.0.0.0 ad-server.gulasidorna.se
 :: ad-server.gulasidorna.se
 0.0.0.0 ad-uk.tiscali.com
@@ -14491,6 +14491,8 @@
 :: assets.devx.com
 0.0.0.0 assets.igapi.com
 :: assets.igapi.com
+0.0.0.0 assets.ipcdigital.co.uk
+:: assets.ipcdigital.co.uk
 0.0.0.0 assets.kuhlmann-software.at
 :: assets.kuhlmann-software.at
 0.0.0.0 assets.olark.com
@@ -17069,6 +17071,8 @@
 :: bjwwfx001.org.cn
 0.0.0.0 bk-sirius.kiev.ua
 :: bk-sirius.kiev.ua
+0.0.0.0 bk9gun.vpser.net
+:: bk9gun.vpser.net
 0.0.0.0 bkcsut.nelly.debbiewilliamsrecordings.com
 :: bkcsut.nelly.debbiewilliamsrecordings.com
 0.0.0.0 bl.wavecdn.de
@@ -18431,6 +18435,8 @@
 :: call.gobarefootbeach.com
 0.0.0.0 call.i-kiddi.co.uk
 :: call.i-kiddi.co.uk
+0.0.0.0 call.stopitanddropit.com
+:: call.stopitanddropit.com
 0.0.0.0 call.zarcainteractive.com
 :: call.zarcainteractive.com
 0.0.0.0 callgirls.de.lv
@@ -18811,8 +18817,6 @@
 :: cdn.adultforce.com
 0.0.0.0 cdn.adultsadv.com
 :: cdn.adultsadv.com
-0.0.0.0 cdn.advancedmactools.com
-:: cdn.advancedmactools.com
 0.0.0.0 cdn.advanseads.com
 :: cdn.advanseads.com
 0.0.0.0 cdn.ajcryptominer.com
@@ -21895,6 +21899,8 @@
 :: creams.makeforum.eu
 0.0.0.0 create.followerinfo.xyz
 :: create.followerinfo.xyz
+0.0.0.0 create.lidstatic.com
+:: create.lidstatic.com
 0.0.0.0 create.todaysquotes.com
 :: create.todaysquotes.com
 0.0.0.0 creative.abestservers.com
@@ -29187,8 +29193,6 @@
 :: full-movies-online.cba.pl
 0.0.0.0 full-sailed-match.000webhostapp.com
 :: full-sailed-match.000webhostapp.com
-0.0.0.0 full.pr0gramm.com
-:: full.pr0gramm.com
 0.0.0.0 full.schuettfarmsmt.com
 :: full.schuettfarmsmt.com
 0.0.0.0 fumichal.000webhostapp.com
@@ -30129,6 +30133,8 @@
 :: glamoureete.xtgem.com
 0.0.0.0 glamourphotos.jepose.com
 :: glamourphotos.jepose.com
+0.0.0.0 glb.activeprospect.com
+:: glb.activeprospect.com
 0.0.0.0 glclk.about.com
 :: glclk.about.com
 0.0.0.0 glean.pop6.com
@@ -38761,6 +38767,8 @@
 :: modify.mcsdistrict.org
 0.0.0.0 modify.rainanalysis.com
 :: modify.rainanalysis.com
+0.0.0.0 modules.wcax.com
+:: modules.wcax.com
 0.0.0.0 modus.nike.com
 :: modus.nike.com
 0.0.0.0 mohona.buckybits.com
@@ -46239,6 +46247,8 @@
 :: pxlctl.as.com
 0.0.0.0 pxlctl.elpais.com
 :: pxlctl.elpais.com
+0.0.0.0 pxlgnpgecom-a.akamaihd.net
+:: pxlgnpgecom-a.akamaihd.net
 0.0.0.0 pybul.bestfrozenporn.nl
 :: pybul.bestfrozenporn.nl
 0.0.0.0 pyr8q2bncb4hdy4zutgr.mbservicesyorkshire.co.uk
@@ -55249,6 +55259,8 @@
 :: tracker.mozo.com.au
 0.0.0.0 tracker.msales.com
 :: tracker.msales.com
+0.0.0.0 tracker.nbcuas.com
+:: tracker.nbcuas.com
 0.0.0.0 tracker.neon-images.com
 :: tracker.neon-images.com
 0.0.0.0 tracker.netmechanic.com
@@ -58077,8 +58089,6 @@
 :: voyeurs.petitecoquine.com
 0.0.0.0 vp.tscapeplay.com
 :: vp.tscapeplay.com
-0.0.0.0 vp5.sudohost.com.br
-:: vp5.sudohost.com.br
 0.0.0.0 vpqqt1.boro.katsujinken.co.uk
 :: vpqqt1.boro.katsujinken.co.uk
 0.0.0.0 vps-20046.fhnet.fr
@@ -58451,8 +58461,6 @@
 :: wait.sogoform.com
 0.0.0.0 wake.greatchittorgarh.com
 :: wake.greatchittorgarh.com
-0.0.0.0 wakeschool.ru.optimus.mtw.ru
-:: wakeschool.ru.optimus.mtw.ru
 0.0.0.0 walec.ovh.org
 :: walec.ovh.org
 0.0.0.0 wall.zarcainteractive.com
@@ -60213,8 +60221,6 @@
 :: www.adultsonlyvids.com
 0.0.0.0 www.advancedmaccleaner.com
 :: www.advancedmaccleaner.com
-0.0.0.0 www.advancedmactools.com
-:: www.advancedmactools.com
 0.0.0.0 www.advancesrl.eu
 :: www.advancesrl.eu
 0.0.0.0 www.advanpromo.com
@@ -63021,6 +63027,8 @@
 :: www.paypal-secure.me
 0.0.0.0 www.paypal-update-check.top
 :: www.paypal-update-check.top
+0.0.0.0 www.payperclickadvertising.org.uk
+:: www.payperclickadvertising.org.uk
 0.0.0.0 www.pccovers.net
 :: www.pccovers.net
 0.0.0.0 www.peachy18.com
@@ -64987,6 +64995,8 @@
 :: xoq.free.fr
 0.0.0.0 xotsa.frenchgerlemanelectric.com
 :: xotsa.frenchgerlemanelectric.com
+0.0.0.0 xpath.syncrvprodist.com
+:: xpath.syncrvprodist.com
 0.0.0.0 xpcs.ads.yahoo.com
 :: xpcs.ads.yahoo.com
 0.0.0.0 xpcx6erilkjced3j.16hwwh.top
@@ -65341,6 +65351,8 @@
 :: yoyo-zdjecia.bo.pl
 0.0.0.0 yp.uxernab.com
 :: yp.uxernab.com
+0.0.0.0 ypu.edu.tw
+:: ypu.edu.tw
 0.0.0.0 ypufubegopem.mynetav.org
 :: ypufubegopem.mynetav.org
 0.0.0.0 yrpdgiti.cz.cc
