@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Apr 2 01:10:57 CEST 2018
+# Last update: Tue Apr 3 01:15:36 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 32651
+# Number of unique hostnames: 32655
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -17189,6 +17189,8 @@
 :: blportal.rapidns.com
 0.0.0.0 blu.mobileads.msn.com
 :: blu.mobileads.msn.com
+0.0.0.0 blue-js.github.io
+:: blue-js.github.io
 0.0.0.0 blue.rain-harvesting-designs.com
 :: blue.rain-harvesting-designs.com
 0.0.0.0 blue.sexer.com
@@ -39373,6 +39375,8 @@
 :: newdata.box.sk
 0.0.0.0 newip427.changeip.net
 :: newip427.changeip.net
+0.0.0.0 newliveupdate.thereadycentercontentingplacefree.download
+:: newliveupdate.thereadycentercontentingplacefree.download
 0.0.0.0 newmatch663photos.96.lt
 :: newmatch663photos.96.lt
 0.0.0.0 newmatch71pics.890m.com
@@ -53601,6 +53605,10 @@
 :: thecockpit.allmanpages.com
 0.0.0.0 thehautesociete3.visionpush.com
 :: thehautesociete3.visionpush.com
+0.0.0.0 thelifeisbinary.ddns.net
+:: thelifeisbinary.ddns.net
+0.0.0.0 thelifeisbinary.netlify.com
+:: thelifeisbinary.netlify.com
 0.0.0.0 themes.opencartgulf.com
 :: themes.opencartgulf.com
 0.0.0.0 themis.yahoo.com
