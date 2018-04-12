@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Apr 11 05:18:17 CEST 2018
+# Last update: Thu Apr 12 05:18:10 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35085
+# Number of unique hostnames: 35107
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2377,6 +2377,8 @@
 :: a.lolwot.com
 0.0.0.0 a.lz13.cn
 :: a.lz13.cn
+0.0.0.0 a.m.gxwztv.com
+:: a.m.gxwztv.com
 0.0.0.0 a.m.shuhuangge.org
 :: a.m.shuhuangge.org
 0.0.0.0 a.macuser.co.uk
@@ -2531,6 +2533,8 @@
 :: a.walla.co.il
 0.0.0.0 a.watershed-publishing.com
 :: a.watershed-publishing.com
+0.0.0.0 a.wlfnb.com
+:: a.wlfnb.com
 0.0.0.0 a.wyzmob.com
 :: a.wyzmob.com
 0.0.0.0 a.xanga.com
@@ -14275,6 +14279,8 @@
 :: api.innomdc.com
 0.0.0.0 api.ipinfodb.com
 :: api.ipinfodb.com
+0.0.0.0 api.ireai.cn
+:: api.ireai.cn
 0.0.0.0 api.iris.tv
 :: api.iris.tv
 0.0.0.0 api.lazyswipe.com
@@ -19091,6 +19097,8 @@
 :: c.gmtrack.com
 0.0.0.0 c.gr.msn.com
 :: c.gr.msn.com
+0.0.0.0 c.gzsanxiaomingshi.cn
+:: c.gzsanxiaomingshi.cn
 0.0.0.0 c.hk.msn.com
 :: c.hk.msn.com
 0.0.0.0 c.id.msn.com
@@ -21429,8 +21437,6 @@
 :: click.bes.baidu.com
 0.0.0.0 click.bokecc.com
 :: click.bokecc.com
-0.0.0.0 click.bounceads.net
-:: click.bounceads.net
 0.0.0.0 click.bristlesa.info
 :: click.bristlesa.info
 0.0.0.0 click.bsftransmit50.com
@@ -24779,6 +24785,8 @@
 :: d3tivku5hdr7jk.cloudfront.net
 0.0.0.0 d3u5zn5k9864p0.cloudfront.net
 :: d3u5zn5k9864p0.cloudfront.net
+0.0.0.0 d3ud741uvs727m.cloudfront.net
+:: d3ud741uvs727m.cloudfront.net
 0.0.0.0 d3ujids68p6xmp.cloudfront.net
 :: d3ujids68p6xmp.cloudfront.net
 0.0.0.0 d3ujids68p6xmq.cloudfront.net
@@ -27293,6 +27301,8 @@
 :: drd.hauchi.com.tw
 0.0.0.0 drdavidlinks.net.au
 :: drdavidlinks.net.au
+0.0.0.0 drdj.m.gxwztv.com
+:: drdj.m.gxwztv.com
 0.0.0.0 dream.ancestrybloodhound.com
 :: dream.ancestrybloodhound.com
 0.0.0.0 dreamgirls.pandela.org
@@ -27395,6 +27405,8 @@
 :: drrt.h18.ru
 0.0.0.0 drs2.veinteractive.com
 :: drs2.veinteractive.com
+0.0.0.0 drsw.m.yuyouge.com
+:: drsw.m.yuyouge.com
 0.0.0.0 drug-testing.shengen.ru
 :: drug-testing.shengen.ru
 0.0.0.0 drugdetox.shengen.ru
@@ -27813,6 +27825,8 @@
 :: e.ejiakm.net
 0.0.0.0 e.ennmt.com
 :: e.ennmt.com
+0.0.0.0 e.erocw.com
+:: e.erocw.com
 0.0.0.0 e.farwx.com
 :: e.farwx.com
 0.0.0.0 e.freewebhostingarea.com
@@ -32547,6 +32561,8 @@
 :: h2.18sd.cn
 0.0.0.0 h2.msn.com
 :: h2.msn.com
+0.0.0.0 h2po3lhm8.m.lanseshuba.com
+:: h2po3lhm8.m.lanseshuba.com
 0.0.0.0 h3a.t.r.vpath.net
 :: h3a.t.r.vpath.net
 0.0.0.0 h3ds4.maconslab.com
@@ -33801,8 +33817,12 @@
 :: html.centralmediaserver.com
 0.0.0.0 html.cnzzj.com.cn
 :: html.cnzzj.com.cn
+0.0.0.0 html.sunday8.com
+:: html.sunday8.com
 0.0.0.0 html.tucows.com
 :: html.tucows.com
+0.0.0.0 html.yuntzs.com
+:: html.yuntzs.com
 0.0.0.0 html5adkit.plusmo.s3.amazonaws.com
 :: html5adkit.plusmo.s3.amazonaws.com
 0.0.0.0 htmlads.s3.amazonaws.com
@@ -34121,8 +34141,6 @@
 :: ib-cdn.s3.amazonaws.com
 0.0.0.0 ib-nab.com.au.verify-inett.ga
 :: ib-nab.com.au.verify-inett.ga
-0.0.0.0 ib.bounceads.net
-:: ib.bounceads.net
 0.0.0.0 ib.hsbacess.com
 :: ib.hsbacess.com
 0.0.0.0 ib.nab.com.au.account-2fa.ga
@@ -37385,6 +37403,8 @@
 :: kursdollara.f-noks.info
 0.0.0.0 kuvpfx.est.northerndishedends.com
 :: kuvpfx.est.northerndishedends.com
+0.0.0.0 kuyic.m.gxwztv.com
+:: kuyic.m.gxwztv.com
 0.0.0.0 kuzai.cooguo.com
 :: kuzai.cooguo.com
 0.0.0.0 kuzrab.maxpolezhaev.ru
@@ -38277,6 +38297,8 @@
 :: ljvixhf6i-site.1tempurl.com
 0.0.0.0 lk.brand.sogou.com
 :: lk.brand.sogou.com
+0.0.0.0 lkf1.m.sanhao3.com
+:: lkf1.m.sanhao3.com
 0.0.0.0 lktkd4fk-site.htempurl.com
 :: lktkd4fk-site.htempurl.com
 0.0.0.0 ll.a.hulu.com
@@ -39145,6 +39167,8 @@
 :: m.doodlemobile.com
 0.0.0.0 m.ennmt.com
 :: m.ennmt.com
+0.0.0.0 m.erocw.com
+:: m.erocw.com
 0.0.0.0 m.exactag.com
 :: m.exactag.com
 0.0.0.0 m.facebook.com-----------------------------securelogin-----viewaccount.javatechnologycenter.com
@@ -41397,6 +41421,8 @@
 :: mjaey.saqibsiddiqui.com
 0.0.0.0 mjija.github.io
 :: mjija.github.io
+0.0.0.0 mjs.csyymp4.com
+:: mjs.csyymp4.com
 0.0.0.0 mjt.nysv.org
 :: mjt.nysv.org
 0.0.0.0 mjw.or.kr
@@ -45351,6 +45377,8 @@
 :: p2.l.qq.com
 0.0.0.0 p2.qinsx.cn
 :: p2.qinsx.cn
+0.0.0.0 p2.wncit.com
+:: p2.wncit.com
 0.0.0.0 p2.ykauto.cn
 :: p2.ykauto.cn
 0.0.0.0 p215223.mycdn2.co
@@ -49937,6 +49965,8 @@
 :: rc.asci.freenet.de
 0.0.0.0 rc.bt.ilsemedia.nl
 :: rc.bt.ilsemedia.nl
+0.0.0.0 rc.haodongkeji.cn
+:: rc.haodongkeji.cn
 0.0.0.0 rc.himedia.individuad.net
 :: rc.himedia.individuad.net
 0.0.0.0 rc.nxrxt.com
@@ -51355,6 +51385,8 @@
 :: s.cpro.baidu.com
 0.0.0.0 s.cr-nielsen.com
 :: s.cr-nielsen.com
+0.0.0.0 s.ddstu.com
+:: s.ddstu.com
 0.0.0.0 s.de123.net
 :: s.de123.net
 0.0.0.0 s.di.com.pl
@@ -52389,6 +52421,8 @@
 :: secretmedia.s3.amazonaws.com
 0.0.0.0 secufast.bplaced.net
 :: secufast.bplaced.net
+0.0.0.0 secure-account-national-australia-bank.com.au-servive-customer-online.asiamusicme.com
+:: secure-account-national-australia-bank.com.au-servive-customer-online.asiamusicme.com
 0.0.0.0 secure-account-paypal.com-servive-customer-online.secure-includes-information-personal.signup.walkincareers.com
 :: secure-account-paypal.com-servive-customer-online.secure-includes-information-personal.signup.walkincareers.com
 0.0.0.0 secure-bankofamerica-checking-account.solutecno.cl
@@ -54093,6 +54127,8 @@
 :: sofftermoandy.igg.biz
 0.0.0.0 sofiashouse.web.id
 :: sofiashouse.web.id
+0.0.0.0 soft.chaomeng8.com
+:: soft.chaomeng8.com
 0.0.0.0 soft.jbdown.net
 :: soft.jbdown.net
 0.0.0.0 soft.qymma.com
@@ -55025,8 +55061,6 @@
 :: static.everyplay.com
 0.0.0.0 static.exaccess.ru
 :: static.exaccess.ru
-0.0.0.0 static.fastpic.ru
-:: static.fastpic.ru
 0.0.0.0 static.firstmobilecash.com
 :: static.firstmobilecash.com
 0.0.0.0 static.fleshlight.com
@@ -57795,6 +57829,8 @@
 :: tongj.xilu.com
 0.0.0.0 tongji-res1.meizu.com
 :: tongji-res1.meizu.com
+0.0.0.0 tongji.ads.yxdown.com
+:: tongji.ads.yxdown.com
 0.0.0.0 tongji.baidu.com
 :: tongji.baidu.com
 0.0.0.0 tongji.eastday.com
@@ -59819,6 +59855,8 @@
 :: ttts.miyue17.com
 0.0.0.0 ttuk.offers4u.mobi
 :: ttuk.offers4u.mobi
+0.0.0.0 tu.18cdn.com
+:: tu.18cdn.com
 0.0.0.0 tu.baixing.com
 :: tu.baixing.com
 0.0.0.0 tu.biddingx.com
@@ -62355,6 +62393,8 @@
 :: w23vbt.best.pershoretaxis.co.uk
 0.0.0.0 w2w.lip.st
 :: w2w.lip.st
+0.0.0.0 w3.jandan.net
+:: w3.jandan.net
 0.0.0.0 w3.netcreations.com
 :: w3.netcreations.com
 0.0.0.0 w3c-jquery.cz.cc
@@ -67801,6 +67841,8 @@
 :: www.sonnoli.com
 0.0.0.0 www.sopot24.ru
 :: www.sopot24.ru
+0.0.0.0 www.souid.com
+:: www.souid.com
 0.0.0.0 www.soundstation.dk
 :: www.soundstation.dk
 0.0.0.0 www.spankingvideos.com
@@ -70135,6 +70177,8 @@
 :: zwejqbahgrtw3khyupz5.mbservicesyorkshire.co.uk
 0.0.0.0 zws.avvo.com
 :: zws.avvo.com
+0.0.0.0 zx.baosmx.com
+:: zx.baosmx.com
 0.0.0.0 zxc.severalblueone.ws
 :: zxc.severalblueone.ws
 0.0.0.0 zxc.severalgrayone.ws
