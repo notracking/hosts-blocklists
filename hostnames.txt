@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Apr 16 05:03:40 CEST 2018
+# Last update: Tue Apr 17 05:13:53 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 34959
+# Number of unique hostnames: 34960
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -40293,6 +40293,8 @@
 :: mediakit.theonion.com
 0.0.0.0 mediamarket.in.ua
 :: mediamarket.in.ua
+0.0.0.0 mediamarkt.pl.goodsurprises.top
+:: mediamarkt.pl.goodsurprises.top
 0.0.0.0 mediametrics.mpsa.com
 :: mediametrics.mpsa.com
 0.0.0.0 mediamgr.ugo.com
@@ -54457,8 +54459,6 @@
 :: staging.50onred.com
 0.0.0.0 staging.elemental-id.com
 :: staging.elemental-id.com
-0.0.0.0 staging.nextgengifting.com
-:: staging.nextgengifting.com
 0.0.0.0 staging.schoolsleuth.org
 :: staging.schoolsleuth.org
 0.0.0.0 staging.snip.answers.com
@@ -61451,6 +61451,8 @@
 :: videointeractlearn.edu.au
 0.0.0.0 videooko.weebly.com
 :: videooko.weebly.com
+0.0.0.0 videoplayer.vice.technology
+:: videoplayer.vice.technology
 0.0.0.0 videopush.baidu.com
 :: videopush.baidu.com
 0.0.0.0 videos.dskjkiuw.com
