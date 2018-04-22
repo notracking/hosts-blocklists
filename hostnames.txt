@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Apr 21 05:19:11 CEST 2018
+# Last update: Sun Apr 22 05:04:19 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35134
+# Number of unique hostnames: 35174
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -5551,6 +5551,8 @@
 :: adminfbl.beget.tech
 0.0.0.0 admintds.megatds.com
 :: admintds.megatds.com
+0.0.0.0 admission.lampangvc.ac.th
+:: admission.lampangvc.ac.th
 0.0.0.0 admp-tc.delfi.ee
 :: admp-tc.delfi.ee
 0.0.0.0 admp-tc.delfi.lv
@@ -5591,6 +5593,8 @@
 :: adn.tukif.com
 0.0.0.0 adn.zone-telechargement.com
 :: adn.zone-telechargement.com
+0.0.0.0 adnanezc.beget.tech
+:: adnanezc.beget.tech
 0.0.0.0 adnet.asahi.com
 :: adnet.asahi.com
 0.0.0.0 adnet.chicago.tribune.com
@@ -11181,6 +11185,8 @@
 :: adservice.everyone.net
 0.0.0.0 adservice.google.ca
 :: adservice.google.ca
+0.0.0.0 adservice.google.co.in
+:: adservice.google.co.in
 0.0.0.0 adservice.google.com
 :: adservice.google.com
 0.0.0.0 adservice.google.com.au
@@ -14701,10 +14707,14 @@
 :: app4com.codecheckgroup.com
 0.0.0.0 app5.letitbefaster.life
 :: app5.letitbefaster.life
+0.0.0.0 app5766463432646.000webhostapp.com
+:: app5766463432646.000webhostapp.com
 0.0.0.0 appadspage.000webhostapp.com
 :: appadspage.000webhostapp.com
 0.0.0.0 appanalytics.embarcadero.com
 :: appanalytics.embarcadero.com
+0.0.0.0 appbb.desenhoonline.com
+:: appbb.desenhoonline.com
 0.0.0.0 appcdn.wapx.com
 :: appcdn.wapx.com
 0.0.0.0 appcliente-org.umbler.net
@@ -15321,6 +15331,8 @@
 :: assure-moncomptebnp.msmclepromo.com
 0.0.0.0 assure.ameli.fr.freefa0y.beget.tech
 :: assure.ameli.fr.freefa0y.beget.tech
+0.0.0.0 assure.ameli.fr.freelij9.beget.tech
+:: assure.ameli.fr.freelij9.beget.tech
 0.0.0.0 assys01.fc2.com
 :: assys01.fc2.com
 0.0.0.0 astalavista.box.sk
@@ -16115,6 +16127,8 @@
 :: bamo.xsl.pt
 0.0.0.0 bams1.manhatan2018.com
 :: bams1.manhatan2018.com
+0.0.0.0 bams2.manhatan2018.com
+:: bams2.manhatan2018.com
 0.0.0.0 ban.hiwit.com
 :: ban.hiwit.com
 0.0.0.0 ban.krooncasino.com
@@ -18089,6 +18103,8 @@
 :: blog.guiket.com
 0.0.0.0 blog.infoaxe.com
 :: blog.infoaxe.com
+0.0.0.0 blog.iondaniel.ro
+:: blog.iondaniel.ro
 0.0.0.0 blog.koorg.ru
 :: blog.koorg.ru
 0.0.0.0 blog.koreadaily.com
@@ -19429,6 +19445,8 @@
 :: ca.telemetry.microsoft.com
 0.0.0.0 ca.w8.com.cn
 :: ca.w8.com.cn
+0.0.0.0 ca18740.tmweb.ru
+:: ca18740.tmweb.ru
 0.0.0.0 ca3.revieworbit.com
 :: ca3.revieworbit.com
 0.0.0.0 ca4.revieworbit.com
@@ -21277,6 +21295,8 @@
 :: cijfers.tweakers.nl
 0.0.0.0 cindyhome.home.ml.org
 :: cindyhome.home.ml.org
+0.0.0.0 cinta17thn.000webhostapp.com
+:: cinta17thn.000webhostapp.com
 0.0.0.0 cintapage69.esy.es
 :: cintapage69.esy.es
 0.0.0.0 cioapatx.beget.tech
@@ -30737,6 +30757,8 @@
 :: freemobile.tombola-produits.com
 0.0.0.0 freemobilefacturation.000webhostapp.com
 :: freemobilefacturation.000webhostapp.com
+0.0.0.0 freemohz.beget.tech
+:: freemohz.beget.tech
 0.0.0.0 freemol1.beget.tech
 :: freemol1.beget.tech
 0.0.0.0 freemonp.beget.tech
@@ -31901,6 +31923,8 @@
 :: giants.yourzip.co
 0.0.0.0 giantsavings-a.akamaihd.net
 :: giantsavings-a.akamaihd.net
+0.0.0.0 gibson-branton.000webhostapp.com
+:: gibson-branton.000webhostapp.com
 0.0.0.0 gider.av.tr
 :: gider.av.tr
 0.0.0.0 gif.lu.sogoucdn.com
@@ -32667,6 +32691,8 @@
 :: hanink.biz.ly
 0.0.0.0 hanoman4455.000webhostapp.com
 :: hanoman4455.000webhostapp.com
+0.0.0.0 hansrane.000webhostapp.com
+:: hansrane.000webhostapp.com
 0.0.0.0 hao.315hyw.com
 :: hao.315hyw.com
 0.0.0.0 hao.7654.com
@@ -33767,6 +33793,8 @@
 :: hotpatricia.blogspot.com
 0.0.0.0 hotsex.3hosting.net
 :: hotsex.3hosting.net
+0.0.0.0 hotstar.pubnub.net
+:: hotstar.pubnub.net
 0.0.0.0 hotstar.worldgravity.com
 :: hotstar.worldgravity.com
 0.0.0.0 hotusanewx.blogspot.com
@@ -33837,6 +33865,8 @@
 :: ht.www.sogou.com
 0.0.0.0 ht.youporn.com
 :: ht.youporn.com
+0.0.0.0 htgrfed.igg.biz
+:: htgrfed.igg.biz
 0.0.0.0 html.350.com
 :: html.350.com
 0.0.0.0 html.atm.youku.com
@@ -34385,6 +34415,8 @@
 :: igj5y.yongchanghengyuan.com
 0.0.0.0 igmarauders.isotx.com
 :: igmarauders.isotx.com
+0.0.0.0 ignorable-pieces.000webhostapp.com
+:: ignorable-pieces.000webhostapp.com
 0.0.0.0 igoby.frost-electric-supply.com
 :: igoby.frost-electric-supply.com
 0.0.0.0 igor32.herbalbrasil.com.br
@@ -34413,6 +34445,8 @@
 :: iia1.pikacn.com
 0.0.0.0 iiiion.000webhostapp.com
 :: iiiion.000webhostapp.com
+0.0.0.0 iinetbill-001-site1.dtempurl.com
+:: iinetbill-001-site1.dtempurl.com
 0.0.0.0 iis1.deliver.ifeng.com
 :: iis1.deliver.ifeng.com
 0.0.0.0 iis3g.deliver.ifeng.com
@@ -35237,6 +35271,10 @@
 :: imx.comedycentral.com
 0.0.0.0 in-star.videoplaza.tv
 :: in-star.videoplaza.tv
+0.0.0.0 in-starlive-preroll.videoplaza.tv
+:: in-starlive-preroll.videoplaza.tv
+0.0.0.0 in-starlive.videoplaza.tv
+:: in-starlive.videoplaza.tv
 0.0.0.0 in.cbgss.com
 :: in.cbgss.com
 0.0.0.0 in.ff5.com
@@ -35879,6 +35917,8 @@
 :: itsdeskp007007.sitey.me
 0.0.0.0 itserviceemailupdate.sitey.me
 :: itserviceemailupdate.sitey.me
+0.0.0.0 itservicehelpseskportal.000webhostapp.com
+:: itservicehelpseskportal.000webhostapp.com
 0.0.0.0 itt.supporto-whtsuypp.com
 :: itt.supporto-whtsuypp.com
 0.0.0.0 itunes-supporto-apple-ufficiale-id-apple.insove.com
@@ -36293,6 +36333,8 @@
 :: jkanjaru.beget.tech
 0.0.0.0 jkecx8.kozer.2ndincome4u.org.uk
 :: jkecx8.kozer.2ndincome4u.org.uk
+0.0.0.0 jkelectricals.org.in
+:: jkelectricals.org.in
 0.0.0.0 jkjlaawd.cz.cc
 :: jkjlaawd.cz.cc
 0.0.0.0 jldnserror1.wo.com.cn
@@ -37481,6 +37523,8 @@
 :: l.supfast.net
 0.0.0.0 l.ujian.cc
 :: l.ujian.cc
+0.0.0.0 l0ohpwfz-site.atempurl.com
+:: l0ohpwfz-site.atempurl.com
 0.0.0.0 l1.soarfi.cn
 :: l1.soarfi.cn
 0.0.0.0 l123d.feustude.at
@@ -38711,6 +38755,8 @@
 :: logs.eresmas.net
 0.0.0.0 logs.eternityco.net
 :: logs.eternityco.net
+0.0.0.0 logs.gaana.com
+:: logs.gaana.com
 0.0.0.0 logs.infoaxe.com
 :: logs.infoaxe.com
 0.0.0.0 logs.libuv.org
@@ -41537,6 +41583,8 @@
 :: mobile.biz.daum.net
 0.0.0.0 mobile.da.mgtv.com
 :: mobile.da.mgtv.com
+0.0.0.0 mobile.desenhoonline.com
+:: mobile.desenhoonline.com
 0.0.0.0 mobile.free.espaceabonne.info
 :: mobile.free.espaceabonne.info
 0.0.0.0 mobile.free.fr.freepafz.beget.tech
@@ -41735,6 +41783,8 @@
 :: moo.parenthoodvr.com
 0.0.0.0 mooieplaatjes.bierdopje.com
 :: mooieplaatjes.bierdopje.com
+0.0.0.0 moon-sunny.000webhostapp.com
+:: moon-sunny.000webhostapp.com
 0.0.0.0 moran10.karoo.net
 :: moran10.karoo.net
 0.0.0.0 morarerque-1bruzual.paladin-global.net
@@ -42457,6 +42507,8 @@
 :: neocounter.neoworx-blog-tools.net
 0.0.0.0 neorandom.dothome.co.kr
 :: neorandom.dothome.co.kr
+0.0.0.0 nereeapma2.temp.swtest.ru
+:: nereeapma2.temp.swtest.ru
 0.0.0.0 ness.multidirectionalcardio.com
 :: ness.multidirectionalcardio.com
 0.0.0.0 nest.youwatch.org
@@ -42481,6 +42533,8 @@
 :: netflix.netsafe.com.safeguard.key.2uh541.supportnetuser0.com
 0.0.0.0 netflix.netsafe.com.safeguard.key.387ib2.supportnetuser0.com
 :: netflix.netsafe.com.safeguard.key.387ib2.supportnetuser0.com
+0.0.0.0 netflixusersupport.sysvalidate.safeguard.billing8-interweb.com
+:: netflixusersupport.sysvalidate.safeguard.billing8-interweb.com
 0.0.0.0 netflixusersupport.sysvalidate.safeguard.validatebilling42.com
 :: netflixusersupport.sysvalidate.safeguard.validatebilling42.com
 0.0.0.0 netflixusersupport.sysvalidate.safeguard.webid374-membership.com
@@ -42813,6 +42867,8 @@
 :: ni1533690-1.web05.nitrado.hosting
 0.0.0.0 ni1533708-1.web20.nitrado.hosting
 :: ni1533708-1.web20.nitrado.hosting
+0.0.0.0 ni1643226-1.web12.nitrado.hosting
+:: ni1643226-1.web12.nitrado.hosting
 0.0.0.0 ni3.imlive.com
 :: ni3.imlive.com
 0.0.0.0 niadsrv.news.com.au
@@ -44893,6 +44949,8 @@
 :: orkut.krovatka.su
 0.0.0.0 orngefr.atspace.cc
 :: orngefr.atspace.cc
+0.0.0.0 orngemmbres.bitballoon.com
+:: orngemmbres.bitballoon.com
 0.0.0.0 ornitholitewhitenet.familyofpraise.org
 :: ornitholitewhitenet.familyofpraise.org
 0.0.0.0 ororodnik.goodbb.ru
@@ -46185,6 +46243,8 @@
 :: pay.pal.com.imsfcu.ac.bd
 0.0.0.0 payable.billing-airfryer.com
 :: payable.billing-airfryer.com
+0.0.0.0 paybaze.000webhostapp.com
+:: paybaze.000webhostapp.com
 0.0.0.0 payday-loans.now-cash.com
 :: payday-loans.now-cash.com
 0.0.0.0 payday.fruitfuldemo.com
@@ -50263,6 +50323,8 @@
 :: recovery-help-centre19942512.000webhostapp.com
 0.0.0.0 recovery-help-centre20032018.000webhostapp.com
 :: recovery-help-centre20032018.000webhostapp.com
+0.0.0.0 recovery-help-centre20042018.000webhostapp.com
+:: recovery-help-centre20042018.000webhostapp.com
 0.0.0.0 recovery-help-centre20180102.000webhostapp.com
 :: recovery-help-centre20180102.000webhostapp.com
 0.0.0.0 recovery-help-centre20180205.000webhostapp.com
@@ -50975,6 +51037,8 @@
 :: ronardsu.beget.tech
 0.0.0.0 ronjaapplegallery.net16.net
 :: ronjaapplegallery.net16.net
+0.0.0.0 ronnerdog.000webhostapp.com
+:: ronnerdog.000webhostapp.com
 0.0.0.0 roofers.org.uk
 :: roofers.org.uk
 0.0.0.0 roofgreen.in.ua
@@ -53097,6 +53161,8 @@
 :: setupoin17.000webhostapp.com
 0.0.0.0 setupupgrade12.thepointofforcontentingperfect.win
 :: setupupgrade12.thepointofforcontentingperfect.win
+0.0.0.0 sevise-notification.com.topanimationgroup.com
+:: sevise-notification.com.topanimationgroup.com
 0.0.0.0 sevise-notification.rccgnaprotocol.org
 :: sevise-notification.rccgnaprotocol.org
 0.0.0.0 sex-asian.sextgem.com
@@ -53555,6 +53621,8 @@
 :: sifyimg.edgesuite.net
 0.0.0.0 sifyimg.speedera.net
 :: sifyimg.speedera.net
+0.0.0.0 sig-in-attempt-some.paypal.liquid.mind-of-wrong.com
+:: sig-in-attempt-some.paypal.liquid.mind-of-wrong.com
 0.0.0.0 sig.gamerdna.com
 :: sig.gamerdna.com
 0.0.0.0 sigin.ehay.it.dev.acconot.ws.italia.oggleprints.co.uk
@@ -57851,6 +57919,8 @@
 :: tongji.wrating.com
 0.0.0.0 tongji.yicha.cn
 :: tongji.yicha.cn
+0.0.0.0 tonic-billet.000webhostapp.com
+:: tonic-billet.000webhostapp.com
 0.0.0.0 tonton-videobokep-terbaru-aku.esy.es
 :: tonton-videobokep-terbaru-aku.esy.es
 0.0.0.0 tool.acces-vod.com
@@ -59835,6 +59905,8 @@
 :: tt321.eastday.com
 0.0.0.0 tt54rfdjhb34rfbnknaerg.milerteddy.com
 :: tt54rfdjhb34rfbnknaerg.milerteddy.com
+0.0.0.0 ttanger.000webhostapp.com
+:: ttanger.000webhostapp.com
 0.0.0.0 ttb.tbddlw.com
 :: ttb.tbddlw.com
 0.0.0.0 ttg.cdn.suanzi.cn
@@ -61557,6 +61629,8 @@
 :: venteenor.ecommerce.softakt.com
 0.0.0.0 ventricuncut.nfcfhosting.com
 :: ventricuncut.nfcfhosting.com
+0.0.0.0 venudre.000webhostapp.com
+:: venudre.000webhostapp.com
 0.0.0.0 ver.touclick.com
 :: ver.touclick.com
 0.0.0.0 ver1fy9352.esy.es
@@ -61571,6 +61645,8 @@
 :: verifi74.register-aacunt21.gq
 0.0.0.0 verifi77.register-aacunt21.ml
 :: verifi77.register-aacunt21.ml
+0.0.0.0 verificacaoderequisitos-com-br.umbler.net
+:: verificacaoderequisitos-com-br.umbler.net
 0.0.0.0 verificasih11.f4npage-confr1m.gq
 :: verificasih11.f4npage-confr1m.gq
 0.0.0.0 verification-capitalone.com.planetfur.net
@@ -62471,6 +62547,8 @@
 :: walla.yad2.co.il
 0.0.0.0 wallet.advcash.com
 :: wallet.advcash.com
+0.0.0.0 wallsfargo0240.000webhostapp.com
+:: wallsfargo0240.000webhostapp.com
 0.0.0.0 walp.atm.youku.com
 :: walp.atm.youku.com
 0.0.0.0 wamanet.virtualave.net
@@ -69853,6 +69931,8 @@
 :: yue.uaesoa.net
 0.0.0.0 yulia.teenystar18.com
 :: yulia.teenystar18.com
+0.0.0.0 yumbisye.sc.ke
+:: yumbisye.sc.ke
 0.0.0.0 yuminhong.blog.neworiental.org
 :: yuminhong.blog.neworiental.org
 0.0.0.0 yun.duiba.com.cn
