@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Apr 26 05:18:04 CEST 2018
+# Last update: Fri Apr 27 06:08:49 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35437
+# Number of unique hostnames: 35434
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -11059,8 +11059,6 @@
 :: adserver.sitesense.com
 0.0.0.0 adserver.skiresort-service.com
 :: adserver.skiresort-service.com
-0.0.0.0 adserver.sl.kharkov.ua
-:: adserver.sl.kharkov.ua
 0.0.0.0 adserver.smashtv.com
 :: adserver.smashtv.com
 0.0.0.0 adserver.snowball.com
@@ -51923,8 +51921,6 @@
 :: s.youtube.com
 0.0.0.0 s.youzhuanhua.com
 :: s.youzhuanhua.com
-0.0.0.0 s.yunpifu.cn
-:: s.yunpifu.cn
 0.0.0.0 s.zampdsp.com
 :: s.zampdsp.com
 0.0.0.0 s.zixuntop.com
@@ -62445,8 +62441,6 @@
 :: vitrines.globo.com
 0.0.0.0 viven.host.sk
 :: viven.host.sk
-0.0.0.0 vizag.kharkov.ua
-:: vizag.kharkov.ua
 0.0.0.0 vizisense.komli.net
 :: vizisense.komli.net
 0.0.0.0 vj.x-ssp.com
