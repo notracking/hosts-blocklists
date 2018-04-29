@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Apr 28 05:19:56 CEST 2018
+# Last update: Sun Apr 29 05:06:51 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35486
+# Number of unique hostnames: 35492
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -39795,6 +39795,8 @@
 :: m0-s.san.ru
 0.0.0.0 m1.daumcdn.net
 :: m1.daumcdn.net
+0.0.0.0 m1.streaming.estream.to
+:: m1.streaming.estream.to
 0.0.0.0 m1.videos.vidto.me
 :: m1.videos.vidto.me
 0.0.0.0 m1.vodjk.com
@@ -39811,6 +39813,8 @@
 :: m2.qinsx.cn
 0.0.0.0 m2.sexgarantie.nl
 :: m2.sexgarantie.nl
+0.0.0.0 m2.streaming.estream.to
+:: m2.streaming.estream.to
 0.0.0.0 m2.videos.vidto.me
 :: m2.videos.vidto.me
 0.0.0.0 m2.webstats.motigo.com
@@ -45703,6 +45707,8 @@
 :: p.dandan19.top
 0.0.0.0 p.egou.com
 :: p.egou.com
+0.0.0.0 p.estream.to
+:: p.estream.to
 0.0.0.0 p.heib6.top
 :: p.heib6.top
 0.0.0.0 p.heib7.top
@@ -48017,6 +48023,8 @@
 :: play.affmob.org
 0.0.0.0 play.leadzu.com
 :: play.leadzu.com
+0.0.0.0 play.streaming.estream.to
+:: play.streaming.estream.to
 0.0.0.0 play.video.estream.nu
 :: play.video.estream.nu
 0.0.0.0 playablepblysef.blogspot.com
@@ -56613,6 +56621,8 @@
 :: stream.tribeca.vidavee.com
 0.0.0.0 stream1.adsertion.com
 :: stream1.adsertion.com
+0.0.0.0 stream1.estream.to
+:: stream1.estream.to
 0.0.0.0 streamads.yahoo.com
 :: streamads.yahoo.com
 0.0.0.0 streaming.filmsgratuits.org
@@ -62349,6 +62359,8 @@
 :: video.mocha-delight.com
 0.0.0.0 video.sexstorage.net
 :: video.sexstorage.net
+0.0.0.0 video.streaming.estream.to
+:: video.streaming.estream.to
 0.0.0.0 video.theparentingvillage.com
 :: video.theparentingvillage.com
 0.0.0.0 video.ureport.push.qq.com
