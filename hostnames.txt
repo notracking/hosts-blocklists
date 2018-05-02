@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue May 1 05:06:21 CEST 2018
+# Last update: Wed May 2 05:02:58 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35539
+# Number of unique hostnames: 35520
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -5617,8 +5617,6 @@
 :: admin.ads.t-online.de
 0.0.0.0 admin.appnext.com
 :: admin.appnext.com
-0.0.0.0 admin.archivemagno.com
-:: admin.archivemagno.com
 0.0.0.0 admin.att.mobiliariostore.com
 :: admin.att.mobiliariostore.com
 0.0.0.0 admin.cooguo.com
@@ -6113,6 +6111,8 @@
 :: ads.amaland.com
 0.0.0.0 ads.amarillo.com
 :: ads.amarillo.com
+0.0.0.0 ads.amateurmatch.com
+:: ads.amateurmatch.com
 0.0.0.0 ads.amazingmedia.com
 :: ads.amazingmedia.com
 0.0.0.0 ads.amdmb.com
@@ -12881,6 +12881,8 @@
 :: ahomedia.zxfactory.nl
 0.0.0.0 ahpd0diwnx86enn6drdx.mbservicesyorkshire.co.uk
 :: ahpd0diwnx86enn6drdx.mbservicesyorkshire.co.uk
+0.0.0.0 ahror.safin.space
+:: ahror.safin.space
 0.0.0.0 ahuqfrqk54v3vnzj.1vcxfn.bid
 :: ahuqfrqk54v3vnzj.1vcxfn.bid
 0.0.0.0 ahuqfrqk54v3vnzj.45yu0p.bid
@@ -14817,10 +14819,14 @@
 :: app1.letitbefaster.today
 0.0.0.0 app2.letitbefaster.life
 :: app2.letitbefaster.life
+0.0.0.0 app2.letmacwork.world
+:: app2.letmacwork.world
 0.0.0.0 app2.letslowbefast.life
 :: app2.letslowbefast.life
 0.0.0.0 app3.letitbefaster.life
 :: app3.letitbefaster.life
+0.0.0.0 app3.letmacwork.world
+:: app3.letmacwork.world
 0.0.0.0 app4.letitbefaster.life
 :: app4.letitbefaster.life
 0.0.0.0 app4.letslowbefast.life
@@ -15347,8 +15353,6 @@
 :: asian-online-dating-disabled.yogab.com
 0.0.0.0 asian-pleasures.inhit.com
 :: asian-pleasures.inhit.com
-0.0.0.0 asiangirlsnude.thumblogger.com
-:: asiangirlsnude.thumblogger.com
 0.0.0.0 asiasex.home.ml.org
 :: asiasex.home.ml.org
 0.0.0.0 asiaten-chinesinnen.de.lv
@@ -17749,6 +17753,8 @@
 :: beacon.lycos.com
 0.0.0.0 beacon.mediahuis.be
 :: beacon.mediahuis.be
+0.0.0.0 beacon.mhtr.be
+:: beacon.mhtr.be
 0.0.0.0 beacon.mtgx.tv
 :: beacon.mtgx.tv
 0.0.0.0 beacon.nuskin.com
@@ -18023,10 +18029,6 @@
 :: bigdicklistcom.thumblogger.com
 0.0.0.0 bigdix.easygaysex.com
 :: bigdix.easygaysex.com
-0.0.0.0 biggestdickinporn.samplehosting.com
-:: biggestdickinporn.samplehosting.com
-0.0.0.0 biglove.free.fr
-:: biglove.free.fr
 0.0.0.0 bigmaturewomen.galleryprogram.com
 :: bigmaturewomen.galleryprogram.com
 0.0.0.0 bigtit2008porn.blogs-blogs.com
@@ -18079,6 +18081,8 @@
 :: bipetclic.free.fr
 0.0.0.0 biq.keefung-zs.com
 :: biq.keefung-zs.com
+0.0.0.0 bir.snjack.info
+:: bir.snjack.info
 0.0.0.0 bireysel.halkbankasigirisim.com
 :: bireysel.halkbankasigirisim.com
 0.0.0.0 bireysel.halkwebsubesi.com
@@ -19147,8 +19151,6 @@
 :: bx6.blrf.net
 0.0.0.0 bxcpzonasqura.ml-agency.net
 :: bxcpzonasqura.ml-agency.net
-0.0.0.0 by.dm5.com
-:: by.dm5.com
 0.0.0.0 by3301-a.1drv.com
 :: by3301-a.1drv.com
 0.0.0.0 by3301-c.1drv.com
@@ -20157,6 +20159,8 @@
 :: cdn.alleliteads.com
 0.0.0.0 cdn.altitudeplatform.com
 :: cdn.altitudeplatform.com
+0.0.0.0 cdn.amateurmatch.com
+:: cdn.amateurmatch.com
 0.0.0.0 cdn.ap.bittorrent.com
 :: cdn.ap.bittorrent.com
 0.0.0.0 cdn.app.exitmonitor.com
@@ -20615,6 +20619,8 @@
 :: cdn1sitescout.edgesuite.net
 0.0.0.0 cdn2-ref.landing.comcontent.net
 :: cdn2-ref.landing.comcontent.net
+0.0.0.0 cdn2.amateurmatch.com
+:: cdn2.amateurmatch.com
 0.0.0.0 cdn2.bad-credit-cdn.com
 :: cdn2.bad-credit-cdn.com
 0.0.0.0 cdn2.deals-discounts-codes.com
@@ -21499,12 +21505,8 @@
 :: circleread-view.com.mocha2003.mochahost.com
 0.0.0.0 circulars.cbslocal.com
 :: circulars.cbslocal.com
-0.0.0.0 circumventor.larsonsworld.com
-:: circumventor.larsonsworld.com
 0.0.0.0 ciscotred.cz.cc
 :: ciscotred.cz.cc
-0.0.0.0 cissi.brinomedia.se
-:: cissi.brinomedia.se
 0.0.0.0 citi.uverify.info
 :: citi.uverify.info
 0.0.0.0 citizenclsdriveri7.pen.io
@@ -25271,8 +25273,6 @@
 :: darcan.000webhostapp.com
 0.0.0.0 dario1aw.beget.tech
 :: dario1aw.beget.tech
-0.0.0.0 dark.escape.free.fr
-:: dark.escape.free.fr
 0.0.0.0 darkavenger.hackfree.us
 :: darkavenger.hackfree.us
 0.0.0.0 darksirnobody.boo.pl
@@ -27713,6 +27713,8 @@
 :: ds-aksb-a.akamaihd.net
 0.0.0.0 ds-pc.admsger.com
 :: ds-pc.admsger.com
+0.0.0.0 ds.amateurmatch.com
+:: ds.amateurmatch.com
 0.0.0.0 ds.api.baifendian.com
 :: ds.api.baifendian.com
 0.0.0.0 ds.audiobase.com
@@ -28111,8 +28113,6 @@
 :: e.duomeng.org
 0.0.0.0 e.dzairen.com
 :: e.dzairen.com
-0.0.0.0 e.ehxyz.com
-:: e.ehxyz.com
 0.0.0.0 e.ejiakm.net
 :: e.ejiakm.net
 0.0.0.0 e.ennmt.com
@@ -28175,8 +28175,6 @@
 :: e.ofuda.cc
 0.0.0.0 e.ptrvc.com
 :: e.ptrvc.com
-0.0.0.0 e.pyerc.com
-:: e.pyerc.com
 0.0.0.0 e.qiaoyuwang.com
 :: e.qiaoyuwang.com
 0.0.0.0 e.qiyunmuye.com
@@ -28271,8 +28269,6 @@
 :: earle2rise.000webhostapp.com
 0.0.0.0 earnmoneyonlinejobs.page.tl
 :: earnmoneyonlinejobs.page.tl
-0.0.0.0 earshot.org.uk
-:: earshot.org.uk
 0.0.0.0 earthlink.net.in
 :: earthlink.net.in
 0.0.0.0 earthlink000.hostingsiteforfree.com
@@ -30151,8 +30147,6 @@
 :: ff.nsg.org.ua
 0.0.0.0 ffb.feihuo.com
 :: ffb.feihuo.com
-0.0.0.0 ffbb9039.amy.gs
-:: ffbb9039.amy.gs
 0.0.0.0 ffdsarr3.beget.tech
 :: ffdsarr3.beget.tech
 0.0.0.0 fff.dailymail.co.uk
@@ -30365,8 +30359,6 @@
 :: fgtsaquecaixa.esy.es
 0.0.0.0 fgtstudosobre.esy.es
 :: fgtstudosobre.esy.es
-0.0.0.0 fhg.allanimemovies.com
-:: fhg.allanimemovies.com
 0.0.0.0 fhg.dacash.com
 :: fhg.dacash.com
 0.0.0.0 fhg.digitaldesire.com
@@ -31081,8 +31073,6 @@
 :: freepsncodes.gameopen.org
 0.0.0.0 freepsncodes.premium-codes.com
 :: freepsncodes.premium-codes.com
-0.0.0.0 freesexphotogallery.yourfreesites.com
-:: freesexphotogallery.yourfreesites.com
 0.0.0.0 freetime.in.ua
 :: freetime.in.ua
 0.0.0.0 freevideo.biz.nf
@@ -33041,10 +33031,6 @@
 :: hardcore.pleasure69.com
 0.0.0.0 hardcorebabes.de.hm
 :: hardcorebabes.de.hm
-0.0.0.0 hardcorebabes.de.tf
-:: hardcorebabes.de.tf
-0.0.0.0 hardcorefatwomen.galleryprogram.com
-:: hardcorefatwomen.galleryprogram.com
 0.0.0.0 hardcoreporn.allmanpages.com
 :: hardcoreporn.allmanpages.com
 0.0.0.0 hardcoresexhardcore.blogs-blogs.com
@@ -34129,12 +34115,8 @@
 :: hpcbxnddgwqjwiwdcphl.ahdaaf.org
 0.0.0.0 hpd.baidu.com
 :: hpd.baidu.com
-0.0.0.0 hplaserjetpdriver8y.pen.io
-:: hplaserjetpdriver8y.pen.io
 0.0.0.0 hpsd.k12.pa.us
 :: hpsd.k12.pa.us
-0.0.0.0 hptwaakw.blog.fc2.com
-:: hptwaakw.blog.fc2.com
 0.0.0.0 hqfootyad4.blogspot.com
 :: hqfootyad4.blogspot.com
 0.0.0.0 hqzkgjdgkmmfvibw6gwp.littlematchagirl.com.au
@@ -36271,8 +36253,6 @@
 :: ivansaru.418.com1.ru
 0.0.0.0 ivi.traflab.ru
 :: ivi.traflab.ru
-0.0.0.0 ivijytewo.easyfreehosting.com
-:: ivijytewo.easyfreehosting.com
 0.0.0.0 ivitrine.buscape.com
 :: ivitrine.buscape.com
 0.0.0.0 ivox.socratos.net
@@ -37527,8 +37507,6 @@
 :: kirinasex.theblog.com.br
 0.0.0.0 kisker.czisza.hu
 :: kisker.czisza.hu
-0.0.0.0 kiskisdi.free.fr
-:: kiskisdi.free.fr
 0.0.0.0 kiss.blockplus.cc
 :: kiss.blockplus.cc
 0.0.0.0 kiss.doctortoken.com
@@ -39579,8 +39557,6 @@
 :: m.data.mob.com
 0.0.0.0 m.doodlemobile.com
 :: m.doodlemobile.com
-0.0.0.0 m.ehxyz.com
-:: m.ehxyz.com
 0.0.0.0 m.ennmt.com
 :: m.ennmt.com
 0.0.0.0 m.exactag.com
@@ -39737,8 +39713,6 @@
 :: m.porntourfr.3818.idhad.com
 0.0.0.0 m.ptrvc.com
 :: m.ptrvc.com
-0.0.0.0 m.pyerc.com
-:: m.pyerc.com
 0.0.0.0 m.qbao.com
 :: m.qbao.com
 0.0.0.0 m.qcw.com
@@ -46631,8 +46605,6 @@
 :: partnersapi.bilio.com
 0.0.0.0 partnerwebsites.mistermedia.nl
 :: partnerwebsites.mistermedia.nl
-0.0.0.0 partouze-gangbang.recherche-sexe.info
-:: partouze-gangbang.recherche-sexe.info
 0.0.0.0 party-nngvitbizn.now.sh
 :: party-nngvitbizn.now.sh
 0.0.0.0 party-poker.allgames4u.net
@@ -48833,8 +48805,6 @@
 :: pornvtope.blogspot.no
 0.0.0.0 pornvtope.blogspot.pt
 :: pornvtope.blogspot.pt
-0.0.0.0 pornvtope.blogspot.sk
-:: pornvtope.blogspot.sk
 0.0.0.0 pornworld0303.nvvam.org
 :: pornworld0303.nvvam.org
 0.0.0.0 porrfilm.vuxenvaruhuset.nu
@@ -55075,8 +55045,6 @@
 :: srd.simba.taobao.com
 0.0.0.0 srilaini1helprecoveryii.000webhostapp.com
 :: srilaini1helprecoveryii.000webhostapp.com
-0.0.0.0 srisaranankara.sch.lk
-:: srisaranankara.sch.lk
 0.0.0.0 sro.giuseppemarotta.com
 :: sro.giuseppemarotta.com
 0.0.0.0 srpze.saqibsiddiqui.com
@@ -55091,8 +55059,6 @@
 :: srv.thespacereporter.com
 0.0.0.0 srv.tonefuse.com
 :: srv.tonefuse.com
-0.0.0.0 srv1.overmedia.com
-:: srv1.overmedia.com
 0.0.0.0 srv1.rapidstats.de
 :: srv1.rapidstats.de
 0.0.0.0 srv1.ricin.im
@@ -60753,8 +60719,6 @@
 :: ua.badongo.com
 0.0.0.0 uac.net.au
 :: uac.net.au
-0.0.0.0 uain4-1.eye.to
-:: uain4-1.eye.to
 0.0.0.0 ualumphuoldi.angelcities.com
 :: ualumphuoldi.angelcities.com
 0.0.0.0 uapi.punchbox.org
@@ -69367,8 +69331,6 @@
 :: www.wilddreams.info
 0.0.0.0 www.wildsap.com
 :: www.wildsap.com
-0.0.0.0 www.wildscapes.pro
-:: www.wildscapes.pro
 0.0.0.0 www.willcommen.de
 :: www.willcommen.de
 0.0.0.0 www.winbaicai.com
