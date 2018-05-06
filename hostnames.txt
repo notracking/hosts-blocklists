@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat May 5 05:15:36 CEST 2018
+# Last update: Sun May 6 05:05:54 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35567
+# Number of unique hostnames: 35569
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -17831,6 +17831,8 @@
 :: beautegrity.dweb.in
 0.0.0.0 beauty.finaltips.com
 :: beauty.finaltips.com
+0.0.0.0 beb.crackwatch.com
+:: beb.crackwatch.com
 0.0.0.0 bebenbesupper.altervista.org
 :: bebenbesupper.altervista.org
 0.0.0.0 bebescreoles.free.fr
@@ -25087,6 +25089,8 @@
 :: d3ujids68p6xmp.cloudfront.net
 0.0.0.0 d3ujids68p6xmq.cloudfront.net
 :: d3ujids68p6xmq.cloudfront.net
+0.0.0.0 d3uqm14ppr8tkw.cloudfront.net
+:: d3uqm14ppr8tkw.cloudfront.net
 0.0.0.0 d3us2i0tqwa7m7.cloudfront.net
 :: d3us2i0tqwa7m7.cloudfront.net
 0.0.0.0 d3v1lb83psg9di.cloudfront.net
