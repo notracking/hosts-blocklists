@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun May 6 05:05:54 CEST 2018
+# Last update: Mon May 7 05:04:30 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35569
+# Number of unique hostnames: 35576
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -399,6 +399,8 @@
 :: 1k3ktb.first.pershoretaxi.co.uk
 0.0.0.0 1kolorrfaceb.blogspot.com
 :: 1kolorrfaceb.blogspot.com
+0.0.0.0 1l-view.mail.ru
+:: 1l-view.mail.ru
 0.0.0.0 1nv0ic3r3plyn0wp4ym3nts3cur3.t-l-z-s-m.net
 :: 1nv0ic3r3plyn0wp4ym3nts3cur3.t-l-z-s-m.net
 0.0.0.0 1q2kaw.best.pershoretaxis.co.uk
@@ -2857,8 +2859,6 @@
 :: aa1.pub.funshion.com
 0.0.0.0 aaa.dv0.info
 :: aaa.dv0.info
-0.0.0.0 aaa.piccash.net
-:: aaa.piccash.net
 0.0.0.0 aaaaaa.icfoscolosoverato.it
 :: aaaaaa.icfoscolosoverato.it
 0.0.0.0 aads.treehugger.com
@@ -3327,6 +3327,8 @@
 :: ad-js.chip.de
 0.0.0.0 ad-media.xe.gr
 :: ad-media.xe.gr
+0.0.0.0 ad-mediation.tuanguwen.com
+:: ad-mediation.tuanguwen.com
 0.0.0.0 ad-peta.makeit-online.de
 :: ad-peta.makeit-online.de
 0.0.0.0 ad-pub.terra.com
@@ -4633,6 +4635,8 @@
 :: ad.webservis.gen.tr
 0.0.0.0 ad.webzdarma.cz
 :: ad.webzdarma.cz
+0.0.0.0 ad.weplayer.cc
+:: ad.weplayer.cc
 0.0.0.0 ad.where.com
 :: ad.where.com
 0.0.0.0 ad.widgetserver.com
@@ -12041,6 +12045,8 @@
 :: advertise.tucows.com
 0.0.0.0 advertise.twitpic.com
 :: advertise.twitpic.com
+0.0.0.0 advertisement.avosapps.us
+:: advertisement.avosapps.us
 0.0.0.0 advertiser.ads.ec
 :: advertiser.ads.ec
 0.0.0.0 advertiser.cyberghostvpn.com
@@ -19453,8 +19459,6 @@
 :: c.sss1989.com
 0.0.0.0 c.start280.com
 :: c.start280.com
-0.0.0.0 c.sy123888.com
-:: c.sy123888.com
 0.0.0.0 c.sz.gt.igexin.com
 :: c.sz.gt.igexin.com
 0.0.0.0 c.t98u8f.com
@@ -48025,6 +48029,8 @@
 :: pixel.reddit.com
 0.0.0.0 pixel.redditmedia.com
 :: pixel.redditmedia.com
+0.0.0.0 pixel.rubiconproject.net
+:: pixel.rubiconproject.net
 0.0.0.0 pixel.rubiconproject.net.akadns.net
 :: pixel.rubiconproject.net.akadns.net
 0.0.0.0 pixel.serviceleverage.com
@@ -49903,6 +49909,8 @@
 :: pubs3.lemonde.fr
 0.0.0.0 pubsec.goto.fr
 :: pubsec.goto.fr
+0.0.0.0 pubserver.xl.pt
+:: pubserver.xl.pt
 0.0.0.0 pubshop.img.uol.com.br
 :: pubshop.img.uol.com.br
 0.0.0.0 pubster.twitch.tv
@@ -55359,6 +55367,8 @@
 :: st.magnify.net
 0.0.0.0 st.mirror.co.uk
 :: st.mirror.co.uk
+0.0.0.0 st.pba.xl.pt
+:: st.pba.xl.pt
 0.0.0.0 st.penis-size.net
 :: st.penis-size.net
 0.0.0.0 st.shinobi.jp
@@ -57149,6 +57159,8 @@
 :: switching.atm.punchbox.org
 0.0.0.0 swollen.lip.st
 :: swollen.lip.st
+0.0.0.0 sworkitads.herokuapp.com
+:: sworkitads.herokuapp.com
 0.0.0.0 swpgjai.pop.weddingeeos.com
 :: swpgjai.pop.weddingeeos.com
 0.0.0.0 swswfwsf.beckmenlaw.net
@@ -64249,6 +64261,8 @@
 :: wixx.caliptopis.cl
 0.0.0.0 wizzzzle.webjump.net
 :: wizzzzle.webjump.net
+0.0.0.0 wj.jiancai365.cn
+:: wj.jiancai365.cn
 0.0.0.0 wjgravier.us.kzpcmad.tk
 :: wjgravier.us.kzpcmad.tk
 0.0.0.0 wjnjeryyzs.ce.ms
