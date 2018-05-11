@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed May 9 05:18:47 CEST 2018
+# Last update: Fri May 11 09:20:38 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35370
+# Number of unique hostnames: 35372
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -6541,6 +6541,8 @@
 :: ads.channel4.com
 0.0.0.0 ads.chargeads.com
 :: ads.chargeads.com
+0.0.0.0 ads.chaturbate.com
+:: ads.chaturbate.com
 0.0.0.0 ads.checkm8.co.za
 :: ads.checkm8.co.za
 0.0.0.0 ads.chellomedia.com
@@ -13739,6 +13741,8 @@
 :: analytics.cnd-motionmedia.de
 0.0.0.0 analytics.cocolog-nifty.com
 :: analytics.cocolog-nifty.com
+0.0.0.0 analytics.cohesionapps.com
+:: analytics.cohesionapps.com
 0.0.0.0 analytics.colacoweb.net
 :: analytics.colacoweb.net
 0.0.0.0 analytics.conmio.com
@@ -15363,6 +15367,8 @@
 :: asdkasid.knowsitall.info
 0.0.0.0 asearch.alicdn.com
 :: asearch.alicdn.com
+0.0.0.0 asecdn.w88media.com
+:: asecdn.w88media.com
 0.0.0.0 asfsdf.ivertiipolska.com.pl
 :: asfsdf.ivertiipolska.com.pl
 0.0.0.0 asg.vidigital.ru
@@ -20079,6 +20085,8 @@
 :: ccb.uncle-ad.com
 0.0.0.0 ccc-x.jd.com
 :: ccc-x.jd.com
+0.0.0.0 ccc.jandan.net
+:: ccc.jandan.net
 0.0.0.0 ccc.sys.intl.xiaomi.com
 :: ccc.sys.intl.xiaomi.com
 0.0.0.0 ccc.sys.miui.com
@@ -26137,6 +26145,8 @@
 :: device-metrics-us.amazon.com
 0.0.0.0 device.zhiliaoapp.com
 :: device.zhiliaoapp.com
+0.0.0.0 deviceidshare.twitch.tv
+:: deviceidshare.twitch.tv
 0.0.0.0 devisprox-media.s3-website-eu-west-1.amazonaws.com
 :: devisprox-media.s3-website-eu-west-1.amazonaws.com
 0.0.0.0 devki2.xmiler.com
@@ -31169,6 +31179,8 @@
 :: gas.data.pplive.com
 0.0.0.0 gasasthe.freehostia.com
 :: gasasthe.freehostia.com
+0.0.0.0 gashot.yurivideos.com
+:: gashot.yurivideos.com
 0.0.0.0 gasurvey.gemius.com
 :: gasurvey.gemius.com
 0.0.0.0 gaswljdh.qpoe.com
@@ -35987,8 +35999,6 @@
 :: j.xinshipu.com
 0.0.0.0 j.ytbt.cc
 :: j.ytbt.cc
-0.0.0.0 j0.jegxny.com
-:: j0.jegxny.com
 0.0.0.0 j1.piaobing.com
 :: j1.piaobing.com
 0.0.0.0 j17.shangc.net
@@ -49693,8 +49703,6 @@
 :: q28840.nb.host127-0-0-1.com
 0.0.0.0 q2an8fheo7.ikejiwbe6i.madpendesign.com.au
 :: q2an8fheo7.ikejiwbe6i.madpendesign.com.au
-0.0.0.0 q3.jandan.net
-:: q3.jandan.net
 0.0.0.0 q5bkioqo9v.qfcrhdwg5x.madpendesign.com.au
 :: q5bkioqo9v.qfcrhdwg5x.madpendesign.com.au
 0.0.0.0 q6t8bgo26nx1ooxe61cx.littlematchagirl.com.au
@@ -49709,6 +49717,8 @@
 :: qb.haikangsj.com
 0.0.0.0 qc.tclup.com
 :: qc.tclup.com
+0.0.0.0 qc.violet.vn
+:: qc.violet.vn
 0.0.0.0 qcn.orbitcycle.com
 :: qcn.orbitcycle.com
 0.0.0.0 qcq8n5.kozer.2ndincome4u.org.uk
@@ -51771,6 +51781,8 @@
 :: s1.86ditu.com
 0.0.0.0 s1.cmfu.com
 :: s1.cmfu.com
+0.0.0.0 s1.dapenti.com
+:: s1.dapenti.com
 0.0.0.0 s1.dugoogle.com
 :: s1.dugoogle.com
 0.0.0.0 s1.eyeonmusica.it
@@ -53741,6 +53753,8 @@
 :: shovi.frost-electric-supply.com
 0.0.0.0 show-msgch.qq.com
 :: show-msgch.qq.com
+0.0.0.0 show.9zwang.com
+:: show.9zwang.com
 0.0.0.0 show.adclick.lt
 :: show.adclick.lt
 0.0.0.0 show.ctrmanager.com
@@ -59737,8 +59751,6 @@
 :: tracking.reprize.de
 0.0.0.0 tracking.resumecompanion.com
 :: tracking.resumecompanion.com
-0.0.0.0 tracking.retargeting.biz
-:: tracking.retargeting.biz
 0.0.0.0 tracking.rodimobi.com
 :: tracking.rodimobi.com
 0.0.0.0 tracking.roispy.com
@@ -61535,8 +61547,6 @@
 :: usbytecom.orbitcycle.com
 0.0.0.0 uscentral17.myserverhosts.com
 :: uscentral17.myserverhosts.com
-0.0.0.0 usd.bravo-dog.com
-:: usd.bravo-dog.com
 0.0.0.0 usd.sierra-boa.com
 :: usd.sierra-boa.com
 0.0.0.0 usdtop.58.com
@@ -62795,8 +62805,6 @@
 :: w23vbt.best.pershoretaxis.co.uk
 0.0.0.0 w2w.lip.st
 :: w2w.lip.st
-0.0.0.0 w3.jandan.net
-:: w3.jandan.net
 0.0.0.0 w3.netcreations.com
 :: w3.netcreations.com
 0.0.0.0 w3c-jquery.cz.cc
@@ -63219,8 +63227,6 @@
 :: webapss.paypal.de.signin.yabse.net
 0.0.0.0 webbug.seatreport.com
 :: webbug.seatreport.com
-0.0.0.0 webcare.byside.com
-:: webcare.byside.com
 0.0.0.0 webcount.finn.no
 :: webcount.finn.no
 0.0.0.0 webcounter.together.net
@@ -68815,8 +68821,6 @@
 :: www.usaenterprise.com
 0.0.0.0 www.usaphotocopyservice.com
 :: www.usaphotocopyservice.com
-0.0.0.0 www.usd.bravo-dog.com
-:: www.usd.bravo-dog.com
 0.0.0.0 www.usekahuna.com
 :: www.usekahuna.com
 0.0.0.0 www.usenetjunction.com
