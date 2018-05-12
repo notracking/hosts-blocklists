@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri May 11 09:20:38 CEST 2018
+# Last update: Sat May 12 05:17:18 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35372
+# Number of unique hostnames: 35396
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -18873,8 +18873,6 @@
 :: browncustomsoftware.net.au
 0.0.0.0 browsepulse-a.akamaihd.net
 :: browsepulse-a.akamaihd.net
-0.0.0.0 browser.gwdang.com
-:: browser.gwdang.com
 0.0.0.0 browsermine.12finance.com
 :: browsermine.12finance.com
 0.0.0.0 browsersurf.12finance.com
@@ -19481,6 +19479,8 @@
 :: c.sss1989.com
 0.0.0.0 c.start280.com
 :: c.start280.com
+0.0.0.0 c.statstat888.com
+:: c.statstat888.com
 0.0.0.0 c.sz.gt.igexin.com
 :: c.sz.gt.igexin.com
 0.0.0.0 c.t98u8f.com
@@ -19653,6 +19653,8 @@
 :: c8.net.ua
 0.0.0.0 c829aeaf4090c1289783-9ad4110c8011547ec25e241b917b5aab.r35.cf2.rackcdn.com
 :: c829aeaf4090c1289783-9ad4110c8011547ec25e241b917b5aab.r35.cf2.rackcdn.com
+0.0.0.0 c8b.jcdb88.com
+:: c8b.jcdb88.com
 0.0.0.0 c8hfxkywb7.ignition3.tv
 :: c8hfxkywb7.ignition3.tv
 0.0.0.0 ca.5173car.com
@@ -24297,6 +24299,8 @@
 :: d1af033869koo7.cloudfront.net
 0.0.0.0 d1afet533lf7zs.cloudfront.net
 :: d1afet533lf7zs.cloudfront.net
+0.0.0.0 d1ar5xirbydtuc.cloudfront.net
+:: d1ar5xirbydtuc.cloudfront.net
 0.0.0.0 d1auwh1li83eb9.cloudfront.net
 :: d1auwh1li83eb9.cloudfront.net
 0.0.0.0 d1az0m14mjvs40.cloudfront.net
@@ -27689,6 +27693,8 @@
 :: e.027blzs.com
 0.0.0.0 e.51xmgys.com
 :: e.51xmgys.com
+0.0.0.0 e.60608787.com
+:: e.60608787.com
 0.0.0.0 e.7clink.com
 :: e.7clink.com
 0.0.0.0 e.91.com
@@ -27705,6 +27711,8 @@
 :: e.baidu.com
 0.0.0.0 e.banmamedia.com
 :: e.banmamedia.com
+0.0.0.0 e.bapkt.com
+:: e.bapkt.com
 0.0.0.0 e.bdoj.pw
 :: e.bdoj.pw
 0.0.0.0 e.clubske.com
@@ -27749,12 +27757,16 @@
 :: e.invodo.com
 0.0.0.0 e.iorgb.com
 :: e.iorgb.com
+0.0.0.0 e.jgkto.com
+:: e.jgkto.com
 0.0.0.0 e.jingonghuanbao.com
 :: e.jingonghuanbao.com
 0.0.0.0 e.jltdbyq.com
 :: e.jltdbyq.com
 0.0.0.0 e.joyxv.com
 :: e.joyxv.com
+0.0.0.0 e.jwiyr.com
+:: e.jwiyr.com
 0.0.0.0 e.kde.cz
 :: e.kde.cz
 0.0.0.0 e.kewro.com
@@ -27777,6 +27789,8 @@
 :: e.mushizhubao.com
 0.0.0.0 e.nbhaosheng168.com
 :: e.nbhaosheng168.com
+0.0.0.0 e.nernv.com
+:: e.nernv.com
 0.0.0.0 e.ofuda.cc
 :: e.ofuda.cc
 0.0.0.0 e.ptrvc.com
@@ -27829,6 +27843,8 @@
 :: e.yerpt.com
 0.0.0.0 e.yingchengtou.com
 :: e.yingchengtou.com
+0.0.0.0 e.yuxyz.com
+:: e.yuxyz.com
 0.0.0.0 e.yycqc.com
 :: e.yycqc.com
 0.0.0.0 e2.molbuk.ua
@@ -39183,10 +39199,14 @@
 :: m.bailingjiankang.com
 0.0.0.0 m.banner.t-online.de
 :: m.banner.t-online.de
+0.0.0.0 m.bapkt.com
+:: m.bapkt.com
 0.0.0.0 m.beacon.sina.com.cn
 :: m.beacon.sina.com.cn
 0.0.0.0 m.benaughty.com
 :: m.benaughty.com
+0.0.0.0 m.biquge5200.cc
+:: m.biquge5200.cc
 0.0.0.0 m.cdn.mx1688.com.cn
 :: m.cdn.mx1688.com.cn
 0.0.0.0 m.chenhuia.com
@@ -39297,12 +39317,16 @@
 :: m.iorgb.com
 0.0.0.0 m.ishangtong.com
 :: m.ishangtong.com
+0.0.0.0 m.jgkto.com
+:: m.jgkto.com
 0.0.0.0 m.jingonghuanbao.com
 :: m.jingonghuanbao.com
 0.0.0.0 m.jltdbyq.com
 :: m.jltdbyq.com
 0.0.0.0 m.joyxv.com
 :: m.joyxv.com
+0.0.0.0 m.jwiyr.com
+:: m.jwiyr.com
 0.0.0.0 m.kejet.net
 :: m.kejet.net
 0.0.0.0 m.kewro.com
@@ -39351,10 +39375,14 @@
 :: m.mrtuo.com
 0.0.0.0 m.mushizhubao.com
 :: m.mushizhubao.com
+0.0.0.0 m.mxguan.com
+:: m.mxguan.com
 0.0.0.0 m.mzp0o0.com
 :: m.mzp0o0.com
 0.0.0.0 m.nbhaosheng168.com
 :: m.nbhaosheng168.com
+0.0.0.0 m.nernv.com
+:: m.nernv.com
 0.0.0.0 m.openv.tv
 :: m.openv.tv
 0.0.0.0 m.panda.voiceads.cn
@@ -39423,6 +39451,8 @@
 :: m.tansuotv.com
 0.0.0.0 m.tccti.com
 :: m.tccti.com
+0.0.0.0 m.tcksbz888.com
+:: m.tcksbz888.com
 0.0.0.0 m.tiantianedu.net
 :: m.tiantianedu.net
 0.0.0.0 m.tixing51.net
@@ -39477,6 +39507,8 @@
 :: m.yangjingbang.net
 0.0.0.0 m.yangqiu.cn
 :: m.yangqiu.cn
+0.0.0.0 m.ycioo.com
+:: m.ycioo.com
 0.0.0.0 m.yes.youku.com
 :: m.yes.youku.com
 0.0.0.0 m.yingchengtou.com
@@ -39487,6 +39519,8 @@
 :: m.yooli.com
 0.0.0.0 m.yoyi.com.cn
 :: m.yoyi.com.cn
+0.0.0.0 m.yuxyz.com
+:: m.yuxyz.com
 0.0.0.0 m0-s.san.ru
 :: m0-s.san.ru
 0.0.0.0 m1.daumcdn.net
@@ -42799,6 +42833,8 @@
 :: news.sla.org
 0.0.0.0 news.soptv.ws
 :: news.soptv.ws
+0.0.0.0 news.xueyanshan.com
+:: news.xueyanshan.com
 0.0.0.0 news.yanqing-888.net
 :: news.yanqing-888.net
 0.0.0.0 newscname1.e23.cn
@@ -51313,8 +51349,6 @@
 :: rotwl.lubelskie.pl
 0.0.0.0 router.googlecom.biz
 :: router.googlecom.biz
-0.0.0.0 router.gwdang.com
-:: router.gwdang.com
 0.0.0.0 routineserver.000webhostapp.com
 :: routineserver.000webhostapp.com
 0.0.0.0 rovio-news-app.angrybirdsgame.com
@@ -51689,6 +51723,8 @@
 :: s.maipubao.cn
 0.0.0.0 s.media-imdb.com
 :: s.media-imdb.com
+0.0.0.0 s.mengpr.com
+:: s.mengpr.com
 0.0.0.0 s.motads.com
 :: s.motads.com
 0.0.0.0 s.mt145.com
@@ -54825,6 +54861,8 @@
 :: ssgg.chazidian.com
 0.0.0.0 ssgsna7n.beget.tech
 :: ssgsna7n.beget.tech
+0.0.0.0 ssh.lifu11.com
+:: ssh.lifu11.com
 0.0.0.0 sshhsvv.beckmenlaw.info
 :: sshhsvv.beckmenlaw.info
 0.0.0.0 ssknbvc.beckmanlawfirm.org
@@ -64383,6 +64421,8 @@
 :: ww.ao29.com
 0.0.0.0 ww.xiaopiaoyou.com
 :: ww.xiaopiaoyou.com
+0.0.0.0 ww1.contaprime.com
+:: ww1.contaprime.com
 0.0.0.0 ww1.searchhelper.com
 :: ww1.searchhelper.com
 0.0.0.0 ww1.tongji123.com
@@ -64671,6 +64711,8 @@
 :: www.888zr022.com
 0.0.0.0 www.88cncc.com
 :: www.88cncc.com
+0.0.0.0 www.910weixin.com
+:: www.910weixin.com
 0.0.0.0 www.9565365.com
 :: www.9565365.com
 0.0.0.0 www.9948000.com
@@ -66819,6 +66861,8 @@
 :: www.joydownload.com
 0.0.0.0 www.jptybcinnamonic.review
 :: www.jptybcinnamonic.review
+0.0.0.0 www.jrdkc.com
+:: www.jrdkc.com
 0.0.0.0 www.jumboplastics.ru
 :: www.jumboplastics.ru
 0.0.0.0 www.jumpinessrhbijjq.download
@@ -67109,6 +67153,8 @@
 :: www.lvjian66.com
 0.0.0.0 www.lx167.com
 :: www.lx167.com
+0.0.0.0 www.lybczlsb.com
+:: www.lybczlsb.com
 0.0.0.0 www.lydaoyou.com
 :: www.lydaoyou.com
 0.0.0.0 www.lynndollin.com
@@ -70713,6 +70759,8 @@
 :: zxc.severalgrayone.ws
 0.0.0.0 zxc1-ustokyyneikyfasnm.stackpathdns.com
 :: zxc1-ustokyyneikyfasnm.stackpathdns.com
+0.0.0.0 zxcs.linghit.com
+:: zxcs.linghit.com
 0.0.0.0 zxl1102.000webhostapp.com
 :: zxl1102.000webhostapp.com
 0.0.0.0 zxyjhx.gszy.edu.cn
