@@ -104,6 +104,7 @@ addn-hosts=/path/to/hostnames.txt
  - https://raw.githubusercontent.com/szpeter80/hufilter/master/hufilter.txt
  - https://easylist-downloads.adblockplus.org/advblock.txt
  - https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
+ - https://raw.githubusercontent.com/jspenguin2017/uBlockProtector/master/uBlockProtectorList.txt
 
 
 # Lists that will NOT be included
