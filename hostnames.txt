@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat May 12 05:17:18 CEST 2018
+# Last update: Sun May 13 05:07:18 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35396
+# Number of unique hostnames: 35388
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -5915,6 +5915,8 @@
 :: ads-union.jd.com
 0.0.0.0 ads-v-darwin.hulu.com
 :: ads-v-darwin.hulu.com
+0.0.0.0 ads-v-darwin.hulustream.com
+:: ads-v-darwin.hulustream.com
 0.0.0.0 ads-web.mail.com
 :: ads-web.mail.com
 0.0.0.0 ads.0x7f000001.com
@@ -11315,6 +11317,8 @@
 :: adservice.google.com.au
 0.0.0.0 adservice.google.com.tr
 :: adservice.google.com.tr
+0.0.0.0 adservice.google.nl
+:: adservice.google.nl
 0.0.0.0 adservice.google.pl
 :: adservice.google.pl
 0.0.0.0 adservice.kelkoo.it
@@ -15707,8 +15711,6 @@
 :: autofollowers.hol.es
 0.0.0.0 autolinkmaker.itunes.apple.com
 :: autolinkmaker.itunes.apple.com
-0.0.0.0 automate-prod.s3.amazonaws.com
-:: automate-prod.s3.amazonaws.com
 0.0.0.0 automation.service.euro-system-security.info
 :: automation.service.euro-system-security.info
 0.0.0.0 autopub.misterbot.com
@@ -19653,8 +19655,6 @@
 :: c8.net.ua
 0.0.0.0 c829aeaf4090c1289783-9ad4110c8011547ec25e241b917b5aab.r35.cf2.rackcdn.com
 :: c829aeaf4090c1289783-9ad4110c8011547ec25e241b917b5aab.r35.cf2.rackcdn.com
-0.0.0.0 c8b.jcdb88.com
-:: c8b.jcdb88.com
 0.0.0.0 c8hfxkywb7.ignition3.tv
 :: c8hfxkywb7.ignition3.tv
 0.0.0.0 ca.5173car.com
@@ -24263,6 +24263,8 @@
 :: d162nnmwf9bggr.cloudfront.net
 0.0.0.0 d1635hfcvs8ero.cloudfront.net
 :: d1635hfcvs8ero.cloudfront.net
+0.0.0.0 d167sl77k83rtf.cloudfront.net
+:: d167sl77k83rtf.cloudfront.net
 0.0.0.0 d169bbxks24g2u.cloudfront.net
 :: d169bbxks24g2u.cloudfront.net
 0.0.0.0 d16b4.8ox.cn
@@ -25213,8 +25215,6 @@
 :: d42tbok7l2bg1.cloudfront.net
 0.0.0.0 d49z64r3ud4kq.cloudfront.net
 :: d49z64r3ud4kq.cloudfront.net
-0.0.0.0 d4n.platformd.com
-:: d4n.platformd.com
 0.0.0.0 d5.sina.com.cn
 :: d5.sina.com.cn
 0.0.0.0 d55fgfgf.webcindario.com
@@ -27711,8 +27711,6 @@
 :: e.baidu.com
 0.0.0.0 e.banmamedia.com
 :: e.banmamedia.com
-0.0.0.0 e.bapkt.com
-:: e.bapkt.com
 0.0.0.0 e.bdoj.pw
 :: e.bdoj.pw
 0.0.0.0 e.clubske.com
@@ -27765,8 +27763,6 @@
 :: e.jltdbyq.com
 0.0.0.0 e.joyxv.com
 :: e.joyxv.com
-0.0.0.0 e.jwiyr.com
-:: e.jwiyr.com
 0.0.0.0 e.kde.cz
 :: e.kde.cz
 0.0.0.0 e.kewro.com
@@ -27789,8 +27785,6 @@
 :: e.mushizhubao.com
 0.0.0.0 e.nbhaosheng168.com
 :: e.nbhaosheng168.com
-0.0.0.0 e.nernv.com
-:: e.nernv.com
 0.0.0.0 e.ofuda.cc
 :: e.ofuda.cc
 0.0.0.0 e.ptrvc.com
@@ -27843,8 +27837,6 @@
 :: e.yerpt.com
 0.0.0.0 e.yingchengtou.com
 :: e.yingchengtou.com
-0.0.0.0 e.yuxyz.com
-:: e.yuxyz.com
 0.0.0.0 e.yycqc.com
 :: e.yycqc.com
 0.0.0.0 e2.molbuk.ua
@@ -30221,6 +30213,8 @@
 :: flash.360edu.com
 0.0.0.0 flash.all-stars.pl
 :: flash.all-stars.pl
+0.0.0.0 flash.banners-service.info
+:: flash.banners-service.info
 0.0.0.0 flash.vg.no
 :: flash.vg.no
 0.0.0.0 flashbanners.static.ard.sexplaycam.com
@@ -37243,8 +37237,6 @@
 :: kmjzb.saqibsiddiqui.com
 0.0.0.0 kn.chapnap.com
 :: kn.chapnap.com
-0.0.0.0 kn.czzdf.com
-:: kn.czzdf.com
 0.0.0.0 kn.hnhqsc.com
 :: kn.hnhqsc.com
 0.0.0.0 kn.kymrzx.com
@@ -39199,8 +39191,6 @@
 :: m.bailingjiankang.com
 0.0.0.0 m.banner.t-online.de
 :: m.banner.t-online.de
-0.0.0.0 m.bapkt.com
-:: m.bapkt.com
 0.0.0.0 m.beacon.sina.com.cn
 :: m.beacon.sina.com.cn
 0.0.0.0 m.benaughty.com
@@ -39325,8 +39315,6 @@
 :: m.jltdbyq.com
 0.0.0.0 m.joyxv.com
 :: m.joyxv.com
-0.0.0.0 m.jwiyr.com
-:: m.jwiyr.com
 0.0.0.0 m.kejet.net
 :: m.kejet.net
 0.0.0.0 m.kewro.com
@@ -39381,8 +39369,6 @@
 :: m.mzp0o0.com
 0.0.0.0 m.nbhaosheng168.com
 :: m.nbhaosheng168.com
-0.0.0.0 m.nernv.com
-:: m.nernv.com
 0.0.0.0 m.openv.tv
 :: m.openv.tv
 0.0.0.0 m.panda.voiceads.cn
@@ -39519,8 +39505,6 @@
 :: m.yooli.com
 0.0.0.0 m.yoyi.com.cn
 :: m.yoyi.com.cn
-0.0.0.0 m.yuxyz.com
-:: m.yuxyz.com
 0.0.0.0 m0-s.san.ru
 :: m0-s.san.ru
 0.0.0.0 m1.daumcdn.net
@@ -51723,8 +51707,6 @@
 :: s.maipubao.cn
 0.0.0.0 s.media-imdb.com
 :: s.media-imdb.com
-0.0.0.0 s.mengpr.com
-:: s.mengpr.com
 0.0.0.0 s.motads.com
 :: s.motads.com
 0.0.0.0 s.mt145.com
@@ -54451,6 +54433,8 @@
 :: softads.50webs.com
 0.0.0.0 softh.blogsky.com
 :: softh.blogsky.com
+0.0.0.0 softnewready.systemgeneratorofbrandnewcontent.date
+:: softnewready.systemgeneratorofbrandnewcontent.date
 0.0.0.0 softproxy.ckync.com
 :: softproxy.ckync.com
 0.0.0.0 softreadynow.thebigforeverupgrade.review
