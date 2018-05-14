@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun May 13 05:07:18 CEST 2018
+# Last update: Mon May 14 05:11:24 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35388
+# Number of unique hostnames: 35385
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -18669,6 +18669,8 @@
 :: bonjo.bmbsklep.pl
 0.0.0.0 bontent.powvideo.net
 :: bontent.powvideo.net
+0.0.0.0 bonus.tvmaze.com
+:: bonus.tvmaze.com
 0.0.0.0 bonusm4b.beget.tech
 :: bonusm4b.beget.tech
 0.0.0.0 bonux.nextview.ru
@@ -65141,8 +65143,6 @@
 :: www.audioconverter.info
 0.0.0.0 www.aussiemoneymethod.com
 :: www.aussiemoneymethod.com
-0.0.0.0 www.autoappassionati.it
-:: www.autoappassionati.it
 0.0.0.0 www.autoriparazioniflorisgiorgio.com
 :: www.autoriparazioniflorisgiorgio.com
 0.0.0.0 www.awalkerjones.com
@@ -66665,8 +66665,6 @@
 :: www.ilnostroorto.com
 0.0.0.0 www.imagenes.de
 :: www.imagenes.de
-0.0.0.0 www.imagerieduroc.com
-:: www.imagerieduroc.com
 0.0.0.0 www.imcounting.com
 :: www.imcounting.com
 0.0.0.0 www.immobaustein.de
@@ -66845,8 +66843,6 @@
 :: www.joydownload.com
 0.0.0.0 www.jptybcinnamonic.review
 :: www.jptybcinnamonic.review
-0.0.0.0 www.jrdkc.com
-:: www.jrdkc.com
 0.0.0.0 www.jumboplastics.ru
 :: www.jumboplastics.ru
 0.0.0.0 www.jumpinessrhbijjq.download
@@ -68043,8 +68039,6 @@
 :: www.regcuresoftware.com
 0.0.0.0 www.registrarads.com
 :: www.registrarads.com
-0.0.0.0 www.reifen-simon.com
-:: www.reifen-simon.com
 0.0.0.0 www.reklam3.net
 :: www.reklam3.net
 0.0.0.0 www.reklamzadserver.com
