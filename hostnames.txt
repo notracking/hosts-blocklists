@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon May 14 05:11:24 CEST 2018
+# Last update: Tue May 15 05:17:03 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35385
+# Number of unique hostnames: 35386
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -15283,6 +15283,8 @@
 :: as.eu.angsrvr.com
 0.0.0.0 as.featurelink.com
 :: as.featurelink.com
+0.0.0.0 as.g4.ifeng.com
+:: as.g4.ifeng.com
 0.0.0.0 as.g5s.ifeng.com
 :: as.g5s.ifeng.com
 0.0.0.0 as.gamebox.com
@@ -23539,8 +23541,6 @@
 :: cpm.bazoto.com
 0.0.0.0 cpm.cm.kankan.com
 :: cpm.cm.kankan.com
-0.0.0.0 cpm.cm.sandai.net
-:: cpm.cm.sandai.net
 0.0.0.0 cpm.live6.com
 :: cpm.live6.com
 0.0.0.0 cpm.super-links.net
@@ -31049,6 +31049,8 @@
 :: g4p.redtram.com
 0.0.0.0 g4va.kdcad.com
 :: g4va.kdcad.com
+0.0.0.0 g8f.ifeng.com
+:: g8f.ifeng.com
 0.0.0.0 g9voihkevb.bradul.creatory.org
 :: g9voihkevb.bradul.creatory.org
 0.0.0.0 ga.canoe.ca
