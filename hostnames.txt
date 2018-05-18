@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu May 17 05:15:23 CEST 2018
+# Last update: Fri May 18 06:11:49 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35380
+# Number of unique hostnames: 35391
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3411,6 +3411,8 @@
 :: ad.ad4989.co.kr
 0.0.0.0 ad.adanglers.com
 :: ad.adanglers.com
+0.0.0.0 ad.adapter.kaffnet.com
+:: ad.adapter.kaffnet.com
 0.0.0.0 ad.adconsole.com
 :: ad.adconsole.com
 0.0.0.0 ad.adfox.cz
@@ -10315,6 +10317,8 @@
 :: ads5.mconetwork.com
 0.0.0.0 ads5.sabah.com.tr
 :: ads5.sabah.com.tr
+0.0.0.0 ads5.truecaller.com
+:: ads5.truecaller.com
 0.0.0.0 ads5.virtual-nights.com
 :: ads5.virtual-nights.com
 0.0.0.0 ads5.virtumundo.com
@@ -14335,6 +14339,8 @@
 :: api.aalbbh84.info
 0.0.0.0 api.ad-patrick.com
 :: api.ad-patrick.com
+0.0.0.0 api.ad.intl.xiaomi.com
+:: api.ad.intl.xiaomi.com
 0.0.0.0 api.ad.snappea.com
 :: api.ad.snappea.com
 0.0.0.0 api.ad.xiaomi.com
@@ -14389,6 +14395,8 @@
 :: api.bitp.it
 0.0.0.0 api.bs.zui.com
 :: api.bs.zui.com
+0.0.0.0 api.c.avazunativeads.com
+:: api.c.avazunativeads.com
 0.0.0.0 api.cheatsheet.me
 :: api.cheatsheet.me
 0.0.0.0 api.citygridmedia.com
@@ -14421,6 +14429,8 @@
 :: api.doumob.com
 0.0.0.0 api.elasticemail.com
 :: api.elasticemail.com
+0.0.0.0 api.eqmob.com
+:: api.eqmob.com
 0.0.0.0 api.exc.mob.com
 :: api.exc.mob.com
 0.0.0.0 api.flicktweets.com
@@ -36673,6 +36683,8 @@
 :: js2254.hfxcsl.cn
 0.0.0.0 js2254.njqunyi.com
 :: js2254.njqunyi.com
+0.0.0.0 js34dc10.gamooga.com
+:: js34dc10.gamooga.com
 0.0.0.0 js4.eastmoney.com
 :: js4.eastmoney.com
 0.0.0.0 js4.ringrevenue.com
@@ -38317,6 +38329,8 @@
 :: livetracker.voanews.eu
 0.0.0.0 livetsomudvekslingstudent.bloggersdelight.dk
 :: livetsomudvekslingstudent.bloggersdelight.dk
+0.0.0.0 liveupdate.feednowforbrandnewcontestdistributor.win
+:: liveupdate.feednowforbrandnewcontestdistributor.win
 0.0.0.0 liveviewer.ez.no
 :: liveviewer.ez.no
 0.0.0.0 livew.l.qq.com
@@ -44625,6 +44639,8 @@
 :: onlineaccessappsinfouser.is-found.org
 0.0.0.0 onlineads.magicvalley.com
 :: onlineads.magicvalley.com
+0.0.0.0 onlineapi.youappi.com
+:: onlineapi.youappi.com
 0.0.0.0 onlinebanking-updated-bankofamerica.id090037566.com
 :: onlinebanking-updated-bankofamerica.id090037566.com
 0.0.0.0 onlinecibcupdate.temp-site.org
@@ -45441,8 +45457,6 @@
 :: p.inte.sogou.com
 0.0.0.0 p.italia-film.org
 :: p.italia-film.org
-0.0.0.0 p.kjwx8.com
-:: p.kjwx8.com
 0.0.0.0 p.l.qq.com
 :: p.l.qq.com
 0.0.0.0 p.lu.sogou.com
@@ -47585,6 +47599,8 @@
 :: pixel.mtrcs.samba.tv
 0.0.0.0 pixel.nbsp.de
 :: pixel.nbsp.de
+0.0.0.0 pixel.nc0.co
+:: pixel.nc0.co
 0.0.0.0 pixel.newscred.com
 :: pixel.newscred.com
 0.0.0.0 pixel.nymag.com
@@ -52527,6 +52543,8 @@
 :: sdkapp.uve.weibo.com
 0.0.0.0 sdkclick.mobile.sina.cn
 :: sdkclick.mobile.sina.cn
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+:: sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
 :: sdkconfig.ad.xiaomi.com
 0.0.0.0 sdkconfig.play.aiseet.atianqi.com
@@ -54807,8 +54825,6 @@
 :: ssgg.chazidian.com
 0.0.0.0 ssgsna7n.beget.tech
 :: ssgsna7n.beget.tech
-0.0.0.0 ssh.lifu11.com
-:: ssh.lifu11.com
 0.0.0.0 sshhsvv.beckmenlaw.info
 :: sshhsvv.beckmenlaw.info
 0.0.0.0 ssknbvc.beckmanlawfirm.org
@@ -55499,6 +55515,8 @@
 :: static.wooboo.com.cn
 0.0.0.0 static.xpct.de
 :: static.xpct.de
+0.0.0.0 static.youappi.com
+:: static.youappi.com
 0.0.0.0 static.ziffdavis.com
 :: static.ziffdavis.com
 0.0.0.0 static1.baifendian.com
@@ -59615,6 +59633,8 @@
 :: tracking.internetstores.de
 0.0.0.0 tracking.interweave.com
 :: tracking.interweave.com
+0.0.0.0 tracking.intl.miui.com
+:: tracking.intl.miui.com
 0.0.0.0 tracking.inuvo.com
 :: tracking.inuvo.com
 0.0.0.0 tracking.iol.co.za
@@ -68031,6 +68051,8 @@
 :: www.relaciones-pareja.com
 0.0.0.0 www.remote88.com
 :: www.remote88.com
+0.0.0.0 www.remotepartition.com
+:: www.remotepartition.com
 0.0.0.0 www.rempko.sk
 :: www.rempko.sk
 0.0.0.0 www.renameit.com
