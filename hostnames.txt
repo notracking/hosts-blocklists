@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri May 18 06:11:49 CEST 2018
+# Last update: Sat May 19 05:13:21 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35391
+# Number of unique hostnames: 35394
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -17683,6 +17683,8 @@
 :: bd1.xiangha.com
 0.0.0.0 bd1.xiby.cn
 :: bd1.xiby.cn
+0.0.0.0 bd1.yidu.cc
+:: bd1.yidu.cc
 0.0.0.0 bd2.52che.com
 :: bd2.52che.com
 0.0.0.0 bd2.dopa.com
@@ -33799,6 +33801,8 @@
 :: ht.redtube.com
 0.0.0.0 ht.spankwire.com
 :: ht.spankwire.com
+0.0.0.0 ht.tube8.com
+:: ht.tube8.com
 0.0.0.0 ht.www.sogou.com
 :: ht.www.sogou.com
 0.0.0.0 ht.youporn.com
@@ -33839,6 +33843,8 @@
 :: hubs.toikgame.com
 0.0.0.0 hubxt.redtube.com
 :: hubxt.redtube.com
+0.0.0.0 hubxt.tube8.com
+:: hubxt.tube8.com
 0.0.0.0 hud.thesourcechagrin.net
 :: hud.thesourcechagrin.net
 0.0.0.0 hufimezaj.000webhostapp.com
