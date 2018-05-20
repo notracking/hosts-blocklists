@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat May 19 05:13:21 CEST 2018
+# Last update: Sun May 20 05:08:03 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35394
+# Number of unique hostnames: 35393
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -19495,8 +19495,6 @@
 :: c.sss1989.com
 0.0.0.0 c.start280.com
 :: c.start280.com
-0.0.0.0 c.statstat888.com
-:: c.statstat888.com
 0.0.0.0 c.sz.gt.igexin.com
 :: c.sz.gt.igexin.com
 0.0.0.0 c.t98u8f.com
@@ -34479,8 +34477,6 @@
 :: image.hh010.com
 0.0.0.0 image.hj217.com
 :: image.hj217.com
-0.0.0.0 image.ibb.co
-:: image.ibb.co
 0.0.0.0 image.ig.com.br
 :: image.ig.com.br
 0.0.0.0 image.lobopharm.hr
@@ -60151,6 +60147,8 @@
 :: trustclick.ne.jp
 0.0.0.0 trustpassbuyer.wp.lc
 :: trustpassbuyer.wp.lc
+0.0.0.0 trutor.org.pl
+:: trutor.org.pl
 0.0.0.0 trx.mxmfb.com
 :: trx.mxmfb.com
 0.0.0.0 try.seemyass.com
