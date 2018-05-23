@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue May 22 05:13:44 CEST 2018
+# Last update: Wed May 23 05:17:39 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35404
+# Number of unique hostnames: 35405
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -19823,6 +19823,8 @@
 :: campaign.firmendeutschland.com
 0.0.0.0 campaign.iitech.dk
 :: campaign.iitech.dk
+0.0.0.0 campaign.nmobs.com
+:: campaign.nmobs.com
 0.0.0.0 campaign.r20.constantcontact.com
 :: campaign.r20.constantcontact.com
 0.0.0.0 campaignkit.radiusnetworks.com
@@ -27711,8 +27713,6 @@
 :: e.027blzs.com
 0.0.0.0 e.51xmgys.com
 :: e.51xmgys.com
-0.0.0.0 e.60608787.com
-:: e.60608787.com
 0.0.0.0 e.7clink.com
 :: e.7clink.com
 0.0.0.0 e.91.com
@@ -42947,6 +42947,8 @@
 :: ng.sympatico.ca
 0.0.0.0 ng.virgul.com
 :: ng.virgul.com
+0.0.0.0 ng2.virgul.com
+:: ng2.virgul.com
 0.0.0.0 ng3.ads.warnerbros.com
 :: ng3.ads.warnerbros.com
 0.0.0.0 ngadclient1.mpath.org
