@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat May 26 05:15:29 CEST 2018
+# Last update: Sun May 27 05:08:45 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35685
+# Number of unique hostnames: 35703
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -15591,6 +15591,8 @@
 :: asus.getreleasemaster.com
 0.0.0.0 asus.inlandempirebellydancers.com
 :: asus.inlandempirebellydancers.com
+0.0.0.0 aswgbzsw.xingtangshuo.com
+:: aswgbzsw.xingtangshuo.com
 0.0.0.0 aswl.d3kdh34.pw
 :: aswl.d3kdh34.pw
 0.0.0.0 aswl.dfs3e4.pw
@@ -17687,6 +17689,10 @@
 :: bcq.aruh.ml
 0.0.0.0 bcs.zdnet.com
 :: bcs.zdnet.com
+0.0.0.0 bd-js.baixing.net
+:: bd-js.baixing.net
+0.0.0.0 bd-s.baixing.net
+:: bd-s.baixing.net
 0.0.0.0 bd.ershenghuo.com
 :: bd.ershenghuo.com
 0.0.0.0 bd.haomagujia.com
@@ -27851,6 +27857,8 @@
 :: e.kde.cz
 0.0.0.0 e.kewro.com
 :: e.kewro.com
+0.0.0.0 e.kjfhe.com
+:: e.kjfhe.com
 0.0.0.0 e.ksttwz.com
 :: e.ksttwz.com
 0.0.0.0 e.liweiso.com
@@ -27869,8 +27877,12 @@
 :: e.mushizhubao.com
 0.0.0.0 e.nbhaosheng168.com
 :: e.nbhaosheng168.com
+0.0.0.0 e.nfkos.com
+:: e.nfkos.com
 0.0.0.0 e.ofuda.cc
 :: e.ofuda.cc
+0.0.0.0 e.poonscn.com
+:: e.poonscn.com
 0.0.0.0 e.ptrvc.com
 :: e.ptrvc.com
 0.0.0.0 e.qiaoyuwang.com
@@ -39443,12 +39455,16 @@
 :: m.hot-mob.com
 0.0.0.0 m.htper.com
 :: m.htper.com
+0.0.0.0 m.huyulh.com
+:: m.huyulh.com
 0.0.0.0 m.hyzui.com
 :: m.hyzui.com
 0.0.0.0 m.iorgb.com
 :: m.iorgb.com
 0.0.0.0 m.ishangtong.com
 :: m.ishangtong.com
+0.0.0.0 m.jcwwxn.com
+:: m.jcwwxn.com
 0.0.0.0 m.jingonghuanbao.com
 :: m.jingonghuanbao.com
 0.0.0.0 m.jltdbyq.com
@@ -39459,6 +39475,8 @@
 :: m.kejet.net
 0.0.0.0 m.kewro.com
 :: m.kewro.com
+0.0.0.0 m.kjfhe.com
+:: m.kjfhe.com
 0.0.0.0 m.ksttwz.com
 :: m.ksttwz.com
 0.0.0.0 m.kubiqq.com
@@ -39511,6 +39529,8 @@
 :: m.mzp0o0.com
 0.0.0.0 m.nbhaosheng168.com
 :: m.nbhaosheng168.com
+0.0.0.0 m.nfkos.com
+:: m.nfkos.com
 0.0.0.0 m.openv.tv
 :: m.openv.tv
 0.0.0.0 m.panda.voiceads.cn
@@ -39519,6 +39539,8 @@
 :: m.parksonlong.com
 0.0.0.0 m.phonthing.com
 :: m.phonthing.com
+0.0.0.0 m.poonscn.com
+:: m.poonscn.com
 0.0.0.0 m.porntourfr.3818.idhad.com
 :: m.porntourfr.3818.idhad.com
 0.0.0.0 m.ptrvc.com
@@ -46141,6 +46163,8 @@
 :: pagestat.mmi.bemobile.ua
 0.0.0.0 pageviadropline-documentshareclienthtmlinformationredirection.droppages.com
 :: pageviadropline-documentshareclienthtmlinformationredirection.droppages.com
+0.0.0.0 paimgcdn.baidu.com
+:: paimgcdn.baidu.com
 0.0.0.0 pain.uhcanesthesia.com
 :: pain.uhcanesthesia.com
 0.0.0.0 paincake.yoll.net
@@ -48747,6 +48771,8 @@
 :: pp.nrelate.com
 0.0.0.0 pp.pplproblems.com
 :: pp.pplproblems.com
+0.0.0.0 pp.sxjkc.cn
+:: pp.sxjkc.cn
 0.0.0.0 pp1108725401z.esy.es
 :: pp1108725401z.esy.es
 0.0.0.0 pp2.dhzw.org
@@ -49859,6 +49885,8 @@
 :: q2an8fheo7.ikejiwbe6i.madpendesign.com.au
 0.0.0.0 q5bkioqo9v.qfcrhdwg5x.madpendesign.com.au
 :: q5bkioqo9v.qfcrhdwg5x.madpendesign.com.au
+0.0.0.0 q6rwa.eschangchi.com
+:: q6rwa.eschangchi.com
 0.0.0.0 q6t8bgo26nx1ooxe61cx.littlematchagirl.com.au
 :: q6t8bgo26nx1ooxe61cx.littlematchagirl.com.au
 0.0.0.0 q7wg99.kal.wkcengland.com
@@ -54495,6 +54523,8 @@
 :: single1women.freehomepage.com
 0.0.0.0 sinkhole-00.shadowserver.org
 :: sinkhole-00.shadowserver.org
+0.0.0.0 siqwqjza.m.yikanxiaoshuo.net
+:: siqwqjza.m.yikanxiaoshuo.net
 0.0.0.0 sis.amazon.com
 :: sis.amazon.com
 0.0.0.0 sisteanltc.000webhostapp.com
@@ -55261,6 +55291,8 @@
 :: src-dropbox.absolutebeautyclinicgh.com
 0.0.0.0 src.duanxin520.com
 :: src.duanxin520.com
+0.0.0.0 src.zf313.com
+:: src.zf313.com
 0.0.0.0 srd.simba.taobao.com
 :: srd.simba.taobao.com
 0.0.0.0 srilaini1helprecoveryii.000webhostapp.com
@@ -55349,6 +55381,8 @@
 :: ssgg.chazidian.com
 0.0.0.0 ssgsna7n.beget.tech
 :: ssgsna7n.beget.tech
+0.0.0.0 ssh.szxiuchang.com
+:: ssh.szxiuchang.com
 0.0.0.0 sshhsvv.beckmenlaw.info
 :: sshhsvv.beckmenlaw.info
 0.0.0.0 ssknbvc.beckmanlawfirm.org
@@ -69831,6 +69865,8 @@
 :: www.ypmadserver.com
 0.0.0.0 www.ypmate.com
 :: www.ypmate.com
+0.0.0.0 www.ytdksb.com
+:: www.ytdksb.com
 0.0.0.0 www.yunxuu.com
 :: www.yunxuu.com
 0.0.0.0 www.yvmads.com
