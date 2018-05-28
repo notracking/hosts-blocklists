@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun May 27 05:08:45 CEST 2018
+# Last update: Mon May 28 05:05:33 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35703
+# Number of unique hostnames: 35548
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -359,8 +359,6 @@
 :: 1686607364.rsc.cdn77.org
 0.0.0.0 1696908298.rsc.cdn77.org
 :: 1696908298.rsc.cdn77.org
-0.0.0.0 171111.zwytcs.org
-:: 171111.zwytcs.org
 0.0.0.0 17173im.qtmojo.com
 :: 17173im.qtmojo.com
 0.0.0.0 175.220.196.104.bc.googleusercontent.com
@@ -1853,8 +1851,6 @@
 :: 555gm44.spwoilseal.com
 0.0.0.0 5623.web-stats.org
 :: 5623.web-stats.org
-0.0.0.0 57.jtydbz.com
-:: 57.jtydbz.com
 0.0.0.0 570748-deutschland-verbraucher-mitteilung-validierung.sicherheitshilfe-schutz.ml
 :: 570748-deutschland-verbraucher-mitteilung-validierung.sicherheitshilfe-schutz.ml
 0.0.0.0 588222-germany-nutzung-mitteilung-nachweis.sicherheitssystem-sicherheitshilfe.gq
@@ -2045,8 +2041,6 @@
 :: 79423.analytics.edgesuite.net
 0.0.0.0 79xh5d.air.airporttaxievesham.co.uk
 :: 79xh5d.air.airporttaxievesham.co.uk
-0.0.0.0 7a57a5a743894a0e.m.biquguo.com
-:: 7a57a5a743894a0e.m.biquguo.com
 0.0.0.0 7aisngyh91e-cpsess0671158385-id.tallercastillocr.com
 :: 7aisngyh91e-cpsess0671158385-id.tallercastillocr.com
 0.0.0.0 7aznqtusju.bradul.creatory.org
@@ -2057,8 +2051,6 @@
 :: 7crehlpapi.woeppvzoyj.madpendesign.com.au
 0.0.0.0 7ehvqis3usuaj8in8rez.littlematchagirl.com.au
 :: 7ehvqis3usuaj8in8rez.littlematchagirl.com.au
-0.0.0.0 7f8d3ee6b2525320.m.biquguo.com
-:: 7f8d3ee6b2525320.m.biquguo.com
 0.0.0.0 7fvh21.best.pershoretaxis.co.uk
 :: 7fvh21.best.pershoretaxis.co.uk
 0.0.0.0 7jpfje.kal.wkcengland.com
@@ -2241,8 +2233,6 @@
 :: a-0001.dc-msedge.net
 0.0.0.0 a-0003.dc-msedge.net
 :: a-0003.dc-msedge.net
-0.0.0.0 a-api.dianview.com
-:: a-api.dianview.com
 0.0.0.0 a-c-sky.rzb.ir
 :: a-c-sky.rzb.ir
 0.0.0.0 a-counter.kiev.ua
@@ -2489,8 +2479,6 @@
 :: a.lolwot.com
 0.0.0.0 a.lz13.cn
 :: a.lz13.cn
-0.0.0.0 a.m.gxwztv.com
-:: a.m.gxwztv.com
 0.0.0.0 a.m.shuhuangge.org
 :: a.m.shuhuangge.org
 0.0.0.0 a.macuser.co.uk
@@ -2555,8 +2543,6 @@
 :: a.psxxw.cn
 0.0.0.0 a.qbao.com
 :: a.qbao.com
-0.0.0.0 a.qhwch.com
-:: a.qhwch.com
 0.0.0.0 a.qiao024.com
 :: a.qiao024.com
 0.0.0.0 a.qinghua5.com
@@ -2651,8 +2637,6 @@
 :: a.walla.co.il
 0.0.0.0 a.watershed-publishing.com
 :: a.watershed-publishing.com
-0.0.0.0 a.wlfnb.com
-:: a.wlfnb.com
 0.0.0.0 a.wyzmob.com
 :: a.wyzmob.com
 0.0.0.0 a.xanga.com
@@ -2961,8 +2945,6 @@
 :: abc.zhiyaspa.com
 0.0.0.0 abc1.yszyz.com
 :: abc1.yszyz.com
-0.0.0.0 abcd.zsrt88.cn
-:: abcd.zsrt88.cn
 0.0.0.0 abcj.dooccn.com
 :: abcj.dooccn.com
 0.0.0.0 abcsexy.free.fr
@@ -6447,8 +6429,6 @@
 :: ads.brunoalves.eti.br
 0.0.0.0 ads.bsplayer.com
 :: ads.bsplayer.com
-0.0.0.0 ads.bssdl.kugou.com
-:: ads.bssdl.kugou.com
 0.0.0.0 ads.bta.bg
 :: ads.bta.bg
 0.0.0.0 ads.bttbgroup.com
@@ -12901,8 +12881,6 @@
 :: agolus.free.fr
 0.0.0.0 agoodm.m.taobao.com
 :: agoodm.m.taobao.com
-0.0.0.0 agoodm.wapa.taobao.com
-:: agoodm.wapa.taobao.com
 0.0.0.0 agr.voiceads.cn
 :: agr.voiceads.cn
 0.0.0.0 agreda.pluto.ro
@@ -14445,6 +14423,8 @@
 :: api.dewmobile.net
 0.0.0.0 api.dianru.com
 :: api.dianru.com
+0.0.0.0 api.domob.cn
+:: api.domob.cn
 0.0.0.0 api.doumob.com
 :: api.doumob.com
 0.0.0.0 api.elasticemail.com
@@ -14487,8 +14467,6 @@
 :: api.innomdc.com
 0.0.0.0 api.ipinfodb.com
 :: api.ipinfodb.com
-0.0.0.0 api.ireai.cn
-:: api.ireai.cn
 0.0.0.0 api.iris.tv
 :: api.iris.tv
 0.0.0.0 api.lazyswipe.com
@@ -14593,8 +14571,6 @@
 :: api.worldsense.com
 0.0.0.0 api.xdirectx.com
 :: api.xdirectx.com
-0.0.0.0 api.xiaoliangchx.com
-:: api.xiaoliangchx.com
 0.0.0.0 api.xtify.com
 :: api.xtify.com
 0.0.0.0 api.y.igexin.com
@@ -16145,8 +16121,6 @@
 :: b.povarenok.ru
 0.0.0.0 b.qchannel03.cn
 :: b.qchannel03.cn
-0.0.0.0 b.qhwch.com
-:: b.qhwch.com
 0.0.0.0 b.rad.live.com
 :: b.rad.live.com
 0.0.0.0 b.rad.msn.com
@@ -19361,8 +19335,6 @@
 :: c.biz.weibo.com
 0.0.0.0 c.bizjournals.com
 :: c.bizjournals.com
-0.0.0.0 c.bjtrh.net
-:: c.bjtrh.net
 0.0.0.0 c.br.msn.com
 :: c.br.msn.com
 0.0.0.0 c.bxb.oupeng.com
@@ -19391,8 +19363,8 @@
 :: c.dk.msn.com
 0.0.0.0 c.dokrmob.com
 :: c.dokrmob.com
-0.0.0.0 c.duomeng.net
-:: c.duomeng.net
+0.0.0.0 c.domob.cn
+:: c.domob.cn
 0.0.0.0 c.dynad.net
 :: c.dynad.net
 0.0.0.0 c.dzytjqcc.com
@@ -19421,8 +19393,6 @@
 :: c.gmtrack.com
 0.0.0.0 c.gr.msn.com
 :: c.gr.msn.com
-0.0.0.0 c.gzsanxiaomingshi.cn
-:: c.gzsanxiaomingshi.cn
 0.0.0.0 c.hk.msn.com
 :: c.hk.msn.com
 0.0.0.0 c.id.msn.com
@@ -19439,8 +19409,6 @@
 :: c.it.msn.com
 0.0.0.0 c.jp.msn.com
 :: c.jp.msn.com
-0.0.0.0 c.jsyeyuzuqiu.org
-:: c.jsyeyuzuqiu.org
 0.0.0.0 c.k429fma.com
 :: c.k429fma.com
 0.0.0.0 c.kakaku.com
@@ -19597,8 +19565,6 @@
 :: c.ylist.cn
 0.0.0.0 c.ynlysg.com
 :: c.ynlysg.com
-0.0.0.0 c.ytvbn.cn
-:: c.ytvbn.cn
 0.0.0.0 c.za.msn.com
 :: c.za.msn.com
 0.0.0.0 c.zgnm.cc
@@ -19775,8 +19741,6 @@
 :: cache.osttirol-online.at
 0.0.0.0 cache.scbih.com
 :: cache.scbih.com
-0.0.0.0 cache.soloth.com
-:: cache.soloth.com
 0.0.0.0 cache.worldfriends.tv
 :: cache.worldfriends.tv
 0.0.0.0 cache.xw126.com
@@ -22401,8 +22365,6 @@
 :: cm.myway.com
 0.0.0.0 cm.need2find.com
 :: cm.need2find.com
-0.0.0.0 cm.optaim.com
-:: cm.optaim.com
 0.0.0.0 cm.passport.iqiyi.com
 :: cm.passport.iqiyi.com
 0.0.0.0 cm.pos.baidu.com
@@ -23731,8 +23693,6 @@
 :: creative.digitaltargetmarketing.com
 0.0.0.0 creative.jdkic.com
 :: creative.jdkic.com
-0.0.0.0 creative.ltheanine.cn
-:: creative.ltheanine.cn
 0.0.0.0 creative.nscash.com
 :: creative.nscash.com
 0.0.0.0 creative.whi.co.nz
@@ -23835,8 +23795,6 @@
 :: cs.prd.msys.playstation.net
 0.0.0.0 cs.twcczhu.com
 :: cs.twcczhu.com
-0.0.0.0 cs.wanwandou.com
-:: cs.wanwandou.com
 0.0.0.0 cs1.livetex.ru
 :: cs1.livetex.ru
 0.0.0.0 cs1.wpc.v0cdn.net
@@ -24731,8 +24689,6 @@
 :: d2cgumzzqhgmdu.cloudfront.net
 0.0.0.0 d2cxkkxhecdzsq.cloudfront.net
 :: d2cxkkxhecdzsq.cloudfront.net
-0.0.0.0 d2d2d2.changxiangziyou.com
-:: d2d2d2.changxiangziyou.com
 0.0.0.0 d2d2lbvq8xirbs.cloudfront.net
 :: d2d2lbvq8xirbs.cloudfront.net
 0.0.0.0 d2dq2ahtl5zl1z.cloudfront.net
@@ -26769,8 +26725,6 @@
 :: dmr.cnhoney.com
 0.0.0.0 dmros.ysm.yahoo.com
 :: dmros.ysm.yahoo.com
-0.0.0.0 dmt.qcrx.cn
-:: dmt.qcrx.cn
 0.0.0.0 dmtk.linternaute.com
 :: dmtk.linternaute.com
 0.0.0.0 dmtracking.alibaba.com
@@ -27299,8 +27253,6 @@
 :: drd.hauchi.com.tw
 0.0.0.0 drdavidlinks.net.au
 :: drdavidlinks.net.au
-0.0.0.0 drdj.m.gxwztv.com
-:: drdj.m.gxwztv.com
 0.0.0.0 dream.ancestrybloodhound.com
 :: dream.ancestrybloodhound.com
 0.0.0.0 dreamgirls.pandela.org
@@ -27403,8 +27355,6 @@
 :: drrt.h18.ru
 0.0.0.0 drs2.veinteractive.com
 :: drs2.veinteractive.com
-0.0.0.0 drsw.m.yuyouge.com
-:: drsw.m.yuyouge.com
 0.0.0.0 drug-testing.shengen.ru
 :: drug-testing.shengen.ru
 0.0.0.0 drugdetox.shengen.ru
@@ -27443,8 +27393,6 @@
 :: ds118.futie.net
 0.0.0.0 dsa.er.cyberwing.co.jp
 :: dsa.er.cyberwing.co.jp
-0.0.0.0 dsaewq.2039sw.org
-:: dsaewq.2039sw.org
 0.0.0.0 dsdgrt.weixinpub.com
 :: dsdgrt.weixinpub.com
 0.0.0.0 dserver.hw.net
@@ -27627,6 +27575,8 @@
 :: dvser02.china.com
 0.0.0.0 dvt4pepo9om3r.cloudfront.net
 :: dvt4pepo9om3r.cloudfront.net
+0.0.0.0 dvx-android.domob.cn
+:: dvx-android.domob.cn
 0.0.0.0 dw.cbsimg.net
 :: dw.cbsimg.net
 0.0.0.0 dw.cnet.com
@@ -27805,18 +27755,12 @@
 :: e.banmamedia.com
 0.0.0.0 e.bdoj.pw
 :: e.bdoj.pw
-0.0.0.0 e.clubske.com
-:: e.clubske.com
 0.0.0.0 e.cluoy.com
 :: e.cluoy.com
-0.0.0.0 e.cnbmaterials.com
-:: e.cnbmaterials.com
-0.0.0.0 e.csyueye.com
-:: e.csyueye.com
 0.0.0.0 e.digitalnectar.co.uk
 :: e.digitalnectar.co.uk
-0.0.0.0 e.duomeng.org
-:: e.duomeng.org
+0.0.0.0 e.domob.cn
+:: e.domob.cn
 0.0.0.0 e.dzairen.com
 :: e.dzairen.com
 0.0.0.0 e.ejiakm.net
@@ -27847,8 +27791,6 @@
 :: e.invodo.com
 0.0.0.0 e.iorgb.com
 :: e.iorgb.com
-0.0.0.0 e.jingonghuanbao.com
-:: e.jingonghuanbao.com
 0.0.0.0 e.jltdbyq.com
 :: e.jltdbyq.com
 0.0.0.0 e.joyxv.com
@@ -27861,10 +27803,6 @@
 :: e.kjfhe.com
 0.0.0.0 e.ksttwz.com
 :: e.ksttwz.com
-0.0.0.0 e.liweiso.com
-:: e.liweiso.com
-0.0.0.0 e.lndjj.com
-:: e.lndjj.com
 0.0.0.0 e.lovezhishou.com
 :: e.lovezhishou.com
 0.0.0.0 e.miaoxinqipei.com
@@ -27875,10 +27813,6 @@
 :: e.mrtuo.com
 0.0.0.0 e.mushizhubao.com
 :: e.mushizhubao.com
-0.0.0.0 e.nbhaosheng168.com
-:: e.nbhaosheng168.com
-0.0.0.0 e.nfkos.com
-:: e.nfkos.com
 0.0.0.0 e.ofuda.cc
 :: e.ofuda.cc
 0.0.0.0 e.poonscn.com
@@ -27915,14 +27849,8 @@
 :: e.ueram.com
 0.0.0.0 e.vaxyz.com
 :: e.vaxyz.com
-0.0.0.0 e.wevvt.com
-:: e.wevvt.com
-0.0.0.0 e.wjhehaofc.com
-:: e.wjhehaofc.com
 0.0.0.0 e.wnxcg.com
 :: e.wnxcg.com
-0.0.0.0 e.wxlzyh.com
-:: e.wxlzyh.com
 0.0.0.0 e.x.cn.xtgreat.com
 :: e.x.cn.xtgreat.com
 0.0.0.0 e.xetvb.com
@@ -28211,8 +28139,6 @@
 :: ee93d0dc.ngrok.io
 0.0.0.0 eecky.butlerelectricsupply.com
 :: eecky.butlerelectricsupply.com
-0.0.0.0 eee.eh39.co
-:: eee.eh39.co
 0.0.0.0 eeewwwwwwee.jvp.lk
 :: eeewwwwwwee.jvp.lk
 0.0.0.0 eegad.freeservers.com
@@ -28809,8 +28735,6 @@
 :: estoa.frost-electric-supply.com
 0.0.0.0 et-transfer-lnterac-confirmation.periscopeandsights.com.ng
 :: et-transfer-lnterac-confirmation.periscopeandsights.com.ng
-0.0.0.0 et.ganyite.com
-:: et.ganyite.com
 0.0.0.0 et.grabnetworks.com
 :: et.grabnetworks.com
 0.0.0.0 et.nytimes.com
@@ -29477,8 +29401,6 @@
 :: fandesophiemarceau.free.fr
 0.0.0.0 fangdalaw.gd.cn
 :: fangdalaw.gd.cn
-0.0.0.0 fanli.1668g.com
-:: fanli.1668g.com
 0.0.0.0 fannyschoolgirls.stripbabes.com
 :: fannyschoolgirls.stripbabes.com
 0.0.0.0 fanpage-center33.verifikasiii-again.tk
@@ -30135,8 +30057,6 @@
 :: fhr.cdn.mozilla.net
 0.0.0.0 fhunter.inetport.com
 :: fhunter.inetport.com
-0.0.0.0 fic.xyhtys.com
-:: fic.xyhtys.com
 0.0.0.0 ficcionaliza.angelcities.com
 :: ficcionaliza.angelcities.com
 0.0.0.0 fidelity.auth.currentthinkingsolar.com.au
@@ -30901,6 +30821,8 @@
 :: fsuseaad1.blob.core.windows.net
 0.0.0.0 ft-snappy-02-debate.herokuapp.com
 :: ft-snappy-02-debate.herokuapp.com
+0.0.0.0 ft.moad.cn
+:: ft.moad.cn
 0.0.0.0 ft.pnop.com
 :: ft.pnop.com
 0.0.0.0 ft2.autonomycloud.com
@@ -32063,8 +31985,6 @@
 :: gmonitor.aliimg.com
 0.0.0.0 gmota.g188.net
 :: gmota.g188.net
-0.0.0.0 gmtw.wzflourish.com
-:: gmtw.wzflourish.com
 0.0.0.0 gnjcexms4b5u49hh3v7e.bosch-web-marketing.co.uk
 :: gnjcexms4b5u49hh3v7e.bosch-web-marketing.co.uk
 0.0.0.0 go.accmgr.com
@@ -32653,14 +32573,10 @@
 :: h1317070.stratoserver.net
 0.0.0.0 h1666015.stratoserver.net
 :: h1666015.stratoserver.net
-0.0.0.0 h1ng3lem8.m.lanseshuba.com
-:: h1ng3lem8.m.lanseshuba.com
 0.0.0.0 h2.18sd.cn
 :: h2.18sd.cn
 0.0.0.0 h2.msn.com
 :: h2.msn.com
-0.0.0.0 h2po3lhm8.m.lanseshuba.com
-:: h2po3lhm8.m.lanseshuba.com
 0.0.0.0 h3a.t.r.vpath.net
 :: h3a.t.r.vpath.net
 0.0.0.0 h3ds4.maconslab.com
@@ -32899,8 +32815,6 @@
 :: hcrmouudjxzhhfdfimnj.littlematchagirl.com.au
 0.0.0.0 hcrmouudjxzhhfdfimnj.maherstcottage.com.au
 :: hcrmouudjxzhhfdfimnj.maherstcottage.com.au
-0.0.0.0 hd.hd.hhyhfs.com
-:: hd.hd.hhyhfs.com
 0.0.0.0 hd.jiedaibao.com
 :: hd.jiedaibao.com
 0.0.0.0 hd.serial.h2g.pl
@@ -33231,8 +33145,6 @@
 :: hjchung.myweb.hinet.net
 0.0.0.0 hjem.get2net.dk
 :: hjem.get2net.dk
-0.0.0.0 hjfmo.chuchenqitl.com
-:: hjfmo.chuchenqitl.com
 0.0.0.0 hjhqmbxyinislkkt.11bwgu.top
 :: hjhqmbxyinislkkt.11bwgu.top
 0.0.0.0 hjhqmbxyinislkkt.127axt.top
@@ -33943,12 +33855,8 @@
 :: html.centralmediaserver.com
 0.0.0.0 html.cnzzj.com.cn
 :: html.cnzzj.com.cn
-0.0.0.0 html.sunday8.com
-:: html.sunday8.com
 0.0.0.0 html.tucows.com
 :: html.tucows.com
-0.0.0.0 html.yuntzs.com
-:: html.yuntzs.com
 0.0.0.0 html5adkit.plusmo.s3.amazonaws.com
 :: html5adkit.plusmo.s3.amazonaws.com
 0.0.0.0 htmlads.s3.amazonaws.com
@@ -34177,8 +34085,6 @@
 :: i.walla.co.il
 0.0.0.0 i.wifi-x.co.uk
 :: i.wifi-x.co.uk
-0.0.0.0 i.xyqsnc.com
-:: i.xyqsnc.com
 0.0.0.0 i.zhuoyaju.com
 :: i.zhuoyaju.com
 0.0.0.0 i01001.dgn.vn
@@ -34545,8 +34451,6 @@
 :: iklan.indowebster.com
 0.0.0.0 ikwyd.analytics.sapo.pt
 :: ikwyd.analytics.sapo.pt
-0.0.0.0 ildie.gundam-online.com
-:: ildie.gundam-online.com
 0.0.0.0 iliilllio00oo0.321.cn
 :: iliilllio00oo0.321.cn
 0.0.0.0 ilovetosquirt.nichedsites.com
@@ -34563,8 +34467,6 @@
 :: im.banner.t-online.de
 0.0.0.0 im.impact.as
 :: im.impact.as
-0.0.0.0 im.lokoo.com.cn
-:: im.lokoo.com.cn
 0.0.0.0 im.of.pl
 :: im.of.pl
 0.0.0.0 im.ov.yahoo.co.jp
@@ -34575,8 +34477,6 @@
 :: im.upromise.com
 0.0.0.0 im.xo.pl
 :: im.xo.pl
-0.0.0.0 im1.56zzw.com
-:: im1.56zzw.com
 0.0.0.0 ima3vpaid.appspot.com
 :: ima3vpaid.appspot.com
 0.0.0.0 imad1.impact.as
@@ -34931,8 +34831,6 @@
 :: img.bluehost.com
 0.0.0.0 img.bororeb.com
 :: img.bororeb.com
-0.0.0.0 img.butanian.com
-:: img.butanian.com
 0.0.0.0 img.cdlacac.com
 :: img.cdlacac.com
 0.0.0.0 img.centrum.sk
@@ -35075,8 +34973,6 @@
 :: img.xnxx.com
 0.0.0.0 img.xratedbucks.com
 :: img.xratedbucks.com
-0.0.0.0 img.xrtzf.com
-:: img.xrtzf.com
 0.0.0.0 img.xuenb.com
 :: img.xuenb.com
 0.0.0.0 img.ygdsp.cn
@@ -35123,8 +35019,6 @@
 :: img1.us4.outblaze.com
 0.0.0.0 img1.webring.com
 :: img1.webring.com
-0.0.0.0 img1.xydfn.com
-:: img1.xydfn.com
 0.0.0.0 img1.ysts8.com
 :: img1.ysts8.com
 0.0.0.0 img1.zergnet.com
@@ -35167,16 +35061,12 @@
 :: img3.km.com
 0.0.0.0 img3.qekun.com
 :: img3.qekun.com
-0.0.0.0 img3.xydfn.com
-:: img3.xydfn.com
 0.0.0.0 img3.zergnet.com
 :: img3.zergnet.com
 0.0.0.0 img4.zergnet.com
 :: img4.zergnet.com
 0.0.0.0 img7.1133.cc
 :: img7.1133.cc
-0.0.0.0 img752.de92.com
-:: img752.de92.com
 0.0.0.0 img9.1133.cc
 :: img9.1133.cc
 0.0.0.0 imgad.thepaper.cn
@@ -35191,6 +35081,8 @@
 :: imgad2.3conline.com
 0.0.0.0 imgad3.3conline.com
 :: imgad3.3conline.com
+0.0.0.0 imgadsame.liba.com
+:: imgadsame.liba.com
 0.0.0.0 imgaliyun.da.mgtv.com
 :: imgaliyun.da.mgtv.com
 0.0.0.0 imgaliyun.res.mgtv.com
@@ -35203,8 +35095,6 @@
 :: imgc.psychcentral.com
 0.0.0.0 imgcache.classesusa.com
 :: imgcache.classesusa.com
-0.0.0.0 imgcdn.de92.com
-:: imgcdn.de92.com
 0.0.0.0 imgn.dt07.com
 :: imgn.dt07.com
 0.0.0.0 imgp.cymzc.com
@@ -35359,8 +35249,6 @@
 :: in-viacom18.videoplaza.tv
 0.0.0.0 in.bubblestat.com
 :: in.bubblestat.com
-0.0.0.0 in.cbgss.com
-:: in.cbgss.com
 0.0.0.0 in.ff5.com
 :: in.ff5.com
 0.0.0.0 in.in-houseexpo.com
@@ -35371,8 +35259,6 @@
 :: in.mstrckinam.com
 0.0.0.0 in.mydirtyhobby.de
 :: in.mydirtyhobby.de
-0.0.0.0 in.qqhpg.com
-:: in.qqhpg.com
 0.0.0.0 in.yimg.com
 :: in.yimg.com
 0.0.0.0 in1.feed.uu.cc
@@ -36109,12 +35995,8 @@
 :: j.appjiagu.com
 0.0.0.0 j.biquge520.cc
 :: j.biquge520.cc
-0.0.0.0 j.bjlanjin.com
-:: j.bjlanjin.com
 0.0.0.0 j.br.baidu.com
 :: j.br.baidu.com
-0.0.0.0 j.dotimg.cn
-:: j.dotimg.cn
 0.0.0.0 j.hongyangpai.com
 :: j.hongyangpai.com
 0.0.0.0 j.imdb.cn
@@ -36147,8 +36029,6 @@
 :: j.wubai.cc
 0.0.0.0 j.xinshipu.com
 :: j.xinshipu.com
-0.0.0.0 j.ytbt.cc
-:: j.ytbt.cc
 0.0.0.0 j1.piaobing.com
 :: j1.piaobing.com
 0.0.0.0 j17.shangc.net
@@ -36427,8 +36307,6 @@
 :: jingjia.qq.com
 0.0.0.0 jira.face2trade.com
 :: jira.face2trade.com
-0.0.0.0 jiu.njdkgm.com
-:: jiu.njdkgm.com
 0.0.0.0 jixguzfaxdajzhhasiqd.ahdaaf.org
 :: jixguzfaxdajzhhasiqd.ahdaaf.org
 0.0.0.0 jiyazaza.boxhost.me
@@ -36641,8 +36519,6 @@
 :: js.50bang.org
 0.0.0.0 js.51taifu.com
 :: js.51taifu.com
-0.0.0.0 js.526d.com
-:: js.526d.com
 0.0.0.0 js.578965.com
 :: js.578965.com
 0.0.0.0 js.5iydz.com
@@ -36657,8 +36533,6 @@
 :: js.adxkj.com
 0.0.0.0 js.aiya.com.cn
 :: js.aiya.com.cn
-0.0.0.0 js.aomeishang.com
-:: js.aomeishang.com
 0.0.0.0 js.avstats.com
 :: js.avstats.com
 0.0.0.0 js.bitlordservdownload.com
@@ -36667,8 +36541,6 @@
 :: js.bju888.com
 0.0.0.0 js.bjwwfx001.org.cn
 :: js.bjwwfx001.org.cn
-0.0.0.0 js.brfrb.cn
-:: js.brfrb.cn
 0.0.0.0 js.bulkhentai.com
 :: js.bulkhentai.com
 0.0.0.0 js.bxwns.com
@@ -36721,8 +36593,6 @@
 :: js.hsleadflows.net
 0.0.0.0 js.jtdcg.com
 :: js.jtdcg.com
-0.0.0.0 js.jybeijia.com
-:: js.jybeijia.com
 0.0.0.0 js.keywordsconnect.com
 :: js.keywordsconnect.com
 0.0.0.0 js.libertysurf.fr
@@ -36733,12 +36603,8 @@
 :: js.livehelper.com
 0.0.0.0 js.lpshl.com
 :: js.lpshl.com
-0.0.0.0 js.lwnne.cn
-:: js.lwnne.cn
 0.0.0.0 js.mbaidu.top
 :: js.mbaidu.top
-0.0.0.0 js.mjvrt.cn
-:: js.mjvrt.cn
 0.0.0.0 js.mumayi.net
 :: js.mumayi.net
 0.0.0.0 js.myinfotopia.com
@@ -36797,8 +36663,6 @@
 :: js.willads.pw
 0.0.0.0 js.worthathousandwords.com
 :: js.worthathousandwords.com
-0.0.0.0 js.wzttqq.me
-:: js.wzttqq.me
 0.0.0.0 js.xiansuper.com
 :: js.xiansuper.com
 0.0.0.0 js.xtgreat.com
@@ -36827,16 +36691,10 @@
 :: js4.eastmoney.com
 0.0.0.0 js4.ringrevenue.com
 :: js4.ringrevenue.com
-0.0.0.0 js4476.hongtaidichan.net
-:: js4476.hongtaidichan.net
 0.0.0.0 js50.yxlady.com
 :: js50.yxlady.com
 0.0.0.0 js658.njqunyi.com
 :: js658.njqunyi.com
-0.0.0.0 js7022.panzuoluo.com
-:: js7022.panzuoluo.com
-0.0.0.0 js883.free-rc.com
-:: js883.free-rc.com
 0.0.0.0 js883.njqunyi.com
 :: js883.njqunyi.com
 0.0.0.0 js9318.bllzgqbyp.com
@@ -36887,8 +36745,6 @@
 :: jss.tenglink.com
 0.0.0.0 jssd.uumeitu.com
 :: jssd.uumeitu.com
-0.0.0.0 jsym.qcrx.cn
-:: jsym.qcrx.cn
 0.0.0.0 jsys.analogpoint.com
 :: jsys.analogpoint.com
 0.0.0.0 jt.india.com
@@ -36969,8 +36825,6 @@
 :: juvt.demos.su
 0.0.0.0 juxiao.adsmogo.net
 :: juxiao.adsmogo.net
-0.0.0.0 jv7zf.baohaocat.cn
-:: jv7zf.baohaocat.cn
 0.0.0.0 jvauto29.free.fr
 :: jvauto29.free.fr
 0.0.0.0 jvlqkkutcpgjtwyu2atl.littlematchagirl.com.au
@@ -37499,8 +37353,6 @@
 :: kotebis.000webhostapp.com
 0.0.0.0 kotokit.000webhostapp.com
 :: kotokit.000webhostapp.com
-0.0.0.0 koy8y.haiwon.com.cn
-:: koy8y.haiwon.com.cn
 0.0.0.0 kpalion.piwko.pl
 :: kpalion.piwko.pl
 0.0.0.0 kperb3.gay.tathamservice.com
@@ -37607,8 +37459,6 @@
 :: kursdollara.f-noks.info
 0.0.0.0 kuvpfx.est.northerndishedends.com
 :: kuvpfx.est.northerndishedends.com
-0.0.0.0 kuyic.m.gxwztv.com
-:: kuyic.m.gxwztv.com
 0.0.0.0 kuzai.cooguo.com
 :: kuzai.cooguo.com
 0.0.0.0 kuzrab.maxpolezhaev.ru
@@ -38497,8 +38347,6 @@
 :: ljvixhf6i-site.1tempurl.com
 0.0.0.0 lk.brand.sogou.com
 :: lk.brand.sogou.com
-0.0.0.0 lkf1.m.sanhao3.com
-:: lkf1.m.sanhao3.com
 0.0.0.0 lktkd4fk-site.htempurl.com
 :: lktkd4fk-site.htempurl.com
 0.0.0.0 ll.a.hulu.com
@@ -38765,8 +38613,6 @@
 :: log.v2.hunantv.com
 0.0.0.0 log.vcgame.cn
 :: log.vcgame.cn
-0.0.0.0 log.vdinfo.baofeng.com
-:: log.vdinfo.baofeng.com
 0.0.0.0 log.vdn.apps.cntv.cn
 :: log.vdn.apps.cntv.cn
 0.0.0.0 log.viva.co.id
@@ -39065,8 +38911,6 @@
 :: love.magicsites.ru
 0.0.0.0 love.netclub.org
 :: love.netclub.org
-0.0.0.0 love.yy0555.com
-:: love.yy0555.com
 0.0.0.0 lovebeautifullife.000webhostapp.com
 :: lovebeautifullife.000webhostapp.com
 0.0.0.0 loved-by.s3.amazonaws.com
@@ -39125,8 +38969,6 @@
 :: lpholfnvwbukqwye.onion.cab
 0.0.0.0 lpholfnvwbukqwye.onion.to
 :: lpholfnvwbukqwye.onion.to
-0.0.0.0 lpldpf.cnssdai.cn
-:: lpldpf.cnssdai.cn
 0.0.0.0 lplo1ghs-site.1tempurl.com
 :: lplo1ghs-site.1tempurl.com
 0.0.0.0 lppm.unida.gontor.ac.id
@@ -39255,8 +39097,6 @@
 :: lylog.1391.com
 0.0.0.0 lynx.cjestel.net
 :: lynx.cjestel.net
-0.0.0.0 lz.bjbsti.com
-:: lz.bjbsti.com
 0.0.0.0 lz.chaelc.com
 :: lz.chaelc.com
 0.0.0.0 lz.hmbgw.com
@@ -39359,16 +39199,10 @@
 :: m.cimzc.com
 0.0.0.0 m.clkservice.youdao.com
 :: m.clkservice.youdao.com
-0.0.0.0 m.clubske.com
-:: m.clubske.com
 0.0.0.0 m.cluoy.com
 :: m.cluoy.com
-0.0.0.0 m.cnbmaterials.com
-:: m.cnbmaterials.com
 0.0.0.0 m.cocounion.com
 :: m.cocounion.com
-0.0.0.0 m.csyueye.com
-:: m.csyueye.com
 0.0.0.0 m.cudaojia.com
 :: m.cudaojia.com
 0.0.0.0 m.cyberplusserice.banquepopulaire.fr.alpes.icgauth.websso.bp.13806.emparecoin.ro
@@ -39449,8 +39283,6 @@
 :: m.hellomingpian.com
 0.0.0.0 m.hhllyt.com
 :: m.hhllyt.com
-0.0.0.0 m.hmzsfmjc.com
-:: m.hmzsfmjc.com
 0.0.0.0 m.hot-mob.com
 :: m.hot-mob.com
 0.0.0.0 m.htper.com
@@ -39465,8 +39297,6 @@
 :: m.ishangtong.com
 0.0.0.0 m.jcwwxn.com
 :: m.jcwwxn.com
-0.0.0.0 m.jingonghuanbao.com
-:: m.jingonghuanbao.com
 0.0.0.0 m.jltdbyq.com
 :: m.jltdbyq.com
 0.0.0.0 m.joyxv.com
@@ -39485,8 +39315,6 @@
 :: m.kzqcs.com
 0.0.0.0 m.laigame7.net
 :: m.laigame7.net
-0.0.0.0 m.laikahotel.com
-:: m.laikahotel.com
 0.0.0.0 m.laoqu123.com
 :: m.laoqu123.com
 0.0.0.0 m.loading-content.net
@@ -39525,18 +39353,10 @@
 :: m.mushizhubao.com
 0.0.0.0 m.mxguan.com
 :: m.mxguan.com
-0.0.0.0 m.mzp0o0.com
-:: m.mzp0o0.com
-0.0.0.0 m.nbhaosheng168.com
-:: m.nbhaosheng168.com
-0.0.0.0 m.nfkos.com
-:: m.nfkos.com
 0.0.0.0 m.openv.tv
 :: m.openv.tv
 0.0.0.0 m.panda.voiceads.cn
 :: m.panda.voiceads.cn
-0.0.0.0 m.parksonlong.com
-:: m.parksonlong.com
 0.0.0.0 m.phonthing.com
 :: m.phonthing.com
 0.0.0.0 m.poonscn.com
@@ -39563,8 +39383,6 @@
 :: m.qvxyz.com
 0.0.0.0 m.ranpl.com
 :: m.ranpl.com
-0.0.0.0 m.redmangokids.com
-:: m.redmangokids.com
 0.0.0.0 m.rhcapass.com
 :: m.rhcapass.com
 0.0.0.0 m.ricpt.com
@@ -39573,8 +39391,6 @@
 :: m.rmuqvq.cn
 0.0.0.0 m.rrsdl.com
 :: m.rrsdl.com
-0.0.0.0 m.rwganw.cn
-:: m.rwganw.cn
 0.0.0.0 m.sancdn.net
 :: m.sancdn.net
 0.0.0.0 m.sanjiangge.com
@@ -39589,8 +39405,6 @@
 :: m.shopathome.com
 0.0.0.0 m.simba.taobao.com
 :: m.simba.taobao.com
-0.0.0.0 m.snow001.com
-:: m.snow001.com
 0.0.0.0 m.symac.cn
 :: m.symac.cn
 0.0.0.0 m.symaw.cn
@@ -39605,8 +39419,6 @@
 :: m.tcksbz888.com
 0.0.0.0 m.tiantianedu.net
 :: m.tiantianedu.net
-0.0.0.0 m.tixing51.net
-:: m.tixing51.net
 0.0.0.0 m.tommysdream.net
 :: m.tommysdream.net
 0.0.0.0 m.trb.com
@@ -39631,8 +39443,6 @@
 :: m.verpt.com
 0.0.0.0 m.wankz.com
 :: m.wankz.com
-0.0.0.0 m.wjhehaofc.com
-:: m.wjhehaofc.com
 0.0.0.0 m.wnxcg.com
 :: m.wnxcg.com
 0.0.0.0 m.wooboo.com.cn
@@ -39643,8 +39453,6 @@
 :: m.wshufa.com
 0.0.0.0 m.wuqutu.com
 :: m.wuqutu.com
-0.0.0.0 m.wxlzyh.com
-:: m.wxlzyh.com
 0.0.0.0 m.xcams.com
 :: m.xcams.com
 0.0.0.0 m.xetvb.com
@@ -39663,8 +39471,6 @@
 :: m.yes.youku.com
 0.0.0.0 m.yingchengtou.com
 :: m.yingchengtou.com
-0.0.0.0 m.yjxzgz.com
-:: m.yjxzgz.com
 0.0.0.0 m.yooli.com
 :: m.yooli.com
 0.0.0.0 m.yoyi.com.cn
@@ -41683,8 +41489,6 @@
 :: mjhkj8.u5a.wentserver.com
 0.0.0.0 mjija.github.io
 :: mjija.github.io
-0.0.0.0 mjs.csyymp4.com
-:: mjs.csyymp4.com
 0.0.0.0 mjt.nysv.org
 :: mjt.nysv.org
 0.0.0.0 mjw.or.kr
@@ -42123,8 +41927,6 @@
 :: mp.tscapeplay.com
 0.0.0.0 mp.twitch.tv
 :: mp.twitch.tv
-0.0.0.0 mp.wghsu.cn
-:: mp.wghsu.cn
 0.0.0.0 mp3.ownsthis.com
 :: mp3.ownsthis.com
 0.0.0.0 mp4.res.hunantv.com
@@ -42139,8 +41941,6 @@
 :: mphtadhci5mrdlju.onion.to
 0.0.0.0 mphtadhci5mrdlju.tor2web.org
 :: mphtadhci5mrdlju.tor2web.org
-0.0.0.0 mpic.jmgehn.cn
-:: mpic.jmgehn.cn
 0.0.0.0 mpkhi-bk.multi.net.pk
 :: mpkhi-bk.multi.net.pk
 0.0.0.0 mpm.payback.de
@@ -42893,8 +42693,6 @@
 :: new.ferring.com.ar
 0.0.0.0 new.grandrapidsweb.net
 :: new.grandrapidsweb.net
-0.0.0.0 new.ltheanine.cn
-:: new.ltheanine.cn
 0.0.0.0 new.macartu.cn
 :: new.macartu.cn
 0.0.0.0 new.usedtextbooksbuyer.com
@@ -43257,8 +43055,6 @@
 :: no3m7nblnvhstxevfqrd.maherstcottage.com.au
 0.0.0.0 noah.reddion.com
 :: noah.reddion.com
-0.0.0.0 nobody.happyweixin.cn
-:: nobody.happyweixin.cn
 0.0.0.0 nobodyspeakstruth.narod.ru
 :: nobodyspeakstruth.narod.ru
 0.0.0.0 nodeposit.linktrackr.com
@@ -44339,8 +44135,6 @@
 :: odzyskajsnapy.blogspot.com
 0.0.0.0 oehknf74ohqlfnpq9rhfgcq93g.hateflux.com
 :: oehknf74ohqlfnpq9rhfgcq93g.hateflux.com
-0.0.0.0 oekh0.yinduhong.cn
-:: oekh0.yinduhong.cn
 0.0.0.0 oem.twimg.com
 :: oem.twimg.com
 0.0.0.0 oeu5ezyexldrgfxg6ysp.maherstcottage.com.au
@@ -45097,8 +44891,6 @@
 :: oppgradere6.sitey.me
 0.0.0.0 oprd.gov.mk
 :: oprd.gov.mk
-0.0.0.0 ops.zibov.com
-:: ops.zibov.com
 0.0.0.0 opserver01.iti.net.pk
 :: opserver01.iti.net.pk
 0.0.0.0 opskins.net.in
@@ -45361,8 +45153,6 @@
 :: ovgads.ovguide.com
 0.0.0.0 ow.biqugego.com
 :: ow.biqugego.com
-0.0.0.0 ow.m.wenxue6.com
-:: ow.m.wenxue6.com
 0.0.0.0 ow.s1.shuhuangge.org
 :: ow.s1.shuhuangge.org
 0.0.0.0 ow.s2.shuhuangge.org
@@ -45613,8 +45403,6 @@
 :: p.d.nn0e.com
 0.0.0.0 p.d.rpts.org
 :: p.d.rpts.org
-0.0.0.0 p.dandan19.top
-:: p.dandan19.top
 0.0.0.0 p.egou.com
 :: p.egou.com
 0.0.0.0 p.estream.to
@@ -45659,8 +45447,6 @@
 :: p.raidmedia.com.cn
 0.0.0.0 p.reuters.com
 :: p.reuters.com
-0.0.0.0 p.rhgw.net
-:: p.rhgw.net
 0.0.0.0 p.s.360.cn
 :: p.s.360.cn
 0.0.0.0 p.saozhu1.top
@@ -46107,8 +45893,6 @@
 :: page.app15.in
 0.0.0.0 page.everythingandthehouse.com
 :: page.everythingandthehouse.com
-0.0.0.0 page.v5.yy.com
-:: page.v5.yy.com
 0.0.0.0 page.xywy.com
 :: page.xywy.com
 0.0.0.0 page2018cs.000webhostapp.com
@@ -46477,8 +46261,6 @@
 :: pass-nepal.org.np
 0.0.0.0 passix.films-internet.info
 :: passix.films-internet.info
-0.0.0.0 passport-log.youku.com
-:: passport-log.youku.com
 0.0.0.0 passport.pfn.bz
 :: passport.pfn.bz
 0.0.0.0 password.thishack.org
@@ -47501,6 +47283,8 @@
 :: pic.jdbbs.com
 0.0.0.0 pic.jdunion.com
 :: pic.jdunion.com
+0.0.0.0 pic.moad.cn
+:: pic.moad.cn
 0.0.0.0 pic.neiyicun.net
 :: pic.neiyicun.net
 0.0.0.0 pic.pic-img.com
@@ -47509,16 +47293,10 @@
 :: pic.punchbox.org
 0.0.0.0 pic.starsarabian.com
 :: pic.starsarabian.com
-0.0.0.0 pic.thzhd.wang
-:: pic.thzhd.wang
 0.0.0.0 pic.tokyo-tube-ad.com
 :: pic.tokyo-tube-ad.com
 0.0.0.0 pic.usingde.com
 :: pic.usingde.com
-0.0.0.0 pic.wq425cj.com
-:: pic.wq425cj.com
-0.0.0.0 pic.wxxitie.com
-:: pic.wxxitie.com
 0.0.0.0 pic.zol-img.com.cn
 :: pic.zol-img.com.cn
 0.0.0.0 pic1.59wd.com
@@ -48841,8 +48619,6 @@
 :: pranking12.ziyu.net
 0.0.0.0 pratecomermarcelabbb.theblog.com.br
 :: pratecomermarcelabbb.theblog.com.br
-0.0.0.0 prc.rjje4.com
-:: prc.rjje4.com
 0.0.0.0 prcappzone.intel.com
 :: prcappzone.intel.com
 0.0.0.0 prebid.districtm.ca
@@ -49809,8 +49585,6 @@
 :: pvtest.zol.com.cn
 0.0.0.0 pvx.autohome.com.cn
 :: pvx.autohome.com.cn
-0.0.0.0 pw.lpsxssm.com
-:: pw.lpsxssm.com
 0.0.0.0 pwj.biqugezw.com
 :: pwj.biqugezw.com
 0.0.0.0 pwp.netcabo.pt
@@ -49895,8 +49669,6 @@
 :: q993210v.bget.ru
 0.0.0.0 qacupuzute.angelcities.com
 :: qacupuzute.angelcities.com
-0.0.0.0 qb.haikangsj.com
-:: qb.haikangsj.com
 0.0.0.0 qc.coccoc.com
 :: qc.coccoc.com
 0.0.0.0 qc.tclup.com
@@ -50105,8 +49877,6 @@
 :: r-card-service.at.id176145.top
 0.0.0.0 r-card-service.at.id176148.top
 :: r-card-service.at.id176148.top
-0.0.0.0 r.14244.com
-:: r.14244.com
 0.0.0.0 r.4at1.com
 :: r.4at1.com
 0.0.0.0 r.ads.zynga.com
@@ -50135,6 +49905,8 @@
 :: r.dir.bg
 0.0.0.0 r.dmp.sina.cn
 :: r.dmp.sina.cn
+0.0.0.0 r.domob.cn
+:: r.domob.cn
 0.0.0.0 r.hotwired.com
 :: r.hotwired.com
 0.0.0.0 r.i0.cz
@@ -50161,6 +49933,8 @@
 :: r.myadx.net
 0.0.0.0 r.offnews.bg
 :: r.offnews.bg
+0.0.0.0 r.ow.domob.cn
+:: r.ow.domob.cn
 0.0.0.0 r.pixgold.com
 :: r.pixgold.com
 0.0.0.0 r.radikal.ru
@@ -50423,8 +50197,6 @@
 :: rc.asci.freenet.de
 0.0.0.0 rc.bt.ilsemedia.nl
 :: rc.bt.ilsemedia.nl
-0.0.0.0 rc.haodongkeji.cn
-:: rc.haodongkeji.cn
 0.0.0.0 rc.himedia.individuad.net
 :: rc.himedia.individuad.net
 0.0.0.0 rc.nxrxt.com
@@ -51107,8 +50879,6 @@
 :: report.mitsubishicars.com
 0.0.0.0 report.qq.com
 :: report.qq.com
-0.0.0.0 report.vodtw.com
-:: report.vodtw.com
 0.0.0.0 reporting.aatkit.com
 :: reporting.aatkit.com
 0.0.0.0 reporting.flymonarch.com
@@ -51779,18 +51549,12 @@
 :: s.360.cn
 0.0.0.0 s.5jjx.net
 :: s.5jjx.net
-0.0.0.0 s.6113371.com
-:: s.6113371.com
 0.0.0.0 s.69shuwu.com
 :: s.69shuwu.com
 0.0.0.0 s.6travel.com
 :: s.6travel.com
-0.0.0.0 s.7now.cn
-:: s.7now.cn
 0.0.0.0 s.918jcw.com
 :: s.918jcw.com
-0.0.0.0 s.9dcdn.cn
-:: s.9dcdn.cn
 0.0.0.0 s.abcache.com
 :: s.abcache.com
 0.0.0.0 s.ad121m.com
@@ -51825,8 +51589,6 @@
 :: s.baidu.com
 0.0.0.0 s.bledea.us.mhqo.ga
 :: s.bledea.us.mhqo.ga
-0.0.0.0 s.cbgss.com
-:: s.cbgss.com
 0.0.0.0 s.cdn.u17t.com
 :: s.cdn.u17t.com
 0.0.0.0 s.click.aliexpress.com
@@ -51843,12 +51605,12 @@
 :: s.cpro.baidu.com
 0.0.0.0 s.cr-nielsen.com
 :: s.cr-nielsen.com
-0.0.0.0 s.ddstu.com
-:: s.ddstu.com
 0.0.0.0 s.de123.net
 :: s.de123.net
 0.0.0.0 s.di.com.pl
 :: s.di.com.pl
+0.0.0.0 s.domob.cn
+:: s.domob.cn
 0.0.0.0 s.doyo.cn
 :: s.doyo.cn
 0.0.0.0 s.dynad.net
@@ -51909,8 +51671,6 @@
 :: s.p.youku.com
 0.0.0.0 s.phpwind.com
 :: s.phpwind.com
-0.0.0.0 s.qqhpg.com
-:: s.qqhpg.com
 0.0.0.0 s.qtad.qingting.fm
 :: s.qtad.qingting.fm
 0.0.0.0 s.rankdirectory.org
@@ -52955,6 +52715,8 @@
 :: scure-unpublish.000webhostapp.com
 0.0.0.0 scureweb2app.a-s-s-tgroup.com
 :: scureweb2app.a-s-s-tgroup.com
+0.0.0.0 sd.domob.cn
+:: sd.domob.cn
 0.0.0.0 sd.kk3g.net
 :: sd.kk3g.net
 0.0.0.0 sd1kalirejokudus.sch.id
@@ -54705,6 +54467,8 @@
 :: slzs.52xiyou.com
 0.0.0.0 sm.banner-link.com.br
 :: sm.banner-link.com.br
+0.0.0.0 sm.domob.cn
+:: sm.domob.cn
 0.0.0.0 sm1.todgo.com
 :: sm1.todgo.com
 0.0.0.0 sm2.todgo.com
@@ -54957,12 +54721,8 @@
 :: sofftermoandy.igg.biz
 0.0.0.0 sofiashouse.web.id
 :: sofiashouse.web.id
-0.0.0.0 soft.chaomeng8.com
-:: soft.chaomeng8.com
 0.0.0.0 soft.jbdown.net
 :: soft.jbdown.net
-0.0.0.0 soft.qymma.com
-:: soft.qymma.com
 0.0.0.0 soft4update.forfreeupgrades.org
 :: soft4update.forfreeupgrades.org
 0.0.0.0 softads.50webs.com
@@ -55349,8 +55109,6 @@
 :: ss.shicimingju.com
 0.0.0.0 ss.shuajuzu.com
 :: ss.shuajuzu.com
-0.0.0.0 ss.shubao520.com
-:: ss.shubao520.com
 0.0.0.0 ss.subo.me
 :: ss.subo.me
 0.0.0.0 ss.swagger1.com
@@ -57329,6 +57087,8 @@
 :: swwsbk.greatriverohio.net
 0.0.0.0 swwsg.mylifemirror.com
 :: swwsg.mylifemirror.com
+0.0.0.0 swx.domob.cn
+:: swx.domob.cn
 0.0.0.0 sx.mobsweet.mobi
 :: sx.mobsweet.mobi
 0.0.0.0 sx.nazari.org
@@ -57633,8 +57393,6 @@
 :: t.mtagmonetizationb.com
 0.0.0.0 t.myvisualiq.net
 :: t.myvisualiq.net
-0.0.0.0 t.nbyongle.com
-:: t.nbyongle.com
 0.0.0.0 t.nrelate.com
 :: t.nrelate.com
 0.0.0.0 t.nxus.mobi
@@ -58357,8 +58115,6 @@
 :: test.activity.windows.com
 0.0.0.0 test.ad.asap-asp.net
 :: test.ad.asap-asp.net
-0.0.0.0 test.ad.cmvideo.cn
-:: test.ad.cmvideo.cn
 0.0.0.0 test.ad.xiaomi.com
 :: test.ad.xiaomi.com
 0.0.0.0 test.alojamentouniversitario.com
@@ -58747,8 +58503,6 @@
 :: tongj.xilu.com
 0.0.0.0 tongji-res1.meizu.com
 :: tongji-res1.meizu.com
-0.0.0.0 tongji.ads.yxdown.com
-:: tongji.ads.yxdown.com
 0.0.0.0 tongji.baidu.com
 :: tongji.baidu.com
 0.0.0.0 tongji.eastday.com
@@ -58949,8 +58703,6 @@
 :: toys.erolove.in
 0.0.0.0 tp.sgcn.com
 :: tp.sgcn.com
-0.0.0.0 tp.sphwq.net
-:: tp.sphwq.net
 0.0.0.0 tpads.ovguide.com
 :: tpads.ovguide.com
 0.0.0.0 tpads.sv.publicus.com
@@ -60789,8 +60541,6 @@
 :: ttts.miyue17.com
 0.0.0.0 ttuk.offers4u.mobi
 :: ttuk.offers4u.mobi
-0.0.0.0 tu.18cdn.com
-:: tu.18cdn.com
 0.0.0.0 tu.baixing.com
 :: tu.baixing.com
 0.0.0.0 tu.biddingx.com
@@ -60897,8 +60647,6 @@
 :: txads.buzzcity.com
 0.0.0.0 txqgchvh.ce.ms
 :: txqgchvh.ce.ms
-0.0.0.0 txt.dongyihongbei.com
-:: txt.dongyihongbei.com
 0.0.0.0 txt.go.sohu.com
 :: txt.go.sohu.com
 0.0.0.0 txt.utro.ru
@@ -62497,8 +62245,6 @@
 :: vda.wp.pl
 0.0.0.0 vdapprecv.app.cntvwb.cn
 :: vdapprecv.app.cntvwb.cn
-0.0.0.0 vdinfo.baofeng.com
-:: vdinfo.baofeng.com
 0.0.0.0 vdju.arete-energy.org
 :: vdju.arete-energy.org
 0.0.0.0 vdk.be.sdnmf.site
@@ -62727,14 +62473,10 @@
 :: video.videos.vidto.me
 0.0.0.0 video.wap.mpush.qq.com
 :: video.wap.mpush.qq.com
-0.0.0.0 video.ymapp.com
-:: video.ymapp.com
 0.0.0.0 videoads.theonion.com
 :: videoads.theonion.com
 0.0.0.0 videochat.tv.br
 :: videochat.tv.br
-0.0.0.0 videodown.baofeng.com
-:: videodown.baofeng.com
 0.0.0.0 videointeractlearn.edu.au
 :: videointeractlearn.edu.au
 0.0.0.0 videooko.weebly.com
@@ -62809,20 +62551,12 @@
 :: vip-01protect.000webhostapp.com
 0.0.0.0 vip.cainiaofx.com
 :: vip.cainiaofx.com
-0.0.0.0 vip.jisucn.com
-:: vip.jisucn.com
 0.0.0.0 vip.mall044.com
 :: vip.mall044.com
 0.0.0.0 vip.media8.cn
 :: vip.media8.cn
 0.0.0.0 vip.qqxwf.com
 :: vip.qqxwf.com
-0.0.0.0 vip.sc386.com
-:: vip.sc386.com
-0.0.0.0 vip.shuma2.com
-:: vip.shuma2.com
-0.0.0.0 vip.yoyozz.net
-:: vip.yoyozz.net
 0.0.0.0 vip001-secure.000webhostapp.com
 :: vip001-secure.000webhostapp.com
 0.0.0.0 vip01-secure.000webhostapp.com
@@ -63335,14 +63069,10 @@
 :: vzft3z.wm.warmglow.org
 0.0.0.0 w-02.th.seeweb.it
 :: w-02.th.seeweb.it
-0.0.0.0 w.3big.net
-:: w.3big.net
 0.0.0.0 w.bid.ljrtb.cn
 :: w.bid.ljrtb.cn
 0.0.0.0 w.bobocn.cn
 :: w.bobocn.cn
-0.0.0.0 w.chnup.cn
-:: w.chnup.cn
 0.0.0.0 w.cube3d.cn
 :: w.cube3d.cn
 0.0.0.0 w.fancyapi.com
@@ -63373,8 +63103,6 @@
 :: w.wooboo.com.cn
 0.0.0.0 w.x.baidu.com
 :: w.x.baidu.com
-0.0.0.0 w.xayjr.cn
-:: w.xayjr.cn
 0.0.0.0 w.xiaopiaoyou.com
 :: w.xiaopiaoyou.com
 0.0.0.0 w.ymapp.com
@@ -63511,10 +63239,10 @@
 :: want.zla.se
 0.0.0.0 wap.chatwalk.com
 :: wap.chatwalk.com
-0.0.0.0 wap.cioujs.com
-:: wap.cioujs.com
 0.0.0.0 wap.cmgame.com
 :: wap.cmgame.com
+0.0.0.0 wap.moad.cn
+:: wap.moad.cn
 0.0.0.0 wap.mobiltek.pl
 :: wap.mobiltek.pl
 0.0.0.0 wap.mpush.qq.com
@@ -64191,8 +63919,6 @@
 :: welsfrg0mal.artbysoares.com
 0.0.0.0 welxfarrg0.a0lbiiiing.net
 :: welxfarrg0.a0lbiiiing.net
-0.0.0.0 wen.jshbyn.com
-:: wen.jshbyn.com
 0.0.0.0 wenku-cms.bj.bcebos.com
 :: wenku-cms.bj.bcebos.com
 0.0.0.0 werbeadmin.parents.at
@@ -64771,8 +64497,6 @@
 :: wpvhiedhnzxs.myfw.us
 0.0.0.0 wr.da.netease.com
 :: wr.da.netease.com
-0.0.0.0 wr.ecartoon.net
-:: wr.ecartoon.net
 0.0.0.0 wrapper.askmen.com
 :: wrapper.askmen.com
 0.0.0.0 wrapper.fileplanet.com
@@ -65117,8 +64841,6 @@
 :: www.142904.com
 0.0.0.0 www.163ren.com
 :: www.163ren.com
-0.0.0.0 www.17168.com
-:: www.17168.com
 0.0.0.0 www.17k.originalsafteyredir.com
 :: www.17k.originalsafteyredir.com
 0.0.0.0 www.17zhaole.com
@@ -65247,8 +64969,6 @@
 :: www.600ad.com
 0.0.0.0 www.649558.com
 :: www.649558.com
-0.0.0.0 www.6604.org
-:: www.6604.org
 0.0.0.0 www.6615338.cn
 :: www.6615338.cn
 0.0.0.0 www.6666349.com
@@ -66337,8 +66057,6 @@
 :: www.csomediakit.com
 0.0.0.0 www.cubcc.com
 :: www.cubcc.com
-0.0.0.0 www.cuijianguo.com
-:: www.cuijianguo.com
 0.0.0.0 www.cuksy.pl
 :: www.cuksy.pl
 0.0.0.0 www.cumdrinker.com
@@ -66497,8 +66215,6 @@
 :: www.dt1blog.com
 0.0.0.0 www.duiba.com.cn
 :: www.duiba.com.cn
-0.0.0.0 www.duocpa2.cn
-:: www.duocpa2.cn
 0.0.0.0 www.duolaimi.net
 :: www.duolaimi.net
 0.0.0.0 www.dutchsales.org
@@ -67533,8 +67249,6 @@
 :: www.keywordsinc.com
 0.0.0.0 www.khutbahleqzaer.download
 :: www.khutbahleqzaer.download
-0.0.0.0 www.khxxly.com
-:: www.khxxly.com
 0.0.0.0 www.kikesantander.com
 :: www.kikesantander.com
 0.0.0.0 www.kiler.org
@@ -68149,8 +67863,6 @@
 :: www.nubijlage.nl
 0.0.0.0 www.nude-women.com
 :: www.nude-women.com
-0.0.0.0 www.number1cp.cn
-:: www.number1cp.cn
 0.0.0.0 www.nutaku.com
 :: www.nutaku.com
 0.0.0.0 www.nutbusting.com
@@ -69237,8 +68949,6 @@
 :: www.tickerassist.co.uk
 0.0.0.0 www.tiergestuetzt.de
 :: www.tiergestuetzt.de
-0.0.0.0 www.tigerbrokers.com
-:: www.tigerbrokers.com
 0.0.0.0 www.timefor.com
 :: www.timefor.com
 0.0.0.0 www.tinascherry.com
@@ -69253,8 +68963,6 @@
 :: www.tinydicks.com
 0.0.0.0 www.titansbet.com.au
 :: www.titansbet.com.au
-0.0.0.0 www.tixing51.net
-:: www.tixing51.net
 0.0.0.0 www.tjhuajiantang.com
 :: www.tjhuajiantang.com
 0.0.0.0 www.tkdami.net
@@ -69775,8 +69483,6 @@
 :: www.xtgreat.com
 0.0.0.0 www.xtremeorganix.co.uk
 :: www.xtremeorganix.co.uk
-0.0.0.0 www.xundefine.com
-:: www.xundefine.com
 0.0.0.0 www.xvideoslive.com
 :: www.xvideoslive.com
 0.0.0.0 www.xxeden.com
@@ -69859,8 +69565,6 @@
 :: www.youronlinechoices.com
 0.0.0.0 www.yoyi.com.cn
 :: www.yoyi.com.cn
-0.0.0.0 www.yoyozz.net
-:: www.yoyozz.net
 0.0.0.0 www.ypmadserver.com
 :: www.ypmadserver.com
 0.0.0.0 www.ypmate.com
@@ -70145,8 +69849,6 @@
 :: wwwban.trokers.net
 0.0.0.0 wwwdocumentscom.000webhostapp.com
 :: wwwdocumentscom.000webhostapp.com
-0.0.0.0 wwws.zxtry.com
-:: wwws.zxtry.com
 0.0.0.0 wwww.495495.com
 :: wwww.495495.com
 0.0.0.0 wwww.551144.com
@@ -70427,8 +70129,6 @@
 :: xe9c7uzikm9s3pxdn1wf.maherstcottage.com.au
 0.0.0.0 xenec.stol.it
 :: xenec.stol.it
-0.0.0.0 xf.m.shuhuangge.org
-:: xf.m.shuhuangge.org
 0.0.0.0 xf.xyu.tv
 :: xf.xyu.tv
 0.0.0.0 xfinity.com--------phone--confirmation---service-11601574.antiochian.org.nz
@@ -70577,8 +70277,6 @@
 :: xportvusbdriver8i.snack.ws
 0.0.0.0 xpt802v26n.babygirl-shop.com
 :: xpt802v26n.babygirl-shop.com
-0.0.0.0 xq.zz1000y.com
-:: xq.zz1000y.com
 0.0.0.0 xq3t5nnfx5.6xbacvl5jj.madpendesign.com.au
 :: xq3t5nnfx5.6xbacvl5jj.madpendesign.com.au
 0.0.0.0 xqdwe8nfs8mnatbeeif4.businessrulesanalysis.com
@@ -70869,8 +70567,6 @@
 :: yhiop.saqibsiddiqui.com
 0.0.0.0 yield.audience.digitalmedia.bg
 :: yield.audience.digitalmedia.bg
-0.0.0.0 yigojo.iae365.com
-:: yigojo.iae365.com
 0.0.0.0 yikesprospho.com.gridhosted.co.uk
 :: yikesprospho.com.gridhosted.co.uk
 0.0.0.0 yin1.zgpingshu.com
@@ -70995,8 +70691,6 @@
 :: yvdeuwn.angelcities.com
 0.0.0.0 yvigoc1dulw7jtrufnas.maherstcottage.com.au
 :: yvigoc1dulw7jtrufnas.maherstcottage.com.au
-0.0.0.0 ywdp.baojijiecheng.com
-:: ywdp.baojijiecheng.com
 0.0.0.0 ywzjvqssv.myfw.us
 :: ywzjvqssv.myfw.us
 0.0.0.0 yx-in-f108.1e100.net
@@ -71213,8 +70907,6 @@
 :: zhengxing.onlinedj.com.cn
 0.0.0.0 zhgg.dre8.com
 :: zhgg.dre8.com
-0.0.0.0 zhidao.sdhckj.com
-:: zhidao.sdhckj.com
 0.0.0.0 zhidao.yxad.com
 :: zhidao.yxad.com
 0.0.0.0 zhihu-web-analytics.zhihu.com
@@ -71363,8 +71055,6 @@
 :: zwqqrynpvqetydhgbd9w.mafe.edu.co
 0.0.0.0 zws.avvo.com
 :: zws.avvo.com
-0.0.0.0 zx.baosmx.com
-:: zx.baosmx.com
 0.0.0.0 zxc.severalblueone.ws
 :: zxc.severalblueone.ws
 0.0.0.0 zxc.severalgrayone.ws
