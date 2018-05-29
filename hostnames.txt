@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon May 28 05:05:33 CEST 2018
+# Last update: Tue May 29 05:15:26 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35548
+# Number of unique hostnames: 35549
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3589,8 +3589,6 @@
 :: ad.choiceradio.com
 0.0.0.0 ad.chosunonline.com
 :: ad.chosunonline.com
-0.0.0.0 ad.cinema-24.online
-:: ad.cinema-24.online
 0.0.0.0 ad.citynews.it
 :: ad.citynews.it
 0.0.0.0 ad.click.kaffnet.com
@@ -14559,6 +14557,8 @@
 :: api.usersnap.com
 0.0.0.0 api.v2.sslsecure1.com
 :: api.v2.sslsecure1.com
+0.0.0.0 api.viafoura.co
+:: api.viafoura.co
 0.0.0.0 api.wamland.com
 :: api.wamland.com
 0.0.0.0 api.wapa.taobao.com
@@ -25239,6 +25239,8 @@
 :: d42tbok7l2bg1.cloudfront.net
 0.0.0.0 d49z64r3ud4kq.cloudfront.net
 :: d49z64r3ud4kq.cloudfront.net
+0.0.0.0 d4n.platformd.com
+:: d4n.platformd.com
 0.0.0.0 d5.sina.com.cn
 :: d5.sina.com.cn
 0.0.0.0 d55fgfgf.webcindario.com
