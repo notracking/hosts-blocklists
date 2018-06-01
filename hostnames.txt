@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu May 31 05:23:30 CEST 2018
+# Last update: Fri Jun 1 06:01:11 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35540
+# Number of unique hostnames: 35570
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -1133,6 +1133,8 @@
 :: 4w5wihkwyhsav2ha.grandhaus.at
 0.0.0.0 4w5wihkwyhsav2ha.payfactor.at
 :: 4w5wihkwyhsav2ha.payfactor.at
+0.0.0.0 4xhyr.shuimujinggong.com
+:: 4xhyr.shuimujinggong.com
 0.0.0.0 5.eventiduepuntozero.com
 :: 5.eventiduepuntozero.com
 0.0.0.0 5.googlenews.xorg.pl
@@ -2479,6 +2481,8 @@
 :: a.lolwot.com
 0.0.0.0 a.lz13.cn
 :: a.lz13.cn
+0.0.0.0 a.m.gxwztv.com
+:: a.m.gxwztv.com
 0.0.0.0 a.m.shuhuangge.org
 :: a.m.shuhuangge.org
 0.0.0.0 a.macuser.co.uk
@@ -2637,6 +2641,8 @@
 :: a.walla.co.il
 0.0.0.0 a.watershed-publishing.com
 :: a.watershed-publishing.com
+0.0.0.0 a.wlfnb.com
+:: a.wlfnb.com
 0.0.0.0 a.wyzmob.com
 :: a.wyzmob.com
 0.0.0.0 a.xanga.com
@@ -2945,6 +2951,8 @@
 :: abc.zhiyaspa.com
 0.0.0.0 abc1.yszyz.com
 :: abc1.yszyz.com
+0.0.0.0 abcd.zsrt88.cn
+:: abcd.zsrt88.cn
 0.0.0.0 abcj.dooccn.com
 :: abcj.dooccn.com
 0.0.0.0 abcsexy.free.fr
@@ -14465,6 +14473,8 @@
 :: api.innomdc.com
 0.0.0.0 api.ipinfodb.com
 :: api.ipinfodb.com
+0.0.0.0 api.ireai.cn
+:: api.ireai.cn
 0.0.0.0 api.iris.tv
 :: api.iris.tv
 0.0.0.0 api.lazyswipe.com
@@ -19391,6 +19401,8 @@
 :: c.gmtrack.com
 0.0.0.0 c.gr.msn.com
 :: c.gr.msn.com
+0.0.0.0 c.gzsanxiaomingshi.cn
+:: c.gzsanxiaomingshi.cn
 0.0.0.0 c.hk.msn.com
 :: c.hk.msn.com
 0.0.0.0 c.id.msn.com
@@ -19493,6 +19505,8 @@
 :: c.prodigy.msn.com
 0.0.0.0 c.pt.msn.com
 :: c.pt.msn.com
+0.0.0.0 c.ptffw.net
+:: c.ptffw.net
 0.0.0.0 c.realtytrac.com
 :: c.realtytrac.com
 0.0.0.0 c.rexuebi.com
@@ -22895,6 +22909,8 @@
 :: console.all-stars.pl
 0.0.0.0 console.popupsponsor.com
 :: console.popupsponsor.com
+0.0.0.0 constablegalesburg.mulvaneruston.com
+:: constablegalesburg.mulvaneruston.com
 0.0.0.0 consulgent.paaw.info
 :: consulgent.paaw.info
 0.0.0.0 consulta.acessoinativo.com
@@ -25393,6 +25409,8 @@
 :: daima.ijq.tv
 0.0.0.0 daima.jiazhao.com
 :: daima.jiazhao.com
+0.0.0.0 daima.mubite.cn
+:: daima.mubite.cn
 0.0.0.0 daima.niubb.net
 :: daima.niubb.net
 0.0.0.0 daima.yiyuanyigou8.com
@@ -27259,6 +27277,8 @@
 :: drd.hauchi.com.tw
 0.0.0.0 drdavidlinks.net.au
 :: drdavidlinks.net.au
+0.0.0.0 drdj.m.gxwztv.com
+:: drdj.m.gxwztv.com
 0.0.0.0 dream.ancestrybloodhound.com
 :: dream.ancestrybloodhound.com
 0.0.0.0 dreamgirls.pandela.org
@@ -27361,6 +27381,8 @@
 :: drrt.h18.ru
 0.0.0.0 drs2.veinteractive.com
 :: drs2.veinteractive.com
+0.0.0.0 drsw.m.yuyouge.com
+:: drsw.m.yuyouge.com
 0.0.0.0 drug-testing.shengen.ru
 :: drug-testing.shengen.ru
 0.0.0.0 drugdetox.shengen.ru
@@ -27739,6 +27761,8 @@
 :: e-zshopper.activeshopper.com
 0.0.0.0 e.027blzs.com
 :: e.027blzs.com
+0.0.0.0 e.1919388.net
+:: e.1919388.net
 0.0.0.0 e.51xmgys.com
 :: e.51xmgys.com
 0.0.0.0 e.7clink.com
@@ -27853,6 +27877,8 @@
 :: e.ueram.com
 0.0.0.0 e.vaxyz.com
 :: e.vaxyz.com
+0.0.0.0 e.wjhehaofc.com
+:: e.wjhehaofc.com
 0.0.0.0 e.wnxcg.com
 :: e.wnxcg.com
 0.0.0.0 e.x.cn.xtgreat.com
@@ -33863,8 +33889,12 @@
 :: html.centralmediaserver.com
 0.0.0.0 html.cnzzj.com.cn
 :: html.cnzzj.com.cn
+0.0.0.0 html.sunday8.com
+:: html.sunday8.com
 0.0.0.0 html.tucows.com
 :: html.tucows.com
+0.0.0.0 html.yuntzs.com
+:: html.yuntzs.com
 0.0.0.0 html5adkit.plusmo.s3.amazonaws.com
 :: html5adkit.plusmo.s3.amazonaws.com
 0.0.0.0 htmlads.s3.amazonaws.com
@@ -36035,6 +36065,8 @@
 :: j.wubai.cc
 0.0.0.0 j.xinshipu.com
 :: j.xinshipu.com
+0.0.0.0 j.ytbt.cc
+:: j.ytbt.cc
 0.0.0.0 j1.piaobing.com
 :: j1.piaobing.com
 0.0.0.0 j17.shangc.net
@@ -37465,6 +37497,8 @@
 :: kursdollara.f-noks.info
 0.0.0.0 kuvpfx.est.northerndishedends.com
 :: kuvpfx.est.northerndishedends.com
+0.0.0.0 kuyic.m.gxwztv.com
+:: kuyic.m.gxwztv.com
 0.0.0.0 kuzai.cooguo.com
 :: kuzai.cooguo.com
 0.0.0.0 kuzrab.maxpolezhaev.ru
@@ -38353,6 +38387,8 @@
 :: ljvixhf6i-site.1tempurl.com
 0.0.0.0 lk.brand.sogou.com
 :: lk.brand.sogou.com
+0.0.0.0 lkf1.m.sanhao3.com
+:: lkf1.m.sanhao3.com
 0.0.0.0 lktkd4fk-site.htempurl.com
 :: lktkd4fk-site.htempurl.com
 0.0.0.0 ll.a.hulu.com
@@ -39129,6 +39165,8 @@
 :: m.1133.cc
 0.0.0.0 m.1768.com
 :: m.1768.com
+0.0.0.0 m.1919388.net
+:: m.1919388.net
 0.0.0.0 m.193506.com
 :: m.193506.com
 0.0.0.0 m.3987.com
@@ -39293,6 +39331,8 @@
 :: m.hot-mob.com
 0.0.0.0 m.htper.com
 :: m.htper.com
+0.0.0.0 m.huanyuexpress.com
+:: m.huanyuexpress.com
 0.0.0.0 m.huyulh.com
 :: m.huyulh.com
 0.0.0.0 m.hyzui.com
@@ -39449,6 +39489,8 @@
 :: m.verpt.com
 0.0.0.0 m.wankz.com
 :: m.wankz.com
+0.0.0.0 m.wjhehaofc.com
+:: m.wjhehaofc.com
 0.0.0.0 m.wnxcg.com
 :: m.wnxcg.com
 0.0.0.0 m.wooboo.com.cn
@@ -41485,6 +41527,8 @@
 :: mjaey.saqibsiddiqui.com
 0.0.0.0 mjhkj8.u5a.wentserver.com
 :: mjhkj8.u5a.wentserver.com
+0.0.0.0 mjs.csyymp4.com
+:: mjs.csyymp4.com
 0.0.0.0 mjt.nysv.org
 :: mjt.nysv.org
 0.0.0.0 mjw.or.kr
@@ -47709,6 +47753,8 @@
 :: play.streaming.estream.to
 0.0.0.0 play.video.estream.nu
 :: play.video.estream.nu
+0.0.0.0 play.video2.stream.vidzi.tv
+:: play.video2.stream.vidzi.tv
 0.0.0.0 playablepblysef.blogspot.com
 :: playablepblysef.blogspot.com
 0.0.0.0 playad.xjmg.com
@@ -49783,6 +49829,8 @@
 :: qqlogo.qq.com
 0.0.0.0 qqshow2-item.qq.com
 :: qqshow2-item.qq.com
+0.0.0.0 qqx.cqqytgpt.com
+:: qqx.cqqytgpt.com
 0.0.0.0 qqxxlwnzmp.bradul.creatory.org
 :: qqxxlwnzmp.bradul.creatory.org
 0.0.0.0 qrcdownload.ibcustomerzone.com
@@ -50187,6 +50235,8 @@
 :: rc.asci.freenet.de
 0.0.0.0 rc.bt.ilsemedia.nl
 :: rc.bt.ilsemedia.nl
+0.0.0.0 rc.haodongkeji.cn
+:: rc.haodongkeji.cn
 0.0.0.0 rc.himedia.individuad.net
 :: rc.himedia.individuad.net
 0.0.0.0 rc.nxrxt.com
@@ -51593,6 +51643,8 @@
 :: s.cpro.baidu.com
 0.0.0.0 s.cr-nielsen.com
 :: s.cr-nielsen.com
+0.0.0.0 s.ddstu.com
+:: s.ddstu.com
 0.0.0.0 s.de123.net
 :: s.de123.net
 0.0.0.0 s.di.com.pl
@@ -54711,6 +54763,8 @@
 :: sofftermoandy.igg.biz
 0.0.0.0 sofiashouse.web.id
 :: sofiashouse.web.id
+0.0.0.0 soft.chaomeng8.com
+:: soft.chaomeng8.com
 0.0.0.0 soft.jbdown.net
 :: soft.jbdown.net
 0.0.0.0 soft4update.forfreeupgrades.org
@@ -55129,8 +55183,6 @@
 :: ssgg.chazidian.com
 0.0.0.0 ssgsna7n.beget.tech
 :: ssgsna7n.beget.tech
-0.0.0.0 ssh.szxiuchang.com
-:: ssh.szxiuchang.com
 0.0.0.0 sshhsvv.beckmenlaw.info
 :: sshhsvv.beckmenlaw.info
 0.0.0.0 ssknbvc.beckmanlawfirm.org
@@ -58489,6 +58541,8 @@
 :: tongj.xilu.com
 0.0.0.0 tongji-res1.meizu.com
 :: tongji-res1.meizu.com
+0.0.0.0 tongji.ads.yxdown.com
+:: tongji.ads.yxdown.com
 0.0.0.0 tongji.baidu.com
 :: tongji.baidu.com
 0.0.0.0 tongji.eastday.com
@@ -64825,6 +64879,8 @@
 :: www.142904.com
 0.0.0.0 www.163ren.com
 :: www.163ren.com
+0.0.0.0 www.17168.com
+:: www.17168.com
 0.0.0.0 www.17k.originalsafteyredir.com
 :: www.17k.originalsafteyredir.com
 0.0.0.0 www.17zhaole.com
@@ -69433,6 +69489,8 @@
 :: www.wyroki.eu
 0.0.0.0 www.wysistat.com
 :: www.wysistat.com
+0.0.0.0 www.xavingtsun.com
+:: www.xavingtsun.com
 0.0.0.0 www.xbn.ru
 :: www.xbn.ru
 0.0.0.0 www.xbzzzx.com
@@ -71039,6 +71097,8 @@
 :: zwqqrynpvqetydhgbd9w.mafe.edu.co
 0.0.0.0 zws.avvo.com
 :: zws.avvo.com
+0.0.0.0 zx.baosmx.com
+:: zx.baosmx.com
 0.0.0.0 zxc.severalblueone.ws
 :: zxc.severalblueone.ws
 0.0.0.0 zxc.severalgrayone.ws
