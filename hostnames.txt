@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Jun 1 06:01:11 CEST 2018
+# Last update: Sat Jun 2 05:03:07 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35570
+# Number of unique hostnames: 35572
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -14677,6 +14677,8 @@
 :: apioutoboxnet-a.akamaihd.net
 0.0.0.0 apiportalmorecom-a.akamaihd.net
 :: apiportalmorecom-a.akamaihd.net
+0.0.0.0 apiproxy.accengage.com
+:: apiproxy.accengage.com
 0.0.0.0 apipub.oumma.com
 :: apipub.oumma.com
 0.0.0.0 apiqualitinknet-a.akamaihd.net
@@ -22909,8 +22911,6 @@
 :: console.all-stars.pl
 0.0.0.0 console.popupsponsor.com
 :: console.popupsponsor.com
-0.0.0.0 constablegalesburg.mulvaneruston.com
-:: constablegalesburg.mulvaneruston.com
 0.0.0.0 consulgent.paaw.info
 :: consulgent.paaw.info
 0.0.0.0 consulta.acessoinativo.com
@@ -31935,8 +31935,6 @@
 :: giggle.rdmadnetwork.com
 0.0.0.0 gigiregulatorul.us.qtgpqio.tk
 :: gigiregulatorul.us.qtgpqio.tk
-0.0.0.0 gillmoreknobel.elizabethtonunionhall.com
-:: gillmoreknobel.elizabethtonunionhall.com
 0.0.0.0 gilvir.free.fr
 :: gilvir.free.fr
 0.0.0.0 gimg.baidu.com
@@ -40321,6 +40319,8 @@
 :: mct.rkdms.com
 0.0.0.0 mcvsewse.esy.es
 :: mcvsewse.esy.es
+0.0.0.0 md-i-c.apptimize.com
+:: md-i-c.apptimize.com
 0.0.0.0 md.he9630.com
 :: md.he9630.com
 0.0.0.0 md.sh5e.com
@@ -40887,6 +40887,8 @@
 :: metrics.chron.com
 0.0.0.0 metrics.cleveland.com
 :: metrics.cleveland.com
+0.0.0.0 metrics.cloudflarebolt.com
+:: metrics.cloudflarebolt.com
 0.0.0.0 metrics.cnn.com
 :: metrics.cnn.com
 0.0.0.0 metrics.comcast.com
@@ -47431,6 +47433,8 @@
 :: ping.ublock.org
 0.0.0.0 pinganxx.topengroup.net
 :: pinganxx.topengroup.net
+0.0.0.0 pingapi.accengage.com
+:: pingapi.accengage.com
 0.0.0.0 pingback.cpushpop.com
 :: pingback.cpushpop.com
 0.0.0.0 pingback.issuu.com
