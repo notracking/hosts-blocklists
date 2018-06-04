@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Jun 3 05:00:40 CEST 2018
+# Last update: Mon Jun 4 05:04:38 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35608
+# Number of unique hostnames: 35612
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -473,6 +473,8 @@
 :: 2345apicode.dftoutiao.com
 0.0.0.0 2346ytrew3.from-mn.com
 :: 2346ytrew3.from-mn.com
+0.0.0.0 24newsoft.fetmoredonefasterbysubmiting.download
+:: 24newsoft.fetmoredonefasterbysubmiting.download
 0.0.0.0 24newsoft.groupnowfree2stream.review
 :: 24newsoft.groupnowfree2stream.review
 0.0.0.0 24online.goodsoft4winfastdownloadthisweek.bid
@@ -8479,6 +8481,8 @@
 :: ads.northjersey.com
 0.0.0.0 ads.novinar.bg
 :: ads.novinar.bg
+0.0.0.0 ads.novinhagostosa10.com
+:: ads.novinhagostosa10.com
 0.0.0.0 ads.novsport.com
 :: ads.novsport.com
 0.0.0.0 ads.nowrunning.com
@@ -18097,6 +18101,8 @@
 :: bgl1pp1-a-fixed.sancharnet.in
 0.0.0.0 bglog.bitauto.com
 :: bglog.bitauto.com
+0.0.0.0 bgrel.bonedmilfs.com
+:: bgrel.bonedmilfs.com
 0.0.0.0 bgs.qhedu.net
 :: bgs.qhedu.net
 0.0.0.0 bgwxwjtzjn.786vf7ueyw.madpendesign.com.au
@@ -20811,8 +20817,6 @@
 :: cdneu.filefactscdn.com
 0.0.0.0 cdnimg.liehu.ijinshan.com
 :: cdnimg.liehu.ijinshan.com
-0.0.0.0 cdnjs.cloudflane.com
-:: cdnjs.cloudflane.com
 0.0.0.0 cdnstats-a.akamaihd.net
 :: cdnstats-a.akamaihd.net
 0.0.0.0 cdnt.meteorsolutions.com
@@ -42797,6 +42801,8 @@
 :: newads.ueba.com.br
 0.0.0.0 newadserver.interfree.it
 :: newadserver.interfree.it
+0.0.0.0 newalways.easyfetmoredonefasterbysubmiting.download
+:: newalways.easyfetmoredonefasterbysubmiting.download
 0.0.0.0 newalways.securecontentnewly4everyone.date
 :: newalways.securecontentnewly4everyone.date
 0.0.0.0 newbe122.homestead.com
@@ -51785,6 +51791,8 @@
 :: s.sh.qihoo.com
 0.0.0.0 s.shopify.com
 :: s.shopify.com
+0.0.0.0 s.spoutable.com
+:: s.spoutable.com
 0.0.0.0 s.stats.wordpress.com
 :: s.stats.wordpress.com
 0.0.0.0 s.temaidi.com
@@ -65425,6 +65433,8 @@
 :: www.aihuishou.com
 0.0.0.0 www.ailicee.com
 :: www.ailicee.com
+0.0.0.0 www.airadmins.com
+:: www.airadmins.com
 0.0.0.0 www.airbornehydrography.com
 :: www.airbornehydrography.com
 0.0.0.0 www.airfrance.life
@@ -66033,8 +66043,6 @@
 :: www.clickvalidator.net
 0.0.0.0 www.clips1000.com
 :: www.clips1000.com
-0.0.0.0 www.cloudflane.com
-:: www.cloudflane.com
 0.0.0.0 www.cm-analysis.com
 :: www.cm-analysis.com
 0.0.0.0 www.cnetdirectintl.com
