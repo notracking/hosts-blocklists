@@ -58,9 +58,7 @@ addn-hosts=/path/to/hostnames.txt
  - http://malwaredomains.lehigh.edu/files/immortal_domains.txt
  - https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt `Excluding legit license servers`
  - https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt
- - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win7/spy.txt
- - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win81/spy.txt
- - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/win10/spy.txt
+ - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
  - https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
  - http://www.dshield.org/feeds/suspiciousdomains_Medium.txt
  - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
