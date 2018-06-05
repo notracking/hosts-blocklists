@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Jun 4 05:04:38 CEST 2018
+# Last update: Tue Jun 5 05:05:46 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35612
+# Number of unique hostnames: 35595
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -18543,14 +18543,6 @@
 :: bn.uol.com.br
 0.0.0.0 bn1.homefot.ru
 :: bn1.homefot.ru
-0.0.0.0 bn1304-e.1drv.com
-:: bn1304-e.1drv.com
-0.0.0.0 bn1306-a.1drv.com
-:: bn1306-a.1drv.com
-0.0.0.0 bn1306-e.1drv.com
-:: bn1306-e.1drv.com
-0.0.0.0 bn1306-g.1drv.com
-:: bn1306-g.1drv.com
 0.0.0.0 bn2b-cor001.api.p001.1drv.com
 :: bn2b-cor001.api.p001.1drv.com
 0.0.0.0 bn2b-cor002.api.p001.1drv.com
@@ -19315,6 +19307,8 @@
 :: bzawfy.kozer.2ndincome4u.org.uk
 0.0.0.0 c-0001.dc-msedge.net
 :: c-0001.dc-msedge.net
+0.0.0.0 c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
+:: c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
 0.0.0.0 c-adash.m.taobao.com
 :: c-adash.m.taobao.com
 0.0.0.0 c-hzgt2.getui.com
@@ -19755,8 +19749,6 @@
 :: ca.pf.fcgab.com
 0.0.0.0 ca.service.enligne.credit-agricole.fr.stb.entreebam.inc-system.com
 :: ca.service.enligne.credit-agricole.fr.stb.entreebam.inc-system.com
-0.0.0.0 ca.telemetry.microsoft.com
-:: ca.telemetry.microsoft.com
 0.0.0.0 ca.w8.com.cn
 :: ca.w8.com.cn
 0.0.0.0 ca18740.tmweb.ru
@@ -20831,8 +20823,6 @@
 :: cds.51y5.net
 0.0.0.0 cds.g8j8b9g6.hwcdn.net
 :: cds.g8j8b9g6.hwcdn.net
-0.0.0.0 cds1143.lon.llnw.net
-:: cds1143.lon.llnw.net
 0.0.0.0 cds1203.lon.llnw.net
 :: cds1203.lon.llnw.net
 0.0.0.0 cds1204.lon.llnw.net
@@ -20895,6 +20885,8 @@
 :: cds20435.lcy.llnw.net
 0.0.0.0 cds20440.lcy.llnw.net
 :: cds20440.lcy.llnw.net
+0.0.0.0 cds20443.lcy.llnw.net
+:: cds20443.lcy.llnw.net
 0.0.0.0 cds20445.lcy.llnw.net
 :: cds20445.lcy.llnw.net
 0.0.0.0 cds20450.lcy.llnw.net
@@ -20961,18 +20953,6 @@
 :: cds308.lcy.llnw.net
 0.0.0.0 cds310.lcy.llnw.net
 :: cds310.lcy.llnw.net
-0.0.0.0 cds320.lcy.llnw.net
-:: cds320.lcy.llnw.net
-0.0.0.0 cds333.lcy.llnw.net
-:: cds333.lcy.llnw.net
-0.0.0.0 cds334.lcy.llnw.net
-:: cds334.lcy.llnw.net
-0.0.0.0 cds335.lcy.llnw.net
-:: cds335.lcy.llnw.net
-0.0.0.0 cds339.lcy.llnw.net
-:: cds339.lcy.llnw.net
-0.0.0.0 cds344.lcy.llnw.net
-:: cds344.lcy.llnw.net
 0.0.0.0 cds405.lcy.llnw.net
 :: cds405.lcy.llnw.net
 0.0.0.0 cds406.lcy.llnw.net
@@ -21003,6 +20983,8 @@
 :: cds469.lcy.llnw.net
 0.0.0.0 cds471.lcy.llnw.net
 :: cds471.lcy.llnw.net
+0.0.0.0 cds483.lcy.llnw.net
+:: cds483.lcy.llnw.net
 0.0.0.0 cds484.lcy.llnw.net
 :: cds484.lcy.llnw.net
 0.0.0.0 cds489.lcy.llnw.net
@@ -21031,8 +21013,6 @@
 :: cds868.lon.llnw.net
 0.0.0.0 cds869.lon.llnw.net
 :: cds869.lon.llnw.net
-0.0.0.0 cds965.lon.llnw.net
-:: cds965.lon.llnw.net
 0.0.0.0 cdsusa.veinteractive.com
 :: cdsusa.veinteractive.com
 0.0.0.0 cdu4.cduniverse.com
@@ -23569,14 +23549,8 @@
 :: cp.surf-town.net
 0.0.0.0 cp1.news.com.au
 :: cp1.news.com.au
-0.0.0.0 cp101-prod.do.dsp.mp.microsoft.com
-:: cp101-prod.do.dsp.mp.microsoft.com
-0.0.0.0 cp201-prod.do.dsp.mp.microsoft.com
-:: cp201-prod.do.dsp.mp.microsoft.com
 0.0.0.0 cp24.free.fr
 :: cp24.free.fr
-0.0.0.0 cp401-prod.do.dsp.mp.microsoft.com
-:: cp401-prod.do.dsp.mp.microsoft.com
 0.0.0.0 cp53072.cloudhosting.lv
 :: cp53072.cloudhosting.lv
 0.0.0.0 cp53091.cloudhosting.lv
@@ -24085,6 +24059,8 @@
 :: cxcw5naj81aoyydamzzw.littlematchagirl.com.au
 0.0.0.0 cxoadfarm.dyndns.info
 :: cxoadfarm.dyndns.info
+0.0.0.0 cxrbw.aquipelis.net
+:: cxrbw.aquipelis.net
 0.0.0.0 cxwthqm5i0iplki1smyd.maherstcottage.com.au
 :: cxwthqm5i0iplki1smyd.maherstcottage.com.au
 0.0.0.0 cxzv260ad-system.16mb.com
@@ -26487,12 +26463,6 @@
 :: disablegoogleplussync.pythonanywhere.com
 0.0.0.0 disablesaccount.000webhostapp.com
 :: disablesaccount.000webhostapp.com
-0.0.0.0 disc101-prod.do.dsp.mp.microsoft.com
-:: disc101-prod.do.dsp.mp.microsoft.com
-0.0.0.0 disc201-prod.do.dsp.mp.microsoft.com
-:: disc201-prod.do.dsp.mp.microsoft.com
-0.0.0.0 disc401-prod.do.dsp.mp.microsoft.com
-:: disc401-prod.do.dsp.mp.microsoft.com
 0.0.0.0 discover.com.raroz.net
 :: discover.com.raroz.net
 0.0.0.0 discover.com.treedv.com
@@ -26793,6 +26763,8 @@
 :: dmtw0i4zln92b.cloudfront.net
 0.0.0.0 dmx.tk.to
 :: dmx.tk.to
+0.0.0.0 dmxleo.dailymotion.com
+:: dmxleo.dailymotion.com
 0.0.0.0 dn-growing.qbox.me
 :: dn-growing.qbox.me
 0.0.0.0 dn.binsetup.com
@@ -27421,6 +27393,10 @@
 :: drug-testing.shengen.ru
 0.0.0.0 drugdetox.shengen.ru
 :: drugdetox.shengen.ru
+0.0.0.0 druic.mytxt.cc
+:: druic.mytxt.cc
+0.0.0.0 druis.mytxt.cc
+:: druis.mytxt.cc
 0.0.0.0 druming.free.fr
 :: druming.free.fr
 0.0.0.0 drvmy.ats68.cn
@@ -27819,6 +27795,8 @@
 :: e.bdoj.pw
 0.0.0.0 e.cluoy.com
 :: e.cluoy.com
+0.0.0.0 e.cn-3drp.com
+:: e.cn-3drp.com
 0.0.0.0 e.digitalnectar.co.uk
 :: e.digitalnectar.co.uk
 0.0.0.0 e.domob.cn
@@ -27893,6 +27871,8 @@
 :: e.resmv.com
 0.0.0.0 e.ricpt.com
 :: e.ricpt.com
+0.0.0.0 e.szqifu.com
+:: e.szqifu.com
 0.0.0.0 e.t71q.com
 :: e.t71q.com
 0.0.0.0 e.targetfuel.com
@@ -32563,8 +32543,6 @@
 :: gwhwpxbw.bloger.index.hr
 0.0.0.0 gwmnc.blogspot.com
 :: gwmnc.blogspot.com
-0.0.0.0 gwx.windows.com
-:: gwx.windows.com
 0.0.0.0 gwynethpaltrow.ca.tt
 :: gwynethpaltrow.ca.tt
 0.0.0.0 gx-in-f109.1e100.net
@@ -36631,8 +36609,6 @@
 :: js.csai.cn
 0.0.0.0 js.ctags.cn
 :: js.ctags.cn
-0.0.0.0 js.daxueshengqiandai.com
-:: js.daxueshengqiandai.com
 0.0.0.0 js.duotegame.com
 :: js.duotegame.com
 0.0.0.0 js.e-generator.com
@@ -37539,12 +37515,6 @@
 :: kuzai.cooguo.com
 0.0.0.0 kuzrab.maxpolezhaev.ru
 :: kuzrab.maxpolezhaev.ru
-0.0.0.0 kv101-prod.do.dsp.mp.microsoft.com
-:: kv101-prod.do.dsp.mp.microsoft.com
-0.0.0.0 kv201-prod.do.dsp.mp.microsoft.com
-:: kv201-prod.do.dsp.mp.microsoft.com
-0.0.0.0 kv401-prod.do.dsp.mp.microsoft.com
-:: kv401-prod.do.dsp.mp.microsoft.com
 0.0.0.0 kvvijrmu.angelcities.com
 :: kvvijrmu.angelcities.com
 0.0.0.0 kwbro6gf.free.fr
@@ -39075,8 +39045,6 @@
 :: ls.srvcs.tumblr.com
 0.0.0.0 ls.webmd.com
 :: ls.webmd.com
-0.0.0.0 ls2web.redmond.corp.microsoft.com
-:: ls2web.redmond.corp.microsoft.com
 0.0.0.0 ls3ocnra-site.1tempurl.com
 :: ls3ocnra-site.1tempurl.com
 0.0.0.0 lsbarbie.vo.st
@@ -39361,6 +39329,8 @@
 :: m.guanren9.com
 0.0.0.0 m.guifei99.com
 :: m.guifei99.com
+0.0.0.0 m.gujinyue.com
+:: m.gujinyue.com
 0.0.0.0 m.haowj.com.cn
 :: m.haowj.com.cn
 0.0.0.0 m.hellomingpian.com
@@ -39385,6 +39355,8 @@
 :: m.jcwwxn.com
 0.0.0.0 m.jltdbyq.com
 :: m.jltdbyq.com
+0.0.0.0 m.jlxzt.com
+:: m.jlxzt.com
 0.0.0.0 m.joyxv.com
 :: m.joyxv.com
 0.0.0.0 m.kejet.net
@@ -39495,6 +39467,8 @@
 :: m.symac.cn
 0.0.0.0 m.symaw.cn
 :: m.symaw.cn
+0.0.0.0 m.szqifu.com
+:: m.szqifu.com
 0.0.0.0 m.tamilmalls.com
 :: m.tamilmalls.com
 0.0.0.0 m.tansuotv.com
@@ -44587,14 +44561,6 @@
 :: onedrive.shalomsingles.co.ke
 0.0.0.0 oneilllw.beget.tech
 :: oneilllw.beget.tech
-0.0.0.0 onesettings-bn2.metron.live.com.nsatc.net
-:: onesettings-bn2.metron.live.com.nsatc.net
-0.0.0.0 onesettings-cy2.metron.live.com.nsatc.net
-:: onesettings-cy2.metron.live.com.nsatc.net
-0.0.0.0 onesettings-db5.metron.live.com.nsatc.net
-:: onesettings-db5.metron.live.com.nsatc.net
-0.0.0.0 onesettings-hk2.metron.live.com.nsatc.net
-:: onesettings-hk2.metron.live.com.nsatc.net
 0.0.0.0 onespot-tracking.herokuapp.com
 :: onespot-tracking.herokuapp.com
 0.0.0.0 oniineservice.wellsfargo.com.drkierabuchanan.com.au
@@ -45477,6 +45443,8 @@
 :: p.appjiagu.com
 0.0.0.0 p.aty.sohu.com
 :: p.aty.sohu.com
+0.0.0.0 p.bdjiazanmiaomu.com
+:: p.bdjiazanmiaomu.com
 0.0.0.0 p.bm23.com
 :: p.bm23.com
 0.0.0.0 p.bnuni.com
@@ -52053,6 +52021,8 @@
 :: safe.bestapps.com-protection.info
 0.0.0.0 safe.hyperpaysys.com
 :: safe.hyperpaysys.com
+0.0.0.0 safe.tsgpay.cn
+:: safe.tsgpay.cn
 0.0.0.0 safeboxx.kiddibargains.com
 :: safeboxx.kiddibargains.com
 0.0.0.0 safemode.imranzaffarleghari.com
@@ -55321,8 +55291,6 @@
 :: ssp.chaohutechan.com
 0.0.0.0 ssp.cibn.starschina.com
 :: ssp.cibn.starschina.com
-0.0.0.0 ssp.daxueshengqiandai.com
-:: ssp.daxueshengqiandai.com
 0.0.0.0 ssp.dmpdsp.com
 :: ssp.dmpdsp.com
 0.0.0.0 ssp.face2trade.com
@@ -56629,8 +56597,6 @@
 :: statsdev.treesd.com
 0.0.0.0 statsfe1.ws.microsoft.com
 :: statsfe1.ws.microsoft.com
-0.0.0.0 statsfe2.update.microsoft.com
-:: statsfe2.update.microsoft.com
 0.0.0.0 statsfe2.ws.microsoft.com
 :: statsfe2.ws.microsoft.com
 0.0.0.0 statsncount.bz.cm
@@ -62207,8 +62173,6 @@
 :: v1.ujian.cc
 0.0.0.0 v10.events.data.microsoft.com
 :: v10.events.data.microsoft.com
-0.0.0.0 v10.vortex-win.data.metron.live.com.nsatc.net
-:: v10.vortex-win.data.metron.live.com.nsatc.net
 0.0.0.0 v16.56.com
 :: v16.56.com
 0.0.0.0 v1tj.jiguangie.com
@@ -62875,20 +62839,12 @@
 :: vortex-bn2.metron.live.com.nsatc.net
 0.0.0.0 vortex-cy2.metron.live.com.nsatc.net
 :: vortex-cy2.metron.live.com.nsatc.net
-0.0.0.0 vortex-db5.metron.live.com.nsatc.net
-:: vortex-db5.metron.live.com.nsatc.net
-0.0.0.0 vortex-hk2.metron.live.com.nsatc.net
-:: vortex-hk2.metron.live.com.nsatc.net
 0.0.0.0 vortex-sandbox.data.microsoft.com
 :: vortex-sandbox.data.microsoft.com
-0.0.0.0 vortex-win.data.metron.live.com.nsatc.net
-:: vortex-win.data.metron.live.com.nsatc.net
 0.0.0.0 vortex-win.data.microsoft.com
 :: vortex-win.data.microsoft.com
 0.0.0.0 vortex.data.glbdns2.microsoft.com
 :: vortex.data.glbdns2.microsoft.com
-0.0.0.0 vortex.data.metron.live.com.nsatc.net
-:: vortex.data.metron.live.com.nsatc.net
 0.0.0.0 vortex.data.microsoft.com
 :: vortex.data.microsoft.com
 0.0.0.0 vortex.dragonmastering.com
@@ -66007,6 +65963,8 @@
 :: www.clanthol.com
 0.0.0.0 www.clear-request.com
 :: www.clear-request.com
+0.0.0.0 www.clearalgorithm.com
+:: www.clearalgorithm.com
 0.0.0.0 www.clearbluemedia.com
 :: www.clearbluemedia.com
 0.0.0.0 www.cleverdotl.top
@@ -67439,6 +67397,8 @@
 :: www.lafirpo.com
 0.0.0.0 www.laiququan.com
 :: www.laiququan.com
+0.0.0.0 www.langjiyisheng.com
+:: www.langjiyisheng.com
 0.0.0.0 www.lansha.tv
 :: www.lansha.tv
 0.0.0.0 www.lansrv050.com
@@ -68787,6 +68747,8 @@
 :: www.soidc.com
 0.0.0.0 www.solo-juegos.com
 :: www.solo-juegos.com
+0.0.0.0 www.somennew.com
+:: www.somennew.com
 0.0.0.0 www.sonnoli.com
 :: www.sonnoli.com
 0.0.0.0 www.sopot24.ru
@@ -70265,6 +70227,8 @@
 :: xfinity.com--------phone--confirmation---service-593475923.antiochian.org.nz
 0.0.0.0 xfinity.com--------phone--confirmation---service-86362368.antiochian.org.nz
 :: xfinity.com--------phone--confirmation---service-86362368.antiochian.org.nz
+0.0.0.0 xfo.monesyy.com
+:: xfo.monesyy.com
 0.0.0.0 xft5ui5gr5.is-gone.com
 :: xft5ui5gr5.is-gone.com
 0.0.0.0 xgbk3xzzzzmshbue2tjf.maherstcottage.com.au
@@ -70501,6 +70465,8 @@
 :: xxx.zz.am
 0.0.0.0 xxx18.ucoz.com
 :: xxx18.ucoz.com
+0.0.0.0 xxxa.aikeapp.com
+:: xxxa.aikeapp.com
 0.0.0.0 xxxgayporn.gayatlas.com
 :: xxxgayporn.gayatlas.com
 0.0.0.0 xxxx.nsupdate.info
