@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Jun 7 05:08:10 CEST 2018
+# Last update: Fri Jun 8 05:01:15 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35607
+# Number of unique hostnames: 35619
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2571,6 +2571,8 @@
 :: a.sc.freepornvs.com
 0.0.0.0 a.shamla.net
 :: a.shamla.net
+0.0.0.0 a.shangz99991.com
+:: a.shangz99991.com
 0.0.0.0 a.shczz.com
 :: a.shczz.com
 0.0.0.0 a.shenchuang.com
@@ -14445,6 +14447,8 @@
 :: api.d.xiaomi.com
 0.0.0.0 api.danmu.tv.sohu.com
 :: api.danmu.tv.sohu.com
+0.0.0.0 api.data-monitor.info
+:: api.data-monitor.info
 0.0.0.0 api.dewmobile.net
 :: api.dewmobile.net
 0.0.0.0 api.dianru.com
@@ -27835,6 +27839,8 @@
 :: e.gitpw.com
 0.0.0.0 e.gjshcn.com
 :: e.gjshcn.com
+0.0.0.0 e.gxjfh.com
+:: e.gxjfh.com
 0.0.0.0 e.hellomingpian.com
 :: e.hellomingpian.com
 0.0.0.0 e.htper.com
@@ -29779,6 +29785,8 @@
 :: feedback.microsoft-hohm.com
 0.0.0.0 feedback.search.microsoft.com
 :: feedback.search.microsoft.com
+0.0.0.0 feedback.uc.cn
+:: feedback.uc.cn
 0.0.0.0 feedback.whalecloud.com
 :: feedback.whalecloud.com
 0.0.0.0 feedback.windows.com
@@ -31999,6 +32007,10 @@
 :: giveaway.getpokemonroms.info
 0.0.0.0 giveskincs.nd.pl
 :: giveskincs.nd.pl
+0.0.0.0 gj.applog.uc.cn
+:: gj.applog.uc.cn
+0.0.0.0 gj.track.uc.cn
+:: gj.track.uc.cn
 0.0.0.0 gjapplog.uc.cn
 :: gjapplog.uc.cn
 0.0.0.0 gjbonamz-1.000webhostapp.com
@@ -32009,6 +32021,8 @@
 :: gjsqbsqawb.myfw.us
 0.0.0.0 gjtikylryey.000webhostapp.com
 :: gjtikylryey.000webhostapp.com
+0.0.0.0 gjtrack.ucweb.com
+:: gjtrack.ucweb.com
 0.0.0.0 gkiklasisjakartautara.or.id
 :: gkiklasisjakartautara.or.id
 0.0.0.0 glamoureete.xtgem.com
@@ -35671,6 +35685,8 @@
 :: instantonlineverification.usaabank.verification.fajitaritas.com
 0.0.0.0 institutomariadapenha.org.br
 :: institutomariadapenha.org.br
+0.0.0.0 instory-log.ucnews.ucweb.com
+:: instory-log.ucnews.ucweb.com
 0.0.0.0 instruminahui.edu.ec
 :: instruminahui.edu.ec
 0.0.0.0 int-found-online.bizpartner.biz
@@ -38885,6 +38901,8 @@
 :: logs.thebloggernetwork.com
 0.0.0.0 logs.www.eresmas.com
 :: logs.www.eresmas.com
+0.0.0.0 logserver.insight.ucweb.com
+:: logserver.insight.ucweb.com
 0.0.0.0 logstat.caixin.com
 :: logstat.caixin.com
 0.0.0.0 logz.ikimfm.my
@@ -50327,6 +50345,8 @@
 :: rcv.moogos.com
 0.0.0.0 rcv.union-wifi.com
 :: rcv.union-wifi.com
+0.0.0.0 rcyy3.kaopuwangjz.com
+:: rcyy3.kaopuwangjz.com
 0.0.0.0 rd.ads.juno.com
 :: rd.ads.juno.com
 0.0.0.0 rd.alice.it
@@ -66511,6 +66531,8 @@
 :: www.feixin2.com
 0.0.0.0 www.fellent.eu
 :: www.fellent.eu
+0.0.0.0 www.fenqihome.com
+:: www.fenqihome.com
 0.0.0.0 www.ferdls-kleinanzeigen.de
 :: www.ferdls-kleinanzeigen.de
 0.0.0.0 www.fetisch-pornos.cxa.de
@@ -69985,6 +70007,8 @@
 :: wx.paigu.com
 0.0.0.0 wx.shunliandongli.com
 :: wx.shunliandongli.com
+0.0.0.0 wxaw.tiantongmaoyi.com
+:: wxaw.tiantongmaoyi.com
 0.0.0.0 wxsnsdy.tc.qq.com
 :: wxsnsdy.tc.qq.com
 0.0.0.0 wxsnsdy.video.qq.com
