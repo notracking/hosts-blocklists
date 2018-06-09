@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Jun 8 05:01:15 CEST 2018
+# Last update: Sat Jun 9 05:04:05 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35619
+# Number of unique hostnames: 35648
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -661,6 +661,8 @@
 :: 3a5xghpiqvcgkushdv0p.businessrulesanalysis.com
 0.0.0.0 3b7tkkfdaa9p95dks9y3.glamxpress.co.uk
 :: 3b7tkkfdaa9p95dks9y3.glamxpress.co.uk
+0.0.0.0 3bc321e6.ngrok.io
+:: 3bc321e6.ngrok.io
 0.0.0.0 3bc3fd26-91cf-46b2-8ec6-b1559ada0079.statcamp.net
 :: 3bc3fd26-91cf-46b2-8ec6-b1559ada0079.statcamp.net
 0.0.0.0 3bxyo8.kal.wkcengland.com
@@ -5781,6 +5783,8 @@
 :: ado.delfi.ee
 0.0.0.0 ado.icorp.ro
 :: ado.icorp.ro
+0.0.0.0 adobe-online-duka-1919.000webhostapp.com
+:: adobe-online-duka-1919.000webhostapp.com
 0.0.0.0 adobe-online-reader-loadin-pdf-fileformat.000webhostapp.com
 :: adobe-online-reader-loadin-pdf-fileformat.000webhostapp.com
 0.0.0.0 adobe-online-secured-pdfreader-pdfformat-file.000webhostapp.com
@@ -14331,6 +14335,8 @@
 :: ap392t.koll.pershoreairporttransfers.co.uk
 0.0.0.0 apac.rel.msn.com
 :: apac.rel.msn.com
+0.0.0.0 apache21.hostbasket.com
+:: apache21.hostbasket.com
 0.0.0.0 apachestat.cimedia.net
 :: apachestat.cimedia.net
 0.0.0.0 apapi.dc121677.com
@@ -16227,6 +16233,8 @@
 :: b17261b2b5010f3c6c93-d77e110c9a6908e75cd02fbd7eb24572.r86.cf2.rackcdn.com
 0.0.0.0 b24-4rqp95.bitrix24.com
 :: b24-4rqp95.bitrix24.com
+0.0.0.0 b24-ilrczt.bitrix24.com
+:: b24-ilrczt.bitrix24.com
 0.0.0.0 b2b.filecloud.me
 :: b2b.filecloud.me
 0.0.0.0 b3.rivalgaming.com
@@ -16419,6 +16427,8 @@
 :: banana.dp.ua
 0.0.0.0 banc0estad0.esy.es
 :: banc0estad0.esy.es
+0.0.0.0 banckounico.000webhostapp.com
+:: banckounico.000webhostapp.com
 0.0.0.0 banco.itau.cl.wps.portal.olb.web.loginutpz104sj9cpykssy0xplmnmz0vmafijo8.bamcoitau.com
 :: banco.itau.cl.wps.portal.olb.web.loginutpz104sj9cpykssy0xplmnmz0vmafijo8.bamcoitau.com
 0.0.0.0 bancosantander.appliedatas.com
@@ -20123,6 +20133,8 @@
 :: catalog.video.msn.com
 0.0.0.0 catalogovehiculos.dercocenter.cl
 :: catalogovehiculos.dercocenter.cl
+0.0.0.0 catalogue.membershiprewards.co.in
+:: catalogue.membershiprewards.co.in
 0.0.0.0 catchmeifyoucan5902.comli.com
 :: catchmeifyoucan5902.comli.com
 0.0.0.0 cavoice.000webhostapp.com
@@ -20641,8 +20653,6 @@
 :: cdn.sp.rizhao9.com
 0.0.0.0 cdn.spectate.com
 :: cdn.spectate.com
-0.0.0.0 cdn.spoutable.com
-:: cdn.spoutable.com
 0.0.0.0 cdn.stat.easydate.biz
 :: cdn.stat.easydate.biz
 0.0.0.0 cdn.streambeam.io
@@ -21237,6 +21247,8 @@
 :: cerberhhyed5frqa.zgf48j.win
 0.0.0.0 cerebral.typn.com
 :: cerebral.typn.com
+0.0.0.0 cerrogrande.oxidocs.com
+:: cerrogrande.oxidocs.com
 0.0.0.0 cerslev.aiwsites.com
 :: cerslev.aiwsites.com
 0.0.0.0 certified-balances.000webhostapp.com
@@ -23787,6 +23799,8 @@
 :: crm-eve.b2b.alibaba-inc.com
 0.0.0.0 crm.aaditech.com
 :: crm.aaditech.com
+0.0.0.0 crm.pandoravietnam.com
+:: crm.pandoravietnam.com
 0.0.0.0 crop-topsnn.oucreate.com
 :: crop-topsnn.oucreate.com
 0.0.0.0 crop.lauritaexcavating.info
@@ -25817,6 +25831,8 @@
 :: ddasdeadmsilatmaiui.arlamooz.net
 0.0.0.0 ddd.gouwuke.cn
 :: ddd.gouwuke.cn
+0.0.0.0 ddd.jandan.net
+:: ddd.jandan.net
 0.0.0.0 ddd.yuyouge.com
 :: ddd.yuyouge.com
 0.0.0.0 ddfnmo6ev4fd.cloudfront.net
@@ -26121,6 +26137,8 @@
 :: descargas2.tuvideogratis.com
 0.0.0.0 descargasporno.bitacoras.com
 :: descargasporno.bitacoras.com
+0.0.0.0 descontos-dia-dos-namorados.com.br-selecao-brasileira.site
+:: descontos-dia-dos-namorados.com.br-selecao-brasileira.site
 0.0.0.0 desidating.in.nf
 :: desidating.in.nf
 0.0.0.0 design.mangoxl.com
@@ -28553,8 +28571,6 @@
 :: engine.pianomedia.sk
 0.0.0.0 engine.smartbn.ru
 :: engine.smartbn.ru
-0.0.0.0 engine.spoutable.com
-:: engine.spoutable.com
 0.0.0.0 engine.statcount.com
 :: engine.statcount.com
 0.0.0.0 engine.tuia.cn
@@ -29559,6 +29575,8 @@
 :: fb-account-control.hoibangai.com
 0.0.0.0 fb-acct-market-item1029839302.000webhostapp.com
 :: fb-acct-market-item1029839302.000webhostapp.com
+0.0.0.0 fb-alert-info.dynv6.net
+:: fb-alert-info.dynv6.net
 0.0.0.0 fb-color.qpq.pl
 :: fb-color.qpq.pl
 0.0.0.0 fb-colors.ct8.pl
@@ -29751,6 +29769,8 @@
 :: fdsfdsmv.beget.tech
 0.0.0.0 fdsusf.kidsgotmusic.com
 :: fdsusf.kidsgotmusic.com
+0.0.0.0 fdyfggutreuu.000webhostapp.com
+:: fdyfggutreuu.000webhostapp.com
 0.0.0.0 fe.lea.jubii.dk
 :: fe.lea.jubii.dk
 0.0.0.0 fe.lea.lycos.co.uk
@@ -31649,6 +31669,8 @@
 :: genericlowlatencyasiodriverhq.aircus.com
 0.0.0.0 generousdeal-a.akamaihd.net
 :: generousdeal-a.akamaihd.net
+0.0.0.0 genesis-mining.000webhostapp.com
+:: genesis-mining.000webhostapp.com
 0.0.0.0 geni.anas.it
 :: geni.anas.it
 0.0.0.0 geo.cliphunter.com
@@ -31923,6 +31945,8 @@
 :: ggb.douguo.com
 0.0.0.0 ggcode.2345.com
 :: ggcode.2345.com
+0.0.0.0 ggdm1.nhaidu.net
+:: ggdm1.nhaidu.net
 0.0.0.0 ggg.xiangjiao.xxx
 :: ggg.xiangjiao.xxx
 0.0.0.0 ggg.zj.com
@@ -36839,6 +36863,8 @@
 :: ju007.free.fr
 0.0.0.0 ju7tvh.koll.pershoreairporttransfers.co.uk
 :: ju7tvh.koll.pershoreairporttransfers.co.uk
+0.0.0.0 judithrust.5gbfree.com
+:: judithrust.5gbfree.com
 0.0.0.0 judo.salon.com
 :: judo.salon.com
 0.0.0.0 jue0jc.lukodorsai.info
@@ -37531,8 +37557,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
-0.0.0.0 kundencenter.telekom.de
-:: kundencenter.telekom.de
 0.0.0.0 kundendienst.de.com
 :: kundendienst.de.com
 0.0.0.0 kundenservice-1278.dq3dq321dd.net
@@ -44283,6 +44307,8 @@
 :: offers.nordvpn.com
 0.0.0.0 offerssyndication.appspot.com
 :: offerssyndication.appspot.com
+0.0.0.0 offficeworkshop.000webhostapp.com
+:: offficeworkshop.000webhostapp.com
 0.0.0.0 office-facebook-security-team2.16mb.com
 :: office-facebook-security-team2.16mb.com
 0.0.0.0 office.ad1.ru
@@ -45053,6 +45079,8 @@
 :: oral-hardcore.inhit.com
 0.0.0.0 oranga.host.sk
 :: oranga.host.sk
+0.0.0.0 orange-county.rsvppublications.com
+:: orange-county.rsvppublications.com
 0.0.0.0 orange-kodzik.890m.com
 :: orange-kodzik.890m.com
 0.0.0.0 orange.bageriethornslet.dk
@@ -47085,6 +47113,8 @@
 :: perfotec.net76.net
 0.0.0.0 peringatan.esy.es
 :: peringatan.esy.es
+0.0.0.0 peringatanpembelok9.wixsite.com
+:: peringatanpembelok9.wixsite.com
 0.0.0.0 peritonitic-hairpin.000webhostapp.com
 :: peritonitic-hairpin.000webhostapp.com
 0.0.0.0 perkinss-imac.fgppchg.fgpp.com
@@ -47813,6 +47843,8 @@
 :: play-poker-free.forsearch.net
 0.0.0.0 play.affmob.org
 :: play.affmob.org
+0.0.0.0 play.js.vidoza.net
+:: play.js.vidoza.net
 0.0.0.0 play.leadzu.com
 :: play.leadzu.com
 0.0.0.0 play.site.flashx.cc
@@ -48665,6 +48697,8 @@
 :: ppc-parked.domainsite.com
 0.0.0.0 ppd.bahjeez.com
 :: ppd.bahjeez.com
+0.0.0.0 ppinnocck.5gbfree.com
+:: ppinnocck.5gbfree.com
 0.0.0.0 ppiy.v5.yy.com
 :: ppiy.v5.yy.com
 0.0.0.0 ppl.fr.update.navraatri.org
@@ -48731,6 +48765,8 @@
 :: prefix.payhelping.com
 0.0.0.0 preland.softmonetize.com
 :: preland.softmonetize.com
+0.0.0.0 premios.promociones-viabcp.ml
+:: premios.promociones-viabcp.ml
 0.0.0.0 premium.ascensionweb.com
 :: premium.ascensionweb.com
 0.0.0.0 premium.naturalnews.tv
@@ -51481,6 +51517,8 @@
 :: rsas.szzek.com
 0.0.0.0 rsc.scmspain.com
 :: rsc.scmspain.com
+0.0.0.0 rse.tigocloudbo.com
+:: rse.tigocloudbo.com
 0.0.0.0 rsj36.rhostjh.com
 :: rsj36.rhostjh.com
 0.0.0.0 rsl-worange-user.000webhostapp.com
@@ -51799,8 +51837,6 @@
 :: s.sh.qihoo.com
 0.0.0.0 s.shopify.com
 :: s.shopify.com
-0.0.0.0 s.spoutable.com
-:: s.spoutable.com
 0.0.0.0 s.stats.wordpress.com
 :: s.stats.wordpress.com
 0.0.0.0 s.temaidi.com
@@ -52727,6 +52763,8 @@
 :: scorecard.wspisp.net
 0.0.0.0 scortkenia.blogspot.com
 :: scortkenia.blogspot.com
+0.0.0.0 scotiabank.com-ip.novascottiaservices.online
+:: scotiabank.com-ip.novascottiaservices.online
 0.0.0.0 scotiabanking-online.890m.com
 :: scotiabanking-online.890m.com
 0.0.0.0 scotiaonline.com-ssl-m.top
@@ -53315,6 +53353,8 @@
 :: secureglobe.000webhostapp.com
 0.0.0.0 securegreenlight.000webhostapp.com
 :: securegreenlight.000webhostapp.com
+0.0.0.0 securehalifcx.infoupdateteam.website
+:: securehalifcx.infoupdateteam.website
 0.0.0.0 securehelprecover568996.000webhostapp.com
 :: securehelprecover568996.000webhostapp.com
 0.0.0.0 secureinfouserapp.blogdns.org
@@ -54811,6 +54851,8 @@
 :: snaps.vidiemi.com
 0.0.0.0 sndkorea.nowcdn.co.kr
 :: sndkorea.nowcdn.co.kr
+0.0.0.0 sneckershatch.5gbfree.com
+:: sneckershatch.5gbfree.com
 0.0.0.0 sngbeizsuselnp2mbwyj.alfacomercial.com.br
 :: sngbeizsuselnp2mbwyj.alfacomercial.com.br
 0.0.0.0 sngmta.qq.com
@@ -58459,6 +58501,8 @@
 :: tiads.timeinc.net
 0.0.0.0 tiande-rivne-com-ua.1gb.ua
 :: tiande-rivne-com-ua.1gb.ua
+0.0.0.0 tiaradewi827.000webhostapp.com
+:: tiaradewi827.000webhostapp.com
 0.0.0.0 ticket20.tripod.com
 :: ticket20.tripod.com
 0.0.0.0 ticketcrociere.gazzettadelsud.it
@@ -60871,6 +60915,8 @@
 :: u54bbnhf354fbkh254tbkhjbgy8258gnkwerg.tahaplap.com
 0.0.0.0 u6543ewfgh.dyndns-work.com
 :: u6543ewfgh.dyndns-work.com
+0.0.0.0 u7111053.ct.sendgrid.net
+:: u7111053.ct.sendgrid.net
 0.0.0.0 u715381.sendgrid.org
 :: u715381.sendgrid.org
 0.0.0.0 u73801620533084.s.push-21.cdnsun.com
@@ -60897,6 +60943,8 @@
 :: ubmcmm.baidustatic.com
 0.0.0.0 ubmcvideo.baidustatic.com
 :: ubmcvideo.baidustatic.com
+0.0.0.0 ubs-aag6suiss.000webhostapp.com
+:: ubs-aag6suiss.000webhostapp.com
 0.0.0.0 ubt.ign.com
 :: ubt.ign.com
 0.0.0.0 uc.haoyunyuan.cc
@@ -62825,6 +62873,8 @@
 :: vkmcom.beget.tech
 0.0.0.0 vkont.bos.ru
 :: vkont.bos.ru
+0.0.0.0 vkpage.000webhostapp.com
+:: vkpage.000webhostapp.com
 0.0.0.0 vkservis0100.hop.ru
 :: vkservis0100.hop.ru
 0.0.0.0 vksol.000webhostapp.com
@@ -64005,6 +64055,8 @@
 :: wellsfargo.kristannev.co
 0.0.0.0 wellsfargo.login.verify.com.akirai.com
 :: wellsfargo.login.verify.com.akirai.com
+0.0.0.0 wellsfargo.mcgsystem.com
+:: wellsfargo.mcgsystem.com
 0.0.0.0 wellsfargo.paediatrictraining.com
 :: wellsfargo.paediatrictraining.com
 0.0.0.0 wellsfargo.porthuronlaw.net
@@ -67417,6 +67469,8 @@
 :: www.kniga.tora.ru
 0.0.0.0 www.koch-backrezepte.de
 :: www.koch-backrezepte.de
+0.0.0.0 www.konimkan.com
+:: www.konimkan.com
 0.0.0.0 www.konversation.com
 :: www.konversation.com
 0.0.0.0 www.koxrqrpnroundlet.review
@@ -70629,6 +70683,8 @@
 :: yannick.delamarre.free.fr
 0.0.0.0 yanshidairy.000webhostapp.com
 :: yanshidairy.000webhostapp.com
+0.0.0.0 yasaki14306.000webhostapp.com
+:: yasaki14306.000webhostapp.com
 0.0.0.0 yasnogorie.tora.ru
 :: yasnogorie.tora.ru
 0.0.0.0 yast.rutube.ru
@@ -70829,6 +70885,8 @@
 :: yunque.pluto.ro
 0.0.0.0 yupuwuxake.ihostwell.com
 :: yupuwuxake.ihostwell.com
+0.0.0.0 yuribdasilvario.000webhostapp.com
+:: yuribdasilvario.000webhostapp.com
 0.0.0.0 yvap.query.yahoo.com
 :: yvap.query.yahoo.com
 0.0.0.0 yvdeuwn.angelcities.com
