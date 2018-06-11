@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Jun 10 05:01:56 CEST 2018
+# Last update: Mon Jun 11 05:34:57 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35651
+# Number of unique hostnames: 35662
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -13615,8 +13615,6 @@
 :: ams-ads-cornerstone-creatives.s3.amazonaws.com
 0.0.0.0 ams.fx678.com
 :: ams.fx678.com
-0.0.0.0 ams.lenovomm.com
-:: ams.lenovomm.com
 0.0.0.0 ams.toxity.biz
 :: ams.toxity.biz
 0.0.0.0 amstudio.net.in
@@ -14425,8 +14423,6 @@
 :: api.bee7.com
 0.0.0.0 api.bitp.it
 :: api.bitp.it
-0.0.0.0 api.bs.zui.com
-:: api.bs.zui.com
 0.0.0.0 api.c.avazunativeads.com
 :: api.c.avazunativeads.com
 0.0.0.0 api.cheatsheet.me
@@ -17613,6 +17609,8 @@
 :: bb.tuku.cc
 0.0.0.0 bb.xc0429.com
 :: bb.xc0429.com
+0.0.0.0 bb2.ifeng.com
+:: bb2.ifeng.com
 0.0.0.0 bbads.sv.publicus.com
 :: bbads.sv.publicus.com
 0.0.0.0 bbads.sx.atl.publicus.com
@@ -26541,6 +26539,8 @@
 :: dist.belnk.com
 0.0.0.0 distf.stat.kankan.com
 :: distf.stat.kankan.com
+0.0.0.0 distillery.wistia.com
+:: distillery.wistia.com
 0.0.0.0 distrowatch.tradepub.com
 :: distrowatch.tradepub.com
 0.0.0.0 disy2s34euyqm.cloudfront.net
@@ -26793,6 +26793,8 @@
 :: dmr.cnhoney.com
 0.0.0.0 dmros.ysm.yahoo.com
 :: dmros.ysm.yahoo.com
+0.0.0.0 dmrzwh2nnpd64.cloudfront.net
+:: dmrzwh2nnpd64.cloudfront.net
 0.0.0.0 dmtk.linternaute.com
 :: dmtk.linternaute.com
 0.0.0.0 dmtracking.alibaba.com
@@ -27839,6 +27841,8 @@
 :: e.bdoj.pw
 0.0.0.0 e.cluoy.com
 :: e.cluoy.com
+0.0.0.0 e.czggcj.com
+:: e.czggcj.com
 0.0.0.0 e.digitalnectar.co.uk
 :: e.digitalnectar.co.uk
 0.0.0.0 e.domob.cn
@@ -27887,6 +27891,8 @@
 :: e.ksttwz.com
 0.0.0.0 e.lovezhishou.com
 :: e.lovezhishou.com
+0.0.0.0 e.meizhuanghe.com
+:: e.meizhuanghe.com
 0.0.0.0 e.miaoxinqipei.com
 :: e.miaoxinqipei.com
 0.0.0.0 e.mrsasharingspace.com
@@ -27897,6 +27903,8 @@
 :: e.mushizhubao.com
 0.0.0.0 e.ofuda.cc
 :: e.ofuda.cc
+0.0.0.0 e.okfhn.com
+:: e.okfhn.com
 0.0.0.0 e.poonscn.com
 :: e.poonscn.com
 0.0.0.0 e.ptrvc.com
@@ -30341,6 +30349,8 @@
 :: fl.milesplit.com
 0.0.0.0 flagship.asp-host.co.uk
 :: flagship.asp-host.co.uk
+0.0.0.0 flash.2144.com
+:: flash.2144.com
 0.0.0.0 flash.360edu.com
 :: flash.360edu.com
 0.0.0.0 flash.all-stars.pl
@@ -30911,8 +30921,6 @@
 :: fsl.sytes.net
 0.0.0.0 fsocitye.000webhostapp.com
 :: fsocitye.000webhostapp.com
-0.0.0.0 fsr.lenovomm.com
-:: fsr.lenovomm.com
 0.0.0.0 fsuseaad1.blob.core.windows.net
 :: fsuseaad1.blob.core.windows.net
 0.0.0.0 ft-snappy-02-debate.herokuapp.com
@@ -31003,8 +31011,6 @@
 :: furoka4y.beget.tech
 0.0.0.0 furoka8h.beget.tech
 :: furoka8h.beget.tech
-0.0.0.0 fus.lenovomm.com
-:: fus.lenovomm.com
 0.0.0.0 fuse.loosepattern.com
 :: fuse.loosepattern.com
 0.0.0.0 fusion.tokencrowdsale.online
@@ -34867,8 +34873,6 @@
 :: imc.l.qq.com
 0.0.0.0 imex.cezard.imcserver.ro
 :: imex.cezard.imcserver.ro
-0.0.0.0 imfsr.lenovomm.com
-:: imfsr.lenovomm.com
 0.0.0.0 img-a2.ak.imagevz.net
 :: img-a2.ak.imagevz.net
 0.0.0.0 img-ad.oupeng.com
@@ -36721,6 +36725,8 @@
 :: js.mumayi.net
 0.0.0.0 js.myinfotopia.com
 :: js.myinfotopia.com
+0.0.0.0 js.nahnoji.cz
+:: js.nahnoji.cz
 0.0.0.0 js.nrcdn.com
 :: js.nrcdn.com
 0.0.0.0 js.peepfinder.com
@@ -36743,6 +36749,8 @@
 :: js.smartredirect.de
 0.0.0.0 js.smi2.ru
 :: js.smi2.ru
+0.0.0.0 js.soduso.cc
+:: js.soduso.cc
 0.0.0.0 js.stat.ijinshan.com
 :: js.stat.ijinshan.com
 0.0.0.0 js.static.tebaidu.cn
@@ -36771,6 +36779,8 @@
 :: js.union.doudouguo.net
 0.0.0.0 js.url1175.info
 :: js.url1175.info
+0.0.0.0 js.vidoza.net
+:: js.vidoza.net
 0.0.0.0 js.willads.pw
 :: js.willads.pw
 0.0.0.0 js.worthathousandwords.com
@@ -37911,8 +37921,6 @@
 :: lcs.naver.com
 0.0.0.0 lcs.naver.jp
 :: lcs.naver.jp
-0.0.0.0 lcs.test.lenovomm.cn
-:: lcs.test.lenovomm.cn
 0.0.0.0 lcye5vup-site.btempurl.com
 :: lcye5vup-site.btempurl.com
 0.0.0.0 ld.kuaigames.com
@@ -37927,8 +37935,6 @@
 :: ldrzoqj5-site.1tempurl.com
 0.0.0.0 lds.lenovomm.com
 :: lds.lenovomm.com
-0.0.0.0 lds.zui.com
-:: lds.zui.com
 0.0.0.0 ldy.350.com
 :: ldy.350.com
 0.0.0.0 lead.program3.com
@@ -39479,6 +39485,8 @@
 :: m.panda.voiceads.cn
 0.0.0.0 m.phonthing.com
 :: m.phonthing.com
+0.0.0.0 m.pna2w.cn
+:: m.pna2w.cn
 0.0.0.0 m.poonscn.com
 :: m.poonscn.com
 0.0.0.0 m.porntourfr.3818.idhad.com
@@ -39597,6 +39605,8 @@
 :: m.yooli.com
 0.0.0.0 m.yoyi.com.cn
 :: m.yoyi.com.cn
+0.0.0.0 m.yuandajiayuan.com
+:: m.yuandajiayuan.com
 0.0.0.0 m0-s.san.ru
 :: m0-s.san.ru
 0.0.0.0 m1.daumcdn.net
@@ -41377,8 +41387,6 @@
 :: mfm.video.qq.com
 0.0.0.0 mfp.deliver.ifeng.com
 :: mfp.deliver.ifeng.com
-0.0.0.0 mfsr.lenovomm.com
-:: mfsr.lenovomm.com
 0.0.0.0 mg.games.sina.com.cn
 :: mg.games.sina.com.cn
 0.0.0.0 mgfd1b.petrix.net
@@ -41655,6 +41663,8 @@
 :: mm.moquanad.com
 0.0.0.0 mm.ticketmaster.com
 :: mm.ticketmaster.com
+0.0.0.0 mm.zubovskaya-banya.ru
+:: mm.zubovskaya-banya.ru
 0.0.0.0 mm266.bplaced.com
 :: mm266.bplaced.com
 0.0.0.0 mmaadnet.ad-control-panel.com
@@ -42429,6 +42439,8 @@
 :: myscoop-tracking.googlecode.com
 0.0.0.0 mysharepoint.com.viewdocumentdatatdocs.steretailing.com
 :: mysharepoint.com.viewdocumentdatatdocs.steretailing.com
+0.0.0.0 mysite.irkdsu.ru
+:: mysite.irkdsu.ru
 0.0.0.0 mysqatendimentov3.uni5.net
 :: mysqatendimentov3.uni5.net
 0.0.0.0 myszki.net.pl
@@ -42483,6 +42495,8 @@
 :: n.vipadvert.net
 0.0.0.0 n.yfi8.com
 :: n.yfi8.com
+0.0.0.0 n.zqqf0.cn
+:: n.zqqf0.cn
 0.0.0.0 n01d05.cumulus-cloud.com
 :: n01d05.cumulus-cloud.com
 0.0.0.0 n02.unternehmen.com
@@ -47559,6 +47573,8 @@
 :: pink.habralab.ru
 0.0.0.0 pioaltkirch.bloxode.com
 :: pioaltkirch.bloxode.com
+0.0.0.0 pipedream.wistia.com
+:: pipedream.wistia.com
 0.0.0.0 pipki.r.acdnpro.com
 :: pipki.r.acdnpro.com
 0.0.0.0 pipki.r.worldssl.net
@@ -47847,6 +47863,10 @@
 :: play-poker-free.forsearch.net
 0.0.0.0 play.affmob.org
 :: play.affmob.org
+0.0.0.0 play.estream.nu
+:: play.estream.nu
+0.0.0.0 play.estream.to
+:: play.estream.to
 0.0.0.0 play.js.vidoza.net
 :: play.js.vidoza.net
 0.0.0.0 play.leadzu.com
@@ -47857,10 +47877,14 @@
 :: play.stream.vidzi.tv
 0.0.0.0 play.streaming.estream.to
 :: play.streaming.estream.to
+0.0.0.0 play.tainiesonline.pw
+:: play.tainiesonline.pw
 0.0.0.0 play.video.estream.nu
 :: play.video.estream.nu
 0.0.0.0 play.video2.stream.vidzi.tv
 :: play.video2.stream.vidzi.tv
+0.0.0.0 play.vidzi.tv
+:: play.vidzi.tv
 0.0.0.0 playablepblysef.blogspot.com
 :: playablepblysef.blogspot.com
 0.0.0.0 playad.xjmg.com
@@ -49311,8 +49335,6 @@
 :: prp11ahda.s3.amazonaws.com
 0.0.0.0 prueba27563fb.webcindario.com
 :: prueba27563fb.webcindario.com
-0.0.0.0 prw.lenovomm.com
-:: prw.lenovomm.com
 0.0.0.0 pryszcz-wideo.blogspot.com
 :: pryszcz-wideo.blogspot.com
 0.0.0.0 przelew.platnosconline.com
@@ -49323,8 +49345,6 @@
 :: ps2.interpolls.com
 0.0.0.0 ps3.all-stars.pl
 :: ps3.all-stars.pl
-0.0.0.0 psb.lenovomm.com
-:: psb.lenovomm.com
 0.0.0.0 psfq.gou.sogou.com
 :: psfq.gou.sogou.com
 0.0.0.0 psgym.easyfreehosting.com
@@ -49697,6 +49717,8 @@
 :: pv.focus.cn
 0.0.0.0 pv.sogou.com
 :: pv.sogou.com
+0.0.0.0 pv.sohu.com
+:: pv.sohu.com
 0.0.0.0 pv.wantsfly.com
 :: pv.wantsfly.com
 0.0.0.0 pv.xcar.com.cn
@@ -52889,8 +52911,6 @@
 :: sda.groupspaces.com
 0.0.0.0 sda.quinews.net
 :: sda.quinews.net
-0.0.0.0 sdac.lenovomm.com
-:: sdac.lenovomm.com
 0.0.0.0 sdapprecv.app.cntvwb.cn
 :: sdapprecv.app.cntvwb.cn
 0.0.0.0 sdc.acc.org
@@ -55231,6 +55251,8 @@
 :: src-dropbox.absolutebeautyclinicgh.com
 0.0.0.0 src.duanxin520.com
 :: src.duanxin520.com
+0.0.0.0 src.voici.fr
+:: src.voici.fr
 0.0.0.0 src.zf313.com
 :: src.zf313.com
 0.0.0.0 srd.simba.taobao.com
@@ -62141,8 +62163,6 @@
 :: usqq.bizopsinc.com
 0.0.0.0 usr.dropkickmedia.com
 :: usr.dropkickmedia.com
-0.0.0.0 uss-pid.lenovomm.com
-:: uss-pid.lenovomm.com
 0.0.0.0 ustaw--tlo-fb.blogspot.com
 :: ustaw--tlo-fb.blogspot.com
 0.0.0.0 ustaw-tlo.blogspot.com
@@ -65065,6 +65085,8 @@
 :: www.202m.com
 0.0.0.0 www.203710.com
 :: www.203710.com
+0.0.0.0 www.2144.cn
+:: www.2144.cn
 0.0.0.0 www.22222jsc.com
 :: www.22222jsc.com
 0.0.0.0 www.222627.com
@@ -70903,8 +70925,6 @@
 :: ywzjvqssv.myfw.us
 0.0.0.0 yx-in-f108.1e100.net
 :: yx-in-f108.1e100.net
-0.0.0.0 yx.lenovomm.com
-:: yx.lenovomm.com
 0.0.0.0 yx1.managershare.com
 :: yx1.managershare.com
 0.0.0.0 yxkgtyqmz.myfw.us
@@ -71243,6 +71263,8 @@
 :: zt.adsage.com
 0.0.0.0 zt.tim-taxi.com
 :: zt.tim-taxi.com
+0.0.0.0 ztd.szkdst.com
+:: ztd.szkdst.com
 0.0.0.0 ztrpm.lu.sogou.com
 :: ztrpm.lu.sogou.com
 0.0.0.0 ztuw5bvuuapzdfya.klimbim.pl
