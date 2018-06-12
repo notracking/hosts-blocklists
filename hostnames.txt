@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Jun 11 05:34:57 CEST 2018
+# Last update: Tue Jun 12 05:56:36 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35662
+# Number of unique hostnames: 35665
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -4303,6 +4303,8 @@
 :: ad.perfectworld.com
 0.0.0.0 ad.perfectworld.eu
 :: ad.perfectworld.eu
+0.0.0.0 ad.period-calendar.com
+:: ad.period-calendar.com
 0.0.0.0 ad.petel.bg
 :: ad.petel.bg
 0.0.0.0 ad.pgwticketshop.nl
@@ -25265,6 +25267,8 @@
 :: d3s7ggfq1s6jlj.cloudfront.net
 0.0.0.0 d3sh1r2u9ujvd.cloudfront.net
 :: d3sh1r2u9ujvd.cloudfront.net
+0.0.0.0 d3sskjfdrsmdxn.cloudfront.net
+:: d3sskjfdrsmdxn.cloudfront.net
 0.0.0.0 d3t2wca0ou3lqz.cloudfront.net
 :: d3t2wca0ou3lqz.cloudfront.net
 0.0.0.0 d3t9ip55bsuxrf.cloudfront.net
@@ -55025,6 +55029,8 @@
 :: soul.doctortoken.co.in
 0.0.0.0 source.programme-tv.net
 :: source.programme-tv.net
+0.0.0.0 source.programme.tv
+:: source.programme.tv
 0.0.0.0 southpointrs.edu.np
 :: southpointrs.edu.np
 0.0.0.0 sovernet.16mb.com
