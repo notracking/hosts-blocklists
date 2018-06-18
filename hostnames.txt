@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Jun 17 05:03:10 CEST 2018
+# Last update: Mon Jun 18 05:10:54 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35791
+# Number of unique hostnames: 35802
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -20609,6 +20609,8 @@
 :: cdn.mypcbackup.com
 0.0.0.0 cdn.mythingsmedia.net
 :: cdn.mythingsmedia.net
+0.0.0.0 cdn.ndapp.com
+:: cdn.ndapp.com
 0.0.0.0 cdn.niche.videosz.com
 :: cdn.niche.videosz.com
 0.0.0.0 cdn.ns.cape.com
@@ -27931,6 +27933,10 @@
 :: e.kewro.com
 0.0.0.0 e.ksttwz.com
 :: e.ksttwz.com
+0.0.0.0 e.kunpp.com
+:: e.kunpp.com
+0.0.0.0 e.lancedu.com
+:: e.lancedu.com
 0.0.0.0 e.lovezhishou.com
 :: e.lovezhishou.com
 0.0.0.0 e.meizhuanghe.com
@@ -39447,6 +39453,8 @@
 :: m.doodlemobile.com
 0.0.0.0 m.dxectas1.cn
 :: m.dxectas1.cn
+0.0.0.0 m.edo5.com
+:: m.edo5.com
 0.0.0.0 m.ennmt.com
 :: m.ennmt.com
 0.0.0.0 m.exactag.com
@@ -39553,6 +39561,8 @@
 :: m.kzqcs.com
 0.0.0.0 m.laigame7.net
 :: m.laigame7.net
+0.0.0.0 m.lancedu.com
+:: m.lancedu.com
 0.0.0.0 m.laoqu123.com
 :: m.laoqu123.com
 0.0.0.0 m.loading-content.net
@@ -39667,6 +39677,8 @@
 :: m.trk44.mobi
 0.0.0.0 m.tstore.co.kr
 :: m.tstore.co.kr
+0.0.0.0 m.tuopp.com
+:: m.tuopp.com
 0.0.0.0 m.uc123.com
 :: m.uc123.com
 0.0.0.0 m.uczzd.cn
@@ -42771,6 +42783,8 @@
 :: nc2199.eden5.netclusive.de
 0.0.0.0 ncads.s3.amazonaws.com
 :: ncads.s3.amazonaws.com
+0.0.0.0 nch.xnghmc.com
+:: nch.xnghmc.com
 0.0.0.0 ncjmw.saqibsiddiqui.com
 :: ncjmw.saqibsiddiqui.com
 0.0.0.0 nckjt5pq2tdhbh9biczu.businessrulesanalysis.com
@@ -52169,6 +52183,8 @@
 :: s2r.tut.by
 0.0.0.0 s2trade.mtxcapital.com
 :: s2trade.mtxcapital.com
+0.0.0.0 s3-1-w.amazonaws.com
+:: s3-1-w.amazonaws.com
 0.0.0.0 s3-tracking.synthasite.net.s3.amazonaws.com
 :: s3-tracking.synthasite.net.s3.amazonaws.com
 0.0.0.0 s3.ongsono.com
@@ -52821,6 +52837,8 @@
 :: saxs.sina.cn
 0.0.0.0 saxs.sina.com.cn
 :: saxs.sina.com.cn
+0.0.0.0 saxxaz.taohuayuan8888.com
+:: saxxaz.taohuayuan8888.com
 0.0.0.0 sayac.hurriyet.com.tr
 :: sayac.hurriyet.com.tr
 0.0.0.0 saytospf.beget.tech
@@ -55509,6 +55527,8 @@
 :: ssgg.chazidian.com
 0.0.0.0 ssgsna7n.beget.tech
 :: ssgsna7n.beget.tech
+0.0.0.0 ssh.517pass.com
+:: ssh.517pass.com
 0.0.0.0 sshhsvv.beckmenlaw.info
 :: sshhsvv.beckmenlaw.info
 0.0.0.0 ssknbvc.beckmanlawfirm.org
@@ -65315,6 +65335,8 @@
 :: www.17zhaole.com
 0.0.0.0 www.18access.com
 :: www.18access.com
+0.0.0.0 www.18dusun.com
+:: www.18dusun.com
 0.0.0.0 www.1933000.com
 :: www.1933000.com
 0.0.0.0 www.1clickdownloader.com
@@ -67227,6 +67249,8 @@
 :: www.guesstheview.com
 0.0.0.0 www.gwebspace.de
 :: www.gwebspace.de
+0.0.0.0 www.gxdhgb.com
+:: www.gxdhgb.com
 0.0.0.0 www.h3h2h1.com
 :: www.h3h2h1.com
 0.0.0.0 www.hacker-reporte.net
@@ -71143,8 +71167,6 @@
 :: ytapi1.nagezan.net
 0.0.0.0 ytrest84y5i456hghadefdsd.pontogrot.com
 :: ytrest84y5i456hghadefdsd.pontogrot.com
-0.0.0.0 yts.ytsyyey.com
-:: yts.ytsyyey.com
 0.0.0.0 yuarra.pluto.ro
 :: yuarra.pluto.ro
 0.0.0.0 yue.uaesoa.net
