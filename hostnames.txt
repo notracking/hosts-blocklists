@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Jun 23 05:08:25 CEST 2018
+# Last update: Sun Jun 24 05:02:57 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35909
+# Number of unique hostnames: 35927
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3171,6 +3171,8 @@
 :: accountid-secure-signin.com-service-userid-authentication.com
 0.0.0.0 accounting.ceramikaczary.pl
 :: accounting.ceramikaczary.pl
+0.0.0.0 accountpaginas.000webhostapp.com
+:: accountpaginas.000webhostapp.com
 0.0.0.0 accounts-cleim.000webhostapp.com
 :: accounts-cleim.000webhostapp.com
 0.0.0.0 accounts-cp85.webprestashop.com
@@ -12905,6 +12907,8 @@
 :: agl.hotstar.com
 0.0.0.0 aglink.mircx.com
 :: aglink.mircx.com
+0.0.0.0 agmbumcqfwyjgry.fgppchg.fgpp.com
+:: agmbumcqfwyjgry.fgppchg.fgpp.com
 0.0.0.0 agn.aty.cp45.ott.cibntv.net
 :: agn.aty.cp45.ott.cibntv.net
 0.0.0.0 agn.aty.snmsohu.aisee.tv
@@ -16039,6 +16043,8 @@
 :: azebony.cu.ma
 0.0.0.0 azixwkmrp.ns2.name
 :: azixwkmrp.ns2.name
+0.0.0.0 azizrx6206.000webhostapp.com
+:: azizrx6206.000webhostapp.com
 0.0.0.0 azjatki.qii.pl
 :: azjatki.qii.pl
 0.0.0.0 azoos.csheaven.com
@@ -22955,6 +22961,8 @@
 :: confirm-online-managelimit-verifynow.culturedafrica.com
 0.0.0.0 confirm-referer.glrsales.com
 :: confirm-referer.glrsales.com
+0.0.0.0 confirm-your-account.information.pedelectric.com.au
+:: confirm-your-account.information.pedelectric.com.au
 0.0.0.0 confirm.bigbuoy.net
 :: confirm.bigbuoy.net
 0.0.0.0 confirmacao-itokenbank.uni5.net
@@ -22999,6 +23007,8 @@
 :: connect.secure.wellsfargo.com.auth.login.present.origin.coberror.yeslob.consdestination.accountsummary.fortunepress.com.au
 0.0.0.0 connect.secure.wellsfargo.com.denotesoft.com
 :: connect.secure.wellsfargo.com.denotesoft.com
+0.0.0.0 connect.securelauthlogin.dolpresent-origin.cobllob.cons.maiamotos.com.br
+:: connect.securelauthlogin.dolpresent-origin.cobllob.cons.maiamotos.com.br
 0.0.0.0 connect.summit.co.uk
 :: connect.summit.co.uk
 0.0.0.0 connectsecureauth.000webhostapp.com
@@ -23205,6 +23215,8 @@
 :: corp.sts.microsoft.com
 0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com
 :: corpext.msitadfs.glbdns2.microsoft.com
+0.0.0.0 corpoclinico.med.br
+:: corpoclinico.med.br
 0.0.0.0 corpomagico.art.br
 :: corpomagico.art.br
 0.0.0.0 corptechservices.com.au.onlinesecuredocumentdocumentviewaccount.com.corptachservices.com
@@ -26181,6 +26193,8 @@
 :: deoi3kwqhv0d5.cloudfront.net
 0.0.0.0 depart.febriansptr.tk
 :: depart.febriansptr.tk
+0.0.0.0 departamentopessoaldeofertas-com.umbler.net
+:: departamentopessoaldeofertas-com.umbler.net
 0.0.0.0 depo.realist.gen.tr
 :: depo.realist.gen.tr
 0.0.0.0 deposit-gift8424.style-el.com
@@ -27567,6 +27581,8 @@
 :: dsh1ct2zrfakt.cloudfront.net
 0.0.0.0 dsh7ky7308k4b.cloudfront.net
 :: dsh7ky7308k4b.cloudfront.net
+0.0.0.0 dshjsdhjdsjhdsuydsy6dsuy.000webhostapp.com
+:: dshjsdhjdsjhdsuydsy6dsuy.000webhostapp.com
 0.0.0.0 dsknso.abadsupermarket.com
 :: dsknso.abadsupermarket.com
 0.0.0.0 dsms0mj1bbhn4.cloudfront.net
@@ -29111,6 +29127,8 @@
 :: ex.umengcloud.com
 0.0.0.0 exad.mmo1vn.com
 :: exad.mmo1vn.com
+0.0.0.0 exalted-averages.000webhostapp.com
+:: exalted-averages.000webhostapp.com
 0.0.0.0 example.xerxies.net
 :: example.xerxies.net
 0.0.0.0 excellent.michaelanthonyrobinson.com
@@ -34255,8 +34273,6 @@
 :: i-sn2-cor001.api.p001.1drv.com
 0.0.0.0 i-sn2-cor002.api.p001.1drv.com
 :: i-sn2-cor002.api.p001.1drv.com
-0.0.0.0 i-technet.sec.s-msft.com
-:: i-technet.sec.s-msft.com
 0.0.0.0 i.1cat.com
 :: i.1cat.com
 0.0.0.0 i.1o26.com
@@ -42549,6 +42565,8 @@
 :: musicmaargarit63.uk.to
 0.0.0.0 muv.famousintactswitch.com
 :: muv.famousintactswitch.com
+0.0.0.0 muzafferss.000webhostapp.com
+:: muzafferss.000webhostapp.com
 0.0.0.0 mv.treehousei.com
 :: mv.treehousei.com
 0.0.0.0 mvads.kugou.com
@@ -46801,6 +46819,8 @@
 :: paypal-verification-comptes.backup.fluctis.com
 0.0.0.0 paypal-webapps-vertify.ferazha.com
 :: paypal-webapps-vertify.ferazha.com
+0.0.0.0 paypal-webapps.ae-a1th.com
+:: paypal-webapps.ae-a1th.com
 0.0.0.0 paypal-webapps.tzavas.com
 :: paypal-webapps.tzavas.com
 0.0.0.0 paypal-webapps.vertify-updated.com
@@ -46903,6 +46923,8 @@
 :: paypal.com.signin.country.xgblocale.xengb.lindamay.com.au
 0.0.0.0 paypal.com.signin.de.webapps.mpp.home.signin.country.xdelocale.xendelocale.thedaze.info
 :: paypal.com.signin.de.webapps.mpp.home.signin.country.xdelocale.xendelocale.thedaze.info
+0.0.0.0 paypal.com.signin.security-confirmations-subscribtion.com
+:: paypal.com.signin.security-confirmations-subscribtion.com
 0.0.0.0 paypal.com.signin.webapps.com-unsualactivity.cf
 :: paypal.com.signin.webapps.com-unsualactivity.cf
 0.0.0.0 paypal.com.ticket-case-ld-3651326.info
@@ -47369,6 +47391,8 @@
 :: pei-ads.playboy.com
 0.0.0.0 pei-ads.thesmokingjacket.com
 :: pei-ads.thesmokingjacket.com
+0.0.0.0 peindre.asso.fr
+:: peindre.asso.fr
 0.0.0.0 pelli.mzf.cz
 :: pelli.mzf.cz
 0.0.0.0 pen.kidsonboats.net
@@ -47959,6 +47983,8 @@
 :: pixel-eu.rubiconproject.net.akadns.net
 0.0.0.0 pixel-hk.pixelinteractivemedia.com
 :: pixel-hk.pixelinteractivemedia.com
+0.0.0.0 pixel-secure.solvemedia.com
+:: pixel-secure.solvemedia.com
 0.0.0.0 pixel.1und1.de
 :: pixel.1und1.de
 0.0.0.0 pixel.alexametrics.com
@@ -48023,6 +48049,8 @@
 :: pixel.rubiconproject.net.akadns.net
 0.0.0.0 pixel.serviceleverage.com
 :: pixel.serviceleverage.com
+0.0.0.0 pixel.solvemedia.com
+:: pixel.solvemedia.com
 0.0.0.0 pixel.staging.tree.com
 :: pixel.staging.tree.com
 0.0.0.0 pixel.staticworld.net
@@ -49947,6 +49975,8 @@
 :: pups.bdimg.com
 0.0.0.0 pupu.xnhh120.com
 :: pupu.xnhh120.com
+0.0.0.0 purchase-protection-online-secure.s-host.net
+:: purchase-protection-online-secure.s-host.net
 0.0.0.0 purloined-restraint.000webhostapp.com
 :: purloined-restraint.000webhostapp.com
 0.0.0.0 purno.geit.nu
@@ -53517,6 +53547,8 @@
 :: secure-googledoc.boulderentertainmentllc.com
 0.0.0.0 secure-info-2018.000webhostapp.com
 :: secure-info-2018.000webhostapp.com
+0.0.0.0 secure-login.intl.service-costumer-account.xyz
+:: secure-login.intl.service-costumer-account.xyz
 0.0.0.0 secure-paypal.account.page.update.clasesdeguitarralima.com
 :: secure-paypal.account.page.update.clasesdeguitarralima.com
 0.0.0.0 secure-paypal.account.page.update.togasmillenium.com
@@ -61219,6 +61251,8 @@
 :: twoj-test-iq.blogspot.com
 0.0.0.0 twojpodgaladcz.glt.pl
 :: twojpodgaladcz.glt.pl
+0.0.0.0 twomanonewarfare.000webhostapp.com
+:: twomanonewarfare.000webhostapp.com
 0.0.0.0 twoytuswrks.000webhostapp.com
 :: twoytuswrks.000webhostapp.com
 0.0.0.0 tx.micro.net.pk
@@ -64649,6 +64683,8 @@
 :: westeruniolon.000webhostapp.com
 0.0.0.0 westfieldsports.nsw.edu.au
 :: westfieldsports.nsw.edu.au
+0.0.0.0 westpaconline.alwaysdata.net
+:: westpaconline.alwaysdata.net
 0.0.0.0 wetblog.lindachan.net
 :: wetblog.lindachan.net
 0.0.0.0 wetjane.x10.mx
