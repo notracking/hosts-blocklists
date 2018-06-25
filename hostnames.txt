@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Jun 24 05:02:57 CEST 2018
+# Last update: Mon Jun 25 05:04:56 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35927
+# Number of unique hostnames: 35940
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -11935,6 +11935,8 @@
 :: adv.s8bbs.com
 0.0.0.0 adv.satsis.info
 :: adv.satsis.info
+0.0.0.0 adv.sec.intl.miui.com
+:: adv.sec.intl.miui.com
 0.0.0.0 adv.sec.miui.com
 :: adv.sec.miui.com
 0.0.0.0 adv.speednet.bg
@@ -14443,6 +14445,8 @@
 :: api.bee7.com
 0.0.0.0 api.bitp.it
 :: api.bitp.it
+0.0.0.0 api.brs.intl.miui.com
+:: api.brs.intl.miui.com
 0.0.0.0 api.c.avazunativeads.com
 :: api.c.avazunativeads.com
 0.0.0.0 api.cheatsheet.me
@@ -14453,6 +14457,8 @@
 :: api.cloudmobi.net
 0.0.0.0 api.cmt.mob.com
 :: api.cmt.mob.com
+0.0.0.0 api.collect.data.intl.miui.com
+:: api.collect.data.intl.miui.com
 0.0.0.0 api.contextly.com
 :: api.contextly.com
 0.0.0.0 api.coolguang.com
@@ -14503,6 +14509,8 @@
 :: api.goulegu.com
 0.0.0.0 api.hostip.info
 :: api.hostip.info
+0.0.0.0 api.hybrid.intl.xiaomi.com
+:: api.hybrid.intl.xiaomi.com
 0.0.0.0 api.iapps.ifeng.com
 :: api.iapps.ifeng.com
 0.0.0.0 api.iflychat.com
@@ -14565,6 +14573,10 @@
 :: api.rees46.com
 0.0.0.0 api.salesfeed.com
 :: api.salesfeed.com
+0.0.0.0 api.sec.intl.miui.com
+:: api.sec.intl.miui.com
+0.0.0.0 api.setting.intl.miui.com
+:: api.setting.intl.miui.com
 0.0.0.0 api.share.baidu.com
 :: api.share.baidu.com
 0.0.0.0 api.share.mob.com
@@ -15809,6 +15821,8 @@
 :: auth.ameli.assurance.maladie.moncompte.clients.crustiforme.net
 0.0.0.0 auth20120430.getjar.com
 :: auth20120430.getjar.com
+0.0.0.0 authbe.sec.intl.miui.com
+:: authbe.sec.intl.miui.com
 0.0.0.0 authentication.newbmo.com
 :: authentication.newbmo.com
 0.0.0.0 authenticationportal.weebly.com
@@ -25701,6 +25715,8 @@
 :: data.replacingobservedlose.info
 0.0.0.0 data.ritzcarlton.com
 :: data.ritzcarlton.com
+0.0.0.0 data.sec.intl.miui.com
+:: data.sec.intl.miui.com
 0.0.0.0 data.waptime.cn
 :: data.waptime.cn
 0.0.0.0 data0.bell.ca
@@ -30473,6 +30489,8 @@
 :: flash.all-stars.pl
 0.0.0.0 flash.banners-service.info
 :: flash.banners-service.info
+0.0.0.0 flash.sec.intl.miui.com
+:: flash.sec.intl.miui.com
 0.0.0.0 flash.vg.no
 :: flash.vg.no
 0.0.0.0 flashbanners.static.ard.sexplaycam.com
@@ -35315,6 +35333,8 @@
 :: img2.jiuzhilan.com
 0.0.0.0 img2.km.com
 :: img2.km.com
+0.0.0.0 img2.pengfu.net
+:: img2.pengfu.net
 0.0.0.0 img2.qekun.com
 :: img2.qekun.com
 0.0.0.0 img2.ru.redtram.com
@@ -54455,6 +54475,8 @@
 :: sgg.southcn.com
 0.0.0.0 sgikjkjftfg.webstarterz.com
 :: sgikjkjftfg.webstarterz.com
+0.0.0.0 sgp.o2o.api.xiaomi.com
+:: sgp.o2o.api.xiaomi.com
 0.0.0.0 sgpes.trt11.jus.br
 :: sgpes.trt11.jus.br
 0.0.0.0 sgs.us.com
@@ -66125,6 +66147,8 @@
 :: www.anywhere.com
 0.0.0.0 www.aombjl099.com
 :: www.aombjl099.com
+0.0.0.0 www.api.ad.intl.xiaomi.com
+:: www.api.ad.intl.xiaomi.com
 0.0.0.0 www.appafile.com
 :: www.appafile.com
 0.0.0.0 www.appartamentiflora.com
@@ -69913,6 +69937,8 @@
 :: www.updatesoftwaresend.com
 0.0.0.0 www.updatestar.com
 :: www.updatestar.com
+0.0.0.0 www.upgradeexplorer.com
+:: www.upgradeexplorer.com
 0.0.0.0 www.upi6.pillsstore-c.com
 :: www.upi6.pillsstore-c.com
 0.0.0.0 www.uploadh.com
