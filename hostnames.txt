@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Jun 25 05:04:56 CEST 2018
+# Last update: Tue Jun 26 05:06:03 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35940
+# Number of unique hostnames: 35949
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2823,6 +2823,10 @@
 :: a55.suntimes.com
 0.0.0.0 a55barin.000webhostapp.com
 :: a55barin.000webhostapp.com
+0.0.0.0 a6.bjdianyue.com
+:: a6.bjdianyue.com
+0.0.0.0 a6.taobanapp.com
+:: a6.taobanapp.com
 0.0.0.0 a615.ac-images.myspacecdn.com
 :: a615.ac-images.myspacecdn.com
 0.0.0.0 a64gfdsjhb4htbiwaysbdvukyft5q.zobodine.at
@@ -14551,6 +14555,8 @@
 :: api.naturaltracking.com
 0.0.0.0 api.newad.ifeng.com
 :: api.newad.ifeng.com
+0.0.0.0 api.newbelden.com
+:: api.newbelden.com
 0.0.0.0 api.nrelate.com
 :: api.nrelate.com
 0.0.0.0 api.oneaudience.com
@@ -14857,6 +14863,8 @@
 :: app.50bang.org
 0.0.0.0 app.5211hui.com
 :: app.5211hui.com
+0.0.0.0 app.9yyg.cn
+:: app.9yyg.cn
 0.0.0.0 app.acm.dzwww.com
 :: app.acm.dzwww.com
 0.0.0.0 app.activetrail.com
@@ -19801,6 +19809,8 @@
 :: c5cfj87zsfptafpudws2.littlematchagirl.com.au
 0.0.0.0 c5ctb655.caspio.com
 :: c5ctb655.caspio.com
+0.0.0.0 c6.bjdianyue.com
+:: c6.bjdianyue.com
 0.0.0.0 c6.edgesuite.net
 :: c6.edgesuite.net
 0.0.0.0 c6.friok.com
@@ -21353,8 +21363,6 @@
 :: cfsparts.declare-enlignes.com
 0.0.0.0 cfstrpostfiscal-001-site1.etempurl.com
 :: cfstrpostfiscal-001-site1.etempurl.com
-0.0.0.0 cfvod.kaltura.com
-:: cfvod.kaltura.com
 0.0.0.0 cg-global.maxymiser.com
 :: cg-global.maxymiser.com
 0.0.0.0 cgcgff.servicemanagementforumusa.com
@@ -34361,6 +34369,8 @@
 :: i.serves.live
 0.0.0.0 i.smartwebads.com
 :: i.smartwebads.com
+0.0.0.0 i.ssix.io
+:: i.ssix.io
 0.0.0.0 i.static.zaplata.bg
 :: i.static.zaplata.bg
 0.0.0.0 i.syasn.com
@@ -35137,6 +35147,8 @@
 :: img.coldstoragemn.com
 0.0.0.0 img.contx.cn
 :: img.contx.cn
+0.0.0.0 img.cxxyft.com
+:: img.cxxyft.com
 0.0.0.0 img.dawenxue.org
 :: img.dawenxue.org
 0.0.0.0 img.df-stream.net
@@ -36045,8 +36057,6 @@
 :: ip-geo.appspot.com
 0.0.0.0 ip.hivps.xyz
 :: ip.hivps.xyz
-0.0.0.0 ip.taobao.com
-:: ip.taobao.com
 0.0.0.0 ip2.pxene.com
 :: ip2.pxene.com
 0.0.0.0 ipc.chtah.com
@@ -36945,6 +36955,8 @@
 :: js.ru.redtram.com
 0.0.0.0 js.ruiwen.com
 :: js.ruiwen.com
+0.0.0.0 js.saiqizhi.com
+:: js.saiqizhi.com
 0.0.0.0 js.sddan.com
 :: js.sddan.com
 0.0.0.0 js.selectornews.com
@@ -39829,6 +39841,8 @@
 :: m.verpt.com
 0.0.0.0 m.wankz.com
 :: m.wankz.com
+0.0.0.0 m.wgewj.cn
+:: m.wgewj.cn
 0.0.0.0 m.wjhehaofc.com
 :: m.wjhehaofc.com
 0.0.0.0 m.wnxcg.com
@@ -42399,6 +42413,8 @@
 :: ms.analytics.live.com
 0.0.0.0 ms.cnczjy.com
 :: ms.cnczjy.com
+0.0.0.0 ms.sysapr.cn
+:: ms.sysapr.cn
 0.0.0.0 ms.vipstatic.com
 :: ms.vipstatic.com
 0.0.0.0 ms.yandex.ru
@@ -45829,6 +45845,8 @@
 :: p.aty.sohu.com
 0.0.0.0 p.bdjiazanmiaomu.com
 :: p.bdjiazanmiaomu.com
+0.0.0.0 p.bjdianyue.com
+:: p.bjdianyue.com
 0.0.0.0 p.bm23.com
 :: p.bm23.com
 0.0.0.0 p.bnuni.com
@@ -56193,8 +56211,6 @@
 :: static-cdn.anetwork.ir
 0.0.0.0 static-net.nut.cc
 :: static-net.nut.cc
-0.0.0.0 static-s.iqiyi.com
-:: static-s.iqiyi.com
 0.0.0.0 static-shareaholic.s3.amazonaws.com
 :: static-shareaholic.s3.amazonaws.com
 0.0.0.0 static-ssp.yidianzixun.com
@@ -70353,6 +70369,8 @@
 :: www.yvmads.com
 0.0.0.0 www.ywvcomputerprocess.info
 :: www.ywvcomputerprocess.info
+0.0.0.0 www.z8o.cn
+:: www.z8o.cn
 0.0.0.0 www.za-ads.de
 :: www.za-ads.de
 0.0.0.0 www.zal-inkasso.de
