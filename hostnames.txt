@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Jun 27 05:17:36 CEST 2018
+# Last update: Thu Jun 28 05:03:17 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35949
+# Number of unique hostnames: 35950
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -22731,6 +22731,8 @@
 :: code.createjs.com
 0.0.0.0 code.d-agency.net
 :: code.d-agency.net
+0.0.0.0 code.ditiezu.net
+:: code.ditiezu.net
 0.0.0.0 code.egooad.com
 :: code.egooad.com
 0.0.0.0 code.front.gundam.mobile.suit.zeonic.sms13.de
