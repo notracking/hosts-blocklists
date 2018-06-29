@@ -69,7 +69,7 @@ addn-hosts=/path/to/hostnames.txt
  - https://v.firebog.net/hosts/static/w3kbl.txt
  - https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
  - https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt
- - https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser
+ - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
  - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/Spotify-Ad-free/hosts
  - https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
  - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
