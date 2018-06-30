@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Jun 29 05:02:11 CEST 2018
+# Last update: Sat Jun 30 05:13:57 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35976
+# Number of unique hostnames: 36032
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3085,6 +3085,8 @@
 :: academicplc.panyapiwat.ac.th
 0.0.0.0 acbacb9c.ipt.aol.com
 :: acbacb9c.ipt.aol.com
+0.0.0.0 acbp0020171456.page.tl
+:: acbp0020171456.page.tl
 0.0.0.0 acc-craigslist-conf.manopam.com
 :: acc-craigslist-conf.manopam.com
 0.0.0.0 acc.eu.org
@@ -15851,6 +15853,8 @@
 :: auto-ricardo.ch-view.one
 0.0.0.0 auto.allewagen.de
 :: auto.allewagen.de
+0.0.0.0 auto.mehan-pardazesh.ir
+:: auto.mehan-pardazesh.ir
 0.0.0.0 auto.rusvile.lt
 :: auto.rusvile.lt
 0.0.0.0 autoblog.org.ua
@@ -19837,6 +19841,8 @@
 :: c829aeaf4090c1289783-9ad4110c8011547ec25e241b917b5aab.r35.cf2.rackcdn.com
 0.0.0.0 c8hfxkywb7.ignition3.tv
 :: c8hfxkywb7.ignition3.tv
+0.0.0.0 ca-sas-bahiapromocoesjuninas.esy.es
+:: ca-sas-bahiapromocoesjuninas.esy.es
 0.0.0.0 ca.5173car.com
 :: ca.5173car.com
 0.0.0.0 ca.abv.bg
@@ -22287,6 +22293,8 @@
 :: clickz.lonelycheatingwives.com
 0.0.0.0 client-analytics.braintreegateway.com
 :: client-analytics.braintreegateway.com
+0.0.0.0 client-center-account-update-security-service.a1049rfjewigf.tresquarteres.cat
+:: client-center-account-update-security-service.a1049rfjewigf.tresquarteres.cat
 0.0.0.0 client-center-account-update-service.a1049rfjewigfe4w9grigrj.half-dress.net
 :: client-center-account-update-service.a1049rfjewigfe4w9grigrj.half-dress.net
 0.0.0.0 client-dmp.suishenyun.cn
@@ -22627,6 +22635,10 @@
 :: cn.clickable.net
 0.0.0.0 cn01.dwstat.cn
 :: cn01.dwstat.cn
+0.0.0.0 cn54tfw0kw.fgppchg.fgpp.com
+:: cn54tfw0kw.fgppchg.fgpp.com
+0.0.0.0 cn773bt054.fgppchg.fgpp.com
+:: cn773bt054.fgppchg.fgpp.com
 0.0.0.0 cn85240.tmweb.ru
 :: cn85240.tmweb.ru
 0.0.0.0 cnagourney.000webhostapp.com
@@ -22787,6 +22799,14 @@
 :: cof.tracking.priberam.pt
 0.0.0.0 coin-hive-proxy-ybydcnjgkl.now.sh
 :: coin-hive-proxy-ybydcnjgkl.now.sh
+0.0.0.0 coin-hive-stratum-bqywuwxwij.now.sh
+:: coin-hive-stratum-bqywuwxwij.now.sh
+0.0.0.0 coin-hive-stratum-cilswgfvet.now.sh
+:: coin-hive-stratum-cilswgfvet.now.sh
+0.0.0.0 coin-hive-stratum-fcwcduvpjs.now.sh
+:: coin-hive-stratum-fcwcduvpjs.now.sh
+0.0.0.0 coin-hive-stratum-yvvbqoavck.now.sh
+:: coin-hive-stratum-yvvbqoavck.now.sh
 0.0.0.0 coincoquin.free.fr
 :: coincoquin.free.fr
 0.0.0.0 col.hztags.net
@@ -23105,6 +23125,8 @@
 :: content.s8bbs.com
 0.0.0.0 content.seerealgirls.com
 :: content.seerealgirls.com
+0.0.0.0 content.streamplay.to
+:: content.streamplay.to
 0.0.0.0 content.surpax.net
 :: content.surpax.net
 0.0.0.0 content.synapsys.us
@@ -25521,6 +25543,8 @@
 :: daarmowe-doladowania.ovp.pl
 0.0.0.0 dabiank.netsons.org
 :: dabiank.netsons.org
+0.0.0.0 dacash.streamplay.to
+:: dacash.streamplay.to
 0.0.0.0 dadossolicitado-antendimento.sad879.mobi
 :: dadossolicitado-antendimento.sad879.mobi
 0.0.0.0 dads.new.digg.com
@@ -26311,6 +26335,8 @@
 :: dev.appleleafabstracting.com
 0.0.0.0 dev.beverlyseip.ca
 :: dev.beverlyseip.ca
+0.0.0.0 dev.cenov.fr
+:: dev.cenov.fr
 0.0.0.0 dev.comstockcompanies.com
 :: dev.comstockcompanies.com
 0.0.0.0 dev.dc.letv.com
@@ -28123,6 +28149,8 @@
 :: ea.zebestof.com
 0.0.0.0 eab18fo.epizy.com
 :: eab18fo.epizy.com
+0.0.0.0 eacash.streamplay.to
+:: eacash.streamplay.to
 0.0.0.0 eaglepeakcontainers.000webhostapp.com
 :: eaglepeakcontainers.000webhostapp.com
 0.0.0.0 eap.big5.enorth.com.cn
@@ -30283,6 +30311,8 @@
 :: fghuhiolugkyfjthddtjfykgjlhk.000webhostapp.com
 0.0.0.0 fgnfdfthrv.bee.pl
 :: fgnfdfthrv.bee.pl
+0.0.0.0 fgppdc1.fgppchg.fgpp.com
+:: fgppdc1.fgppchg.fgpp.com
 0.0.0.0 fgppterminal.fgppchg.fgpp.com
 :: fgppterminal.fgppchg.fgpp.com
 0.0.0.0 fgts-caixa.esy.es
@@ -30327,6 +30357,8 @@
 :: fidgetspinner.5v.pl
 0.0.0.0 fidicaldesk006.000webhostapp.com
 :: fidicaldesk006.000webhostapp.com
+0.0.0.0 fido-overcharging.easydepodirect7ca.com
+:: fido-overcharging.easydepodirect7ca.com
 0.0.0.0 fieldtrip.edina.ac.uk
 :: fieldtrip.edina.ac.uk
 0.0.0.0 fifa13.visits.lt
@@ -36941,6 +36973,8 @@
 :: js.flunion.cn
 0.0.0.0 js.francite.com
 :: js.francite.com
+0.0.0.0 js.ftp0118.info
+:: js.ftp0118.info
 0.0.0.0 js.goods.redtram.com
 :: js.goods.redtram.com
 0.0.0.0 js.hcw888.com
@@ -41773,6 +41807,8 @@
 :: microsoft365-secured-documentfile.000webhostapp.com
 0.0.0.0 microsoft81.webnode.com
 :: microsoft81.webnode.com
+0.0.0.0 microsoftexchangeeltu6.890m.com
+:: microsoftexchangeeltu6.890m.com
 0.0.0.0 microsoftlive.000webhostapp.com
 :: microsoftlive.000webhostapp.com
 0.0.0.0 microsofto.sytes.net
@@ -46967,6 +47003,8 @@
 :: paypal.com.confirmations.refund.purchase.jelmal.org
 0.0.0.0 paypal.com.ecoteh.org
 :: paypal.com.ecoteh.org
+0.0.0.0 paypal.com.enrichingcreations.com
+:: paypal.com.enrichingcreations.com
 0.0.0.0 paypal.com.es.webapps.mpp.home.almouta3alim.com
 :: paypal.com.es.webapps.mpp.home.almouta3alim.com
 0.0.0.0 paypal.com.es.webapps.mpp.home.servicio.almouta3alim.com
@@ -48255,10 +48293,22 @@
 :: play.estream.nu
 0.0.0.0 play.estream.to
 :: play.estream.to
+0.0.0.0 play.estream.xyz
+:: play.estream.xyz
 0.0.0.0 play.js.vidoza.net
 :: play.js.vidoza.net
 0.0.0.0 play.leadzu.com
 :: play.leadzu.com
+0.0.0.0 play.malictuiar.com
+:: play.malictuiar.com
+0.0.0.0 play.play.estream.nu
+:: play.play.estream.nu
+0.0.0.0 play.play.estream.to
+:: play.play.estream.to
+0.0.0.0 play.play.estream.xyz
+:: play.play.estream.xyz
+0.0.0.0 play.play.vidzi.tv
+:: play.play.vidzi.tv
 0.0.0.0 play.site.flashx.cc
 :: play.site.flashx.cc
 0.0.0.0 play.stream.vidzi.tv
@@ -49701,6 +49751,8 @@
 :: proxies.seecosmetics.com
 0.0.0.0 proximityads.flipcorp.com
 :: proximityads.flipcorp.com
+0.0.0.0 proxy-ddsjfhkmnk.now.sh
+:: proxy-ddsjfhkmnk.now.sh
 0.0.0.0 proxy-khlizawelj.now.sh
 :: proxy-khlizawelj.now.sh
 0.0.0.0 proxy.ajcryptominer.com
@@ -51591,6 +51643,8 @@
 :: rewdedaa.gratisdejtingsajter.com
 0.0.0.0 rexafajay.axfree.com
 :: rexafajay.axfree.com
+0.0.0.0 rfaguvqdurjdout.fgppchg.fgpp.com
+:: rfaguvqdurjdout.fgppchg.fgpp.com
 0.0.0.0 rfemfxnm.cz.cc
 :: rfemfxnm.cz.cc
 0.0.0.0 rfga5e4gn545.altervista.org
@@ -52403,12 +52457,22 @@
 :: s2.ipicture.ru
 0.0.0.0 s2.kuaibaopay.com
 :: s2.kuaibaopay.com
+0.0.0.0 s2.play.estream.nu
+:: s2.play.estream.nu
+0.0.0.0 s2.play.estream.to
+:: s2.play.estream.to
+0.0.0.0 s2.play.estream.xyz
+:: s2.play.estream.xyz
+0.0.0.0 s2.play.vidzi.tv
+:: s2.play.vidzi.tv
 0.0.0.0 s2.rotaban.ru
 :: s2.rotaban.ru
 0.0.0.0 s2.socialannex.com
 :: s2.socialannex.com
 0.0.0.0 s2.video.estream.nu
 :: s2.video.estream.nu
+0.0.0.0 s2.video2.stream.vidzi.tv
+:: s2.video2.stream.vidzi.tv
 0.0.0.0 s2.vidtod.me
 :: s2.vidtod.me
 0.0.0.0 s2.yandui.com
@@ -52429,16 +52493,30 @@
 :: s2epkvrholwuax5ftfuf.maherstcottage.com.au
 0.0.0.0 s2hd-plugincom-maynemyltf.netdna-ssl.com
 :: s2hd-plugincom-maynemyltf.netdna-ssl.com
+0.0.0.0 s2p.estream.to
+:: s2p.estream.to
 0.0.0.0 s2r.tut.by
 :: s2r.tut.by
 0.0.0.0 s2trade.mtxcapital.com
 :: s2trade.mtxcapital.com
 0.0.0.0 s3-tracking.synthasite.net.s3.amazonaws.com
 :: s3-tracking.synthasite.net.s3.amazonaws.com
+0.0.0.0 s3.malictuiar.com
+:: s3.malictuiar.com
 0.0.0.0 s3.ongsono.com
 :: s3.ongsono.com
+0.0.0.0 s3.play.estream.nu
+:: s3.play.estream.nu
+0.0.0.0 s3.play.estream.to
+:: s3.play.estream.to
+0.0.0.0 s3.play.estream.xyz
+:: s3.play.estream.xyz
+0.0.0.0 s3.play.vidzi.tv
+:: s3.play.vidzi.tv
 0.0.0.0 s3.video.estream.nu
 :: s3.video.estream.nu
+0.0.0.0 s3.video2.stream.vidzi.tv
+:: s3.video2.stream.vidzi.tv
 0.0.0.0 s3.vidtod.me
 :: s3.vidtod.me
 0.0.0.0 s32.bilsay.com
@@ -52447,6 +52525,8 @@
 :: s32.research.de.com
 0.0.0.0 s3cur3.altervista.org
 :: s3cur3.altervista.org
+0.0.0.0 s3p.estream.to
+:: s3p.estream.to
 0.0.0.0 s3r.tut.by
 :: s3r.tut.by
 0.0.0.0 s4.55.la
@@ -52523,6 +52603,8 @@
 :: sacdcad03.salon.com
 0.0.0.0 sackabare.ac.ke
 :: sackabare.ac.ke
+0.0.0.0 sacrilegious-gasket.000webhostapp.com
+:: sacrilegious-gasket.000webhostapp.com
 0.0.0.0 sacurity-centre-2017.000webhostapp.com
 :: sacurity-centre-2017.000webhostapp.com
 0.0.0.0 sacurity-info-notifiction2018.000webhostapp.com
@@ -52895,6 +52977,8 @@
 :: safetycenntre2018.000webhostapp.com
 0.0.0.0 safetyfb2018.000webhostapp.com
 :: safetyfb2018.000webhostapp.com
+0.0.0.0 safra.moduloativo.com
+:: safra.moduloativo.com
 0.0.0.0 safsaf1992.000webhostapp.com
 :: safsaf1992.000webhostapp.com
 0.0.0.0 sagem.2616.sms13.de
@@ -55687,6 +55771,8 @@
 :: spt.goldcoastguitarteacher.com.au
 0.0.0.0 spurned-checkpoints.000webhostapp.com
 :: spurned-checkpoints.000webhostapp.com
+0.0.0.0 spwu9iu4.apps.lair.io
+:: spwu9iu4.apps.lair.io
 0.0.0.0 spyhunter-download.s3.amazonaws.com
 :: spyhunter-download.s3.amazonaws.com
 0.0.0.0 spykit.110mb.com
@@ -56855,6 +56941,8 @@
 :: stats.indextools.com
 0.0.0.0 stats.inergizedigitalmedia.com
 :: stats.inergizedigitalmedia.com
+0.0.0.0 stats.infogenservice.com
+:: stats.infogenservice.com
 0.0.0.0 stats.infomedia.net
 :: stats.infomedia.net
 0.0.0.0 stats.infzm.com
@@ -59353,6 +59441,8 @@
 :: topsites.cearchives.com
 0.0.0.0 tor.redlightcenter.com
 :: tor.redlightcenter.com
+0.0.0.0 torieselamstromoredungroibansk-omnivorous-largeness.mybluemix.net
+:: torieselamstromoredungroibansk-omnivorous-largeness.mybluemix.net
 0.0.0.0 torpedo.feminice.com.br
 :: torpedo.feminice.com.br
 0.0.0.0 torque.bittorrent.com
@@ -61439,6 +61529,8 @@
 :: u2.s.minisplat.cn
 0.0.0.0 u24er.ovaarmor.com
 :: u24er.ovaarmor.com
+0.0.0.0 u532344488.hostingerapp.com
+:: u532344488.hostingerapp.com
 0.0.0.0 u54bbnhf354fbkh254tbkhjbgy8258gnkwerg.tahaplap.com
 :: u54bbnhf354fbkh254tbkhjbgy8258gnkwerg.tahaplap.com
 0.0.0.0 u6543ewfgh.dyndns-work.com
@@ -62179,6 +62271,8 @@
 :: updat120.clanteam.com
 0.0.0.0 update-account-information.com.cgi-bin.cgi-bin.webscrcmd-login-submit.ipds.org.np
 :: update-account-information.com.cgi-bin.cgi-bin.webscrcmd-login-submit.ipds.org.np
+0.0.0.0 update-account-infos.mysepaducloud.com
+:: update-account-infos.mysepaducloud.com
 0.0.0.0 update-account-payments.lawunioninsurance.com
 :: update-account-payments.lawunioninsurance.com
 0.0.0.0 update-account.2017-support.team.comerv0.webs0801cr-cm-lgint-id-l0gin-subpp1-login-login-yah.dgryapi.com
@@ -62949,6 +63043,8 @@
 :: vcs3pzysrk75b5ime64j.alfacomercial.com.br
 0.0.0.0 vcu.collserve.com
 :: vcu.collserve.com
+0.0.0.0 vcuwyfoocergpjx.fgppchg.fgpp.com
+:: vcuwyfoocergpjx.fgppchg.fgpp.com
 0.0.0.0 vd-p-r-o-x-y.ri.la
 :: vd-p-r-o-x-y.ri.la
 0.0.0.0 vd.l.qq.com
@@ -63175,6 +63271,8 @@
 :: video.cynogage.com
 0.0.0.0 video.entertaintastic.com
 :: video.entertaintastic.com
+0.0.0.0 video.estream.nu
+:: video.estream.nu
 0.0.0.0 video.sexstorage.net
 :: video.sexstorage.net
 0.0.0.0 video.stream.vidzi.tv
@@ -63191,6 +63289,8 @@
 :: video.videos.vidto.me
 0.0.0.0 video.wap.mpush.qq.com
 :: video.wap.mpush.qq.com
+0.0.0.0 video2.stream.vidzi.tv
+:: video2.stream.vidzi.tv
 0.0.0.0 videoads.theonion.com
 :: videoads.theonion.com
 0.0.0.0 videochat.tv.br
@@ -64403,6 +64503,8 @@
 :: webhosting-ads.home.pl
 0.0.0.0 webindexxg.temp.swtest.ru
 :: webindexxg.temp.swtest.ru
+0.0.0.0 webinfoor.craym.eu
+:: webinfoor.craym.eu
 0.0.0.0 webinline-usage.streamesh.net
 :: webinline-usage.streamesh.net
 0.0.0.0 webinline.look4like.com
@@ -64763,6 +64865,8 @@
 :: wertunge.paladin-global.net
 0.0.0.0 wes.df.telemetry.microsoft.com
 :: wes.df.telemetry.microsoft.com
+0.0.0.0 wesre4554tterunionfrancislouis.000webhostapp.com
+:: wesre4554tterunionfrancislouis.000webhostapp.com
 0.0.0.0 west.indianmedicalsupplies.org
 :: west.indianmedicalsupplies.org
 0.0.0.0 west.thecarseatcompany.com
@@ -65351,12 +65455,18 @@
 :: ws.yellowpages.ca
 0.0.0.0 ws01.do.nu
 :: ws01.do.nu
+0.0.0.0 ws01cn.streamplay.to
+:: ws01cn.streamplay.to
 0.0.0.0 ws02.do.nu
 :: ws02.do.nu
+0.0.0.0 ws02cn.streamplay.to
+:: ws02cn.streamplay.to
 0.0.0.0 ws03.do.nu
 :: ws03.do.nu
 0.0.0.0 ws03.home.sapo.pt
 :: ws03.home.sapo.pt
+0.0.0.0 ws03cn.streamplay.to
+:: ws03cn.streamplay.to
 0.0.0.0 ws04.do.nu
 :: ws04.do.nu
 0.0.0.0 ws04.home.sapo.pt
@@ -67339,8 +67449,6 @@
 :: www.freeadposting.com
 0.0.0.0 www.freecamsecrets.com
 :: www.freecamsecrets.com
-0.0.0.0 www.freecontent.win
-:: www.freecontent.win
 0.0.0.0 www.freecounter.it
 :: www.freecounter.it
 0.0.0.0 www.freeelectricity.co.za
@@ -71273,6 +71381,8 @@
 :: y.shuoshuocm.com
 0.0.0.0 y.un-technologies.com
 :: y.un-technologies.com
+0.0.0.0 y1.spreton.com
+:: y1.spreton.com
 0.0.0.0 y3.ifengimg.com
 :: y3.ifengimg.com
 0.0.0.0 y3djfo.best.pershoretaxis.co.uk
@@ -71827,6 +71937,8 @@
 :: zmienkolorfejsazafree.blogspot.com
 0.0.0.0 zmienkolory.blogspot.com
 :: zmienkolory.blogspot.com
+0.0.0.0 zminer.zaloapp.com
+:: zminer.zaloapp.com
 0.0.0.0 zmoda.hostreo.com
 :: zmoda.hostreo.com
 0.0.0.0 znaptag-us.s3.amazonaws.com
