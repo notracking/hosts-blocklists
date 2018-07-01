@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Jun 30 05:13:57 CEST 2018
+# Last update: Sun Jul 1 05:03:34 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36032
+# Number of unique hostnames: 36034
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -20321,6 +20321,8 @@
 :: cd.bendibao.com
 0.0.0.0 cd23946.tmweb.ru
 :: cd23946.tmweb.ru
+0.0.0.0 cd3.ifeng.com
+:: cd3.ifeng.com
 0.0.0.0 cd31411.tmweb.ru
 :: cd31411.tmweb.ru
 0.0.0.0 cdicasup.beget.tech
@@ -30093,6 +30095,8 @@
 :: ff.guidaye.com
 0.0.0.0 ff.kanguwen.com
 :: ff.kanguwen.com
+0.0.0.0 ff.meikanguo.com
+:: ff.meikanguo.com
 0.0.0.0 ff.nsg.org.ua
 :: ff.nsg.org.ua
 0.0.0.0 ffb.feihuo.com
