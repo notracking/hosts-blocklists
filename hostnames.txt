@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Jul 1 05:03:34 CEST 2018
+# Last update: Mon Jul 2 05:06:31 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36034
+# Number of unique hostnames: 36037
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -17943,6 +17943,8 @@
 :: bdsp.x.jd.com
 0.0.0.0 bdu1.eol.cn
 :: bdu1.eol.cn
+0.0.0.0 bdunion1.suxiazai.com
+:: bdunion1.suxiazai.com
 0.0.0.0 bduserlog.eastmoney.com
 :: bduserlog.eastmoney.com
 0.0.0.0 bdx.playnext.cn
@@ -43275,6 +43277,8 @@
 :: newpictures.com.dropdocs.org
 0.0.0.0 newprose.bravejournal.com
 :: newprose.bravejournal.com
+0.0.0.0 newrutor.eu.org
+:: newrutor.eu.org
 0.0.0.0 news-cmps.cz.cc
 :: news-cmps.cz.cc
 0.0.0.0 news-img.51y5.net
@@ -58223,6 +58227,8 @@
 :: t.weltbild.de
 0.0.0.0 t.wowtrk.com
 :: t.wowtrk.com
+0.0.0.0 t.xtubetv.net
+:: t.xtubetv.net
 0.0.0.0 t.ymlp275.net
 :: t.ymlp275.net
 0.0.0.0 t0.ssl.ak.dynamic.tiles.virtualearth.net
