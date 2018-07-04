@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Jul 3 05:12:38 CEST 2018
+# Last update: Wed Jul 4 05:06:35 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36096
+# Number of unique hostnames: 36118
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3941,6 +3941,8 @@
 :: ad.hepsiburada.com
 0.0.0.0 ad.hi5.com
 :: ad.hi5.com
+0.0.0.0 ad.highsearch.co.kr
+:: ad.highsearch.co.kr
 0.0.0.0 ad.hiiir.com
 :: ad.hiiir.com
 0.0.0.0 ad.hirekmedia.hu
@@ -4345,6 +4347,8 @@
 :: ad.pixnet.in
 0.0.0.0 ad.pixnet.net
 :: ad.pixnet.net
+0.0.0.0 ad.planclick.co.kr
+:: ad.planclick.co.kr
 0.0.0.0 ad.player.baidu.com
 :: ad.player.baidu.com
 0.0.0.0 ad.playground.ru
@@ -5087,6 +5091,8 @@
 :: adagiobanner.s3.amazonaws.com
 0.0.0.0 adagiof3.repubblica.it
 :: adagiof3.repubblica.it
+0.0.0.0 adapi.inlcorp.com
+:: adapi.inlcorp.com
 0.0.0.0 adapi.lenovogame.com
 :: adapi.lenovogame.com
 0.0.0.0 adapi.ragapa.com
@@ -13249,6 +13255,8 @@
 :: alibaba.com.dongbangchem.com
 0.0.0.0 alibabab.altervista.org
 :: alibabab.altervista.org
+0.0.0.0 alibabasecureupdatelogin.com.federalstudentloansus.com
+:: alibabasecureupdatelogin.com.federalstudentloansus.com
 0.0.0.0 alibabbaa.bugs3.com
 :: alibabbaa.bugs3.com
 0.0.0.0 alibaiiba.bugs3.com
@@ -14845,6 +14853,8 @@
 :: app-1522529856.000webhostapp.com
 0.0.0.0 app-1523958731.000webhostapp.com
 :: app-1523958731.000webhostapp.com
+0.0.0.0 app-1530435750.000webhostapp.com
+:: app-1530435750.000webhostapp.com
 0.0.0.0 app-analytics.snapchat.com
 :: app-analytics.snapchat.com
 0.0.0.0 app-carrinho-americanas-iphone-6s.cq94089.tmweb.ru
@@ -18239,6 +18249,8 @@
 :: bi.softservers.net
 0.0.0.0 bibitka.ddns01.com
 :: bibitka.ddns01.com
+0.0.0.0 bibliomaniacal-cont.000webhostapp.com
+:: bibliomaniacal-cont.000webhostapp.com
 0.0.0.0 bibliophile.free.fr
 :: bibliophile.free.fr
 0.0.0.0 bibsarmaaseudussa.theinspiringapp.com
@@ -18937,6 +18949,8 @@
 :: bots.configbinbots.info
 0.0.0.0 bouda.kvalitne.cz
 :: bouda.kvalitne.cz
+0.0.0.0 boutique.grouperf.com
+:: boutique.grouperf.com
 0.0.0.0 boutiqueattraction.fanowebconsole.com
 :: boutiqueattraction.fanowebconsole.com
 0.0.0.0 boutiquell.almteam-consulting.com
@@ -19237,8 +19251,6 @@
 :: business.opera.com
 0.0.0.0 business.sharedcount.com
 :: business.sharedcount.com
-0.0.0.0 businessinsider-fr.businessinsider.fr
-:: businessinsider-fr.businessinsider.fr
 0.0.0.0 bussinesprotection.000webhostapp.com
 :: bussinesprotection.000webhostapp.com
 0.0.0.0 bussiness-protections.000webhostapp.com
@@ -19995,8 +20007,6 @@
 :: camerondiaznude.1stok.com
 0.0.0.0 camerondiaznude.ca.tt
 :: camerondiaznude.ca.tt
-0.0.0.0 caminteresse-fr.caminteresse.fr
-:: caminteresse-fr.caminteresse.fr
 0.0.0.0 camoret.in.net
 :: camoret.in.net
 0.0.0.0 camp-porno.inhit.com
@@ -20097,8 +20107,6 @@
 :: capitadw.beget.tech
 0.0.0.0 capitafu.beget.tech
 :: capitafu.beget.tech
-0.0.0.0 capital-fr.capital.fr
-:: capital-fr.capital.fr
 0.0.0.0 capital-one.com.checking.accounts.insidmaldesign.com
 :: capital-one.com.checking.accounts.insidmaldesign.com
 0.0.0.0 capital.one.comqzamart.pranavitours.com
@@ -20241,10 +20249,6 @@
 :: catalog.video.msn.com
 0.0.0.0 catalogovehiculos.dercocenter.cl
 :: catalogovehiculos.dercocenter.cl
-0.0.0.0 catalogue.membershiprewards.co.in
-:: catalogue.membershiprewards.co.in
-0.0.0.0 catalogue.membershiprewards.de
-:: catalogue.membershiprewards.de
 0.0.0.0 catchmeifyoucan5902.comli.com
 :: catchmeifyoucan5902.comli.com
 0.0.0.0 cavoice.000webhostapp.com
@@ -21741,6 +21745,8 @@
 :: chhoatrithy.000webhostapp.com
 0.0.0.0 chiatena.zxy.me
 :: chiatena.zxy.me
+0.0.0.0 chicago.rsvppublications.com
+:: chicago.rsvppublications.com
 0.0.0.0 chiem78.000webhostapp.com
 :: chiem78.000webhostapp.com
 0.0.0.0 chilitag.cloudapp.net
@@ -24133,6 +24139,8 @@
 :: ctc.japaneseanime.com
 0.0.0.0 ctc.textlinkcash.com
 :: ctc.textlinkcash.com
+0.0.0.0 ctdr.rescuegroups.org
+:: ctdr.rescuegroups.org
 0.0.0.0 ctgjzaq2y6hmveiimqzv.glamxpress.co.uk
 :: ctgjzaq2y6hmveiimqzv.glamxpress.co.uk
 0.0.0.0 ctix8.cheaptickets.com
@@ -31937,6 +31945,8 @@
 :: genesis-mining.000webhostapp.com
 0.0.0.0 geni.anas.it
 :: geni.anas.it
+0.0.0.0 genre.nut.cc
+:: genre.nut.cc
 0.0.0.0 geo.cliphunter.com
 :: geo.cliphunter.com
 0.0.0.0 geo.deepmetrix.com
@@ -32039,6 +32049,8 @@
 :: geolocation.performgroup.com
 0.0.0.0 geolocation.t-online.de
 :: geolocation.t-online.de
+0.0.0.0 geoportal-info.powiat.lukow.pl
+:: geoportal-info.powiat.lukow.pl
 0.0.0.0 geoservice.curse.com
 :: geoservice.curse.com
 0.0.0.0 geoshopping.nzherald.co.nz
@@ -32825,6 +32837,8 @@
 :: guide.infoseek.com
 0.0.0.0 guillab3.beget.tech
 :: guillab3.beget.tech
+0.0.0.0 gumncbvklodffhrhj44598fhffrj4ejjddgfddatsfamocom.000webhostapp.com
+:: gumncbvklodffhrhj44598fhffrj4ejjddgfddatsfamocom.000webhostapp.com
 0.0.0.0 gun.vrfitnesscoach.com
 :: gun.vrfitnesscoach.com
 0.0.0.0 gundam.hentai.mobile.suit.sms13.de
@@ -33309,6 +33323,8 @@
 :: helpe2.allalla.com
 0.0.0.0 helper-stats.wondershare.com
 :: helper-stats.wondershare.com
+0.0.0.0 helppage-support.webstarterz.com
+:: helppage-support.webstarterz.com
 0.0.0.0 helps-122.verifikasi-fanpage-suport982.cf
 :: helps-122.verifikasi-fanpage-suport982.cf
 0.0.0.0 helps-confrim1777.suport-acount-confrim12.ga
@@ -36035,6 +36051,8 @@
 :: instantcashloans.net.au
 0.0.0.0 instantonlineverification.usaabank.verification.fajitaritas.com
 :: instantonlineverification.usaabank.verification.fajitaritas.com
+0.0.0.0 instink.smkmfsudimoro.sch.id
+:: instink.smkmfsudimoro.sch.id
 0.0.0.0 institutomariadapenha.org.br
 :: institutomariadapenha.org.br
 0.0.0.0 instory-log.ucnews.ucweb.com
@@ -36671,6 +36689,8 @@
 :: jenniferdechant89.000webhostapp.com
 0.0.0.0 jenno.adsb4all.com
 :: jenno.adsb4all.com
+0.0.0.0 jerelo.kiev.ua
+:: jerelo.kiev.ua
 0.0.0.0 jerkiest-resolution.000webhostapp.com
 :: jerkiest-resolution.000webhostapp.com
 0.0.0.0 jesnyxa.beep.com
@@ -37263,6 +37283,8 @@
 :: junglenet-a.akamaihd.net
 0.0.0.0 junior.apk.net
 :: junior.apk.net
+0.0.0.0 junkies.igg.biz
+:: junkies.igg.biz
 0.0.0.0 junniper.mcdir.ru
 :: junniper.mcdir.ru
 0.0.0.0 juntadebeneficencia.org.ec
@@ -42377,6 +42399,8 @@
 :: moncompte-mobile.gzero.com.mx
 0.0.0.0 moncompte.ameli.fr.freepac8.beget.tech
 :: moncompte.ameli.fr.freepac8.beget.tech
+0.0.0.0 moncompte.grouperf.com
+:: moncompte.grouperf.com
 0.0.0.0 monde-pub.sdv.fr
 :: monde-pub.sdv.fr
 0.0.0.0 mondeoeffect.rambler.ru
@@ -43159,8 +43183,6 @@
 :: nellyticket.beast-space.com
 0.0.0.0 neocounter.neoworx-blog-tools.net
 :: neocounter.neoworx-blog-tools.net
-0.0.0.0 neonmag-fr.neonmag.fr
-:: neonmag-fr.neonmag.fr
 0.0.0.0 neorandom.dothome.co.kr
 :: neorandom.dothome.co.kr
 0.0.0.0 nereeapma2.temp.swtest.ru
@@ -44807,6 +44829,8 @@
 :: office.officenet.co.kr
 0.0.0.0 office.ratiss.org
 :: office.ratiss.org
+0.0.0.0 office365.com-accepted-login-continue-validation-office365.bo-lp.ml
+:: office365.com-accepted-login-continue-validation-office365.bo-lp.ml
 0.0.0.0 office365.login.dimensions-labs.com
 :: office365.login.dimensions-labs.com
 0.0.0.0 office365.login.microsoftonline.com.boffic.com
@@ -51087,6 +51111,8 @@
 :: recette.confiture.free.fr
 0.0.0.0 rechnung.safenet21.top
 :: rechnung.safenet21.top
+0.0.0.0 reciclarn.ind.br
+:: reciclarn.ind.br
 0.0.0.0 recl.kulinar.bg
 :: recl.kulinar.bg
 0.0.0.0 reclame.lequipement.fr
@@ -51517,6 +51543,8 @@
 :: relatorioserasa.webcindario.com
 0.0.0.0 relatos-porno.gxgm.com
 :: relatos-porno.gxgm.com
+0.0.0.0 relaunchme.us15.list-manage.com
+:: relaunchme.us15.list-manage.com
 0.0.0.0 relaxsearch.uphero.com
 :: relaxsearch.uphero.com
 0.0.0.0 relay-ba.toboads.com
@@ -55007,6 +55035,8 @@
 :: sig-in-attempt-some.paypal.liquid.mind-of-wrong.com
 0.0.0.0 sig.gamerdna.com
 :: sig.gamerdna.com
+0.0.0.0 sigin-activitylimit.serveirc.com
+:: sigin-activitylimit.serveirc.com
 0.0.0.0 sigin.ehay.it.dev.acconot.ws.italia.oggleprints.co.uk
 :: sigin.ehay.it.dev.acconot.ws.italia.oggleprints.co.uk
 0.0.0.0 sigin.ehay.it.ws.dev.eppureart.com
@@ -55991,6 +56021,8 @@
 :: ss.tiscali.it
 0.0.0.0 ss.xxxnavy.com
 :: ss.xxxnavy.com
+0.0.0.0 ssa.1337x.to
+:: ssa.1337x.to
 0.0.0.0 ssac.suning.com
 :: ssac.suning.com
 0.0.0.0 ssads.osdn.com
@@ -61661,6 +61693,8 @@
 :: u8959882.isphuset.no
 0.0.0.0 u899519.sendgrid.org
 :: u899519.sendgrid.org
+0.0.0.0 u9988.rently.com
+:: u9988.rently.com
 0.0.0.0 ua.badongo.com
 :: ua.badongo.com
 0.0.0.0 uac.net.au
@@ -62401,6 +62435,8 @@
 :: update-account.wellsfargo.optimumcash.net
 0.0.0.0 update-accounte.strikefighterconsultinginc.com
 :: update-accounte.strikefighterconsultinginc.com
+0.0.0.0 update-apple-compte.serverid2090.com
+:: update-apple-compte.serverid2090.com
 0.0.0.0 update-apple.com.betawihosting.net
 :: update-apple.com.betawihosting.net
 0.0.0.0 update-csc.apps-true-login.com
@@ -63419,6 +63455,8 @@
 :: videoplayer.vice.technology
 0.0.0.0 videopush.baidu.com
 :: videopush.baidu.com
+0.0.0.0 videos-bleepingcomputers-com.tvpagecdn.com
+:: videos-bleepingcomputers-com.tvpagecdn.com
 0.0.0.0 videos.dskjkiuw.com
 :: videos.dskjkiuw.com
 0.0.0.0 videos.fleshlight.com
@@ -64165,6 +64203,8 @@
 :: w3.netcreations.com
 0.0.0.0 w3c-jquery.cz.cc
 :: w3c-jquery.cz.cc
+0.0.0.0 w3lls-fargofargo.000webhostapp.com
+:: w3lls-fargofargo.000webhostapp.com
 0.0.0.0 w3llsfarg0.altervista.org
 :: w3llsfarg0.altervista.org
 0.0.0.0 w4.sahajcare.org
@@ -64935,6 +64975,8 @@
 :: wellsfargoonlineaceeebeb.marcelinochampagnat.edu.pe
 0.0.0.0 wellsfargoonlineadituscom112.000webhostapp.com
 :: wellsfargoonlineadituscom112.000webhostapp.com
+0.0.0.0 wellsfargoonlinee.000webhostapp.com
+:: wellsfargoonlinee.000webhostapp.com
 0.0.0.0 wellsfargosecure.coachbringthapayne.com
 :: wellsfargosecure.coachbringthapayne.com
 0.0.0.0 wellsfargousacustomerservice.report.com.ticketid.8f5d41fd4545df.dgf45fg4545fd45dfg4.dfg87d45fg54fdg45f.dg87df4g5f4dg5d7f8g.dfg57df4g5fgf57g.d8gf454g5df4g54f.dfgdf4g5f4g5f.d5g4.indfe.com.br
@@ -70765,6 +70807,8 @@
 :: www2.dealtime.com
 0.0.0.0 www2.delta-search.com
 :: www2.delta-search.com
+0.0.0.0 www2.gorillavid.in
+:: www2.gorillavid.in
 0.0.0.0 www2.kampanyatakip.net
 :: www2.kampanyatakip.net
 0.0.0.0 www2.kiehls.com
