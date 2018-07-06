@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Jul 5 05:05:11 CEST 2018
+# Last update: Fri Jul 6 05:04:15 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36163
+# Number of unique hostnames: 36165
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -39459,6 +39459,8 @@
 :: love-kawaii-asiatik.forumactif.net
 0.0.0.0 love-vk.16mb.com
 :: love-vk.16mb.com
+0.0.0.0 love.eng20.cn
+:: love.eng20.cn
 0.0.0.0 love.gogrrl.com
 :: love.gogrrl.com
 0.0.0.0 love.magicsites.ru
@@ -52823,6 +52825,8 @@
 :: safe.bestapps.com-protection.info
 0.0.0.0 safe.hyperpaysys.com
 :: safe.hyperpaysys.com
+0.0.0.0 safe.net-az83.stream
+:: safe.net-az83.stream
 0.0.0.0 safe.tsgpay.cn
 :: safe.tsgpay.cn
 0.0.0.0 safeboxx.kiddibargains.com
@@ -68241,6 +68245,8 @@
 :: www.innovateads.com
 0.0.0.0 www.inoprosport.su
 :: www.inoprosport.su
+0.0.0.0 www.insnw.ne
+:: www.insnw.ne
 0.0.0.0 www.instantcashloans.net.au
 :: www.instantcashloans.net.au
 0.0.0.0 www.instantdownloaderpro.com
@@ -70659,8 +70665,6 @@
 :: www.xbzzzx.com
 0.0.0.0 www.xiacai.com
 :: www.xiacai.com
-0.0.0.0 www.xingzhanfengbao5.com
-:: www.xingzhanfengbao5.com
 0.0.0.0 www.xiniuz.com
 :: www.xiniuz.com
 0.0.0.0 www.xl-rank.com
