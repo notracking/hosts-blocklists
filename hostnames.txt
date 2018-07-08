@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Jul 7 06:09:12 CEST 2018
+# Last update: Sun Jul 8 05:14:04 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36150
+# Number of unique hostnames: 36157
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -14407,6 +14407,8 @@
 :: api-flow.flyme.cn
 0.0.0.0 api-game.meizu.com
 :: api-game.meizu.com
+0.0.0.0 api-lytics.macpaw.com
+:: api-lytics.macpaw.com
 0.0.0.0 api-push.meizu.com
 :: api-push.meizu.com
 0.0.0.0 api-shoulei-ssl.xunlei.com
@@ -24539,6 +24541,8 @@
 :: d16b4.8ox.cn
 0.0.0.0 d16dqaga5j0fjm.cloudfront.net
 :: d16dqaga5j0fjm.cloudfront.net
+0.0.0.0 d16s8pqtk4uodx.cloudfront.net
+:: d16s8pqtk4uodx.cloudfront.net
 0.0.0.0 d173vqb05g6hza.cloudfront.net
 :: d173vqb05g6hza.cloudfront.net
 0.0.0.0 d1798l6lhp8h4d.cloudfront.net
@@ -24823,6 +24827,8 @@
 :: d2.sina.com.cn
 0.0.0.0 d20ct0j8bz6fs5.cloudfront.net
 :: d20ct0j8bz6fs5.cloudfront.net
+0.0.0.0 d20i5e3rqc90ne.cloudfront.net
+:: d20i5e3rqc90ne.cloudfront.net
 0.0.0.0 d20je219bs8hnq.cloudfront.net
 :: d20je219bs8hnq.cloudfront.net
 0.0.0.0 d21aw2xov4zz0i.cloudfront.net
@@ -24909,6 +24915,8 @@
 :: d29p64779x43zo.cloudfront.net
 0.0.0.0 d29r6igjpnoykg.cloudfront.net
 :: d29r6igjpnoykg.cloudfront.net
+0.0.0.0 d29usylhdk1xyu.cloudfront.net
+:: d29usylhdk1xyu.cloudfront.net
 0.0.0.0 d2a945og79nayl.cloudfront.net
 :: d2a945og79nayl.cloudfront.net
 0.0.0.0 d2anfhdgjxf8s1.cloudfront.net
@@ -25323,6 +25331,8 @@
 :: d3hlizmpi4g3v9.cloudfront.net
 0.0.0.0 d3hmb5h5qngs7g.cloudfront.net
 :: d3hmb5h5qngs7g.cloudfront.net
+0.0.0.0 d3hmp0045zy3cs.cloudfront.net
+:: d3hmp0045zy3cs.cloudfront.net
 0.0.0.0 d3i1asoswufp5k.cloudfront.net
 :: d3i1asoswufp5k.cloudfront.net
 0.0.0.0 d3id4jppiyyek8.cloudfront.net
@@ -27091,6 +27101,8 @@
 :: doc.lookseedesign.ca
 0.0.0.0 doccu.000webhostapp.com
 :: doccu.000webhostapp.com
+0.0.0.0 docj27ko03fnu.cloudfront.net
+:: docj27ko03fnu.cloudfront.net
 0.0.0.0 docs.pyrthon.org
 :: docs.pyrthon.org
 0.0.0.0 docsign.libra.id
@@ -36309,6 +36321,8 @@
 :: irudhkunrlfu25fhkaqw34blr5qlby4tgq43t.orrisbirth.com
 0.0.0.0 irule.hatesit.com
 :: irule.hatesit.com
+0.0.0.0 is-tracking-pixel-api-prod.appspot.com
+:: is-tracking-pixel-api-prod.appspot.com
 0.0.0.0 is.tole.it
 :: is.tole.it
 0.0.0.0 is2.websearch.com
@@ -56787,8 +56801,6 @@
 :: static.resetamobil.com
 0.0.0.0 static.retirementcommunitiesfyi.com
 :: static.retirementcommunitiesfyi.com
-0.0.0.0 static.rpxnow.com
-:: static.rpxnow.com
 0.0.0.0 static.salesresourcepartners.com
 :: static.salesresourcepartners.com
 0.0.0.0 static.smni.com
@@ -65283,8 +65295,6 @@
 :: widgetcf.adviceiq.com
 0.0.0.0 widgethost.barnebys.com
 :: widgethost.barnebys.com
-0.0.0.0 widgets-cdn.rpxnow.com
-:: widgets-cdn.rpxnow.com
 0.0.0.0 widgets.amazon.com
 :: widgets.amazon.com
 0.0.0.0 widgets.cam-content.com
@@ -67633,6 +67643,8 @@
 :: www.financial-advice-books.com
 0.0.0.0 www.finanzmarkt2004.de
 :: www.finanzmarkt2004.de
+0.0.0.0 www.findalgorithm.com
+:: www.findalgorithm.com
 0.0.0.0 www.finder.cox.net
 :: www.finder.cox.net
 0.0.0.0 www.findstuff.com
@@ -71345,6 +71357,8 @@
 :: xiazai.downok.com
 0.0.0.0 xiazai.rilibiao.com.cn
 :: xiazai.rilibiao.com.cn
+0.0.0.0 xiazhai.tuizhong.com
+:: xiazhai.tuizhong.com
 0.0.0.0 xiciim.qtmojo.com
 :: xiciim.qtmojo.com
 0.0.0.0 xifpnixy.cz.cc
