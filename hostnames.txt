@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Jul 8 05:14:04 CEST 2018
+# Last update: Mon Jul 9 05:07:45 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36157
+# Number of unique hostnames: 36167
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2829,8 +2829,6 @@
 :: a55.suntimes.com
 0.0.0.0 a55barin.000webhostapp.com
 :: a55barin.000webhostapp.com
-0.0.0.0 a6.bjdianyue.com
-:: a6.bjdianyue.com
 0.0.0.0 a6.taobanapp.com
 :: a6.taobanapp.com
 0.0.0.0 a615.ac-images.myspacecdn.com
@@ -14897,8 +14895,6 @@
 :: app.50bang.org
 0.0.0.0 app.5211hui.com
 :: app.5211hui.com
-0.0.0.0 app.9yyg.cn
-:: app.9yyg.cn
 0.0.0.0 app.acm.dzwww.com
 :: app.acm.dzwww.com
 0.0.0.0 app.activetrail.com
@@ -19863,8 +19859,6 @@
 :: c5cfj87zsfptafpudws2.littlematchagirl.com.au
 0.0.0.0 c5ctb655.caspio.com
 :: c5ctb655.caspio.com
-0.0.0.0 c6.bjdianyue.com
-:: c6.bjdianyue.com
 0.0.0.0 c6.edgesuite.net
 :: c6.edgesuite.net
 0.0.0.0 c6.friok.com
@@ -20297,6 +20291,8 @@
 :: cbuzoo.comlu.com
 0.0.0.0 cc.dace.hupu.com
 :: cc.dace.hupu.com
+0.0.0.0 cc.gofile.io
+:: cc.gofile.io
 0.0.0.0 cc.moquanad.com
 :: cc.moquanad.com
 0.0.0.0 cc.piao.jianzhigg.com
@@ -20987,6 +20983,8 @@
 :: cds.51y5.net
 0.0.0.0 cds.g8j8b9g6.hwcdn.net
 :: cds.g8j8b9g6.hwcdn.net
+0.0.0.0 cds10.stn.llnw.net
+:: cds10.stn.llnw.net
 0.0.0.0 cds1203.lon.llnw.net
 :: cds1203.lon.llnw.net
 0.0.0.0 cds1204.lon.llnw.net
@@ -21113,10 +21111,14 @@
 :: cds26.ams9.msecn.net
 0.0.0.0 cds299.lcy.llnw.net
 :: cds299.lcy.llnw.net
+0.0.0.0 cds30027.stn.llnw.net
+:: cds30027.stn.llnw.net
 0.0.0.0 cds308.lcy.llnw.net
 :: cds308.lcy.llnw.net
 0.0.0.0 cds310.lcy.llnw.net
 :: cds310.lcy.llnw.net
+0.0.0.0 cds38.ory.llnw.net
+:: cds38.ory.llnw.net
 0.0.0.0 cds405.lcy.llnw.net
 :: cds405.lcy.llnw.net
 0.0.0.0 cds406.lcy.llnw.net
@@ -21157,6 +21159,8 @@
 :: cds493.lcy.llnw.net
 0.0.0.0 cds494.lcy.llnw.net
 :: cds494.lcy.llnw.net
+0.0.0.0 cds54.ory.llnw.net
+:: cds54.ory.llnw.net
 0.0.0.0 cds812.lon.llnw.net
 :: cds812.lon.llnw.net
 0.0.0.0 cds815.lon.llnw.net
@@ -28165,6 +28169,8 @@
 :: e.resmv.com
 0.0.0.0 e.ricpt.com
 :: e.ricpt.com
+0.0.0.0 e.rmwdn.com
+:: e.rmwdn.com
 0.0.0.0 e.t71q.com
 :: e.t71q.com
 0.0.0.0 e.targetfuel.com
@@ -28179,6 +28185,8 @@
 :: e.tiantianedu.net
 0.0.0.0 e.tommysdream.net
 :: e.tommysdream.net
+0.0.0.0 e.tuoaa.com
+:: e.tuoaa.com
 0.0.0.0 e.ueram.com
 :: e.ueram.com
 0.0.0.0 e.vaxyz.com
@@ -29749,8 +29757,6 @@
 :: family.schuettfarmswi.com
 0.0.0.0 famous-kookabura.cloudvent.net
 :: famous-kookabura.cloudvent.net
-0.0.0.0 fan.chazidian.com
-:: fan.chazidian.com
 0.0.0.0 fan.liuxiaoer.com
 :: fan.liuxiaoer.com
 0.0.0.0 fan.twitch.tv
@@ -33205,8 +33211,6 @@
 :: haunted-velocity.000webhostapp.com
 0.0.0.0 hausfrauen4u.de.tf
 :: hausfrauen4u.de.tf
-0.0.0.0 havaianasartesanais.art.br
-:: havaianasartesanais.art.br
 0.0.0.0 have.virtualheromessages.com
 :: have.virtualheromessages.com
 0.0.0.0 hawkz7.est.northerndishedends.com
@@ -36263,6 +36267,8 @@
 :: ipic.staticsdo.com
 0.0.0.0 ipl.t-liga.ru
 :: ipl.t-liga.ru
+0.0.0.0 ipm-provider.ff.avast.com
+:: ipm-provider.ff.avast.com
 0.0.0.0 ipm.atm.cp31.ott.cibntv.net
 :: ipm.atm.cp31.ott.cibntv.net
 0.0.0.0 ipm.atm.youku.com
@@ -39809,6 +39815,8 @@
 :: m.data.mob.com
 0.0.0.0 m.doodlemobile.com
 :: m.doodlemobile.com
+0.0.0.0 m.du1du.org
+:: m.du1du.org
 0.0.0.0 m.dxectas1.cn
 :: m.dxectas1.cn
 0.0.0.0 m.ennmt.com
@@ -40001,6 +40009,8 @@
 :: m.ricpt.com
 0.0.0.0 m.rmuqvq.cn
 :: m.rmuqvq.cn
+0.0.0.0 m.rmwdn.com
+:: m.rmwdn.com
 0.0.0.0 m.rrsdl.com
 :: m.rrsdl.com
 0.0.0.0 m.sancdn.net
@@ -40097,6 +40107,8 @@
 :: m.yoyi.com.cn
 0.0.0.0 m.yuandajiayuan.com
 :: m.yuandajiayuan.com
+0.0.0.0 m.zeiaa.com
+:: m.zeiaa.com
 0.0.0.0 m0-s.san.ru
 :: m0-s.san.ru
 0.0.0.0 m1.daumcdn.net
@@ -46143,8 +46155,6 @@
 :: p.aty.sohu.com
 0.0.0.0 p.bdjiazanmiaomu.com
 :: p.bdjiazanmiaomu.com
-0.0.0.0 p.bjdianyue.com
-:: p.bjdianyue.com
 0.0.0.0 p.bm23.com
 :: p.bm23.com
 0.0.0.0 p.bnuni.com
@@ -48527,6 +48537,8 @@
 :: play.js.vidoza.net
 0.0.0.0 play.leadzu.com
 :: play.leadzu.com
+0.0.0.0 play.mix.kinostuff.com
+:: play.mix.kinostuff.com
 0.0.0.0 play.play.estream.nu
 :: play.play.estream.nu
 0.0.0.0 play.play.estream.to
@@ -48537,12 +48549,16 @@
 :: play.play.vidzi.tv
 0.0.0.0 play.play1.videos.vidto.me
 :: play.play1.videos.vidto.me
+0.0.0.0 play.s01.vidtodo.pro
+:: play.s01.vidtodo.pro
 0.0.0.0 play.site.flashx.cc
 :: play.site.flashx.cc
 0.0.0.0 play.stream.vidzi.tv
 :: play.stream.vidzi.tv
 0.0.0.0 play.streaming.estream.to
 :: play.streaming.estream.to
+0.0.0.0 play.vb.wearesaudis.net
+:: play.vb.wearesaudis.net
 0.0.0.0 play.video.estream.nu
 :: play.video.estream.nu
 0.0.0.0 play.video2.stream.vidzi.tv
@@ -55565,6 +55581,8 @@
 :: smetrics.southwest.com
 0.0.0.0 smetrics.starwoodhotels.com
 :: smetrics.starwoodhotels.com
+0.0.0.0 smetrics.tesco.com
+:: smetrics.tesco.com
 0.0.0.0 smetrics.toptenreviews.com
 :: smetrics.toptenreviews.com
 0.0.0.0 smetrics.walgreens.com
@@ -71811,6 +71829,8 @@
 :: yn.001fzc.com
 0.0.0.0 yoclub.waphall.com
 :: yoclub.waphall.com
+0.0.0.0 yong.chazidian.com
+:: yong.chazidian.com
 0.0.0.0 yongjiang.tmcaster.com
 :: yongjiang.tmcaster.com
 0.0.0.0 yoo.londonbinanddumpsterrental.ca
