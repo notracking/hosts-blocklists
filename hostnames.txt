@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Jul 9 05:07:45 CEST 2018
+# Last update: Tue Jul 10 05:02:49 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36167
+# Number of unique hostnames: 36164
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -17927,6 +17927,8 @@
 :: bdjs.58news.org
 0.0.0.0 bdjs.6237237.com
 :: bdjs.6237237.com
+0.0.0.0 bdjs.6822.com
+:: bdjs.6822.com
 0.0.0.0 bdjs.999d.com
 :: bdjs.999d.com
 0.0.0.0 bdjs.guangyuanol.cn
@@ -55123,8 +55125,6 @@
 :: shtt.shuqw.com
 0.0.0.0 shutdown.cgffood.vn
 :: shutdown.cgffood.vn
-0.0.0.0 shv4.no-ip.biz
-:: shv4.no-ip.biz
 0.0.0.0 shzyjbr.wtdtjs.rocks
 :: shzyjbr.wtdtjs.rocks
 0.0.0.0 si.homestore.com
@@ -67905,8 +67905,6 @@
 :: www.giftcardsurveys.us.com
 0.0.0.0 www.giftfunnew.com
 :: www.giftfunnew.com
-0.0.0.0 www.giorgio-houses.biz
-:: www.giorgio-houses.biz
 0.0.0.0 www.gizligercekler.net
 :: www.gizligercekler.net
 0.0.0.0 www.gj500.com
@@ -68449,8 +68447,6 @@
 :: www.karakulszmlyttq.download
 0.0.0.0 www.kardanremont.com
 :: www.kardanremont.com
-0.0.0.0 www.kasaraomoveis.com.br
-:: www.kasaraomoveis.com.br
 0.0.0.0 www.kasdjjaks83adsasd.com
 :: www.kasdjjaks83adsasd.com
 0.0.0.0 www.kbc.be.vcawmmv020.info
@@ -69425,8 +69421,6 @@
 :: www.pro.clanweb.cz
 0.0.0.0 www.pro.webstat.pl
 :: www.pro.webstat.pl
-0.0.0.0 www.proacti.com.br
-:: www.proacti.com.br
 0.0.0.0 www.proascolcolombia.com
 :: www.proascolcolombia.com
 0.0.0.0 www.probabilidades.net
