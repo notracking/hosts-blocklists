@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Jul 12 05:10:59 CEST 2018
+# Last update: Fri Jul 13 05:13:42 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36109
+# Number of unique hostnames: 36161
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -4647,6 +4647,8 @@
 :: ad.vidaroo.com
 0.0.0.0 ad.videokit.org
 :: ad.videokit.org
+0.0.0.0 ad.vider.pl
+:: ad.vider.pl
 0.0.0.0 ad.vikadsk.com
 :: ad.vikadsk.com
 0.0.0.0 ad.vippers.jp
@@ -4693,6 +4695,8 @@
 :: ad.webnext.ru
 0.0.0.0 ad.webservis.gen.tr
 :: ad.webservis.gen.tr
+0.0.0.0 ad.webshark.pl
+:: ad.webshark.pl
 0.0.0.0 ad.webzdarma.cz
 :: ad.webzdarma.cz
 0.0.0.0 ad.weplayer.cc
@@ -15233,6 +15237,8 @@
 :: appusage.intel.com
 0.0.0.0 aprana.000webhostapp.com
 :: aprana.000webhostapp.com
+0.0.0.0 aproscurese.at.ua
+:: aproscurese.at.ua
 0.0.0.0 apt.qumi.com
 :: apt.qumi.com
 0.0.0.0 aptitude.newversionupdatefreshand4you.space
@@ -16057,6 +16063,8 @@
 :: aypal-services.paraglyphpress.com
 0.0.0.0 ayx.soundharborredirect.com
 :: ayx.soundharborredirect.com
+0.0.0.0 az-serwer1814878.online.pro
+:: az-serwer1814878.online.pro
 0.0.0.0 az.yandex.ru
 :: az.yandex.ru
 0.0.0.0 az361816.vo.msecnd.net
@@ -17861,6 +17869,8 @@
 :: bd3.jobui.com
 0.0.0.0 bd4.chuiyue.com
 :: bd4.chuiyue.com
+0.0.0.0 bd7h64j87d4364gf6hd8473.000webhostapp.com
+:: bd7h64j87d4364gf6hd8473.000webhostapp.com
 0.0.0.0 bdad.gaotie.net
 :: bdad.gaotie.net
 0.0.0.0 bdad.hao224.com
@@ -20067,6 +20077,8 @@
 :: cancel.transaction.73891347.atakanpolat.com.tr
 0.0.0.0 cancel.transaction.73891347.itunes.apple.semsyayinevi.com
 :: cancel.transaction.73891347.itunes.apple.semsyayinevi.com
+0.0.0.0 cancelation.apprenew291092.app-renewbopak23092.com
+:: cancelation.apprenew291092.app-renewbopak23092.com
 0.0.0.0 cancellation-paypal.us-com.czfwwgxnrpzztajjwbkn.com
 :: cancellation-paypal.us-com.czfwwgxnrpzztajjwbkn.com
 0.0.0.0 cancellation-paypal.us-com.urvupbhzqkxwjllpopyq.com
@@ -21653,6 +21665,8 @@
 :: cheathall.playground.ru
 0.0.0.0 chechla.cnixon.com
 :: chechla.cnixon.com
+0.0.0.0 check-ethpayments1.kissr.com
+:: check-ethpayments1.kissr.com
 0.0.0.0 check.autentificationpage.cf
 :: check.autentificationpage.cf
 0.0.0.0 check.browser.cruxinfra.com
@@ -21875,6 +21889,8 @@
 :: city.directory.new.phone.york.sms13.de
 0.0.0.0 cityads.telus.net
 :: cityads.telus.net
+0.0.0.0 citybanq.16mb.com
+:: citybanq.16mb.com
 0.0.0.0 citycash2.blogspot.com
 :: citycash2.blogspot.com
 0.0.0.0 civicrm.npocentral.net
@@ -22835,6 +22851,8 @@
 :: codead.dajusepe.com
 0.0.0.0 codevictoria.free.fr
 :: codevictoria.free.fr
+0.0.0.0 codeym.dictall.com
+:: codeym.dictall.com
 0.0.0.0 coding.1100011.ir
 :: coding.1100011.ir
 0.0.0.0 cof.tracking.priberam.pt
@@ -23345,6 +23363,8 @@
 :: cosmos.felago.es
 0.0.0.0 cosmos.furnipict.com
 :: cosmos.furnipict.com
+0.0.0.0 cospages.000webhostapp.com
+:: cospages.000webhostapp.com
 0.0.0.0 costumer-support.piringpecahweb394helpingus.com
 :: costumer-support.piringpecahweb394helpingus.com
 0.0.0.0 costumer.begalmalamjeh3435helpingcenter.com
@@ -23931,6 +23951,8 @@
 :: creative.nscash.com
 0.0.0.0 creative.whi.co.nz
 :: creative.whi.co.nz
+0.0.0.0 creativekids.org.in
+:: creativekids.org.in
 0.0.0.0 creatives.cliphunter.com
 :: creatives.cliphunter.com
 0.0.0.0 creatives.ftchinese.com
@@ -25457,6 +25479,8 @@
 :: d3rmnwi2tssrfx.cloudfront.net
 0.0.0.0 d3rt1990lpmkn.cloudfront.net
 :: d3rt1990lpmkn.cloudfront.net
+0.0.0.0 d3s23f45gh7j8k8cd98cd76jh5gf4d5.000webhostapp.com
+:: d3s23f45gh7j8k8cd98cd76jh5gf4d5.000webhostapp.com
 0.0.0.0 d3s6ctxr1rpcpt.cloudfront.net
 :: d3s6ctxr1rpcpt.cloudfront.net
 0.0.0.0 d3s7ggfq1s6jlj.cloudfront.net
@@ -26511,6 +26535,8 @@
 :: dfc1.benbaisteel.com
 0.0.0.0 dfck9uqiatqhh.cloudfront.net
 :: dfck9uqiatqhh.cloudfront.net
+0.0.0.0 dfd45f45gg6h687876k8j7h867.000webhostapp.com
+:: dfd45f45gg6h687876k8j7h867.000webhostapp.com
 0.0.0.0 dfdbz2tdq3k01.cloudfront.net
 :: dfdbz2tdq3k01.cloudfront.net
 0.0.0.0 dfejbuszek22.000webhostapp.com
@@ -26769,6 +26795,8 @@
 :: disy2s34euyqm.cloudfront.net
 0.0.0.0 diudconoewpowu.fgppchg.fgpp.com
 :: diudconoewpowu.fgppchg.fgpp.com
+0.0.0.0 divi.myboracayisland.com
+:: divi.myboracayisland.com
 0.0.0.0 divine.lunarbreeze.com
 :: divine.lunarbreeze.com
 0.0.0.0 dixwrvg.planeta2studios.com
@@ -27705,6 +27733,8 @@
 :: ds10.api.baifendian.com
 0.0.0.0 ds118.futie.net
 :: ds118.futie.net
+0.0.0.0 ds4hd786h45f986546kg95.000webhostapp.com
+:: ds4hd786h45f986546kg95.000webhostapp.com
 0.0.0.0 dsa.er.cyberwing.co.jp
 :: dsa.er.cyberwing.co.jp
 0.0.0.0 dsadas.hydp188.com
@@ -28015,6 +28045,8 @@
 :: dziewczyny.biz.pl
 0.0.0.0 dzl.baidu.com
 :: dzl.baidu.com
+0.0.0.0 dzookafoiuo.5gbfree.com
+:: dzookafoiuo.5gbfree.com
 0.0.0.0 dzs55b7slwyx.cloudfront.net
 :: dzs55b7slwyx.cloudfront.net
 0.0.0.0 dzt1km7tv28ex.cloudfront.net
@@ -29101,6 +29133,14 @@
 :: etdenxyerjuvz.fgppchg.fgpp.com
 0.0.0.0 eternal.reklamlab.com
 :: eternal.reklamlab.com
+0.0.0.0 eth-giveaway.updog.co
+:: eth-giveaway.updog.co
+0.0.0.0 eth.mediumblog.top
+:: eth.mediumblog.top
+0.0.0.0 ethaddress.neocities.org
+:: ethaddress.neocities.org
+0.0.0.0 ethereum-giveaway.kissr.com
+:: ethereum-giveaway.kissr.com
 0.0.0.0 etiiisallat.bugs3.com
 :: etiiisallat.bugs3.com
 0.0.0.0 etisalat-apari.fixedtofit.com.au
@@ -29497,6 +29537,8 @@
 :: f3.p0y.com
 0.0.0.0 f4.p0y.com
 :: f4.p0y.com
+0.0.0.0 f4ds4g6253dh737d648h7j6489.000webhostapp.com
+:: f4ds4g6253dh737d648h7j6489.000webhostapp.com
 0.0.0.0 f4dsbjhb45wfiuqeib4fkqeg.meccaledgy.at
 :: f4dsbjhb45wfiuqeib4fkqeg.meccaledgy.at
 0.0.0.0 f53mo7.kozer.2ndincome4u.org.uk
@@ -32309,6 +32351,8 @@
 :: gif.lu.sogoucdn.com
 0.0.0.0 gift-4542.limitedusers.net
 :: gift-4542.limitedusers.net
+0.0.0.0 gift-eth.u0525800.cp.regruhosting.ru
+:: gift-eth.u0525800.cp.regruhosting.ru
 0.0.0.0 giftcardsurveys.us.com
 :: giftcardsurveys.us.com
 0.0.0.0 gifts.invity.com
@@ -33109,6 +33153,8 @@
 :: hanoman4455.000webhostapp.com
 0.0.0.0 hansrane.000webhostapp.com
 :: hansrane.000webhostapp.com
+0.0.0.0 hanzele.wpdevcloud.com
+:: hanzele.wpdevcloud.com
 0.0.0.0 hao.315hyw.com
 :: hao.315hyw.com
 0.0.0.0 hao.7654.com
@@ -33361,6 +33407,8 @@
 :: helpe2.allalla.com
 0.0.0.0 helper-stats.wondershare.com
 :: helper-stats.wondershare.com
+0.0.0.0 helpfb.at.ua
+:: helpfb.at.ua
 0.0.0.0 helppage-support.webstarterz.com
 :: helppage-support.webstarterz.com
 0.0.0.0 helps-122.verifikasi-fanpage-suport982.cf
@@ -33371,6 +33419,8 @@
 :: hem.passagen.se
 0.0.0.0 henex.net.ua
 :: henex.net.ua
+0.0.0.0 henrikhallbergjesen.000webhostapp.com
+:: henrikhallbergjesen.000webhostapp.com
 0.0.0.0 henry.efa-light.com
 :: henry.efa-light.com
 0.0.0.0 hentai-flashj.maclenet.com
@@ -34039,6 +34089,8 @@
 :: homad-global-configs-eu-fra.schneevonmorgen.com.s3.amazonaws.com
 0.0.0.0 homad-global-configs.schneevonmorgen.com
 :: homad-global-configs.schneevonmorgen.com
+0.0.0.0 home-paypal.default-accesdatalockcountry.tercyduktaek.com
+:: home-paypal.default-accesdatalockcountry.tercyduktaek.com
 0.0.0.0 home-recovery2018.000webhostapp.com
 :: home-recovery2018.000webhostapp.com
 0.0.0.0 home-sex-network.inhit.com
@@ -34691,6 +34743,8 @@
 :: icloud.account-id.com
 0.0.0.0 icloud.com.in-eng.info
 :: icloud.com.in-eng.info
+0.0.0.0 iclouds-appleid.app.com.anuscca5xlrmbd4.com
+:: iclouds-appleid.app.com.anuscca5xlrmbd4.com
 0.0.0.0 icm.r.worldssl.net
 :: icm.r.worldssl.net
 0.0.0.0 icn.southmoney.com
@@ -36127,6 +36181,8 @@
 :: internet-cleaning-tool.capital-software.qarchive.org
 0.0.0.0 internet-lte-5gb.blogspot.com
 :: internet-lte-5gb.blogspot.com
+0.0.0.0 internet.an7.com.br
+:: internet.an7.com.br
 0.0.0.0 internet.marsmediachannels.com
 :: internet.marsmediachannels.com
 0.0.0.0 internetbanking24hrs.autentication.com
@@ -37125,6 +37181,8 @@
 :: js.sddan.com
 0.0.0.0 js.selectornews.com
 :: js.selectornews.com
+0.0.0.0 js.shangxueba.com
+:: js.shangxueba.com
 0.0.0.0 js.smartredirect.de
 :: js.smartredirect.de
 0.0.0.0 js.smi2.ru
@@ -37707,6 +37765,8 @@
 :: kjfjjjiy.beget.tech
 0.0.0.0 kjhkgh.skroc.pl
 :: kjhkgh.skroc.pl
+0.0.0.0 kjsdi.kalphinc.com
+:: kjsdi.kalphinc.com
 0.0.0.0 kk4d8g.earth.northerndishedends.co.uk
 :: kk4d8g.earth.northerndishedends.co.uk
 0.0.0.0 kka.agitos.de
@@ -38537,6 +38597,8 @@
 :: liba.haotv8.com
 0.0.0.0 libange.free.fr
 :: libange.free.fr
+0.0.0.0 libaya.square7.ch
+:: libaya.square7.ch
 0.0.0.0 liberteen1.free.fr
 :: liberteen1.free.fr
 0.0.0.0 libertinord.free.fr
@@ -41105,6 +41167,8 @@
 :: medicaldiaspora.or.tz
 0.0.0.0 medigrsvjof.altervista.org
 :: medigrsvjof.altervista.org
+0.0.0.0 medium.ethereumfoundation.top
+:: medium.ethereumfoundation.top
 0.0.0.0 medrx.sensis.com.au
 :: medrx.sensis.com.au
 0.0.0.0 medrx.telstra.com.au
@@ -42749,6 +42813,8 @@
 :: musiccity.streamcastnetwork.com
 0.0.0.0 musicmaargarit63.uk.to
 :: musicmaargarit63.uk.to
+0.0.0.0 musk-party-gifts.updog.co
+:: musk-party-gifts.updog.co
 0.0.0.0 muv.famousintactswitch.com
 :: muv.famousintactswitch.com
 0.0.0.0 muzafferss.000webhostapp.com
@@ -44887,6 +44953,8 @@
 :: officeon.ch.ma
 0.0.0.0 officercheckacctrecovery12.000webhostapp.com
 :: officercheckacctrecovery12.000webhostapp.com
+0.0.0.0 official-college.000webhostapp.com
+:: official-college.000webhostapp.com
 0.0.0.0 offline-adv.oray.com
 :: offline-adv.oray.com
 0.0.0.0 offline.dyd-pascal.com
@@ -45793,6 +45861,8 @@
 :: oustuner2.000webhostapp.com
 0.0.0.0 out-lok.hpage.com
 :: out-lok.hpage.com
+0.0.0.0 out.aipad.co
+:: out.aipad.co
 0.0.0.0 out.interiorgalleries.com
 :: out.interiorgalleries.com
 0.0.0.0 outer.anquan.org
@@ -46579,6 +46649,8 @@
 :: page.app15.in
 0.0.0.0 page.everythingandthehouse.com
 :: page.everythingandthehouse.com
+0.0.0.0 page.limited.account.page-console.ml
+:: page.limited.account.page-console.ml
 0.0.0.0 page.xywy.com
 :: page.xywy.com
 0.0.0.0 page2018cs.000webhostapp.com
@@ -46955,6 +47027,8 @@
 :: pasaz.goryonline.com
 0.0.0.0 pass-nepal.org.np
 :: pass-nepal.org.np
+0.0.0.0 passage.inria.fr
+:: passage.inria.fr
 0.0.0.0 passport.pfn.bz
 :: passport.pfn.bz
 0.0.0.0 password.thishack.org
@@ -47833,6 +47907,8 @@
 :: pharmacy-canada.forsearch.net
 0.0.0.0 pharmacy-news.blogspot.com
 :: pharmacy-news.blogspot.com
+0.0.0.0 pharmafranchise.net.in
+:: pharmafranchise.net.in
 0.0.0.0 pharmgirlsalazhar.edu.eg
 :: pharmgirlsalazhar.edu.eg
 0.0.0.0 phase21zone.heteml.net
@@ -48043,6 +48119,8 @@
 :: pichincha-com.webcindario.com
 0.0.0.0 pichincha-ec.webcindario.com
 :: pichincha-ec.webcindario.com
+0.0.0.0 pichinchav29.webcindario.com
+:: pichinchav29.webcindario.com
 0.0.0.0 pick.outlawministries.com
 :: pick.outlawministries.com
 0.0.0.0 picklikingdemo.000webhostapp.com
@@ -52235,6 +52313,8 @@
 :: rtg.instantmixcup.com
 0.0.0.0 rtgdownload.gamingsystem.com
 :: rtgdownload.gamingsystem.com
+0.0.0.0 rthergtyjutrhhgrthgrfd.000webhostapp.com
+:: rthergtyjutrhhgrthgrfd.000webhostapp.com
 0.0.0.0 rthlsinks.cz.cc
 :: rthlsinks.cz.cc
 0.0.0.0 rtlog.vidown.cn
@@ -52353,6 +52433,8 @@
 :: s-39.predictvideo.com
 0.0.0.0 s-assets.tp-cdn.com
 :: s-assets.tp-cdn.com
+0.0.0.0 s-e-r-v-i-z-i-o-d-i-a-g-i-or-n-a-m-en-to.ooguy.com
+:: s-e-r-v-i-z-i-o-d-i-a-g-i-or-n-a-m-en-to.ooguy.com
 0.0.0.0 s-parta.za.pl
 :: s-parta.za.pl
 0.0.0.0 s-yoolk-banner-assets.yoolk.com
@@ -52669,6 +52751,8 @@
 :: s212.ucoz.net
 0.0.0.0 s230862869.onlinehome.us
 :: s230862869.onlinehome.us
+0.0.0.0 s264423442.onlinehome.us
+:: s264423442.onlinehome.us
 0.0.0.0 s268400504.onlinehome.us
 :: s268400504.onlinehome.us
 0.0.0.0 s2epkvrholwuax5ftfuf.maherstcottage.com.au
@@ -52785,6 +52869,8 @@
 :: sacdcad03.salon.com
 0.0.0.0 sackabare.ac.ke
 :: sackabare.ac.ke
+0.0.0.0 sacmlcen.dominiotemporario.com
+:: sacmlcen.dominiotemporario.com
 0.0.0.0 sacrilegious-gasket.000webhostapp.com
 :: sacrilegious-gasket.000webhostapp.com
 0.0.0.0 sacurity-centre-2017.000webhostapp.com
@@ -54097,6 +54183,8 @@
 :: securehelprecover568996.000webhostapp.com
 0.0.0.0 secureinfouserapp.blogdns.org
 :: secureinfouserapp.blogdns.org
+0.0.0.0 securelogin.archlines.com
+:: securelogin.archlines.com
 0.0.0.0 securelogin.goodlifemedical.in
 :: securelogin.goodlifemedical.in
 0.0.0.0 securelogin.here.att.thysseankrupp.com
@@ -55597,6 +55685,8 @@
 :: smtp.macau.ctm.net
 0.0.0.0 smtp.potinsnews.com
 :: smtp.potinsnews.com
+0.0.0.0 smubatik1-slo.sch.id
+:: smubatik1-slo.sch.id
 0.0.0.0 sn.baventures.com
 :: sn.baventures.com
 0.0.0.0 sn3301-c.1drv.com
@@ -57781,6 +57871,8 @@
 :: sularz.000webhostapp.com
 0.0.0.0 sumfor.cfpwealthcpp.net
 :: sumfor.cfpwealthcpp.net
+0.0.0.0 summary-report.myvnc.com
+:: summary-report.myvnc.com
 0.0.0.0 summary.paypai.resolve.tangankiting.com
 :: summary.paypai.resolve.tangankiting.com
 0.0.0.0 summary.secure-update-service1.com
@@ -58593,6 +58685,8 @@
 :: take.virtualheromessages.com
 0.0.0.0 take5.real.com
 :: take5.real.com
+0.0.0.0 talanyuvraj.000webhostapp.com
+:: talanyuvraj.000webhostapp.com
 0.0.0.0 talesoftheslayer.bravejournal.com
 :: talesoftheslayer.bravejournal.com
 0.0.0.0 talk.nz.igexin.com
@@ -61423,6 +61517,8 @@
 :: trk1.opanw.com
 0.0.0.0 trk132.benchurl.com
 :: trk132.benchurl.com
+0.0.0.0 trnunmavidonghemayddosok-unsuspendible-entophyte.mybluemix.net
+:: trnunmavidonghemayddosok-unsuspendible-entophyte.mybluemix.net
 0.0.0.0 tronuprising.heliohost.org
 :: tronuprising.heliohost.org
 0.0.0.0 troopersiccy.bravejournal.com
@@ -61579,6 +61675,8 @@
 :: tvlistings4.zap2it.com
 0.0.0.0 tvmds.tvpassport.com
 :: tvmds.tvpassport.com
+0.0.0.0 tvmesdeferias.kozow.com
+:: tvmesdeferias.kozow.com
 0.0.0.0 tvonline.hol.es
 :: tvonline.hol.es
 0.0.0.0 tvoyatajna.msk.ru
@@ -63359,6 +63457,8 @@
 :: verifikacii22.fanpage112.ga
 0.0.0.0 verifikasi9888.regis-from-alert32.tk
 :: verifikasi9888.regis-from-alert32.tk
+0.0.0.0 verifikasihakun771.wixsite.com
+:: verifikasihakun771.wixsite.com
 0.0.0.0 verify-account-customer.amm-ku.com
 :: verify-account-customer.amm-ku.com
 0.0.0.0 verify-bowiestate-edu.wz.sk
@@ -65047,6 +65147,8 @@
 :: wellsfargoonlinee.000webhostapp.com
 0.0.0.0 wellsfargosecure.coachbringthapayne.com
 :: wellsfargosecure.coachbringthapayne.com
+0.0.0.0 wellsfargosucrity.000webhostapp.com
+:: wellsfargosucrity.000webhostapp.com
 0.0.0.0 wellsfargousacustomerservice.report.com.ticketid.8f5d41fd4545df.dgf45fg4545fd45dfg4.dfg87d45fg54fdg45f.dg87df4g5f4dg5d7f8g.dfg57df4g5fgf57g.d8gf454g5df4g54f.dfgdf4g5f4g5f.d5g4.indfe.com.br
 :: wellsfargousacustomerservice.report.com.ticketid.8f5d41fd4545df.dgf45fg4545fd45dfg4.dfg87d45fg54fdg45f.dg87df4g5f4dg5d7f8g.dfg57df4g5fgf57g.d8gf454g5df4g54f.dfgdf4g5f4g5f.d5g4.indfe.com.br
 0.0.0.0 wellsfargoverification.sorteo.name
@@ -72097,6 +72199,8 @@
 :: zmoda.hostreo.com
 0.0.0.0 znaptag-us.s3.amazonaws.com
 :: znaptag-us.s3.amazonaws.com
+0.0.0.0 znsoe7ej5847he48736h487di3.000webhostapp.com
+:: znsoe7ej5847he48736h487di3.000webhostapp.com
 0.0.0.0 zobaczktopodgladaa.blogspot.com
 :: zobaczktopodgladaa.blogspot.com
 0.0.0.0 zobaczto.pisz.pl
