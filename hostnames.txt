@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Jul 14 05:06:57 CEST 2018
+# Last update: Sun Jul 15 05:10:13 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36187
+# Number of unique hostnames: 36191
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -22861,6 +22861,8 @@
 :: code12.onetad.com
 0.0.0.0 code1f.m.shushu8.com
 :: code1f.m.shushu8.com
+0.0.0.0 code1fa.m.shushu8.com
+:: code1fa.m.shushu8.com
 0.0.0.0 codead.dajusepe.com
 :: codead.dajusepe.com
 0.0.0.0 codevictoria.free.fr
@@ -26055,6 +26057,8 @@
 :: dcvaad06ad-system.esy.es
 0.0.0.0 dcw.1592878.com
 :: dcw.1592878.com
+0.0.0.0 dcw.hdswgc.com
+:: dcw.hdswgc.com
 0.0.0.0 dczj9zildizai.cloudfront.net
 :: dczj9zildizai.cloudfront.net
 0.0.0.0 dd.520zhai.net
@@ -28119,8 +28123,6 @@
 :: e.admin60.com
 0.0.0.0 e.adpower.bg
 :: e.adpower.bg
-0.0.0.0 e.anmeilai.net
-:: e.anmeilai.net
 0.0.0.0 e.aobde.com
 :: e.aobde.com
 0.0.0.0 e.baidu.com
@@ -28133,6 +28135,8 @@
 :: e.cluoy.com
 0.0.0.0 e.czggcj.com
 :: e.czggcj.com
+0.0.0.0 e.deimm.com
+:: e.deimm.com
 0.0.0.0 e.digitalnectar.co.uk
 :: e.digitalnectar.co.uk
 0.0.0.0 e.diupp.com
@@ -39765,8 +39769,6 @@
 :: m.ajxqiongbg.com
 0.0.0.0 m.analytics.126.net
 :: m.analytics.126.net
-0.0.0.0 m.anmeilai.net
-:: m.anmeilai.net
 0.0.0.0 m.anyfiles.ovh
 :: m.anyfiles.ovh
 0.0.0.0 m.anzhuotan.com
@@ -40113,6 +40115,8 @@
 :: m.yoyi.com.cn
 0.0.0.0 m.yuandajiayuan.com
 :: m.yuandajiayuan.com
+0.0.0.0 m.zaoss.com
+:: m.zaoss.com
 0.0.0.0 m.zeiaa.com
 :: m.zeiaa.com
 0.0.0.0 m0-s.san.ru
@@ -64721,6 +64725,8 @@
 :: web.sogou.com
 0.0.0.0 web.stati.bid
 :: web.stati.bid
+0.0.0.0 web.tmearn.com
+:: web.tmearn.com
 0.0.0.0 web.vortex.data.microsoft.com
 :: web.vortex.data.microsoft.com
 0.0.0.0 web.w300.vhostgo.com
@@ -66909,6 +66915,8 @@
 :: www.bettertextads.com
 0.0.0.0 www.bettingmarket.com
 :: www.bettingmarket.com
+0.0.0.0 www.bewaycare.com
+:: www.bewaycare.com
 0.0.0.0 www.bfqnup.party
 :: www.bfqnup.party
 0.0.0.0 www.biddingx.com
