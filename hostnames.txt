@@ -1,6 +1,6 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Jul 15 05:10:13 CEST 2018
+# Last update: Mon Jul 16 05:12:31 CEST 2018
 # Filter supports ipv4 and ipv6
 # Number of unique hostnames: 36191
 #################################[INFO]##################################
@@ -30537,6 +30537,8 @@
 :: fifththirdbanking.verification.onlineservice.darwintoylibrary.com.au
 0.0.0.0 filament-stats.herokuapp.com
 :: filament-stats.herokuapp.com
+0.0.0.0 file-cdn.beeketing.com
+:: file-cdn.beeketing.com
 0.0.0.0 file.bmob.cn
 :: file.bmob.cn
 0.0.0.0 file.cbs.co.kr
@@ -46253,8 +46255,6 @@
 :: p.shagent.com
 0.0.0.0 p.srv2trkk.com
 :: p.srv2trkk.com
-0.0.0.0 p.szonline.net
-:: p.szonline.net
 0.0.0.0 p.t-online.de
 :: p.t-online.de
 0.0.0.0 p.tamenshuo.com
