@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Jul 21 05:10:21 CEST 2018
+# Last update: Sun Jul 22 05:11:11 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36066
+# Number of unique hostnames: 36086
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2509,6 +2509,8 @@
 :: a.lwinl.com
 0.0.0.0 a.lz13.cn
 :: a.lz13.cn
+0.0.0.0 a.m.gxwztv.com
+:: a.m.gxwztv.com
 0.0.0.0 a.m.shuhuangge.org
 :: a.m.shuhuangge.org
 0.0.0.0 a.macuser.co.uk
@@ -2667,6 +2669,8 @@
 :: a.walla.co.il
 0.0.0.0 a.watershed-publishing.com
 :: a.watershed-publishing.com
+0.0.0.0 a.wlfnb.com
+:: a.wlfnb.com
 0.0.0.0 a.wyzmob.com
 :: a.wyzmob.com
 0.0.0.0 a.xanga.com
@@ -19569,6 +19573,8 @@
 :: c.gmtrack.com
 0.0.0.0 c.gr.msn.com
 :: c.gr.msn.com
+0.0.0.0 c.gzsanxiaomingshi.cn
+:: c.gzsanxiaomingshi.cn
 0.0.0.0 c.hk.msn.com
 :: c.hk.msn.com
 0.0.0.0 c.id.msn.com
@@ -26315,8 +26321,6 @@
 :: demo.vertexinfo.in
 0.0.0.0 demo02.firstdigitalshowcase.com
 :: demo02.firstdigitalshowcase.com
-0.0.0.0 demo25.extstore.com
-:: demo25.extstore.com
 0.0.0.0 demo5.ikantam.com
 :: demo5.ikantam.com
 0.0.0.0 demon1.linksummary.com
@@ -27577,6 +27581,8 @@
 :: drd.hauchi.com.tw
 0.0.0.0 drdavidlinks.net.au
 :: drdavidlinks.net.au
+0.0.0.0 drdj.m.gxwztv.com
+:: drdj.m.gxwztv.com
 0.0.0.0 drealvog.ddns.net
 :: drealvog.ddns.net
 0.0.0.0 dream.ancestrybloodhound.com
@@ -27683,6 +27689,8 @@
 :: drrt.h18.ru
 0.0.0.0 drs2.veinteractive.com
 :: drs2.veinteractive.com
+0.0.0.0 drsw.m.yuyouge.com
+:: drsw.m.yuyouge.com
 0.0.0.0 drug-testing.shengen.ru
 :: drug-testing.shengen.ru
 0.0.0.0 drugdetox.shengen.ru
@@ -28135,6 +28143,8 @@
 :: e.invodo.com
 0.0.0.0 e.iorgb.com
 :: e.iorgb.com
+0.0.0.0 e.jiaas.com
+:: e.jiaas.com
 0.0.0.0 e.jltdbyq.com
 :: e.jltdbyq.com
 0.0.0.0 e.joyxv.com
@@ -28199,6 +28209,8 @@
 :: e.ueram.com
 0.0.0.0 e.vaxyz.com
 :: e.vaxyz.com
+0.0.0.0 e.wjhehaofc.com
+:: e.wjhehaofc.com
 0.0.0.0 e.wnxcg.com
 :: e.wnxcg.com
 0.0.0.0 e.wonwg.com
@@ -33377,6 +33389,8 @@
 :: help.mysearch.com
 0.0.0.0 help.vjjays.com
 :: help.vjjays.com
+0.0.0.0 help.yunaq.com
+:: help.yunaq.com
 0.0.0.0 helpdesk.marketbill.com
 :: helpdesk.marketbill.com
 0.0.0.0 helpdeskfunnies.cyberjuice.com
@@ -34329,8 +34343,12 @@
 :: html.centralmediaserver.com
 0.0.0.0 html.cnzzj.com.cn
 :: html.cnzzj.com.cn
+0.0.0.0 html.sunday8.com
+:: html.sunday8.com
 0.0.0.0 html.tucows.com
 :: html.tucows.com
+0.0.0.0 html.yuntzs.com
+:: html.yuntzs.com
 0.0.0.0 html5adkit.plusmo.s3.amazonaws.com
 :: html5adkit.plusmo.s3.amazonaws.com
 0.0.0.0 htmlads.s3.amazonaws.com
@@ -36531,6 +36549,8 @@
 :: j.wubai.cc
 0.0.0.0 j.xinshipu.com
 :: j.xinshipu.com
+0.0.0.0 j.ytbt.cc
+:: j.ytbt.cc
 0.0.0.0 j1.piaobing.com
 :: j1.piaobing.com
 0.0.0.0 j17.shangc.net
@@ -37987,6 +38007,8 @@
 :: kuteshop.kienbientech.com
 0.0.0.0 kuvpfx.est.northerndishedends.com
 :: kuvpfx.est.northerndishedends.com
+0.0.0.0 kuyic.m.gxwztv.com
+:: kuyic.m.gxwztv.com
 0.0.0.0 kuzai.cooguo.com
 :: kuzai.cooguo.com
 0.0.0.0 kuzrab.maxpolezhaev.ru
@@ -38833,6 +38855,8 @@
 :: ljvixhf6i-site.1tempurl.com
 0.0.0.0 lk.brand.sogou.com
 :: lk.brand.sogou.com
+0.0.0.0 lkf1.m.sanhao3.com
+:: lkf1.m.sanhao3.com
 0.0.0.0 lktkd4fk-site.htempurl.com
 :: lktkd4fk-site.htempurl.com
 0.0.0.0 ll.a.hulu.com
@@ -39773,8 +39797,12 @@
 :: m.game.weibo.cn
 0.0.0.0 m.gameyun907.net
 :: m.gameyun907.net
+0.0.0.0 m.ganrs.com
+:: m.ganrs.com
 0.0.0.0 m.gglay.com
 :: m.gglay.com
+0.0.0.0 m.guaas.com
+:: m.guaas.com
 0.0.0.0 m.guanren11.com
 :: m.guanren11.com
 0.0.0.0 m.guanren5.com
@@ -39957,6 +39985,8 @@
 :: m.wankz.com
 0.0.0.0 m.wgewj.cn
 :: m.wgewj.cn
+0.0.0.0 m.wjhehaofc.com
+:: m.wjhehaofc.com
 0.0.0.0 m.wnxcg.com
 :: m.wnxcg.com
 0.0.0.0 m.wonwg.com
@@ -42013,6 +42043,8 @@
 :: mjaey.saqibsiddiqui.com
 0.0.0.0 mjhkj8.u5a.wentserver.com
 :: mjhkj8.u5a.wentserver.com
+0.0.0.0 mjs.csyymp4.com
+:: mjs.csyymp4.com
 0.0.0.0 mjt.nysv.org
 :: mjt.nysv.org
 0.0.0.0 mjw.or.kr
@@ -50927,6 +50959,8 @@
 :: rc.asci.freenet.de
 0.0.0.0 rc.bt.ilsemedia.nl
 :: rc.bt.ilsemedia.nl
+0.0.0.0 rc.haodongkeji.cn
+:: rc.haodongkeji.cn
 0.0.0.0 rc.himedia.individuad.net
 :: rc.himedia.individuad.net
 0.0.0.0 rc.rc.hu
@@ -55619,6 +55653,8 @@
 :: sofia.trustx.org
 0.0.0.0 sofiashouse.web.id
 :: sofiashouse.web.id
+0.0.0.0 soft.chaomeng8.com
+:: soft.chaomeng8.com
 0.0.0.0 soft.jbdown.net
 :: soft.jbdown.net
 0.0.0.0 soft4update.forfreeupgrades.org
@@ -62987,6 +63023,8 @@
 :: utsdpp.persgroep.net
 0.0.0.0 utzpkru.411.com1.ru
 :: utzpkru.411.com1.ru
+0.0.0.0 uu.85655095.com
+:: uu.85655095.com
 0.0.0.0 uuidapi.yunos.com
 :: uuidapi.yunos.com
 0.0.0.0 uv.terra.com.br
@@ -67929,6 +67967,8 @@
 :: www.hjplocoheavier.review
 0.0.0.0 www.hkoxlirf.com
 :: www.hkoxlirf.com
+0.0.0.0 www.hndiyikj.com
+:: www.hndiyikj.com
 0.0.0.0 www.hobwelt.com
 :: www.hobwelt.com
 0.0.0.0 www.home.ro
@@ -70529,8 +70569,6 @@
 :: www.yc1234.com
 0.0.0.0 www.ydhyjy.com
 :: www.ydhyjy.com
-0.0.0.0 www.ydqzkj.com
-:: www.ydqzkj.com
 0.0.0.0 www.yezilm.com
 :: www.yezilm.com
 0.0.0.0 www.yhwjd.com
@@ -70909,6 +70947,8 @@
 :: wypad3k0.blogspot.com
 0.0.0.0 wypromuj.nazwa.pl
 :: wypromuj.nazwa.pl
+0.0.0.0 wyt.wwetjy.com
+:: wyt.wwetjy.com
 0.0.0.0 wz.37wan.com
 :: wz.37wan.com
 0.0.0.0 wzfield.advertsex.com
