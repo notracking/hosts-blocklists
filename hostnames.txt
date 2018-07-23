@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Jul 22 05:11:11 CEST 2018
+# Last update: Mon Jul 23 05:06:25 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36086
+# Number of unique hostnames: 36084
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -17659,6 +17659,8 @@
 :: barshelluniversity.tcalr.org
 0.0.0.0 barthelemy.vincent86.free.fr
 :: barthelemy.vincent86.free.fr
+0.0.0.0 bas.boshi.tv
+:: bas.boshi.tv
 0.0.0.0 base.filedot.xyz
 :: base.filedot.xyz
 0.0.0.0 base.joetek.ca
@@ -26045,8 +26047,6 @@
 :: dcvaad06ad-system.esy.es
 0.0.0.0 dcw.1592878.com
 :: dcw.1592878.com
-0.0.0.0 dcw.hdswgc.com
-:: dcw.hdswgc.com
 0.0.0.0 dczj9zildizai.cloudfront.net
 :: dczj9zildizai.cloudfront.net
 0.0.0.0 dd.520zhai.net
@@ -39355,8 +39355,6 @@
 :: lola.20x.free.fr
 0.0.0.0 lolemyle.easyfreehosting.com
 :: lolemyle.easyfreehosting.com
-0.0.0.0 loles.neostrada.pl
-:: loles.neostrada.pl
 0.0.0.0 lolhack.softwareuninstallerdownload.com
 :: lolhack.softwareuninstallerdownload.com
 0.0.0.0 loliyuterr66.000webhostapp.com
@@ -48531,8 +48529,6 @@
 :: player.accoona.com
 0.0.0.0 player.alloutwedding.com
 :: player.alloutwedding.com
-0.0.0.0 player.h-cdn.com
-:: player.h-cdn.com
 0.0.0.0 player.insuranceandhealth.com
 :: player.insuranceandhealth.com
 0.0.0.0 player.log.hunantv.com
@@ -54811,8 +54807,6 @@
 :: sgx3.cloudhost.id
 0.0.0.0 sh.creativcdn.net
 :: sh.creativcdn.net
-0.0.0.0 sh.qihoo.com
-:: sh.qihoo.com
 0.0.0.0 sh.shuqw.com
 :: sh.shuqw.com
 0.0.0.0 sh199102.website.pl
@@ -61671,6 +61665,8 @@
 :: u.1133.cc
 0.0.0.0 u.63kc.com
 :: u.63kc.com
+0.0.0.0 u.api.look.360.cn
+:: u.api.look.360.cn
 0.0.0.0 u.cnzol.com
 :: u.cnzol.com
 0.0.0.0 u.ctrip.com
