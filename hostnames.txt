@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Jul 23 05:06:25 CEST 2018
+# Last update: Tue Jul 24 05:10:05 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36084
+# Number of unique hostnames: 36107
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2503,8 +2503,6 @@
 :: a.livesportmedia.eu
 0.0.0.0 a.lolwot.com
 :: a.lolwot.com
-0.0.0.0 a.ltdnc.com
-:: a.ltdnc.com
 0.0.0.0 a.lwinl.com
 :: a.lwinl.com
 0.0.0.0 a.lz13.cn
@@ -3337,6 +3335,8 @@
 :: activity.app.autohome.com.cn
 0.0.0.0 activity.m.duiba.com.cn
 :: activity.m.duiba.com.cn
+0.0.0.0 activity.tuifish.com
+:: activity.tuifish.com
 0.0.0.0 activity.windows.com
 :: activity.windows.com
 0.0.0.0 activity.yuyiya.com
@@ -4737,6 +4737,8 @@
 :: ad.wt50.com
 0.0.0.0 ad.www.net.cn
 :: ad.www.net.cn
+0.0.0.0 ad.wynk.in
+:: ad.wynk.in
 0.0.0.0 ad.wz.cz
 :: ad.wz.cz
 0.0.0.0 ad.xc.netinsight.co.kr
@@ -10113,6 +10115,8 @@
 :: ads1.jp.msn.com
 0.0.0.0 ads1.legalworld.bg
 :: ads1.legalworld.bg
+0.0.0.0 ads1.lfengmobile.com
+:: ads1.lfengmobile.com
 0.0.0.0 ads1.mb.datingadzone.com
 :: ads1.mb.datingadzone.com
 0.0.0.0 ads1.mediacapital.pt
@@ -13759,6 +13763,8 @@
 :: analytics-eu.clickdimensions.com
 0.0.0.0 analytics-prod-ingress.bricknet.com
 :: analytics-prod-ingress.bricknet.com
+0.0.0.0 analytics-production.hapyak.com
+:: analytics-production.hapyak.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 :: analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics-static.unister-gmbh.de
@@ -13775,6 +13781,8 @@
 :: analytics.1und1.de
 0.0.0.0 analytics.21cn.com
 :: analytics.21cn.com
+0.0.0.0 analytics.247sports.com
+:: analytics.247sports.com
 0.0.0.0 analytics.abacast.com
 :: analytics.abacast.com
 0.0.0.0 analytics.ad.daum.net
@@ -13807,6 +13815,8 @@
 :: analytics.bigcommerce.com
 0.0.0.0 analytics.bigfm.de
 :: analytics.bigfm.de
+0.0.0.0 analytics.bitrix.info
+:: analytics.bitrix.info
 0.0.0.0 analytics.bleacherreport.com
 :: analytics.bleacherreport.com
 0.0.0.0 analytics.blogspot.com
@@ -13891,8 +13901,12 @@
 :: analytics.hgcdn.net
 0.0.0.0 analytics.hosting24.com
 :: analytics.hosting24.com
+0.0.0.0 analytics.htmedia.in
+:: analytics.htmedia.in
 0.0.0.0 analytics.hz.netease.com
 :: analytics.hz.netease.com
+0.0.0.0 analytics.icons8.com
+:: analytics.icons8.com
 0.0.0.0 analytics.industriemagazin.net
 :: analytics.industriemagazin.net
 0.0.0.0 analytics.informationweek.com
@@ -13951,6 +13965,8 @@
 :: analytics.msnbc.com
 0.0.0.0 analytics.msnbc.msn.com
 :: analytics.msnbc.msn.com
+0.0.0.0 analytics.myfinance.com
+:: analytics.myfinance.com
 0.0.0.0 analytics.myfinances.com
 :: analytics.myfinances.com
 0.0.0.0 analytics.mytvzion.pro
@@ -14009,6 +14025,8 @@
 :: analytics.reyrey.net
 0.0.0.0 analytics.rogersmedia.com
 :: analytics.rogersmedia.com
+0.0.0.0 analytics.samdd.me
+:: analytics.samdd.me
 0.0.0.0 analytics.sanoma.fi
 :: analytics.sanoma.fi
 0.0.0.0 analytics.sapo.pt
@@ -14053,6 +14071,8 @@
 :: analytics.supplyframe.com
 0.0.0.0 analytics.sutterhealth.org
 :: analytics.sutterhealth.org
+0.0.0.0 analytics.swiggy.com
+:: analytics.swiggy.com
 0.0.0.0 analytics.tbs.com
 :: analytics.tbs.com
 0.0.0.0 analytics.teamcoco.com
@@ -19259,6 +19279,8 @@
 :: business.dropbox.loading.anekaherbalbarokah.tk
 0.0.0.0 business.dropbox.okamotocorp.sportsmag.ro
 :: business.dropbox.okamotocorp.sportsmag.ro
+0.0.0.0 business.inveno.com
+:: business.inveno.com
 0.0.0.0 business.opera.com
 :: business.opera.com
 0.0.0.0 business.sharedcount.com
@@ -19753,6 +19775,8 @@
 :: c.zgnm.cc
 0.0.0.0 c.zlongad.com
 :: c.zlongad.com
+0.0.0.0 c.zmjuan.org
+:: c.zmjuan.org
 0.0.0.0 c.zxyywdj.org
 :: c.zxyywdj.org
 0.0.0.0 c0.atm.pl
@@ -28229,6 +28253,8 @@
 :: e.yingchengtou.com
 0.0.0.0 e.ysdangan.com
 :: e.ysdangan.com
+0.0.0.0 e.ysdhe.com
+:: e.ysdhe.com
 0.0.0.0 e.yycqc.com
 :: e.yycqc.com
 0.0.0.0 e2.molbuk.ua
@@ -31603,6 +31629,8 @@
 :: gambero3.cs.tin.it
 0.0.0.0 game-res.meizu.com
 :: game-res.meizu.com
+0.0.0.0 game.baichuanhd.cn
+:: game.baichuanhd.cn
 0.0.0.0 game.html5.qq.com
 :: game.html5.qq.com
 0.0.0.0 game.pps.tv
@@ -33055,6 +33083,8 @@
 :: h4qrpdal25iwe6arsmlm.littlematchagirl.com.au
 0.0.0.0 h5.holalauncher.com
 :: h5.holalauncher.com
+0.0.0.0 h5.pk1179.com
+:: h5.pk1179.com
 0.0.0.0 h5.super-dreamers.com
 :: h5.super-dreamers.com
 0.0.0.0 h5.taihao.cc
@@ -33299,6 +33329,8 @@
 :: hdapp1003-a.akamaihd.net
 0.0.0.0 hdapp1008-a.akamaihd.net
 :: hdapp1008-a.akamaihd.net
+0.0.0.0 hdggcdn.bayimob.com
+:: hdggcdn.bayimob.com
 0.0.0.0 hdj.baidu.com
 :: hdj.baidu.com
 0.0.0.0 hdn.saeednovin.com
@@ -36139,6 +36171,8 @@
 :: interac.toront-hydro.com
 0.0.0.0 interace-transfer.panku.in
 :: interace-transfer.panku.in
+0.0.0.0 interaction.bayimob.com
+:: interaction.bayimob.com
 0.0.0.0 interactive-assets.s3.amazonaws.com
 :: interactive-assets.s3.amazonaws.com
 0.0.0.0 interactive.forthnet.gr
@@ -39785,10 +39819,14 @@
 :: m.fecjf.cn
 0.0.0.0 m.fengwanwl.com
 :: m.fengwanwl.com
+0.0.0.0 m.fenrs.com
+:: m.fenrs.com
 0.0.0.0 m.fhxsw.org
 :: m.fhxsw.org
 0.0.0.0 m.fimky.com
 :: m.fimky.com
+0.0.0.0 m.fouas.com
+:: m.fouas.com
 0.0.0.0 m.fxbga.com
 :: m.fxbga.com
 0.0.0.0 m.game.weibo.cn
@@ -39799,8 +39837,6 @@
 :: m.ganrs.com
 0.0.0.0 m.gglay.com
 :: m.gglay.com
-0.0.0.0 m.guaas.com
-:: m.guaas.com
 0.0.0.0 m.guanren11.com
 :: m.guanren11.com
 0.0.0.0 m.guanren5.com
@@ -40021,6 +40057,8 @@
 :: m.yooli.com
 0.0.0.0 m.yoyi.com.cn
 :: m.yoyi.com.cn
+0.0.0.0 m.ysdhe.com
+:: m.ysdhe.com
 0.0.0.0 m.yuandajiayuan.com
 :: m.yuandajiayuan.com
 0.0.0.0 m.zaoss.com
@@ -43085,6 +43123,8 @@
 :: nbsdk-baichuan.taobao.com
 0.0.0.0 nc-log.excite.co.jp
 :: nc-log.excite.co.jp
+0.0.0.0 nc.gdt.qq.com
+:: nc.gdt.qq.com
 0.0.0.0 nc.ru.redtram.com
 :: nc.ru.redtram.com
 0.0.0.0 nc004x.corp.youdao.com
@@ -47819,6 +47859,8 @@
 :: pgdbb1.surf-town.net
 0.0.0.0 pgdt.gtimg.cn
 :: pgdt.gtimg.cn
+0.0.0.0 pgdt.ugdtimg.com
+:: pgdt.ugdtimg.com
 0.0.0.0 pharirgatic.hotmail.ru
 :: pharirgatic.hotmail.ru
 0.0.0.0 pharmacy-canada.forsearch.net
@@ -64223,6 +64265,8 @@
 :: w.punchbox.org
 0.0.0.0 w.uptolike.com
 :: w.uptolike.com
+0.0.0.0 w.waacorp.com
+:: w.waacorp.com
 0.0.0.0 w.wooboo.com.cn
 :: w.wooboo.com.cn
 0.0.0.0 w.x.baidu.com
@@ -70943,8 +70987,6 @@
 :: wypad3k0.blogspot.com
 0.0.0.0 wypromuj.nazwa.pl
 :: wypromuj.nazwa.pl
-0.0.0.0 wyt.wwetjy.com
-:: wyt.wwetjy.com
 0.0.0.0 wz.37wan.com
 :: wz.37wan.com
 0.0.0.0 wzfield.advertsex.com
@@ -72115,6 +72157,8 @@
 :: ztuw5bvuuapzdfya.klimbim.pl
 0.0.0.0 zu1.november-lax.com
 :: zu1.november-lax.com
+0.0.0.0 zuimeitianqi.inveno.com
+:: zuimeitianqi.inveno.com
 0.0.0.0 zum.mudmaggot.com
 :: zum.mudmaggot.com
 0.0.0.0 zutzt67dcxr6mxcn.onion.to
@@ -72135,6 +72179,8 @@
 :: zxc.severalgrayone.ws
 0.0.0.0 zxc1-ustokyyneikyfasnm.stackpathdns.com
 :: zxc1-ustokyyneikyfasnm.stackpathdns.com
+0.0.0.0 zxcs.ggwan.com
+:: zxcs.ggwan.com
 0.0.0.0 zxcs.linghit.com
 :: zxcs.linghit.com
 0.0.0.0 zxl1102.000webhostapp.com
