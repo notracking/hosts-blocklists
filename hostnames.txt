@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Jul 24 05:10:05 CEST 2018
+# Last update: Wed Jul 25 05:18:56 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36107
+# Number of unique hostnames: 36112
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -5619,6 +5619,8 @@
 :: adm1.autoimg.cn
 0.0.0.0 adm2.autoimg.cn
 :: adm2.autoimg.cn
+0.0.0.0 adm2018.at.ua
+:: adm2018.at.ua
 0.0.0.0 adm3.autoimg.cn
 :: adm3.autoimg.cn
 0.0.0.0 adman.in.gr
@@ -16477,6 +16479,8 @@
 :: baidu-union-js.xiachufang.com
 0.0.0.0 baidu-union-pos.xiachufang.com
 :: baidu-union-pos.xiachufang.com
+0.0.0.0 baidu.cybcyw.com
+:: baidu.cybcyw.com
 0.0.0.0 baidu.dsp.tansuotv.com
 :: baidu.dsp.tansuotv.com
 0.0.0.0 baidu.google.taobao.ieiba.com
@@ -28253,8 +28257,6 @@
 :: e.yingchengtou.com
 0.0.0.0 e.ysdangan.com
 :: e.ysdangan.com
-0.0.0.0 e.ysdhe.com
-:: e.ysdhe.com
 0.0.0.0 e.yycqc.com
 :: e.yycqc.com
 0.0.0.0 e2.molbuk.ua
@@ -32333,6 +32335,8 @@
 :: gghzskncx3.harrisdentalsolutions.com
 0.0.0.0 ggle.lywf.me
 :: ggle.lywf.me
+0.0.0.0 ggpge.000webhostapp.com
+:: ggpge.000webhostapp.com
 0.0.0.0 ggr.yxdown.com
 :: ggr.yxdown.com
 0.0.0.0 ggs.myzaker.com
@@ -40057,8 +40061,6 @@
 :: m.yooli.com
 0.0.0.0 m.yoyi.com.cn
 :: m.yoyi.com.cn
-0.0.0.0 m.ysdhe.com
-:: m.ysdhe.com
 0.0.0.0 m.yuandajiayuan.com
 :: m.yuandajiayuan.com
 0.0.0.0 m.zaoss.com
@@ -43193,6 +43195,8 @@
 :: neirong.baidu.com
 0.0.0.0 nellyticket.beast-space.com
 :: nellyticket.beast-space.com
+0.0.0.0 neo.rf.gd
+:: neo.rf.gd
 0.0.0.0 neocounter.neoworx-blog-tools.net
 :: neocounter.neoworx-blog-tools.net
 0.0.0.0 neorandom.dothome.co.kr
@@ -49263,6 +49267,8 @@
 :: pospr.waw.pl
 0.0.0.0 post.azsportsent.org
 :: post.azsportsent.org
+0.0.0.0 post.ch.annaro6z.beget.tech
+:: post.ch.annaro6z.beget.tech
 0.0.0.0 post.creatingaccesstoushere.com
 :: post.creatingaccesstoushere.com
 0.0.0.0 post.dhlyman.com
@@ -54577,6 +54583,8 @@
 :: serving.plexop.net
 0.0.0.0 serving.xxxwebtraffic.com
 :: serving.xxxwebtraffic.com
+0.0.0.0 serviowa.sytes.net
+:: serviowa.sytes.net
 0.0.0.0 servipichinchag.webcindario.com
 :: servipichinchag.webcindario.com
 0.0.0.0 servives.safeti.specialis-reponces.com
@@ -58063,6 +58071,8 @@
 :: swisscom.com-messages1.co
 0.0.0.0 swisscom.technologies.mykonasme.com
 :: swisscom.technologies.mykonasme.com
+0.0.0.0 swisscombleiwin.typeform.com
+:: swisscombleiwin.typeform.com
 0.0.0.0 switch.atdmt.net
 :: switch.atdmt.net
 0.0.0.0 switch.d-agency.net
@@ -61871,6 +61881,8 @@
 :: ughmvqf.spitt.ru
 0.0.0.0 ugwebz.uk.pn
 :: ugwebz.uk.pn
+0.0.0.0 ugyenacademy.edu.bt
+:: ugyenacademy.edu.bt
 0.0.0.0 uhowdg.broz.northerndishedends.co
 :: uhowdg.broz.northerndishedends.co
 0.0.0.0 uhqweueqovu4jq5qk3qu.mbservicesyorkshire.co.uk
@@ -67551,8 +67563,6 @@
 :: www.fastcashathome.homestead.com
 0.0.0.0 www.fastusersonline.com
 :: www.fastusersonline.com
-0.0.0.0 www.fccxgjg.com
-:: www.fccxgjg.com
 0.0.0.0 www.feedstermedia.com
 :: www.feedstermedia.com
 0.0.0.0 www.feitianma.com
