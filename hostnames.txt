@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Jul 29 05:18:22 CEST 2018
+# Last update: Mon Jul 30 05:05:05 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36250
+# Number of unique hostnames: 36251
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -36371,6 +36371,8 @@
 :: iphon7.16mb.com
 0.0.0.0 iphone-avril.offreflash.xyz
 :: iphone-avril.offreflash.xyz
+0.0.0.0 iphone.aut5.com
+:: iphone.aut5.com
 0.0.0.0 iphonelog.shouji.baofeng.com
 :: iphonelog.shouji.baofeng.com
 0.0.0.0 ipic.staticsdo.com
@@ -39909,8 +39911,6 @@
 :: m.facebook.com-motors-listing.us
 0.0.0.0 m.facebook.com.solutions-hub.com
 :: m.facebook.com.solutions-hub.com
-0.0.0.0 m.fecjf.cn
-:: m.fecjf.cn
 0.0.0.0 m.fengwanwl.com
 :: m.fengwanwl.com
 0.0.0.0 m.fenrs.com
@@ -62713,6 +62713,8 @@
 :: update.2017.paypal.com.wcmb.ca
 0.0.0.0 update.51edm.net
 :: update.51edm.net
+0.0.0.0 update.aut5.com
+:: update.aut5.com
 0.0.0.0 update.autocleaner.co.kr
 :: update.autocleaner.co.kr
 0.0.0.0 update.browser.qq.com
