@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Aug 2 05:13:59 CEST 2018
+# Last update: Fri Aug 3 05:03:15 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36321
+# Number of unique hostnames: 36343
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -155,6 +155,8 @@
 :: 1.chipde.damoh.schneevonmorgen.com
 0.0.0.0 1.cjcp.cn
 :: 1.cjcp.cn
+0.0.0.0 1.cn716.com
+:: 1.cn716.com
 0.0.0.0 1.codesdq.com
 :: 1.codesdq.com
 0.0.0.0 1.codezh.com
@@ -1999,6 +2001,8 @@
 :: 6a036421edec9693c962-4d1f758fa5668c904b9cd6e76bdc0d97.r71.cf2.rackcdn.com
 0.0.0.0 6a4cc.leiuc.com
 :: 6a4cc.leiuc.com
+0.0.0.0 6a4cc.leygv.com
+:: 6a4cc.leygv.com
 0.0.0.0 6a802238f18629454f48-5fd47577f4847dded97d514126394433.r3.cf2.rackcdn.com
 :: 6a802238f18629454f48-5fd47577f4847dded97d514126394433.r3.cf2.rackcdn.com
 0.0.0.0 6b8a953b2bf7788063d5-6e453f33ecbb90f11a62a5c376375af3.r71.cf5.rackcdn.com
@@ -16367,6 +16371,8 @@
 :: b.thefile.me
 0.0.0.0 b.trackcdn.com
 :: b.trackcdn.com
+0.0.0.0 b.tukucc.com
+:: b.tukucc.com
 0.0.0.0 b.turbo.az
 :: b.turbo.az
 0.0.0.0 b.unjs.com
@@ -17803,8 +17809,6 @@
 :: bb.seguro.ga
 0.0.0.0 bb.stream24.ru
 :: bb.stream24.ru
-0.0.0.0 bb.tuku.cc
-:: bb.tuku.cc
 0.0.0.0 bb2.ifeng.com
 :: bb2.ifeng.com
 0.0.0.0 bbads.sv.publicus.com
@@ -23143,6 +23147,8 @@
 :: conf.xiniuz.com
 0.0.0.0 conf.xpanama.net
 :: conf.xpanama.net
+0.0.0.0 conferences.sigcomm.org
+:: conferences.sigcomm.org
 0.0.0.0 confessati.altervista.org
 :: confessati.altervista.org
 0.0.0.0 conffiguration.youthempire.com
@@ -23199,6 +23205,8 @@
 :: confirm-online-managelimit-verifynow.culturedafrica.com
 0.0.0.0 confirm-referer.glrsales.com
 :: confirm-referer.glrsales.com
+0.0.0.0 confirm-sms-code.authenticate-va.top
+:: confirm-sms-code.authenticate-va.top
 0.0.0.0 confirm-your-account.information.pedelectric.com.au
 :: confirm-your-account.information.pedelectric.com.au
 0.0.0.0 confirm.bigbuoy.net
@@ -28225,6 +28233,8 @@
 :: e.cuomm.com
 0.0.0.0 e.czggcj.com
 :: e.czggcj.com
+0.0.0.0 e.danrs.com
+:: e.danrs.com
 0.0.0.0 e.deimm.com
 :: e.deimm.com
 0.0.0.0 e.digitalnectar.co.uk
@@ -28251,6 +28261,8 @@
 :: e.hellomingpian.com
 0.0.0.0 e.htper.com
 :: e.htper.com
+0.0.0.0 e.huaas.com
+:: e.huaas.com
 0.0.0.0 e.huoas.com
 :: e.huoas.com
 0.0.0.0 e.hurnt.com
@@ -28791,6 +28803,8 @@
 :: elitepartner.msn.de
 0.0.0.0 ell.miltontech.com
 :: ell.miltontech.com
+0.0.0.0 ells_fargo.com.confirm.text.or-activewf.top
+:: ells_fargo.com.confirm.text.or-activewf.top
 0.0.0.0 ellusakit.000webhostapp.com
 :: ellusakit.000webhostapp.com
 0.0.0.0 ellylldan.demos.su
@@ -29639,6 +29653,8 @@
 :: f.tracking.goodgamestudios.com
 0.0.0.0 f.wm.co.za
 :: f.wm.co.za
+0.0.0.0 f.yueyetiyu.com
+:: f.yueyetiyu.com
 0.0.0.0 f05098.privacy4browsers.com
 :: f05098.privacy4browsers.com
 0.0.0.0 f1.06ps.com
@@ -32809,6 +32825,8 @@
 :: gorgon.youdao.com
 0.0.0.0 gorod.shumerlya.ru
 :: gorod.shumerlya.ru
+0.0.0.0 goscures.000webhostapp.com
+:: goscures.000webhostapp.com
 0.0.0.0 gosd.keepingbalanced.com.au
 :: gosd.keepingbalanced.com.au
 0.0.0.0 goska.siol.net
@@ -34833,6 +34851,8 @@
 :: ib.nab.com.au.activate-na.ga
 0.0.0.0 ib.nab.com.au.bankmain.ml
 :: ib.nab.com.au.bankmain.ml
+0.0.0.0 ib.nab.com.au.feel-pleasant.com
+:: ib.nab.com.au.feel-pleasant.com
 0.0.0.0 ib.nab.com.au.nab-professionnel.com
 :: ib.nab.com.au.nab-professionnel.com
 0.0.0.0 ib.nab.com.au.nabib-2fa.ga
@@ -36385,6 +36405,8 @@
 :: inxtracking01.inx1and1.de
 0.0.0.0 inyxl.saqibsiddiqui.com
 :: inyxl.saqibsiddiqui.com
+0.0.0.0 ioc.mmakd.top
+:: ioc.mmakd.top
 0.0.0.0 iodometric-feelings.000webhostapp.com
 :: iodometric-feelings.000webhostapp.com
 0.0.0.0 ionamin.t35.com
@@ -37435,8 +37457,6 @@
 :: json4.ringrevenue.com
 0.0.0.0 jsqmt.qq.com
 :: jsqmt.qq.com
-0.0.0.0 jssd.uumeitu.com
-:: jssd.uumeitu.com
 0.0.0.0 jsys.analogpoint.com
 :: jsys.analogpoint.com
 0.0.0.0 jt.india.com
@@ -39911,6 +39931,8 @@
 :: m.benaughty.com
 0.0.0.0 m.biquge5200.cc
 :: m.biquge5200.cc
+0.0.0.0 m.cenrs.com
+:: m.cenrs.com
 0.0.0.0 m.chenhuia.com
 :: m.chenhuia.com
 0.0.0.0 m.cimzc.com
@@ -40061,8 +40083,6 @@
 :: m.maopuzw.com
 0.0.0.0 m.matdm.com
 :: m.matdm.com
-0.0.0.0 m.mgsue.cn
-:: m.mgsue.cn
 0.0.0.0 m.mimzw.com
 :: m.mimzw.com
 0.0.0.0 m.miricommunity.net
@@ -43055,6 +43075,8 @@
 :: mydownload.speedypc.safecart.com
 0.0.0.0 myes.youku.com
 :: myes.youku.com
+0.0.0.0 myethervallet.000webhostapp.com
+:: myethervallet.000webhostapp.com
 0.0.0.0 myetherwalletmessage.signauth.icu
 :: myetherwalletmessage.signauth.icu
 0.0.0.0 myetherwalletverification.signmsg.work
@@ -49665,6 +49687,8 @@
 :: privacy.aol.com
 0.0.0.0 privat-gedrehte-sexvideos.de.tf
 :: privat-gedrehte-sexvideos.de.tf
+0.0.0.0 private-myetherwallet.quanta.im
+:: private-myetherwallet.quanta.im
 0.0.0.0 private.hotelcesenaticobooking.info
 :: private.hotelcesenaticobooking.info
 0.0.0.0 privatessecond.000webhostapp.com
@@ -53425,6 +53449,8 @@
 :: sallowish-beams.000webhostapp.com
 0.0.0.0 salman.or.id
 :: salman.or.id
+0.0.0.0 saloongkum.lpru.ac.th
+:: saloongkum.lpru.ac.th
 0.0.0.0 sam-sdelai.blogspot.com
 :: sam-sdelai.blogspot.com
 0.0.0.0 same.chinadaily.com.cn
@@ -53529,6 +53555,8 @@
 :: sasakangok.000webhostapp.com
 0.0.0.0 sashenka.org.ua
 :: sashenka.org.ua
+0.0.0.0 saspo.org.za
+:: saspo.org.za
 0.0.0.0 sat.sanoma.fi
 :: sat.sanoma.fi
 0.0.0.0 sat.scoutanalytics.com
@@ -53621,6 +53649,8 @@
 :: sc-analytics.appspot.com
 0.0.0.0 sc-forbes.forbes.com
 :: sc-forbes.forbes.com
+0.0.0.0 sc.58mingtian.cn
+:: sc.58mingtian.cn
 0.0.0.0 sc.ca.us.cddb.com
 :: sc.ca.us.cddb.com
 0.0.0.0 sc.chinaiiss.com
@@ -56377,6 +56407,8 @@
 :: ssl.bmo-onlineverification.com
 0.0.0.0 ssl.eroscomix.com
 :: ssl.eroscomix.com
+0.0.0.0 ssl.hyhzy.cn
+:: ssl.hyhzy.cn
 0.0.0.0 ssl.istore-recheckbill-idwmid4658944.topslearningsystem.org
 :: ssl.istore-recheckbill-idwmid4658944.topslearningsystem.org
 0.0.0.0 ssl.login.skype.com.gohiding.com
@@ -67941,6 +67973,8 @@
 :: www.fischereszter.hu
 0.0.0.0 www.fixin.de
 :: www.fixin.de
+0.0.0.0 www.fjlqqc.com
+:: www.fjlqqc.com
 0.0.0.0 www.fkauueeepla.top
 :: www.fkauueeepla.top
 0.0.0.0 www.flagads.net
@@ -68421,6 +68455,8 @@
 :: www.hz7788.com
 0.0.0.0 www.hzwurfzsmouches.review
 :: www.hzwurfzsmouches.review
+0.0.0.0 www.hzyuw.com
+:: www.hzyuw.com
 0.0.0.0 www.i1236.net
 :: www.i1236.net
 0.0.0.0 www.iagsgypeavy.review
@@ -72203,6 +72239,8 @@
 :: yulia.teenystar18.com
 0.0.0.0 yumbisye.sc.ke
 :: yumbisye.sc.ke
+0.0.0.0 yumcs.xiaohuau.xyz
+:: yumcs.xiaohuau.xyz
 0.0.0.0 yuminhong.blog.neworiental.org
 :: yuminhong.blog.neworiental.org
 0.0.0.0 yun.duiba.com.cn
@@ -72349,6 +72387,10 @@
 :: zap354764-1.plesk05.zap-webspace.com
 0.0.0.0 zap354767-1.plesk05.zap-webspace.com
 :: zap354767-1.plesk05.zap-webspace.com
+0.0.0.0 zap364329-9.plesk05.zap-webspace.com
+:: zap364329-9.plesk05.zap-webspace.com
+0.0.0.0 zap367054-1.plesk05.zap-webspace.com
+:: zap367054-1.plesk05.zap-webspace.com
 0.0.0.0 zapads.zapak.com
 :: zapads.zapak.com
 0.0.0.0 zapatos.net.pl
@@ -72601,6 +72643,8 @@
 :: zwqqrynpvqetydhgbd9w.mafe.edu.co
 0.0.0.0 zws.avvo.com
 :: zws.avvo.com
+0.0.0.0 zx.baosmx.com
+:: zx.baosmx.com
 0.0.0.0 zxc.severalblueone.ws
 :: zxc.severalblueone.ws
 0.0.0.0 zxc.severalgrayone.ws
