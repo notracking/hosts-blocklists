@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Aug 3 05:03:15 CEST 2018
+# Last update: Sat Aug 4 05:12:56 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36343
+# Number of unique hostnames: 36372
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -143,6 +143,8 @@
 :: 1.21shebao.com
 0.0.0.0 1.51sxue.cn
 :: 1.51sxue.cn
+0.0.0.0 1.92caijing.com
+:: 1.92caijing.com
 0.0.0.0 1.activedriver.com
 :: 1.activedriver.com
 0.0.0.0 1.aili.com
@@ -265,6 +267,8 @@
 :: 100league0flegends00mystery001.000webhostapp.com
 0.0.0.0 103.hosting-5.xtream.co.il
 :: 103.hosting-5.xtream.co.il
+0.0.0.0 1036560fsp.hol.es
+:: 1036560fsp.hol.es
 0.0.0.0 104231.dtiblog.com
 :: 104231.dtiblog.com
 0.0.0.0 109-204-26-16.netconnexion.managedbroadband.co.uk
@@ -5717,6 +5721,8 @@
 :: admedia.xoom.com
 0.0.0.0 admedia.xoom.org
 :: admedia.xoom.org
+0.0.0.0 admediator.unityads.unity3d.com
+:: admediator.unityads.unity3d.com
 0.0.0.0 admega.feed.gr
 :: admega.feed.gr
 0.0.0.0 admetcheck.atwebpages.com
@@ -11289,6 +11295,8 @@
 :: adserver.ukplus.co.uk
 0.0.0.0 adserver.uniqube.tv
 :: adserver.uniqube.tv
+0.0.0.0 adserver.unityads.unity3d.com
+:: adserver.unityads.unity3d.com
 0.0.0.0 adserver.uproxx.com
 :: adserver.uproxx.com
 0.0.0.0 adserver.us.outblaze.com
@@ -13917,6 +13925,8 @@
 :: analytics.epublica.de
 0.0.0.0 analytics.faw.sky.com
 :: analytics.faw.sky.com
+0.0.0.0 analytics.ff.avast.com
+:: analytics.ff.avast.com
 0.0.0.0 analytics.freedom.com
 :: analytics.freedom.com
 0.0.0.0 analytics.fuckingawesome.com
@@ -15901,6 +15911,8 @@
 :: au.w.inmobi.cn
 0.0.0.0 aubentonia.measurelighter.ru
 :: aubentonia.measurelighter.ru
+0.0.0.0 auction.unityads.unity3d.com
+:: auction.unityads.unity3d.com
 0.0.0.0 auderda.ellogroup.ru
 :: auderda.ellogroup.ru
 0.0.0.0 audio-ec.spotify.com
@@ -15939,6 +15951,8 @@
 :: ausubelinstituto.edu.mx
 0.0.0.0 ausweb1.streamline-servers.com
 :: ausweb1.streamline-servers.com
+0.0.0.0 auth--bank-sms.va-unlock.xyz
+:: auth--bank-sms.va-unlock.xyz
 0.0.0.0 auth-service-customer-log-in-secure.c11.ixsecure.com
 :: auth-service-customer-log-in-secure.c11.ixsecure.com
 0.0.0.0 auth.ameli.assurance.maladie.moncompte.clients.crustiforme.net
@@ -18505,8 +18519,6 @@
 :: bizad.nikkeibp.co.jp
 0.0.0.0 bizanti.youwatch.org
 :: bizanti.youwatch.org
-0.0.0.0 bizneskatalogyekaterinburg.mobivizitka.com
-:: bizneskatalogyekaterinburg.mobivizitka.com
 0.0.0.0 bj.bcebos.com
 :: bj.bcebos.com
 0.0.0.0 bj.imp.voiceads.cn
@@ -20467,6 +20479,8 @@
 :: cdn-analytics.ladmedia.fr
 0.0.0.0 cdn-gcs.outfit7.com
 :: cdn-gcs.outfit7.com
+0.0.0.0 cdn-highwinds.unityads.unity3d.com
+:: cdn-highwinds.unityads.unity3d.com
 0.0.0.0 cdn-i.dmdentertainment.com
 :: cdn-i.dmdentertainment.com
 0.0.0.0 cdn-partners-references.lesoir.be
@@ -20921,6 +20935,8 @@
 :: cdn.trafficposse.com
 0.0.0.0 cdn.tuto4pc.com
 :: cdn.tuto4pc.com
+0.0.0.0 cdn.unityads.unity3d.com
+:: cdn.unityads.unity3d.com
 0.0.0.0 cdn.usabilitytracker.com
 :: cdn.usabilitytracker.com
 0.0.0.0 cdn.vaguntrader.com
@@ -22761,6 +22777,8 @@
 :: cmn5uuql6bhafukwc05r.viomil.ro
 0.0.0.0 cmop.mgtv.com
 :: cmop.mgtv.com
+0.0.0.0 cmp.entertainmentcrave.com
+:: cmp.entertainmentcrave.com
 0.0.0.0 cmp.vidcoin.com
 :: cmp.vidcoin.com
 0.0.0.0 cmpp.gentags.net
@@ -22991,6 +23009,8 @@
 :: coin-hive-stratum-yvvbqoavck.now.sh
 0.0.0.0 coin.bajarlo.net
 :: coin.bajarlo.net
+0.0.0.0 coinbasespromo.tumblr.com
+:: coinbasespromo.tumblr.com
 0.0.0.0 coincoquin.free.fr
 :: coincoquin.free.fr
 0.0.0.0 col.hztags.net
@@ -23173,6 +23193,8 @@
 :: config.mobisage.cn
 0.0.0.0 config.push.sogou.com
 :: config.push.sogou.com
+0.0.0.0 config.unityads.unity3d.com
+:: config.unityads.unity3d.com
 0.0.0.0 config1.veinteractive.com
 :: config1.veinteractive.com
 0.0.0.0 configuraation.altavistabastos.com.br
@@ -26939,6 +26961,8 @@
 :: dj.renren.com
 0.0.0.0 dj1.baidu.com
 :: dj1.baidu.com
+0.0.0.0 dj5ag5n6bpdxo.cloudfront.net
+:: dj5ag5n6bpdxo.cloudfront.net
 0.0.0.0 djangogui.tuxfamily.org
 :: djangogui.tuxfamily.org
 0.0.0.0 djbanners.deadjournal.com
@@ -27747,6 +27771,8 @@
 :: drm.cmgame.com
 0.0.0.0 drmcmm.baidu.com
 :: drmcmm.baidu.com
+0.0.0.0 drmmc.edu.bd
+:: drmmc.edu.bd
 0.0.0.0 drobebill.tranchespay.cf
 :: drobebill.tranchespay.cf
 0.0.0.0 drobox.japahall.com.br
@@ -30105,6 +30131,8 @@
 :: fbaccountsecurity20042018.000webhostapp.com
 0.0.0.0 fbbaodantri.byethost32.com
 :: fbbaodantri.byethost32.com
+0.0.0.0 fbbcs.justmagicdesign.com
+:: fbbcs.justmagicdesign.com
 0.0.0.0 fbc.wcfbc.net
 :: fbc.wcfbc.net
 0.0.0.0 fbcdn-com.44e5e90de53e92dbfde22aaf3b061280.gq
@@ -30729,6 +30757,8 @@
 :: filosvybfimpsv.ru.gg
 0.0.0.0 filoumektoub.free.fr
 :: filoumektoub.free.fr
+0.0.0.0 filter.adexchangemedia.xyz
+:: filter.adexchangemedia.xyz
 0.0.0.0 filter.bluemediappc.com
 :: filter.bluemediappc.com
 0.0.0.0 filter.mediacpc.com
@@ -32465,6 +32495,8 @@
 :: ggr.yxdown.com
 0.0.0.0 ggs.myzaker.com
 :: ggs.myzaker.com
+0.0.0.0 ggvrefis.000webhostapp.com
+:: ggvrefis.000webhostapp.com
 0.0.0.0 ggvvee.000webhostapp.com
 :: ggvvee.000webhostapp.com
 0.0.0.0 ggw.gusuwang.com
@@ -36427,6 +36459,8 @@
 :: ip-acc.000webhostapp.com
 0.0.0.0 ip-geo.appspot.com
 :: ip-geo.appspot.com
+0.0.0.0 ip-info.ff.avast.com
+:: ip-info.ff.avast.com
 0.0.0.0 ip.hivps.xyz
 :: ip.hivps.xyz
 0.0.0.0 ip2.pxene.com
@@ -38607,6 +38641,8 @@
 :: legsfetish.blogspot.pt
 0.0.0.0 legsfetish.blogspot.sk
 :: legsfetish.blogspot.sk
+0.0.0.0 lelojaterz.temp.swtest.ru
+:: lelojaterz.temp.swtest.ru
 0.0.0.0 lelong.000webhostapp.com
 :: lelong.000webhostapp.com
 0.0.0.0 lemeilleurdelhumour.free.fr
@@ -42651,6 +42687,8 @@
 :: morarerque-1bruzual.paladin-global.net
 0.0.0.0 moravianjournal.upol.cz
 :: moravianjournal.upol.cz
+0.0.0.0 more.square7.ch
+:: more.square7.ch
 0.0.0.0 more.vjjays.com
 :: more.vjjays.com
 0.0.0.0 more.webvahini.com
@@ -45503,6 +45541,8 @@
 :: online.myca.logon.us.action.support.services.index.htm.docs.cylinderliners.co.in
 0.0.0.0 online.paypal.com.sttlf3c9nc.ignition3.tv
 :: online.paypal.com.sttlf3c9nc.ignition3.tv
+0.0.0.0 online.secure.signin.usawf.download
+:: online.secure.signin.usawf.download
 0.0.0.0 online.securedept02.ga
 :: online.securedept02.ga
 0.0.0.0 online.sh.cn
@@ -49099,6 +49139,8 @@
 :: pong.netcaptor.com
 0.0.0.0 pong.prognet.com
 :: pong.prognet.com
+0.0.0.0 pontofrio.ofertasdodia.ml
+:: pontofrio.ofertasdodia.ml
 0.0.0.0 pool.distilled.ie
 :: pool.distilled.ie
 0.0.0.0 pool.hws.ru
@@ -50435,6 +50477,8 @@
 :: publish.pizzazzemail.com
 0.0.0.0 publish.vidavee.com
 :: publish.vidavee.com
+0.0.0.0 publisher-config.unityads.unity3d.com
+:: publisher-config.unityads.unity3d.com
 0.0.0.0 pubportal.brkmd.com
 :: pubportal.brkmd.com
 0.0.0.0 pubs.france-hardware.com
@@ -57657,6 +57701,8 @@
 :: stats.unionleader.com
 0.0.0.0 stats.united-domains.de
 :: stats.united-domains.de
+0.0.0.0 stats.unity3d.com
+:: stats.unity3d.com
 0.0.0.0 stats.unwired-i.net
 :: stats.unwired-i.net
 0.0.0.0 stats.uswitch.com
@@ -59403,6 +59449,8 @@
 :: test.e.ad.xiaomi.com
 0.0.0.0 test.eduancm.com
 :: test.eduancm.com
+0.0.0.0 test.fireonlineradio.com
+:: test.fireonlineradio.com
 0.0.0.0 test.gaxtoa.com
 :: test.gaxtoa.com
 0.0.0.0 test.ishvara-yoga.com
@@ -61947,6 +61995,8 @@
 :: txads.buzzcity.com
 0.0.0.0 txqgchvh.ce.ms
 :: txqgchvh.ce.ms
+0.0.0.0 txt-suspension-approval.va-authenticate.top
+:: txt-suspension-approval.va-authenticate.top
 0.0.0.0 txt.go.sohu.com
 :: txt.go.sohu.com
 0.0.0.0 txt.utro.ru
@@ -63477,6 +63527,8 @@
 :: v6exp3-ds.metric.ipv6test.net
 0.0.0.0 v7.stats.load.com
 :: v7.stats.load.com
+0.0.0.0 v7event.stats.avast.com
+:: v7event.stats.avast.com
 0.0.0.0 v8.analytics.pinsightmedia.com
 :: v8.analytics.pinsightmedia.com
 0.0.0.0 v8395ogcnwvzycxmbxt8.maherstcottage.com.au
@@ -63935,6 +63987,8 @@
 :: vip001-secure.000webhostapp.com
 0.0.0.0 vip01-secure.000webhostapp.com
 :: vip01-secure.000webhostapp.com
+0.0.0.0 vipaul.wpdevcloud.com
+:: vipaul.wpdevcloud.com
 0.0.0.0 vipdn123.blackapplehost.com
 :: vipdn123.blackapplehost.com
 0.0.0.0 vipminisowt.esy.es
@@ -65271,6 +65325,8 @@
 :: webusers.anet-stl.com
 0.0.0.0 webuysupplystore.mooo.com
 :: webuysupplystore.mooo.com
+0.0.0.0 webview.unityads.unity3d.com
+:: webview.unityads.unity3d.com
 0.0.0.0 webviper.dyn.ml.org
 :: webviper.dyn.ml.org
 0.0.0.0 webvkk.esy.es
@@ -66399,6 +66455,8 @@
 :: www.18dusun.com
 0.0.0.0 www.1933000.com
 :: www.1933000.com
+0.0.0.0 www.1axb.com
+:: www.1axb.com
 0.0.0.0 www.1clickdownloader.com
 :: www.1clickdownloader.com
 0.0.0.0 www.1freecounter.com
