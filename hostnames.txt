@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Aug 5 05:07:14 CEST 2018
+# Last update: Mon Aug 6 05:12:20 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36375
+# Number of unique hostnames: 36389
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -26113,6 +26113,8 @@
 :: dc.meitustat.com
 0.0.0.0 dc.plussizetech.com
 :: dc.plussizetech.com
+0.0.0.0 dc.railgun.works
+:: dc.railgun.works
 0.0.0.0 dc.services.visualstudio.com
 :: dc.services.visualstudio.com
 0.0.0.0 dc.sify.com
@@ -26549,6 +26551,8 @@
 :: details.information.center.security.interac.akunnet.com
 0.0.0.0 detect.ergebnis-dienst.de
 :: detect.ergebnis-dienst.de
+0.0.0.0 detect.rayjump.com
+:: detect.rayjump.com
 0.0.0.0 detectinfologs010.000webhostapp.com
 :: detectinfologs010.000webhostapp.com
 0.0.0.0 detnsuoxy81x.cloudfront.net
@@ -30011,6 +30015,8 @@
 :: fast-cdn.dianjoy.com
 0.0.0.0 fast-nc.appcues.com
 :: fast-nc.appcues.com
+0.0.0.0 fast.fonts.net
+:: fast.fonts.net
 0.0.0.0 fast.forbes.com
 :: fast.forbes.com
 0.0.0.0 fast.zti.co.za
@@ -33359,6 +33365,8 @@
 :: haostat.qihoo.com
 0.0.0.0 hapic1.jhkxwl.com
 :: hapic1.jhkxwl.com
+0.0.0.0 hapic1.zhuangxiu22.com
+:: hapic1.zhuangxiu22.com
 0.0.0.0 happy-fun.tripod.net
 :: happy-fun.tripod.net
 0.0.0.0 happycrazy.weboldala.net
@@ -34705,6 +34713,8 @@
 :: i.esprit-click.com
 0.0.0.0 i.exit-ad.com
 :: i.exit-ad.com
+0.0.0.0 i.frg.im
+:: i.frg.im
 0.0.0.0 i.gdt.qq.com
 :: i.gdt.qq.com
 0.0.0.0 i.go.sohu.com
@@ -37055,6 +37065,8 @@
 :: jingjia.qq.com
 0.0.0.0 jira.face2trade.com
 :: jira.face2trade.com
+0.0.0.0 jita.rtk.io
+:: jita.rtk.io
 0.0.0.0 jixguzfaxdajzhhasiqd.ahdaaf.org
 :: jixguzfaxdajzhhasiqd.ahdaaf.org
 0.0.0.0 jiyazaza.boxhost.me
@@ -45651,6 +45663,8 @@
 :: open.cellphonesglobal.com
 0.0.0.0 open.i-kiddi.com
 :: open.i-kiddi.com
+0.0.0.0 open.inkfrog.com
+:: open.inkfrog.com
 0.0.0.0 open.kurtgallant.com
 :: open.kurtgallant.com
 0.0.0.0 open.liveapp.cn
@@ -53999,12 +54013,16 @@
 :: sditazzahra.sch.id
 0.0.0.0 sdjfnsdkjfnsdkjfnksdjvnsdvsdsvd.000webhostapp.com
 :: sdjfnsdkjfnsdkjfnksdjvnsdvsdsvd.000webhostapp.com
+0.0.0.0 sdk-cdn.beeketing.com
+:: sdk-cdn.beeketing.com
 0.0.0.0 sdk.api.gamex.mobile.youku.com
 :: sdk.api.gamex.mobile.youku.com
 0.0.0.0 sdk.api.xtify.com
 :: sdk.api.xtify.com
 0.0.0.0 sdk.appadhoc.com
 :: sdk.appadhoc.com
+0.0.0.0 sdk.beeketing.com
+:: sdk.beeketing.com
 0.0.0.0 sdk.cdnmaster.com
 :: sdk.cdnmaster.com
 0.0.0.0 sdk.cmgame.com
@@ -57081,6 +57099,8 @@
 :: static.the-button.com
 0.0.0.0 static.thumbr.com
 :: static.thumbr.com
+0.0.0.0 static.tidiochat.com
+:: static.tidiochat.com
 0.0.0.0 static.top-hitz.com
 :: static.top-hitz.com
 0.0.0.0 static.tracking202.com
@@ -58497,6 +58517,8 @@
 :: sync.pulseradius.com
 0.0.0.0 sync.rambler.ru
 :: sync.rambler.ru
+0.0.0.0 sync.rtk.io
+:: sync.rtk.io
 0.0.0.0 sync.teamrtb.net
 :: sync.teamrtb.net
 0.0.0.0 sync.ttlbd.net
@@ -59627,6 +59649,10 @@
 :: thoidai.ongruotgaloithep.com
 0.0.0.0 thomasparisi003.000webhostapp.com
 :: thomasparisi003.000webhostapp.com
+0.0.0.0 thor.blindferret.media
+:: thor.blindferret.media
+0.0.0.0 thor.rtk.io
+:: thor.rtk.io
 0.0.0.0 thpqvpken.fgppchg.fgpp.com
 :: thpqvpken.fgppchg.fgpp.com
 0.0.0.0 threats.nwpc.safecart.com
@@ -71337,6 +71363,8 @@
 :: www25.victoriassecret.com
 0.0.0.0 www250.dm599.com
 :: www250.dm599.com
+0.0.0.0 www281.rentimeinvz.com
+:: www281.rentimeinvz.com
 0.0.0.0 www293.lewwwz.com
 :: www293.lewwwz.com
 0.0.0.0 www3.32hy.com
