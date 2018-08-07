@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Aug 6 05:12:20 CEST 2018
+# Last update: Tue Aug 7 05:14:31 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36389
+# Number of unique hostnames: 36391
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -66133,6 +66133,8 @@
 :: wrosttaygb.5gbfree.com
 0.0.0.0 wrt.mtr-4uk.com
 :: wrt.mtr-4uk.com
+0.0.0.0 wrutor.org.pl
+:: wrutor.org.pl
 0.0.0.0 ws-164-87.clok.creative.com
 :: ws-164-87.clok.creative.com
 0.0.0.0 ws.amazon.com
@@ -71537,6 +71539,8 @@
 :: wypad3k0.blogspot.com
 0.0.0.0 wypromuj.nazwa.pl
 :: wypromuj.nazwa.pl
+0.0.0.0 wyzq.rehuwang.com
+:: wyzq.rehuwang.com
 0.0.0.0 wz.37wan.com
 :: wz.37wan.com
 0.0.0.0 wzfield.advertsex.com
