@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Aug 7 05:14:31 CEST 2018
+# Last update: Wed Aug 8 05:12:54 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36391
+# Number of unique hostnames: 36404
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -5623,6 +5623,8 @@
 :: adm.86wan.com
 0.0.0.0 adm.baidu.com
 :: adm.baidu.com
+0.0.0.0 adm.beimg.com
+:: adm.beimg.com
 0.0.0.0 adm.cloud.cnfol.com
 :: adm.cloud.cnfol.com
 0.0.0.0 adm.easou.com
@@ -14133,6 +14135,8 @@
 :: analytics.theknot.com
 0.0.0.0 analytics.themarketiq.com
 :: analytics.themarketiq.com
+0.0.0.0 analytics.theminersunion.com
+:: analytics.theminersunion.com
 0.0.0.0 analytics.thenest.com
 :: analytics.thenest.com
 0.0.0.0 analytics.thevideo.me
@@ -15887,6 +15891,8 @@
 :: attributiontrackingga.googlecode.com
 0.0.0.0 attt.mppl.pk
 :: attt.mppl.pk
+0.0.0.0 atual.imb.br
+:: atual.imb.br
 0.0.0.0 atualiz-cadastro.esy.es
 :: atualiz-cadastro.esy.es
 0.0.0.0 atualizacaomobile.craym.eu
@@ -15969,6 +15975,8 @@
 :: authenticly.magnetandmetal.com
 0.0.0.0 authentification.hfghdgth.beget.tech
 :: authentification.hfghdgth.beget.tech
+0.0.0.0 authsign2.accsprivacya29udg9symfyb2thaa-custompplogsec0.kontolbarokah.com
+:: authsign2.accsprivacya29udg9symfyb2thaa-custompplogsec0.kontolbarokah.com
 0.0.0.0 autizmus.n1.hu
 :: autizmus.n1.hu
 0.0.0.0 auto-ofice-com.umbler.net
@@ -20381,6 +20389,8 @@
 :: cbalxzldjt.bradul.creatory.org
 0.0.0.0 cbanners.virtuagirlhd.com
 :: cbanners.virtuagirlhd.com
+0.0.0.0 cbdm.weathercn.com
+:: cbdm.weathercn.com
 0.0.0.0 cbdzz.pcloadletter.quhu.info
 :: cbdzz.pcloadletter.quhu.info
 0.0.0.0 cbjs.baidu.com
@@ -23161,8 +23171,6 @@
 :: conf.xiniuz.com
 0.0.0.0 conf.xpanama.net
 :: conf.xpanama.net
-0.0.0.0 conferences.sigcomm.org
-:: conferences.sigcomm.org
 0.0.0.0 confessati.altervista.org
 :: confessati.altervista.org
 0.0.0.0 conffiguration.youthempire.com
@@ -24503,6 +24511,8 @@
 :: czmlfc.sxtm30.badudns.cc
 0.0.0.0 cznshuya.ivnet.ru
 :: cznshuya.ivnet.ru
+0.0.0.0 d-r.barefootwine.ca
+:: d-r.barefootwine.ca
 0.0.0.0 d-ssl.ustream.tv
 :: d-ssl.ustream.tv
 0.0.0.0 d.107788.com
@@ -28391,6 +28401,8 @@
 :: e2.molbuk.ua
 0.0.0.0 e2b8u3v8.map2.ssl.hwcdn.net
 :: e2b8u3v8.map2.ssl.hwcdn.net
+0.0.0.0 e2cb3799.ngrok.io
+:: e2cb3799.ngrok.io
 0.0.0.0 e3.adpushup.com
 :: e3.adpushup.com
 0.0.0.0 e32e0c3c972d179cd1d0-1847ac4c91d55b307d162b6d5ad07fe3.r71.cf2.rackcdn.com
@@ -29301,6 +29313,8 @@
 :: eth55.ethpays99.top
 0.0.0.0 ethaddress.neocities.org
 :: ethaddress.neocities.org
+0.0.0.0 ether.blogmedium.top
+:: ether.blogmedium.top
 0.0.0.0 ethereum-giveaway.kissr.com
 :: ethereum-giveaway.kissr.com
 0.0.0.0 ethergiveaways.tumblr.com
@@ -34889,6 +34903,8 @@
 :: ib.nab.com.au.bankmain.ml
 0.0.0.0 ib.nab.com.au.feel-pleasant.com
 :: ib.nab.com.au.feel-pleasant.com
+0.0.0.0 ib.nab.com.au.mccannlabs.com
+:: ib.nab.com.au.mccannlabs.com
 0.0.0.0 ib.nab.com.au.nab-professionnel.com
 :: ib.nab.com.au.nab-professionnel.com
 0.0.0.0 ib.nab.com.au.nabib-2fa.ga
@@ -35563,8 +35579,6 @@
 :: img.df-stream.net
 0.0.0.0 img.discovery.com
 :: img.discovery.com
-0.0.0.0 img.doub.pw
-:: img.doub.pw
 0.0.0.0 img.ercfh.com
 :: img.ercfh.com
 0.0.0.0 img.espngp.com
@@ -38283,6 +38297,8 @@
 :: kz.search.need2find.com
 0.0.0.0 kz9bej.best.pershoretaxis.co.uk
 :: kz9bej.best.pershoretaxis.co.uk
+0.0.0.0 l-assurance-maladie-gouv-public.fr-particuliers.playgolfbali.com
+:: l-assurance-maladie-gouv-public.fr-particuliers.playgolfbali.com
 0.0.0.0 l.adiers.com
 :: l.adiers.com
 0.0.0.0 l.deals.ebay.com
@@ -38779,6 +38795,8 @@
 :: lhqtz6bs-site.1tempurl.com
 0.0.0.0 liarsbar.karoo.net
 :: liarsbar.karoo.net
+0.0.0.0 liassic-doorknobs.000webhostapp.com
+:: liassic-doorknobs.000webhostapp.com
 0.0.0.0 lib.haotv8.com
 :: lib.haotv8.com
 0.0.0.0 lib.onet.pl
@@ -42453,8 +42471,6 @@
 :: mobile.30hrsoniine.com
 0.0.0.0 mobile.activeshopper.com
 :: mobile.activeshopper.com
-0.0.0.0 mobile.audible.com
-:: mobile.audible.com
 0.0.0.0 mobile.banzai.it
 :: mobile.banzai.it
 0.0.0.0 mobile.bet.pt
@@ -47277,6 +47293,8 @@
 :: patriot.cs.pp.cn
 0.0.0.0 patrono.com.br.villantio.com
 :: patrono.com.br.villantio.com
+0.0.0.0 paulor.pro.br
+:: paulor.pro.br
 0.0.0.0 pave.elisecries.com
 :: pave.elisecries.com
 0.0.0.0 pavypal.com-privacypolicy.updateaccount.resolutioncenter.supporthelp-loginpage.vds7.org
@@ -47519,6 +47537,8 @@
 :: paypal.com.webapps.mpp.home.e.belllimeited.belllimeited.com
 0.0.0.0 paypal.com.websapss109851.disputesecureaccount.cf
 :: paypal.com.websapss109851.disputesecureaccount.cf
+0.0.0.0 paypal.com.webscrnes.com
+:: paypal.com.webscrnes.com
 0.0.0.0 paypal.com30ebbywi4y2e0zmriogi0zthimtmwoweyn2mxognjngu4.sterbanot.com
 :: paypal.com30ebbywi4y2e0zmriogi0zthimtmwoweyn2mxognjngu4.sterbanot.com
 0.0.0.0 paypal.comservice.cf
@@ -53753,8 +53773,6 @@
 :: scfksihyg.legacyminerals.net
 0.0.0.0 scgg.denisehowells.com.au
 :: scgg.denisehowells.com.au
-0.0.0.0 schedule.mywegmansconnect.com
-:: schedule.mywegmansconnect.com
 0.0.0.0 schemas.microsoft.akadns.net
 :: schemas.microsoft.akadns.net
 0.0.0.0 schlampen-ficken.thumblogger.com
@@ -58577,8 +58595,6 @@
 :: system2018.at.ua
 0.0.0.0 systemmonitoring.badgeville.com
 :: systemmonitoring.badgeville.com
-0.0.0.0 systempartnerski.oferty-kredytowe.pl
-:: systempartnerski.oferty-kredytowe.pl
 0.0.0.0 systemschecks01.000webhostapp.com
 :: systemschecks01.000webhostapp.com
 0.0.0.0 systimrecovery48.000webhostapp.com
@@ -63343,6 +63359,8 @@
 :: user57364.vs.speednames.com
 0.0.0.0 user57366.vs.speednames.com
 :: user57366.vs.speednames.com
+0.0.0.0 user57384.vs.speednames.com
+:: user57384.vs.speednames.com
 0.0.0.0 usercollection.chinadaily.com.cn
 :: usercollection.chinadaily.com.cn
 0.0.0.0 userlog.synapseip.tv
@@ -65265,6 +65283,8 @@
 :: websitepage2018.000webhostapp.com
 0.0.0.0 webspace.webhoster.de
 :: webspace.webhoster.de
+0.0.0.0 webstaffupdate.weebly.com
+:: webstaffupdate.weebly.com
 0.0.0.0 webstat.channel4.com
 :: webstat.channel4.com
 0.0.0.0 webstat.kuwo.cn
@@ -65533,6 +65553,8 @@
 :: wenku-cms.bj.bcebos.com
 0.0.0.0 wer.bendougou.cn
 :: wer.bendougou.cn
+0.0.0.0 wer65e578r69tyhu0iy8u8.is-a-llama.com
+:: wer65e578r69tyhu0iy8u8.is-a-llama.com
 0.0.0.0 werbeadmin.parents.at
 :: werbeadmin.parents.at
 0.0.0.0 werbung.bienenzeitung.de
@@ -66063,6 +66085,8 @@
 :: work.mariettataekwondo.com
 0.0.0.0 worker.salon.com
 :: worker.salon.com
+0.0.0.0 workfromhome-amazon-ntylpikxje.antalyamasajsalonu.net
+:: workfromhome-amazon-ntylpikxje.antalyamasajsalonu.net
 0.0.0.0 workingupdate.videoupdatelive.com
 :: workingupdate.videoupdatelive.com
 0.0.0.0 worknerdscool.tmp.k8.com.br
@@ -66983,6 +67007,8 @@
 :: www.amzgenerator.stream
 0.0.0.0 www.anaco.jp
 :: www.anaco.jp
+0.0.0.0 www.analytics.theminersunion.com
+:: www.analytics.theminersunion.com
 0.0.0.0 www.anatol.com
 :: www.anatol.com
 0.0.0.0 www.andyhoppe.com
