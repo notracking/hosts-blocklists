@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Aug 9 05:05:07 CEST 2018
+# Last update: Fri Aug 10 06:14:21 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36419
+# Number of unique hostnames: 36439
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -19857,6 +19857,8 @@
 :: c.x.oanda.com
 0.0.0.0 c.xbox.com
 :: c.xbox.com
+0.0.0.0 c.xianguonongchang.org
+:: c.xianguonongchang.org
 0.0.0.0 c.yes.youku.com
 :: c.yes.youku.com
 0.0.0.0 c.ylist.cn
@@ -21763,6 +21765,8 @@
 :: chaseonline.fastwebcolombia.com
 0.0.0.0 chaseonline.tffag.com
 :: chaseonline.tffag.com
+0.0.0.0 chaseonline.verification.domain.greenindiana.org
+:: chaseonline.verification.domain.greenindiana.org
 0.0.0.0 chaseonline1.com.chaseonlinee.com
 :: chaseonline1.com.chaseonlinee.com
 0.0.0.0 chaseonlineudate-rfdewsdgh3fyikloi7uyghgkj04.000webhostapp.com
@@ -28347,6 +28351,8 @@
 :: e.ofuda.cc
 0.0.0.0 e.okfhn.com
 :: e.okfhn.com
+0.0.0.0 e.oyrim.com
+:: e.oyrim.com
 0.0.0.0 e.poonscn.com
 :: e.poonscn.com
 0.0.0.0 e.puooi.com
@@ -29295,6 +29301,8 @@
 :: estaticos.marca.es
 0.0.0.0 estoa.frost-electric-supply.com
 :: estoa.frost-electric-supply.com
+0.0.0.0 et-mobility-canada.curbyl.tk
+:: et-mobility-canada.curbyl.tk
 0.0.0.0 et-transfer-lnterac-confirmation.periscopeandsights.com.ng
 :: et-transfer-lnterac-confirmation.periscopeandsights.com.ng
 0.0.0.0 et.grabnetworks.com
@@ -30347,6 +30355,8 @@
 :: feeds.wise-click.com
 0.0.0.0 feel.geo.jp
 :: feel.geo.jp
+0.0.0.0 feelingflavor.in.net
+:: feelingflavor.in.net
 0.0.0.0 feerere.kagithanetemizlik.net
 :: feerere.kagithanetemizlik.net
 0.0.0.0 fefeo900399093.000webhostapp.com
@@ -31461,6 +31471,8 @@
 :: fsl.sytes.net
 0.0.0.0 fsocitye.000webhostapp.com
 :: fsocitye.000webhostapp.com
+0.0.0.0 fsst.worldlinkup.org
+:: fsst.worldlinkup.org
 0.0.0.0 fsuseaad1.blob.core.windows.net
 :: fsuseaad1.blob.core.windows.net
 0.0.0.0 ft-snappy-02-debate.herokuapp.com
@@ -31865,6 +31877,8 @@
 :: ganaar.gertibaldi.com
 0.0.0.0 ganafine.5gbfree.com
 :: ganafine.5gbfree.com
+0.0.0.0 ganardineroporinternetparapay.000webhostapp.com
+:: ganardineroporinternetparapay.000webhostapp.com
 0.0.0.0 gang-bang-squad.inhit.com
 :: gang-bang-squad.inhit.com
 0.0.0.0 gang-bang.gocunt.com
@@ -35431,6 +35445,8 @@
 :: images.tigerdirect.com.edgesuite.net
 0.0.0.0 images.topguncustomz.com
 :: images.topguncustomz.com
+0.0.0.0 images.tyyjzs.cn
+:: images.tyyjzs.cn
 0.0.0.0 images.v3.com
 :: images.v3.com
 0.0.0.0 images.vantage-media.net
@@ -40107,8 +40123,12 @@
 :: m.hellomingpian.com
 0.0.0.0 m.hhllyt.com
 :: m.hhllyt.com
+0.0.0.0 m.hkmqp.com
+:: m.hkmqp.com
 0.0.0.0 m.hot-mob.com
 :: m.hot-mob.com
+0.0.0.0 m.hpfjy.com
+:: m.hpfjy.com
 0.0.0.0 m.htper.com
 :: m.htper.com
 0.0.0.0 m.huanyuexpress.com
@@ -40185,6 +40205,8 @@
 :: m.oipeirates.online
 0.0.0.0 m.openv.tv
 :: m.openv.tv
+0.0.0.0 m.oyrim.com
+:: m.oyrim.com
 0.0.0.0 m.panda.voiceads.cn
 :: m.panda.voiceads.cn
 0.0.0.0 m.phonthing.com
@@ -43585,6 +43607,8 @@
 :: new-friha.cz.cc
 0.0.0.0 new-login.esy.es
 :: new-login.esy.es
+0.0.0.0 new-rutor.org.pl
+:: new-rutor.org.pl
 0.0.0.0 new-rutor.pp.ua
 :: new-rutor.pp.ua
 0.0.0.0 new-vid-zone-1.blogspot.com.au
@@ -45565,6 +45589,8 @@
 :: online.citi.com.ura3vgncre.ignition3.tv
 0.0.0.0 online.citi.com.zijkwmwpvc.ignition3.tv
 :: online.citi.com.zijkwmwpvc.ignition3.tv
+0.0.0.0 online.director-iv.ru
+:: online.director-iv.ru
 0.0.0.0 online.dropbox.com.reload.access.check.now.latrobevillage.com.au
 :: online.dropbox.com.reload.access.check.now.latrobevillage.com.au
 0.0.0.0 online.hmrc.gov.uk.alaventa.cl
@@ -46975,6 +47001,8 @@
 :: paintball-gun.tripod.com
 0.0.0.0 pajama-playtime-felicity-fey-and-her-huge-teen-boobies.blogomer.com
 :: pajama-playtime-felicity-fey-and-her-huge-teen-boobies.blogomer.com
+0.0.0.0 palatej9.beget.tech
+:: palatej9.beget.tech
 0.0.0.0 pallotyni.ryn.pl
 :: pallotyni.ryn.pl
 0.0.0.0 pallranch.000webhostapp.com
@@ -53799,6 +53827,8 @@
 :: schlicher-domung.brightfuture.biz
 0.0.0.0 school.obec.go.th
 :: school.obec.go.th
+0.0.0.0 school8.kvz.kubannet.ru
+:: school8.kvz.kubannet.ru
 0.0.0.0 schoorsteen.geenstijl.nl
 :: schoorsteen.geenstijl.nl
 0.0.0.0 schwanz.bilder.com
@@ -53941,6 +53971,8 @@
 :: sctipt.prons.org
 0.0.0.0 scure-unpublish.000webhostapp.com
 :: scure-unpublish.000webhostapp.com
+0.0.0.0 scurespge.000webhostapp.com
+:: scurespge.000webhostapp.com
 0.0.0.0 scureweb2app.a-s-s-tgroup.com
 :: scureweb2app.a-s-s-tgroup.com
 0.0.0.0 sd.domob.cn
@@ -55253,6 +55285,8 @@
 :: shania.lip.st
 0.0.0.0 shanko2.zyr.su
 :: shanko2.zyr.su
+0.0.0.0 shantuan.meyouandtlc.com
+:: shantuan.meyouandtlc.com
 0.0.0.0 share.9cdn.net
 :: share.9cdn.net
 0.0.0.0 share.baidu.com
@@ -59433,6 +59467,8 @@
 :: tempest.services.disqus.com
 0.0.0.0 template.aebn.net
 :: template.aebn.net
+0.0.0.0 temporary.nut.cc
+:: temporary.nut.cc
 0.0.0.0 tenin58gaccel.rr.nu
 :: tenin58gaccel.rr.nu
 0.0.0.0 tennisowo.glt.pl
@@ -72537,6 +72573,8 @@
 :: zap354764-1.plesk05.zap-webspace.com
 0.0.0.0 zap354767-1.plesk05.zap-webspace.com
 :: zap354767-1.plesk05.zap-webspace.com
+0.0.0.0 zap364329-13.plesk08.zap-webspace.com
+:: zap364329-13.plesk08.zap-webspace.com
 0.0.0.0 zap364329-9.plesk05.zap-webspace.com
 :: zap364329-9.plesk05.zap-webspace.com
 0.0.0.0 zap367054-1.plesk05.zap-webspace.com
@@ -72603,6 +72641,8 @@
 :: zen.ancestrybloodhound.biz
 0.0.0.0 zen.nbci.com
 :: zen.nbci.com
+0.0.0.0 zen.yandex.ru
+:: zen.yandex.ru
 0.0.0.0 zerocash.msk.ru
 :: zerocash.msk.ru
 0.0.0.0 zeromskiego-77.naszebanki.pl
