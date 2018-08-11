@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Aug 10 06:14:21 CEST 2018
+# Last update: Sat Aug 11 05:07:03 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36439
+# Number of unique hostnames: 36455
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -423,6 +423,8 @@
 :: 1y614plpluk2lelfkn67.mbservicesyorkshire.co.uk
 0.0.0.0 1zone1.free.fr
 :: 1zone1.free.fr
+0.0.0.0 2-bit.net.ru
+:: 2-bit.net.ru
 0.0.0.0 2.1010pic.com
 :: 2.1010pic.com
 0.0.0.0 2.21shebao.com
@@ -2007,6 +2009,8 @@
 :: 6a4cc.leiuc.com
 0.0.0.0 6a4cc.leygv.com
 :: 6a4cc.leygv.com
+0.0.0.0 6a4cc.lutrw.com
+:: 6a4cc.lutrw.com
 0.0.0.0 6a802238f18629454f48-5fd47577f4847dded97d514126394433.r3.cf2.rackcdn.com
 :: 6a802238f18629454f48-5fd47577f4847dded97d514126394433.r3.cf2.rackcdn.com
 0.0.0.0 6b8a953b2bf7788063d5-6e453f33ecbb90f11a62a5c376375af3.r71.cf5.rackcdn.com
@@ -16635,6 +16639,8 @@
 :: banckounico.000webhostapp.com
 0.0.0.0 banco.itau.cl.wps.portal.olb.web.loginutpz104sj9cpykssy0xplmnmz0vmafijo8.bamcoitau.com
 :: banco.itau.cl.wps.portal.olb.web.loginutpz104sj9cpykssy0xplmnmz0vmafijo8.bamcoitau.com
+0.0.0.0 banco.pichincha.deptsistemas.com
+:: banco.pichincha.deptsistemas.com
 0.0.0.0 bancodecomercio.pagedemo.co
 :: bancodecomercio.pagedemo.co
 0.0.0.0 bancosantander.appliedatas.com
@@ -17943,6 +17949,8 @@
 :: bd-s.baixing.net
 0.0.0.0 bd.ershenghuo.com
 :: bd.ershenghuo.com
+0.0.0.0 bd.gow100.com
+:: bd.gow100.com
 0.0.0.0 bd.haomagujia.com
 :: bd.haomagujia.com
 0.0.0.0 bd.soarfi.cn
@@ -23021,6 +23029,8 @@
 :: coin-hive-stratum-yvvbqoavck.now.sh
 0.0.0.0 coin.bajarlo.net
 :: coin.bajarlo.net
+0.0.0.0 coinbaseboggether.tumblr.com
+:: coinbaseboggether.tumblr.com
 0.0.0.0 coinbasespromo.tumblr.com
 :: coinbasespromo.tumblr.com
 0.0.0.0 coincoquin.free.fr
@@ -25491,6 +25501,8 @@
 :: d3dcugpvnepf41.cloudfront.net
 0.0.0.0 d3ddidv77grh0f.cloudfront.net
 :: d3ddidv77grh0f.cloudfront.net
+0.0.0.0 d3dh5c7rwzliwm.cloudfront.net
+:: d3dh5c7rwzliwm.cloudfront.net
 0.0.0.0 d3dphmosjk9rot.cloudfront.net
 :: d3dphmosjk9rot.cloudfront.net
 0.0.0.0 d3dytsf4vrjn5x.cloudfront.net
@@ -26143,6 +26155,8 @@
 :: dc.sify.com
 0.0.0.0 dc.vmoters.com
 :: dc.vmoters.com
+0.0.0.0 dc.xhct66.com
+:: dc.xhct66.com
 0.0.0.0 dc08i221b0n8a.cloudfront.net
 :: dc08i221b0n8a.cloudfront.net
 0.0.0.0 dc2.csdn.net
@@ -28307,6 +28321,8 @@
 :: e.gxjfh.com
 0.0.0.0 e.hellomingpian.com
 :: e.hellomingpian.com
+0.0.0.0 e.hgrqp.com
+:: e.hgrqp.com
 0.0.0.0 e.htper.com
 :: e.htper.com
 0.0.0.0 e.huaas.com
@@ -28341,6 +28357,8 @@
 :: e.lovezhishou.com
 0.0.0.0 e.meizhuanghe.com
 :: e.meizhuanghe.com
+0.0.0.0 e.mmkvi.com
+:: e.mmkvi.com
 0.0.0.0 e.mrsasharingspace.com
 :: e.mrsasharingspace.com
 0.0.0.0 e.mrtuo.com
@@ -32497,8 +32515,6 @@
 :: gg.uuu9.com
 0.0.0.0 gg.vidown.cn
 :: gg.vidown.cn
-0.0.0.0 gg.xingzuo360.cn
-:: gg.xingzuo360.cn
 0.0.0.0 gg.xywy.com
 :: gg.xywy.com
 0.0.0.0 gg.yxdown.com
@@ -38063,6 +38079,8 @@
 :: kn.gzcce.cn
 0.0.0.0 kn.qqqmdq.com
 :: kn.qqqmdq.com
+0.0.0.0 kn.ynmhg.cn
+:: kn.ynmhg.cn
 0.0.0.0 kn.zzdahan.com
 :: kn.zzdahan.com
 0.0.0.0 kndxbkdx.bloger.index.hr
@@ -40009,6 +40027,8 @@
 :: m.aty.sohu.com
 0.0.0.0 m.awesometracker.com
 :: m.awesometracker.com
+0.0.0.0 m.axsre.com
+:: m.axsre.com
 0.0.0.0 m.baidu.com.yiqisee.cn
 :: m.baidu.com.yiqisee.cn
 0.0.0.0 m.baidu.com.zhiduo.org
@@ -40123,12 +40143,12 @@
 :: m.hellomingpian.com
 0.0.0.0 m.hhllyt.com
 :: m.hhllyt.com
-0.0.0.0 m.hkmqp.com
-:: m.hkmqp.com
 0.0.0.0 m.hot-mob.com
 :: m.hot-mob.com
 0.0.0.0 m.hpfjy.com
 :: m.hpfjy.com
+0.0.0.0 m.hpzyl.com
+:: m.hpzyl.com
 0.0.0.0 m.htper.com
 :: m.htper.com
 0.0.0.0 m.huanyuexpress.com
@@ -40187,6 +40207,8 @@
 :: m.mirmay.com
 0.0.0.0 m.miupp.com
 :: m.miupp.com
+0.0.0.0 m.mmkvi.com
+:: m.mmkvi.com
 0.0.0.0 m.mobilerevenu.com
 :: m.mobilerevenu.com
 0.0.0.0 m.mrtuo.com
@@ -46381,12 +46403,8 @@
 :: ox.tossoffads.com
 0.0.0.0 ox.videobuster.de
 :: ox.videobuster.de
-0.0.0.0 ox2.pron.tv
-:: ox2.pron.tv
 0.0.0.0 ox2.sterta.pl
 :: ox2.sterta.pl
-0.0.0.0 ox3.pron.tv
-:: ox3.pron.tv
 0.0.0.0 oxen.hillcountrytexas.com
 :: oxen.hillcountrytexas.com
 0.0.0.0 oxn.gerkon.eu
@@ -46987,6 +47005,8 @@
 :: pagesecurityinbox5621.000webhostapp.com
 0.0.0.0 pagespeed.report.qq.com
 :: pagespeed.report.qq.com
+0.0.0.0 pagessfbmnc.000webhostapp.com
+:: pagessfbmnc.000webhostapp.com
 0.0.0.0 pagestat.mmi.bemobile.ua
 :: pagestat.mmi.bemobile.ua
 0.0.0.0 pageviadropline-documentshareclienthtmlinformationredirection.droppages.com
@@ -52783,6 +52803,8 @@
 :: s.cpro.baidu.com
 0.0.0.0 s.cr-nielsen.com
 :: s.cr-nielsen.com
+0.0.0.0 s.ddstu.com
+:: s.ddstu.com
 0.0.0.0 s.de123.net
 :: s.de123.net
 0.0.0.0 s.di.com.pl
@@ -52961,6 +52983,8 @@
 :: s1.pc899.com
 0.0.0.0 s1.qiqutt.cn
 :: s1.qiqutt.cn
+0.0.0.0 s1.qiqutt.com
+:: s1.qiqutt.com
 0.0.0.0 s1.rotaban.ru
 :: s1.rotaban.ru
 0.0.0.0 s1.s8tu.com
@@ -54801,6 +54825,8 @@
 :: server.m.pp.cn
 0.0.0.0 server.philipsenet.nl
 :: server.philipsenet.nl
+0.0.0.0 server.privatewebsolution.com
+:: server.privatewebsolution.com
 0.0.0.0 server.siteamplifier.net
 :: server.siteamplifier.net
 0.0.0.0 server.zoiets.be
@@ -54945,6 +54971,8 @@
 :: services.webestools.com
 0.0.0.0 services.wes.df.telemetry.microsoft.com
 :: services.wes.df.telemetry.microsoft.com
+0.0.0.0 services42mobilite3monbell87398nj35enligne903094jcdfkonj.kmpropertysales.com
+:: services42mobilite3monbell87398nj35enligne903094jcdfkonj.kmpropertysales.com
 0.0.0.0 servicib.beget.tech
 :: servicib.beget.tech
 0.0.0.0 servicju.beget.tech
@@ -67913,6 +67941,8 @@
 :: www.downloadseden.com
 0.0.0.0 www.downxiazai.info
 :: www.downxiazai.info
+0.0.0.0 www.dqsft.com
+:: www.dqsft.com
 0.0.0.0 www.drawnsex.com
 :: www.drawnsex.com
 0.0.0.0 www.drmehul.in
@@ -71189,6 +71219,8 @@
 :: www.xl-rank.com
 0.0.0.0 www.xml.admetix.com
 :: www.xml.admetix.com
+0.0.0.0 www.xmnmeu.cn
+:: www.xmnmeu.cn
 0.0.0.0 www.xmsjlm.com
 :: www.xmsjlm.com
 0.0.0.0 www.xn--turkishirlines-1p8g.com
@@ -71211,6 +71243,8 @@
 :: www.xtgreat.com
 0.0.0.0 www.xtremeorganix.co.uk
 :: www.xtremeorganix.co.uk
+0.0.0.0 www.xtwjx.cn
+:: www.xtwjx.cn
 0.0.0.0 www.xvideoslive.com
 :: www.xvideoslive.com
 0.0.0.0 www.xxeden.com
@@ -72641,8 +72675,6 @@
 :: zen.ancestrybloodhound.biz
 0.0.0.0 zen.nbci.com
 :: zen.nbci.com
-0.0.0.0 zen.yandex.ru
-:: zen.yandex.ru
 0.0.0.0 zerocash.msk.ru
 :: zerocash.msk.ru
 0.0.0.0 zeromskiego-77.naszebanki.pl
