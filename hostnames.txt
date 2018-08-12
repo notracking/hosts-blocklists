@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Aug 11 05:07:03 CEST 2018
+# Last update: Sun Aug 12 05:08:27 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36455
+# Number of unique hostnames: 36460
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2453,6 +2453,8 @@
 :: a.getgamers.eu
 0.0.0.0 a.giantrealm.com
 :: a.giantrealm.com
+0.0.0.0 a.gifs.com
+:: a.gifs.com
 0.0.0.0 a.gismeteo.ru
 :: a.gismeteo.ru
 0.0.0.0 a.glcdn.co
@@ -25629,6 +25631,8 @@
 :: d3pphfzjkpjgfn.cloudfront.net
 0.0.0.0 d3prygw1dnamj9.cloudfront.net
 :: d3prygw1dnamj9.cloudfront.net
+0.0.0.0 d3pvcolmug0tz6.cloudfront.net
+:: d3pvcolmug0tz6.cloudfront.net
 0.0.0.0 d3q2dpprdsteo.cloudfront.net
 :: d3q2dpprdsteo.cloudfront.net
 0.0.0.0 d3q33rbmdkxzj.cloudfront.net
@@ -30793,6 +30797,8 @@
 :: film.schuettfarmstrucking.com
 0.0.0.0 filme18.8k.ro
 :: filme18.8k.ro
+0.0.0.0 filmhd.ek1.pl
+:: filmhd.ek1.pl
 0.0.0.0 filmik.pisz.pl
 :: filmik.pisz.pl
 0.0.0.0 filmonline.info.pl
@@ -33235,6 +33241,8 @@
 :: gyodundena.hotmail.ru
 0.0.0.0 gz.hxdaka.com
 :: gz.hxdaka.com
+0.0.0.0 gzm.xzbu.com
+:: gzm.xzbu.com
 0.0.0.0 h-m-s-babes.blogomer.com
 :: h-m-s-babes.blogomer.com
 0.0.0.0 h.cliphunter.com
@@ -48539,6 +48547,8 @@
 :: pitatto.rakuten.co.jp
 0.0.0.0 pitbull-video.ujm.pl
 :: pitbull-video.ujm.pl
+0.0.0.0 pitbull.ek1.pl
+:: pitbull.ek1.pl
 0.0.0.0 pivecino.webcindario.com
 :: pivecino.webcindario.com
 0.0.0.0 pivecino2.webcindario.com
