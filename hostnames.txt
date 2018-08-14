@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Aug 13 05:09:09 CEST 2018
+# Last update: Tue Aug 14 05:08:43 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36459
+# Number of unique hostnames: 36439
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2277,10 +2277,6 @@
 :: 9qwavrdjxnnvwtxywikj.littlematchagirl.com.au
 0.0.0.0 9skpaunhpfwohojcznz5.littlematchagirl.com.au
 :: 9skpaunhpfwohojcznz5.littlematchagirl.com.au
-0.0.0.0 a-0001.dc-msedge.net
-:: a-0001.dc-msedge.net
-0.0.0.0 a-0003.dc-msedge.net
-:: a-0003.dc-msedge.net
 0.0.0.0 a-c-sky.rzb.ir
 :: a-c-sky.rzb.ir
 0.0.0.0 a-counter.kiev.ua
@@ -15453,38 +15449,6 @@
 :: arraiaame.sslblindado.com
 0.0.0.0 arraty.altervista.org
 :: arraty.altervista.org
-0.0.0.0 array101-prod.do.dsp.mp.microsoft.com
-:: array101-prod.do.dsp.mp.microsoft.com
-0.0.0.0 array102-prod.do.dsp.mp.microsoft.com
-:: array102-prod.do.dsp.mp.microsoft.com
-0.0.0.0 array103-prod.do.dsp.mp.microsoft.com
-:: array103-prod.do.dsp.mp.microsoft.com
-0.0.0.0 array104-prod.do.dsp.mp.microsoft.com
-:: array104-prod.do.dsp.mp.microsoft.com
-0.0.0.0 array201-prod.do.dsp.mp.microsoft.com
-:: array201-prod.do.dsp.mp.microsoft.com
-0.0.0.0 array202-prod.do.dsp.mp.microsoft.com
-:: array202-prod.do.dsp.mp.microsoft.com
-0.0.0.0 array203-prod.do.dsp.mp.microsoft.com
-:: array203-prod.do.dsp.mp.microsoft.com
-0.0.0.0 array204-prod.do.dsp.mp.microsoft.com
-:: array204-prod.do.dsp.mp.microsoft.com
-0.0.0.0 array401-prod.do.dsp.mp.microsoft.com
-:: array401-prod.do.dsp.mp.microsoft.com
-0.0.0.0 array402-prod.do.dsp.mp.microsoft.com
-:: array402-prod.do.dsp.mp.microsoft.com
-0.0.0.0 array403-prod.do.dsp.mp.microsoft.com
-:: array403-prod.do.dsp.mp.microsoft.com
-0.0.0.0 array404-prod.do.dsp.mp.microsoft.com
-:: array404-prod.do.dsp.mp.microsoft.com
-0.0.0.0 array405-prod.do.dsp.mp.microsoft.com
-:: array405-prod.do.dsp.mp.microsoft.com
-0.0.0.0 array406-prod.do.dsp.mp.microsoft.com
-:: array406-prod.do.dsp.mp.microsoft.com
-0.0.0.0 array407-prod.do.dsp.mp.microsoft.com
-:: array407-prod.do.dsp.mp.microsoft.com
-0.0.0.0 array408-prod.do.dsp.mp.microsoft.com
-:: array408-prod.do.dsp.mp.microsoft.com
 0.0.0.0 arrayed-assemblies.000webhostapp.com
 :: arrayed-assemblies.000webhostapp.com
 0.0.0.0 arriam78.beget.tech
@@ -19579,8 +19543,6 @@
 :: byznw1.moro.pershoreprivatehire.co.uk
 0.0.0.0 bzawfy.kozer.2ndincome4u.org.uk
 :: bzawfy.kozer.2ndincome4u.org.uk
-0.0.0.0 c-0001.dc-msedge.net
-:: c-0001.dc-msedge.net
 0.0.0.0 c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
 :: c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
 0.0.0.0 c-adash.m.taobao.com
@@ -24487,6 +24449,8 @@
 :: cxzv260ad-system.16mb.com
 0.0.0.0 cy2.settings.data.microsoft.com.akadns.net
 :: cy2.settings.data.microsoft.com.akadns.net
+0.0.0.0 cy2.vortex.data.microsoft.com.akadns.net
+:: cy2.vortex.data.microsoft.com.akadns.net
 0.0.0.0 cy41058.tmweb.ru
 :: cy41058.tmweb.ru
 0.0.0.0 cyad1.cyworld.com
@@ -31477,8 +31441,6 @@
 :: frustrated-model.000webhostapp.com
 0.0.0.0 fs.dai.net
 :: fs.dai.net
-0.0.0.0 fs.microsoft.com
-:: fs.microsoft.com
 0.0.0.0 fs10.fusestats.com
 :: fs10.fusestats.com
 0.0.0.0 fsb-russia.dtdns.net
@@ -32375,8 +32337,6 @@
 :: geoservice.curse.com
 0.0.0.0 geoshopping.nzherald.co.nz
 :: geoshopping.nzherald.co.nz
-0.0.0.0 geover-prod.do.dsp.mp.microsoft.com
-:: geover-prod.do.dsp.mp.microsoft.com
 0.0.0.0 geoweb.e-kolay.net
 :: geoweb.e-kolay.net
 0.0.0.0 gepzz.pcloadletter.quhu.info
@@ -39299,6 +39259,8 @@
 :: localads.maps.me
 0.0.0.0 localcontent.huffingtonpost.com
 :: localcontent.huffingtonpost.com
+0.0.0.0 location-inference-westus.cloudapp.net
+:: location-inference-westus.cloudapp.net
 0.0.0.0 location.fashionises.com
 :: location.fashionises.com
 0.0.0.0 lock-vkcom-hd6dhdajda67dsfsdf45g.pe.hu
@@ -42667,6 +42629,8 @@
 :: mode.humoromg.com
 0.0.0.0 mode.schuettfarmswi.com
 :: mode.schuettfarmswi.com
+0.0.0.0 modern.watson.data.microsoft.com.akadns.net
+:: modern.watson.data.microsoft.com.akadns.net
 0.0.0.0 modules.wcax.com
 :: modules.wcax.com
 0.0.0.0 modus.nike.com
@@ -58081,8 +58045,6 @@
 :: store001.mybigcommerce.com
 0.0.0.0 store2.apple.ch.arconets.net
 :: store2.apple.ch.arconets.net
-0.0.0.0 storecatalogrevocation.storequality.microsoft.com
-:: storecatalogrevocation.storequality.microsoft.com
 0.0.0.0 storeconfig.mistat.intl.xiaomi.com
 :: storeconfig.mistat.intl.xiaomi.com
 0.0.0.0 storeconfig.mistat.xiaomi.com
@@ -61973,8 +61935,6 @@
 :: tsbonlinesupport.altervista.org
 0.0.0.0 tsd3.ciscofreak.com
 :: tsd3.ciscofreak.com
-0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
-:: tsfe.trafficshaping.dsp.mp.microsoft.com
 0.0.0.0 tsm.25u.com
 :: tsm.25u.com
 0.0.0.0 tsms-ad.tsms.com
