@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Aug 14 05:08:43 CEST 2018
+# Last update: Wed Aug 15 05:05:23 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36439
+# Number of unique hostnames: 36446
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -133,6 +133,8 @@
 :: 0zrnafy0cm1cqvg3g6ey.littlematchagirl.com.au
 0.0.0.0 1.1010pic.com
 :: 1.1010pic.com
+0.0.0.0 1.11467.com
+:: 1.11467.com
 0.0.0.0 1.114central.com
 :: 1.114central.com
 0.0.0.0 1.15lu.com
@@ -197,6 +199,8 @@
 :: 1.kuaidiwo.cn
 0.0.0.0 1.letvlive.com
 :: 1.letvlive.com
+0.0.0.0 1.lvshi567.com
+:: 1.lvshi567.com
 0.0.0.0 1.mgff.com
 :: 1.mgff.com
 0.0.0.0 1.miniporn.ru
@@ -239,6 +243,8 @@
 :: 1.xiaopin5.com
 0.0.0.0 1.xilu.com
 :: 1.xilu.com
+0.0.0.0 1.xxszw.cn
+:: 1.xxszw.cn
 0.0.0.0 1.yac8.net
 :: 1.yac8.net
 0.0.0.0 1.zhev.com.cn
@@ -2303,8 +2309,6 @@
 :: a.52zxw.com
 0.0.0.0 a.53yao.com
 :: a.53yao.com
-0.0.0.0 a.5ykj.com
-:: a.5ykj.com
 0.0.0.0 a.75111.com
 :: a.75111.com
 0.0.0.0 a.80982.org
@@ -2701,8 +2705,6 @@
 :: a.xinwenge.net
 0.0.0.0 a.xixiyishu.com
 :: a.xixiyishu.com
-0.0.0.0 a.xizi.com
-:: a.xizi.com
 0.0.0.0 a.xtargeting.com
 :: a.xtargeting.com
 0.0.0.0 a.xywy.com
@@ -17925,6 +17927,8 @@
 :: bd.wayqq.cn
 0.0.0.0 bd01.daqiso.com
 :: bd01.daqiso.com
+0.0.0.0 bd01.qqkxb.com
+:: bd01.qqkxb.com
 0.0.0.0 bd1.365qilu.com
 :: bd1.365qilu.com
 0.0.0.0 bd1.52che.com
@@ -18047,8 +18051,6 @@
 :: bdjs.ylq.com
 0.0.0.0 bdjs1.ixiumei.com
 :: bdjs1.ixiumei.com
-0.0.0.0 bdlm.120askimages.com
-:: bdlm.120askimages.com
 0.0.0.0 bdlmggcs1.familydoctor.com.cn
 :: bdlmggcs1.familydoctor.com.cn
 0.0.0.0 bdm.911cha.com
@@ -18075,6 +18077,8 @@
 :: bdunion1.suxiazai.com
 0.0.0.0 bduserlog.eastmoney.com
 :: bduserlog.eastmoney.com
+0.0.0.0 bdwmhz.120askimages.com
+:: bdwmhz.120askimages.com
 0.0.0.0 bdx.playnext.cn
 :: bdx.playnext.cn
 0.0.0.0 bdzxxx.free.fr
@@ -29117,6 +29121,8 @@
 :: equestrian.horse-trai.horseboxes.dll-offer-items.com
 0.0.0.0 equip.yaroslavl.ru
 :: equip.yaroslavl.ru
+0.0.0.0 er.5ykj.com
+:: er.5ykj.com
 0.0.0.0 erebor.douban.com
 :: erebor.douban.com
 0.0.0.0 erectile.byethost33.com
@@ -31141,12 +31147,12 @@
 :: fp.uclo.net
 0.0.0.0 fp108.digitaloptout.com
 :: fp108.digitaloptout.com
-0.0.0.0 fpb.51edu.com
-:: fpb.51edu.com
 0.0.0.0 fpb.mn586.com
 :: fpb.mn586.com
 0.0.0.0 fpb1.chinacar.asia
 :: fpb1.chinacar.asia
+0.0.0.0 fpb2.51edu.com
+:: fpb2.51edu.com
 0.0.0.0 fpbbdx1.51240.com
 :: fpbbdx1.51240.com
 0.0.0.0 fpbcode.onlinedown.net
@@ -36919,8 +36925,12 @@
 :: jb.eastlady.cn
 0.0.0.0 jb.ecar168.cn
 :: jb.ecar168.cn
+0.0.0.0 jb.imgsina.com
+:: jb.imgsina.com
 0.0.0.0 jb.mbaidu.top
 :: jb.mbaidu.top
+0.0.0.0 jb.mnkan.com
+:: jb.mnkan.com
 0.0.0.0 jb.revolvermaps.com
 :: jb.revolvermaps.com
 0.0.0.0 jb.tupianzj.com
@@ -37389,6 +37399,8 @@
 :: js.livehelper.com
 0.0.0.0 js.mbaidu.top
 :: js.mbaidu.top
+0.0.0.0 js.mnkan.com
+:: js.mnkan.com
 0.0.0.0 js.mumayi.net
 :: js.mumayi.net
 0.0.0.0 js.myinfotopia.com
@@ -40117,8 +40129,6 @@
 :: m.hot-mob.com
 0.0.0.0 m.hpfjy.com
 :: m.hpfjy.com
-0.0.0.0 m.hpzyl.com
-:: m.hpzyl.com
 0.0.0.0 m.htper.com
 :: m.htper.com
 0.0.0.0 m.huanyuexpress.com
@@ -40333,6 +40343,10 @@
 :: m.zeiaa.com
 0.0.0.0 m0-s.san.ru
 :: m0-s.san.ru
+0.0.0.0 m1.51kaowang.com
+:: m1.51kaowang.com
+0.0.0.0 m1.bitequan.net.cn
+:: m1.bitequan.net.cn
 0.0.0.0 m1.daumcdn.net
 :: m1.daumcdn.net
 0.0.0.0 m1.stream.vidzi.tv
@@ -46517,8 +46531,6 @@
 :: p.zol-img.com.cn
 0.0.0.0 p0stepay-p0ste-it-start-lista-m0vimenti-accedi-utent001928.25u.com
 :: p0stepay-p0ste-it-start-lista-m0vimenti-accedi-utent001928.25u.com
-0.0.0.0 p1.18zhongyao.com
-:: p1.18zhongyao.com
 0.0.0.0 p1.assetscdn.stream
 :: p1.assetscdn.stream
 0.0.0.0 p1.qinsx.cn
@@ -50937,8 +50949,6 @@
 :: qt.biqugezw.com
 0.0.0.0 qt002x.corp.youdao.com
 :: qt002x.corp.youdao.com
-0.0.0.0 qtber2017.2liang.cn
-:: qtber2017.2liang.cn
 0.0.0.0 qthbjuks4rx4jib6iudx.littlematchagirl.com.au
 :: qthbjuks4rx4jib6iudx.littlematchagirl.com.au
 0.0.0.0 qthbjuks4rx4jib6iudx.maherstcottage.com.au
@@ -52921,8 +52931,6 @@
 :: s1-a2.dnvod.tv
 0.0.0.0 s1-a3.dnvod.tv
 :: s1-a3.dnvod.tv
-0.0.0.0 s1.86ditu.com
-:: s1.86ditu.com
 0.0.0.0 s1.cmfu.com
 :: s1.cmfu.com
 0.0.0.0 s1.dapenti.com
@@ -56397,6 +56405,10 @@
 :: spyware.homestead.com
 0.0.0.0 spyware.usafreespace.com
 :: spyware.usafreespace.com
+0.0.0.0 sq1.chinacsky.com
+:: sq1.chinacsky.com
+0.0.0.0 sq2.chinacsky.com
+:: sq2.chinacsky.com
 0.0.0.0 sql-server-driver.beesearch.info
 :: sql-server-driver.beesearch.info
 0.0.0.0 sqm.df.telemetry.microsoft.com
@@ -62219,6 +62231,8 @@
 :: uapi.punchbox.org
 0.0.0.0 uawj.moqhixoz.cn
 :: uawj.moqhixoz.cn
+0.0.0.0 ub1.job592.com
+:: ub1.job592.com
 0.0.0.0 uberdescontoscopa.serveftp.com
 :: uberdescontoscopa.serveftp.com
 0.0.0.0 ubike.tourstogo.us
@@ -65695,6 +65709,8 @@
 :: whenvideoup.thebigandfreesystemupdate.website
 0.0.0.0 whenvideoup.thebigandfreesystemupdating.date
 :: whenvideoup.thebigandfreesystemupdating.date
+0.0.0.0 whfpbc.99.com.cn
+:: whfpbc.99.com.cn
 0.0.0.0 whipme.yopoint.in
 :: whipme.yopoint.in
 0.0.0.0 whistleout.s3.amazonaws.com
@@ -71931,8 +71947,6 @@
 :: xls.go.sohu.com
 0.0.0.0 xlsmoyvwt.ivydancefloors.com
 :: xlsmoyvwt.ivydancefloors.com
-0.0.0.0 xmdm.99.com.cn
-:: xmdm.99.com.cn
 0.0.0.0 xmhjpqyesu.kbogghjvnt.madpendesign.com.au
 :: xmhjpqyesu.kbogghjvnt.madpendesign.com.au
 0.0.0.0 xml.adfclick1.com
