@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Aug 16 05:10:29 CEST 2018
+# Last update: Fri Aug 17 06:11:10 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36464
+# Number of unique hostnames: 36470
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -189,8 +189,6 @@
 :: 1.i1766.com
 0.0.0.0 1.im.cz
 :: 1.im.cz
-0.0.0.0 1.iqeq.com.cn
-:: 1.iqeq.com.cn
 0.0.0.0 1.jeasyui.net
 :: 1.jeasyui.net
 0.0.0.0 1.jiqie.cn
@@ -289,8 +287,6 @@
 :: 10pg.scl5fyd.info
 0.0.0.0 11.gddx1.crsky.com
 :: 11.gddx1.crsky.com
-0.0.0.0 11.hydcd.com
-:: 11.hydcd.com
 0.0.0.0 11.lamarianella.info
 :: 11.lamarianella.info
 0.0.0.0 11.rtstats.com
@@ -2179,8 +2175,6 @@
 :: 885c93586e11cccacd647adc490c00a4.getforge.io
 0.0.0.0 887gsc.kozer.2ndincome4u.org.uk
 :: 887gsc.kozer.2ndincome4u.org.uk
-0.0.0.0 888.izhufu.net
-:: 888.izhufu.net
 0.0.0.0 888.jiuwanwang.com
 :: 888.jiuwanwang.com
 0.0.0.0 888.tv.sohu.com
@@ -17923,6 +17917,8 @@
 :: bd.ershenghuo.com
 0.0.0.0 bd.gow100.com
 :: bd.gow100.com
+0.0.0.0 bd.hao224.com
+:: bd.hao224.com
 0.0.0.0 bd.haomagujia.com
 :: bd.haomagujia.com
 0.0.0.0 bd.soarfi.cn
@@ -17961,6 +17957,8 @@
 :: bd1.xiby.cn
 0.0.0.0 bd1.yidu.cc
 :: bd1.yidu.cc
+0.0.0.0 bd11.nipic.com
+:: bd11.nipic.com
 0.0.0.0 bd2.52che.com
 :: bd2.52che.com
 0.0.0.0 bd2.dopa.com
@@ -17983,8 +17981,6 @@
 :: bd7h64j87d4364gf6hd8473.000webhostapp.com
 0.0.0.0 bdad.gaotie.net
 :: bdad.gaotie.net
-0.0.0.0 bdad.hao224.com
-:: bdad.hao224.com
 0.0.0.0 bdapi.ads.oppomobile.com
 :: bdapi.ads.oppomobile.com
 0.0.0.0 bdasd.wmxa.cn
@@ -25799,6 +25795,8 @@
 :: dah0wv79ikn14.cloudfront.net
 0.0.0.0 dai.shuzilm.cn
 :: dai.shuzilm.cn
+0.0.0.0 dai18.shangc.net
+:: dai18.shangc.net
 0.0.0.0 daikoku.ebis.ne.jp
 :: daikoku.ebis.ne.jp
 0.0.0.0 dailydeals.amarillo.com
@@ -25827,6 +25825,8 @@
 :: daima.diaoben.net
 0.0.0.0 daima.huoche.net
 :: daima.huoche.net
+0.0.0.0 daima.hydcd.com
+:: daima.hydcd.com
 0.0.0.0 daima.ijq.tv
 :: daima.ijq.tv
 0.0.0.0 daima.jiazhao.com
@@ -32479,8 +32479,6 @@
 :: gg.google.com
 0.0.0.0 gg.haianw.com
 :: gg.haianw.com
-0.0.0.0 gg.huangye88.com
-:: gg.huangye88.com
 0.0.0.0 gg.jkmeishi.com
 :: gg.jkmeishi.com
 0.0.0.0 gg.kugou.com
@@ -33405,8 +33403,6 @@
 :: hao123.xywy.com
 0.0.0.0 haostat.qihoo.com
 :: haostat.qihoo.com
-0.0.0.0 hapic1.jhkxwl.com
-:: hapic1.jhkxwl.com
 0.0.0.0 hapic1.zhuangxiu22.com
 :: hapic1.zhuangxiu22.com
 0.0.0.0 happy-fun.tripod.net
@@ -34677,6 +34673,8 @@
 :: hxueu.code.weddingeeos.com
 0.0.0.0 hy-brasil.mhwang.com
 :: hy-brasil.mhwang.com
+0.0.0.0 hy.huangye88.net
+:: hy.huangye88.net
 0.0.0.0 hyareview-document.pdf-iso.webapps-security.review-2jk39w92.ccloemb.gq
 :: hyareview-document.pdf-iso.webapps-security.review-2jk39w92.ccloemb.gq
 0.0.0.0 hybridfitness.net.au
@@ -37335,6 +37333,8 @@
 :: js.5068.com
 0.0.0.0 js.50bang.org
 :: js.50bang.org
+0.0.0.0 js.51ir.cn
+:: js.51ir.cn
 0.0.0.0 js.51taifu.com
 :: js.51taifu.com
 0.0.0.0 js.578965.com
@@ -37397,8 +37397,6 @@
 :: js.ftp0118.info
 0.0.0.0 js.goods.redtram.com
 :: js.goods.redtram.com
-0.0.0.0 js.hcw888.com
-:: js.hcw888.com
 0.0.0.0 js.hkslg520.com
 :: js.hkslg520.com
 0.0.0.0 js.hs-scripts.com
@@ -39381,6 +39379,8 @@
 :: log.kukuplay.com
 0.0.0.0 log.kuwo.cn
 :: log.kuwo.cn
+0.0.0.0 log.logrocket.io
+:: log.logrocket.io
 0.0.0.0 log.ltype.baofeng.com
 :: log.ltype.baofeng.com
 0.0.0.0 log.mix.sina.com.cn
@@ -52825,6 +52825,8 @@
 :: s.domob.cn
 0.0.0.0 s.doyo.cn
 :: s.doyo.cn
+0.0.0.0 s.dpcq1.net
+:: s.dpcq1.net
 0.0.0.0 s.dynad.net
 :: s.dynad.net
 0.0.0.0 s.fastapi.net
@@ -54723,6 +54725,8 @@
 :: sense.dailymotion.com
 0.0.0.0 sensor.org.ua
 :: sensor.org.ua
+0.0.0.0 sensorsdata.ruguoapp.com
+:: sensorsdata.ruguoapp.com
 0.0.0.0 sentasp.graimphe.com
 :: sentasp.graimphe.com
 0.0.0.0 sentia.mite.ac.in
@@ -64899,6 +64903,8 @@
 :: wallsfargo0240.000webhostapp.com
 0.0.0.0 walp.atm.youku.com
 :: walp.atm.youku.com
+0.0.0.0 waltersburgburgoon.adback.co
+:: waltersburgburgoon.adback.co
 0.0.0.0 wamanet.virtualave.net
 :: wamanet.virtualave.net
 0.0.0.0 wan.2345.com
@@ -70045,6 +70051,8 @@
 :: www.qhdast.com
 0.0.0.0 www.qianshengqian.com
 :: www.qianshengqian.com
+0.0.0.0 www.qiaopiguniang.com
+:: www.qiaopiguniang.com
 0.0.0.0 www.qqkabb.com
 :: www.qqkabb.com
 0.0.0.0 www.qssa.co.uk
@@ -71949,6 +71957,8 @@
 :: xgiectd6bqsggcvjmlvx.smpasbsolo.sch.id
 0.0.0.0 xi.liuxiaoer.com
 :: xi.liuxiaoer.com
+0.0.0.0 xiaoshuo.kp53.cn
+:: xiaoshuo.kp53.cn
 0.0.0.0 xiazai.cdren.com
 :: xiazai.cdren.com
 0.0.0.0 xiazai.downok.com
@@ -72567,6 +72577,8 @@
 :: z65.zzhyyj.com
 0.0.0.0 z67.zzhyyj.com
 :: z67.zzhyyj.com
+0.0.0.0 z88.izhufu.net
+:: z88.izhufu.net
 0.0.0.0 z9a6mz.first.pershoretaxi.co.uk
 :: z9a6mz.first.pershoretaxi.co.uk
 0.0.0.0 z9egbju3bqplyh2brnft.littlematchagirl.com.au
