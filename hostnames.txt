@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Aug 19 05:09:56 CEST 2018
+# Last update: Mon Aug 20 05:07:52 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36518
+# Number of unique hostnames: 36516
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -41,8 +41,8 @@
 :: 001547.000webhostapp.com
 0.0.0.0 00capital0neservice.000webhostapp.com
 :: 00capital0neservice.000webhostapp.com
-0.0.0.0 01.gxso.net
-:: 01.gxso.net
+0.0.0.0 01.mssheng.com
+:: 01.mssheng.com
 0.0.0.0 0124498474f7c13ac9a2-6b191446002b31342189d56cabcf5227.r11.cf2.rackcdn.com
 :: 0124498474f7c13ac9a2-6b191446002b31342189d56cabcf5227.r11.cf2.rackcdn.com
 0.0.0.0 017.moro.tv
@@ -237,6 +237,8 @@
 :: 1.ufc123.com
 0.0.0.0 1.up.qingdaonews.com
 :: 1.up.qingdaonews.com
+0.0.0.0 1.vsimg.com
+:: 1.vsimg.com
 0.0.0.0 1.win7china.com
 :: 1.win7china.com
 0.0.0.0 1.win7sky.com
@@ -245,6 +247,8 @@
 :: 1.xiaopin5.com
 0.0.0.0 1.xilu.com
 :: 1.xilu.com
+0.0.0.0 1.xspic.com
+:: 1.xspic.com
 0.0.0.0 1.xxszw.cn
 :: 1.xxszw.cn
 0.0.0.0 1.yac8.net
@@ -2023,6 +2027,8 @@
 :: 6a4cc.leygv.com
 0.0.0.0 6a4cc.lutrw.com
 :: 6a4cc.lutrw.com
+0.0.0.0 6a4cc.luvbq.com
+:: 6a4cc.luvbq.com
 0.0.0.0 6a802238f18629454f48-5fd47577f4847dded97d514126394433.r3.cf2.rackcdn.com
 :: 6a802238f18629454f48-5fd47577f4847dded97d514126394433.r3.cf2.rackcdn.com
 0.0.0.0 6b8a953b2bf7788063d5-6e453f33ecbb90f11a62a5c376375af3.r71.cf5.rackcdn.com
@@ -2609,6 +2615,8 @@
 :: a.qiao024.com
 0.0.0.0 a.qinghua5.com
 :: a.qinghua5.com
+0.0.0.0 a.qsjiajiao.com
+:: a.qsjiajiao.com
 0.0.0.0 a.rad.live.com
 :: a.rad.live.com
 0.0.0.0 a.rad.msn.com
@@ -2705,8 +2713,6 @@
 :: a.wyzmob.com
 0.0.0.0 a.xanga.com
 :: a.xanga.com
-0.0.0.0 a.xinwenge.net
-:: a.xinwenge.net
 0.0.0.0 a.xixiyishu.com
 :: a.xixiyishu.com
 0.0.0.0 a.xtargeting.com
@@ -2759,12 +2765,12 @@
 :: a1.huanqiumil.com
 0.0.0.0 a1.huiqituan.com
 :: a1.huiqituan.com
-0.0.0.0 a1.ikafan.com
-:: a1.ikafan.com
 0.0.0.0 a1.juzih.com
 :: a1.juzih.com
 0.0.0.0 a1.lmaq.cn
 :: a1.lmaq.cn
+0.0.0.0 a1.mingyihui.net
+:: a1.mingyihui.net
 0.0.0.0 a1.peoplecdn.cn
 :: a1.peoplecdn.cn
 0.0.0.0 a1.qizhihaotian.com
@@ -2827,6 +2833,8 @@
 :: a2plvcpnl14118.atendclients.com
 0.0.0.0 a2shd.realshieldlinked.com
 :: a2shd.realshieldlinked.com
+0.0.0.0 a3.ikafan.com
+:: a3.ikafan.com
 0.0.0.0 a3.suntimes.com
 :: a3.suntimes.com
 0.0.0.0 a3.websitealive.com
@@ -3085,8 +3093,6 @@
 :: ac.express.de
 0.0.0.0 ac.mz-web.de
 :: ac.mz-web.de
-0.0.0.0 ac.pingguolv.com
-:: ac.pingguolv.com
 0.0.0.0 ac.realvu.net
 :: ac.realvu.net
 0.0.0.0 ac.rnm.ca
@@ -5811,8 +5817,6 @@
 :: admp.sanoma.fi
 0.0.0.0 adms.physorg.com
 :: adms.physorg.com
-0.0.0.0 admx.baixing.com
-:: admx.baixing.com
 0.0.0.0 adn.adneo.co.kr
 :: adn.adneo.co.kr
 0.0.0.0 adn.agrantsem.com
@@ -18011,8 +18015,6 @@
 :: bdcode.youke.com
 0.0.0.0 bdcode1.haodou.com
 :: bdcode1.haodou.com
-0.0.0.0 bdcpro.techweb.com.cn
-:: bdcpro.techweb.com.cn
 0.0.0.0 bdcqxaadv.freewww.info
 :: bdcqxaadv.freewww.info
 0.0.0.0 bdd.hainan.net
@@ -22977,6 +22979,8 @@
 :: code.rtbsystem.com
 0.0.0.0 code.ttpaper.com
 :: code.ttpaper.com
+0.0.0.0 code.tui80.com
+:: code.tui80.com
 0.0.0.0 code.vihub.ru
 :: code.vihub.ru
 0.0.0.0 code.visitor-track.com
@@ -24605,8 +24609,6 @@
 :: d.kugou.com
 0.0.0.0 d.lumatag.co.uk
 :: d.lumatag.co.uk
-0.0.0.0 d.mingyihui.net
-:: d.mingyihui.net
 0.0.0.0 d.peoplesearchads.com
 :: d.peoplesearchads.com
 0.0.0.0 d.rapsio.com
@@ -24655,6 +24657,8 @@
 :: d06915f22873285e84a9-9954fed71f1f51f77e6d1b38cb5af421.r69.cf2.rackcdn.com
 0.0.0.0 d1.3158.cn
 :: d1.3158.cn
+0.0.0.0 d1.handdiy.com
+:: d1.handdiy.com
 0.0.0.0 d1.kuai8.com
 :: d1.kuai8.com
 0.0.0.0 d1.mobaders.com
@@ -25827,6 +25831,8 @@
 :: dah0wv79ikn14.cloudfront.net
 0.0.0.0 dai.shuzilm.cn
 :: dai.shuzilm.cn
+0.0.0.0 dai18.mumu01.com
+:: dai18.mumu01.com
 0.0.0.0 dai18.shangc.net
 :: dai18.shangc.net
 0.0.0.0 daikoku.ebis.ne.jp
@@ -27161,8 +27167,6 @@
 :: dm.66wenshen.com
 0.0.0.0 dm.92to.com
 :: dm.92to.com
-0.0.0.0 dm.aizhan.com
-:: dm.aizhan.com
 0.0.0.0 dm.bytedance.com
 :: dm.bytedance.com
 0.0.0.0 dm.cnbanbao.com
@@ -27231,6 +27235,8 @@
 :: dmdigbrzjbmso.cloudfront.net
 0.0.0.0 dmg.digitaltarget.ru
 :: dmg.digitaltarget.ru
+0.0.0.0 dmm.aizhan.com
+:: dmm.aizhan.com
 0.0.0.0 dmn2.bjpeu.edu.cn
 :: dmn2.bjpeu.edu.cn
 0.0.0.0 dmp.adpush.cn
@@ -30181,8 +30187,6 @@
 :: fb-security-accont20022018.000webhostapp.com
 0.0.0.0 fb-szpieguj.likesyou.org
 :: fb-szpieguj.likesyou.org
-0.0.0.0 fb-viwer.5v.pl
-:: fb-viwer.5v.pl
 0.0.0.0 fb.37cs.com
 :: fb.37cs.com
 0.0.0.0 fb.cashtraffic.com
@@ -31203,8 +31207,6 @@
 :: fp108.digitaloptout.com
 0.0.0.0 fpb.mn586.com
 :: fpb.mn586.com
-0.0.0.0 fpb2.51edu.com
-:: fpb2.51edu.com
 0.0.0.0 fpbbdx1.51240.com
 :: fpbbdx1.51240.com
 0.0.0.0 fpbcode.onlinedown.net
@@ -32185,8 +32187,6 @@
 :: gcounter.hosting4u.net
 0.0.0.0 gd.ads.vip.gq1.yahoo.com
 :: gd.ads.vip.gq1.yahoo.com
-0.0.0.0 gd.jqgc.com
-:: gd.jqgc.com
 0.0.0.0 gd.vodtw.com
 :: gd.vodtw.com
 0.0.0.0 gdc.indeed.com
@@ -37147,8 +37147,6 @@
 :: jiaoben.ganji.cn
 0.0.0.0 jiaoben.jucanw.com
 :: jiaoben.jucanw.com
-0.0.0.0 jiaoben.junmeng.com
-:: jiaoben.junmeng.com
 0.0.0.0 jiaoben.xinshipu.cn
 :: jiaoben.xinshipu.cn
 0.0.0.0 jias.haotxt.com
@@ -37595,6 +37593,8 @@
 :: jslog.post.cz
 0.0.0.0 jsm.39yst.com
 :: jsm.39yst.com
+0.0.0.0 jsm.9939.com
+:: jsm.9939.com
 0.0.0.0 jsn.st02.net
 :: jsn.st02.net
 0.0.0.0 jsnp.golden1.sogou.com
@@ -38193,8 +38193,6 @@
 :: kominfo.okukab.go.id
 0.0.0.0 komkovasu.427.com1.ru
 :: komkovasu.427.com1.ru
-0.0.0.0 konkurs-uyp.j.pl
-:: konkurs-uyp.j.pl
 0.0.0.0 konkurs.mtrend.ru
 :: konkurs.mtrend.ru
 0.0.0.0 konkurs2016.site88.net
@@ -40121,6 +40119,8 @@
 :: m.cyberplusserice.banquepopulaire.fr.alpes.icgauth.websso.bp.13806.emparecoin.ro
 0.0.0.0 m.data.mob.com
 :: m.data.mob.com
+0.0.0.0 m.dgaoz.com
+:: m.dgaoz.com
 0.0.0.0 m.doodlemobile.com
 :: m.doodlemobile.com
 0.0.0.0 m.du1du.org
@@ -40197,6 +40197,8 @@
 :: m.guifei99.com
 0.0.0.0 m.gujinyue.com
 :: m.gujinyue.com
+0.0.0.0 m.gwdqp.com
+:: m.gwdqp.com
 0.0.0.0 m.haowj.com.cn
 :: m.haowj.com.cn
 0.0.0.0 m.hellomingpian.com
@@ -42203,6 +42205,8 @@
 :: mexico.prepaid.phone.card.sms13.de
 0.0.0.0 mf.atm.youku.com
 :: mf.atm.youku.com
+0.0.0.0 mf01.zybang.com
+:: mf01.zybang.com
 0.0.0.0 mfacebooksv.webcindario.com
 :: mfacebooksv.webcindario.com
 0.0.0.0 mfeed.newzfind.com
@@ -42397,8 +42401,6 @@
 :: mipoly.edu.in
 0.0.0.0 mipsa.ciae.ac.cn
 :: mipsa.ciae.ac.cn
-0.0.0.0 mirabelki.5v.pl
-:: mirabelki.5v.pl
 0.0.0.0 miracema.rj.gov.br
 :: miracema.rj.gov.br
 0.0.0.0 miringintumpang.sch.id
@@ -43327,6 +43329,8 @@
 :: myturbotax.intuit.comturbotax.radionovasc.com.br
 0.0.0.0 myunion1.qm120.com
 :: myunion1.qm120.com
+0.0.0.0 myunion1.tupians.com
+:: myunion1.tupians.com
 0.0.0.0 myusenet.youth-and-beauty.net
 :: myusenet.youth-and-beauty.net
 0.0.0.0 mz7oyb3v32vshcvk.bidobject.li
@@ -45583,8 +45587,6 @@
 :: one-drive-file-microsoft-office365-viewdocl0g.000webhostapp.com
 0.0.0.0 one.123counters.com
 :: one.123counters.com
-0.0.0.0 one.520319.cn
-:: one.520319.cn
 0.0.0.0 one.88dus.com
 :: one.88dus.com
 0.0.0.0 one.azsportsent.info
@@ -52217,8 +52219,6 @@
 :: results.cafefind.net
 0.0.0.0 resultshub-a.akamaihd.net
 :: resultshub-a.akamaihd.net
-0.0.0.0 ret.xinlongrubber.com
-:: ret.xinlongrubber.com
 0.0.0.0 retail.renodio.com
 :: retail.renodio.com
 0.0.0.0 retro-7-3.cz.cc
@@ -56039,8 +56039,6 @@
 :: smiercidata.5v.pl
 0.0.0.0 smiertelnywypadek.prv.pl
 :: smiertelnywypadek.prv.pl
-0.0.0.0 smieszne-zdjecia.5v.pl
-:: smieszne-zdjecia.5v.pl
 0.0.0.0 smile.ganhandoitensextra.com.br
 :: smile.ganhandoitensextra.com.br
 0.0.0.0 smile.modchipstore.com
@@ -57095,8 +57093,6 @@
 :: static.1j1j.com
 0.0.0.0 static.3-mobiappu.com
 :: static.3-mobiappu.com
-0.0.0.0 static.365inews.com
-:: static.365inews.com
 0.0.0.0 static.5411.com
 :: static.5411.com
 0.0.0.0 static.99widgets.com
@@ -58871,8 +58867,6 @@
 :: t.dynad.net
 0.0.0.0 t.eharmony.com
 :: t.eharmony.com
-0.0.0.0 t.fileplaneta.com
-:: t.fileplaneta.com
 0.0.0.0 t.flux.com
 :: t.flux.com
 0.0.0.0 t.frtyi.com
@@ -59279,8 +59273,6 @@
 :: tc.51la.net
 0.0.0.0 tc.ci123.com
 :: tc.ci123.com
-0.0.0.0 tc.fileplaneta.com
-:: tc.fileplaneta.com
 0.0.0.0 tc.freehostedscripts.net
 :: tc.freehostedscripts.net
 0.0.0.0 tc.mybb.ru
@@ -59691,8 +59683,6 @@
 :: test1.lmsoft.cz
 0.0.0.0 test2.jessekanclerz.com
 :: test2.jessekanclerz.com
-0.0.0.0 test2.wow-impulse.net
-:: test2.wow-impulse.net
 0.0.0.0 testats.inuvo.com
 :: testats.inuvo.com
 0.0.0.0 testen.instijlmedia.nl
@@ -63907,6 +63897,8 @@
 :: vdyafbsyy5.bradul.creatory.org
 0.0.0.0 ve-protect002.000webhostapp.com
 :: ve-protect002.000webhostapp.com
+0.0.0.0 ve.kj-cy.cn
+:: ve.kj-cy.cn
 0.0.0.0 ve.tscapeplay.com
 :: ve.tscapeplay.com
 0.0.0.0 vecinoonline.webcindario.com
@@ -67479,6 +67471,8 @@
 :: www.bimm.in
 0.0.0.0 www.binarysystem4u.com
 :: www.binarysystem4u.com
+0.0.0.0 www.bit-coin-trader.com
+:: www.bit-coin-trader.com
 0.0.0.0 www.bitlocker.net
 :: www.bitlocker.net
 0.0.0.0 www.bitsfarmclean.com
@@ -68027,6 +68021,8 @@
 :: www.docservices.eu
 0.0.0.0 www.document.pdf.kfunk.co.za
 :: www.document.pdf.kfunk.co.za
+0.0.0.0 www.dofinansowania-jezykowe.pl
+:: www.dofinansowania-jezykowe.pl
 0.0.0.0 www.dokjasura.top
 :: www.dokjasura.top
 0.0.0.0 www.doladowywacztel.pl
@@ -68983,8 +68979,6 @@
 :: www.jetseeker.com
 0.0.0.0 www.jfqsgonveglandules.review
 :: www.jfqsgonveglandules.review
-0.0.0.0 www.jghkjl.info
-:: www.jghkjl.info
 0.0.0.0 www.jhondi33.duckdns.org
 :: www.jhondi33.duckdns.org
 0.0.0.0 www.jiayuan.com
@@ -70695,6 +70689,8 @@
 :: www.system-live-media.cz
 0.0.0.0 www.system4.nl
 :: www.system4.nl
+0.0.0.0 www.szczesliwydzien.com
+:: www.szczesliwydzien.com
 0.0.0.0 www.szxc868.com
 :: www.szxc868.com
 0.0.0.0 www.szyr341.com
