@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Aug 20 05:07:52 CEST 2018
+# Last update: Tue Aug 21 05:08:01 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36516
+# Number of unique hostnames: 36501
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -183,6 +183,8 @@
 :: 1.gmxnet.damoh.schneevonmorgen.com
 0.0.0.0 1.googlenews.xorg.pl
 :: 1.googlenews.xorg.pl
+0.0.0.0 1.guyaheng.com
+:: 1.guyaheng.com
 0.0.0.0 1.hnyouneng.com
 :: 1.hnyouneng.com
 0.0.0.0 1.huilv.cc
@@ -2885,8 +2887,6 @@
 :: a6522.s3-website-us-east-1.amazonaws.com
 0.0.0.0 a6s.1cakeclub.com
 :: a6s.1cakeclub.com
-0.0.0.0 a6s.ruyiqufu.com
-:: a6s.ruyiqufu.com
 0.0.0.0 a6shd.realshieldlinked.com
 :: a6shd.realshieldlinked.com
 0.0.0.0 a7.suntimes.com
@@ -15557,6 +15557,8 @@
 :: as.vs4entertainment.com
 0.0.0.0 as.webmd.com
 :: as.webmd.com
+0.0.0.0 as.wiahoas581.pw
+:: as.wiahoas581.pw
 0.0.0.0 as.wiley.com
 :: as.wiley.com
 0.0.0.0 as.wkcr.cz
@@ -19825,6 +19827,8 @@
 :: c.tr.msn.com
 0.0.0.0 c.tracking.goodgamestudios.com
 :: c.tracking.goodgamestudios.com
+0.0.0.0 c.tvsou.com
+:: c.tvsou.com
 0.0.0.0 c.tw.msn.com
 :: c.tw.msn.com
 0.0.0.0 c.uaa.iqiyi.com
@@ -25509,8 +25513,6 @@
 :: d3dcugpvnepf41.cloudfront.net
 0.0.0.0 d3ddidv77grh0f.cloudfront.net
 :: d3ddidv77grh0f.cloudfront.net
-0.0.0.0 d3dh5c7rwzliwm.cloudfront.net
-:: d3dh5c7rwzliwm.cloudfront.net
 0.0.0.0 d3dphmosjk9rot.cloudfront.net
 :: d3dphmosjk9rot.cloudfront.net
 0.0.0.0 d3dytsf4vrjn5x.cloudfront.net
@@ -28341,10 +28343,6 @@
 :: e.gxjfh.com
 0.0.0.0 e.hellomingpian.com
 :: e.hellomingpian.com
-0.0.0.0 e.hgrqp.com
-:: e.hgrqp.com
-0.0.0.0 e.hk7799.net
-:: e.hk7799.net
 0.0.0.0 e.htper.com
 :: e.htper.com
 0.0.0.0 e.huaas.com
@@ -28379,8 +28377,6 @@
 :: e.lovezhishou.com
 0.0.0.0 e.meizhuanghe.com
 :: e.meizhuanghe.com
-0.0.0.0 e.mmkvi.com
-:: e.mmkvi.com
 0.0.0.0 e.mrsasharingspace.com
 :: e.mrsasharingspace.com
 0.0.0.0 e.mrtuo.com
@@ -28409,8 +28405,6 @@
 :: e.resmv.com
 0.0.0.0 e.ricpt.com
 :: e.ricpt.com
-0.0.0.0 e.rmwdn.com
-:: e.rmwdn.com
 0.0.0.0 e.t71q.com
 :: e.t71q.com
 0.0.0.0 e.targetfuel.com
@@ -28435,8 +28429,6 @@
 :: e.wjhehaofc.com
 0.0.0.0 e.wnxcg.com
 :: e.wnxcg.com
-0.0.0.0 e.wonwg.com
-:: e.wonwg.com
 0.0.0.0 e.x.cn.xtgreat.com
 :: e.x.cn.xtgreat.com
 0.0.0.0 e.xetvb.com
@@ -35497,8 +35489,6 @@
 :: images.tigerdirect.com.edgesuite.net
 0.0.0.0 images.topguncustomz.com
 :: images.topguncustomz.com
-0.0.0.0 images.tyyjzs.cn
-:: images.tyyjzs.cn
 0.0.0.0 images.v3.com
 :: images.v3.com
 0.0.0.0 images.vantage-media.net
@@ -40025,8 +40015,6 @@
 :: m.107279.com
 0.0.0.0 m.1133.cc
 :: m.1133.cc
-0.0.0.0 m.118ex.cn
-:: m.118ex.cn
 0.0.0.0 m.1768.com
 :: m.1768.com
 0.0.0.0 m.1919388.net
@@ -40113,14 +40101,10 @@
 :: m.cocounion.com
 0.0.0.0 m.cudaojia.com
 :: m.cudaojia.com
-0.0.0.0 m.cuoss.com
-:: m.cuoss.com
 0.0.0.0 m.cyberplusserice.banquepopulaire.fr.alpes.icgauth.websso.bp.13806.emparecoin.ro
 :: m.cyberplusserice.banquepopulaire.fr.alpes.icgauth.websso.bp.13806.emparecoin.ro
 0.0.0.0 m.data.mob.com
 :: m.data.mob.com
-0.0.0.0 m.dgaoz.com
-:: m.dgaoz.com
 0.0.0.0 m.doodlemobile.com
 :: m.doodlemobile.com
 0.0.0.0 m.du1du.org
@@ -40197,16 +40181,12 @@
 :: m.guifei99.com
 0.0.0.0 m.gujinyue.com
 :: m.gujinyue.com
-0.0.0.0 m.gwdqp.com
-:: m.gwdqp.com
 0.0.0.0 m.haowj.com.cn
 :: m.haowj.com.cn
 0.0.0.0 m.hellomingpian.com
 :: m.hellomingpian.com
 0.0.0.0 m.hhllyt.com
 :: m.hhllyt.com
-0.0.0.0 m.hk7799.net
-:: m.hk7799.net
 0.0.0.0 m.hot-mob.com
 :: m.hot-mob.com
 0.0.0.0 m.hpfjy.com
@@ -40269,8 +40249,6 @@
 :: m.mirmay.com
 0.0.0.0 m.miupp.com
 :: m.miupp.com
-0.0.0.0 m.mmkvi.com
-:: m.mmkvi.com
 0.0.0.0 m.mobilerevenu.com
 :: m.mobilerevenu.com
 0.0.0.0 m.mrtuo.com
@@ -40281,8 +40259,6 @@
 :: m.mushizhubao.com
 0.0.0.0 m.mxguan.com
 :: m.mxguan.com
-0.0.0.0 m.niegg.com
-:: m.niegg.com
 0.0.0.0 m.nouaa.com
 :: m.nouaa.com
 0.0.0.0 m.oipeirates.online
@@ -40323,8 +40299,6 @@
 :: m.rhcapass.com
 0.0.0.0 m.ricpt.com
 :: m.ricpt.com
-0.0.0.0 m.rmwdn.com
-:: m.rmwdn.com
 0.0.0.0 m.rrsdl.com
 :: m.rrsdl.com
 0.0.0.0 m.sancdn.net
@@ -40383,8 +40357,6 @@
 :: m.wjhehaofc.com
 0.0.0.0 m.wnxcg.com
 :: m.wnxcg.com
-0.0.0.0 m.wonwg.com
-:: m.wonwg.com
 0.0.0.0 m.wooboo.com.cn
 :: m.wooboo.com.cn
 0.0.0.0 m.wrating.com
@@ -46567,8 +46539,6 @@
 :: p.lumieyes.com
 0.0.0.0 p.m5bn.com
 :: p.m5bn.com
-0.0.0.0 p.mendoc.cn
-:: p.mendoc.cn
 0.0.0.0 p.milliyet.com.tr
 :: p.milliyet.com.tr
 0.0.0.0 p.pagesjaunes.fr
@@ -53663,6 +53633,8 @@
 :: saintlawrenceresidences.horizontechsystems.com
 0.0.0.0 sakitsakitan.hol.es
 :: sakitsakitan.hol.es
+0.0.0.0 salary.xiao84.com
+:: salary.xiao84.com
 0.0.0.0 saldao.com.br-smartphone-motorola-moto-g6-5-5.mixh.jp
 :: saldao.com.br-smartphone-motorola-moto-g6-5-5.mixh.jp
 0.0.0.0 salemail.email104.com.tw
@@ -69107,8 +69079,6 @@
 :: www.kinomarathon.ru
 0.0.0.0 www.kitchentablegang.org
 :: www.kitchentablegang.org
-0.0.0.0 www.kl-toys.com
-:: www.kl-toys.com
 0.0.0.0 www.klikdirect.com
 :: www.klikdirect.com
 0.0.0.0 www.klitepro.com
@@ -72901,8 +72871,6 @@
 :: zmienkolory.blogspot.com
 0.0.0.0 zminer.zaloapp.com
 :: zminer.zaloapp.com
-0.0.0.0 zmj.guanqinjie.cn
-:: zmj.guanqinjie.cn
 0.0.0.0 zmoda.hostreo.com
 :: zmoda.hostreo.com
 0.0.0.0 znaptag-us.s3.amazonaws.com
@@ -73029,6 +72997,8 @@
 :: zz.bdstatic.com
 0.0.0.0 zz2bax5sds.mlaxywbtcd.madpendesign.com.au
 :: zz2bax5sds.mlaxywbtcd.madpendesign.com.au
+0.0.0.0 zzc.9939.com
+:: zzc.9939.com
 0.0.0.0 zzcw.office-mall.net
 :: zzcw.office-mall.net
 0.0.0.0 zzjsujpstcsx.myfw.us
