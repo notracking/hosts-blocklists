@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Aug 21 05:08:01 CEST 2018
+# Last update: Wed Aug 22 05:14:29 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36501
+# Number of unique hostnames: 36499
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2709,6 +2709,8 @@
 :: a.walla.co.il
 0.0.0.0 a.watershed-publishing.com
 :: a.watershed-publishing.com
+0.0.0.0 a.wifi33.com
+:: a.wifi33.com
 0.0.0.0 a.wlfnb.com
 :: a.wlfnb.com
 0.0.0.0 a.wyzmob.com
@@ -13189,8 +13191,6 @@
 :: airfoundation.org.pk
 0.0.0.0 airline-ticket.gloses.net
 :: airline-ticket.gloses.net
-0.0.0.0 airmaxy-konkurs.coolpage.biz
-:: airmaxy-konkurs.coolpage.biz
 0.0.0.0 airport.yellowminicabs.com
 :: airport.yellowminicabs.com
 0.0.0.0 airport75.prognet.com
@@ -16317,6 +16317,8 @@
 :: b.iogous.com
 0.0.0.0 b.itvnet.lv
 :: b.itvnet.lv
+0.0.0.0 b.kuangtuiguoo18888.com
+:: b.kuangtuiguoo18888.com
 0.0.0.0 b.l-a-c.cn
 :: b.l-a-c.cn
 0.0.0.0 b.liquidustv.com
@@ -17765,6 +17767,8 @@
 :: bars.sapo.pt
 0.0.0.0 barshelluniversity.tcalr.org
 :: barshelluniversity.tcalr.org
+0.0.0.0 barsy.blogspot.com
+:: barsy.blogspot.com
 0.0.0.0 barthelemy.vincent86.free.fr
 :: barthelemy.vincent86.free.fr
 0.0.0.0 bas.boshi.tv
@@ -18209,8 +18213,6 @@
 :: bebenbesupper.altervista.org
 0.0.0.0 bebescreoles.free.fr
 :: bebescreoles.free.fr
-0.0.0.0 becel.atwebpages.com
-:: becel.atwebpages.com
 0.0.0.0 becl23.b2.gns.co.il
 :: becl23.b2.gns.co.il
 0.0.0.0 becode.qiushibaike.com
@@ -18641,6 +18643,8 @@
 :: blog.infoaxe.com
 0.0.0.0 blog.iondaniel.ro
 :: blog.iondaniel.ro
+0.0.0.0 blog.jacekpaciorek.pl
+:: blog.jacekpaciorek.pl
 0.0.0.0 blog.koorg.ru
 :: blog.koorg.ru
 0.0.0.0 blog.koreadaily.com
@@ -19391,8 +19395,6 @@
 :: buttfuckedteens.samplehosting.com
 0.0.0.0 buttocks.girls-movies.com
 :: buttocks.girls-movies.com
-0.0.0.0 butynike-zgarnij.coolpage.biz
-:: butynike-zgarnij.coolpage.biz
 0.0.0.0 buy-adipex-online.md-online24.de
 :: buy-adipex-online.md-online24.de
 0.0.0.0 buy-adipex.aca.ru
@@ -25943,6 +25945,8 @@
 :: dart.chron.com
 0.0.0.0 dascoin.info.pl
 :: dascoin.info.pl
+0.0.0.0 dascoin.prowly.com
+:: dascoin.prowly.com
 0.0.0.0 dascoininfo.blogspot.com
 :: dascoininfo.blogspot.com
 0.0.0.0 dasdada.fu.ck
@@ -26257,8 +26261,6 @@
 :: ddd.gouwuke.cn
 0.0.0.0 ddd.haodizhi666.com
 :: ddd.haodizhi666.com
-0.0.0.0 ddd.yuyouge.com
-:: ddd.yuyouge.com
 0.0.0.0 ddfnmo6ev4fd.cloudfront.net
 :: ddfnmo6ev4fd.cloudfront.net
 0.0.0.0 ddkbyyg.qhigh.com
@@ -29815,6 +29817,8 @@
 :: fable.in.ua
 0.0.0.0 fabrizv7.beget.tech
 :: fabrizv7.beget.tech
+0.0.0.0 fabryka-chinczykow.blogspot.com
+:: fabryka-chinczykow.blogspot.com
 0.0.0.0 fabulous.fsn.net
 :: fabulous.fsn.net
 0.0.0.0 fabulous.fsn.nl
@@ -29861,6 +29865,8 @@
 :: facebook-color.5v.pl
 0.0.0.0 facebook-com506.webnode.com
 :: facebook-com506.webnode.com
+0.0.0.0 facebook-kolor.blogspot.com
+:: facebook-kolor.blogspot.com
 0.0.0.0 facebook-page1048534.site88.net
 :: facebook-page1048534.site88.net
 0.0.0.0 facebook-proxy.hi5.com
@@ -30139,8 +30145,6 @@
 :: fb-alert-info.dynv6.net
 0.0.0.0 fb-color.qpq.pl
 :: fb-color.qpq.pl
-0.0.0.0 fb-colors.ct8.pl
-:: fb-colors.ct8.pl
 0.0.0.0 fb-info-account015.000webhostapp.com
 :: fb-info-account015.000webhostapp.com
 0.0.0.0 fb-kolor.blogspot.com
@@ -30155,10 +30159,8 @@
 :: fb-next-securityss.rumahweb.org
 0.0.0.0 fb-notifications-centre2017.000webhostapp.com
 :: fb-notifications-centre2017.000webhostapp.com
-0.0.0.0 fb-podglad5.blogspot.com
-:: fb-podglad5.blogspot.com
-0.0.0.0 fb-podglad6.blogspot.com
-:: fb-podglad6.blogspot.com
+0.0.0.0 fb-podglad.blogspot.com
+:: fb-podglad.blogspot.com
 0.0.0.0 fb-register-recovery07.hol.es
 :: fb-register-recovery07.hol.es
 0.0.0.0 fb-register-recovery09.hol.es
@@ -30217,8 +30219,8 @@
 :: fbcheck48.000webhostapp.com
 0.0.0.0 fbcheckrecovery444.000webhostapp.com
 :: fbcheckrecovery444.000webhostapp.com
-0.0.0.0 fbcolor071.blogspot.com
-:: fbcolor071.blogspot.com
+0.0.0.0 fbcolor.blogspot.com
+:: fbcolor.blogspot.com
 0.0.0.0 fbcolorfun.000webhostapp.com
 :: fbcolorfun.000webhostapp.com
 0.0.0.0 fbfreeall.000webhostapp.com
@@ -30297,6 +30299,8 @@
 :: fclick.baidu.com
 0.0.0.0 fclyon.basket.free.fr
 :: fclyon.basket.free.fr
+0.0.0.0 fcolors.blogspot.com
+:: fcolors.blogspot.com
 0.0.0.0 fcsass.org.cn
 :: fcsass.org.cn
 0.0.0.0 fcscmjaazp.harrisdentalsolutions.com
@@ -30483,8 +30487,6 @@
 :: ffdsarr3.beget.tech
 0.0.0.0 fff.dailymail.co.uk
 :: fff.dailymail.co.uk
-0.0.0.0 fff.yuyouge.com
-:: fff.yuyouge.com
 0.0.0.0 fffyfyfyfhuhjn.000webhostapp.com
 :: fffyfyfyfhuhjn.000webhostapp.com
 0.0.0.0 ffoqr3ug7m726zou.04hyxg.top
@@ -31363,6 +31365,8 @@
 :: freehaj4.beget.tech
 0.0.0.0 freeimghost.trafflow.com
 :: freeimghost.trafflow.com
+0.0.0.0 freeiqtest.blogspot.com
+:: freeiqtest.blogspot.com
 0.0.0.0 freemangasxxx.free.fr
 :: freemangasxxx.free.fr
 0.0.0.0 freemo0n.beget.tech
@@ -31803,8 +31807,6 @@
 :: gaaga.000webhostapp.com
 0.0.0.0 gadgeteer.pdamart.com
 :: gadgeteer.pdamart.com
-0.0.0.0 gadzet9999.atwebpages.com
-:: gadzet9999.atwebpages.com
 0.0.0.0 gae.caspion.com
 :: gae.caspion.com
 0.0.0.0 gaelgm59.beget.tech
@@ -35915,8 +35917,6 @@
 :: imgstat.ameba.jp
 0.0.0.0 imgtrack.domainmarket.com
 :: imgtrack.domainmarket.com
-0.0.0.0 imigranci.prv.pl
-:: imigranci.prv.pl
 0.0.0.0 imkzz.pcloadletter.quhu.info
 :: imkzz.pcloadletter.quhu.info
 0.0.0.0 immassets.s3.amazonaws.com
@@ -36469,6 +36469,8 @@
 :: internet-bankline-itau.duckdns.org
 0.0.0.0 internet-cleaning-tool.capital-software.qarchive.org
 :: internet-cleaning-tool.capital-software.qarchive.org
+0.0.0.0 internet-lte-5gb.blogspot.com
+:: internet-lte-5gb.blogspot.com
 0.0.0.0 internet.an7.com.br
 :: internet.an7.com.br
 0.0.0.0 internet.marsmediachannels.com
@@ -39835,8 +39837,6 @@
 :: lp.plan-q-secret.com
 0.0.0.0 lp.playerpage165.info
 :: lp.playerpage165.info
-0.0.0.0 lp.prizehub.me
-:: lp.prizehub.me
 0.0.0.0 lp.rewardhub2.club
 :: lp.rewardhub2.club
 0.0.0.0 lp.sa-baba.co.il
@@ -40041,6 +40041,8 @@
 :: m.937920.com
 0.0.0.0 m.ad.zhangyue.com
 :: m.ad.zhangyue.com
+0.0.0.0 m.adaog.com
+:: m.adaog.com
 0.0.0.0 m.adbridge.de
 :: m.adbridge.de
 0.0.0.0 m.adpro.cn
@@ -40113,6 +40115,8 @@
 :: m.duias.com
 0.0.0.0 m.dxectas1.cn
 :: m.dxectas1.cn
+0.0.0.0 m.efeiy.com
+:: m.efeiy.com
 0.0.0.0 m.ennmt.com
 :: m.ennmt.com
 0.0.0.0 m.exactag.com
@@ -43971,10 +43975,6 @@
 :: nightvision746.weebly.com
 0.0.0.0 nihahaw5.beget.tech
 :: nihahaw5.beget.tech
-0.0.0.0 nike-zgarnijbuty.coolpage.biz
-:: nike-zgarnijbuty.coolpage.biz
-0.0.0.0 nikebuty-zgarnij.freetzi.com
-:: nikebuty-zgarnij.freetzi.com
 0.0.0.0 nikitsyringedrivelg.pen.io
 :: nikitsyringedrivelg.pen.io
 0.0.0.0 nimesjeans.web.id
@@ -47069,6 +47069,10 @@
 :: paintball-gun.tripod.com
 0.0.0.0 pajama-playtime-felicity-fey-and-her-huge-teen-boobies.blogomer.com
 :: pajama-playtime-felicity-fey-and-her-huge-teen-boobies.blogomer.com
+0.0.0.0 pakiety-lte-5gb.blogspot.com
+:: pakiety-lte-5gb.blogspot.com
+0.0.0.0 pakiety-pokemon-go.blogspot.com
+:: pakiety-pokemon-go.blogspot.com
 0.0.0.0 palatej9.beget.tech
 :: palatej9.beget.tech
 0.0.0.0 pallotyni.ryn.pl
@@ -48521,6 +48525,8 @@
 :: pigredoben12.sytes.net
 0.0.0.0 pigtailsroundasses.blogspot.gr
 :: pigtailsroundasses.blogspot.gr
+0.0.0.0 pila-dziedzictwo-2017-online.5v.pl
+:: pila-dziedzictwo-2017-online.5v.pl
 0.0.0.0 pilkanozna.yolasite.com
 :: pilkanozna.yolasite.com
 0.0.0.0 pills.ind.in
@@ -48805,24 +48811,12 @@
 :: pl.mevida.me
 0.0.0.0 pl.mysafesmartphone.com
 :: pl.mysafesmartphone.com
-0.0.0.0 pl.slimg0ji-berry.com
-:: pl.slimg0ji-berry.com
 0.0.0.0 pl.superando.net
 :: pl.superando.net
-0.0.0.0 pl.titan-man.pro
-:: pl.titan-man.pro
 0.0.0.0 pl.web.toleadoo.com
 :: pl.web.toleadoo.com
-0.0.0.0 pl1.slimg0ji-berry.com
-:: pl1.slimg0ji-berry.com
-0.0.0.0 pl1.titan-man.pro
-:: pl1.titan-man.pro
 0.0.0.0 pl1567.bntags.com
 :: pl1567.bntags.com
-0.0.0.0 pl2.slimg0ji-berry.com
-:: pl2.slimg0ji-berry.com
-0.0.0.0 pl2.titan-man.pro
-:: pl2.titan-man.pro
 0.0.0.0 pl5225.bntags.com
 :: pl5225.bntags.com
 0.0.0.0 pl5411.bntags.com
@@ -49261,6 +49255,8 @@
 :: poker.be.tc
 0.0.0.0 pokolorujfb.glt.pl
 :: pokolorujfb.glt.pl
+0.0.0.0 pol.boobs-xl.com
+:: pol.boobs-xl.com
 0.0.0.0 pole.6rooms.com
 :: pole.6rooms.com
 0.0.0.0 polemic-prisms.000webhostapp.com
@@ -49273,6 +49269,8 @@
 :: policy.video.iqiyi.com
 0.0.0.0 poliy.kozow.com
 :: poliy.kozow.com
+0.0.0.0 polkawlesie.blogspot.com
+:: polkawlesie.blogspot.com
 0.0.0.0 pollserver.interpolls.com
 :: pollserver.interpolls.com
 0.0.0.0 polsatboxingnight-transmisjahd.ujm.pl
@@ -55127,6 +55125,8 @@
 :: sex-cartoons-porn.0my.net
 0.0.0.0 sex-celebrities.blogspot.com
 :: sex-celebrities.blogspot.com
+0.0.0.0 sex-fabryka.blogspot.com
+:: sex-fabryka.blogspot.com
 0.0.0.0 sex-free-zdarma-venku-zeleni.superczech.com
 :: sex-free-zdarma-venku-zeleni.superczech.com
 0.0.0.0 sex-sex-sex-sex-sex-sex-sex-sex-sex-sex.gocunt.com
@@ -55169,6 +55169,8 @@
 :: sexbilla.sextgem.com
 0.0.0.0 sexcam.xx1.ch
 :: sexcam.xx1.ch
+0.0.0.0 sexdzieci.blogspot.com
+:: sexdzieci.blogspot.com
 0.0.0.0 sexe-arabe.be.tc
 :: sexe-arabe.be.tc
 0.0.0.0 sexe.be.tc
@@ -55177,6 +55179,8 @@
 :: sexe.zannuaire.com
 0.0.0.0 sexeros-tv.web-go.net
 :: sexeros-tv.web-go.net
+0.0.0.0 sexfabryka.blogspot.com
+:: sexfabryka.blogspot.com
 0.0.0.0 sexkamerka.wa.pl
 :: sexkamerka.wa.pl
 0.0.0.0 sexkiss-24.web-go.net
@@ -56009,8 +56013,6 @@
 :: smfgroup.cjb.net
 0.0.0.0 smiercidata.5v.pl
 :: smiercidata.5v.pl
-0.0.0.0 smiertelnywypadek.prv.pl
-:: smiertelnywypadek.prv.pl
 0.0.0.0 smile.ganhandoitensextra.com.br
 :: smile.ganhandoitensextra.com.br
 0.0.0.0 smile.modchipstore.com
@@ -56439,8 +56441,6 @@
 :: spproxy.autobytel.com
 0.0.0.0 sprawdz-ogladaj.bo.pl
 :: sprawdz-ogladaj.bo.pl
-0.0.0.0 sprawdzaj-gosci6.6te.net
-:: sprawdzaj-gosci6.6te.net
 0.0.0.0 sprawdziany-odpowiedzi.bo.pl
 :: sprawdziany-odpowiedzi.bo.pl
 0.0.0.0 sprawdzikk.v0r.org
@@ -62171,6 +62171,8 @@
 :: two.schuetttransport.com
 0.0.0.0 twoglassdildos.blogspot.com
 :: twoglassdildos.blogspot.com
+0.0.0.0 twoj-test-iq.blogspot.com
+:: twoj-test-iq.blogspot.com
 0.0.0.0 twojpodgaladcz.glt.pl
 :: twojpodgaladcz.glt.pl
 0.0.0.0 twomanonewarfare.000webhostapp.com
@@ -65825,6 +65827,8 @@
 :: wibiya-actions.conduit-data.com
 0.0.0.0 wibiya-june-new-log.conduit-data.com
 :: wibiya-june-new-log.conduit-data.com
+0.0.0.0 wideo-pryszcz.blogspot.com
+:: wideo-pryszcz.blogspot.com
 0.0.0.0 widget.apptap.com
 :: widget.apptap.com
 0.0.0.0 widget.breakingburner.com
@@ -65977,8 +65981,6 @@
 :: wineitudes.wordpress.com
 0.0.0.0 winfoaccountupdatecmecheldq.webeden.co.uk
 :: winfoaccountupdatecmecheldq.webeden.co.uk
-0.0.0.0 winner.online-co.xyz
-:: winner.online-co.xyz
 0.0.0.0 winsetupcostotome.easthamvacations.info
 :: winsetupcostotome.easthamvacations.info
 0.0.0.0 wintricksbanner.googlepages.com
@@ -67443,8 +67445,6 @@
 :: www.bimm.in
 0.0.0.0 www.binarysystem4u.com
 :: www.binarysystem4u.com
-0.0.0.0 www.bit-coin-trader.com
-:: www.bit-coin-trader.com
 0.0.0.0 www.bitlocker.net
 :: www.bitlocker.net
 0.0.0.0 www.bitsfarmclean.com
@@ -67889,8 +67889,6 @@
 :: www.cshacks.partycat.us
 0.0.0.0 www.csomediakit.com
 :: www.csomediakit.com
-0.0.0.0 www.cuksy.pl
-:: www.cuksy.pl
 0.0.0.0 www.cumdrinker.com
 :: www.cumdrinker.com
 0.0.0.0 www.currentupdateconcepts.com
@@ -67993,8 +67991,6 @@
 :: www.docservices.eu
 0.0.0.0 www.document.pdf.kfunk.co.za
 :: www.document.pdf.kfunk.co.za
-0.0.0.0 www.dofinansowania-jezykowe.pl
-:: www.dofinansowania-jezykowe.pl
 0.0.0.0 www.dokjasura.top
 :: www.dokjasura.top
 0.0.0.0 www.doladowywacztel.pl
@@ -68077,6 +68073,8 @@
 :: www.eduancm.com
 0.0.0.0 www.efficienttraffic.com
 :: www.efficienttraffic.com
+0.0.0.0 www.eglobalcentral.pl
+:: www.eglobalcentral.pl
 0.0.0.0 www.egypt-dream.net
 :: www.egypt-dream.net
 0.0.0.0 www.eightforums.com
@@ -68543,8 +68541,6 @@
 :: www.gprapps.com
 0.0.0.0 www.gradportal.org
 :: www.gradportal.org
-0.0.0.0 www.grakreatorkamody.pl
-:: www.grakreatorkamody.pl
 0.0.0.0 www.gratis-counter-gratis.de
 :: www.gratis-counter-gratis.de
 0.0.0.0 www.gratis-toplist.de
@@ -68845,8 +68841,6 @@
 :: www.infoaxe.com
 0.0.0.0 www.infoaz.nl
 :: www.infoaz.nl
-0.0.0.0 www.infolinia-kontakt-telefon.pl
-:: www.infolinia-kontakt-telefon.pl
 0.0.0.0 www.infotelsrl.com
 :: www.infotelsrl.com
 0.0.0.0 www.inhumatesiwqkd.download
@@ -68999,6 +68993,8 @@
 :: www.jqcdn03.herokuapp.com
 0.0.0.0 www.jqcdn2.herokuapp.com
 :: www.jqcdn2.herokuapp.com
+0.0.0.0 www.jrhaigou.com
+:: www.jrhaigou.com
 0.0.0.0 www.jumpinessrhbijjq.download
 :: www.jumpinessrhbijjq.download
 0.0.0.0 www.jung201.tk
@@ -69489,8 +69485,6 @@
 :: www.modulartanks.com
 0.0.0.0 www.mohecm.com
 :: www.mohecm.com
-0.0.0.0 www.mojezakupy.net
-:: www.mojezakupy.net
 0.0.0.0 www.mondoperaio.net
 :: www.mondoperaio.net
 0.0.0.0 www.moneywin24.com
@@ -69629,8 +69623,6 @@
 :: www.networkwestvirginia.net
 0.0.0.0 www.netzathleten.de
 :: www.netzathleten.de
-0.0.0.0 www.newpassporn.com
-:: www.newpassporn.com
 0.0.0.0 www.newsectorbs.top
 :: www.newsectorbs.top
 0.0.0.0 www.nextlnk7.com
@@ -70451,6 +70443,8 @@
 :: www.skyenetmedia.com
 0.0.0.0 www.slapintins.publicvm.com
 :: www.slapintins.publicvm.com
+0.0.0.0 www.slawop.net
+:: www.slawop.net
 0.0.0.0 www.slivki.com.ua
 :: www.slivki.com.ua
 0.0.0.0 www.smartlog.ru
@@ -70477,6 +70471,8 @@
 :: www.softcha.com
 0.0.0.0 www.softconsulting.com
 :: www.softconsulting.com
+0.0.0.0 www.softmania.pl
+:: www.softmania.pl
 0.0.0.0 www.softwareviews.net
 :: www.softwareviews.net
 0.0.0.0 www.soidc.com
@@ -70659,8 +70655,6 @@
 :: www.system-live-media.cz
 0.0.0.0 www.system4.nl
 :: www.system4.nl
-0.0.0.0 www.szczesliwydzien.com
-:: www.szczesliwydzien.com
 0.0.0.0 www.szxc868.com
 :: www.szxc868.com
 0.0.0.0 www.szyr341.com
@@ -71005,8 +70999,6 @@
 :: www.unitedmall.com
 0.0.0.0 www.updatesoftwaresend.com
 :: www.updatesoftwaresend.com
-0.0.0.0 www.updatestar.com
-:: www.updatestar.com
 0.0.0.0 www.upgradeexplorer.com
 :: www.upgradeexplorer.com
 0.0.0.0 www.upi6.pillsstore-c.com
@@ -71747,8 +71739,14 @@
 :: wxwm2.ikuailian.com
 0.0.0.0 wy.ce22d.cn
 :: wy.ce22d.cn
+0.0.0.0 wyciskanie-pryszcza.blogspot.com
+:: wyciskanie-pryszcza.blogspot.com
+0.0.0.0 wyciskaniepryszcza0.blogspot.com
+:: wyciskaniepryszcza0.blogspot.com
 0.0.0.0 wycvts.kal.wkcengland.com
 :: wycvts.kal.wkcengland.com
+0.0.0.0 wygrajnike.blogspot.com
+:: wygrajnike.blogspot.com
 0.0.0.0 wypad3k0.blogspot.com
 :: wypad3k0.blogspot.com
 0.0.0.0 wypromuj.nazwa.pl
@@ -72793,10 +72791,8 @@
 :: zg.mmyuer.com
 0.0.0.0 zgarniij_vouchher.skroc.pl
 :: zgarniij_vouchher.skroc.pl
-0.0.0.0 zgarnij-butynike.coolpage.biz
-:: zgarnij-butynike.coolpage.biz
-0.0.0.0 zgarnij-nikebuty.coolpage.biz
-:: zgarnij-nikebuty.coolpage.biz
+0.0.0.0 zgarnijnike.blogspot.com
+:: zgarnijnike.blogspot.com
 0.0.0.0 zgopxgi9uqlgoioatuuc.littlematchagirl.com.au
 :: zgopxgi9uqlgoioatuuc.littlematchagirl.com.au
 0.0.0.0 zharuk.org.ua
