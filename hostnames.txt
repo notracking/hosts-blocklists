@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Aug 25 05:08:48 CEST 2018
+# Last update: Sun Aug 26 05:07:21 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36328
+# Number of unique hostnames: 36329
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -241,6 +241,8 @@
 :: 1.up.qingdaonews.com
 0.0.0.0 1.vsimg.com
 :: 1.vsimg.com
+0.0.0.0 1.wenzhangba.cn
+:: 1.wenzhangba.cn
 0.0.0.0 1.win7china.com
 :: 1.win7china.com
 0.0.0.0 1.win7sky.com
@@ -20847,8 +20849,6 @@
 :: cdn.theturboforums.com
 0.0.0.0 cdn.tianmidian.com
 :: cdn.tianmidian.com
-0.0.0.0 cdn.tinypass.com
-:: cdn.tinypass.com
 0.0.0.0 cdn.tradelab.fr
 :: cdn.tradelab.fr
 0.0.0.0 cdn.trafficexchangelist.com
@@ -29637,6 +29637,8 @@
 :: f1.06ps.com
 0.0.0.0 f1.ilivlite.com
 :: f1.ilivlite.com
+0.0.0.0 f1.lutouwang.net
+:: f1.lutouwang.net
 0.0.0.0 f1.p0y.cn
 :: f1.p0y.cn
 0.0.0.0 f1.p0y.com
@@ -35531,6 +35533,8 @@
 :: img.xnxx.com
 0.0.0.0 img.xuenb.com
 :: img.xuenb.com
+0.0.0.0 img.yangshengtang123.com
+:: img.yangshengtang123.com
 0.0.0.0 img.ygdsp.cn
 :: img.ygdsp.cn
 0.0.0.0 img.yingshidiguo.cn
@@ -56463,8 +56467,6 @@
 :: staffsolut.nichost.ru
 0.0.0.0 staffwrights.5gbfree.com
 :: staffwrights.5gbfree.com
-0.0.0.0 stag.mdotlabs.com
-:: stag.mdotlabs.com
 0.0.0.0 stag.tivinci.com
 :: stag.tivinci.com
 0.0.0.0 stage.broder.com
@@ -58757,8 +58759,6 @@
 :: tags.hypeads.org
 0.0.0.0 tags.master-perf-tools.com
 :: tags.master-perf-tools.com
-0.0.0.0 tags.mdotlabs.com
-:: tags.mdotlabs.com
 0.0.0.0 tags.msnbc.com
 :: tags.msnbc.com
 0.0.0.0 tags.news.com.au
@@ -59171,6 +59171,8 @@
 :: teleikjewr.cn15669.tmweb.ru
 0.0.0.0 telekomtonline-updateaccount.rhcloud.com
 :: telekomtonline-updateaccount.rhcloud.com
+0.0.0.0 telemetry-experiment.cdn.mozilla.net
+:: telemetry-experiment.cdn.mozilla.net
 0.0.0.0 telemetry-in.battle.net
 :: telemetry-in.battle.net
 0.0.0.0 telemetry.api.swiftkey.com
