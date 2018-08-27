@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Aug 26 05:07:21 CEST 2018
+# Last update: Mon Aug 27 05:09:00 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36329
+# Number of unique hostnames: 36330
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2739,6 +2739,8 @@
 :: a.yixie8.com
 0.0.0.0 a.yjbys.com
 :: a.yjbys.com
+0.0.0.0 a.yl-taikang.com
+:: a.yl-taikang.com
 0.0.0.0 a.youdao.com
 :: a.youdao.com
 0.0.0.0 a.yuzhainan.com
@@ -5671,8 +5673,6 @@
 :: adm.shinobi.jp
 0.0.0.0 adm.xmfish.com
 :: adm.xmfish.com
-0.0.0.0 adm.zbinfo.net
-:: adm.zbinfo.net
 0.0.0.0 adm.zookingsoft.com
 :: adm.zookingsoft.com
 0.0.0.0 adm0.autoimg.cn
@@ -17889,6 +17889,8 @@
 :: bd.hao224.com
 0.0.0.0 bd.haomagujia.com
 :: bd.haomagujia.com
+0.0.0.0 bd.scw98.com
+:: bd.scw98.com
 0.0.0.0 bd.soarfi.cn
 :: bd.soarfi.cn
 0.0.0.0 bd.wayqq.cn
@@ -27907,6 +27909,8 @@
 :: dtt617kogtcso.cloudfront.net
 0.0.0.0 dttdh65165gf.webcindario.com
 :: dttdh65165gf.webcindario.com
+0.0.0.0 dtto8zfzskfoa.cloudfront.net
+:: dtto8zfzskfoa.cloudfront.net
 0.0.0.0 dtwucw.net.a1traveldirect.co.uk
 :: dtwucw.net.a1traveldirect.co.uk
 0.0.0.0 dtwzedqhz.ce.ms
@@ -30935,6 +30939,8 @@
 :: foot-sex-pictures.gocunt.com
 0.0.0.0 for.ideaman-usa.com
 :: for.ideaman-usa.com
+0.0.0.0 forad1.weimeicun.com
+:: forad1.weimeicun.com
 0.0.0.0 forex-trading-benefits.blogspot.com
 :: forex-trading-benefits.blogspot.com
 0.0.0.0 forex.osobye.ru
@@ -36757,8 +36763,6 @@
 :: jb.mnkan.com
 0.0.0.0 jb.revolvermaps.com
 :: jb.revolvermaps.com
-0.0.0.0 jb.tupianzj.com
-:: jb.tupianzj.com
 0.0.0.0 jbqzz.pcloadletter.quhu.info
 :: jbqzz.pcloadletter.quhu.info
 0.0.0.0 jc.revolvermaps.com
@@ -37333,8 +37337,6 @@
 :: jsc.dinclinx.com
 0.0.0.0 jsc.tovarro.com
 :: jsc.tovarro.com
-0.0.0.0 jscdn.99pps.com
-:: jscdn.99pps.com
 0.0.0.0 jscode.jbzj.com
 :: jscode.jbzj.com
 0.0.0.0 jsdx.91xiazai.com
@@ -63147,6 +63149,8 @@
 :: user-servicesupport8.000webhostapp.com
 0.0.0.0 user.chase-reg.net16.net
 :: user.chase-reg.net16.net
+0.0.0.0 user53122.vs.speednames.com
+:: user53122.vs.speednames.com
 0.0.0.0 user56898.vs.speednames.com
 :: user56898.vs.speednames.com
 0.0.0.0 user57012.vs.speednames.com
@@ -71421,8 +71425,6 @@
 :: wz.37wan.com
 0.0.0.0 wzfield.advertsex.com
 :: wzfield.advertsex.com
-0.0.0.0 wzj.ywrjgzs.com
-:: wzj.ywrjgzs.com
 0.0.0.0 wzlxc.saqibsiddiqui.com
 :: wzlxc.saqibsiddiqui.com
 0.0.0.0 wzrqm.saqibsiddiqui.com
