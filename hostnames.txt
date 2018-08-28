@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Aug 27 05:09:00 CEST 2018
+# Last update: Tue Aug 28 05:17:26 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36330
+# Number of unique hostnames: 36312
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -51,6 +51,8 @@
 :: 019201.webcindario.com
 0.0.0.0 01bvxp4ze2.bradul.creatory.org
 :: 01bvxp4ze2.bradul.creatory.org
+0.0.0.0 01daa.luvbr.com
+:: 01daa.luvbr.com
 0.0.0.0 020.moro.tv
 :: 020.moro.tv
 0.0.0.0 021.moro.tv
@@ -157,6 +159,8 @@
 :: 1.ajiyuming.com
 0.0.0.0 1.arpun.com
 :: 1.arpun.com
+0.0.0.0 1.bashenghuo.com
+:: 1.bashenghuo.com
 0.0.0.0 1.chcx.cn
 :: 1.chcx.cn
 0.0.0.0 1.chipde.damoh.schneevonmorgen.com
@@ -449,6 +453,8 @@
 :: 2.5aigushi.com
 0.0.0.0 2.aili.com
 :: 2.aili.com
+0.0.0.0 2.bashenghuo.com
+:: 2.bashenghuo.com
 0.0.0.0 2.chipde.damoh.schneevonmorgen.com
 :: 2.chipde.damoh.schneevonmorgen.com
 0.0.0.0 2.googlenews.xorg.pl
@@ -2037,6 +2043,8 @@
 :: 6a4cc.lutrw.com
 0.0.0.0 6a4cc.luvbq.com
 :: 6a4cc.luvbq.com
+0.0.0.0 6a4cc.luvbr.com
+:: 6a4cc.luvbr.com
 0.0.0.0 6a802238f18629454f48-5fd47577f4847dded97d514126394433.r3.cf2.rackcdn.com
 :: 6a802238f18629454f48-5fd47577f4847dded97d514126394433.r3.cf2.rackcdn.com
 0.0.0.0 6b8a953b2bf7788063d5-6e453f33ecbb90f11a62a5c376375af3.r71.cf5.rackcdn.com
@@ -14285,10 +14293,6 @@
 :: angelinajolie.ca.tt
 0.0.0.0 angelinna.free.fr
 :: angelinna.free.fr
-0.0.0.0 angelsouris.free.fr
-:: angelsouris.free.fr
-0.0.0.0 angie1979.free.fr
-:: angie1979.free.fr
 0.0.0.0 angree.indianmedicalsupply.org
 :: angree.indianmedicalsupply.org
 0.0.0.0 animalch.sakura.ne.jp
@@ -16589,8 +16593,6 @@
 :: bandoc.d-group.co.il
 0.0.0.0 baner.energy-torrent.com
 :: baner.energy-torrent.com
-0.0.0.0 baners.pr-models.com
-:: baners.pr-models.com
 0.0.0.0 banery.acr.pl
 :: banery.acr.pl
 0.0.0.0 banery.netart.pl
@@ -16601,8 +16603,6 @@
 :: banex.bikers-engine.com
 0.0.0.0 banex.search.bg
 :: banex.search.bg
-0.0.0.0 bang-bus.inhit.com
-:: bang-bus.inhit.com
 0.0.0.0 banganucoid.masterweb.id
 :: banganucoid.masterweb.id
 0.0.0.0 bangbus.inhit.com
@@ -26563,12 +26563,6 @@
 :: dev1.universalit.com
 0.0.0.0 dev2.bullseyesaloon.com
 :: dev2.bullseyesaloon.com
-0.0.0.0 dev34.dioniqlabb.se
-:: dev34.dioniqlabb.se
-0.0.0.0 dev40.dioniqlabb.se
-:: dev40.dioniqlabb.se
-0.0.0.0 dev78.dioniqlabb.se
-:: dev78.dioniqlabb.se
 0.0.0.0 devel0per11.regisconfrim.cf
 :: devel0per11.regisconfrim.cf
 0.0.0.0 developer-center67-fanfage00999.register09888.tk
@@ -27449,18 +27443,8 @@
 :: down2.upantool.com
 0.0.0.0 down4.cr173.com
 :: down4.cr173.com
-0.0.0.0 downbepo.hostami.me
-:: downbepo.hostami.me
-0.0.0.0 downbiefred.hostami.me
-:: downbiefred.hostami.me
-0.0.0.0 downgebud.hostami.me
-:: downgebud.hostami.me
-0.0.0.0 downglener.hostami.me
-:: downglener.hostami.me
 0.0.0.0 downgradepc.update-plus.net
 :: downgradepc.update-plus.net
-0.0.0.0 downhelpcas.hostami.me
-:: downhelpcas.hostami.me
 0.0.0.0 download-battlefield-4-hack-crack-keygen-new-2014.ipro.pw
 :: download-battlefield-4-hack-crack-keygen-new-2014.ipro.pw
 0.0.0.0 download.123cw.cn
@@ -27551,20 +27535,6 @@
 :: downloads.mytvandmovies.com
 0.0.0.0 downloadstarwars.blogs-blogs.com
 :: downloadstarwars.blogs-blogs.com
-0.0.0.0 downlobsmar.hostami.me
-:: downlobsmar.hostami.me
-0.0.0.0 downrocu.hostami.me
-:: downrocu.hostami.me
-0.0.0.0 downstorfi.hostami.me
-:: downstorfi.hostami.me
-0.0.0.0 downtane.hostami.me
-:: downtane.hostami.me
-0.0.0.0 downtiocan.hostami.me
-:: downtiocan.hostami.me
-0.0.0.0 downvientit.hostami.me
-:: downvientit.hostami.me
-0.0.0.0 downviovi.hostami.me
-:: downviovi.hostami.me
 0.0.0.0 doxliwesed.de.ms
 :: doxliwesed.de.ms
 0.0.0.0 doyousexe.free.fr
@@ -27767,8 +27737,6 @@
 :: dropdocurcvd.myjeri-villa.com
 0.0.0.0 droppy.sakinadirect.com
 :: droppy.sakinadirect.com
-0.0.0.0 dropqaq.xf.cz
-:: dropqaq.xf.cz
 0.0.0.0 drowbox.000webhostapp.com
 :: drowbox.000webhostapp.com
 0.0.0.0 drp60gfj3y9kn.cloudfront.net
@@ -28873,8 +28841,6 @@
 :: empis.magix.net
 0.0.0.0 emprestimo-negativado-online.epizy.com
 :: emprestimo-negativado-online.epizy.com
-0.0.0.0 emptyus.trixy.pl
-:: emptyus.trixy.pl
 0.0.0.0 emt-interac.mussmandesign.com
 :: emt-interac.mussmandesign.com
 0.0.0.0 emt-refund-deposit.azkacompanies.com
@@ -37729,8 +37695,6 @@
 :: kfc.i.illuminationes.com
 0.0.0.0 kfewaz.zh1155.com
 :: kfewaz.zh1155.com
-0.0.0.0 kgile.grejt.pl
-:: kgile.grejt.pl
 0.0.0.0 kgmobilestat.kugou.com
 :: kgmobilestat.kugou.com
 0.0.0.0 kgohter.hugwerasoting.com
@@ -40101,8 +40065,6 @@
 :: m.usersonline.com
 0.0.0.0 m.vaxyz.com
 :: m.vaxyz.com
-0.0.0.0 m.vbieu.com
-:: m.vbieu.com
 0.0.0.0 m.verpt.com
 :: m.verpt.com
 0.0.0.0 m.wankz.com
@@ -42587,8 +42549,6 @@
 :: morf.snn.gr
 0.0.0.0 morganhorse.org.nz
 :: morganhorse.org.nz
-0.0.0.0 morlat.altervista.org
-:: morlat.altervista.org
 0.0.0.0 mortgage-memphis.hotmail.ru
 :: mortgage-memphis.hotmail.ru
 0.0.0.0 mortgage-rates.now-cash.com
@@ -43533,8 +43493,6 @@
 :: news.58.com
 0.0.0.0 news.cxxtv.com
 :: news.cxxtv.com
-0.0.0.0 news.ebc.net.tw
-:: news.ebc.net.tw
 0.0.0.0 news.followerinfo.xyz
 :: news.followerinfo.xyz
 0.0.0.0 news.idealmedia.com
@@ -51853,6 +51811,8 @@
 :: rescn.u3.ucweb.com
 0.0.0.0 research.de.com
 :: research.de.com
+0.0.0.0 research.ifmo.ru
+:: research.ifmo.ru
 0.0.0.0 reseller.sexyads.com
 :: reseller.sexyads.com
 0.0.0.0 resellers.msbill.com
@@ -61745,6 +61705,8 @@
 :: tu.njflfd.com
 0.0.0.0 tu.szefe.com
 :: tu.szefe.com
+0.0.0.0 tu.zx110.org
+:: tu.zx110.org
 0.0.0.0 tube.thumblogger.com
 :: tube.thumblogger.com
 0.0.0.0 tui.gtimg.com
@@ -72109,6 +72071,8 @@
 :: yikesprospho.com.gridhosted.co.uk
 0.0.0.0 yin1.zgpingshu.com
 :: yin1.zgpingshu.com
+0.0.0.0 yingxiao.baidu.com
+:: yingxiao.baidu.com
 0.0.0.0 yisde.cgffood.vn
 :: yisde.cgffood.vn
 0.0.0.0 yitkomfj.angelcities.com
