@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Aug 29 05:06:11 CEST 2018
+# Last update: Thu Aug 30 05:05:48 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36258
+# Number of unique hostnames: 36255
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -14269,6 +14269,8 @@
 :: andmlbf.tj.ijinshan.com
 0.0.0.0 andotherobservations.jia-li.net
 :: andotherobservations.jia-li.net
+0.0.0.0 andr0id.traffic-smart.com
+:: andr0id.traffic-smart.com
 0.0.0.0 andreevna.vipcentr.ru
 :: andreevna.vipcentr.ru
 0.0.0.0 android-sdk31.transpera.com
@@ -19835,6 +19837,8 @@
 :: c1.4qx.net
 0.0.0.0 c1.668559.com
 :: c1.668559.com
+0.0.0.0 c1.china.cn
+:: c1.china.cn
 0.0.0.0 c1.ifengimg.com
 :: c1.ifengimg.com
 0.0.0.0 c1.lianwangtech.com
@@ -33507,8 +33511,6 @@
 :: hinsdaleumc.dreamhosters.com
 0.0.0.0 hintergrundbilder.cars.sms13.de
 :: hintergrundbilder.cars.sms13.de
-0.0.0.0 hintergrundbilder.dachstein.sms13.de
-:: hintergrundbilder.dachstein.sms13.de
 0.0.0.0 hintergrundbilder.jubilaeum.sms13.de
 :: hintergrundbilder.jubilaeum.sms13.de
 0.0.0.0 hintergrundbilder.katzen.sms13.de
@@ -42065,8 +42067,6 @@
 :: miss.doctortoken.com
 0.0.0.0 miss.scoginfinance.com
 :: miss.scoginfinance.com
-0.0.0.0 mississippi.mobile.home.dealer.sms13.de
-:: mississippi.mobile.home.dealer.sms13.de
 0.0.0.0 mitchell.raakstaging.com
 :: mitchell.raakstaging.com
 0.0.0.0 mite.ac.in
@@ -49179,8 +49179,6 @@
 :: pornographo.blogspot.it.br.blogspot.sk
 0.0.0.0 pornographo.blogspot.no.blogspot.no
 :: pornographo.blogspot.no.blogspot.no
-0.0.0.0 pornohubxl3.blogs-blogs.com
-:: pornohubxl3.blogs-blogs.com
 0.0.0.0 pornole.qii.pl
 :: pornole.qii.pl
 0.0.0.0 pornoseite.thumblogger.com
@@ -53547,8 +53545,6 @@
 :: scout.rollcall.com
 0.0.0.0 scprtrs.000webhostapp.com
 :: scprtrs.000webhostapp.com
-0.0.0.0 scrambled.ri.la
-:: scrambled.ri.la
 0.0.0.0 scream.garudamp3.com
 :: scream.garudamp3.com
 0.0.0.0 screencapturewidget.aebn.net
@@ -68927,8 +68923,6 @@
 :: www.meinebranche24.de
 0.0.0.0 www.meitumq.com
 :: www.meitumq.com
-0.0.0.0 www.meizu.com
-:: www.meizu.com
 0.0.0.0 www.memeva.com
 :: www.memeva.com
 0.0.0.0 www.mengyuanwei.com
