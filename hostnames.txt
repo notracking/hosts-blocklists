@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Aug 30 05:05:48 CEST 2018
+# Last update: Fri Aug 31 06:14:57 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36255
+# Number of unique hostnames: 36253
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -4219,6 +4219,8 @@
 :: ad.linxcz.cz
 0.0.0.0 ad.lista.cz
 :: ad.lista.cz
+0.0.0.0 ad.liveburst.com
+:: ad.liveburst.com
 0.0.0.0 ad.liveinternet.ru
 :: ad.liveinternet.ru
 0.0.0.0 ad.logro.com.tr
@@ -17919,6 +17921,8 @@
 :: bd1.nipic.com
 0.0.0.0 bd1.nxing.cn
 :: bd1.nxing.cn
+0.0.0.0 bd1.pipaw.com
+:: bd1.pipaw.com
 0.0.0.0 bd1.szhk.com
 :: bd1.szhk.com
 0.0.0.0 bd1.wowoqq.com
@@ -18559,8 +18563,6 @@
 :: blauzsuzsa.square7.ch
 0.0.0.0 blb.winasdaq.com
 :: blb.winasdaq.com
-0.0.0.0 bleua.ecefibwja.xyz
-:: bleua.ecefibwja.xyz
 0.0.0.0 blh.lamandaukab.go.id
 :: blh.lamandaukab.go.id
 0.0.0.0 blindelisaddlehip.mindlegacyonline.com
@@ -20113,8 +20115,6 @@
 :: campanie.go.ro
 0.0.0.0 campus.lovepop.jp
 :: campus.lovepop.jp
-0.0.0.0 campus.miim.ac.in
-:: campus.miim.ac.in
 0.0.0.0 campus.org.bd
 :: campus.org.bd
 0.0.0.0 cams.camxs.nl
@@ -28207,8 +28207,6 @@
 :: e.gxjfh.com
 0.0.0.0 e.hellomingpian.com
 :: e.hellomingpian.com
-0.0.0.0 e.hmhqp.com
-:: e.hmhqp.com
 0.0.0.0 e.htper.com
 :: e.htper.com
 0.0.0.0 e.huaas.com
@@ -34949,8 +34947,6 @@
 :: im.of.pl
 0.0.0.0 im.ov.yahoo.co.jp
 :: im.ov.yahoo.co.jp
-0.0.0.0 im.rediff.com
-:: im.rediff.com
 0.0.0.0 im.upromise.com
 :: im.upromise.com
 0.0.0.0 im.xo.pl
@@ -59531,8 +59527,6 @@
 :: tongj.xilu.com
 0.0.0.0 tongji-res1.meizu.com
 :: tongji-res1.meizu.com
-0.0.0.0 tongji.114com.cc
-:: tongji.114com.cc
 0.0.0.0 tongji.baidu.com
 :: tongji.baidu.com
 0.0.0.0 tongji.eastday.com
@@ -66553,6 +66547,8 @@
 :: www.adserver5.com
 0.0.0.0 www.adserverxxl.de
 :: www.adserverxxl.de
+0.0.0.0 www.adserving.pro
+:: www.adserving.pro
 0.0.0.0 www.adservtech.com
 :: www.adservtech.com
 0.0.0.0 www.adshost3.com
