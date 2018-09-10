@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Sep 9 05:10:35 CEST 2018
+# Last update: Mon Sep 10 05:10:21 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36216
+# Number of unique hostnames: 36251
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -34291,6 +34291,10 @@
 :: hu587tiugi.vv.cc
 0.0.0.0 hub.adlpartner.com
 :: hub.adlpartner.com
+0.0.0.0 hub5btmain.sandai.net
+:: hub5btmain.sandai.net
+0.0.0.0 hub5emu.sandai.net
+:: hub5emu.sandai.net
 0.0.0.0 hubxt.redtube.com
 :: hubxt.redtube.com
 0.0.0.0 hubxt.tube8.com
@@ -38325,6 +38329,8 @@
 :: lds.lenovomm.com
 0.0.0.0 ldy.350.com
 :: ldy.350.com
+0.0.0.0 ldy.adqku.cn
+:: ldy.adqku.cn
 0.0.0.0 lead.program3.com
 :: lead.program3.com
 0.0.0.0 leaddyno-client-images.s3.amazonaws.com
@@ -39705,6 +39711,8 @@
 :: m.cyberplusserice.banquepopulaire.fr.alpes.icgauth.websso.bp.13806.emparecoin.ro
 0.0.0.0 m.data.mob.com
 :: m.data.mob.com
+0.0.0.0 m.dbaiz.com
+:: m.dbaiz.com
 0.0.0.0 m.doodlemobile.com
 :: m.doodlemobile.com
 0.0.0.0 m.du1du.org
@@ -39925,6 +39933,8 @@
 :: m.shopathome.com
 0.0.0.0 m.simba.taobao.com
 :: m.simba.taobao.com
+0.0.0.0 m.sjaidu.com
+:: m.sjaidu.com
 0.0.0.0 m.smsquiz.pl
 :: m.smsquiz.pl
 0.0.0.0 m.symac.cn
@@ -47895,8 +47905,12 @@
 :: phorno-gallery.darkhost.info
 0.0.0.0 photo-coquine.toubon.com
 :: photo-coquine.toubon.com
+0.0.0.0 photo.qianerbai.cn
+:: photo.qianerbai.cn
 0.0.0.0 photo.video.gay.free.fr
 :: photo.video.gay.free.fr
+0.0.0.0 photo.zhanhevr.cn
+:: photo.zhanhevr.cn
 0.0.0.0 photo91.free.fr
 :: photo91.free.fr
 0.0.0.0 photoalbum.daytonsw.ga
@@ -48019,6 +48033,8 @@
 :: pic.moad.cn
 0.0.0.0 pic.neiyicun.net
 :: pic.neiyicun.net
+0.0.0.0 pic.new400.cn
+:: pic.new400.cn
 0.0.0.0 pic.pic-img.com
 :: pic.pic-img.com
 0.0.0.0 pic.punchbox.org
@@ -48381,6 +48397,8 @@
 :: pl.mevida.me
 0.0.0.0 pl.mysafesmartphone.com
 :: pl.mysafesmartphone.com
+0.0.0.0 pl.patterntrader.biz
+:: pl.patterntrader.biz
 0.0.0.0 pl.slimg0ji-berry.com
 :: pl.slimg0ji-berry.com
 0.0.0.0 pl.superando.net
@@ -48475,6 +48493,8 @@
 :: play.play.estream.xyz
 0.0.0.0 play.play.vidzi.tv
 :: play.play.vidzi.tv
+0.0.0.0 play.play1.videos.videos.vidto.me
+:: play.play1.videos.videos.vidto.me
 0.0.0.0 play.play1.videos.vidto.me
 :: play.play1.videos.vidto.me
 0.0.0.0 play.proxy.multikonline.ru
@@ -48501,6 +48521,8 @@
 :: play.video.estream.nu
 0.0.0.0 play.video2.stream.vidzi.tv
 :: play.video2.stream.vidzi.tv
+0.0.0.0 play.videos.videos.vidto.me
+:: play.videos.videos.vidto.me
 0.0.0.0 play.videos.vidto.me
 :: play.videos.vidto.me
 0.0.0.0 play.vidzi.tv
@@ -48509,6 +48531,8 @@
 :: play.xmr.101010.pl
 0.0.0.0 play.xmr.e-libra.ru
 :: play.xmr.e-libra.ru
+0.0.0.0 play1.videos.videos.vidto.me
+:: play1.videos.videos.vidto.me
 0.0.0.0 play1.videos.vidto.me
 :: play1.videos.vidto.me
 0.0.0.0 playablepblysef.blogspot.com
@@ -48533,6 +48557,8 @@
 :: player.log.hunantv.com
 0.0.0.0 player.movenetworks.com
 :: player.movenetworks.com
+0.0.0.0 player.videos.vidto.me
+:: player.videos.vidto.me
 0.0.0.0 playgirl75.free.fr
 :: playgirl75.free.fr
 0.0.0.0 playinfo.gomlab.com
@@ -52597,6 +52623,10 @@
 :: s2.play.estream.xyz
 0.0.0.0 s2.play.vidzi.tv
 :: s2.play.vidzi.tv
+0.0.0.0 s2.play1.videos.videos.vidto.me
+:: s2.play1.videos.videos.vidto.me
+0.0.0.0 s2.play1.videos.vidto.me
+:: s2.play1.videos.vidto.me
 0.0.0.0 s2.rotaban.ru
 :: s2.rotaban.ru
 0.0.0.0 s2.socialannex.com
@@ -52605,6 +52635,10 @@
 :: s2.video.estream.nu
 0.0.0.0 s2.video2.stream.vidzi.tv
 :: s2.video2.stream.vidzi.tv
+0.0.0.0 s2.videos.videos.vidto.me
+:: s2.videos.videos.vidto.me
+0.0.0.0 s2.videos.vidto.me
+:: s2.videos.vidto.me
 0.0.0.0 s2.vidtod.me
 :: s2.vidtod.me
 0.0.0.0 s2.yandui.com
@@ -52643,10 +52677,18 @@
 :: s3.play.estream.xyz
 0.0.0.0 s3.play.vidzi.tv
 :: s3.play.vidzi.tv
+0.0.0.0 s3.play1.videos.videos.vidto.me
+:: s3.play1.videos.videos.vidto.me
+0.0.0.0 s3.play1.videos.vidto.me
+:: s3.play1.videos.vidto.me
 0.0.0.0 s3.video.estream.nu
 :: s3.video.estream.nu
 0.0.0.0 s3.video2.stream.vidzi.tv
 :: s3.video2.stream.vidzi.tv
+0.0.0.0 s3.videos.videos.vidto.me
+:: s3.videos.videos.vidto.me
+0.0.0.0 s3.videos.vidto.me
+:: s3.videos.vidto.me
 0.0.0.0 s3.vidtod.me
 :: s3.vidtod.me
 0.0.0.0 s32.bilsay.com
@@ -59199,6 +59241,8 @@
 :: theatrekoodak.webphoto.ir
 0.0.0.0 thecockpit.allmanpages.com
 :: thecockpit.allmanpages.com
+0.0.0.0 thecrew.jandan.net
+:: thecrew.jandan.net
 0.0.0.0 thefrezr.beget.tech
 :: thefrezr.beget.tech
 0.0.0.0 thehautesociete3.visionpush.com
@@ -60389,6 +60433,8 @@
 :: track.vivid.com
 0.0.0.0 track.vscash.com
 :: track.vscash.com
+0.0.0.0 track.walentynkowyprezent.pl
+:: track.walentynkowyprezent.pl
 0.0.0.0 track.webbranddeals.com
 :: track.webbranddeals.com
 0.0.0.0 track.webmatics.info
@@ -65661,6 +65707,8 @@
 :: wn.pos.baidu.com
 0.0.0.0 wn.x.jd.com
 :: wn.x.jd.com
+0.0.0.0 wneia.iaskhot.com
+:: wneia.iaskhot.com
 0.0.0.0 wnt-40.seeweb.it
 :: wnt-40.seeweb.it
 0.0.0.0 wo.iuni.com.cn
@@ -67773,6 +67821,10 @@
 :: www.freeadposting.com
 0.0.0.0 www.freecamsecrets.com
 :: www.freecamsecrets.com
+0.0.0.0 www.freecontent.download
+:: www.freecontent.download
+0.0.0.0 www.freecontent.review
+:: www.freecontent.review
 0.0.0.0 www.freecounter.it
 :: www.freecounter.it
 0.0.0.0 www.freeelectricity.co.za
@@ -68139,6 +68191,18 @@
 :: www.hostedbanners.com
 0.0.0.0 www.hostedfiles.net
 :: www.hostedfiles.net
+0.0.0.0 www.hostingcloud.party
+:: www.hostingcloud.party
+0.0.0.0 www.hostingcloud.racing
+:: www.hostingcloud.racing
+0.0.0.0 www.hostingcloud.review
+:: www.hostingcloud.review
+0.0.0.0 www.hostingcloud.stream
+:: www.hostingcloud.stream
+0.0.0.0 www.hostingcloud.trade
+:: www.hostingcloud.trade
+0.0.0.0 www.hostingcloud.win
+:: www.hostingcloud.win
 0.0.0.0 www.hostmyportfolio.com
 :: www.hostmyportfolio.com
 0.0.0.0 www.hot-mob.com
@@ -68447,6 +68511,10 @@
 :: www.jqcdn2.herokuapp.com
 0.0.0.0 www.jrhaigou.com
 :: www.jrhaigou.com
+0.0.0.0 www.jshosting.faith
+:: www.jshosting.faith
+0.0.0.0 www.jshosting.science
+:: www.jshosting.science
 0.0.0.0 www.jumpinessrhbijjq.download
 :: www.jumpinessrhbijjq.download
 0.0.0.0 www.jung201.tk
@@ -71677,6 +71745,8 @@
 :: xxgoe.saqibsiddiqui.com
 0.0.0.0 xxi.ss.la
 :: xxi.ss.la
+0.0.0.0 xxp.gytygc.com
+:: xxp.gytygc.com
 0.0.0.0 xxx.apnimandi.com
 :: xxx.apnimandi.com
 0.0.0.0 xxx.art.webjump.net
