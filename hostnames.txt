@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Sep 12 05:13:09 CEST 2018
+# Last update: Thu Sep 13 05:19:37 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36147
+# Number of unique hostnames: 36151
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -37549,6 +37549,8 @@
 :: kn.dyscsm.cn
 0.0.0.0 kn.gzcce.cn
 :: kn.gzcce.cn
+0.0.0.0 kn.jzhrty.cn
+:: kn.jzhrty.cn
 0.0.0.0 kn.qqqmdq.com
 :: kn.qqqmdq.com
 0.0.0.0 kn.zzdahan.com
@@ -39485,8 +39487,6 @@
 :: m.data.mob.com
 0.0.0.0 m.dbaiz.com
 :: m.dbaiz.com
-0.0.0.0 m.djhhy.com
-:: m.djhhy.com
 0.0.0.0 m.doodlemobile.com
 :: m.doodlemobile.com
 0.0.0.0 m.du1du.org
@@ -47689,6 +47689,8 @@
 :: photo-coquine.toubon.com
 0.0.0.0 photo.qianerbai.cn
 :: photo.qianerbai.cn
+0.0.0.0 photo.shyexiang.cn
+:: photo.shyexiang.cn
 0.0.0.0 photo.video.gay.free.fr
 :: photo.video.gay.free.fr
 0.0.0.0 photo.zhanhevr.cn
@@ -61511,6 +61513,8 @@
 :: u.prizerewardcenter.com
 0.0.0.0 u.prizerewardportal.com
 :: u.prizerewardportal.com
+0.0.0.0 u.qijipc.com
+:: u.qijipc.com
 0.0.0.0 u.raidmedia.com.cn
 :: u.raidmedia.com.cn
 0.0.0.0 u.scdn.co
@@ -67469,6 +67473,8 @@
 :: www.fasadobygg.com
 0.0.0.0 www.fashionhunter.net
 :: www.fashionhunter.net
+0.0.0.0 www.fastcache.com.cn
+:: www.fastcache.com.cn
 0.0.0.0 www.fastcash-ad.biz
 :: www.fastcash-ad.biz
 0.0.0.0 www.fastcashathome.homestead.com
@@ -71331,6 +71337,8 @@
 :: xi.liuxiaoer.com
 0.0.0.0 xiaoshuo.kp53.cn
 :: xiaoshuo.kp53.cn
+0.0.0.0 xiaoshuo.zhandao.net
+:: xiaoshuo.zhandao.net
 0.0.0.0 xiazai.cdren.com
 :: xiazai.cdren.com
 0.0.0.0 xiazai.downok.com
