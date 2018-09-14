@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Sep 13 05:19:37 CEST 2018
+# Last update: Fri Sep 14 06:21:01 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36151
+# Number of unique hostnames: 36175
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -215,6 +215,8 @@
 :: 1.mgff.com
 0.0.0.0 1.miniporn.ru
 :: 1.miniporn.ru
+0.0.0.0 1.mm100.com
+:: 1.mm100.com
 0.0.0.0 1.nanrenwo.net
 :: 1.nanrenwo.net
 0.0.0.0 1.panduoduo.net
@@ -3679,6 +3681,8 @@
 :: ad.blm.org
 0.0.0.0 ad.blogdrive.com
 :: ad.blogdrive.com
+0.0.0.0 ad.blueice.pl
+:: ad.blueice.pl
 0.0.0.0 ad.bnmedia.ru
 :: ad.bnmedia.ru
 0.0.0.0 ad.boardhost.com
@@ -4455,6 +4459,8 @@
 :: ad.playground.ru
 0.0.0.0 ad.policeone.com
 :: ad.policeone.com
+0.0.0.0 ad.polskiprzemysl.com.pl
+:: ad.polskiprzemysl.com.pl
 0.0.0.0 ad.pop.com.br
 :: ad.pop.com.br
 0.0.0.0 ad.portalmundos.com
@@ -11497,6 +11503,8 @@
 :: adservice.google.com.tr
 0.0.0.0 adservice.google.nl
 :: adservice.google.nl
+0.0.0.0 adservice.google.pl
+:: adservice.google.pl
 0.0.0.0 adservice.kelkoo.it
 :: adservice.kelkoo.it
 0.0.0.0 adservice.recon-networks.com
@@ -13213,6 +13221,8 @@
 :: aitsngnuu.angelcities.com
 0.0.0.0 ajax.mysq1.net
 :: ajax.mysq1.net
+0.0.0.0 ajax.rutracker.org.pl
+:: ajax.rutracker.org.pl
 0.0.0.0 ajbhsh.edu.bd
 :: ajbhsh.edu.bd
 0.0.0.0 ajnad.aljazeera.net
@@ -14621,8 +14631,6 @@
 :: api.pingstart.com
 0.0.0.0 api.primecaster.net
 :: api.primecaster.net
-0.0.0.0 api.privy.com
-:: api.privy.com
 0.0.0.0 api.proofpositivemedia.com
 :: api.proofpositivemedia.com
 0.0.0.0 api.push.le.com
@@ -14941,6 +14949,8 @@
 :: app.acm.dzwww.com
 0.0.0.0 app.activetrail.com
 :: app.activetrail.com
+0.0.0.0 app.adblockhyper.us
+:: app.adblockhyper.us
 0.0.0.0 app.aplus.pptv.com
 :: app.aplus.pptv.com
 0.0.0.0 app.beanstalkdata.com
@@ -18987,6 +18997,8 @@
 :: bradesco2.coteaquisaude.com
 0.0.0.0 bradwins08.esy.es
 :: bradwins08.esy.es
+0.0.0.0 brahe.apptimize.com
+:: brahe.apptimize.com
 0.0.0.0 brain.cubi.me
 :: brain.cubi.me
 0.0.0.0 bramki.darmowe.sms.sms13.de
@@ -29247,6 +29259,8 @@
 :: evs-hosted-14facd241e1c08.s3.amazonaws.com
 0.0.0.0 evt.adrcntr.com
 :: evt.adrcntr.com
+0.0.0.0 ew1.dms-gld.bigdata.ssp.samsung.com
+:: ew1.dms-gld.bigdata.ssp.samsung.com
 0.0.0.0 ew16d.package12.com
 :: ew16d.package12.com
 0.0.0.0 ewstv.abc15.com
@@ -30467,6 +30481,8 @@
 :: filme18.8k.ro
 0.0.0.0 filmhd.ek1.pl
 :: filmhd.ek1.pl
+0.0.0.0 filmik.pisz.pl
+:: filmik.pisz.pl
 0.0.0.0 filmonline.info.pl
 :: filmonline.info.pl
 0.0.0.0 filmoo-maniacy.blogspot.com
@@ -39073,8 +39089,6 @@
 :: logs.infoaxe.com
 0.0.0.0 logs.libuv.org
 :: logs.libuv.org
-0.0.0.0 logs.logrocket.com
-:: logs.logrocket.com
 0.0.0.0 logs.naukri.com
 :: logs.naukri.com
 0.0.0.0 logs.newapi.com
@@ -40277,6 +40291,8 @@
 :: market.21cn.com
 0.0.0.0 market.52pk.com
 :: market.52pk.com
+0.0.0.0 market.bia24.pl
+:: market.bia24.pl
 0.0.0.0 market.duowan.com
 :: market.duowan.com
 0.0.0.0 market.facebook.copycatcashsystem.com
@@ -41781,6 +41797,8 @@
 :: mirror3.filefacts.com
 0.0.0.0 mirrors.site50.net
 :: mirrors.site50.net
+0.0.0.0 mis.em.nscontext.eu
+:: mis.em.nscontext.eu
 0.0.0.0 miscaros.cm-fundao.pt
 :: miscaros.cm-fundao.pt
 0.0.0.0 miser.000webhostapp.com
@@ -43443,6 +43461,8 @@
 :: noah.reddion.com
 0.0.0.0 nobodyspeakstruth.narod.ru
 :: nobodyspeakstruth.narod.ru
+0.0.0.0 noc.shixunwan.cn
+:: noc.shixunwan.cn
 0.0.0.0 node82.btc-giveaway.info
 :: node82.btc-giveaway.info
 0.0.0.0 nodeposit.linktrackr.com
@@ -46751,6 +46771,8 @@
 :: parvati.net.in
 0.0.0.0 pas.private4.com
 :: pas.private4.com
+0.0.0.0 pasaz.goryonline.com
+:: pasaz.goryonline.com
 0.0.0.0 pass-nepal.org.np
 :: pass-nepal.org.np
 0.0.0.0 pass1.soogif.com
@@ -49423,6 +49445,8 @@
 :: promo.ulust.com
 0.0.0.0 promo.vador.com
 :: promo.vador.com
+0.0.0.0 promo.webpayments.closeby.internet.apps.samsung.com
+:: promo.webpayments.closeby.internet.apps.samsung.com
 0.0.0.0 promo.worldprofitcenter.com
 :: promo.worldprofitcenter.com
 0.0.0.0 promo.yahoo.com
@@ -50071,6 +50095,8 @@
 :: pushapi.lenovomm.com
 0.0.0.0 pushdata.sendpulse.com
 :: pushdata.sendpulse.com
+0.0.0.0 pushuser.wp.pl
+:: pushuser.wp.pl
 0.0.0.0 pustoaice.erotic-place.org
 :: pustoaice.erotic-place.org
 0.0.0.0 pustulate-twine.000webhostapp.com
@@ -51423,6 +51449,8 @@
 :: reply.mediatris.net
 0.0.0.0 reply2.dciserver.com
 :: reply2.dciserver.com
+0.0.0.0 repor.jandan.net
+:: repor.jandan.net
 0.0.0.0 report-metrics.essentials3.net
 :: report-metrics.essentials3.net
 0.0.0.0 report-zt.1rx.io
@@ -55341,6 +55369,8 @@
 :: smolny.https443.org
 0.0.0.0 smpia1.al-azhar.sch.id
 :: smpia1.al-azhar.sch.id
+0.0.0.0 smpl.hit.ppdb.pl
+:: smpl.hit.ppdb.pl
 0.0.0.0 smpn2blado.sch.id
 :: smpn2blado.sch.id
 0.0.0.0 smpn2wonosalamdemak.sch.id
@@ -57509,6 +57539,8 @@
 :: subacute-terminatio.000webhostapp.com
 0.0.0.0 subapplationpeipal.ranbros.com
 :: subapplationpeipal.ranbros.com
+0.0.0.0 subdo.tumejortorrent.com
+:: subdo.tumejortorrent.com
 0.0.0.0 subdomain.chase-reg.net16.net
 :: subdomain.chase-reg.net16.net
 0.0.0.0 sube.online-halkbankasi-tr.com
@@ -60441,6 +60473,8 @@
 :: tracker.pinnaclesports.com
 0.0.0.0 tracker.plan2.net
 :: tracker.plan2.net
+0.0.0.0 tracker.pracuj.pl
+:: tracker.pracuj.pl
 0.0.0.0 tracker.priceonomics.com
 :: tracker.priceonomics.com
 0.0.0.0 tracker.promosvc.com
@@ -63401,6 +63435,10 @@
 :: videoterbaru2-2015.3eeweb.com
 0.0.0.0 videotracker.washingtonpost.com
 :: videotracker.washingtonpost.com
+0.0.0.0 vidoza.github.io
+:: vidoza.github.io
+0.0.0.0 vidoza2.github.io
+:: vidoza2.github.io
 0.0.0.0 view-doc.thaiengine.com
 :: view-doc.thaiengine.com
 0.0.0.0 view.atdmt.net
@@ -65149,8 +65187,6 @@
 :: widget.marktjagd.de
 0.0.0.0 widget.nativly.com
 :: widget.nativly.com
-0.0.0.0 widget.privy.com
-:: widget.privy.com
 0.0.0.0 widget.promoqui.it
 :: widget.promoqui.it
 0.0.0.0 widget.publisheradnetwork.com
@@ -65605,6 +65641,8 @@
 :: wpk.edu.hk
 0.0.0.0 wpkcuewcemh.fgppchg.fgpp.com
 :: wpkcuewcemh.fgppchg.fgpp.com
+0.0.0.0 wpkoszyk.wp.pl
+:: wpkoszyk.wp.pl
 0.0.0.0 wpvhiedhnzxs.myfw.us
 :: wpvhiedhnzxs.myfw.us
 0.0.0.0 wqqsa.puzihua.com
@@ -66773,6 +66811,8 @@
 :: www.bnmq.com
 0.0.0.0 www.bnnr.nl
 :: www.bnnr.nl
+0.0.0.0 www.bnserving.com
+:: www.bnserving.com
 0.0.0.0 www.bobby.org
 :: www.bobby.org
 0.0.0.0 www.bodog.eu
@@ -67061,6 +67101,8 @@
 :: www.computerxchange.com
 0.0.0.0 www.comunedeicittadini.it
 :: www.comunedeicittadini.it
+0.0.0.0 www.comwgi.com
+:: www.comwgi.com
 0.0.0.0 www.congratulations.website
 :: www.congratulations.website
 0.0.0.0 www.connectix.com
@@ -67949,6 +67991,8 @@
 :: www.hjaoopoa.top
 0.0.0.0 www.hjplocoheavier.review
 :: www.hjplocoheavier.review
+0.0.0.0 www.hkoxlirf.com
+:: www.hkoxlirf.com
 0.0.0.0 www.hndiyikj.com
 :: www.hndiyikj.com
 0.0.0.0 www.hobwelt.com
@@ -71485,6 +71529,8 @@
 :: xr.flyboytees.com
 0.0.0.0 xr.h4ck.la
 :: xr.h4ck.la
+0.0.0.0 xr77.adj.st
+:: xr77.adj.st
 0.0.0.0 xray.jebe.renren.com
 :: xray.jebe.renren.com
 0.0.0.0 xrhwryizf5mui7a5.50mb1c.bid
@@ -72181,6 +72227,8 @@
 :: znsoe7ej5847he48736h487di3.000webhostapp.com
 0.0.0.0 zobaczktopodgladaa.blogspot.com
 :: zobaczktopodgladaa.blogspot.com
+0.0.0.0 zobaczto.pisz.pl
+:: zobaczto.pisz.pl
 0.0.0.0 zocor.about-tabs.com
 :: zocor.about-tabs.com
 0.0.0.0 zoloft.about-tabs.com
