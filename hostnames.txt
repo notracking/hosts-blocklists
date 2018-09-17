@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Sep 16 05:13:23 CEST 2018
+# Last update: Mon Sep 17 05:08:23 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36183
+# Number of unique hostnames: 36176
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -10551,6 +10551,8 @@
 :: adsby.uzoogle.com
 0.0.0.0 adsc.wasu.tv
 :: adsc.wasu.tv
+0.0.0.0 adscan.yelabapp.com
+:: adscan.yelabapp.com
 0.0.0.0 adscaspion.appspot.com
 :: adscaspion.appspot.com
 0.0.0.0 adscdn.baidu.com
@@ -11665,6 +11667,8 @@
 :: adsrv.iol.co.za
 0.0.0.0 adsrv.keycaptcha.com
 :: adsrv.keycaptcha.com
+0.0.0.0 adsrv.kstarplay.tv
+:: adsrv.kstarplay.tv
 0.0.0.0 adsrv.lua.pl
 :: adsrv.lua.pl
 0.0.0.0 adsrv.news.com.au
@@ -29979,8 +29983,6 @@
 :: fclick.baidu.com
 0.0.0.0 fclyon.basket.free.fr
 :: fclyon.basket.free.fr
-0.0.0.0 fcns.jandan.net
-:: fcns.jandan.net
 0.0.0.0 fcolors.blogspot.com
 :: fcolors.blogspot.com
 0.0.0.0 fcsass.org.cn
@@ -32273,8 +32275,6 @@
 :: gma.alicdn.com
 0.0.0.0 gma.gmail-act4024.com
 :: gma.gmail-act4024.com
-0.0.0.0 gmbh.jandan.net
-:: gmbh.jandan.net
 0.0.0.0 gmonitor.aliimg.com
 :: gmonitor.aliimg.com
 0.0.0.0 gmota.g188.net
@@ -32559,8 +32559,6 @@
 :: grannypussy.blogspot.com
 0.0.0.0 grant.rpof.org
 :: grant.rpof.org
-0.0.0.0 grantt.jandan.net
-:: grantt.jandan.net
 0.0.0.0 granturismo.console2pc.info
 :: granturismo.console2pc.info
 0.0.0.0 graph.accountkit.com
@@ -37663,8 +37661,6 @@
 :: korsyfelklob.000webhostapp.com
 0.0.0.0 kos.interseek.si
 :: kos.interseek.si
-0.0.0.0 kos.jandan.net
-:: kos.jandan.net
 0.0.0.0 kosdyvore.angelcities.com
 :: kosdyvore.angelcities.com
 0.0.0.0 kostenloseanzeigen.momentblick.de
@@ -38189,8 +38185,6 @@
 :: lemeilleurdelhumour.free.fr
 0.0.0.0 lemon.chasingyourdream.com
 :: lemon.chasingyourdream.com
-0.0.0.0 lensm.jandan.net
-:: lensm.jandan.net
 0.0.0.0 leohill1936.000webhostapp.com
 :: leohill1936.000webhostapp.com
 0.0.0.0 leomoveis.ind.br
@@ -39673,6 +39667,8 @@
 :: m.nouaa.com
 0.0.0.0 m.ntxiangtai.com
 :: m.ntxiangtai.com
+0.0.0.0 m.nuxyz.cn
+:: m.nuxyz.cn
 0.0.0.0 m.oipeirates.online
 :: m.oipeirates.online
 0.0.0.0 m.openv.tv
@@ -39795,6 +39791,8 @@
 :: m.xlsschina15.net
 0.0.0.0 m.xvideos.fr
 :: m.xvideos.fr
+0.0.0.0 m.yalayi.com
+:: m.yalayi.com
 0.0.0.0 m.yangjingbang.net
 :: m.yangjingbang.net
 0.0.0.0 m.yangqiu.cn
@@ -47525,8 +47523,6 @@
 :: peoria33884.cz.cc
 0.0.0.0 pepelacer.computingservices123.com
 :: pepelacer.computingservices123.com
-0.0.0.0 peppa.jandan.net
-:: peppa.jandan.net
 0.0.0.0 peregrine.igg.biz
 :: peregrine.igg.biz
 0.0.0.0 perfectmoney.is.fectmoney.com
@@ -49143,8 +49139,6 @@
 :: pplsupj1.beget.tech
 0.0.0.0 ppoofff.000webhostapp.com
 :: ppoofff.000webhostapp.com
-0.0.0.0 ppp.jandan.net
-:: ppp.jandan.net
 0.0.0.0 ppp.voice2page.com
 :: ppp.voice2page.com
 0.0.0.0 pppppcha.webcindario.com
@@ -50705,6 +50699,8 @@
 :: rar-password-cracker.softonic.fr
 0.0.0.0 rarabarnfi.hotmail.ru
 :: rarabarnfi.hotmail.ru
+0.0.0.0 rarm4.jandan.net
+:: rarm4.jandan.net
 0.0.0.0 ras.infynetz.com
 :: ras.infynetz.com
 0.0.0.0 raskrutka.ucoz.com
@@ -51463,8 +51459,6 @@
 :: reply.mediatris.net
 0.0.0.0 reply2.dciserver.com
 :: reply2.dciserver.com
-0.0.0.0 repor.jandan.net
-:: repor.jandan.net
 0.0.0.0 report-metrics.essentials3.net
 :: report-metrics.essentials3.net
 0.0.0.0 report-zt.1rx.io
@@ -51953,8 +51947,6 @@
 :: rr1.outster.com
 0.0.0.0 rranking14.ziyu.net
 :: rranking14.ziyu.net
-0.0.0.0 rrr.jandan.net
-:: rrr.jandan.net
 0.0.0.0 rrr.youle55.com
 :: rrr.youle55.com
 0.0.0.0 rs-staticart.ybcdn.net
@@ -56013,8 +56005,6 @@
 :: sspawdzktopodgglada.blogspot.com
 0.0.0.0 sspservice.ad-survey.com
 :: sspservice.ad-survey.com
-0.0.0.0 sss.jandan.net
-:: sss.jandan.net
 0.0.0.0 sss.jusha.com
 :: sss.jusha.com
 0.0.0.0 sss.sege.xxx
@@ -59073,8 +59063,6 @@
 :: theatrekoodak.webphoto.ir
 0.0.0.0 thecockpit.allmanpages.com
 :: thecockpit.allmanpages.com
-0.0.0.0 thecrew.jandan.net
-:: thecrew.jandan.net
 0.0.0.0 thefrezr.beget.tech
 :: thefrezr.beget.tech
 0.0.0.0 thehautesociete3.visionpush.com
@@ -62805,8 +62793,6 @@
 :: user-servicesupport8.000webhostapp.com
 0.0.0.0 user.chase-reg.net16.net
 :: user.chase-reg.net16.net
-0.0.0.0 user53122.vs.speednames.com
-:: user53122.vs.speednames.com
 0.0.0.0 user56898.vs.speednames.com
 :: user56898.vs.speednames.com
 0.0.0.0 user57012.vs.speednames.com
