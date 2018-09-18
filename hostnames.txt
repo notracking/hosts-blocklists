@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Sep 17 05:08:23 CEST 2018
+# Last update: Tue Sep 18 05:23:40 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36176
+# Number of unique hostnames: 36179
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -12483,6 +12483,8 @@
 :: ae.bdstatic.com
 0.0.0.0 ae.excite.com
 :: ae.excite.com
+0.0.0.0 ae4.ifeng.com
+:: ae4.ifeng.com
 0.0.0.0 aeazz.super-promo.quhu.info
 :: aeazz.super-promo.quhu.info
 0.0.0.0 aec.shjk123.net
@@ -20307,8 +20309,6 @@
 :: cd.bendibao.com
 0.0.0.0 cd23946.tmweb.ru
 :: cd23946.tmweb.ru
-0.0.0.0 cd3.ifeng.com
-:: cd3.ifeng.com
 0.0.0.0 cd31411.tmweb.ru
 :: cd31411.tmweb.ru
 0.0.0.0 cdhoc.piyaji.cn
@@ -21995,6 +21995,8 @@
 :: click.adimmix.com
 0.0.0.0 click.adpile.net
 :: click.adpile.net
+0.0.0.0 click.advertnative.com
+:: click.advertnative.com
 0.0.0.0 click.alibaba.com
 :: click.alibaba.com
 0.0.0.0 click.app-play-stores.com
@@ -42077,6 +42079,8 @@
 :: mobiledl.adboe.com
 0.0.0.0 mobiledl.adobe.com
 :: mobiledl.adobe.com
+0.0.0.0 mobileleads.msn.com
+:: mobileleads.msn.com
 0.0.0.0 mobilelog.kugou.com
 :: mobilelog.kugou.com
 0.0.0.0 mobilemetrics.appspot.com
@@ -50237,6 +50241,8 @@
 :: q993210v.bget.ru
 0.0.0.0 qacupuzute.angelcities.com
 :: qacupuzute.angelcities.com
+0.0.0.0 qat3j.jandan.net
+:: qat3j.jandan.net
 0.0.0.0 qc.coccoc.com
 :: qc.coccoc.com
 0.0.0.0 qc.tclup.com
@@ -50699,8 +50705,6 @@
 :: rar-password-cracker.softonic.fr
 0.0.0.0 rarabarnfi.hotmail.ru
 :: rarabarnfi.hotmail.ru
-0.0.0.0 rarm4.jandan.net
-:: rarm4.jandan.net
 0.0.0.0 ras.infynetz.com
 :: ras.infynetz.com
 0.0.0.0 raskrutka.ucoz.com
@@ -66067,6 +66071,8 @@
 :: www.3peaks.co.jp
 0.0.0.0 www.3qqq.net
 :: www.3qqq.net
+0.0.0.0 www.3tsdaq8viz.us
+:: www.3tsdaq8viz.us
 0.0.0.0 www.3turtles.com
 :: www.3turtles.com
 0.0.0.0 www.4009997279.com
