@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Sep 19 05:18:32 CEST 2018
+# Last update: Thu Sep 20 05:22:42 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36128
+# Number of unique hostnames: 36130
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -681,6 +681,8 @@
 :: 3156134f8e48ae44ed28-38da2900bbdae8fa89f59b25983869fe.ssl.cf2.rackcdn.com
 0.0.0.0 31dea6.koll.pershoreairporttransfers.co.uk
 :: 31dea6.koll.pershoreairporttransfers.co.uk
+0.0.0.0 321.jintang114.org
+:: 321.jintang114.org
 0.0.0.0 32e1dff65ea4eb3627ed-f1ecc94c86a56d3e42e512fcfd192886.r6.cf1.rackcdn.com
 :: 32e1dff65ea4eb3627ed-f1ecc94c86a56d3e42e512fcfd192886.r6.cf1.rackcdn.com
 0.0.0.0 32kl2rwsjvqjeui7.onion.cab
@@ -17851,8 +17853,6 @@
 :: bd.scw98.com
 0.0.0.0 bd.soarfi.cn
 :: bd.soarfi.cn
-0.0.0.0 bd.wayqq.cn
-:: bd.wayqq.cn
 0.0.0.0 bd01.daqiso.com
 :: bd01.daqiso.com
 0.0.0.0 bd01.qqkxb.com
@@ -17949,6 +17949,8 @@
 :: bdjb.gai001.com
 0.0.0.0 bdjiaoben.wmxa.cn
 :: bdjiaoben.wmxa.cn
+0.0.0.0 bdjj.bzr99.com
+:: bdjj.bzr99.com
 0.0.0.0 bdjj.makepolo.net
 :: bdjj.makepolo.net
 0.0.0.0 bdjs.120askimages.com
@@ -64093,6 +64095,8 @@
 :: w1.mozzi.com
 0.0.0.0 w1.sahajcare.org
 :: w1.sahajcare.org
+0.0.0.0 w1.wayqq.com
+:: w1.wayqq.com
 0.0.0.0 w10.centralmediaserver.com
 :: w10.centralmediaserver.com
 0.0.0.0 w10.localadbuy.com
