@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Sep 20 05:22:42 CEST 2018
+# Last update: Fri Sep 21 06:21:50 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36130
+# Number of unique hostnames: 36144
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -53,6 +53,8 @@
 :: 01bvxp4ze2.bradul.creatory.org
 0.0.0.0 01daa.lubih.com
 :: 01daa.lubih.com
+0.0.0.0 01daa.lutci.com
+:: 01daa.lutci.com
 0.0.0.0 01daa.luvbr.com
 :: 01daa.luvbr.com
 0.0.0.0 01daa.luytr.com
@@ -14663,6 +14665,8 @@
 :: api.sharedcount.com
 0.0.0.0 api.shuzilm.cn
 :: api.shuzilm.cn
+0.0.0.0 api.simpleanalytics.io
+:: api.simpleanalytics.io
 0.0.0.0 api.so.lianmeng.360.cn
 :: api.so.lianmeng.360.cn
 0.0.0.0 api.south.kontagent.net
@@ -20721,6 +20725,8 @@
 :: cdn.search.aol.com
 0.0.0.0 cdn.shyapotato.us
 :: cdn.shyapotato.us
+0.0.0.0 cdn.simpleanalytics.io
+:: cdn.simpleanalytics.io
 0.0.0.0 cdn.smartclick.io
 :: cdn.smartclick.io
 0.0.0.0 cdn.socialtwist.com
@@ -27703,6 +27709,8 @@
 :: dsh7ky7308k4b.cloudfront.net
 0.0.0.0 dshjsdhjdsjhdsuydsy6dsuy.000webhostapp.com
 :: dshjsdhjdsjhdsuydsy6dsuy.000webhostapp.com
+0.0.0.0 dsjsee.dqgpb.com
+:: dsjsee.dqgpb.com
 0.0.0.0 dsknso.abadsupermarket.com
 :: dsknso.abadsupermarket.com
 0.0.0.0 dsms0mj1bbhn4.cloudfront.net
@@ -28137,6 +28145,8 @@
 :: e.mrtuo.com
 0.0.0.0 e.mushizhubao.com
 :: e.mushizhubao.com
+0.0.0.0 e.nejup.com
+:: e.nejup.com
 0.0.0.0 e.ofuda.cc
 :: e.ofuda.cc
 0.0.0.0 e.okfhn.com
@@ -35249,6 +35259,8 @@
 :: img.zuowen8.com
 0.0.0.0 img.zuoyebang.cc
 :: img.zuoyebang.cc
+0.0.0.0 img.zx590.com
+:: img.zx590.com
 0.0.0.0 img0.egou.com
 :: img0.egou.com
 0.0.0.0 img0.ru.redtram.com
@@ -39541,6 +39553,8 @@
 :: m.gameyun907.net
 0.0.0.0 m.ganrs.com
 :: m.ganrs.com
+0.0.0.0 m.gcaij.com
+:: m.gcaij.com
 0.0.0.0 m.gglay.com
 :: m.gglay.com
 0.0.0.0 m.guanren11.com
@@ -39639,6 +39653,8 @@
 :: m.mushizhubao.com
 0.0.0.0 m.mxguan.com
 :: m.mxguan.com
+0.0.0.0 m.nejup.com
+:: m.nejup.com
 0.0.0.0 m.nouaa.com
 :: m.nouaa.com
 0.0.0.0 m.ntxiangtai.com
@@ -39785,6 +39801,8 @@
 :: m.yoyi.com.cn
 0.0.0.0 m.yuandajiayuan.com
 :: m.yuandajiayuan.com
+0.0.0.0 m.yzjlsb.com
+:: m.yzjlsb.com
 0.0.0.0 m.zaoss.com
 :: m.zaoss.com
 0.0.0.0 m.zeiaa.com
@@ -40535,6 +40553,8 @@
 :: mbiasi93.pe.hu
 0.0.0.0 mbid.advance.net
 :: mbid.advance.net
+0.0.0.0 mbjb1.girl13.com
+:: mbjb1.girl13.com
 0.0.0.0 mbn.kr.ua
 :: mbn.kr.ua
 0.0.0.0 mbox.offermatica.intuit.com
@@ -47775,8 +47795,6 @@
 :: pi.safer-networking.ie
 0.0.0.0 pic.0597kk.com
 :: pic.0597kk.com
-0.0.0.0 pic.111cn.net
-:: pic.111cn.net
 0.0.0.0 pic.14bobo.com
 :: pic.14bobo.com
 0.0.0.0 pic.2u.com.cn
@@ -52429,6 +52447,8 @@
 :: s3.play1.videos.videos.vidto.me
 0.0.0.0 s3.play1.videos.vidto.me
 :: s3.play1.videos.vidto.me
+0.0.0.0 s3.rongnews.com
+:: s3.rongnews.com
 0.0.0.0 s3.video.estream.nu
 :: s3.video.estream.nu
 0.0.0.0 s3.video2.stream.vidzi.tv
@@ -65867,6 +65887,8 @@
 :: www-hellobank-fr.toulone0.beget.tech
 0.0.0.0 www-tb7c.pr0gramm.com
 :: www-tb7c.pr0gramm.com
+0.0.0.0 www.0086555.com
+:: www.0086555.com
 0.0.0.0 www.010cs.com
 :: www.010cs.com
 0.0.0.0 www.02level.tk
@@ -68213,6 +68235,8 @@
 :: www.jjinviczbountiful.review
 0.0.0.0 www.jmpads.com
 :: www.jmpads.com
+0.0.0.0 www.jmxlaser.com
+:: www.jmxlaser.com
 0.0.0.0 www.jobdeliver.tk
 :: www.jobdeliver.tk
 0.0.0.0 www.joelnhfuabrim.review
@@ -71813,6 +71837,8 @@
 :: yt-adp.nosdn.127.net
 0.0.0.0 ytapi1.nagezan.net
 :: ytapi1.nagezan.net
+0.0.0.0 ytmx.2r3485.cn
+:: ytmx.2r3485.cn
 0.0.0.0 ytrest84y5i456hghadefdsd.pontogrot.com
 :: ytrest84y5i456hghadefdsd.pontogrot.com
 0.0.0.0 yuarra.pluto.ro
@@ -71989,6 +72015,8 @@
 :: zarabiajwsieci.5v.pl
 0.0.0.0 zasilkonto.cba.pl
 :: zasilkonto.cba.pl
+0.0.0.0 zastrzyk-gotowki.waw.pl
+:: zastrzyk-gotowki.waw.pl
 0.0.0.0 zavod.chuvaz.ru
 :: zavod.chuvaz.ru
 0.0.0.0 zaz-auto.kh.ua
