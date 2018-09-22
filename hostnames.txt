@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Sep 21 06:21:50 CEST 2018
+# Last update: Sat Sep 22 05:14:49 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36144
+# Number of unique hostnames: 36145
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -24631,6 +24631,8 @@
 :: d1dnmhdhg9vg1d.cloudfront.net
 0.0.0.0 d1dqwj4dc78lwy.cloudfront.net
 :: d1dqwj4dc78lwy.cloudfront.net
+0.0.0.0 d1e12he7ynr8zq.cloudfront.net
+:: d1e12he7ynr8zq.cloudfront.net
 0.0.0.0 d1e1rbybdt265x.cloudfront.net
 :: d1e1rbybdt265x.cloudfront.net
 0.0.0.0 d1ebha2k07asm5.cloudfront.net
@@ -29177,8 +29179,6 @@
 :: eurovisions.free.fr
 0.0.0.0 euytkfwa.ddns.info
 :: euytkfwa.ddns.info
-0.0.0.0 eva-m-ad.24hstatic.com
-:: eva-m-ad.24hstatic.com
 0.0.0.0 eva.ucas.com
 :: eva.ucas.com
 0.0.0.0 evans.babajilab.in
@@ -52253,8 +52253,6 @@
 :: s.temaidi.com
 0.0.0.0 s.trafficjam.cn
 :: s.trafficjam.cn
-0.0.0.0 s.tuoitre.vn
-:: s.tuoitre.vn
 0.0.0.0 s.tyxo.com
 :: s.tyxo.com
 0.0.0.0 s.uc627.com
@@ -60439,6 +60437,8 @@
 :: tracker.timesgroup.com
 0.0.0.0 tracker.trackerbox.com
 :: tracker.trackerbox.com
+0.0.0.0 tracker.trackerfix.com
+:: tracker.trackerfix.com
 0.0.0.0 tracker.truehits.in.th
 :: tracker.truehits.in.th
 0.0.0.0 tracker.twenga.nl
@@ -63619,6 +63619,8 @@
 :: vkk-supported-help.pe.hu
 0.0.0.0 vkld.datiks.com
 :: vkld.datiks.com
+0.0.0.0 vklike.16mb.com
+:: vklike.16mb.com
 0.0.0.0 vklogcheck.esy.es
 :: vklogcheck.esy.es
 0.0.0.0 vkmcom.beget.tech
