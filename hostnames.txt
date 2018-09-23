@@ -1,6 +1,6 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Sep 22 05:14:49 CEST 2018
+# Last update: Sun Sep 23 05:10:12 CEST 2018
 # Filter supports ipv4 and ipv6
 # Number of unique hostnames: 36145
 #################################[INFO]##################################
@@ -17921,6 +17921,8 @@
 :: bdasd.chinabig.com.cn
 0.0.0.0 bdasd.wmxa.cn
 :: bdasd.wmxa.cn
+0.0.0.0 bdcode.2345.com
+:: bdcode.2345.com
 0.0.0.0 bdcode.35d1.com
 :: bdcode.35d1.com
 0.0.0.0 bdcode.youke.com
@@ -26971,6 +26973,8 @@
 :: dm.cnbanbao.com
 0.0.0.0 dm.cqdxun.cn
 :: dm.cqdxun.cn
+0.0.0.0 dm.duoshitong.com
+:: dm.duoshitong.com
 0.0.0.0 dm.gucheng.com
 :: dm.gucheng.com
 0.0.0.0 dm.haojuzi.net
@@ -39109,8 +39113,6 @@
 :: lokuhyao.beget.tech
 0.0.0.0 lol.mta-resource.ru
 :: lol.mta-resource.ru
-0.0.0.0 loles.neostrada.pl
-:: loles.neostrada.pl
 0.0.0.0 lolhack.softwareuninstallerdownload.com
 :: lolhack.softwareuninstallerdownload.com
 0.0.0.0 lolriotpointsgen.goldmovie-trailer.com
@@ -47797,8 +47799,6 @@
 :: pic.0597kk.com
 0.0.0.0 pic.14bobo.com
 :: pic.14bobo.com
-0.0.0.0 pic.2u.com.cn
-:: pic.2u.com.cn
 0.0.0.0 pic.aihaogou.com.cn
 :: pic.aihaogou.com.cn
 0.0.0.0 pic.by175.com
