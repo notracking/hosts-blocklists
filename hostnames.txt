@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Sep 26 05:18:26 CEST 2018
+# Last update: Thu Sep 27 05:24:29 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36101
+# Number of unique hostnames: 36103
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -24095,6 +24095,8 @@
 :: cspage2018go.000webhostapp.com
 0.0.0.0 csr.onet.pl
 :: csr.onet.pl
+0.0.0.0 css.juqingba.cn
+:: css.juqingba.cn
 0.0.0.0 cstectrain.infotec-carestreamdental.com
 :: cstectrain.infotec-carestreamdental.com
 0.0.0.0 cstkk.720pizle.com
@@ -71973,6 +71975,8 @@
 :: zejotyke.boxhost.me
 0.0.0.0 zejrzyj-zdjecia.bo.pl
 :: zejrzyj-zdjecia.bo.pl
+0.0.0.0 zen-test.yandex.ru
+:: zen-test.yandex.ru
 0.0.0.0 zen.ancestrybloodhound.biz
 :: zen.ancestrybloodhound.biz
 0.0.0.0 zen.nbci.com
