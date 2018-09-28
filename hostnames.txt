@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Sep 27 05:24:29 CEST 2018
+# Last update: Fri Sep 28 06:31:48 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36103
+# Number of unique hostnames: 36145
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -99,6 +99,8 @@
 :: 07f2kuc2szyosycbteg7.littlematchagirl.com.au
 0.0.0.0 09099808900090909.000webhostapp.com
 :: 09099808900090909.000webhostapp.com
+0.0.0.0 09_19.supfree.net
+:: 09_19.supfree.net
 0.0.0.0 0br.realsecuredredirect.com
 :: 0br.realsecuredredirect.com
 0.0.0.0 0ec97c88.000webhostapp.com
@@ -741,8 +743,6 @@
 :: 3days.lip.st
 0.0.0.0 3dc265e90c6d9fa3cc0c-3f982316dc17e6e99fe1b47483239d63.r95.cf2.rackcdn.com
 :: 3dc265e90c6d9fa3cc0c-3f982316dc17e6e99fe1b47483239d63.r95.cf2.rackcdn.com
-0.0.0.0 3dm.huya.com
-:: 3dm.huya.com
 0.0.0.0 3g.990.net
 :: 3g.990.net
 0.0.0.0 3j5h64le0b.cywhxygctk.madpendesign.com.au
@@ -2797,6 +2797,8 @@
 :: a1.adstore.jp
 0.0.0.0 a1.aluntan.com
 :: a1.aluntan.com
+0.0.0.0 a1.bookapka.com
+:: a1.bookapka.com
 0.0.0.0 a1.chajiaotong.com
 :: a1.chajiaotong.com
 0.0.0.0 a1.dnbizcdn.com
@@ -2881,6 +2883,8 @@
 :: a2shd.realshieldlinked.com
 0.0.0.0 a3.ikafan.com
 :: a3.ikafan.com
+0.0.0.0 a3.jandan.net
+:: a3.jandan.net
 0.0.0.0 a3.suntimes.com
 :: a3.suntimes.com
 0.0.0.0 a3.websitealive.com
@@ -3037,6 +3041,8 @@
 :: abandonment.saas.seewhy.com
 0.0.0.0 abandonrom.tagalaxy.net
 :: abandonrom.tagalaxy.net
+0.0.0.0 abbott.vo.llnwd.net
+:: abbott.vo.llnwd.net
 0.0.0.0 abbp1.space.
 :: abbp1.space.
 0.0.0.0 abbp1.website.
@@ -5797,6 +5803,8 @@
 :: admediator.unityads.unity3d.com
 0.0.0.0 admega.feed.gr
 :: admega.feed.gr
+0.0.0.0 admeta.vo.llnwd.net
+:: admeta.vo.llnwd.net
 0.0.0.0 admetcheck.atwebpages.com
 :: admetcheck.atwebpages.com
 0.0.0.0 admin-system-updatess.sitey.me
@@ -15781,6 +15789,8 @@
 :: athena.wan.sogou.com
 0.0.0.0 atiws.aipai.com
 :: atiws.aipai.com
+0.0.0.0 atkins.vo.llnwd.net
+:: atkins.vo.llnwd.net
 0.0.0.0 atlas.astrology.com
 :: atlas.astrology.com
 0.0.0.0 atlas.services.ou.edu
@@ -18133,6 +18143,8 @@
 :: befvde.igg.biz
 0.0.0.0 behacdn.ksmobile.net
 :: behacdn.ksmobile.net
+0.0.0.0 behance.vo.llnwd.net
+:: behance.vo.llnwd.net
 0.0.0.0 behave.nualias.com
 :: behave.nualias.com
 0.0.0.0 bekanmer01.mutu.firstheberg.net
@@ -18887,6 +18899,8 @@
 :: boogu.barginginfrance.net
 0.0.0.0 book.phone.telus.sms13.de
 :: book.phone.telus.sms13.de
+0.0.0.0 book.rdtuijian.com
+:: book.rdtuijian.com
 0.0.0.0 book31.free.fr
 :: book31.free.fr
 0.0.0.0 bookcornerltd.000webhostapp.com
@@ -19069,6 +19083,8 @@
 :: bro.flyme.cn
 0.0.0.0 broadcast.piximedia.fr
 :: broadcast.piximedia.fr
+0.0.0.0 broadent.vo.llnwd.net
+:: broadent.vo.llnwd.net
 0.0.0.0 brokeneagledlc.goblogz.net
 :: brokeneagledlc.goblogz.net
 0.0.0.0 broker.adobe.com
@@ -22453,10 +22469,14 @@
 :: clouds-pros-services.goo.vg
 0.0.0.0 cloudserver090070.home.net.pl
 :: cloudserver090070.home.net.pl
+0.0.0.0 cloudservice12.kingsoft-office-service.com
+:: cloudservice12.kingsoft-office-service.com
 0.0.0.0 cloudservice13.kingsoft-office-service.com
 :: cloudservice13.kingsoft-office-service.com
 0.0.0.0 cloudservice22.kingsoft-office-service.com
 :: cloudservice22.kingsoft-office-service.com
+0.0.0.0 cloudservice27.kingsoft-office-service.com
+:: cloudservice27.kingsoft-office-service.com
 0.0.0.0 clous.altervista.org
 :: clous.altervista.org
 0.0.0.0 cls.vrvm.com
@@ -23253,8 +23273,6 @@
 :: coop.webforce.es
 0.0.0.0 coopcentro.fin.ec
 :: coopcentro.fin.ec
-0.0.0.0 cooper.jandan.net
-:: cooper.jandan.net
 0.0.0.0 cootek-file.cdn.cootekservice.com
 :: cootek-file.cdn.cootekservice.com
 0.0.0.0 coquettes.free.fr
@@ -23287,6 +23305,8 @@
 :: core1.adservingfactory.com
 0.0.0.0 coreg.flashtrack.net
 :: coreg.flashtrack.net
+0.0.0.0 coremetric.vo.llnwd.net
+:: coremetric.vo.llnwd.net
 0.0.0.0 coriandre10.free.fr
 :: coriandre10.free.fr
 0.0.0.0 coriolis.accuweather.com
@@ -23387,6 +23407,8 @@
 :: count.iwbank.it
 0.0.0.0 count.joy.cn
 :: count.joy.cn
+0.0.0.0 count.knowsky.com
+:: count.knowsky.com
 0.0.0.0 count.mail.163.com
 :: count.mail.163.com
 0.0.0.0 count.me.uk
@@ -23865,6 +23887,8 @@
 :: crashdump.spotify.com
 0.0.0.0 crashes.autodanger.ru
 :: crashes.autodanger.ru
+0.0.0.0 crashes.mo.wps.cn
+:: crashes.mo.wps.cn
 0.0.0.0 crashlytics.163.com
 :: crashlytics.163.com
 0.0.0.0 crayon.meishichina.com
@@ -28097,6 +28121,8 @@
 :: e.iorgb.com
 0.0.0.0 e.jiaas.com
 :: e.jiaas.com
+0.0.0.0 e.jioeg.com
+:: e.jioeg.com
 0.0.0.0 e.jltdbyq.com
 :: e.jltdbyq.com
 0.0.0.0 e.joyxv.com
@@ -28169,6 +28195,8 @@
 :: e.ueram.com
 0.0.0.0 e.vaxyz.com
 :: e.vaxyz.com
+0.0.0.0 e.vbaiu.com
+:: e.vbaiu.com
 0.0.0.0 e.weixingshexiangji.net
 :: e.weixingshexiangji.net
 0.0.0.0 e.wjhehaofc.com
@@ -28459,6 +28487,8 @@
 :: edvzz.super-promo.quhu.info
 0.0.0.0 edw.edmunds.com
 :: edw.edmunds.com
+0.0.0.0 edwlifes.vo.llnwd.net
+:: edwlifes.vo.llnwd.net
 0.0.0.0 edxkx.saqibsiddiqui.com
 :: edxkx.saqibsiddiqui.com
 0.0.0.0 ee.shixunwang.net
@@ -32895,6 +32925,8 @@
 :: hairymen.allmanpages.com
 0.0.0.0 haitaoad.nosdn.127.net
 :: haitaoad.nosdn.127.net
+0.0.0.0 haiwai-ic.ksosoft.com
+:: haiwai-ic.ksosoft.com
 0.0.0.0 hajierpoil8.pe.hu
 :: hajierpoil8.pe.hu
 0.0.0.0 hakuba.janis.or.jp
@@ -32965,6 +32997,8 @@
 :: harry.bradweb.co.uk
 0.0.0.0 harry.interiorgalleries.com
 :: harry.interiorgalleries.com
+0.0.0.0 harvardbp.vo.llnwd.net
+:: harvardbp.vo.llnwd.net
 0.0.0.0 harvest.surge.sh
 :: harvest.surge.sh
 0.0.0.0 harvester.eu.square-enix.com
@@ -33895,6 +33929,8 @@
 :: hoonthuwa-officialphp.000webhostapp.com
 0.0.0.0 hopkins.nut.cc
 :: hopkins.nut.cc
+0.0.0.0 hoplink.ksosoft.com
+:: hoplink.ksosoft.com
 0.0.0.0 horde.square7.ch
 :: horde.square7.ch
 0.0.0.0 horizon.attn.com
@@ -34435,6 +34471,8 @@
 :: ibis.lgappstv.com
 0.0.0.0 ibs.indiatimes.com
 :: ibs.indiatimes.com
+0.0.0.0 ic.wps.cn
+:: ic.wps.cn
 0.0.0.0 icache.getrelevant.com
 :: icache.getrelevant.com
 0.0.0.0 ice.andromed.in.ua
@@ -34483,6 +34521,8 @@
 :: icttechnicalsupport1.yolasite.com
 0.0.0.0 icttoolssales.altervista.org
 :: icttoolssales.altervista.org
+0.0.0.0 icvdm.vo.llnwd.net
+:: icvdm.vo.llnwd.net
 0.0.0.0 id-apple.com-apple-ufficiale.idpaia.com
 :: id-apple.com-apple-ufficiale.idpaia.com
 0.0.0.0 id-apple.com-apple.it-italia.apple.inaitt.com
@@ -35599,6 +35639,8 @@
 :: info.learningco.com
 0.0.0.0 info.meiguoshenpo.com
 :: info.meiguoshenpo.com
+0.0.0.0 info.meihua.docer.com
+:: info.meihua.docer.com
 0.0.0.0 info.muxy.io
 :: info.muxy.io
 0.0.0.0 info.omilin.tmweb.ru
@@ -35797,6 +35839,10 @@
 :: insightxe.pittsburghlive.com
 0.0.0.0 insightxe.vtsgonline.com
 :: insightxe.vtsgonline.com
+0.0.0.0 inskin.hs.llnwd.net
+:: inskin.hs.llnwd.net
+0.0.0.0 inskin.vo.llnwd.net
+:: inskin.vo.llnwd.net
 0.0.0.0 inspectletws.herokuapp.com
 :: inspectletws.herokuapp.com
 0.0.0.0 inst.360safe.com
@@ -35879,6 +35925,8 @@
 :: interest.mix.sina.com.cn
 0.0.0.0 interfere.marionunezcampusano.com
 :: interfere.marionunezcampusano.com
+0.0.0.0 intermrkts.vo.llnwd.net
+:: intermrkts.vo.llnwd.net
 0.0.0.0 internal.fuckyoucash.com
 :: internal.fuckyoucash.com
 0.0.0.0 internal.qtube.com
@@ -37463,6 +37511,8 @@
 :: kjfjjjiy.beget.tech
 0.0.0.0 kjhkgh.skroc.pl
 :: kjhkgh.skroc.pl
+0.0.0.0 kjos.vo.llnwd.net
+:: kjos.vo.llnwd.net
 0.0.0.0 kjsdi.kalphinc.com
 :: kjsdi.kalphinc.com
 0.0.0.0 kk4d8g.earth.northerndishedends.co.uk
@@ -39547,6 +39597,8 @@
 :: m.ishangtong.com
 0.0.0.0 m.jhcgood.com
 :: m.jhcgood.com
+0.0.0.0 m.jioeg.com
+:: m.jioeg.com
 0.0.0.0 m.jltdbyq.com
 :: m.jltdbyq.com
 0.0.0.0 m.joyxv.com
@@ -39633,6 +39685,8 @@
 :: m.qbao.com
 0.0.0.0 m.qcw.com
 :: m.qcw.com
+0.0.0.0 m.qhuik.com
+:: m.qhuik.com
 0.0.0.0 m.qianka.com
 :: m.qianka.com
 0.0.0.0 m.qiyunmuye.com
@@ -42295,6 +42349,8 @@
 :: ms127.0.0.101341.club
 0.0.0.0 msb2x6ef0qjnm1kbf0cy.thequalitycheck.com
 :: msb2x6ef0qjnm1kbf0cy.thequalitycheck.com
+0.0.0.0 msbmopod.vo.llnwd.net
+:: msbmopod.vo.llnwd.net
 0.0.0.0 msdbb1.surf-town.net
 :: msdbb1.surf-town.net
 0.0.0.0 msdbb2.surf-town.net
@@ -50627,6 +50683,8 @@
 :: rb00yak2.beget.tech
 0.0.0.0 rb1.design.ru
 :: rb1.design.ru
+0.0.0.0 rbb.ic.llnwd.net
+:: rbb.ic.llnwd.net
 0.0.0.0 rbc-online-verify.pe.hu
 :: rbc-online-verify.pe.hu
 0.0.0.0 rbcroyalbank-personal-banking-account-vericiation-important.diegocarrillophotography.com
@@ -57871,6 +57929,8 @@
 :: syndication.voodoo.com
 0.0.0.0 syndication1.viraladnetwork.net
 :: syndication1.viraladnetwork.net
+0.0.0.0 synthes.vo.llnwd.net
+:: synthes.vo.llnwd.net
 0.0.0.0 sys.osttirol-online.at
 :: sys.osttirol-online.at
 0.0.0.0 sys.zhangyue.com
@@ -58551,6 +58611,10 @@
 :: te.wsls.com
 0.0.0.0 te54.i.ng
 :: te54.i.ng
+0.0.0.0 teachscape.vo.llnwd.net
+:: teachscape.vo.llnwd.net
+0.0.0.0 tealium.hs.llnwd.net
+:: tealium.hs.llnwd.net
 0.0.0.0 team.klookva.com.ua
 :: team.klookva.com.ua
 0.0.0.0 teamaxe.wz.cz
@@ -58849,6 +58913,8 @@
 :: textclick.zj.cninfo.net
 0.0.0.0 textlink.simba.taobao.com
 :: textlink.simba.taobao.com
+0.0.0.0 textron.vo.llnwd.net
+:: textron.vo.llnwd.net
 0.0.0.0 tezrsrc.gov.cn
 :: tezrsrc.gov.cn
 0.0.0.0 tf.360.cn
@@ -59111,6 +59177,8 @@
 :: tmjitzfa9sh5s6j4iaz4.littlematchagirl.com.au
 0.0.0.0 tmsads.tribune.com
 :: tmsads.tribune.com
+0.0.0.0 tmz.vo.llnwd.net
+:: tmz.vo.llnwd.net
 0.0.0.0 tns.simba.taobao.com
 :: tns.simba.taobao.com
 0.0.0.0 toads.osdn.com
@@ -59349,6 +59417,8 @@
 :: townhall.weekendinc.com
 0.0.0.0 toyota.cyberealhosting.com
 :: toyota.cyberealhosting.com
+0.0.0.0 toyota.vo.llnwd.net
+:: toyota.vo.llnwd.net
 0.0.0.0 toys.erolove.in
 :: toys.erolove.in
 0.0.0.0 tp.sgcn.com
@@ -61363,6 +61433,8 @@
 :: tzauylymgqeoqllecmhn.ahdaaf.org
 0.0.0.0 u-porn.mp1.mobi
 :: u-porn.mp1.mobi
+0.0.0.0 u-x.jd.com
+:: u-x.jd.com
 0.0.0.0 u.1133.cc
 :: u.1133.cc
 0.0.0.0 u.63kc.com
@@ -63249,6 +63321,8 @@
 :: videooko.weebly.com
 0.0.0.0 videoplayer.vice.technology
 :: videoplayer.vice.technology
+0.0.0.0 videoplus.vo.llnwd.net
+:: videoplus.vo.llnwd.net
 0.0.0.0 videopush.baidu.com
 :: videopush.baidu.com
 0.0.0.0 videos-bleepingcomputers-com.tvpagecdn.com
@@ -64269,6 +64343,8 @@
 :: wb.interpolls.com
 0.0.0.0 wba.wirtschaftsblatt.at
 :: wba.wirtschaftsblatt.at
+0.0.0.0 wbads.vo.llnwd.net
+:: wbads.vo.llnwd.net
 0.0.0.0 wbapp.mobile.sina.cn
 :: wbapp.mobile.sina.cn
 0.0.0.0 wbapp.uve.weibo.com
@@ -64297,6 +64373,8 @@
 :: wdbbpuks.fgppchg.fgpp.com
 0.0.0.0 wdcs.trendmicro.com
 :: wdcs.trendmicro.com
+0.0.0.0 wdig.vo.llnwd.net
+:: wdig.vo.llnwd.net
 0.0.0.0 wdm.map24.com
 :: wdm.map24.com
 0.0.0.0 wds.inte.sogoucdn.com
@@ -70983,6 +71061,8 @@
 :: x.about.com
 0.0.0.0 x.adpro.cn
 :: x.adpro.cn
+0.0.0.0 x.bikaer.com
+:: x.bikaer.com
 0.0.0.0 x.bloggurat.net
 :: x.bloggurat.net
 0.0.0.0 x.castanet.net
@@ -71305,6 +71385,8 @@
 :: xml.yepmedia.com
 0.0.0.0 xml2.nbcsearch.com
 :: xml2.nbcsearch.com
+0.0.0.0 xmpie.vo.llnwd.net
+:: xmpie.vo.llnwd.net
 0.0.0.0 xmr.101010.pl
 :: xmr.101010.pl
 0.0.0.0 xmr.e-libra.ru
@@ -71751,6 +71833,8 @@
 :: ystoidea.mirupload.ru
 0.0.0.0 yt-adp.nosdn.127.net
 :: yt-adp.nosdn.127.net
+0.0.0.0 ytaahg.vo.llnwd.net
+:: ytaahg.vo.llnwd.net
 0.0.0.0 ytapi1.nagezan.net
 :: ytapi1.nagezan.net
 0.0.0.0 ytmx.2r3485.cn
