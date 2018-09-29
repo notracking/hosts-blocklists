@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Sep 28 06:31:48 CEST 2018
+# Last update: Sat Sep 29 05:23:26 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36145
+# Number of unique hostnames: 36147
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -28195,8 +28195,6 @@
 :: e.ueram.com
 0.0.0.0 e.vaxyz.com
 :: e.vaxyz.com
-0.0.0.0 e.vbaiu.com
-:: e.vbaiu.com
 0.0.0.0 e.weixingshexiangji.net
 :: e.weixingshexiangji.net
 0.0.0.0 e.wjhehaofc.com
@@ -37989,6 +37987,8 @@
 :: landing.seek2.com
 0.0.0.0 landingpages.sunnytoolz.com
 :: landingpages.sunnytoolz.com
+0.0.0.0 lang.t7114.com
+:: lang.t7114.com
 0.0.0.0 languages-online.org.uk
 :: languages-online.org.uk
 0.0.0.0 lannuairex.free.fr
@@ -49661,6 +49661,8 @@
 :: proxy-khlizawelj.now.sh
 0.0.0.0 proxy.dlf.lt
 :: proxy.dlf.lt
+0.0.0.0 proxy.dzearn.com
+:: proxy.dzearn.com
 0.0.0.0 proxy.ladot.com
 :: proxy.ladot.com
 0.0.0.0 proxy.multikonline.ru
@@ -62729,6 +62731,8 @@
 :: user57366.vs.speednames.com
 0.0.0.0 user57384.vs.speednames.com
 :: user57384.vs.speednames.com
+0.0.0.0 user57403.vs.speednames.com
+:: user57403.vs.speednames.com
 0.0.0.0 usercollection.chinadaily.com.cn
 :: usercollection.chinadaily.com.cn
 0.0.0.0 userlog.synapseip.tv
