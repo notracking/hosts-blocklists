@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Sep 30 05:19:26 CEST 2018
+# Last update: Mon Oct 1 05:16:45 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36141
+# Number of unique hostnames: 36142
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -55,6 +55,8 @@
 :: 01daa.lubih.com
 0.0.0.0 01daa.lutci.com
 :: 01daa.lutci.com
+0.0.0.0 01daa.lutgh.com
+:: 01daa.lutgh.com
 0.0.0.0 01daa.luvbr.com
 :: 01daa.luvbr.com
 0.0.0.0 01daa.luytr.com
