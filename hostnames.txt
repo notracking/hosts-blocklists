@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Oct 1 05:16:45 CEST 2018
+# Last update: Tue Oct 2 05:23:30 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36142
+# Number of unique hostnames: 36135
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -5237,6 +5237,10 @@
 :: adashbc.ut.taobao.com
 0.0.0.0 adashx.m.taobao.com
 :: adashx.m.taobao.com
+0.0.0.0 adashx.ut.taobao.com
+:: adashx.ut.taobao.com
+0.0.0.0 adashx4ae.ut.taobao.com
+:: adashx4ae.ut.taobao.com
 0.0.0.0 adashxgc.ut.taobao.com
 :: adashxgc.ut.taobao.com
 0.0.0.0 adb.fling.com
@@ -5815,8 +5819,6 @@
 :: admin.adriangluck.com.ar
 0.0.0.0 admin.ads.basal.ca
 :: admin.ads.basal.ca
-0.0.0.0 admin.ads.t-online.de
-:: admin.ads.t-online.de
 0.0.0.0 admin.appnext.com
 :: admin.appnext.com
 0.0.0.0 admin.att.mobiliariostore.com
@@ -9107,8 +9109,6 @@
 :: ads.retirementjobs.com
 0.0.0.0 ads.revenews.com
 :: ads.revenews.com
-0.0.0.0 ads.reviewcentre.com
-:: ads.reviewcentre.com
 0.0.0.0 ads.reward.rakuten.jp
 :: ads.reward.rakuten.jp
 0.0.0.0 ads.right-ads.com
@@ -14525,6 +14525,8 @@
 :: api.autocompleteplus.com
 0.0.0.0 api.axiatraders.com
 :: api.axiatraders.com
+0.0.0.0 api.b2c.com
+:: api.b2c.com
 0.0.0.0 api.baifendian.com
 :: api.baifendian.com
 0.0.0.0 api.bailingjiankang.com
@@ -18073,8 +18075,6 @@
 :: beacon.lycos.com
 0.0.0.0 beacon.mediahuis.be
 :: beacon.mediahuis.be
-0.0.0.0 beacon.mhtr.be
-:: beacon.mhtr.be
 0.0.0.0 beacon.mtgx.tv
 :: beacon.mtgx.tv
 0.0.0.0 beacon.nuskin.com
@@ -18103,6 +18103,8 @@
 :: beacon.wikia-services.com
 0.0.0.0 beacon2.indieclicktv.com
 :: beacon2.indieclicktv.com
+0.0.0.0 beaconin2.notinote.me
+:: beaconin2.notinote.me
 0.0.0.0 beacons.brandads.net
 :: beacons.brandads.net
 0.0.0.0 beacons.helium.com
@@ -19397,8 +19399,6 @@
 :: bvpdf9.u9a.wentserver.com
 0.0.0.0 bvtjuy.koll.pershoreairporttransfers.co.uk
 :: bvtjuy.koll.pershoreairporttransfers.co.uk
-0.0.0.0 bw.ads.t-online.de
-:: bw.ads.t-online.de
 0.0.0.0 bw1q.ccisisl.top
 :: bw1q.ccisisl.top
 0.0.0.0 bwb101.goo.ne.jp
@@ -23545,8 +23545,6 @@
 :: counter.impressur.com
 0.0.0.0 counter.inetusa.com
 :: counter.inetusa.com
-0.0.0.0 counter.internet.ge
-:: counter.internet.ge
 0.0.0.0 counter.inti.fr
 :: counter.inti.fr
 0.0.0.0 counter.jasmin.hu
@@ -25819,8 +25817,6 @@
 :: data.adexda.com
 0.0.0.0 data.ads.oppomobile.com
 :: data.ads.oppomobile.com
-0.0.0.0 data.ads.t-online.de
-:: data.ads.t-online.de
 0.0.0.0 data.alexa.com
 :: data.alexa.com
 0.0.0.0 data.cnn.com
@@ -32799,6 +32795,10 @@
 :: gz2.bbsoldes.fr
 0.0.0.0 gzm.xzbu.com
 :: gzm.xzbu.com
+0.0.0.0 h-adashx.ut.taobao.com
+:: h-adashx.ut.taobao.com
+0.0.0.0 h-adashx4ae.ut.taobao.com
+:: h-adashx4ae.ut.taobao.com
 0.0.0.0 h-m-s-babes.blogomer.com
 :: h-m-s-babes.blogomer.com
 0.0.0.0 h.canmg.cn
@@ -33903,8 +33903,6 @@
 :: homeloan.tr.cx
 0.0.0.0 homely.gutterheaters4u.com
 :: homely.gutterheaters4u.com
-0.0.0.0 homepage.t-online.de
-:: homepage.t-online.de
 0.0.0.0 hometown-art.aol.com
 :: hometown-art.aol.com
 0.0.0.0 hometown.aol.com
@@ -35791,8 +35789,6 @@
 :: ink.churchofthefreespirit.com
 0.0.0.0 inmobisdk-a.akamaihd.net
 :: inmobisdk-a.akamaihd.net
-0.0.0.0 inner.newinform.com
-:: inner.newinform.com
 0.0.0.0 inneractive-assets.s3.amazonaws.com
 :: inneractive-assets.s3.amazonaws.com
 0.0.0.0 innesota.rus-shine.ru
@@ -37321,6 +37317,10 @@
 :: kbc.be.institut-blaisepascal.com
 0.0.0.0 kbc.be.qazispecialistclinic.com
 :: kbc.be.qazispecialistclinic.com
+0.0.0.0 kbd1.kpns.ijinshan.com
+:: kbd1.kpns.ijinshan.com
+0.0.0.0 kbd2.kpns.ijinshan.com
+:: kbd2.kpns.ijinshan.com
 0.0.0.0 kbnetworkz.s3.amazonaws.com
 :: kbnetworkz.s3.amazonaws.com
 0.0.0.0 kbv5s.kylepasse.at
@@ -40653,6 +40653,8 @@
 :: mebel.forlife.ru
 0.0.0.0 mecgwl.ac.in
 :: mecgwl.ac.in
+0.0.0.0 mecod.expresslinkcourier.online
+:: mecod.expresslinkcourier.online
 0.0.0.0 mecz.ujm.pl
 :: mecz.ujm.pl
 0.0.0.0 mecze24.6ka.info
@@ -40727,6 +40729,8 @@
 :: media.charter.com
 0.0.0.0 media.cheshi-img.com
 :: media.cheshi-img.com
+0.0.0.0 media.complex.com
+:: media.complex.com
 0.0.0.0 media.curse.com
 :: media.curse.com
 0.0.0.0 media.datingpartner.com
@@ -46597,8 +46601,6 @@
 :: partner.dhl.de
 0.0.0.0 partner.e-conomic.com
 :: partner.e-conomic.com
-0.0.0.0 partner.finditquick.com
-:: partner.finditquick.com
 0.0.0.0 partner.finline.ua
 :: partner.finline.ua
 0.0.0.0 partner.gewinnspiele.de
@@ -51029,8 +51031,6 @@
 :: recyclearrowsfootnote.cognitiveaddition.info
 0.0.0.0 red-js.github.io
 :: red-js.github.io
-0.0.0.0 red.ads.t-online.de
-:: red.ads.t-online.de
 0.0.0.0 red.bayimg.net
 :: red.bayimg.net
 0.0.0.0 red.chic-avenue.fr
@@ -52113,8 +52113,6 @@
 :: s.ad7m.com
 0.0.0.0 s.admtpmp127.com
 :: s.admtpmp127.com
-0.0.0.0 s.ads.t-online.de
-:: s.ads.t-online.de
 0.0.0.0 s.adyun.com
 :: s.adyun.com
 0.0.0.0 s.agava.ru
@@ -53629,8 +53627,6 @@
 :: secufast.bplaced.net
 0.0.0.0 secure-553-document.getforge.io
 :: secure-553-document.getforge.io
-0.0.0.0 secure-account-national-australia-bank.com.au-servive-customer-online.asiamusicme.com
-:: secure-account-national-australia-bank.com.au-servive-customer-online.asiamusicme.com
 0.0.0.0 secure-account-paypal.com-servive-customer-online.secure-includes-information-personal.signup.walkincareers.com
 :: secure-account-paypal.com-servive-customer-online.secure-includes-information-personal.signup.walkincareers.com
 0.0.0.0 secure-bankofamerica-checking-account.solutecno.cl
@@ -57367,6 +57363,8 @@
 :: stralfors.home.pl
 0.0.0.0 strategy.beacon.qq.com
 :: strategy.beacon.qq.com
+0.0.0.0 strategy.lmobi.net
+:: strategy.lmobi.net
 0.0.0.0 stream.aff-id.com
 :: stream.aff-id.com
 0.0.0.0 stream.heavenmedia.net
@@ -57873,8 +57871,6 @@
 :: sync.cmedia.s3.amazonaws.com
 0.0.0.0 sync.credebat.com
 :: sync.credebat.com
-0.0.0.0 sync.darikweb.com
-:: sync.darikweb.com
 0.0.0.0 sync.extend.tv
 :: sync.extend.tv
 0.0.0.0 sync.mookie1.cn
@@ -59303,8 +59299,6 @@
 :: top.elec.ru
 0.0.0.0 top.er.cz
 :: top.er.cz
-0.0.0.0 top.gde.ru
-:: top.gde.ru
 0.0.0.0 top.h.qhimg.com
 :: top.h.qhimg.com
 0.0.0.0 top.h.qhmsg.com
@@ -59513,6 +59507,8 @@
 :: track.adsushi.de
 0.0.0.0 track.adtraction.com
 :: track.adtraction.com
+0.0.0.0 track.adtrue.com
+:: track.adtrue.com
 0.0.0.0 track.adxmi.com
 :: track.adxmi.com
 0.0.0.0 track.affiliate-b.com
@@ -62811,8 +62807,6 @@
 :: utp.ucweb.com
 0.0.0.0 utrack.hexun.com
 :: utrack.hexun.com
-0.0.0.0 utsdpp.persgroep.net
-:: utsdpp.persgroep.net
 0.0.0.0 utzpkru.411.com1.ru
 :: utzpkru.411.com1.ru
 0.0.0.0 uu.85655095.com
@@ -64101,8 +64095,6 @@
 :: w1.wayqq.com
 0.0.0.0 w10.centralmediaserver.com
 :: w10.centralmediaserver.com
-0.0.0.0 w10.localadbuy.com
-:: w10.localadbuy.com
 0.0.0.0 w11.centralmediaserver.com
 :: w11.centralmediaserver.com
 0.0.0.0 w11.zhongkaohelp.com
@@ -66635,8 +66627,6 @@
 :: www.best-games4you.top
 0.0.0.0 www.best-iphone6s.com
 :: www.best-iphone6s.com
-0.0.0.0 www.best-top.hu
-:: www.best-top.hu
 0.0.0.0 www.bestadvert.net
 :: www.bestadvert.net
 0.0.0.0 www.bestdealconnector.com
@@ -67053,8 +67043,6 @@
 :: www.counter4all.com
 0.0.0.0 www.counter4all.de
 :: www.counter4all.de
-0.0.0.0 www.counter4you.net
-:: www.counter4you.net
 0.0.0.0 www.countercentral.com
 :: www.countercentral.com
 0.0.0.0 www.counterguide.com
@@ -70081,14 +70069,8 @@
 :: www.top100.ro
 0.0.0.0 www.top25.ro
 :: www.top25.ro
-0.0.0.0 www.top300.ro
-:: www.top300.ro
 0.0.0.0 www.top66.com
 :: www.top66.com
-0.0.0.0 www.top99.ro
-:: www.top99.ro
-0.0.0.0 www.topadult.ro
-:: www.topadult.ro
 0.0.0.0 www.topblogging.com
 :: www.topblogging.com
 0.0.0.0 www.topblogs.com.ph
@@ -70305,6 +70287,8 @@
 :: www.vantis-holding.com
 0.0.0.0 www.vaultsappsbyte.com
 :: www.vaultsappsbyte.com
+0.0.0.0 www.vb1rc5l52n.us
+:: www.vb1rc5l52n.us
 0.0.0.0 www.vbbvkc.info
 :: www.vbbvkc.info
 0.0.0.0 www.vertourmer.com
@@ -70737,8 +70721,6 @@
 :: www1.bmo.com.hotfrio.com.br
 0.0.0.0 www1.clickdownloader.com
 :: www1.clickdownloader.com
-0.0.0.0 www1.darikweb.com
-:: www1.darikweb.com
 0.0.0.0 www1.firesavez5.com
 :: www1.firesavez5.com
 0.0.0.0 www1.firesavez6.com
@@ -70789,6 +70771,8 @@
 :: www2.a-counter.kiev.ua
 0.0.0.0 www2.acint.net
 :: www2.acint.net
+0.0.0.0 www2.activebestakamaiflash.icu
+:: www2.activebestakamaiflash.icu
 0.0.0.0 www2.anybestconcreteflash.icu
 :: www2.anybestconcreteflash.icu
 0.0.0.0 www2.arielrebel.com
@@ -70823,6 +70807,8 @@
 :: www2.smallregularbestflash.club
 0.0.0.0 www2.telemarque.com
 :: www2.telemarque.com
+0.0.0.0 www2.upgradebestonlineflash.icu
+:: www2.upgradebestonlineflash.icu
 0.0.0.0 www2.xinmin.cn
 :: www2.xinmin.cn
 0.0.0.0 www2.xtdl.com
