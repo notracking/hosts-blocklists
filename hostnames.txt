@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Oct 5 06:22:02 CEST 2018
+# Last update: Sat Oct 6 05:14:48 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35978
+# Number of unique hostnames: 35972
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3367,6 +3367,8 @@
 :: acs.56.com
 0.0.0.0 acs.agent.56.com
 :: acs.agent.56.com
+0.0.0.0 acs.agent.v-56.com
+:: acs.agent.v-56.com
 0.0.0.0 acs.xpanama.net
 :: acs.xpanama.net
 0.0.0.0 acs4baichuan.m.taobao.com
@@ -13199,8 +13201,6 @@
 :: airbnb.com.westpeak.ca
 0.0.0.0 airbrushbyjamie.000webhostapp.com
 :: airbrushbyjamie.000webhostapp.com
-0.0.0.0 aircrack-ng.softonic.fr
-:: aircrack-ng.softonic.fr
 0.0.0.0 aircraft.evote.cl
 :: aircraft.evote.cl
 0.0.0.0 airdropboxfile.carlaalegre.com
@@ -18325,6 +18325,8 @@
 :: bildwl.mobile.de
 0.0.0.0 bill.agent.56.com
 :: bill.agent.56.com
+0.0.0.0 bill.agent.v-56.com
+:: bill.agent.v-56.com
 0.0.0.0 bill.ccbill.com
 :: bill.ccbill.com
 0.0.0.0 bill.ecsuite.com
@@ -19175,8 +19177,6 @@
 :: bunted-bundles.000webhostapp.com
 0.0.0.0 burn.settingsdata.store
 :: burn.settingsdata.store
-0.0.0.0 burnvirusnow33.xorg.pl
-:: burnvirusnow33.xorg.pl
 0.0.0.0 bursakombiservisi.web.tr
 :: bursakombiservisi.web.tr
 0.0.0.0 business-page-set.000webhostapp.com
@@ -21911,8 +21911,6 @@
 :: cleaning.vaancreative.com
 0.0.0.0 cleaningservices.kiev.ua
 :: cleaningservices.kiev.ua
-0.0.0.0 cleanupit22p.xorg.pl
-:: cleanupit22p.xorg.pl
 0.0.0.0 cleveland.sla.org
 :: cleveland.sla.org
 0.0.0.0 clexchange.usww.com
@@ -30659,8 +30657,6 @@
 :: forum.like108.com
 0.0.0.0 forum.magicsafeprogram.su
 :: forum.magicsafeprogram.su
-0.0.0.0 forum.meinskype.de
-:: forum.meinskype.de
 0.0.0.0 forumliensutiles.free.fr
 :: forumliensutiles.free.fr
 0.0.0.0 forums.123.st
@@ -32143,8 +32139,6 @@
 :: glamoureete.xtgem.com
 0.0.0.0 glamourphotos.jepose.com
 :: glamourphotos.jepose.com
-0.0.0.0 glb.activeprospect.com
-:: glb.activeprospect.com
 0.0.0.0 glclk.about.com
 :: glclk.about.com
 0.0.0.0 glean.pop6.com
@@ -32359,8 +32353,6 @@
 :: googldrive.3eeweb.com
 0.0.0.0 google-dropbox.sakthiheattreatment.com
 :: google-dropbox.sakthiheattreatment.com
-0.0.0.0 google-hacks.softonic.fr
-:: google-hacks.softonic.fr
 0.0.0.0 google.poultrymiddleeast.com
 :: google.poultrymiddleeast.com
 0.0.0.0 google.ryantoddrose.com
@@ -37241,8 +37233,6 @@
 :: key.indianmedicalsupplies.co.in
 0.0.0.0 key.miltontech.co.uk
 :: key.miltontech.co.uk
-0.0.0.0 keygen-password-generator.softonic.fr
-:: keygen-password-generator.softonic.fr
 0.0.0.0 keytarget.adnet.lt
 :: keytarget.adnet.lt
 0.0.0.0 keyupgrade.stableupdate.space
@@ -48687,10 +48677,6 @@
 :: portal.publishersserviceassociates.com
 0.0.0.0 portalacademicounid.we-know.net
 :: portalacademicounid.we-know.net
-0.0.0.0 portalangels-1.pop3.ru
-:: portalangels-1.pop3.ru
-0.0.0.0 portalangels.pop3.ru
-:: portalangels.pop3.ru
 0.0.0.0 portnoff.od.ua
 :: portnoff.od.ua
 0.0.0.0 pos.baidu.com
@@ -50029,8 +50015,6 @@
 :: qpodgladacz.glt.pl
 0.0.0.0 qpxxhyzwae.ce.ms
 :: qpxxhyzwae.ce.ms
-0.0.0.0 qqewfjdp.angelcities.com
-:: qqewfjdp.angelcities.com
 0.0.0.0 qqlogo.qq.com
 :: qqlogo.qq.com
 0.0.0.0 qqshow2-item.qq.com
@@ -50063,8 +50047,6 @@
 :: qto.reprintingstakeholder.com
 0.0.0.0 quad-passion.zannuaire.com
 :: quad-passion.zannuaire.com
-0.0.0.0 quad-registry-cleaner.softonic.fr
-:: quad-registry-cleaner.softonic.fr
 0.0.0.0 quangl3m.beget.tech
 :: quangl3m.beget.tech
 0.0.0.0 quasar.sitegauge.com
@@ -50359,8 +50341,6 @@
 :: ranks.boardtracker.com
 0.0.0.0 ransomware-alert.secure-server-alert.info
 :: ransomware-alert.secure-server-alert.info
-0.0.0.0 rar-password-cracker.softonic.fr
-:: rar-password-cracker.softonic.fr
 0.0.0.0 rarabarnfi.hotmail.ru
 :: rarabarnfi.hotmail.ru
 0.0.0.0 ras.infynetz.com
@@ -53641,8 +53621,6 @@
 :: securevirginiacommonwealthuniversityservice.wufoo.com
 0.0.0.0 secureweb1ppl-directmanagepaypaal.m-s-c-p-pgroup.com
 :: secureweb1ppl-directmanagepaypaal.m-s-c-p-pgroup.com
-0.0.0.0 securezone33.xorg.pl
-:: securezone33.xorg.pl
 0.0.0.0 securiitypaypal.webcindario.com
 :: securiitypaypal.webcindario.com
 0.0.0.0 securite.01net.com
@@ -53777,8 +53755,6 @@
 :: serepotre.000webhostapp.com
 0.0.0.0 serg.pics-money.ru
 :: serg.pics-money.ru
-0.0.0.0 serial-cloner.softonic.fr
-:: serial-cloner.softonic.fr
 0.0.0.0 seriale.org.pl
 :: seriale.org.pl
 0.0.0.0 serpihan7711at.000webhostapp.com
@@ -57111,8 +57087,6 @@
 :: stts.rbc.ru
 0.0.0.0 stud38.allmanpages.com
 :: stud38.allmanpages.com
-0.0.0.0 studenti.unipa.it
-:: studenti.unipa.it
 0.0.0.0 students.igg.biz
 :: students.igg.biz
 0.0.0.0 studiotosi.claimadv.it
@@ -60861,8 +60835,6 @@
 :: trtlu.ddns.info
 0.0.0.0 trtrtmattchhhviewss.000webhostapp.com
 :: trtrtmattchhhviewss.000webhostapp.com
-0.0.0.0 trueguardscaner33-p.xorg.pl
-:: trueguardscaner33-p.xorg.pl
 0.0.0.0 truehits.gits.net.th
 :: truehits.gits.net.th
 0.0.0.0 truehits.in.th
@@ -61469,8 +61441,6 @@
 :: unitex.home.pl
 0.0.0.0 unitus.synergy-e.com
 :: unitus.synergy-e.com
-0.0.0.0 universal-downloader.softonic.fr
-:: universal-downloader.softonic.fr
 0.0.0.0 universidad.uflo.edu.ar
 :: universidad.uflo.edu.ar
 0.0.0.0 universitdegeneve.weebly.com
@@ -63911,8 +63881,6 @@
 :: wapwbclick.mobile.sina.cn
 0.0.0.0 war.thinkerwealth.com
 :: war.thinkerwealth.com
-0.0.0.0 warez.softonic.fr
-:: warez.softonic.fr
 0.0.0.0 warf-weapon.h16.ru
 :: warf-weapon.h16.ru
 0.0.0.0 warface.sarhosting.ru
@@ -66807,10 +66775,14 @@
 :: www.datatech.es
 0.0.0.0 www.day66.com
 :: www.day66.com
+0.0.0.0 www.dcm5.com
+:: www.dcm5.com
 0.0.0.0 www.dcsoftware.bannerless.com
 :: www.dcsoftware.bannerless.com
 0.0.0.0 www.dcw.1592878.com
 :: www.dcw.1592878.com
+0.0.0.0 www.dddcc.com
+:: www.dddcc.com
 0.0.0.0 www.ddiopoola.top
 :: www.ddiopoola.top
 0.0.0.0 www.dgfggy.com
@@ -68437,12 +68409,18 @@
 :: www.movable-ink-2183.com
 0.0.0.0 www.movie-port.ru
 :: www.movie-port.ru
+0.0.0.0 www.moviedownloader.net
+:: www.moviedownloader.net
 0.0.0.0 www.moviestarplanethack.info
 :: www.moviestarplanethack.info
 0.0.0.0 www.mp-mail.nl
 :: www.mp-mail.nl
+0.0.0.0 www.mp3downloadhq.com
+:: www.mp3downloadhq.com
 0.0.0.0 www.mp3downloadnet.com
 :: www.mp3downloadnet.com
+0.0.0.0 www.mp3helpdesk.com
+:: www.mp3helpdesk.com
 0.0.0.0 www.mpression.net
 :: www.mpression.net
 0.0.0.0 www.mpzw.com
@@ -69537,12 +69515,18 @@
 :: www.sucherle.de
 0.0.0.0 www.suckpenis.com
 :: www.suckpenis.com
+0.0.0.0 www.sugarsync.com
+:: www.sugarsync.com
 0.0.0.0 www.sunbrehden.top
 :: www.sunbrehden.top
 0.0.0.0 www.sundayregister.com
 :: www.sundayregister.com
+0.0.0.0 www.sunidaytravel.co.uk
+:: www.sunidaytravel.co.uk
 0.0.0.0 www.sunnyata.tora.ru
 :: www.sunnyata.tora.ru
+0.0.0.0 www.super8service.de
+:: www.super8service.de
 0.0.0.0 www.superbanner.org
 :: www.superbanner.org
 0.0.0.0 www.superinternetdeals.com
@@ -70211,6 +70195,8 @@
 :: www.ww-tv.net
 0.0.0.0 www.wwkiosk.com
 :: www.wwkiosk.com
+0.0.0.0 www.wwwoldnavy.com
+:: www.wwwoldnavy.com
 0.0.0.0 www.wwwsexmovies.com
 :: www.wwwsexmovies.com
 0.0.0.0 www.wykreslanka.com.pl
@@ -70511,6 +70497,8 @@
 :: www214.ttrtw.com
 0.0.0.0 www230.dm599.com
 :: www230.dm599.com
+0.0.0.0 www230.kkvmaj.com
+:: www230.kkvmaj.com
 0.0.0.0 www238.killevo.com
 :: www238.killevo.com
 0.0.0.0 www238.lzxsw100.com
