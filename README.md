@@ -83,6 +83,10 @@ addn-hosts=/path/to/hostnames.txt
  - https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/.dev-tools/output/domains/ACTIVE/list
  - http://malc0de.com/bl/BOOT
  - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+ - https://data.netlab.360.com/feeds/dga/dircrypt.txt
+ - https://data.netlab.360.com/feeds/dga/fobber.txt
+ - https://data.netlab.360.com/feeds/dga/ccleaner.txt
+
  - a large set of custom entries
   
 **Adblock Plus lists** (only full hostname, non-3rd party filters)
@@ -107,11 +111,3 @@ addn-hosts=/path/to/hostnames.txt
  - https://easylist-downloads.adblockplus.org/advblock.txt
  - https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
  - https://raw.githubusercontent.com/jspenguin2017/uBlockProtector/master/uBlockProtectorList.txt
-
-
-# Lists that will NOT be included
- - http://hosts-file.net/fsa.txt `too many false calls`
- - http://hosts-file.net/emd.txt `too many false calls`
- - http://rlwpx.free.fr/WPFF/hosts.htm `too many false calls, focussed on content blocking`
- - https://github.com/AdguardTeam/AdguardDNS `they parse all domains from adblock filters, causing loads of false calls`
- - http://www.joewein.de/sw/bl-text.htm `very outdated, almost all domains expired`
