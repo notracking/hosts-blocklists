@@ -86,6 +86,7 @@ addn-hosts=/path/to/hostnames.txt
  - https://data.netlab.360.com/feeds/dga/dircrypt.txt
  - https://data.netlab.360.com/feeds/dga/fobber.txt
  - https://data.netlab.360.com/feeds/dga/ccleaner.txt
+ - https://osint.bambenekconsulting.com/feeds/c2-dommasterlist-high.txt
 
  - a large set of custom entries
   
