@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Oct 7 05:11:29 CEST 2018
+# Last update: Mon Oct 8 05:21:35 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35956
+# Number of unique hostnames: 35963
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -267,6 +267,8 @@
 :: 1.win7sky.com
 0.0.0.0 1.xiaopin5.com
 :: 1.xiaopin5.com
+0.0.0.0 1.xiaozhizhijia.com
+:: 1.xiaozhizhijia.com
 0.0.0.0 1.xilu.com
 :: 1.xilu.com
 0.0.0.0 1.xspic.com
@@ -2727,8 +2729,8 @@
 :: a.umilu.com
 0.0.0.0 a.update.51edm.net
 :: a.update.51edm.net
-0.0.0.0 a.ut8d.com
-:: a.ut8d.com
+0.0.0.0 a.ut8d8.com
+:: a.ut8d8.com
 0.0.0.0 a.vartoken.com
 :: a.vartoken.com
 0.0.0.0 a.velvet.by
@@ -3077,6 +3079,8 @@
 :: abcd.zsrt88.cn
 0.0.0.0 abcj.dooccn.com
 :: abcj.dooccn.com
+0.0.0.0 abcnews.footprint.net
+:: abcnews.footprint.net
 0.0.0.0 abcsexy.free.fr
 :: abcsexy.free.fr
 0.0.0.0 abdel.wpdevcloud.com
@@ -4693,6 +4697,8 @@
 :: ad.terra.com.mx
 0.0.0.0 ad.tgdaily.com
 :: ad.tgdaily.com
+0.0.0.0 ad.theepochtimes.com
+:: ad.theepochtimes.com
 0.0.0.0 ad.thehill.com
 :: ad.thehill.com
 0.0.0.0 ad.thesimplecomplex.bg
@@ -17951,8 +17957,6 @@
 :: bdjs.120askimages.com
 0.0.0.0 bdjs.163lady.com
 :: bdjs.163lady.com
-0.0.0.0 bdjs.2344.com
-:: bdjs.2344.com
 0.0.0.0 bdjs.6237237.com
 :: bdjs.6237237.com
 0.0.0.0 bdjs.6822.com
@@ -18415,6 +18419,8 @@
 :: bj.imp.voiceads.cn
 0.0.0.0 bj02.cww.com
 :: bj02.cww.com
+0.0.0.0 bj14.9669.cn
+:: bj14.9669.cn
 0.0.0.0 bj7kpvd.gandjaltilogoki.com
 :: bj7kpvd.gandjaltilogoki.com
 0.0.0.0 bjano.owncube.com
@@ -19055,6 +19061,8 @@
 :: bs.quadrosystems.ru
 0.0.0.0 bs.yandex.ru
 :: bs.yandex.ru
+0.0.0.0 bs14.9669.cn
+:: bs14.9669.cn
 0.0.0.0 bs5gyhfvm8f.suroot.com
 :: bs5gyhfvm8f.suroot.com
 0.0.0.0 bs7gwcsyxrsu1jfyamrb.alfacomercial.com.br
@@ -23677,6 +23685,8 @@
 :: cp.1o26.com
 0.0.0.0 cp.5jjx.net
 :: cp.5jjx.net
+0.0.0.0 cp.7y7.com
+:: cp.7y7.com
 0.0.0.0 cp.ggyapp.com
 :: cp.ggyapp.com
 0.0.0.0 cp.greenxf.cn
@@ -26721,8 +26731,6 @@
 :: dixwrvg.planeta2studios.com
 0.0.0.0 diy.error.myrice.com
 :: diy.error.myrice.com
-0.0.0.0 diyijs.duapp.com
-:: diyijs.duapp.com
 0.0.0.0 dizixdllzznrf.cloudfront.net
 :: dizixdllzznrf.cloudfront.net
 0.0.0.0 dj.renren.com
@@ -26901,6 +26909,8 @@
 :: dm.cqdxun.cn
 0.0.0.0 dm.duoshitong.com
 :: dm.duoshitong.com
+0.0.0.0 dm.gbeik.com
+:: dm.gbeik.com
 0.0.0.0 dm.gucheng.com
 :: dm.gucheng.com
 0.0.0.0 dm.haojuzi.net
@@ -28039,6 +28049,8 @@
 :: e.fimky.com
 0.0.0.0 e.freewebhostingarea.com
 :: e.freewebhostingarea.com
+0.0.0.0 e.gbieg.com
+:: e.gbieg.com
 0.0.0.0 e.gglay.com
 :: e.gglay.com
 0.0.0.0 e.gxjfh.com
@@ -28969,6 +28981,8 @@
 :: espinho.oksweb.com
 0.0.0.0 espn-ak.starwave.com
 :: espn-ak.starwave.com
+0.0.0.0 espn.footprint.net
+:: espn.footprint.net
 0.0.0.0 esrfbb.conciliolatinoamericano.com
 :: esrfbb.conciliolatinoamericano.com
 0.0.0.0 esscer47emonyno.rr.nu
@@ -36661,6 +36675,8 @@
 :: js.578965.com
 0.0.0.0 js.5iydz.com
 :: js.5iydz.com
+0.0.0.0 js.9669.cn
+:: js.9669.cn
 0.0.0.0 js.9ads.net
 :: js.9ads.net
 0.0.0.0 js.admin6.com
@@ -39359,6 +39375,8 @@
 :: m.gameyun907.net
 0.0.0.0 m.ganrs.com
 :: m.ganrs.com
+0.0.0.0 m.gbieg.com
+:: m.gbieg.com
 0.0.0.0 m.gglay.com
 :: m.gglay.com
 0.0.0.0 m.guanren11.com
@@ -39947,8 +39965,6 @@
 :: man.zzn.com
 0.0.0.0 man2jakarta.sch.id
 :: man2jakarta.sch.id
-0.0.0.0 manads.static.olcdn.com
-:: manads.static.olcdn.com
 0.0.0.0 manage-4a7bq2r26ad2bq2e2.drqatanasamanen.com
 :: manage-4a7bq2r26ad2bq2e2.drqatanasamanen.com
 0.0.0.0 manage.apple.com.webobjectsd5dbc98dcc983a7028bd82d1a47549.divinityhousingprojects.com
@@ -41945,8 +41961,6 @@
 :: moncompte.grouperf.com
 0.0.0.0 monde-pub.sdv.fr
 :: monde-pub.sdv.fr
-0.0.0.0 mondeoeffect.rambler.ru
-:: mondeoeffect.rambler.ru
 0.0.0.0 mondoads.s3.amazonaws.com
 :: mondoads.s3.amazonaws.com
 0.0.0.0 monetize-api.coronalabs.com
@@ -47449,6 +47463,8 @@
 :: phorno-gallery.darkhost.info
 0.0.0.0 photo-coquine.toubon.com
 :: photo-coquine.toubon.com
+0.0.0.0 photo.dhford.cn
+:: photo.dhford.cn
 0.0.0.0 photo.lyghjzs.cn
 :: photo.lyghjzs.cn
 0.0.0.0 photo.qianerbai.cn
@@ -68269,8 +68285,6 @@
 :: www.meitumq.com
 0.0.0.0 www.memeva.com
 :: www.memeva.com
-0.0.0.0 www.mengyuanwei.com
-:: www.mengyuanwei.com
 0.0.0.0 www.menhad.com
 :: www.menhad.com
 0.0.0.0 www.merchantapp.com
