@@ -87,7 +87,7 @@ addn-hosts=/path/to/hostnames.txt
  - https://data.netlab.360.com/feeds/dga/fobber.txt
  - https://data.netlab.360.com/feeds/dga/ccleaner.txt
  - https://osint.bambenekconsulting.com/feeds/c2-dommasterlist-high.txt
-
+ - https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
  - a large set of custom entries
   
 **Adblock Plus lists** (only full hostname, non-3rd party filters)
