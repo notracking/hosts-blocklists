@@ -82,6 +82,7 @@ addn-hosts=/path/to/hostnames.txt
  - http://www.urlvir.com/export-hosts/
  - https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/.dev-tools/output/domains/ACTIVE/list
  - http://malc0de.com/bl/BOOT
+ - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
  - a large set of custom entries
   
 **Adblock Plus lists** (only full hostname, non-3rd party filters)
