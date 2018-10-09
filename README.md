@@ -89,6 +89,7 @@ addn-hosts=/path/to/hostnames.txt
  - https://osint.bambenekconsulting.com/feeds/c2-dommasterlist-high.txt
  - https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
  - http://security-research.dyndns.org/pub/malware-feeds/ponmocup-infected-domains-shadowserver.csv
+ - https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts
  - a large set of custom entries
   
 **Adblock Plus lists** (only full hostname, non-3rd party filters)
