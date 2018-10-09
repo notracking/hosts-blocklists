@@ -53,7 +53,7 @@ addn-hosts=/path/to/hostnames.txt
  - http://pgl.yoyo.org/as/serverlist.php?hostformat=hosts
  - https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
  - https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt
- - https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
+ - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
  - http://malwaredomains.lehigh.edu/files/BOOT
  - http://malwaredomains.lehigh.edu/files/immortal_domains.txt
  - https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt `Excluding legit license servers`
