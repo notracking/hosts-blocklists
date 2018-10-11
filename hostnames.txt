@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Oct 10 05:20:10 CEST 2018
+# Last update: Thu Oct 11 05:23:53 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36898
+# Number of unique hostnames: 36901
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -203,6 +203,8 @@
 :: 1.hnyouneng.com
 0.0.0.0 1.huilv.cc
 :: 1.huilv.cc
+0.0.0.0 1.huobiwang.cc
+:: 1.huobiwang.cc
 0.0.0.0 1.hysou.com
 :: 1.hysou.com
 0.0.0.0 1.i1766.com
@@ -881,8 +883,6 @@
 :: 4225.zhuolingxiu.com
 0.0.0.0 433348--gast-angabe-account.vorkehrung-sicherheitssystem.ml
 :: 433348--gast-angabe-account.vorkehrung-sicherheitssystem.ml
-0.0.0.0 43352.flatblastard.com
-:: 43352.flatblastard.com
 0.0.0.0 434bom.wm.warmglow.org
 :: 434bom.wm.warmglow.org
 0.0.0.0 4388e9eiirkklrpp4004-4-erppeee.000webhostapp.com
@@ -895,6 +895,8 @@
 :: 461073-deu-gast-sicherheit-benutzer.sicherheitshilfe-sicherheitssystem.cf
 0.0.0.0 465663-deutschland-nutzung-sicher-benutzer.sicher-vorbeugung.tk
 :: 465663-deutschland-nutzung-sicher-benutzer.sicher-vorbeugung.tk
+0.0.0.0 46607.flatblastard.com
+:: 46607.flatblastard.com
 0.0.0.0 468.vologdainfo.ru
 :: 468.vologdainfo.ru
 0.0.0.0 470032-de-gast-sicher-validierung.trade-verification-lite.com
@@ -3169,8 +3171,6 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
-0.0.0.0 abusalewm.exceltoner.com
-:: abusalewm.exceltoner.com
 0.0.0.0 ac.ajur.info
 :: ac.ajur.info
 0.0.0.0 ac.atpanel.com
@@ -33681,8 +33681,6 @@
 :: hdggcdn.bayimob.com
 0.0.0.0 hdj.baidu.com
 :: hdj.baidu.com
-0.0.0.0 hdredirect-lb3-890977680.us-east-1.elb.amazonaws.com
-:: hdredirect-lb3-890977680.us-east-1.elb.amazonaws.com
 0.0.0.0 hdsrc-a.akamaihd.net
 :: hdsrc-a.akamaihd.net
 0.0.0.0 hdv1sk62nn56gtrozwrc.viomil.ro
@@ -43009,6 +43007,8 @@
 :: mr.da.netease.com
 0.0.0.0 mrad.webjump.net
 :: mrad.webjump.net
+0.0.0.0 mrex.exs.pl
+:: mrex.exs.pl
 0.0.0.0 mriya-shayan.in.ua
 :: mriya-shayan.in.ua
 0.0.0.0 mrkfus.000webhostapp.com
@@ -56149,6 +56149,8 @@
 :: smart.brvaffs.com
 0.0.0.0 smart.hola.com
 :: smart.hola.com
+0.0.0.0 smart.idmnet.pl
+:: smart.idmnet.pl
 0.0.0.0 smart.montiera.com
 :: smart.montiera.com
 0.0.0.0 smart.synergy-e.com
@@ -63649,6 +63651,8 @@
 :: url.adtrgt.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
+0.0.0.0 urladyms.newlogiq.com
+:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -64899,6 +64903,8 @@
 :: voicenotice.000webhostapp.com
 0.0.0.0 vokr-gtavc.ic.cz
 :: vokr-gtavc.ic.cz
+0.0.0.0 volgdestappen.roxweb.fr
+:: volgdestappen.roxweb.fr
 0.0.0.0 voluum.redirecting.site
 :: voluum.redirecting.site
 0.0.0.0 volvelle-ads-cdn.azureedge.net
@@ -67613,6 +67619,8 @@
 :: www.algocashmaster.com
 0.0.0.0 www.algocashmaster.net
 :: www.algocashmaster.net
+0.0.0.0 www.alhassanain.com
+:: www.alhassanain.com
 0.0.0.0 www.all-about-mall.com
 :: www.all-about-mall.com
 0.0.0.0 www.alladultdirectories.com
@@ -68793,6 +68801,8 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
+0.0.0.0 www.fishingtackleindia.com
+:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
@@ -71511,8 +71521,6 @@
 :: www.tiergestuetzt.de
 0.0.0.0 www.timefor.com
 :: www.timefor.com
-0.0.0.0 www.timelessimagesmi.com
-:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tings.com
@@ -73341,8 +73349,6 @@
 :: ytaahg.vo.llnwd.net
 0.0.0.0 ytapi1.nagezan.net
 :: ytapi1.nagezan.net
-0.0.0.0 ytmx.2r3485.cn
-:: ytmx.2r3485.cn
 0.0.0.0 ytrest84y5i456hghadefdsd.pontogrot.com
 :: ytrest84y5i456hghadefdsd.pontogrot.com
 0.0.0.0 yuarra.pluto.ro
