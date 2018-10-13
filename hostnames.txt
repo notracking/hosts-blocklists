@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Oct 12 06:40:16 CEST 2018
+# Last update: Sat Oct 13 05:12:59 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36928
+# Number of unique hostnames: 36929
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -161,6 +161,8 @@
 :: 1.51sxue.cn
 0.0.0.0 1.5646.cn
 :: 1.5646.cn
+0.0.0.0 1.66law.cn
+:: 1.66law.cn
 0.0.0.0 1.92caijing.com
 :: 1.92caijing.com
 0.0.0.0 1.activedriver.com
@@ -905,8 +907,6 @@
 :: 48.2mydns.net
 0.0.0.0 496812--gast-sicher-account.vorkehrung-sicherheitssystem.ml
 :: 496812--gast-sicher-account.vorkehrung-sicherheitssystem.ml
-0.0.0.0 49867.flatblastard.com
-:: 49867.flatblastard.com
 0.0.0.0 4bf27o.wm.warmglow.org
 :: 4bf27o.wm.warmglow.org
 0.0.0.0 4c92j5.cz.cc
@@ -1941,6 +1941,8 @@
 :: 52uo5k3t73ypjije.zxtezv.bid
 0.0.0.0 52uo5k3t73ypjije.zzis8p.bid
 :: 52uo5k3t73ypjije.zzis8p.bid
+0.0.0.0 53131.flatblastard.com
+:: 53131.flatblastard.com
 0.0.0.0 53ertt555.from-mn.com
 :: 53ertt555.from-mn.com
 0.0.0.0 540591--nutzung-angabe-validierung.sicherheitshilfe-schutz.gq
@@ -12641,8 +12643,6 @@
 :: ae.bdstatic.com
 0.0.0.0 ae.excite.com
 :: ae.excite.com
-0.0.0.0 ae01.alicdn.com
-:: ae01.alicdn.com
 0.0.0.0 ae4.ifeng.com
 :: ae4.ifeng.com
 0.0.0.0 aeazz.super-promo.quhu.info
@@ -14973,8 +14973,6 @@
 :: api.vigo.ru
 0.0.0.0 api.vungle.akadns.net
 :: api.vungle.akadns.net
-0.0.0.0 api.wamland.com
-:: api.wamland.com
 0.0.0.0 api.waptest.taobao.com
 :: api.waptest.taobao.com
 0.0.0.0 api.web.analytics.yahoo.com
@@ -18509,6 +18507,8 @@
 :: besc.baidustatic.com
 0.0.0.0 best.netease.com
 :: best.netease.com
+0.0.0.0 bestchahge.net.ru
+:: bestchahge.net.ru
 0.0.0.0 bestdove.in.ua
 :: bestdove.in.ua
 0.0.0.0 bestfile.net76.net
@@ -19929,8 +19929,6 @@
 :: c.lianwangtech.com
 0.0.0.0 c.live.com
 :: c.live.com
-0.0.0.0 c.lucktui.com
-:: c.lucktui.com
 0.0.0.0 c.microsoft.com
 :: c.microsoft.com
 0.0.0.0 c.minisplat.cn
@@ -23439,8 +23437,6 @@
 :: confessati.altervista.org
 0.0.0.0 conffiguration.youthempire.com
 :: conffiguration.youthempire.com
-0.0.0.0 config.789wed.com
-:: config.789wed.com
 0.0.0.0 config.adsage.cn
 :: config.adsage.cn
 0.0.0.0 config.adsage.com
@@ -28773,8 +28769,6 @@
 :: e.ueram.com
 0.0.0.0 e.vaxyz.com
 :: e.vaxyz.com
-0.0.0.0 e.weixingshexiangji.net
-:: e.weixingshexiangji.net
 0.0.0.0 e.wjhehaofc.com
 :: e.wjhehaofc.com
 0.0.0.0 e.wnxcg.com
@@ -31123,8 +31117,6 @@
 :: finance.b3p.cn
 0.0.0.0 financialprovider-logos.platform.intuit.com
 :: financialprovider-logos.platform.intuit.com
-0.0.0.0 findad.o00.kr
-:: findad.o00.kr
 0.0.0.0 findapps.in.net
 :: findapps.in.net
 0.0.0.0 finder.cox.net
@@ -31141,6 +31133,8 @@
 :: fine.creativeming.com
 0.0.0.0 fine.curingcruelty.com
 :: fine.curingcruelty.com
+0.0.0.0 finead.o00.kr
+:: finead.o00.kr
 0.0.0.0 fined4sd.000webhostapp.com
 :: fined4sd.000webhostapp.com
 0.0.0.0 finish.resinbonding.com
@@ -33129,6 +33123,8 @@
 :: grafephot.org.za
 0.0.0.0 gram.mfdrums.com
 :: gram.mfdrums.com
+0.0.0.0 gramelis.newyorkmascot.com
+:: gramelis.newyorkmascot.com
 0.0.0.0 grandpa.thebehrs.ca
 :: grandpa.thebehrs.ca
 0.0.0.0 grannypussy.blogspot.com
@@ -33701,6 +33697,8 @@
 :: hdggcdn.bayimob.com
 0.0.0.0 hdj.baidu.com
 :: hdj.baidu.com
+0.0.0.0 hdredirect-lb3-890977680.us-east-1.elb.amazonaws.com
+:: hdredirect-lb3-890977680.us-east-1.elb.amazonaws.com
 0.0.0.0 hdsrc-a.akamaihd.net
 :: hdsrc-a.akamaihd.net
 0.0.0.0 hdv1sk62nn56gtrozwrc.viomil.ro
@@ -40369,8 +40367,6 @@
 :: m.vpadn.com
 0.0.0.0 m.wankz.com
 :: m.wankz.com
-0.0.0.0 m.weixingshexiangji.net
-:: m.weixingshexiangji.net
 0.0.0.0 m.wgewj.cn
 :: m.wgewj.cn
 0.0.0.0 m.wjhehaofc.com
@@ -51973,8 +51969,6 @@
 :: redirect1.vip.store.yahoo.com
 0.0.0.0 redirection.linternaute.com
 :: redirection.linternaute.com
-0.0.0.0 redirector.googlevideo.com
-:: redirector.googlevideo.com
 0.0.0.0 redirector.themobilehub.net
 :: redirector.themobilehub.net
 0.0.0.0 redirects.coldhardcash.com
@@ -53239,8 +53233,6 @@
 :: s0-2mdn-net.l.google.com
 0.0.0.0 s0.ipstatp.com
 :: s0.ipstatp.com
-0.0.0.0 s0.wp.com
-:: s0.wp.com
 0.0.0.0 s01.delivery.addynamo.com
 :: s01.delivery.addynamo.com
 0.0.0.0 s01.vidtod.me
@@ -58397,6 +58389,8 @@
 :: stgg5jv6mqiibmax.torshop.li
 0.0.0.0 stiepcic.z-sat.com
 :: stiepcic.z-sat.com
+0.0.0.0 stiker.kl.com.ua
+:: stiker.kl.com.ua
 0.0.0.0 stikesbethesda.ac.id
 :: stikesbethesda.ac.id
 0.0.0.0 still.zzn.com
@@ -59503,6 +59497,8 @@
 :: target.smi2.net
 0.0.0.0 targeting.adwebster.com
 :: targeting.adwebster.com
+0.0.0.0 targeting.washpost.nile.works
+:: targeting.washpost.nile.works
 0.0.0.0 tartis78tscolla.rr.nu
 :: tartis78tscolla.rr.nu
 0.0.0.0 tas-ba.toboads.com
@@ -63437,6 +63433,8 @@
 :: untitled.dwstatic.com
 0.0.0.0 unusualactivety.000webhostapp.com
 :: unusualactivety.000webhostapp.com
+0.0.0.0 unxpoalimredsuiniqe.serveirc.com
+:: unxpoalimredsuiniqe.serveirc.com
 0.0.0.0 uoaofgqu.angelcities.com
 :: uoaofgqu.angelcities.com
 0.0.0.0 uojamcse.angelcities.com
@@ -63699,6 +63697,8 @@
 :: url.adtrgt.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
+0.0.0.0 urladyms.newlogiq.com
+:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -64423,6 +64423,8 @@
 :: verified.capitalone.com.login.mad105.mccdgm.net
 0.0.0.0 verifikacii22.fanpage112.ga
 :: verifikacii22.fanpage112.ga
+0.0.0.0 verifikasi25781.wixsite.com
+:: verifikasi25781.wixsite.com
 0.0.0.0 verifikasi9888.regis-from-alert32.tk
 :: verifikasi9888.regis-from-alert32.tk
 0.0.0.0 verifikasihakun771.wixsite.com
@@ -67633,8 +67635,6 @@
 :: www.affordablewebsitetraffic.com
 0.0.0.0 www.agentsplanet.com
 :: www.agentsplanet.com
-0.0.0.0 www.agenzianonvedolora.it
-:: www.agenzianonvedolora.it
 0.0.0.0 www.agenziasanremo.com
 :: www.agenziasanremo.com
 0.0.0.0 www.agliran.co.il
@@ -68857,6 +68857,8 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
+0.0.0.0 www.fishingtackleindia.com
+:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
@@ -69179,6 +69181,8 @@
 :: www.greatwinner.com
 0.0.0.0 www.greendak.com
 :: www.greendak.com
+0.0.0.0 www.greenfieldadvisorsltd.com
+:: www.greenfieldadvisorsltd.com
 0.0.0.0 www.greenindex.dynamic-dns.net
 :: www.greenindex.dynamic-dns.net
 0.0.0.0 www.greensustainabilitycoach.com
@@ -69651,6 +69655,8 @@
 :: www.joomlalivechat.com
 0.0.0.0 www.jornalfarroupilha.com.br
 :: www.jornalfarroupilha.com.br
+0.0.0.0 www.jornalocaminho.com.br
+:: www.jornalocaminho.com.br
 0.0.0.0 www.jouwstats.nl
 :: www.jouwstats.nl
 0.0.0.0 www.jowarinzqmiak.download
@@ -69931,8 +69937,6 @@
 :: www.litra.com.mk
 0.0.0.0 www.little-help.com
 :: www.little-help.com
-0.0.0.0 www.little-moon-aussies.com
-:: www.little-moon-aussies.com
 0.0.0.0 www.littledevildoubt.com
 :: www.littledevildoubt.com
 0.0.0.0 www.live.4480.org
@@ -70909,8 +70913,6 @@
 :: www.realtytips.com
 0.0.0.0 www.rebeccacella.com
 :: www.rebeccacella.com
-0.0.0.0 www.recrutam.ro
-:: www.recrutam.ro
 0.0.0.0 www.recyber.com
 :: www.recyber.com
 0.0.0.0 www.redactiepartners.nl
