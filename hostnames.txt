@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Oct 14 05:11:16 CEST 2018
+# Last update: Mon Oct 15 05:13:45 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37046
+# Number of unique hostnames: 37050
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -535,6 +535,8 @@
 :: 206938-deu-prob-mitteilung-benutzer.vorbeugung-sicher.gq
 0.0.0.0 207-87-18-203.wsmg.digex.net
 :: 207-87-18-203.wsmg.digex.net
+0.0.0.0 21.cizhibaogao.org
+:: 21.cizhibaogao.org
 0.0.0.0 21v6m.realsecuredredirect.com
 :: 21v6m.realsecuredredirect.com
 0.0.0.0 22.duote.org
@@ -1957,8 +1959,6 @@
 :: 555gm44.spwoilseal.com
 0.0.0.0 5623.web-stats.org
 :: 5623.web-stats.org
-0.0.0.0 56391.flatblastard.com
-:: 56391.flatblastard.com
 0.0.0.0 570748-deutschland-verbraucher-mitteilung-validierung.sicherheitshilfe-schutz.ml
 :: 570748-deutschland-verbraucher-mitteilung-validierung.sicherheitshilfe-schutz.ml
 0.0.0.0 5711020660006.sci.dusit.ac.th
@@ -1969,6 +1969,8 @@
 :: 588222-germany-nutzung-mitteilung-nachweis.sicherheitssystem-sicherheitshilfe.gq
 0.0.0.0 59-106-20-39.r-bl100.sakura.ne.jp
 :: 59-106-20-39.r-bl100.sakura.ne.jp
+0.0.0.0 59653.flatblastard.com
+:: 59653.flatblastard.com
 0.0.0.0 59gtma.first.pershoretaxi.co.uk
 :: 59gtma.first.pershoretaxi.co.uk
 0.0.0.0 59ikfg1yn2wiijwl5drj.viomil.ro
@@ -18865,6 +18867,8 @@
 :: blog.broadcast-technology.com
 0.0.0.0 blog.byethost.com
 :: blog.byethost.com
+0.0.0.0 blog.digishopbd.com
+:: blog.digishopbd.com
 0.0.0.0 blog.guiket.com
 :: blog.guiket.com
 0.0.0.0 blog.infoaxe.com
@@ -20237,6 +20241,8 @@
 :: ca.service.enligne.credit-agricole.fr.stb.entreebam.inc-system.com
 0.0.0.0 ca.w8.com.cn
 :: ca.w8.com.cn
+0.0.0.0 ca.xxxshame.com
+:: ca.xxxshame.com
 0.0.0.0 ca18740.tmweb.ru
 :: ca18740.tmweb.ru
 0.0.0.0 ca3.revieworbit.com
@@ -20731,8 +20737,6 @@
 :: cdn.adshexa.com
 0.0.0.0 cdn.adstract.com
 :: cdn.adstract.com
-0.0.0.0 cdn.adtrue.com
-:: cdn.adtrue.com
 0.0.0.0 cdn.adual.net
 :: cdn.adual.net
 0.0.0.0 cdn.adultforce.com
@@ -26421,8 +26425,6 @@
 :: danieltan.evplayer.com
 0.0.0.0 danildh1.000webhostapp.com
 :: danildh1.000webhostapp.com
-0.0.0.0 dantist.org.ua
-:: dantist.org.ua
 0.0.0.0 danuoyi.alicdn.com
 :: danuoyi.alicdn.com
 0.0.0.0 daohang.114so.cn
@@ -27211,8 +27213,6 @@
 :: dev.virtualearth.net
 0.0.0.0 dev.wrathofshadows.net
 :: dev.wrathofshadows.net
-0.0.0.0 dev1.onihost.pl
-:: dev1.onihost.pl
 0.0.0.0 dev1.redanchormedia.com
 :: dev1.redanchormedia.com
 0.0.0.0 dev1.universalit.com
@@ -28479,8 +28479,6 @@
 :: dshjsdhjdsjhdsuydsy6dsuy.000webhostapp.com
 0.0.0.0 dsknso.abadsupermarket.com
 :: dsknso.abadsupermarket.com
-0.0.0.0 dsm.byddev.com
-:: dsm.byddev.com
 0.0.0.0 dsms0mj1bbhn4.cloudfront.net
 :: dsms0mj1bbhn4.cloudfront.net
 0.0.0.0 dsnt5t.lol.airporttaxipershore.co.uk
@@ -29707,8 +29705,6 @@
 :: engine.xclaimwords.net
 0.0.0.0 english.topioldesign.com
 :: english.topioldesign.com
-0.0.0.0 english315portal.endlesss.io
-:: english315portal.endlesss.io
 0.0.0.0 enigman4140.000webhostapp.com
 :: enigman4140.000webhostapp.com
 0.0.0.0 enjoyyourreward.000webhostapp.com
@@ -33981,6 +33977,10 @@
 :: hdggcdn.bayimob.com
 0.0.0.0 hdj.baidu.com
 :: hdj.baidu.com
+0.0.0.0 hdjhsudhe.kuaizhan.com
+:: hdjhsudhe.kuaizhan.com
+0.0.0.0 hdredirect-lb3-890977680.us-east-1.elb.amazonaws.com
+:: hdredirect-lb3-890977680.us-east-1.elb.amazonaws.com
 0.0.0.0 hdsrc-a.akamaihd.net
 :: hdsrc-a.akamaihd.net
 0.0.0.0 hdv1sk62nn56gtrozwrc.viomil.ro
@@ -35047,6 +35047,8 @@
 :: huodong.mobilem.360.cn
 0.0.0.0 huostaan-eksperten.makemoneywithmegan.net
 :: huostaan-eksperten.makemoneywithmegan.net
+0.0.0.0 hurtownia.kolrise.com
+:: hurtownia.kolrise.com
 0.0.0.0 hustoon.over-blog.com
 :: hustoon.over-blog.com
 0.0.0.0 huwz.altervista.org
@@ -39151,8 +39153,6 @@
 :: lfdachijzuwx4bc4.x4tk5c.bid
 0.0.0.0 lfdachijzuwx4bc4.zreknv.bid
 :: lfdachijzuwx4bc4.zreknv.bid
-0.0.0.0 lg.icf-fx.kz
-:: lg.icf-fx.kz
 0.0.0.0 lg.yaload.ru
 :: lg.yaload.ru
 0.0.0.0 lg2.jointreport-switch.com
@@ -41417,6 +41417,8 @@
 :: mayumix.chu.jp
 0.0.0.0 mazda.georgewkohn.com
 :: mazda.georgewkohn.com
+0.0.0.0 mazu.3g.qq.com
+:: mazu.3g.qq.com
 0.0.0.0 mazu.sec.miui.com
 :: mazu.sec.miui.com
 0.0.0.0 mb.akado.ru
@@ -41503,6 +41505,8 @@
 :: mcore.vcgame.cn
 0.0.0.0 mcs.delvenetworks.com
 :: mcs.delvenetworks.com
+0.0.0.0 mcstats.spigotmc.org
+:: mcstats.spigotmc.org
 0.0.0.0 mcvsewse.esy.es
 :: mcvsewse.esy.es
 0.0.0.0 md-a-c.apptimize.com
@@ -44163,8 +44167,6 @@
 :: news.58.com
 0.0.0.0 news.cxxtv.com
 :: news.cxxtv.com
-0.0.0.0 news.digirook.com
-:: news.digirook.com
 0.0.0.0 news.ebc.net.tw
 :: news.ebc.net.tw
 0.0.0.0 news.followerinfo.xyz
@@ -44255,8 +44257,6 @@
 :: nexus.etracks.com
 0.0.0.0 nexus.officeapps.live.com
 :: nexus.officeapps.live.com
-0.0.0.0 nexus2017.amcp.org
-:: nexus2017.amcp.org
 0.0.0.0 neydegukkiatetoiccom.000webhostapp.com
 :: neydegukkiatetoiccom.000webhostapp.com
 0.0.0.0 nfdnserror1.wo.com.cn
@@ -45601,6 +45601,8 @@
 :: obs.nnm2.ru
 0.0.0.0 observer.ip-label.net
 :: observer.ip-label.net
+0.0.0.0 oby.journaldugeek.com
+:: oby.journaldugeek.com
 0.0.0.0 obyava.net.ru
 :: obyava.net.ru
 0.0.0.0 oc-track.autonomycloud.com
@@ -49115,6 +49117,8 @@
 :: piwik.redtube.com
 0.0.0.0 piwik.root.ax
 :: piwik.root.ax
+0.0.0.0 piwik.up.welt.de
+:: piwik.up.welt.de
 0.0.0.0 piwik.wsws.org
 :: piwik.wsws.org
 0.0.0.0 pix.bit.ly
@@ -50231,6 +50235,8 @@
 :: princetontrenton.sla.org
 0.0.0.0 printronix.net.cn
 :: printronix.net.cn
+0.0.0.0 priority-static-api.nkstatic.com
+:: priority-static-api.nkstatic.com
 0.0.0.0 priscure.heliohost.org
 :: priscure.heliohost.org
 0.0.0.0 prism.pandora.tv
@@ -55403,8 +55409,6 @@
 :: server.findthemd.com
 0.0.0.0 server.gameads.com
 :: server.gameads.com
-0.0.0.0 server.livehostingbd.com
-:: server.livehostingbd.com
 0.0.0.0 server.m.pp.cn
 :: server.m.pp.cn
 0.0.0.0 server.philipsenet.nl
@@ -58865,8 +58869,6 @@
 :: summary.secure-update-service1.com
 0.0.0.0 summarysupport.account-activityservice.com
 :: summarysupport.account-activityservice.com
-0.0.0.0 summerlandrockers.org.au
-:: summerlandrockers.org.au
 0.0.0.0 sumome-140a.kxcdn.com
 :: sumome-140a.kxcdn.com
 0.0.0.0 sun.changeyourworldnow.com
@@ -60899,8 +60901,6 @@
 :: track.adsushi.de
 0.0.0.0 track.adtraction.com
 :: track.adtraction.com
-0.0.0.0 track.adtrue.com
-:: track.adtrue.com
 0.0.0.0 track.adxmi.com
 :: track.adxmi.com
 0.0.0.0 track.affiliate-b.com
@@ -63753,8 +63753,6 @@
 :: update.ccount.shreeshishumandir.com
 0.0.0.0 update.irs.nswsoccer.com.au
 :: update.irs.nswsoccer.com.au
-0.0.0.0 update.link66.cn
-:: update.link66.cn
 0.0.0.0 update.onescan.co.kr
 :: update.onescan.co.kr
 0.0.0.0 update.paypal.account.actvty-updt-scre.com
@@ -69067,6 +69065,8 @@
 :: www.fidoproblems.com
 0.0.0.0 www.fiduciariobajio.com.mx
 :: www.fiduciariobajio.com.mx
+0.0.0.0 www.filedeposit.eu
+:: www.filedeposit.eu
 0.0.0.0 www.filmy.porno.pl
 :: www.filmy.porno.pl
 0.0.0.0 www.financial-advice-books.com
@@ -71739,6 +71739,8 @@
 :: www.teenwise.com
 0.0.0.0 www.tekyalhaja.xyz
 :: www.tekyalhaja.xyz
+0.0.0.0 www.telescopethesky.com
+:: www.telescopethesky.com
 0.0.0.0 www.televideoproductions.com
 :: www.televideoproductions.com
 0.0.0.0 www.templatezone.com
@@ -72811,6 +72813,8 @@
 :: wx.shunliandongli.com
 0.0.0.0 wxaw.tiantongmaoyi.com
 :: wxaw.tiantongmaoyi.com
+0.0.0.0 wxggtg.dre8.com
+:: wxggtg.dre8.com
 0.0.0.0 wxsnsdy.tc.qq.com
 :: wxsnsdy.tc.qq.com
 0.0.0.0 wxsnsdy.video.qq.com
@@ -73899,6 +73903,8 @@
 :: zhengxing.onlinedj.com.cn
 0.0.0.0 zhgg.dre8.com
 :: zhgg.dre8.com
+0.0.0.0 zhggw.dre8.com
+:: zhggw.dre8.com
 0.0.0.0 zhidao.yxad.com
 :: zhidao.yxad.com
 0.0.0.0 zhihu-web-analytics.zhihu.com
@@ -73907,6 +73913,8 @@
 :: zhihu.xmcimg.com
 0.0.0.0 zhu.bunchcousins.com
 :: zhu.bunchcousins.com
+0.0.0.0 zhuanshenghuo1.kuaizhan.com
+:: zhuanshenghuo1.kuaizhan.com
 0.0.0.0 zhusandyoi.websoft.kz
 :: zhusandyoi.websoft.kz
 0.0.0.0 zhushou.2345.com
