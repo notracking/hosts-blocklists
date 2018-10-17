@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Oct 16 05:19:30 CEST 2018
+# Last update: Wed Oct 17 05:25:52 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36791
+# Number of unique hostnames: 36801
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -721,8 +721,6 @@
 :: 33jjtmkd6j.ivertiipolska.com.pl
 0.0.0.0 33video.33universal.com
 :: 33video.33universal.com
-0.0.0.0 34682.flatblastard.com
-:: 34682.flatblastard.com
 0.0.0.0 354cf0bd.ngrok.io
 :: 354cf0bd.ngrok.io
 0.0.0.0 360.yahoo.com
@@ -739,6 +737,8 @@
 :: 373082.livecity.me
 0.0.0.0 377d936c10e6811f484c-6402e46c712497f58e3f77a59f47bbd5.r17.cf2.rackcdn.com
 :: 377d936c10e6811f484c-6402e46c712497f58e3f77a59f47bbd5.r17.cf2.rackcdn.com
+0.0.0.0 37952.flatblastard.com
+:: 37952.flatblastard.com
 0.0.0.0 380.bu2z.com
 :: 380.bu2z.com
 0.0.0.0 380.hotpix.fr
@@ -2361,8 +2361,6 @@
 :: a-love.nninfo.ru
 0.0.0.0 a-m-s.poco.cn
 :: a-m-s.poco.cn
-0.0.0.0 a-nj.1rx.io
-:: a-nj.1rx.io
 0.0.0.0 a.0day.kiev.ua
 :: a.0day.kiev.ua
 0.0.0.0 a.198banjia.com
@@ -3167,6 +3165,8 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
+0.0.0.0 abusalewm.exceltoner.com
+:: abusalewm.exceltoner.com
 0.0.0.0 ac.ajur.info
 :: ac.ajur.info
 0.0.0.0 ac.atpanel.com
@@ -6013,6 +6013,8 @@
 :: adobe-online-reader-loadin-pdf-fileformat.000webhostapp.com
 0.0.0.0 adobe-online-secured-pdfreader-pdfformat-file.000webhostapp.com
 :: adobe-online-secured-pdfreader-pdfformat-file.000webhostapp.com
+0.0.0.0 adobe.5v.pl
+:: adobe.5v.pl
 0.0.0.0 adobe.com.us.reader.cloud.web.access.securely.asinacabinets.com
 :: adobe.com.us.reader.cloud.web.access.securely.asinacabinets.com
 0.0.0.0 adobe.fisher-realty.org
@@ -10803,8 +10805,6 @@
 :: adservant.mediapoint.de
 0.0.0.0 adserve-east.technologygeeks.com
 :: adserve-east.technologygeeks.com
-0.0.0.0 adserve-nj.1rx.io
-:: adserve-nj.1rx.io
 0.0.0.0 adserve.brandgivewaycentre.com
 :: adserve.brandgivewaycentre.com
 0.0.0.0 adserve.canadawidemagazines.com
@@ -14039,6 +14039,8 @@
 :: analytics.breakingnews.com
 0.0.0.0 analytics.bytefabrik.de
 :: analytics.bytefabrik.de
+0.0.0.0 analytics.ccgateway.net
+:: analytics.ccgateway.net
 0.0.0.0 analytics.ccs.mcafee.com
 :: analytics.ccs.mcafee.com
 0.0.0.0 analytics.cervellio.com
@@ -14153,6 +14155,8 @@
 :: analytics.ladmedia.fr
 0.0.0.0 analytics.leadlifesolutions.net
 :: analytics.leadlifesolutions.net
+0.0.0.0 analytics.levelaccess.net
+:: analytics.levelaccess.net
 0.0.0.0 analytics.liftoff.io
 :: analytics.liftoff.io
 0.0.0.0 analytics.live-panorama.com
@@ -14825,6 +14829,8 @@
 :: api.lazyswipe.com
 0.0.0.0 api.leadbolt.net
 :: api.leadbolt.net
+0.0.0.0 api.levelaccess.net
+:: api.levelaccess.net
 0.0.0.0 api.linkgist.com
 :: api.linkgist.com
 0.0.0.0 api.live.daum.net
@@ -20537,6 +20543,8 @@
 :: cbs.wondershare.com
 0.0.0.0 cbuzoo.comlu.com
 :: cbuzoo.comlu.com
+0.0.0.0 cc-analytics.trafficmanager.net
+:: cc-analytics.trafficmanager.net
 0.0.0.0 cc.dace.hupu.com
 :: cc.dace.hupu.com
 0.0.0.0 cc.gofile.io
@@ -20925,6 +20933,8 @@
 :: cdn.lazymem.com
 0.0.0.0 cdn.lazymic.com
 :: cdn.lazymic.com
+0.0.0.0 cdn.levelaccess.net
+:: cdn.levelaccess.net
 0.0.0.0 cdn.libraries.inpwrd.com
 :: cdn.libraries.inpwrd.com
 0.0.0.0 cdn.liftoff.io
@@ -23641,6 +23651,8 @@
 :: connect.ok.ru
 0.0.0.0 connect.quoka.de
 :: connect.quoka.de
+0.0.0.0 connect.scroll.com
+:: connect.scroll.com
 0.0.0.0 connect.secure.service.insurances.click
 :: connect.secure.service.insurances.click
 0.0.0.0 connect.secure.service.redirects.website
@@ -25959,6 +25971,8 @@
 :: d3hmb5h5qngs7g.cloudfront.net
 0.0.0.0 d3hmp0045zy3cs.cloudfront.net
 :: d3hmp0045zy3cs.cloudfront.net
+0.0.0.0 d3hwh14livah35.cloudfront.net
+:: d3hwh14livah35.cloudfront.net
 0.0.0.0 d3i1asoswufp5k.cloudfront.net
 :: d3i1asoswufp5k.cloudfront.net
 0.0.0.0 d3id4jppiyyek8.cloudfront.net
@@ -26495,6 +26509,8 @@
 :: databank.yoyi.com.cn
 0.0.0.0 datacollect.vmall.com
 :: datacollect.vmall.com
+0.0.0.0 datadog.a.sentry.io
+:: datadog.a.sentry.io
 0.0.0.0 datasmierci01.blogspot.com
 :: datasmierci01.blogspot.com
 0.0.0.0 dataswitch-ads-75496044.us-east-1.elb.amazonaws.com
@@ -27695,8 +27711,6 @@
 :: dmros.ysm.yahoo.com
 0.0.0.0 dmrzwh2nnpd64.cloudfront.net
 :: dmrzwh2nnpd64.cloudfront.net
-0.0.0.0 dms.p.sling.com
-:: dms.p.sling.com
 0.0.0.0 dmtk.linternaute.com
 :: dmtk.linternaute.com
 0.0.0.0 dmtracking.alibaba.com
@@ -27821,6 +27835,8 @@
 :: dog.halfbirthdayproducts.com
 0.0.0.0 dohs95d6tfj19.cloudfront.net
 :: dohs95d6tfj19.cloudfront.net
+0.0.0.0 dojx47ab4dyxi.cloudfront.net
+:: dojx47ab4dyxi.cloudfront.net
 0.0.0.0 doktester.orgfree.com
 :: doktester.orgfree.com
 0.0.0.0 dokzl8xhmt1x7.cloudfront.net
@@ -28831,8 +28847,6 @@
 :: e.ysdangan.com
 0.0.0.0 e.yycqc.com
 :: e.yycqc.com
-0.0.0.0 e.zmlfk.com
-:: e.zmlfk.com
 0.0.0.0 e2.molbuk.ua
 :: e2.molbuk.ua
 0.0.0.0 e2b8u3v8.map2.ssl.hwcdn.net
@@ -33203,6 +33217,8 @@
 :: grafephot.org.za
 0.0.0.0 gram.mfdrums.com
 :: gram.mfdrums.com
+0.0.0.0 gramelis.newyorkmascot.com
+:: gramelis.newyorkmascot.com
 0.0.0.0 grandpa.thebehrs.ca
 :: grandpa.thebehrs.ca
 0.0.0.0 grannypussy.blogspot.com
@@ -33775,8 +33791,6 @@
 :: hdj.baidu.com
 0.0.0.0 hdjhsudhe.kuaizhan.com
 :: hdjhsudhe.kuaizhan.com
-0.0.0.0 hdredirect-lb3-890977680.us-east-1.elb.amazonaws.com
-:: hdredirect-lb3-890977680.us-east-1.elb.amazonaws.com
 0.0.0.0 hdsrc-a.akamaihd.net
 :: hdsrc-a.akamaihd.net
 0.0.0.0 hdv1sk62nn56gtrozwrc.viomil.ro
@@ -34645,6 +34659,8 @@
 :: host.laurita.net
 0.0.0.0 host.torrent21.ru
 :: host.torrent21.ru
+0.0.0.0 host1.5v.pl
+:: host1.5v.pl
 0.0.0.0 host207.ewtn.com
 :: host207.ewtn.com
 0.0.0.0 host238.hostmonster.com
@@ -36499,6 +36515,8 @@
 :: insights.integralads.com
 0.0.0.0 insights.sustainablebrands.com
 :: insights.sustainablebrands.com
+0.0.0.0 insights.vip.aetnd.com
+:: insights.vip.aetnd.com
 0.0.0.0 insightsprod.zelfy.com
 :: insightsprod.zelfy.com
 0.0.0.0 insightxe.pittsburghlive.com
@@ -38375,6 +38393,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -40353,8 +40373,6 @@
 :: m.zeiaa.com
 0.0.0.0 m.zlotysms.pl
 :: m.zlotysms.pl
-0.0.0.0 m.zmlfk.com
-:: m.zmlfk.com
 0.0.0.0 m0-s.san.ru
 :: m0-s.san.ru
 0.0.0.0 m1.51kaowang.com
@@ -43135,6 +43153,8 @@
 :: multi1.realmedia.ch
 0.0.0.0 multi1.rmuk.co.uk
 :: multi1.rmuk.co.uk
+0.0.0.0 multico.5v.pl
+:: multico.5v.pl
 0.0.0.0 multih2h.net16.net
 :: multih2h.net16.net
 0.0.0.0 multiku.netne.net
@@ -43789,6 +43809,8 @@
 :: newprose.bravejournal.com
 0.0.0.0 newrutor.eu.org
 :: newrutor.eu.org
+0.0.0.0 newrutor.org.pl
+:: newrutor.org.pl
 0.0.0.0 news-cmps.cz.cc
 :: news-cmps.cz.cc
 0.0.0.0 news-img.51y5.net
@@ -52113,8 +52135,6 @@
 :: reply2.dciserver.com
 0.0.0.0 report-metrics.essentials3.net
 :: report-metrics.essentials3.net
-0.0.0.0 report-zt.1rx.io
-:: report-zt.1rx.io
 0.0.0.0 report.appmetrica.webvisor.com
 :: report.appmetrica.webvisor.com
 0.0.0.0 report.appmetrica.yandex.net
@@ -52751,6 +52771,8 @@
 :: rum.conde.io
 0.0.0.0 rum.monitis.com
 :: rum.monitis.com
+0.0.0.0 rum.perfops.net
+:: rum.perfops.net
 0.0.0.0 rum.turbobytes.com
 :: rum.turbobytes.com
 0.0.0.0 rumahhufazh.or.id
@@ -56001,6 +56023,8 @@
 :: smblock.s3.amazonaws.com
 0.0.0.0 smetrics.aa.com
 :: smetrics.aa.com
+0.0.0.0 smetrics.aetn.com
+:: smetrics.aetn.com
 0.0.0.0 smetrics.att.com
 :: smetrics.att.com
 0.0.0.0 smetrics.babycenter.com
@@ -56497,8 +56521,6 @@
 :: spwu9iu4.apps.lair.io
 0.0.0.0 spyhunter-download.s3.amazonaws.com
 :: spyhunter-download.s3.amazonaws.com
-0.0.0.0 spykit.110mb.com
-:: spykit.110mb.com
 0.0.0.0 spynet2.microsoft.com
 :: spynet2.microsoft.com
 0.0.0.0 spynetalt.microsoft.com
@@ -57307,6 +57329,8 @@
 :: static.retirementcommunitiesfyi.com
 0.0.0.0 static.salesresourcepartners.com
 :: static.salesresourcepartners.com
+0.0.0.0 static.scroll.com
+:: static.scroll.com
 0.0.0.0 static.smni.com
 :: static.smni.com
 0.0.0.0 static.smsac.net.edgesuite.net
@@ -58749,8 +58773,6 @@
 :: sync-unosync-com.geodns.me
 0.0.0.0 sync.1dmp.io
 :: sync.1dmp.io
-0.0.0.0 sync.1rx.io
-:: sync.1rx.io
 0.0.0.0 sync.apesvr.com
 :: sync.apesvr.com
 0.0.0.0 sync.audsp.com
@@ -59115,8 +59137,6 @@
 :: tag.120ask.com
 0.0.0.0 tag.163.com
 :: tag.163.com
-0.0.0.0 tag.1rx.io
-:: tag.1rx.io
 0.0.0.0 tag.adtrendmedia.net
 :: tag.adtrendmedia.net
 0.0.0.0 tag.aticdn.net
@@ -64523,8 +64543,6 @@
 :: vj0.42422277.com
 0.0.0.0 vjoz.lu.sogou.com
 :: vjoz.lu.sogou.com
-0.0.0.0 vjs.zencdn.net
-:: vjs.zencdn.net
 0.0.0.0 vjstcrdzyfepf.fgppchg.fgpp.com
 :: vjstcrdzyfepf.fgppchg.fgpp.com
 0.0.0.0 vk-19.000webhostapp.com
@@ -69393,6 +69411,8 @@
 :: www.joomlalivechat.com
 0.0.0.0 www.jornalfarroupilha.com.br
 :: www.jornalfarroupilha.com.br
+0.0.0.0 www.jornalocaminho.com.br
+:: www.jornalocaminho.com.br
 0.0.0.0 www.jouwstats.nl
 :: www.jouwstats.nl
 0.0.0.0 www.jowarinzqmiak.download
@@ -70957,6 +70977,8 @@
 :: www.smbscbmc.com
 0.0.0.0 www.smcbscbs.com
 :: www.smcbscbs.com
+0.0.0.0 www.smetrics.aetn.com
+:: www.smetrics.aetn.com
 0.0.0.0 www.smetrics.cnn.com
 :: www.smetrics.cnn.com
 0.0.0.0 www.smfads.com
@@ -71315,6 +71337,8 @@
 :: www.tiergestuetzt.de
 0.0.0.0 www.timefor.com
 :: www.timefor.com
+0.0.0.0 www.timelessimagesmi.com
+:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tings.com
@@ -72055,8 +72079,6 @@
 :: www10.mystats.nl
 0.0.0.0 www11.smutserver.com
 :: www11.smutserver.com
-0.0.0.0 www12.0zz0.com
-:: www12.0zz0.com
 0.0.0.0 www131.mvnvpic.com
 :: www131.mvnvpic.com
 0.0.0.0 www146.lewwwz.com
@@ -72259,8 +72281,6 @@
 :: www7.mystats.nl
 0.0.0.0 www7.ygto.com
 :: www7.ygto.com
-0.0.0.0 www8.0zz0.com
-:: www8.0zz0.com
 0.0.0.0 www8.counter.bloke.com
 :: www8.counter.bloke.com
 0.0.0.0 www8.mystats.nl
@@ -73513,12 +73533,12 @@
 :: zssdxcq.yi.org
 0.0.0.0 zsszestvkl.rev.cl
 :: zsszestvkl.rev.cl
-0.0.0.0 zt.1rx.io
-:: zt.1rx.io
 0.0.0.0 zt.adsage.com
 :: zt.adsage.com
 0.0.0.0 zt.tim-taxi.com
 :: zt.tim-taxi.com
+0.0.0.0 ztag-trackedevents-enterprise-1441845540.us-west-2.elb.amazonaws.com
+:: ztag-trackedevents-enterprise-1441845540.us-west-2.elb.amazonaws.com
 0.0.0.0 ztd.szkdst.com
 :: ztd.szkdst.com
 0.0.0.0 ztrpm.lu.sogou.com
