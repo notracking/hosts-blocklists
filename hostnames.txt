@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Oct 18 05:24:27 CEST 2018
+# Last update: Fri Oct 19 06:29:34 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36768
+# Number of unique hostnames: 36780
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -875,8 +875,6 @@
 :: 40ed922ac7.000webhostapp.com
 0.0.0.0 40hardcore.galleryprogram.com
 :: 40hardcore.galleryprogram.com
-0.0.0.0 41193.flatblastard.com
-:: 41193.flatblastard.com
 0.0.0.0 416c6447656e.000webhostapp.com
 :: 416c6447656e.000webhostapp.com
 0.0.0.0 418e158b80bc0381719c-c51e63b7e27054c59548bc9120302775.r53.cf2.rackcdn.com
@@ -891,6 +889,8 @@
 :: 434bom.wm.warmglow.org
 0.0.0.0 4388e9eiirkklrpp4004-4-erppeee.000webhostapp.com
 :: 4388e9eiirkklrpp4004-4-erppeee.000webhostapp.com
+0.0.0.0 44450.flatblastard.com
+:: 44450.flatblastard.com
 0.0.0.0 445600-deutschland-verbraucher-sicher-nachweis.newsafe-trade.com
 :: 445600-deutschland-verbraucher-sicher-nachweis.newsafe-trade.com
 0.0.0.0 44ce58wv7k.wxxhopn5ch.madpendesign.com.au
@@ -3167,6 +3167,8 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
+0.0.0.0 abusalewm.exceltoner.com
+:: abusalewm.exceltoner.com
 0.0.0.0 ac.ajur.info
 :: ac.ajur.info
 0.0.0.0 ac.atpanel.com
@@ -6031,6 +6033,8 @@
 :: adode.account.ivasistema.com
 0.0.0.0 adonline.e-kolay.net
 :: adonline.e-kolay.net
+0.0.0.0 adops.cbsinteractive.com
+:: adops.cbsinteractive.com
 0.0.0.0 adops.cricbuzz.com
 :: adops.cricbuzz.com
 0.0.0.0 adopt.kutekitten.com
@@ -27533,8 +27537,6 @@
 :: dl.wan.sogoucdn.com
 0.0.0.0 dl.xzqxzs.com
 :: dl.xzqxzs.com
-0.0.0.0 dl.yizhan123.com
-:: dl.yizhan123.com
 0.0.0.0 dl01.fabdmr.com
 :: dl01.fabdmr.com
 0.0.0.0 dl01.faddmr.com
@@ -28895,6 +28897,8 @@
 :: eb.lip.st
 0.0.0.0 eb.prout.be
 :: eb.prout.be
+0.0.0.0 eb.trbas.com
+:: eb.trbas.com
 0.0.0.0 eb0oz2ddwj.bradul.creatory.org
 :: eb0oz2ddwj.bradul.creatory.org
 0.0.0.0 ebanking.juliusbaeronline.com
@@ -33743,6 +33747,8 @@
 :: hdj.baidu.com
 0.0.0.0 hdjhsudhe.kuaizhan.com
 :: hdjhsudhe.kuaizhan.com
+0.0.0.0 hdredirect-lb3-890977680.us-east-1.elb.amazonaws.com
+:: hdredirect-lb3-890977680.us-east-1.elb.amazonaws.com
 0.0.0.0 hdsrc-a.akamaihd.net
 :: hdsrc-a.akamaihd.net
 0.0.0.0 hdv1sk62nn56gtrozwrc.viomil.ro
@@ -38153,6 +38159,8 @@
 :: kn.jzhrty.cn
 0.0.0.0 kn.qqqmdq.com
 :: kn.qqqmdq.com
+0.0.0.0 kn.ylrca.cn
+:: kn.ylrca.cn
 0.0.0.0 kn.zzdahan.com
 :: kn.zzdahan.com
 0.0.0.0 knewline.in.net
@@ -43535,6 +43543,8 @@
 :: ndl1mx1-a-fixed.sancharnet.in
 0.0.0.0 ndl1pp1-a-fixed.sancharnet.in
 :: ndl1pp1-a-fixed.sancharnet.in
+0.0.0.0 ndn-lb-analytics-125540806.us-east-1.elb.amazonaws.com
+:: ndn-lb-analytics-125540806.us-east-1.elb.amazonaws.com
 0.0.0.0 ndnmit.ddns.info
 :: ndnmit.ddns.info
 0.0.0.0 ndy.code.weddingeeos.com
@@ -53259,6 +53269,8 @@
 :: sa2.ipon.lt
 0.0.0.0 sa3.tuisong.baidu.com
 :: sa3.tuisong.baidu.com
+0.0.0.0 saa.cbsi.com
+:: saa.cbsi.com
 0.0.0.0 saaaaf.goranjakovljevic.com
 :: saaaaf.goranjakovljevic.com
 0.0.0.0 saad.deze7.com.br
@@ -55835,6 +55847,8 @@
 :: sjboc.dreamhosters.com
 0.0.0.0 sjfbb.areteenergy.info
 :: sjfbb.areteenergy.info
+0.0.0.0 sjs.jcshouhui.com
+:: sjs.jcshouhui.com
 0.0.0.0 sk.connect2.ws
 :: sk.connect2.ws
 0.0.0.0 sk.golden-praga.ru
@@ -60977,6 +60991,8 @@
 :: track.spiceworks.com
 0.0.0.0 track.spots.im
 :: track.spots.im
+0.0.0.0 track.sr.roku.com
+:: track.sr.roku.com
 0.0.0.0 track.statesend.co.in
 :: track.statesend.co.in
 0.0.0.0 track.strife.com
@@ -68335,6 +68351,8 @@
 :: www.easycounter.com
 0.0.0.0 www.easyyoutubemarketing.com
 :: www.easyyoutubemarketing.com
+0.0.0.0 www.eb.trbas.com
+:: www.eb.trbas.com
 0.0.0.0 www.ebannertraffic.com
 :: www.ebannertraffic.com
 0.0.0.0 www.ebaybanner.com
@@ -69255,6 +69273,8 @@
 :: www.ipnwombonefish.review
 0.0.0.0 www.iqapps.in
 :: www.iqapps.in
+0.0.0.0 www.iqhbyacfnea.com
+:: www.iqhbyacfnea.com
 0.0.0.0 www.iranwebads.com
 :: www.iranwebads.com
 0.0.0.0 www.isaleapp.com
@@ -69647,6 +69667,8 @@
 :: www.lnktime.com
 0.0.0.0 www.loansbadcredit.net.au
 :: www.loansbadcredit.net.au
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.loggerx.com
 :: www.loggerx.com
 0.0.0.0 www.logging.to
@@ -71271,6 +71293,8 @@
 :: www.tiergestuetzt.de
 0.0.0.0 www.timefor.com
 :: www.timefor.com
+0.0.0.0 www.timelessimagesmi.com
+:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tings.com
