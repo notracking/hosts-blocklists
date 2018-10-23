@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Oct 22 05:17:00 CEST 2018
+# Last update: Tue Oct 23 05:21:02 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36699
+# Number of unique hostnames: 36715
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -1943,8 +1943,6 @@
 :: 53ertt555.from-mn.com
 0.0.0.0 540591--nutzung-angabe-validierung.sicherheitshilfe-schutz.gq
 :: 540591--nutzung-angabe-validierung.sicherheitshilfe-schutz.gq
-0.0.0.0 54239.flatblastard.com
-:: 54239.flatblastard.com
 0.0.0.0 542446d.000webhostapp.com
 :: 542446d.000webhostapp.com
 0.0.0.0 54321.zz.am
@@ -1961,6 +1959,8 @@
 :: 570748-deutschland-verbraucher-mitteilung-validierung.sicherheitshilfe-schutz.ml
 0.0.0.0 5711020660006.sci.dusit.ac.th
 :: 5711020660006.sci.dusit.ac.th
+0.0.0.0 57515.flatblastard.com
+:: 57515.flatblastard.com
 0.0.0.0 57ab1.alarmandburglarsystems.com.au
 :: 57ab1.alarmandburglarsystems.com.au
 0.0.0.0 588222-germany-nutzung-mitteilung-nachweis.sicherheitssystem-sicherheitshilfe.gq
@@ -2405,6 +2405,8 @@
 :: a.androidandme.com
 0.0.0.0 a.answers.com
 :: a.answers.com
+0.0.0.0 a.appbaqend.com
+:: a.appbaqend.com
 0.0.0.0 a.appcpa.net
 :: a.appcpa.net
 0.0.0.0 a.appjiagu.com
@@ -14769,8 +14771,6 @@
 :: api.eqmob.com
 0.0.0.0 api.exc.mob.com
 :: api.exc.mob.com
-0.0.0.0 api.facebook.com
-:: api.facebook.com
 0.0.0.0 api.fast.com
 :: api.fast.com
 0.0.0.0 api.fixer.io
@@ -14795,6 +14795,10 @@
 :: api.gimbal.com
 0.0.0.0 api.goulegu.com
 :: api.goulegu.com
+0.0.0.0 api.growthbeat.com
+:: api.growthbeat.com
+0.0.0.0 api.growthpush.com
+:: api.growthpush.com
 0.0.0.0 api.hostip.info
 :: api.hostip.info
 0.0.0.0 api.hybrid.intl.xiaomi.com
@@ -14899,6 +14903,8 @@
 :: api.shuzilm.cn
 0.0.0.0 api.simpleanalytics.io
 :: api.simpleanalytics.io
+0.0.0.0 api.smbeat.jp
+:: api.smbeat.jp
 0.0.0.0 api.so.lianmeng.360.cn
 :: api.so.lianmeng.360.cn
 0.0.0.0 api.south.kontagent.net
@@ -16367,8 +16373,6 @@
 :: azoos.csheaven.com
 0.0.0.0 azz.badazz.org
 :: azz.badazz.org
-0.0.0.0 b-api.facebook.com
-:: b-api.facebook.com
 0.0.0.0 b-aws.aol.com
 :: b-aws.aol.com
 0.0.0.0 b-aws.huffingtonpost.com
@@ -16979,6 +16983,8 @@
 :: banner.betwwts.com
 0.0.0.0 banner.blogranking.net
 :: banner.blogranking.net
+0.0.0.0 banner.boostbox.com.br
+:: banner.boostbox.com.br
 0.0.0.0 banner.bpaserver.net
 :: banner.bpaserver.net
 0.0.0.0 banner.buempliz-online.ch
@@ -23701,6 +23707,8 @@
 :: contributor.google.com
 0.0.0.0 control.cityofcairns.com
 :: control.cityofcairns.com
+0.0.0.0 control.smbeat.jp
+:: control.smbeat.jp
 0.0.0.0 controlroom.netmining.com
 :: controlroom.netmining.com
 0.0.0.0 conv.youdao.com
@@ -24395,6 +24403,8 @@
 :: createyourfuture.org.uk
 0.0.0.0 creational-nouns.000webhostapp.com
 :: creational-nouns.000webhostapp.com
+0.0.0.0 creative-cdn.appgrowth.com
+:: creative-cdn.appgrowth.com
 0.0.0.0 creative.abestservers.com
 :: creative.abestservers.com
 0.0.0.0 creative.ad121m.com
@@ -28989,6 +28999,8 @@
 :: ecollections.anexcdelventhal.com
 0.0.0.0 ecomcbjs.jomodns.com
 :: ecomcbjs.jomodns.com
+0.0.0.0 ecommerce.iap.unity3d.com
+:: ecommerce.iap.unity3d.com
 0.0.0.0 ecommstats.s3.amazonaws.com
 :: ecommstats.s3.amazonaws.com
 0.0.0.0 econda.web.de
@@ -33679,6 +33691,8 @@
 :: hdj.baidu.com
 0.0.0.0 hdjhsudhe.kuaizhan.com
 :: hdjhsudhe.kuaizhan.com
+0.0.0.0 hdredirect-lb3-890977680.us-east-1.elb.amazonaws.com
+:: hdredirect-lb3-890977680.us-east-1.elb.amazonaws.com
 0.0.0.0 hdsrc-a.akamaihd.net
 :: hdsrc-a.akamaihd.net
 0.0.0.0 hdv1sk62nn56gtrozwrc.viomil.ro
@@ -37151,8 +37165,6 @@
 :: jinshui2018.chalook.net
 0.0.0.0 jira.face2trade.com
 :: jira.face2trade.com
-0.0.0.0 jita.rtk.io
-:: jita.rtk.io
 0.0.0.0 jixguzfaxdajzhhasiqd.ahdaaf.org
 :: jixguzfaxdajzhhasiqd.ahdaaf.org
 0.0.0.0 jj.2hew7rtu.ru
@@ -42291,8 +42303,6 @@
 :: minerva.healthcentral.com
 0.0.0.0 minfo.wps.cn
 :: minfo.wps.cn
-0.0.0.0 mingle.kijiji.ca
-:: mingle.kijiji.ca
 0.0.0.0 mini.activeshopper.com
 :: mini.activeshopper.com
 0.0.0.0 mini.cpc.sogou.com
@@ -44497,6 +44507,8 @@
 :: o.swisscom.ch
 0.0.0.0 o.web-pr8swork134.compact.view-scr.f-use-dbx.talrak.co.in
 :: o.web-pr8swork134.compact.view-scr.f-use-dbx.talrak.co.in
+0.0.0.0 o.webmd.com
+:: o.webmd.com
 0.0.0.0 o.xbox.com
 :: o.xbox.com
 0.0.0.0 o.yieldsquare.com
@@ -45527,6 +45539,8 @@
 :: one.schuetttransport.com
 0.0.0.0 one.teleskip.org
 :: one.teleskip.org
+0.0.0.0 onecollector.cloudapp.aria.akadns.net
+:: onecollector.cloudapp.aria.akadns.net
 0.0.0.0 onedrive-collection.device.mobileengagement.windows.net
 :: onedrive-collection.device.mobileengagement.windows.net
 0.0.0.0 onedrive.shalomsingles.co.ke
@@ -48469,6 +48483,8 @@
 :: pingwin.net.ua
 0.0.0.0 pink.habralab.ru
 :: pink.habralab.ru
+0.0.0.0 pinkaanalytics.eu-2.evennode.com
+:: pinkaanalytics.eu-2.evennode.com
 0.0.0.0 pio.polytopesexempt.com
 :: pio.polytopesexempt.com
 0.0.0.0 pioaltkirch.bloxode.com
@@ -48521,6 +48537,8 @@
 :: piwik.eensitevooruwbedrijf.nl
 0.0.0.0 piwik.expandonline.nl
 :: piwik.expandonline.nl
+0.0.0.0 piwik.fobos.de
+:: piwik.fobos.de
 0.0.0.0 piwik.freewebsitetemplates.com
 :: piwik.freewebsitetemplates.com
 0.0.0.0 piwik.freifunk.net
@@ -54729,6 +54747,8 @@
 :: sentia.mite.ac.in
 0.0.0.0 sentrix.wltechnology.com
 :: sentrix.wltechnology.com
+0.0.0.0 sentry-web-lb-160711358.us-east-1.elb.amazonaws.com
+:: sentry-web-lb-160711358.us-east-1.elb.amazonaws.com
 0.0.0.0 seo.orima.tw
 :: seo.orima.tw
 0.0.0.0 seo.wetalkseo.nl
@@ -55683,6 +55703,8 @@
 :: site.johnlewis.com
 0.0.0.0 site2.criaderoeleclipse.co
 :: site2.criaderoeleclipse.co
+0.0.0.0 siteadvisor.com-br.site
+:: siteadvisor.com-br.site
 0.0.0.0 sitebrand.geeks.com
 :: sitebrand.geeks.com
 0.0.0.0 sitegovernanceinc.000webhostapp.com
@@ -55897,6 +55919,8 @@
 :: smetrics.bestbuy.com
 0.0.0.0 smetrics.blackberry.com
 :: smetrics.blackberry.com
+0.0.0.0 smetrics.boston.com
+:: smetrics.boston.com
 0.0.0.0 smetrics.capitalone.com
 :: smetrics.capitalone.com
 0.0.0.0 smetrics.cnn.com
@@ -56559,6 +56583,8 @@
 :: ssl.istore-recheckbill-idwmid4658944.topslearningsystem.org
 0.0.0.0 ssl.login.skype.com.gohiding.com
 :: ssl.login.skype.com.gohiding.com
+0.0.0.0 ssl.o.webmd.com
+:: ssl.o.webmd.com
 0.0.0.0 ssl.safepoollink.com
 :: ssl.safepoollink.com
 0.0.0.0 ssl.sinergycosmetics.com
@@ -57151,8 +57177,6 @@
 :: static.live.nagezan.net
 0.0.0.0 static.live2delivery.com
 :: static.live2delivery.com
-0.0.0.0 static.loboclick.com
-:: static.loboclick.com
 0.0.0.0 static.lstat.youku.com
 :: static.lstat.youku.com
 0.0.0.0 static.m.sjzhushou.com
@@ -58431,6 +58455,8 @@
 :: survey.medallia.com
 0.0.0.0 survey.monitor.cz
 :: survey.monitor.cz
+0.0.0.0 survey.o.webmd.com
+:: survey.o.webmd.com
 0.0.0.0 survey.proactive.nl
 :: survey.proactive.nl
 0.0.0.0 survey.watson.microsoft.com
@@ -58651,8 +58677,6 @@
 :: sync.pulseradius.com
 0.0.0.0 sync.rambler.ru
 :: sync.rambler.ru
-0.0.0.0 sync.rtk.io
-:: sync.rtk.io
 0.0.0.0 sync.teamrtb.net
 :: sync.teamrtb.net
 0.0.0.0 sync.ttlbd.net
@@ -59781,8 +59805,6 @@
 :: thomasparisi003.000webhostapp.com
 0.0.0.0 thor.blindferret.media
 :: thor.blindferret.media
-0.0.0.0 thor.rtk.io
-:: thor.rtk.io
 0.0.0.0 thpqvpken.fgppchg.fgpp.com
 :: thpqvpken.fgppchg.fgpp.com
 0.0.0.0 threats.nwpc.safecart.com
@@ -62517,6 +62539,8 @@
 :: ulic.baidu.com
 0.0.0.0 ulka-gallery.yoyo.pl
 :: ulka-gallery.yoyo.pl
+0.0.0.0 ulogs.umengcloud.com
+:: ulogs.umengcloud.com
 0.0.0.0 ultra.infoart.ru
 :: ultra.infoart.ru
 0.0.0.0 ultra1.socomm.net
@@ -63321,6 +63345,8 @@
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
 :: urlserverappstoreca.selfip.com
+0.0.0.0 us-central1-eyewind-ads.cloudfunctions.net
+:: us-central1-eyewind-ads.cloudfunctions.net
 0.0.0.0 us-east-1.dc.ads.linkedin.com
 :: us-east-1.dc.ads.linkedin.com
 0.0.0.0 us-east-1.profile-api.ads.linkedin.com
@@ -63797,6 +63823,10 @@
 :: v2.stat.ku6.com
 0.0.0.0 v2.urlads.net
 :: v2.urlads.net
+0.0.0.0 v20.events.data.microsoft.com
+:: v20.events.data.microsoft.com
+0.0.0.0 v20.vortex-win.data.microsoft.com
+:: v20.vortex-win.data.microsoft.com
 0.0.0.0 v2html.atm.youku.com
 :: v2html.atm.youku.com
 0.0.0.0 v3.come.to
@@ -67363,6 +67393,8 @@
 :: www.apple-xid.com
 0.0.0.0 www.apple.com-clean-macbook.live
 :: www.apple.com-clean-macbook.live
+0.0.0.0 www.apple.com-speed-macbook.live
+:: www.apple.com-speed-macbook.live
 0.0.0.0 www.appleid-iphonetore.com
 :: www.appleid-iphonetore.com
 0.0.0.0 www.appleidinfo.net
@@ -68921,6 +68953,8 @@
 :: www.homeoffun.com
 0.0.0.0 www.homepageware.com
 :: www.homepageware.com
+0.0.0.0 www.honcode.ch
+:: www.honcode.ch
 0.0.0.0 www.hostadserver.com
 :: www.hostadserver.com
 0.0.0.0 www.hostal3soles.com
@@ -69533,8 +69567,6 @@
 :: www.litra.com.mk
 0.0.0.0 www.little-help.com
 :: www.little-help.com
-0.0.0.0 www.little-moon-aussies.com
-:: www.little-moon-aussies.com
 0.0.0.0 www.littledevildoubt.com
 :: www.littledevildoubt.com
 0.0.0.0 www.live.4480.org
@@ -70673,8 +70705,6 @@
 :: www.schwule-boys-nackt.cxa.de
 0.0.0.0 www.scotiaonline.scotiabank.salferreras.com
 :: www.scotiaonline.scotiabank.salferreras.com
-0.0.0.0 www.sdfbd.org
-:: www.sdfbd.org
 0.0.0.0 www.sdlpgift.com
 :: www.sdlpgift.com
 0.0.0.0 www.sea1.cdn.survey.medallia.com
@@ -72179,6 +72209,8 @@
 :: x.about.com
 0.0.0.0 x.adpro.cn
 :: x.adpro.cn
+0.0.0.0 x.appbaqend.com
+:: x.appbaqend.com
 0.0.0.0 x.bikaer.com
 :: x.bikaer.com
 0.0.0.0 x.bloggurat.net
