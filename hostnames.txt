@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Oct 26 06:30:59 CEST 2018
+# Last update: Sat Oct 27 05:15:15 CEST 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36720
+# Number of unique hostnames: 36717
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -739,8 +739,6 @@
 :: 380.hotpix.fr
 0.0.0.0 385223-deutschland-gast-mitteilung-account.service-paypal-info.ml
 :: 385223-deutschland-gast-mitteilung-account.service-paypal-info.ml
-0.0.0.0 39073.flatblastard.com
-:: 39073.flatblastard.com
 0.0.0.0 3a5xghpiqvcgkushdv0p.businessrulesanalysis.com
 :: 3a5xghpiqvcgkushdv0p.businessrulesanalysis.com
 0.0.0.0 3b7tkkfdaa9p95dks9y3.glamxpress.co.uk
@@ -879,6 +877,8 @@
 :: 41907.gwtoys.cn
 0.0.0.0 4225.zhuolingxiu.com
 :: 4225.zhuolingxiu.com
+0.0.0.0 42350.flatblastard.com
+:: 42350.flatblastard.com
 0.0.0.0 433348--gast-angabe-account.vorkehrung-sicherheitssystem.ml
 :: 433348--gast-angabe-account.vorkehrung-sicherheitssystem.ml
 0.0.0.0 434bom.wm.warmglow.org
@@ -20679,8 +20679,6 @@
 :: cdn.assets.craveonline.com
 0.0.0.0 cdn.atlassbx.com
 :: cdn.atlassbx.com
-0.0.0.0 cdn.auth0.com
-:: cdn.auth0.com
 0.0.0.0 cdn.avmws.com
 :: cdn.avmws.com
 0.0.0.0 cdn.banner.thumbplay.com
@@ -21203,6 +21201,8 @@
 :: cdns.lodeo.io
 0.0.0.0 cdns3.fractionalmedia.com
 :: cdns3.fractionalmedia.com
+0.0.0.0 cdnstatic.detik.com
+:: cdnstatic.detik.com
 0.0.0.0 cdnstats-a.akamaihd.net
 :: cdnstats-a.akamaihd.net
 0.0.0.0 cdnt.meteorsolutions.com
@@ -27409,6 +27409,8 @@
 :: djwf0dl2q9i99.cloudfront.net
 0.0.0.0 djxmmh.xinhua800.cn
 :: djxmmh.xinhua800.cn
+0.0.0.0 djz9es32qen64.cloudfront.net
+:: djz9es32qen64.cloudfront.net
 0.0.0.0 dk2mvwe4uw0z3.cloudfront.net
 :: dk2mvwe4uw0z3.cloudfront.net
 0.0.0.0 dk45agakx3yfl.cloudfront.net
@@ -28731,8 +28733,6 @@
 :: e.mrsasharingspace.com
 0.0.0.0 e.mrtuo.com
 :: e.mrtuo.com
-0.0.0.0 e.mwjpk.com
-:: e.mwjpk.com
 0.0.0.0 e.nejup.com
 :: e.nejup.com
 0.0.0.0 e.ofuda.cc
@@ -33621,6 +33621,10 @@
 :: hb-redlink-com-ar.servicesar.com
 0.0.0.0 hb.afl.rakuten.co.jp
 :: hb.afl.rakuten.co.jp
+0.0.0.0 hb.gammaplatform.com
+:: hb.gammaplatform.com
+0.0.0.0 hb.kumma.com
+:: hb.kumma.com
 0.0.0.0 hbads.eboz.com
 :: hbads.eboz.com
 0.0.0.0 hbadz.eboz.com
@@ -33649,8 +33653,6 @@
 :: hc.baidu.com
 0.0.0.0 hc.uralweb.ru
 :: hc.uralweb.ru
-0.0.0.0 hc2izgmnmnqs.lwfjd.today
-:: hc2izgmnmnqs.lwfjd.today
 0.0.0.0 hcjtt6.best.pershoretaxis.co.uk
 :: hcjtt6.best.pershoretaxis.co.uk
 0.0.0.0 hclfinance.000webhostapp.com
@@ -33683,8 +33685,6 @@
 :: hdj.baidu.com
 0.0.0.0 hdjhsudhe.kuaizhan.com
 :: hdjhsudhe.kuaizhan.com
-0.0.0.0 hdredirect-lb3-890977680.us-east-1.elb.amazonaws.com
-:: hdredirect-lb3-890977680.us-east-1.elb.amazonaws.com
 0.0.0.0 hdsrc-a.akamaihd.net
 :: hdsrc-a.akamaihd.net
 0.0.0.0 hdv1sk62nn56gtrozwrc.viomil.ro
@@ -40137,8 +40137,6 @@
 :: m.mtuoa.com
 0.0.0.0 m.mushizhubao.com
 :: m.mushizhubao.com
-0.0.0.0 m.mwjpk.com
-:: m.mwjpk.com
 0.0.0.0 m.mxguan.com
 :: m.mxguan.com
 0.0.0.0 m.nejup.com
@@ -43685,6 +43683,8 @@
 :: newpictures.com.dropdocs.org
 0.0.0.0 newprose.bravejournal.com
 :: newprose.bravejournal.com
+0.0.0.0 newrevive.detik.com
+:: newrevive.detik.com
 0.0.0.0 newrutor.eu.org
 :: newrutor.eu.org
 0.0.0.0 newrutor.org.pl
@@ -49621,6 +49621,8 @@
 :: pranking12.ziyu.net
 0.0.0.0 prcappzone.intel.com
 :: prcappzone.intel.com
+0.0.0.0 prebid.adnxs.co
+:: prebid.adnxs.co
 0.0.0.0 prebid.appnexusgslb.net
 :: prebid.appnexusgslb.net
 0.0.0.0 prefer.gutterhelment.com
@@ -63337,8 +63339,6 @@
 :: url.adtrgt.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
-0.0.0.0 urladyms.newlogiq.com
-:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -64955,8 +64955,6 @@
 :: w.goprkcdn.com
 0.0.0.0 w.homes.yahoo.net
 :: w.homes.yahoo.net
-0.0.0.0 w.hypercomments.com
-:: w.hypercomments.com
 0.0.0.0 w.l.qq.com
 :: w.l.qq.com
 0.0.0.0 w.m.taobao.com
@@ -68491,8 +68489,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
@@ -68705,8 +68701,6 @@
 :: www.gcmadvertising.com
 0.0.0.0 www.gcs1.cn
 :: www.gcs1.cn
-0.0.0.0 www.gdgy56.com
-:: www.gdgy56.com
 0.0.0.0 www.gelios.msk.ru
 :: www.gelios.msk.ru
 0.0.0.0 www.genericstrattera.com
@@ -68831,8 +68825,6 @@
 :: www.grumman.pl
 0.0.0.0 www.gryjava.gsm.pl
 :: www.gryjava.gsm.pl
-0.0.0.0 www.gswsftp01.com
-:: www.gswsftp01.com
 0.0.0.0 www.gt4ec.net
 :: www.gt4ec.net
 0.0.0.0 www.guesstheview.com
@@ -68859,6 +68851,8 @@
 :: www.hardwareplanet.com
 0.0.0.0 www.hausnet.ru
 :: www.hausnet.ru
+0.0.0.0 www.hb.kumma.com
+:: www.hb.kumma.com
 0.0.0.0 www.hdhkwl.com
 :: www.hdhkwl.com
 0.0.0.0 www.healthyaltprods.com
@@ -69571,8 +69565,6 @@
 :: www.litra.com.mk
 0.0.0.0 www.little-help.com
 :: www.little-help.com
-0.0.0.0 www.little-moon-aussies.com
-:: www.little-moon-aussies.com
 0.0.0.0 www.littledevildoubt.com
 :: www.littledevildoubt.com
 0.0.0.0 www.live.4480.org
@@ -69589,6 +69581,8 @@
 :: www.lnktime.com
 0.0.0.0 www.loansbadcredit.net.au
 :: www.loansbadcredit.net.au
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.loggerx.com
 :: www.loggerx.com
 0.0.0.0 www.logging.to
