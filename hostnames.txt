@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Oct 28 04:15:42 CET 2018
+# Last update: Mon Oct 29 05:16:39 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36686
+# Number of unique hostnames: 36684
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -887,8 +887,6 @@
 :: 445600-deutschland-verbraucher-sicher-nachweis.newsafe-trade.com
 0.0.0.0 44ce58wv7k.wxxhopn5ch.madpendesign.com.au
 :: 44ce58wv7k.wxxhopn5ch.madpendesign.com.au
-0.0.0.0 45626.flatblastard.com
-:: 45626.flatblastard.com
 0.0.0.0 461073-deu-gast-sicherheit-benutzer.sicherheitshilfe-sicherheitssystem.cf
 :: 461073-deu-gast-sicherheit-benutzer.sicherheitshilfe-sicherheitssystem.cf
 0.0.0.0 465663-deutschland-nutzung-sicher-benutzer.sicher-vorbeugung.tk
@@ -899,6 +897,8 @@
 :: 470032-de-gast-sicher-validierung.trade-verification-lite.com
 0.0.0.0 48.2mydns.net
 :: 48.2mydns.net
+0.0.0.0 48898.flatblastard.com
+:: 48898.flatblastard.com
 0.0.0.0 496812--gast-sicher-account.vorkehrung-sicherheitssystem.ml
 :: 496812--gast-sicher-account.vorkehrung-sicherheitssystem.ml
 0.0.0.0 4bf27o.wm.warmglow.org
@@ -2959,8 +2959,6 @@
 :: a6s.1cakeclub.com
 0.0.0.0 a6s.modoupai.com
 :: a6s.modoupai.com
-0.0.0.0 a6s.ve001nz.com
-:: a6s.ve001nz.com
 0.0.0.0 a6shd.realshieldlinked.com
 :: a6shd.realshieldlinked.com
 0.0.0.0 a7.suntimes.com
@@ -3163,8 +3161,6 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
-0.0.0.0 abusalewm.exceltoner.com
-:: abusalewm.exceltoner.com
 0.0.0.0 ac.ajur.info
 :: ac.ajur.info
 0.0.0.0 ac.atpanel.com
@@ -28305,6 +28301,8 @@
 :: dsh7ky7308k4b.cloudfront.net
 0.0.0.0 dshjsdhjdsjhdsuydsy6dsuy.000webhostapp.com
 :: dshjsdhjdsjhdsuydsy6dsuy.000webhostapp.com
+0.0.0.0 dsie7h4lo9wxu.cloudfront.net
+:: dsie7h4lo9wxu.cloudfront.net
 0.0.0.0 dsknso.abadsupermarket.com
 :: dsknso.abadsupermarket.com
 0.0.0.0 dsms0mj1bbhn4.cloudfront.net
@@ -33653,6 +33651,8 @@
 :: hdj.baidu.com
 0.0.0.0 hdjhsudhe.kuaizhan.com
 :: hdjhsudhe.kuaizhan.com
+0.0.0.0 hdredirect-lb3-890977680.us-east-1.elb.amazonaws.com
+:: hdredirect-lb3-890977680.us-east-1.elb.amazonaws.com
 0.0.0.0 hdsrc-a.akamaihd.net
 :: hdsrc-a.akamaihd.net
 0.0.0.0 hdv1sk62nn56gtrozwrc.viomil.ro
@@ -38267,8 +38267,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -45471,8 +45469,6 @@
 :: one-jj.github.io
 0.0.0.0 one.123counters.com
 :: one.123counters.com
-0.0.0.0 one.88dus.com
-:: one.88dus.com
 0.0.0.0 one.azsportsent.info
 :: one.azsportsent.info
 0.0.0.0 one.buson.in
@@ -59035,8 +59031,6 @@
 :: tahit.wastech2016.in
 0.0.0.0 tajs.qq.com
 :: tajs.qq.com
-0.0.0.0 takataka.coccoc.com
-:: takataka.coccoc.com
 0.0.0.0 take.virtualheromessages.com
 :: take.virtualheromessages.com
 0.0.0.0 take5.real.com
@@ -59483,8 +59477,6 @@
 :: tentsf05luxfig.rr.nu
 0.0.0.0 ter2018.000webhostapp.com
 :: ter2018.000webhostapp.com
-0.0.0.0 terabuild.sevencolours.eu
-:: terabuild.sevencolours.eu
 0.0.0.0 terassss.000webhostapp.com
 :: terassss.000webhostapp.com
 0.0.0.0 teredo.ipv6.microsoft.com
@@ -71117,8 +71109,6 @@
 :: www.tiergestuetzt.de
 0.0.0.0 www.timefor.com
 :: www.timefor.com
-0.0.0.0 www.timelessimagesmi.com
-:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tings.com
@@ -71897,6 +71887,12 @@
 :: www2.savedealoriginalaflash.icu
 0.0.0.0 www2.sellhealth.com
 :: www2.sellhealth.com
+0.0.0.0 www2.setdealoriginalaflash.icu
+:: www2.setdealoriginalaflash.icu
+0.0.0.0 www2.settypesoftaflash.icu
+:: www2.settypesoftaflash.icu
+0.0.0.0 www2.smallconcretetypeflash.world
+:: www2.smallconcretetypeflash.world
 0.0.0.0 www2.smallregularbestflash.club
 :: www2.smallregularbestflash.club
 0.0.0.0 www2.smalltypeconcreteflash.rocks
