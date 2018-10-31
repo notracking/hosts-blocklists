@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Oct 30 05:20:53 CET 2018
+# Last update: Wed Oct 31 05:24:56 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36647
+# Number of unique hostnames: 36650
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -1245,8 +1245,6 @@
 :: 51friend.anytome.com
 0.0.0.0 521073--verbraucher-mitteilung-account.sicher-vorbeugung.tk
 :: 521073--verbraucher-mitteilung-account.sicher-vorbeugung.tk
-0.0.0.0 52167.flatblastard.com
-:: 52167.flatblastard.com
 0.0.0.0 521686-de-verbraucher-kenntnis-benutzer.sicherheitsabwehr-hilfeservice-sicherheitshilfe.tk
 :: 521686-de-verbraucher-kenntnis-benutzer.sicherheitsabwehr-hilfeservice-sicherheitshilfe.tk
 0.0.0.0 526633146.redpop.pro
@@ -1945,6 +1943,8 @@
 :: 54321.zz.am
 0.0.0.0 55.2myip.com
 :: 55.2myip.com
+0.0.0.0 55444.flatblastard.com
+:: 55444.flatblastard.com
 0.0.0.0 5555c0e19278c10ce23e-e43b9b9293b141a8c68c3bbff03519a0.r36.cf2.rackcdn.com
 :: 5555c0e19278c10ce23e-e43b9b9293b141a8c68c3bbff03519a0.r36.cf2.rackcdn.com
 0.0.0.0 555gm44.spwoilseal.com
@@ -13335,6 +13335,8 @@
 :: aircraft.evote.cl
 0.0.0.0 airdropboxfile.carlaalegre.com
 :: airdropboxfile.carlaalegre.com
+0.0.0.0 airfind.nmv21jjpsr4e4kyh1t.netdna-cdn.com
+:: airfind.nmv21jjpsr4e4kyh1t.netdna-cdn.com
 0.0.0.0 airfoundation.org.pk
 :: airfoundation.org.pk
 0.0.0.0 airline-ticket.gloses.net
@@ -17925,8 +17927,6 @@
 :: basic-check.disconnect.me
 0.0.0.0 basicinfo-logsnotifregist.000webhostapp.com
 :: basicinfo-logsnotifregist.000webhostapp.com
-0.0.0.0 bat-bing-com.a-0001.a-msedge.net
-:: bat-bing-com.a-0001.a-msedge.net
 0.0.0.0 bat.adforum.com
 :: bat.adforum.com
 0.0.0.0 bat.bing-int.com
@@ -33097,8 +33097,6 @@
 :: grafephot.org.za
 0.0.0.0 gram.mfdrums.com
 :: gram.mfdrums.com
-0.0.0.0 gramelis.newyorkmascot.com
-:: gramelis.newyorkmascot.com
 0.0.0.0 grandpa.thebehrs.ca
 :: grandpa.thebehrs.ca
 0.0.0.0 grannypussy.blogspot.com
@@ -33361,6 +33359,8 @@
 :: h.spill.com
 0.0.0.0 h.txt2017.com
 :: h.txt2017.com
+0.0.0.0 h0.hucdn.com
+:: h0.hucdn.com
 0.0.0.0 h01.hxsame.hexun.com
 :: h01.hxsame.hexun.com
 0.0.0.0 h02.hxsame.hexun.com
@@ -39881,6 +39881,8 @@
 :: m.adtc.daum.net
 0.0.0.0 m.adx.bg
 :: m.adx.bg
+0.0.0.0 m.ajiuc.com
+:: m.ajiuc.com
 0.0.0.0 m.ajxqiongbg.com
 :: m.ajxqiongbg.com
 0.0.0.0 m.analytics.126.net
@@ -39915,6 +39917,8 @@
 :: m.banner.t-online.de
 0.0.0.0 m.beacon.sina.com.cn
 :: m.beacon.sina.com.cn
+0.0.0.0 m.beidian.com
+:: m.beidian.com
 0.0.0.0 m.benaughty.com
 :: m.benaughty.com
 0.0.0.0 m.biquge5200.cc
@@ -40021,6 +40025,8 @@
 :: m.gujinyue.com
 0.0.0.0 m.haowj.com.cn
 :: m.haowj.com.cn
+0.0.0.0 m.hchag.com
+:: m.hchag.com
 0.0.0.0 m.hhllyt.com
 :: m.hhllyt.com
 0.0.0.0 m.hot-mob.com
@@ -49681,6 +49687,8 @@
 :: prod.spotify.map.fastlylb.net
 0.0.0.0 prod.telemetry.ros.rockstargames.com
 :: prod.telemetry.ros.rockstargames.com
+0.0.0.0 prod.turner-tls.map.fastly.net
+:: prod.turner-tls.map.fastly.net
 0.0.0.0 prod01-piwik.firstlook.org
 :: prod01-piwik.firstlook.org
 0.0.0.0 production-adserver-666328397.us-east-1.elb.amazonaws.com
@@ -51165,8 +51173,6 @@
 :: razorweb-a.akamaihd.net
 0.0.0.0 rb.burstway.com
 :: rb.burstway.com
-0.0.0.0 rb.infox.sg
-:: rb.infox.sg
 0.0.0.0 rb.kleo.ru
 :: rb.kleo.ru
 0.0.0.0 rb.newsru.com
@@ -60013,6 +60019,8 @@
 :: topbarh.box.sk
 0.0.0.0 topbinaryaffiliates.ck-cdn.com
 :: topbinaryaffiliates.ck-cdn.com
+0.0.0.0 topblock.lentainform.com
+:: topblock.lentainform.com
 0.0.0.0 toplist.deluxestream.info
 :: toplist.deluxestream.info
 0.0.0.0 toplist.pornhost.com
@@ -62025,6 +62033,8 @@
 :: tula.mdverey.ru
 0.0.0.0 tunion-api.m.taobao.com
 :: tunion-api.m.taobao.com
+0.0.0.0 turner-tls.map.fastly.net
+:: turner-tls.map.fastly.net
 0.0.0.0 turniejkrzyz.za.pl
 :: turniejkrzyz.za.pl
 0.0.0.0 turnsocial.now.sh
@@ -67473,6 +67483,8 @@
 :: www.bimm.in
 0.0.0.0 www.binarysystem4u.com
 :: www.binarysystem4u.com
+0.0.0.0 www.bingads.microsoft.com
+:: www.bingads.microsoft.com
 0.0.0.0 www.bitlocker.net
 :: www.bitlocker.net
 0.0.0.0 www.bitsfarmclean.com
@@ -68957,8 +68969,6 @@
 :: www.ilgm-deals.com
 0.0.0.0 www.ilkhaberadana.com
 :: www.ilkhaberadana.com
-0.0.0.0 www.ilmatrimoniocivile.it
-:: www.ilmatrimoniocivile.it
 0.0.0.0 www.ilnostroorto.com
 :: www.ilnostroorto.com
 0.0.0.0 www.imagenes.de
@@ -69145,8 +69155,6 @@
 :: www.joomlalivechat.com
 0.0.0.0 www.jornalfarroupilha.com.br
 :: www.jornalfarroupilha.com.br
-0.0.0.0 www.jornalocaminho.com.br
-:: www.jornalocaminho.com.br
 0.0.0.0 www.jouwstats.nl
 :: www.jouwstats.nl
 0.0.0.0 www.jowarinzqmiak.download
@@ -72783,8 +72791,6 @@
 :: yncme.insec.org.np
 0.0.0.0 yoclub.waphall.com
 :: yoclub.waphall.com
-0.0.0.0 yoheezy.devilwithacause.com
-:: yoheezy.devilwithacause.com
 0.0.0.0 yong.chazidian.com
 :: yong.chazidian.com
 0.0.0.0 yongjiang.tmcaster.com
