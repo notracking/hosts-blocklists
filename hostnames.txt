@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Nov 1 05:25:00 CET 2018
+# Last update: Fri Nov 2 06:53:04 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36673
+# Number of unique hostnames: 36681
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -715,6 +715,8 @@
 :: 33jjtmkd6j.ivertiipolska.com.pl
 0.0.0.0 33video.33universal.com
 :: 33video.33universal.com
+0.0.0.0 35388.flatblastard.com
+:: 35388.flatblastard.com
 0.0.0.0 354cf0bd.ngrok.io
 :: 354cf0bd.ngrok.io
 0.0.0.0 360.yahoo.com
@@ -1953,8 +1955,6 @@
 :: 5711020660006.sci.dusit.ac.th
 0.0.0.0 57ab1.alarmandburglarsystems.com.au
 :: 57ab1.alarmandburglarsystems.com.au
-0.0.0.0 58715.flatblastard.com
-:: 58715.flatblastard.com
 0.0.0.0 588222-germany-nutzung-mitteilung-nachweis.sicherheitssystem-sicherheitshilfe.gq
 :: 588222-germany-nutzung-mitteilung-nachweis.sicherheitssystem-sicherheitshilfe.gq
 0.0.0.0 59-106-20-39.r-bl100.sakura.ne.jp
@@ -2777,6 +2777,8 @@
 :: a.xixiyishu.com
 0.0.0.0 a.xtargeting.com
 :: a.xtargeting.com
+0.0.0.0 a.xuezizhai.com
+:: a.xuezizhai.com
 0.0.0.0 a.xywy.com
 :: a.xywy.com
 0.0.0.0 a.yangshengtang123.com
@@ -3159,6 +3161,8 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
+0.0.0.0 abusalewm.exceltoner.com
+:: abusalewm.exceltoner.com
 0.0.0.0 ac.ajur.info
 :: ac.ajur.info
 0.0.0.0 ac.atpanel.com
@@ -15085,6 +15089,8 @@
 :: apix.web.analytics.yahoo.com
 0.0.0.0 apk-ssl.tancdn.com
 :: apk-ssl.tancdn.com
+0.0.0.0 apk.gelinboer.cn
+:: apk.gelinboer.cn
 0.0.0.0 apk.idate520.com
 :: apk.idate520.com
 0.0.0.0 apk.supfast.net
@@ -17919,6 +17925,8 @@
 :: basic-check.disconnect.me
 0.0.0.0 basicinfo-logsnotifregist.000webhostapp.com
 :: basicinfo-logsnotifregist.000webhostapp.com
+0.0.0.0 bat-bing-com.a-0001.a-msedge.net
+:: bat-bing-com.a-0001.a-msedge.net
 0.0.0.0 bat.adforum.com
 :: bat.adforum.com
 0.0.0.0 bat.bing-int.com
@@ -18277,8 +18285,6 @@
 :: beacon.cracked.com
 0.0.0.0 beacon.decryptresearch.co.uk
 :: beacon.decryptresearch.co.uk
-0.0.0.0 beacon.dropbox.com
-:: beacon.dropbox.com
 0.0.0.0 beacon.ehow.com
 :: beacon.ehow.com
 0.0.0.0 beacon.examiner.com
@@ -19981,6 +19987,8 @@
 :: c.xbox.com
 0.0.0.0 c.xianguonongchang.org
 :: c.xianguonongchang.org
+0.0.0.0 c.xilongfuwu.com
+:: c.xilongfuwu.com
 0.0.0.0 c.yes.youku.com
 :: c.yes.youku.com
 0.0.0.0 c.ylist.cn
@@ -26061,8 +26069,6 @@
 :: d42tbok7l2bg1.cloudfront.net
 0.0.0.0 d49z64r3ud4kq.cloudfront.net
 :: d49z64r3ud4kq.cloudfront.net
-0.0.0.0 d4n.platformd.com
-:: d4n.platformd.com
 0.0.0.0 d4pz26d5itt3n.cloudfront.net
 :: d4pz26d5itt3n.cloudfront.net
 0.0.0.0 d5.sina.com.cn
@@ -28571,6 +28577,8 @@
 :: dyx64winab0s2.cloudfront.net
 0.0.0.0 dz-cima.nifatech.com
 :: dz-cima.nifatech.com
+0.0.0.0 dz1vmszs6rjp8.cloudfront.net
+:: dz1vmszs6rjp8.cloudfront.net
 0.0.0.0 dz2017.zdzxyplyt.com
 :: dz2017.zdzxyplyt.com
 0.0.0.0 dz2fz0bgyq9tn.cloudfront.net
@@ -28665,6 +28673,8 @@
 :: e.domob.cn
 0.0.0.0 e.dunmm.com
 :: e.dunmm.com
+0.0.0.0 e.ejuen.com
+:: e.ejuen.com
 0.0.0.0 e.fbaix.com
 :: e.fbaix.com
 0.0.0.0 e.fimky.com
@@ -31399,6 +31409,8 @@
 :: foxs.indowebster.com
 0.0.0.0 fozhu.rrsdl.com
 :: fozhu.rrsdl.com
+0.0.0.0 fp-analytics.hotstar.com
+:: fp-analytics.hotstar.com
 0.0.0.0 fp.jj59.com
 :: fp.jj59.com
 0.0.0.0 fp.kakaku.com
@@ -33077,8 +33089,6 @@
 :: grafephot.org.za
 0.0.0.0 gram.mfdrums.com
 :: gram.mfdrums.com
-0.0.0.0 gramelis.newyorkmascot.com
-:: gramelis.newyorkmascot.com
 0.0.0.0 grandpa.thebehrs.ca
 :: grandpa.thebehrs.ca
 0.0.0.0 grannypussy.blogspot.com
@@ -33557,6 +33567,8 @@
 :: hayghe12.byethost7.com
 0.0.0.0 hayqua123.byethost7.com
 :: hayqua123.byethost7.com
+0.0.0.0 hb-analytics.hotstar.com
+:: hb-analytics.hotstar.com
 0.0.0.0 hb-redlink-com-ar.servicesar.com
 :: hb-redlink-com-ar.servicesar.com
 0.0.0.0 hb.afl.rakuten.co.jp
@@ -33625,8 +33637,6 @@
 :: hdj.baidu.com
 0.0.0.0 hdjhsudhe.kuaizhan.com
 :: hdjhsudhe.kuaizhan.com
-0.0.0.0 hdredirect-lb3-890977680.us-east-1.elb.amazonaws.com
-:: hdredirect-lb3-890977680.us-east-1.elb.amazonaws.com
 0.0.0.0 hdsrc-a.akamaihd.net
 :: hdsrc-a.akamaihd.net
 0.0.0.0 hdv1sk62nn56gtrozwrc.viomil.ro
@@ -37703,6 +37713,8 @@
 :: kali.mycom.co.jp
 0.0.0.0 kali.mynavi.jp
 :: kali.mynavi.jp
+0.0.0.0 kalo.onvid.club
+:: kalo.onvid.club
 0.0.0.0 kalstats.kaltura.com
 :: kalstats.kaltura.com
 0.0.0.0 kameliya.dn.ua
@@ -38649,8 +38661,6 @@
 :: lerofa.hol.es
 0.0.0.0 leroidumatelas.gb.net
 :: leroidumatelas.gb.net
-0.0.0.0 lesbon.ksupridewrestling.com
-:: lesbon.ksupridewrestling.com
 0.0.0.0 lesteeuropeu.tur.br
 :: lesteeuropeu.tur.br
 0.0.0.0 letopdux.free.fr
@@ -46311,8 +46321,6 @@
 :: p-l.play.aiseet.atianqi.com
 0.0.0.0 p-l.play.cp81.ott.cibntv.net
 :: p-l.play.cp81.ott.cibntv.net
-0.0.0.0 p-stats.movetv.com
-:: p-stats.movetv.com
 0.0.0.0 p.24-7.help
 :: p.24-7.help
 0.0.0.0 p.37see.com
@@ -52805,6 +52813,8 @@
 :: s.tyxo.com
 0.0.0.0 s.uc627.com
 :: s.uc627.com
+0.0.0.0 s.uca6.com
+:: s.uca6.com
 0.0.0.0 s.union.360.cn
 :: s.union.360.cn
 0.0.0.0 s.update.entrepreneur.com
@@ -52927,6 +52937,8 @@
 :: s2.forumforfree.com
 0.0.0.0 s2.hiapk.com
 :: s2.hiapk.com
+0.0.0.0 s2.huoying666.com
+:: s2.huoying666.com
 0.0.0.0 s2.ipicture.ru
 :: s2.ipicture.ru
 0.0.0.0 s2.kuaibaopay.com
@@ -62175,6 +62187,8 @@
 :: u.ddvip.com
 0.0.0.0 u.diannaodian.com
 :: u.diannaodian.com
+0.0.0.0 u.huoying666.com
+:: u.huoying666.com
 0.0.0.0 u.jimdo.com
 :: u.jimdo.com
 0.0.0.0 u.optorb.com
@@ -65315,6 +65329,8 @@
 :: webapp-resolvedid-updateacounts-safetys.kntlo32-systemed.com
 0.0.0.0 webappdpt.000webhostapp.com
 :: webappdpt.000webhostapp.com
+0.0.0.0 webapps-intl.ca-updated.com
+:: webapps-intl.ca-updated.com
 0.0.0.0 webapps.paypal.com.secure.authflow-account.management
 :: webapps.paypal.com.secure.authflow-account.management
 0.0.0.0 webapps.paypal.com.signin.trukt.biz
@@ -67479,8 +67495,6 @@
 :: www.bewaycare.com
 0.0.0.0 www.bfqnup.party
 :: www.bfqnup.party
-0.0.0.0 www.bharatinfoline.com
-:: www.bharatinfoline.com
 0.0.0.0 www.biddingx.com
 :: www.biddingx.com
 0.0.0.0 www.bidwee.com
@@ -69179,8 +69193,6 @@
 :: www.joomlalivechat.com
 0.0.0.0 www.jornalfarroupilha.com.br
 :: www.jornalfarroupilha.com.br
-0.0.0.0 www.jornalocaminho.com.br
-:: www.jornalocaminho.com.br
 0.0.0.0 www.jouwstats.nl
 :: www.jouwstats.nl
 0.0.0.0 www.jowarinzqmiak.download
@@ -71085,6 +71097,8 @@
 :: www.tiergestuetzt.de
 0.0.0.0 www.timefor.com
 :: www.timefor.com
+0.0.0.0 www.timelessimagesmi.com
+:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tings.com
@@ -72159,6 +72173,8 @@
 :: x.myspace.com
 0.0.0.0 x.myspace.edgesuite.net
 :: x.myspace.edgesuite.net
+0.0.0.0 x.niuliyan.cn
+:: x.niuliyan.cn
 0.0.0.0 x.saponsroyale.com
 :: x.saponsroyale.com
 0.0.0.0 x.technic3d.biz
