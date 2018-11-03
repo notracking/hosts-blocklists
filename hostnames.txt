@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Nov 2 06:53:04 CET 2018
+# Last update: Sat Nov 3 05:21:50 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36681
+# Number of unique hostnames: 36686
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -715,8 +715,6 @@
 :: 33jjtmkd6j.ivertiipolska.com.pl
 0.0.0.0 33video.33universal.com
 :: 33video.33universal.com
-0.0.0.0 35388.flatblastard.com
-:: 35388.flatblastard.com
 0.0.0.0 354cf0bd.ngrok.io
 :: 354cf0bd.ngrok.io
 0.0.0.0 360.yahoo.com
@@ -729,6 +727,8 @@
 :: 368493-deu-storno-mitteilung-nachweis.sicherheitssystem-sicherheitshilfe.cf
 0.0.0.0 36f10833.akstat.io
 :: 36f10833.akstat.io
+0.0.0.0 37030.flatblastard.com
+:: 37030.flatblastard.com
 0.0.0.0 373082.livecity.me
 :: 373082.livecity.me
 0.0.0.0 377d936c10e6811f484c-6402e46c712497f58e3f77a59f47bbd5.r17.cf2.rackcdn.com
@@ -3161,8 +3161,6 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
-0.0.0.0 abusalewm.exceltoner.com
-:: abusalewm.exceltoner.com
 0.0.0.0 ac.ajur.info
 :: ac.ajur.info
 0.0.0.0 ac.atpanel.com
@@ -14641,6 +14639,8 @@
 :: api-flow.flyme.cn
 0.0.0.0 api-game.meizu.com
 :: api-game.meizu.com
+0.0.0.0 api-gdpr.voodoo-tech.io
+:: api-gdpr.voodoo-tech.io
 0.0.0.0 api-logger.curejoy.com
 :: api-logger.curejoy.com
 0.0.0.0 api-logsink-prod.zedge.io
@@ -14701,6 +14701,8 @@
 :: api.android.dianru.com
 0.0.0.0 api.anti.wauee.com
 :: api.anti.wauee.com
+0.0.0.0 api.appcelerator.com
+:: api.appcelerator.com
 0.0.0.0 api.appfireworks.com
 :: api.appfireworks.com
 0.0.0.0 api.appjiagu.com
@@ -14733,6 +14735,8 @@
 :: api.cheatsheet.me
 0.0.0.0 api.citygridmedia.com
 :: api.citygridmedia.com
+0.0.0.0 api.cloud.appcelerator.com
+:: api.cloud.appcelerator.com
 0.0.0.0 api.cloudmobi.net
 :: api.cloudmobi.net
 0.0.0.0 api.cmt.mob.com
@@ -14843,10 +14847,14 @@
 :: api.loyaltylion.com
 0.0.0.0 api.magmamobile.com
 :: api.magmamobile.com
+0.0.0.0 api.maropost.com
+:: api.maropost.com
 0.0.0.0 api.mini.wps.cn
 :: api.mini.wps.cn
 0.0.0.0 api.miui.security.xiaomi.com
 :: api.miui.security.xiaomi.com
+0.0.0.0 api.mobitech-content.xyz
+:: api.mobitech-content.xyz
 0.0.0.0 api.mobojoy.baidu.com
 :: api.mobojoy.baidu.com
 0.0.0.0 api.moogos.com
@@ -19333,6 +19341,8 @@
 :: broker.adobe.com
 0.0.0.0 browncustomsoftware.net.au
 :: browncustomsoftware.net.au
+0.0.0.0 browsermetrix.segrocers.com
+:: browsermetrix.segrocers.com
 0.0.0.0 browsermine.12finance.com
 :: browsermine.12finance.com
 0.0.0.0 browsersurf.12finance.com
@@ -19765,6 +19775,8 @@
 :: c.ca.msn.com
 0.0.0.0 c.cfjump.com
 :: c.cfjump.com
+0.0.0.0 c.cintnetworks.com
+:: c.cintnetworks.com
 0.0.0.0 c.cl.msn.com
 :: c.cl.msn.com
 0.0.0.0 c.cldlr.com
@@ -20943,8 +20955,6 @@
 :: cdn.mercent.com
 0.0.0.0 cdn.mingmingtehui.com
 :: cdn.mingmingtehui.com
-0.0.0.0 cdn.mobidea.com
-:: cdn.mobidea.com
 0.0.0.0 cdn.monsido.com
 :: cdn.monsido.com
 0.0.0.0 cdn.montiera.com
@@ -21205,8 +21215,6 @@
 :: cdnads.cam4.com
 0.0.0.0 cdnapi.kaltura.com
 :: cdnapi.kaltura.com
-0.0.0.0 cdnaws.mobidea.com
-:: cdnaws.mobidea.com
 0.0.0.0 cdncache-a.akamaihd.net
 :: cdncache-a.akamaihd.net
 0.0.0.0 cdncache1-a.akamaihd.net
@@ -23223,6 +23231,8 @@
 :: collect126842fr2h.deltadna.net
 0.0.0.0 collect12717rnssg.deltadna.net
 :: collect12717rnssg.deltadna.net
+0.0.0.0 collect12765vrbrn.deltadna.net
+:: collect12765vrbrn.deltadna.net
 0.0.0.0 collect12774shmmr.deltadna.net
 :: collect12774shmmr.deltadna.net
 0.0.0.0 collect12837lgcyf.deltadna.net
@@ -25439,8 +25449,6 @@
 :: d27jk9dqha8met.cloudfront.net
 0.0.0.0 d27jt7xr4fq3e8.cloudfront.net
 :: d27jt7xr4fq3e8.cloudfront.net
-0.0.0.0 d27tpsznug51gz.cloudfront.net
-:: d27tpsznug51gz.cloudfront.net
 0.0.0.0 d27uz827y1nafd.cloudfront.net
 :: d27uz827y1nafd.cloudfront.net
 0.0.0.0 d287x05ve9a63s.cloudfront.net
@@ -25737,8 +25745,6 @@
 :: d32r9jwgeu9dzx.cloudfront.net
 0.0.0.0 d32suzlk3an1bu.cloudfront.net
 :: d32suzlk3an1bu.cloudfront.net
-0.0.0.0 d32z5ni8t5127x.cloudfront.net
-:: d32z5ni8t5127x.cloudfront.net
 0.0.0.0 d32zx4lhje2crr.cloudfront.net
 :: d32zx4lhje2crr.cloudfront.net
 0.0.0.0 d33dsfwui17p31.cloudfront.net
@@ -26097,8 +26103,6 @@
 :: d6.sina.com.cn
 0.0.0.0 d6.sinaimg.cn
 :: d6.sinaimg.cn
-0.0.0.0 d60y8cj1tje2a.cloudfront.net
-:: d60y8cj1tje2a.cloudfront.net
 0.0.0.0 d660441.u-telcom.net
 :: d660441.u-telcom.net
 0.0.0.0 d662653.u-telcom.net
@@ -26139,8 +26143,6 @@
 :: d8.sinaimg.cn
 0.0.0.0 d81mfvml8p5ml.cloudfront.net
 :: d81mfvml8p5ml.cloudfront.net
-0.0.0.0 d830x8j3o1b2k.cloudfront.net
-:: d830x8j3o1b2k.cloudfront.net
 0.0.0.0 d8qy7md4cj3gz.cloudfront.net
 :: d8qy7md4cj3gz.cloudfront.net
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
@@ -26729,8 +26731,6 @@
 :: debloedmooieblondesecretaressepijpthaarbaasophetkantoor.blog-paradijs.com
 0.0.0.0 deblokgsm.free.fr
 :: deblokgsm.free.fr
-0.0.0.0 debojuagug1sf.cloudfront.net
-:: debojuagug1sf.cloudfront.net
 0.0.0.0 debt.shengen.ru
 :: debt.shengen.ru
 0.0.0.0 debtinter.000webhostapp.com
@@ -27521,8 +27521,6 @@
 :: dlvr.adne.tv
 0.0.0.0 dlvr.t-online.de
 :: dlvr.t-online.de
-0.0.0.0 dlwnextsetting.cloudapp.net
-:: dlwnextsetting.cloudapp.net
 0.0.0.0 dm.15tianqi.com
 :: dm.15tianqi.com
 0.0.0.0 dm.388g.cc
@@ -28595,8 +28593,6 @@
 :: dzl.baidu.com
 0.0.0.0 dzookafoiuo.5gbfree.com
 :: dzookafoiuo.5gbfree.com
-0.0.0.0 dzpu6za66svjl.cloudfront.net
-:: dzpu6za66svjl.cloudfront.net
 0.0.0.0 dzs55b7slwyx.cloudfront.net
 :: dzs55b7slwyx.cloudfront.net
 0.0.0.0 dzt1km7tv28ex.cloudfront.net
@@ -33089,6 +33085,8 @@
 :: grafephot.org.za
 0.0.0.0 gram.mfdrums.com
 :: gram.mfdrums.com
+0.0.0.0 gramelis.newyorkmascot.com
+:: gramelis.newyorkmascot.com
 0.0.0.0 grandpa.thebehrs.ca
 :: grandpa.thebehrs.ca
 0.0.0.0 grannypussy.blogspot.com
@@ -33347,8 +33345,6 @@
 :: h.sora.yoyi.com.cn
 0.0.0.0 h.spill.com
 :: h.spill.com
-0.0.0.0 h.txt2017.com
-:: h.txt2017.com
 0.0.0.0 h0.hucdn.com
 :: h0.hucdn.com
 0.0.0.0 h01.hxsame.hexun.com
@@ -33637,6 +33633,8 @@
 :: hdj.baidu.com
 0.0.0.0 hdjhsudhe.kuaizhan.com
 :: hdjhsudhe.kuaizhan.com
+0.0.0.0 hdredirect-lb3-890977680.us-east-1.elb.amazonaws.com
+:: hdredirect-lb3-890977680.us-east-1.elb.amazonaws.com
 0.0.0.0 hdsrc-a.akamaihd.net
 :: hdsrc-a.akamaihd.net
 0.0.0.0 hdv1sk62nn56gtrozwrc.viomil.ro
@@ -38235,8 +38233,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -38661,6 +38657,8 @@
 :: lerofa.hol.es
 0.0.0.0 leroidumatelas.gb.net
 :: leroidumatelas.gb.net
+0.0.0.0 lesbon.ksupridewrestling.com
+:: lesbon.ksupridewrestling.com
 0.0.0.0 lesteeuropeu.tur.br
 :: lesteeuropeu.tur.br
 0.0.0.0 letopdux.free.fr
@@ -43915,6 +43913,8 @@
 :: noc.shixunwan.cn
 0.0.0.0 node.pixel.optimalq.net
 :: node.pixel.optimalq.net
+0.0.0.0 node314.fractionalmedia.com
+:: node314.fractionalmedia.com
 0.0.0.0 node416.fractionalmedia.com
 :: node416.fractionalmedia.com
 0.0.0.0 node82.btc-giveaway.info
@@ -45425,6 +45425,8 @@
 :: onai.16mb.com
 0.0.0.0 onceux.unicornmedia.com
 :: onceux.unicornmedia.com
+0.0.0.0 ondemand.tf-cdn.net
+:: ondemand.tf-cdn.net
 0.0.0.0 one-dimensional-whi.000webhostapp.com
 :: one-dimensional-whi.000webhostapp.com
 0.0.0.0 one-drive-file-microsoft-office365-viewdocl0g.000webhostapp.com
@@ -50511,6 +50513,8 @@
 :: push.notifica.re
 0.0.0.0 push.res.meizu.com
 :: push.res.meizu.com
+0.0.0.0 push.tf-cdn.net
+:: push.tf-cdn.net
 0.0.0.0 push.wandoujia.com
 :: push.wandoujia.com
 0.0.0.0 push.wps.cn
@@ -52991,6 +52995,8 @@
 :: s2r.tut.by
 0.0.0.0 s2trade.mtxcapital.com
 :: s2trade.mtxcapital.com
+0.0.0.0 s3-dub.cf.videorolls.row.aiv-cdn.net
+:: s3-dub.cf.videorolls.row.aiv-cdn.net
 0.0.0.0 s3-tracking.synthasite.net.s3.amazonaws.com
 :: s3-tracking.synthasite.net.s3.amazonaws.com
 0.0.0.0 s3.ongsono.com
@@ -54105,8 +54111,6 @@
 :: sdol.mastercard.com
 0.0.0.0 sdr.totango.com
 :: sdr.totango.com
-0.0.0.0 sds.livesegmentservice.com
-:: sds.livesegmentservice.com
 0.0.0.0 sdsbucket.s3.amazonaws.com
 :: sdsbucket.s3.amazonaws.com
 0.0.0.0 sdsibgsv.beckmenlawfirm.net
@@ -57123,6 +57127,8 @@
 :: static.tags.yield-atx.com
 0.0.0.0 static.terrhq.ru
 :: static.terrhq.ru
+0.0.0.0 static.tf-cdn.net
+:: static.tf-cdn.net
 0.0.0.0 static.the-button.com
 :: static.the-button.com
 0.0.0.0 static.thumbr.com
@@ -59599,6 +59605,8 @@
 :: tfn.das.tamedia.ch
 0.0.0.0 tfncdn.thaflynation.com
 :: tfncdn.thaflynation.com
+0.0.0.0 tform-0710-dnjzqn.tf-cdn.net
+:: tform-0710-dnjzqn.tf-cdn.net
 0.0.0.0 tfssl.caohua.com
 :: tfssl.caohua.com
 0.0.0.0 tg.1155t.cn
@@ -61517,6 +61525,8 @@
 :: tracking.plattformad.com
 0.0.0.0 tracking.practicefusion.com
 :: tracking.practicefusion.com
+0.0.0.0 tracking.prd.mz.internal.unity3d.com
+:: tracking.prd.mz.internal.unity3d.com
 0.0.0.0 tracking.presence-pc.com
 :: tracking.presence-pc.com
 0.0.0.0 tracking.prm20cloud.com
@@ -62001,6 +62011,8 @@
 :: tsxwbywjwdm.myfw.us
 0.0.0.0 tt.biquge.la
 :: tt.biquge.la
+0.0.0.0 tt.mbww.com
+:: tt.mbww.com
 0.0.0.0 tt.onmypc.org
 :: tt.onmypc.org
 0.0.0.0 tt11.adobe.com
@@ -63227,8 +63239,6 @@
 :: url.adtrgt.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
-0.0.0.0 urladyms.newlogiq.com
-:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -66269,6 +66279,8 @@
 :: worden.samenresultaat.nl
 0.0.0.0 wordpress222.wordpress.com
 :: wordpress222.wordpress.com
+0.0.0.0 words.tf-cdn.net
+:: words.tf-cdn.net
 0.0.0.0 wordtheme.000webhostapp.com
 :: wordtheme.000webhostapp.com
 0.0.0.0 work.contigocreative.info
@@ -67495,6 +67507,8 @@
 :: www.bewaycare.com
 0.0.0.0 www.bfqnup.party
 :: www.bfqnup.party
+0.0.0.0 www.bharatinfoline.com
+:: www.bharatinfoline.com
 0.0.0.0 www.biddingx.com
 :: www.biddingx.com
 0.0.0.0 www.bidwee.com
@@ -68391,8 +68405,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
@@ -69193,6 +69205,8 @@
 :: www.joomlalivechat.com
 0.0.0.0 www.jornalfarroupilha.com.br
 :: www.jornalfarroupilha.com.br
+0.0.0.0 www.jornalocaminho.com.br
+:: www.jornalocaminho.com.br
 0.0.0.0 www.jouwstats.nl
 :: www.jouwstats.nl
 0.0.0.0 www.jowarinzqmiak.download
@@ -69491,8 +69505,6 @@
 :: www.lnktime.com
 0.0.0.0 www.loansbadcredit.net.au
 :: www.loansbadcredit.net.au
-0.0.0.0 www.log-in-verlag.de
-:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -71097,8 +71109,6 @@
 :: www.tiergestuetzt.de
 0.0.0.0 www.timefor.com
 :: www.timefor.com
-0.0.0.0 www.timelessimagesmi.com
-:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tings.com
