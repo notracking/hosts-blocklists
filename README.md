@@ -114,3 +114,9 @@ addn-hosts=/path/to/hostnames.txt
  - https://easylist-downloads.adblockplus.org/advblock.txt
  - https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
  - https://raw.githubusercontent.com/jspenguin2017/uBlockProtector/master/uBlockProtectorList.txt
+ - https://filters.adtidy.org/extension/chromium/filters/11.txt
+ - https://filters.adtidy.org/extension/chromium/filters/1.txt
+ - https://filters.adtidy.org/extension/chromium/filters/16.txt
+ - https://filters.adtidy.org/extension/chromium/filters/7.txt
+ - https://filters.adtidy.org/extension/chromium/filters/9.txt
+ - https://filters.adtidy.org/extension/chromium/filters/13.txt
