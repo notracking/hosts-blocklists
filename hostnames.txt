@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Nov 10 05:21:25 CET 2018
+# Last update: Sun Nov 11 05:21:47 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36550
+# Number of unique hostnames: 36557
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -187,6 +187,8 @@
 :: 1.dwx365.com
 0.0.0.0 1.feihua.com
 :: 1.feihua.com
+0.0.0.0 1.feihua365.cn
+:: 1.feihua365.cn
 0.0.0.0 1.forgetstore.com
 :: 1.forgetstore.com
 0.0.0.0 1.glook.cn
@@ -717,6 +719,8 @@
 :: 33jjtmkd6j.ivertiipolska.com.pl
 0.0.0.0 33video.33universal.com
 :: 33video.33universal.com
+0.0.0.0 35139.flatblastard.com
+:: 35139.flatblastard.com
 0.0.0.0 354cf0bd.ngrok.io
 :: 354cf0bd.ngrok.io
 0.0.0.0 360.yahoo.com
@@ -2003,8 +2007,6 @@
 :: 6.mamaswishes.com
 0.0.0.0 6.spacepur.de
 :: 6.spacepur.de
-0.0.0.0 60040.flatblastard.com
-:: 60040.flatblastard.com
 0.0.0.0 602371venetz.000webhostapp.com
 :: 602371venetz.000webhostapp.com
 0.0.0.0 60aalexandrastreetcom.domainstel.org
@@ -2145,8 +2147,6 @@
 :: 7765817.facebook.profilephdid.com
 0.0.0.0 77tzz.win.adsservingtwig.xyz
 :: 77tzz.win.adsservingtwig.xyz
-0.0.0.0 79423.analytics.edgesuite.net
-:: 79423.analytics.edgesuite.net
 0.0.0.0 79xh5d.air.airporttaxievesham.co.uk
 :: 79xh5d.air.airporttaxievesham.co.uk
 0.0.0.0 7aisngyh91e-cpsess0671158385-id.tallercastillocr.com
@@ -14105,8 +14105,6 @@
 :: analytics.dolansoft.org
 0.0.0.0 analytics.donaukurier.de
 :: analytics.donaukurier.de
-0.0.0.0 analytics.edgesuite.net
-:: analytics.edgesuite.net
 0.0.0.0 analytics.eduxe.com.br
 :: analytics.eduxe.com.br
 0.0.0.0 analytics.epublica.de
@@ -20271,6 +20269,8 @@
 :: camaraitaguari.go.gov.br
 0.0.0.0 camclqlbqtzftmplndts.ahdaaf.org
 :: camclqlbqtzftmplndts.ahdaaf.org
+0.0.0.0 camdentownunlimited.demo.uxloft.com
+:: camdentownunlimited.demo.uxloft.com
 0.0.0.0 cameron.pieceapizza.ca
 :: cameron.pieceapizza.ca
 0.0.0.0 camerondiaznude.1stok.com
@@ -24365,8 +24365,6 @@
 :: cshoppingbox.partner.leguide.com
 0.0.0.0 csi.gstatic.com
 :: csi.gstatic.com
-0.0.0.0 csma95349.analytics.edgesuite.net
-:: csma95349.analytics.edgesuite.net
 0.0.0.0 csmail.iggcn.com
 :: csmail.iggcn.com
 0.0.0.0 csmcampagne.consumind.nl
@@ -27199,6 +27197,8 @@
 :: dklmgdmadrasha.edu.bd
 0.0.0.0 dkm6b5q0h53z4.cloudfront.net
 :: dkm6b5q0h53z4.cloudfront.net
+0.0.0.0 dkv.fikom.budiluhur.ac.id
+:: dkv.fikom.budiluhur.ac.id
 0.0.0.0 dkvdivdj.altervista.org
 :: dkvdivdj.altervista.org
 0.0.0.0 dkwm.suwan.co.id
@@ -32791,6 +32791,8 @@
 :: grafephot.org.za
 0.0.0.0 gram.mfdrums.com
 :: gram.mfdrums.com
+0.0.0.0 gramelis.newyorkmascot.com
+:: gramelis.newyorkmascot.com
 0.0.0.0 grandpa.thebehrs.ca
 :: grandpa.thebehrs.ca
 0.0.0.0 grannypussy.blogspot.com
@@ -33179,6 +33181,8 @@
 :: hanzele.wpdevcloud.com
 0.0.0.0 hao.315hyw.com
 :: hao.315hyw.com
+0.0.0.0 hao.360hyzj.com
+:: hao.360hyzj.com
 0.0.0.0 hao.7654.com
 :: hao.7654.com
 0.0.0.0 hao.qquu8.com
@@ -34831,6 +34835,8 @@
 :: iebar.baidu.com
 0.0.0.0 ieonline.microsoft.com
 :: ieonline.microsoft.com
+0.0.0.0 iepedacitodecielo.edu.co
+:: iepedacitodecielo.edu.co
 0.0.0.0 if.bbanner.it
 :: if.bbanner.it
 0.0.0.0 ifa.camads.net
@@ -37421,6 +37427,8 @@
 :: karma.mdpcdn.com
 0.0.0.0 karoo.blogsky.com
 :: karoo.blogsky.com
+0.0.0.0 karyailmiah.stks.ac.id
+:: karyailmiah.stks.ac.id
 0.0.0.0 kaspar.free.fr
 :: kaspar.free.fr
 0.0.0.0 kassa.geenstijl.nl
@@ -37785,6 +37793,8 @@
 :: konym7.wm.warmglow.org
 0.0.0.0 kor.nkhumanrights.or.kr
 :: kor.nkhumanrights.or.kr
+0.0.0.0 korczak.wielun.pl
+:: korczak.wielun.pl
 0.0.0.0 korsyfelklob.000webhostapp.com
 :: korsyfelklob.000webhostapp.com
 0.0.0.0 kos.interseek.si
@@ -38849,6 +38859,8 @@
 :: location.fashionises.com
 0.0.0.0 lock-vkcom-hd6dhdajda67dsfsdf45g.pe.hu
 :: lock-vkcom-hd6dhdajda67dsfsdf45g.pe.hu
+0.0.0.0 loei.drr.go.th
+:: loei.drr.go.th
 0.0.0.0 loft2126.dedicatedpanel.com
 :: loft2126.dedicatedpanel.com
 0.0.0.0 log-c-907025318.us-east-1.elb.amazonaws.com
@@ -39983,26 +39995,8 @@
 :: ma.wp.pl
 0.0.0.0 ma1.meishij.net
 :: ma1.meishij.net
-0.0.0.0 ma156-r.analytics.edgesuite.net
-:: ma156-r.analytics.edgesuite.net
-0.0.0.0 ma180-r.analytics.edgesuite.net
-:: ma180-r.analytics.edgesuite.net
 0.0.0.0 ma2.meishij.net
 :: ma2.meishij.net
-0.0.0.0 ma204-r.analytics.edgesuite.net
-:: ma204-r.analytics.edgesuite.net
-0.0.0.0 ma211-r.analytics.edgesuite.net
-:: ma211-r.analytics.edgesuite.net
-0.0.0.0 ma277-r.analytics.edgesuite.net
-:: ma277-r.analytics.edgesuite.net
-0.0.0.0 ma312-r.analytics.edgesuite.net
-:: ma312-r.analytics.edgesuite.net
-0.0.0.0 ma74-r.analytics.edgesuite.net
-:: ma74-r.analytics.edgesuite.net
-0.0.0.0 ma76-c.analytics.edgesuite.net
-:: ma76-c.analytics.edgesuite.net
-0.0.0.0 ma76-r.analytics.edgesuite.net
-:: ma76-r.analytics.edgesuite.net
 0.0.0.0 ma85-r-analytics.akamaized.net
 :: ma85-r-analytics.akamaized.net
 0.0.0.0 maawikdimuaro.000webhostapp.com
@@ -40475,6 +40469,8 @@
 :: mass.mall044.com
 0.0.0.0 master.taijisword.com
 :: master.taijisword.com
+0.0.0.0 masterdireccionyliderazgo.webs.uvigo.es
+:: masterdireccionyliderazgo.webs.uvigo.es
 0.0.0.0 masterlinbat17.000webhostapp.com
 :: masterlinbat17.000webhostapp.com
 0.0.0.0 masuk-lagi.000webhostapp.com
@@ -40575,6 +40571,8 @@
 :: maturesandcoeds.blogspot.com
 0.0.0.0 maturesex.optus.nu
 :: maturesex.optus.nu
+0.0.0.0 matwbp.iask.sina.com.cn
+:: matwbp.iask.sina.com.cn
 0.0.0.0 matxh-photos.62640041.date
 :: matxh-photos.62640041.date
 0.0.0.0 maurobb.freecounter.it
@@ -53897,6 +53895,8 @@
 :: secoursms.mout.be
 0.0.0.0 secpay.wostore.cn
 :: secpay.wostore.cn
+0.0.0.0 secretariaextension.unt.edu.ar
+:: secretariaextension.unt.edu.ar
 0.0.0.0 secretmedia.s3.amazonaws.com
 :: secretmedia.s3.amazonaws.com
 0.0.0.0 secufast.bplaced.net
@@ -54639,6 +54639,8 @@
 :: sessions.firetv.bugsnag.appstore.a2z.com
 0.0.0.0 sestat.baidu.com
 :: sestat.baidu.com
+0.0.0.0 setembroamarelo.org.br
+:: setembroamarelo.org.br
 0.0.0.0 setting-succest.000webhostapp.com
 :: setting-succest.000webhostapp.com
 0.0.0.0 setting.adzcore.com
@@ -59189,6 +59191,8 @@
 :: test.zeus.ad.xiaomi.com
 0.0.0.0 test1.lmsoft.cz
 :: test1.lmsoft.cz
+0.0.0.0 test1.nitrashop.com
+:: test1.nitrashop.com
 0.0.0.0 test2.jessekanclerz.com
 :: test2.jessekanclerz.com
 0.0.0.0 test2.nqs.nice264.com
@@ -61641,6 +61645,8 @@
 :: trutor.org.pl
 0.0.0.0 trx.mxmfb.com
 :: trx.mxmfb.com
+0.0.0.0 ts-prod-assets.tripleseat.com.s3.amazonaws.com
+:: ts-prod-assets.tripleseat.com.s3.amazonaws.com
 0.0.0.0 ts.d.p.xpanama.net
 :: ts.d.p.xpanama.net
 0.0.0.0 ts.eu-west-1.p.xpanama.net
@@ -61735,6 +61741,8 @@
 :: tu.zx110.org
 0.0.0.0 tube.thumblogger.com
 :: tube.thumblogger.com
+0.0.0.0 tudosobreseguros.org.br
+:: tudosobreseguros.org.br
 0.0.0.0 tui.gtimg.com
 :: tui.gtimg.com
 0.0.0.0 tui.taobao.com
@@ -68893,6 +68901,8 @@
 :: www.joomlalivechat.com
 0.0.0.0 www.jornalfarroupilha.com.br
 :: www.jornalfarroupilha.com.br
+0.0.0.0 www.jornalocaminho.com.br
+:: www.jornalocaminho.com.br
 0.0.0.0 www.jouwstats.nl
 :: www.jouwstats.nl
 0.0.0.0 www.jowarinzqmiak.download
@@ -71427,8 +71437,6 @@
 :: www.yiqifa.com
 0.0.0.0 www.yiqixiu.com
 :: www.yiqixiu.com
-0.0.0.0 www.yiyuantian.com
-:: www.yiyuantian.com
 0.0.0.0 www.yl850555.com
 :: www.yl850555.com
 0.0.0.0 www.ylwy168.com
@@ -72615,6 +72623,8 @@
 :: yourpic.msk.ru
 0.0.0.0 yoursubdomain.bravediary.com
 :: yoursubdomain.bravediary.com
+0.0.0.0 youthmediaagency.org.uk
+:: youthmediaagency.org.uk
 0.0.0.0 youxi.kugou.com
 :: youxi.kugou.com
 0.0.0.0 yoyo-zdjecia.bo.pl
@@ -72913,6 +72923,8 @@
 :: zgopxgi9uqlgoioatuuc.littlematchagirl.com.au
 0.0.0.0 zharuk.org.ua
 :: zharuk.org.ua
+0.0.0.0 zhengxing.onlinedj.com.cn
+:: zhengxing.onlinedj.com.cn
 0.0.0.0 zhgg.dre8.com
 :: zhgg.dre8.com
 0.0.0.0 zhggw.dre8.com
@@ -72935,6 +72947,8 @@
 :: zi.kfqdf.com
 0.0.0.0 zia.org.in
 :: zia.org.in
+0.0.0.0 ziale.org.zm
+:: ziale.org.zm
 0.0.0.0 zibup.csheaven.com
 :: zibup.csheaven.com
 0.0.0.0 zicks.000webhostapp.com
