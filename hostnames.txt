@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Nov 14 05:16:20 CET 2018
+# Last update: Thu Nov 15 05:22:31 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36538
+# Number of unique hostnames: 36551
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -885,8 +885,6 @@
 :: 445600-deutschland-verbraucher-sicher-nachweis.newsafe-trade.com
 0.0.0.0 44ce58wv7k.wxxhopn5ch.madpendesign.com.au
 :: 44ce58wv7k.wxxhopn5ch.madpendesign.com.au
-0.0.0.0 45102.flatblastard.com
-:: 45102.flatblastard.com
 0.0.0.0 461073-deu-gast-sicherheit-benutzer.sicherheitshilfe-sicherheitssystem.cf
 :: 461073-deu-gast-sicherheit-benutzer.sicherheitshilfe-sicherheitssystem.cf
 0.0.0.0 465663-deutschland-nutzung-sicher-benutzer.sicher-vorbeugung.tk
@@ -897,6 +895,8 @@
 :: 470032-de-gast-sicher-validierung.trade-verification-lite.com
 0.0.0.0 48.2mydns.net
 :: 48.2mydns.net
+0.0.0.0 48435.flatblastard.com
+:: 48435.flatblastard.com
 0.0.0.0 496812--gast-sicher-account.vorkehrung-sicherheitssystem.ml
 :: 496812--gast-sicher-account.vorkehrung-sicherheitssystem.ml
 0.0.0.0 4bf27o.wm.warmglow.org
@@ -5273,6 +5273,8 @@
 :: adagiobanner.s3.amazonaws.com
 0.0.0.0 adagiof3.repubblica.it
 :: adagiof3.repubblica.it
+0.0.0.0 adap.davaocity.gov.ph
+:: adap.davaocity.gov.ph
 0.0.0.0 adapi.gunosy.com
 :: adapi.gunosy.com
 0.0.0.0 adapi.inlcorp.com
@@ -12763,6 +12765,8 @@
 :: aff.sexandsubmission.com
 0.0.0.0 aff.shopmania.bg
 :: aff.shopmania.bg
+0.0.0.0 aff.simibo.net
+:: aff.simibo.net
 0.0.0.0 aff.summercart.com
 :: aff.summercart.com
 0.0.0.0 aff.svjump.com
@@ -15177,6 +15181,8 @@
 :: app.fancifulapp.cool
 0.0.0.0 app.getvero.com
 :: app.getvero.com
+0.0.0.0 app.hawzentr.com
+:: app.hawzentr.com
 0.0.0.0 app.houyi.baofeng.net
 :: app.houyi.baofeng.net
 0.0.0.0 app.hytdsm.com
@@ -18419,6 +18425,8 @@
 :: beryza.best.pershoretaxis.co.uk
 0.0.0.0 besc.baidustatic.com
 :: besc.baidustatic.com
+0.0.0.0 bespoke.masiavuvu.fr
+:: bespoke.masiavuvu.fr
 0.0.0.0 best.netease.com
 :: best.netease.com
 0.0.0.0 bestchahge.net.ru
@@ -20505,8 +20513,6 @@
 :: cca.mob.com
 0.0.0.0 ccb.uncle-ad.com
 :: ccb.uncle-ad.com
-0.0.0.0 ccc-x.jd.com
-:: ccc-x.jd.com
 0.0.0.0 ccc.sys.intl.xiaomi.com
 :: ccc.sys.intl.xiaomi.com
 0.0.0.0 ccc.sys.miui.com
@@ -26619,6 +26625,8 @@
 :: demo.sp-kunde.de
 0.0.0.0 demo.vertexinfo.in
 :: demo.vertexinfo.in
+0.0.0.0 demo.wearemedia.us
+:: demo.wearemedia.us
 0.0.0.0 demo5.ikantam.com
 :: demo5.ikantam.com
 0.0.0.0 demon1.linksummary.com
@@ -28437,6 +28445,8 @@
 :: e.freewebhostingarea.com
 0.0.0.0 e.gglay.com
 :: e.gglay.com
+0.0.0.0 e.gtuoj.com
+:: e.gtuoj.com
 0.0.0.0 e.gxjfh.com
 :: e.gxjfh.com
 0.0.0.0 e.huaas.com
@@ -33413,6 +33423,8 @@
 :: hermesvargas59.000webhostapp.com
 0.0.0.0 herwehaveit.0fees.us
 :: herwehaveit.0fees.us
+0.0.0.0 hesap.hawzentr.com
+:: hesap.hawzentr.com
 0.0.0.0 heterodactyl-buckle.000webhostapp.com
 :: heterodactyl-buckle.000webhostapp.com
 0.0.0.0 heuristic-poitras-93c7e2.netlify.com
@@ -35399,6 +35411,8 @@
 :: img.stamps.com
 0.0.0.0 img.supfast.net
 :: img.supfast.net
+0.0.0.0 img.sxcol.cn
+:: img.sxcol.cn
 0.0.0.0 img.szm.sk
 :: img.szm.sk
 0.0.0.0 img.tan5858.com
@@ -39661,6 +39675,8 @@
 :: m.gbaog.com
 0.0.0.0 m.gglay.com
 :: m.gglay.com
+0.0.0.0 m.gtuoj.com
+:: m.gtuoj.com
 0.0.0.0 m.guanren11.com
 :: m.guanren11.com
 0.0.0.0 m.guanren5.com
@@ -39835,6 +39851,8 @@
 :: m.vpadn.com
 0.0.0.0 m.wankz.com
 :: m.wankz.com
+0.0.0.0 m.wbanv.com
+:: m.wbanv.com
 0.0.0.0 m.wgewj.cn
 :: m.wgewj.cn
 0.0.0.0 m.wlues.com
@@ -55585,6 +55603,8 @@
 :: snapchat-save.blogspot.com
 0.0.0.0 snaps.vidiemi.com
 :: snaps.vidiemi.com
+0.0.0.0 snb.pinkjacketclients.com
+:: snb.pinkjacketclients.com
 0.0.0.0 sndkorea.nowcdn.co.kr
 :: sndkorea.nowcdn.co.kr
 0.0.0.0 sneckershatch.5gbfree.com
@@ -61857,6 +61877,8 @@
 :: u.prizerewardcenter.com
 0.0.0.0 u.prizerewardportal.com
 :: u.prizerewardportal.com
+0.0.0.0 u.qijads.com
+:: u.qijads.com
 0.0.0.0 u.qijipc.com
 :: u.qijipc.com
 0.0.0.0 u.raidmedia.com.cn
@@ -62155,8 +62177,6 @@
 :: unilog.wostore.cn
 0.0.0.0 unins.5b55.com
 :: unins.5b55.com
-0.0.0.0 union-click.jd.com
-:: union-click.jd.com
 0.0.0.0 union.56.com
 :: union.56.com
 0.0.0.0 union.6.cn
@@ -64247,6 +64267,8 @@
 :: vserv.bc.cdn.bitgravity.com
 0.0.0.0 vsii.spindox.net
 :: vsii.spindox.net
+0.0.0.0 vsqf.nal5h.cn
+:: vsqf.nal5h.cn
 0.0.0.0 vssyfg.beckmenconsulting.com
 :: vssyfg.beckmenconsulting.com
 0.0.0.0 vstat.my.tv.sohu.com
@@ -65049,6 +65071,8 @@
 :: weblog.strawberrynet.com
 0.0.0.0 weblogger-dynamic-lb.playdom.com
 :: weblogger-dynamic-lb.playdom.com
+0.0.0.0 webmail.auto-dani.at
+:: webmail.auto-dani.at
 0.0.0.0 webmail.ranhill.com
 :: webmail.ranhill.com
 0.0.0.0 webmail.siemense.com
@@ -68925,8 +68949,6 @@
 :: www.kamsinseuexlw.download
 0.0.0.0 www.karakulszmlyttq.download
 :: www.karakulszmlyttq.download
-0.0.0.0 www.karavelle.com.br
-:: www.karavelle.com.br
 0.0.0.0 www.kardanremont.com
 :: www.kardanremont.com
 0.0.0.0 www.kasdjjaks83adsasd.com
@@ -68989,6 +69011,8 @@
 :: www.knacads.com
 0.0.0.0 www.kneecappedgmlviym.download
 :: www.kneecappedgmlviym.download
+0.0.0.0 www.kngcjx.com
+:: www.kngcjx.com
 0.0.0.0 www.kniga.tora.ru
 :: www.kniga.tora.ru
 0.0.0.0 www.koch-backrezepte.de
@@ -70137,8 +70161,6 @@
 :: www.realtytips.com
 0.0.0.0 www.rebeccacella.com
 :: www.rebeccacella.com
-0.0.0.0 www.recrutam.ro
-:: www.recrutam.ro
 0.0.0.0 www.recyber.com
 :: www.recyber.com
 0.0.0.0 www.redactiepartners.nl
@@ -71237,6 +71259,8 @@
 :: www.whitesports.co.kr
 0.0.0.0 www.whizstats.com
 :: www.whizstats.com
+0.0.0.0 www.whxhhjx.com
+:: www.whxhhjx.com
 0.0.0.0 www.widebanner.com
 :: www.widebanner.com
 0.0.0.0 www.wifijia.net
@@ -72341,6 +72365,8 @@
 :: xyz.freeweblogger.com
 0.0.0.0 xz.tongji.shouji56.com
 :: xz.tongji.shouji56.com
+0.0.0.0 xzc.wxgctz.com
+:: xzc.wxgctz.com
 0.0.0.0 xzcnjs01s0-system.esy.es
 :: xzcnjs01s0-system.esy.es
 0.0.0.0 xzegarsmiercix.prv.pl
