@@ -60,10 +60,10 @@ addn-hosts=/path/to/hostnames.txt
  - https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt
  - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
  - https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
- - http://www.dshield.org/feeds/suspiciousdomains_Medium.txt
+ - https://www.dshield.org/feeds/suspiciousdomains_Medium.txt
  - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
  - http://www.shallalist.de/Downloads/shallalist.tar.gz `only 'adv' & 'tracker' lists`
- - http://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz `only 'publicite' list`
+ - https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz `only 'publicite' list`
  - https://ssl.bblck.me/blacklists/hosts-file.txt
  - https://raw.githubusercontent.com/bkrcrc/turk-adlist/master/hosts
  - https://v.firebog.net/hosts/static/w3kbl.txt
@@ -81,7 +81,7 @@ addn-hosts=/path/to/hostnames.txt
  - https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
  - http://www.urlvir.com/export-hosts/
  - https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/.dev-tools/output/domains/ACTIVE/list
- - http://malc0de.com/bl/BOOT
+ - https://malc0de.com/bl/BOOT
  - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
  - https://data.netlab.360.com/feeds/dga/dircrypt.txt
  - https://data.netlab.360.com/feeds/dga/fobber.txt
