@@ -1,6 +1,6 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Nov 22 05:26:31 CET 2018
+# Last update: Fri Nov 23 06:33:07 CET 2018
 # Filter supports ipv4 and ipv6
 # Number of unique hostnames: 36723
 #################################[INFO]##################################
@@ -33385,6 +33385,8 @@
 :: hdj.baidu.com
 0.0.0.0 hdjhsudhe.kuaizhan.com
 :: hdjhsudhe.kuaizhan.com
+0.0.0.0 hdredirect-lb3-890977680.us-east-1.elb.amazonaws.com
+:: hdredirect-lb3-890977680.us-east-1.elb.amazonaws.com
 0.0.0.0 hdsrc-a.akamaihd.net
 :: hdsrc-a.akamaihd.net
 0.0.0.0 hdv1sk62nn56gtrozwrc.viomil.ro
@@ -52359,8 +52361,6 @@
 :: rpt.footlocker.com
 0.0.0.0 rpt.rad.msn.com
 :: rpt.rad.msn.com
-0.0.0.0 rptrcks.walmart.com
-:: rptrcks.walmart.com
 0.0.0.0 rq.adtrackdirect.com
 :: rq.adtrackdirect.com
 0.0.0.0 rq.trackingadirect.com
