@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Nov 23 06:33:07 CET 2018
+# Last update: Sat Nov 24 05:22:26 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36723
+# Number of unique hostnames: 36680
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3359,6 +3359,8 @@
 :: acdid.acdsystems.com
 0.0.0.0 aceofaclothing.000webhostapp.com
 :: aceofaclothing.000webhostapp.com
+0.0.0.0 acerwerwe.000webhostapp.com
+:: acerwerwe.000webhostapp.com
 0.0.0.0 acesso-mobile-cx-economica-federa-sms.000webhostapp.com
 :: acesso-mobile-cx-economica-federa-sms.000webhostapp.com
 0.0.0.0 acesso.pfpersonalite.ml
@@ -15401,6 +15403,8 @@
 :: apple.com--validation.systems
 0.0.0.0 apple.com-analysis-safety-antimalware-support.accountant
 :: apple.com-analysis-safety-antimalware-support.accountant
+0.0.0.0 apple.com-cleaner.systems
+:: apple.com-cleaner.systems
 0.0.0.0 apple.com-internet-security-review.info
 :: apple.com-internet-security-review.info
 0.0.0.0 apple.com-internet-security-review.review
@@ -18903,10 +18907,6 @@
 :: blogroll.livedoor.net
 0.0.0.0 blogs.gursha-dubai.com
 :: blogs.gursha-dubai.com
-0.0.0.0 blow-job-paysite-preview-street.vip-show.net
-:: blow-job-paysite-preview-street.vip-show.net
-0.0.0.0 blowjobsexjob.blogs-blogs.com
-:: blowjobsexjob.blogs-blogs.com
 0.0.0.0 blportal.rapidns.com
 :: blportal.rapidns.com
 0.0.0.0 blu.mobileads.msn.com
@@ -18915,8 +18915,6 @@
 :: blue-js.github.io
 0.0.0.0 blue.sexer.com
 :: blue.sexer.com
-0.0.0.0 bluemateur.free.fr
-:: bluemateur.free.fr
 0.0.0.0 bluewin3625.weebly.com
 :: bluewin3625.weebly.com
 0.0.0.0 bluewinsource.weebly.com
@@ -22035,8 +22033,6 @@
 :: chesin-suport.neww-d3vel0per44.ga
 0.0.0.0 chhoatrithy.000webhostapp.com
 :: chhoatrithy.000webhostapp.com
-0.0.0.0 chiatena.zxy.me
-:: chiatena.zxy.me
 0.0.0.0 chicago.rsvppublications.com
 :: chicago.rsvppublications.com
 0.0.0.0 chiem78.000webhostapp.com
@@ -22061,8 +22057,6 @@
 :: choice.microsoft.com.nsatc.net
 0.0.0.0 choices.trustarc.com
 :: choices.trustarc.com
-0.0.0.0 chra.org.au
-:: chra.org.au
 0.0.0.0 chrabv.kozer.2ndincome4u.org.uk
 :: chrabv.kozer.2ndincome4u.org.uk
 0.0.0.0 chrissyelder63.wixsite.com
@@ -22151,8 +22145,6 @@
 :: citybanq.16mb.com
 0.0.0.0 citycash2.blogspot.com
 :: citycash2.blogspot.com
-0.0.0.0 civicrm.npocentral.net
-:: civicrm.npocentral.net
 0.0.0.0 cj.1o26.com
 :: cj.1o26.com
 0.0.0.0 cj.qidian.com
@@ -22431,6 +22423,8 @@
 :: click.scour.com
 0.0.0.0 click.searchnation.net
 :: click.searchnation.net
+0.0.0.0 click.silvercash.com
+:: click.silvercash.com
 0.0.0.0 click.simba.taobao.com
 :: click.simba.taobao.com
 0.0.0.0 click.sockinga.info
@@ -22749,8 +22743,6 @@
 :: cloud.getpopunder.com
 0.0.0.0 cloud.insightera.com
 :: cloud.insightera.com
-0.0.0.0 cloud.marccenido.com
-:: cloud.marccenido.com
 0.0.0.0 cloud.pdf.sukunstays.com
 :: cloud.pdf.sukunstays.com
 0.0.0.0 cloud.rovio.com
@@ -23405,8 +23397,6 @@
 :: conforama.ugc.bazaarvoice.com
 0.0.0.0 confrim-regis232.d3v-fanpag3.ml
 :: confrim-regis232.d3v-fanpag3.ml
-0.0.0.0 confrim-supoort1.regist3r2.tk
-:: confrim-supoort1.regist3r2.tk
 0.0.0.0 confrimascion98.helpfanspagea.gq
 :: confrimascion98.helpfanspagea.gq
 0.0.0.0 connct.secure.wellsfargo.com.aaru486.com.au
@@ -24089,8 +24079,6 @@
 :: cp.jfcdns.com
 0.0.0.0 cp.jz5u.net
 :: cp.jz5u.net
-0.0.0.0 cp.normstar.net
-:: cp.normstar.net
 0.0.0.0 cp.promoisland.net
 :: cp.promoisland.net
 0.0.0.0 cp.qbaobei.com
@@ -24317,18 +24305,10 @@
 :: crm.bbsfood.nl
 0.0.0.0 crm.ciseonweb.it
 :: crm.ciseonweb.it
-0.0.0.0 crm.cometocapetown.com
-:: crm.cometocapetown.com
 0.0.0.0 crm.pandoravietnam.com
 :: crm.pandoravietnam.com
-0.0.0.0 crm.teknomega.it
-:: crm.teknomega.it
-0.0.0.0 crm.wboc.com
-:: crm.wboc.com
 0.0.0.0 croisieres.clubmed.ca
 :: croisieres.clubmed.ca
-0.0.0.0 crop-topsnn.oucreate.com
-:: crop-topsnn.oucreate.com
 0.0.0.0 crop.lauritaexcavating.info
 :: crop.lauritaexcavating.info
 0.0.0.0 crops.dunight.eu
@@ -29401,8 +29381,6 @@
 :: espace-oney.fr.service.misajour.spectralgaming.com
 0.0.0.0 espace.client.desjardins.com-membre-1g5hsfgu5-www-desjardins.com
 :: espace.client.desjardins.com-membre-1g5hsfgu5-www-desjardins.com
-0.0.0.0 espinho.oksweb.com
-:: espinho.oksweb.com
 0.0.0.0 espn-ak.starwave.com
 :: espn-ak.starwave.com
 0.0.0.0 espn.footprint.net
@@ -29703,6 +29681,8 @@
 :: exit.macandbumble.com
 0.0.0.0 exit.oxcash2.com
 :: exit.oxcash2.com
+0.0.0.0 exit.silvercash.com
+:: exit.silvercash.com
 0.0.0.0 exit.xpays.com
 :: exit.xpays.com
 0.0.0.0 exits.adultcash.com
@@ -31769,8 +31749,6 @@
 :: game.9xzj.com
 0.0.0.0 game.baichuanhd.cn
 :: game.baichuanhd.cn
-0.0.0.0 game.cdcctv.net
-:: game.cdcctv.net
 0.0.0.0 game.html5.qq.com
 :: game.html5.qq.com
 0.0.0.0 game.pps.tv
@@ -31825,14 +31803,8 @@
 :: ganafine.5gbfree.com
 0.0.0.0 ganardineroporinternetparapay.000webhostapp.com
 :: ganardineroporinternetparapay.000webhostapp.com
-0.0.0.0 gang-bang.gocunt.com
-:: gang-bang.gocunt.com
 0.0.0.0 gang.dothome.co.kr
 :: gang.dothome.co.kr
-0.0.0.0 gangbang.blog-paradijs.com
-:: gangbang.blog-paradijs.com
-0.0.0.0 gangbangafspraak.blog-paradijs.com
-:: gangbangafspraak.blog-paradijs.com
 0.0.0.0 ganjituiguang.ganji.com
 :: ganjituiguang.ganji.com
 0.0.0.0 gannett.gcion.com
@@ -31881,18 +31853,10 @@
 :: gavistev.000webhostapp.com
 0.0.0.0 gavzad.keenspot.com
 :: gavzad.keenspot.com
-0.0.0.0 gay.adultgalls.com
-:: gay.adultgalls.com
-0.0.0.0 gay.cybersteam.com
-:: gay.cybersteam.com
 0.0.0.0 gay.fix.ac
 :: gay.fix.ac
 0.0.0.0 gay.sicfreehost.com
 :: gay.sicfreehost.com
-0.0.0.0 gay3gp.xtgem.com
-:: gay3gp.xtgem.com
-0.0.0.0 gaydefrance.free.fr
-:: gaydefrance.free.fr
 0.0.0.0 gayextra.blog-paradijs.com
 :: gayextra.blog-paradijs.com
 0.0.0.0 gazzz.survey7.adsservingtwig.xyz
@@ -34509,8 +34473,6 @@
 :: i-ch1-cor001.api.p001.1drv.com
 0.0.0.0 i-ch1-cor002.api.p001.1drv.com
 :: i-ch1-cor002.api.p001.1drv.com
-0.0.0.0 i-robot.kiev.ua
-:: i-robot.kiev.ua
 0.0.0.0 i-sn2-cor001.api.p001.1drv.com
 :: i-sn2-cor001.api.p001.1drv.com
 0.0.0.0 i-sn2-cor002.api.p001.1drv.com
@@ -35935,8 +35897,6 @@
 :: info0231779f100.000webhostapp.com
 0.0.0.0 info02887166ft.000webhostapp.com
 :: info02887166ft.000webhostapp.com
-0.0.0.0 info112kff198.000webhostapp.com
-:: info112kff198.000webhostapp.com
 0.0.0.0 info154472001339110f.000webhostapp.com
 :: info154472001339110f.000webhostapp.com
 0.0.0.0 info1700234110700i.000webhostapp.com
@@ -35993,8 +35953,6 @@
 :: information-id.000webhostapp.com
 0.0.0.0 informationpagecontent.000webhostapp.com
 :: informationpagecontent.000webhostapp.com
-0.0.0.0 informationsecurity1323.000webhostapp.com
-:: informationsecurity1323.000webhostapp.com
 0.0.0.0 informatyk-centrum.warszawa.pl
 :: informatyk-centrum.warszawa.pl
 0.0.0.0 informer.yandex.ru
@@ -36015,8 +35973,6 @@
 :: infos.apple.stores.icloud.ebfve.vaporymarket.com
 0.0.0.0 infosboitevocaleorangecompte.pe.hu
 :: infosboitevocaleorangecompte.pe.hu
-0.0.0.0 infosecuritysako.000webhostapp.com
-:: infosecuritysako.000webhostapp.com
 0.0.0.0 infostroy.nnov.ru
 :: infostroy.nnov.ru
 0.0.0.0 infoterkini777.hol.es
@@ -36081,8 +36037,6 @@
 :: inpref.s3.amazonaws.com
 0.0.0.0 inquiries.redhat.com
 :: inquiries.redhat.com
-0.0.0.0 inquiry.cndasion.com
-:: inquiry.cndasion.com
 0.0.0.0 inquiry.shop.xerox.com
 :: inquiry.shop.xerox.com
 0.0.0.0 inqzz.super-promo.quhu.info
@@ -36257,10 +36211,6 @@
 :: intljs.rmtag.com
 0.0.0.0 intranet.grupojarbet.com
 :: intranet.grupojarbet.com
-0.0.0.0 intranet.nantucketislandresorts.com
-:: intranet.nantucketislandresorts.com
-0.0.0.0 intranet.trf.co.in
-:: intranet.trf.co.in
 0.0.0.0 intuit.securityupdateserver-1.com
 :: intuit.securityupdateserver-1.com
 0.0.0.0 inurbane-poisons.000webhostapp.com
@@ -36435,8 +36385,6 @@
 :: isuk.org.tr
 0.0.0.0 iswimg.hp.infoseek.co.jp
 :: iswimg.hp.infoseek.co.jp
-0.0.0.0 it-helpdeskadmin.000webhostapp.com
-:: it-helpdeskadmin.000webhostapp.com
 0.0.0.0 it.altervista.org
 :: it.altervista.org
 0.0.0.0 it.bannerout.com
@@ -36477,8 +36425,6 @@
 :: item-marketplace109032893287.000webhostapp.com
 0.0.0.0 item.ttkvod.com
 :: item.ttkvod.com
-0.0.0.0 itfreewebmailupdate.sitey.me
-:: itfreewebmailupdate.sitey.me
 0.0.0.0 ithyk.frenchgerlemanelectric.com
 :: ithyk.frenchgerlemanelectric.com
 0.0.0.0 itibr.org.br
@@ -36489,10 +36435,6 @@
 :: its.fugetech.com
 0.0.0.0 its53new.rr.nu
 :: its53new.rr.nu
-0.0.0.0 itsdeskp007007.sitey.me
-:: itsdeskp007007.sitey.me
-0.0.0.0 itserviceemailupdate.sitey.me
-:: itserviceemailupdate.sitey.me
 0.0.0.0 itservicehelpseskportal.000webhostapp.com
 :: itservicehelpseskportal.000webhostapp.com
 0.0.0.0 itt.supporto-whtsuypp.com
@@ -36525,10 +36467,6 @@
 :: ivi.traflab.ru
 0.0.0.0 ivitrine.buscape.com
 :: ivitrine.buscape.com
-0.0.0.0 ivk-d.vyhino.org
-:: ivk-d.vyhino.org
-0.0.0.0 ivk.vyhino.org
-:: ivk.vyhino.org
 0.0.0.0 ivox.socratos.net
 :: ivox.socratos.net
 0.0.0.0 ivw.arcor.de
@@ -36789,8 +36727,6 @@
 :: jellyfish.pandora.xiaomi.com
 0.0.0.0 jenbourjg.5gbfree.com
 :: jenbourjg.5gbfree.com
-0.0.0.0 jenikamike754.000webhostapp.com
-:: jenikamike754.000webhostapp.com
 0.0.0.0 jenniferdechant89.000webhostapp.com
 :: jenniferdechant89.000webhostapp.com
 0.0.0.0 jenno.adsb4all.com
@@ -36959,10 +36895,6 @@
 :: joejdbjrmrkklfnmf.usr.me
 0.0.0.0 jogjadebatingforum.or.id
 :: jogjadebatingforum.or.id
-0.0.0.0 johngalvin.debutinfotech.com
-:: johngalvin.debutinfotech.com
-0.0.0.0 johnraines2017.000webhostapp.com
-:: johnraines2017.000webhostapp.com
 0.0.0.0 johnsoncityfamilyretreatcom.domainstel.org
 :: johnsoncityfamilyretreatcom.domainstel.org
 0.0.0.0 join.pro-gaming-world.com
@@ -36973,8 +36905,6 @@
 :: join.whitegfs.com
 0.0.0.0 join1.winhundred.com
 :: join1.winhundred.com
-0.0.0.0 joinit.ns13-wistee.fr
-:: joinit.ns13-wistee.fr
 0.0.0.0 jokerhaus.moskva-tv.com
 :: jokerhaus.moskva-tv.com
 0.0.0.0 jokowi12.000webhostapp.com
@@ -39105,6 +39035,8 @@
 :: log.spotify.com
 0.0.0.0 log.stat.kugou.com
 :: log.stat.kugou.com
+0.0.0.0 log.statistici.ro
+:: log.statistici.ro
 0.0.0.0 log.suchen.de
 :: log.suchen.de
 0.0.0.0 log.superweb.ws
@@ -39271,6 +39203,8 @@
 :: login.pavypal-activity.com.2-24021994.com
 0.0.0.0 login.paypal.update.scre-chkot.com
 :: login.paypal.update.scre-chkot.com
+0.0.0.0 login.peloclub.com
+:: login.peloclub.com
 0.0.0.0 login.secure.text.wfmobile.site
 :: login.secure.text.wfmobile.site
 0.0.0.0 login.wellsfargo.online.validate.data.docrenewx.com
@@ -42233,12 +42167,6 @@
 :: mmrj.entadsl.com
 0.0.0.0 mms.cnn.com
 :: mms.cnn.com
-0.0.0.0 mms.gmbh.sms13.de
-:: mms.gmbh.sms13.de
-0.0.0.0 mms.handys.sms13.de
-:: mms.handys.sms13.de
-0.0.0.0 mms.versand.sms13.de
-:: mms.versand.sms13.de
 0.0.0.0 mmtccchhhhh.000webhostapp.com
 :: mmtccchhhhh.000webhostapp.com
 0.0.0.0 mmvid.s3.amazonaws.com
@@ -42463,8 +42391,6 @@
 :: molla.gato1000.cl
 0.0.0.0 molowo.in.ua
 :: molowo.in.ua
-0.0.0.0 momstryanal.blogspot.com
-:: momstryanal.blogspot.com
 0.0.0.0 mon.0f8.cdnfarm18.com
 :: mon.0f8.cdnfarm18.com
 0.0.0.0 mon.2os.cdnfarm18.com
@@ -42481,8 +42407,6 @@
 :: mon.xtgreat.com
 0.0.0.0 monagences.espace3v-particuliers.com
 :: monagences.espace3v-particuliers.com
-0.0.0.0 monarchfind-a.akamaihd.net
-:: monarchfind-a.akamaihd.net
 0.0.0.0 moncompte-espace-freemobile.serv-frinfos.com
 :: moncompte-espace-freemobile.serv-frinfos.com
 0.0.0.0 moncompte-mobile.gzero.com.mx
@@ -42505,8 +42429,6 @@
 :: money.mfdrums.com
 0.0.0.0 money.qz828.com
 :: money.qz828.com
-0.0.0.0 moneylookout.yeahlinks.com
-:: moneylookout.yeahlinks.com
 0.0.0.0 monidopo.bee.pl
 :: monidopo.bee.pl
 0.0.0.0 monikakarasewicz.bialan.pl
@@ -42739,8 +42661,6 @@
 :: msite.baidu.com
 0.0.0.0 msjsma.gay.tathamservice.com
 :: msjsma.gay.tathamservice.com
-0.0.0.0 mskara.org.uk
-:: mskara.org.uk
 0.0.0.0 msmetrics.ws.sonos.com
 :: msmetrics.ws.sonos.com
 0.0.0.0 msn.uvwbox.de
@@ -43801,6 +43721,8 @@
 :: nnmd.000webhostapp.com
 0.0.0.0 nnrtsdf34dsjhb23rsdf.spannflow.com
 :: nnrtsdf34dsjhb23rsdf.spannflow.com
+0.0.0.0 nns.net.au
+:: nns.net.au
 0.0.0.0 nnvbxe.boss.northerndishedends.uk
 :: nnvbxe.boss.northerndishedends.uk
 0.0.0.0 no.counter.mtgnewmedia.se
@@ -46897,8 +46819,6 @@
 :: pap.zalando.de
 0.0.0.0 papapkz.myvnc.com
 :: papapkz.myvnc.com
-0.0.0.0 papercut.net.au
-:: papercut.net.au
 0.0.0.0 papi.slideme.org
 :: papi.slideme.org
 0.0.0.0 papyal.s3rv.me
@@ -47023,6 +46943,8 @@
 :: partner.superbahisaffiliates248.com
 0.0.0.0 partner.tagscreator.com
 :: partner.tagscreator.com
+0.0.0.0 partner.targoapp.ru
+:: partner.targoapp.ru
 0.0.0.0 partner.teufel.de
 :: partner.teufel.de
 0.0.0.0 partner.topcities.com
@@ -47675,8 +47597,6 @@
 :: pbd.sogou.com
 0.0.0.0 pbg2cs01.doteasy.com
 :: pbg2cs01.doteasy.com
-0.0.0.0 pbs.fkip.unja.ac.id
-:: pbs.fkip.unja.ac.id
 0.0.0.0 pbsiddhartha.ac.in
 :: pbsiddhartha.ac.in
 0.0.0.0 pbtcepjguasdwrwdb05k.maherstcottage.com.au
@@ -47879,8 +47799,6 @@
 :: pen.kidsonboats.net
 0.0.0.0 pen.zzn.com
 :: pen.zzn.com
-0.0.0.0 pendencia21.com.sapo.pt
-:: pendencia21.com.sapo.pt
 0.0.0.0 pending-secure-account-inc.hematech.co.id
 :: pending-secure-account-inc.hematech.co.id
 0.0.0.0 penelo90.beget.tech
@@ -47891,14 +47809,10 @@
 :: pensele.paladin-global.net
 0.0.0.0 peoplegraph.firstpartyapps.oaspapps.com
 :: peoplegraph.firstpartyapps.oaspapps.com
-0.0.0.0 peopleinmotion.datasenter.no
-:: peopleinmotion.datasenter.no
 0.0.0.0 peoria33884.cz.cc
 :: peoria33884.cz.cc
 0.0.0.0 pepelacer.computingservices123.com
 :: pepelacer.computingservices123.com
-0.0.0.0 peps20years.afg.vn
-:: peps20years.afg.vn
 0.0.0.0 peregrine.igg.biz
 :: peregrine.igg.biz
 0.0.0.0 perf-events.cloud.unity3d.com
@@ -48107,8 +48021,6 @@
 :: php.fark.com
 0.0.0.0 php.genesismedia.com
 :: php.genesismedia.com
-0.0.0.0 php01-30914.php01.systemetit.se
-:: php01-30914.php01.systemetit.se
 0.0.0.0 php2.twinner.com.tw
 :: php2.twinner.com.tw
 0.0.0.0 phpad.cqnews.net
@@ -48135,8 +48047,6 @@
 :: phpadsnew.new.natuurpark.nl
 0.0.0.0 phpadsnew.wn.com
 :: phpadsnew.wn.com
-0.0.0.0 phpmon.brainsonic.com
-:: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
 0.0.0.0 phuongdanhvonghe.edu.vn
@@ -51553,8 +51463,6 @@
 :: redirect.todayreward.net
 0.0.0.0 redirect.tracking202.com
 :: redirect.tracking202.com
-0.0.0.0 redirect.trafficreceiver.club
-:: redirect.trafficreceiver.club
 0.0.0.0 redirect.wister.biz
 :: redirect.wister.biz
 0.0.0.0 redirect.xmladfeed.com
@@ -52757,6 +52665,8 @@
 :: s.sh.qihoo.com
 0.0.0.0 s.spolecznosci.net
 :: s.spolecznosci.net
+0.0.0.0 s.statistici.ro
+:: s.statistici.ro
 0.0.0.0 s.stats.wordpress.com
 :: s.stats.wordpress.com
 0.0.0.0 s.trafficjam.cn
@@ -55755,6 +55665,8 @@
 :: smb-store.c66.me
 0.0.0.0 smblock.s3.amazonaws.com
 :: smblock.s3.amazonaws.com
+0.0.0.0 smc.silvercash.com
+:: smc.silvercash.com
 0.0.0.0 smetrics.aetn.com
 :: smetrics.aetn.com
 0.0.0.0 smetrics.att.com
@@ -58221,6 +58133,8 @@
 :: superwebnet2018-com.umbler.net
 0.0.0.0 supooreter-fannpaqee.regis-fanpage1.tk
 :: supooreter-fannpaqee.regis-fanpage1.tk
+0.0.0.0 supoort24.confriim-supporit.ml
+:: supoort24.confriim-supporit.ml
 0.0.0.0 suportfanpage2.accountfanspage9888.ml
 :: suportfanpage2.accountfanspage9888.ml
 0.0.0.0 suportyy2.recovery-fanpagee.gq
@@ -58271,6 +58185,8 @@
 :: support1718.000webhostapp.com
 0.0.0.0 support1718.at.ua
 :: support1718.at.ua
+0.0.0.0 support232.confrim-fanpage111.ga
+:: support232.confrim-fanpage111.ga
 0.0.0.0 support88.webredirect.org
 :: support88.webredirect.org
 0.0.0.0 supporte32-here.fanpagge-confrim.cf
@@ -59629,8 +59545,6 @@
 :: theoklis.keepfree.de
 0.0.0.0 theozone.tripod.com
 :: theozone.tripod.com
-0.0.0.0 therisinghope.org.pk
-:: therisinghope.org.pk
 0.0.0.0 thermomix.vorwerk.pl
 :: thermomix.vorwerk.pl
 0.0.0.0 thesslao54.000webhostapp.com
@@ -59727,8 +59641,6 @@
 :: tim8efnz.beget.tech
 0.0.0.0 timelog.moviebox.baofeng.com
 :: timelog.moviebox.baofeng.com
-0.0.0.0 timesheet.bms-engineering.lu
-:: timesheet.bms-engineering.lu
 0.0.0.0 timeslog.indiatimes.com
 :: timeslog.indiatimes.com
 0.0.0.0 timeslogtn.timesnow.tv
@@ -59891,8 +59803,6 @@
 :: tokoahbab.berniagabagus.com
 0.0.0.0 tolen.edu-gov2.kz
 :: tolen.edu-gov2.kz
-0.0.0.0 tomandqueenie.org.au
-:: tomandqueenie.org.au
 0.0.0.0 tomas.datanom.fi
 :: tomas.datanom.fi
 0.0.0.0 tomosetuci9.cz.cc
@@ -60073,8 +59983,6 @@
 :: toruk.tanx.com
 0.0.0.0 totalizandoatual.uni5.net
 :: totalizandoatual.uni5.net
-0.0.0.0 totaltabel.sslblindado.com
-:: totaltabel.sslblindado.com
 0.0.0.0 totalwellnesscleansereviews.moneysites.com
 :: totalwellnesscleansereviews.moneysites.com
 0.0.0.0 touchclarity.natwest.com
@@ -60089,8 +59997,6 @@
 :: tour.sweetdiscreet.com
 0.0.0.0 tour.xxxblackbook.com
 :: tour.xxxblackbook.com
-0.0.0.0 tourism.kavala.gr
-:: tourism.kavala.gr
 0.0.0.0 tours.imlive.com
 :: tours.imlive.com
 0.0.0.0 toutiao.jxnews.com.cn
@@ -60113,8 +60019,6 @@
 :: tpads.ovguide.com
 0.0.0.0 tpads.sv.publicus.com
 :: tpads.sv.publicus.com
-0.0.0.0 tpcyunlin.org.tw
-:: tpcyunlin.org.tw
 0.0.0.0 tpush.html5.qq.com
 :: tpush.html5.qq.com
 0.0.0.0 tr.affiliate.hu
@@ -67783,6 +67687,8 @@
 :: www.clanthol.com
 0.0.0.0 www.clarium.global.ssl.fastly.net
 :: www.clarium.global.ssl.fastly.net
+0.0.0.0 www.clck.ru
+:: www.clck.ru
 0.0.0.0 www.clear-request.com
 :: www.clear-request.com
 0.0.0.0 www.clearalgorithm.com
@@ -67985,6 +67891,8 @@
 :: www.customads.net
 0.0.0.0 www.cwahi.net
 :: www.cwahi.net
+0.0.0.0 www.cxcg.asia
+:: www.cxcg.asia
 0.0.0.0 www.cycleuniverseupdate.com
 :: www.cycleuniverseupdate.com
 0.0.0.0 www.czzcjlb.com
@@ -69083,6 +68991,8 @@
 :: www.instantdownloaderpro.com
 0.0.0.0 www.instanterzxjgftfip.download
 :: www.instanterzxjgftfip.download
+0.0.0.0 www.insteler.com
+:: www.insteler.com
 0.0.0.0 www.intangiblegrnokiq.download
 :: www.intangiblegrnokiq.download
 0.0.0.0 www.intelligentkid.com
@@ -70747,6 +70657,8 @@
 :: www.shuzilm.cn
 0.0.0.0 www.sieltre.it
 :: www.sieltre.it
+0.0.0.0 www.silvercash.com
+:: www.silvercash.com
 0.0.0.0 www.simplyhelper.com
 :: www.simplyhelper.com
 0.0.0.0 www.singlesadnetwork.com
@@ -73279,6 +73191,8 @@
 :: zi.kfqdf.com
 0.0.0.0 zia.org.in
 :: zia.org.in
+0.0.0.0 ziale.org.zm
+:: ziale.org.zm
 0.0.0.0 zibup.csheaven.com
 :: zibup.csheaven.com
 0.0.0.0 zicks.000webhostapp.com
