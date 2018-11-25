@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Nov 24 05:22:26 CET 2018
+# Last update: Sun Nov 25 05:19:16 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36680
+# Number of unique hostnames: 36690
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -23295,6 +23295,8 @@
 :: concede.fmtlib.net
 0.0.0.0 concernant-votre-remboursementimpots.releve-formu.com
 :: concernant-votre-remboursementimpots.releve-formu.com
+0.0.0.0 concertads-configs.vox-cdn.com
+:: concertads-configs.vox-cdn.com
 0.0.0.0 condemnatory-corner.000webhostapp.com
 :: condemnatory-corner.000webhostapp.com
 0.0.0.0 conduceseguro.gob.mx
@@ -28559,6 +28561,8 @@
 :: e.tuoaa.com
 0.0.0.0 e.vaxyz.com
 :: e.vaxyz.com
+0.0.0.0 e.vgaom.com
+:: e.vgaom.com
 0.0.0.0 e.wlues.com
 :: e.wlues.com
 0.0.0.0 e.x.cn.xtgreat.com
@@ -38951,6 +38955,8 @@
 :: log.droid4x.cn
 0.0.0.0 log.ekitan.com
 :: log.ekitan.com
+0.0.0.0 log.espn.com
+:: log.espn.com
 0.0.0.0 log.fc.yahoo.com
 :: log.fc.yahoo.com
 0.0.0.0 log.formr.io
@@ -39671,6 +39677,8 @@
 :: m.carbide-good.com
 0.0.0.0 m.cbeif.com
 :: m.cbeif.com
+0.0.0.0 m.cdouj.com
+:: m.cdouj.com
 0.0.0.0 m.cenrs.com
 :: m.cenrs.com
 0.0.0.0 m.chenhuia.com
@@ -39909,6 +39917,8 @@
 :: m.tamilmalls.com
 0.0.0.0 m.tansuotv.com
 :: m.tansuotv.com
+0.0.0.0 m.tbaiq.com
+:: m.tbaiq.com
 0.0.0.0 m.tiantianedu.net
 :: m.tiantianedu.net
 0.0.0.0 m.trb.com
@@ -39927,6 +39937,8 @@
 :: m.usersonline.com
 0.0.0.0 m.vaxyz.com
 :: m.vaxyz.com
+0.0.0.0 m.vgaom.com
+:: m.vgaom.com
 0.0.0.0 m.vpadn.com
 :: m.vpadn.com
 0.0.0.0 m.wankz.com
@@ -42493,6 +42505,8 @@
 :: mostanude.890m.com
 0.0.0.0 mostat.wps.cn
 :: mostat.wps.cn
+0.0.0.0 motoe.plokr.com
+:: motoe.plokr.com
 0.0.0.0 motu.p4p.sina.com.cn
 :: motu.p4p.sina.com.cn
 0.0.0.0 motu.pagechoice.net
@@ -47977,6 +47991,8 @@
 :: photo.haoquangou.cn
 0.0.0.0 photo.lyghjzs.cn
 :: photo.lyghjzs.cn
+0.0.0.0 photo.rdguj.cn
+:: photo.rdguj.cn
 0.0.0.0 photo.shyexiang.cn
 :: photo.shyexiang.cn
 0.0.0.0 photo.video.gay.free.fr
@@ -63327,6 +63343,8 @@
 :: usads.imdb.com
 0.0.0.0 usads.imdb.nl
 :: usads.imdb.nl
+0.0.0.0 usao.77gog.com
+:: usao.77gog.com
 0.0.0.0 usarmy.vo.llnwd.net
 :: usarmy.vo.llnwd.net
 0.0.0.0 usatoday.app.ur.gcion.com
@@ -63739,8 +63757,6 @@
 :: vcu.collserve.com
 0.0.0.0 vcuwyfoocergpjx.fgppchg.fgpp.com
 :: vcuwyfoocergpjx.fgppchg.fgpp.com
-0.0.0.0 vd.l.qq.com
-:: vd.l.qq.com
 0.0.0.0 vda.17173.com
 :: vda.17173.com
 0.0.0.0 vda.gtarcade.com
@@ -66757,6 +66773,8 @@
 :: www.8066hg.com
 0.0.0.0 www.8269996.com
 :: www.8269996.com
+0.0.0.0 www.83692.com
+:: www.83692.com
 0.0.0.0 www.849558.com
 :: www.849558.com
 0.0.0.0 www.86kx.com
@@ -71905,6 +71923,8 @@
 :: www25.victoriassecret.com
 0.0.0.0 www250.dm599.com
 :: www250.dm599.com
+0.0.0.0 www26.llbb88.com
+:: www26.llbb88.com
 0.0.0.0 www281.rentimeinvz.com
 :: www281.rentimeinvz.com
 0.0.0.0 www293.lewwwz.com
