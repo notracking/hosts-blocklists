@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Nov 26 05:22:29 CET 2018
+# Last update: Tue Nov 27 05:34:05 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36672
+# Number of unique hostnames: 36699
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -275,6 +275,8 @@
 :: 1.xilu.com
 0.0.0.0 1.xspic.com
 :: 1.xspic.com
+0.0.0.0 1.xuexi.la
+:: 1.xuexi.la
 0.0.0.0 1.xxszw.cn
 :: 1.xxszw.cn
 0.0.0.0 1.yac8.net
@@ -13677,6 +13679,10 @@
 :: alpha.brand.sogou.com
 0.0.0.0 alpha.easy-hit-counters.com
 :: alpha.easy-hit-counters.com
+0.0.0.0 alpha.telemetry.microsft.com
+:: alpha.telemetry.microsft.com
+0.0.0.0 alpha.telemetry.microsoft.com
+:: alpha.telemetry.microsoft.com
 0.0.0.0 alphasite.indonet.co.id
 :: alphasite.indonet.co.id
 0.0.0.0 alphonso.hebergratuit.net
@@ -14749,8 +14755,6 @@
 :: api.ad.xiaomi.com
 0.0.0.0 api.ad4push.com
 :: api.ad4push.com
-0.0.0.0 api.adcalls.nl
-:: api.adcalls.nl
 0.0.0.0 api.adcome.cn
 :: api.adcome.cn
 0.0.0.0 api.adintext.net
@@ -14947,8 +14951,6 @@
 :: api.recommendedsw.com
 0.0.0.0 api.safedk.com
 :: api.safedk.com
-0.0.0.0 api.salesfeed.com
-:: api.salesfeed.com
 0.0.0.0 api.sec.intl.miui.com
 :: api.sec.intl.miui.com
 0.0.0.0 api.sec.miui.com
@@ -15861,6 +15863,8 @@
 :: asia.i-kiddi.com
 0.0.0.0 asimgs.pplive.cn
 :: asimgs.pplive.cn
+0.0.0.0 asimov-win.settings.data.microsoft.com.akadns.net
+:: asimov-win.settings.data.microsoft.com.akadns.net
 0.0.0.0 asistencia.net.pe
 :: asistencia.net.pe
 0.0.0.0 ask.teleskip.info
@@ -18843,6 +18847,8 @@
 :: blog.raw-recruits.com
 0.0.0.0 blog.replacemycontacts.com
 :: blog.replacemycontacts.com
+0.0.0.0 blog.sefaireaider.com
+:: blog.sefaireaider.com
 0.0.0.0 blog.siisa.com.ar
 :: blog.siisa.com.ar
 0.0.0.0 blog.starweb.com.br
@@ -20601,6 +20607,8 @@
 :: cdn-i.dmdentertainment.com
 0.0.0.0 cdn-lb.vungle.akadns.net
 :: cdn-lb.vungle.akadns.net
+0.0.0.0 cdn-media.brightline.tv
+:: cdn-media.brightline.tv
 0.0.0.0 cdn-partners-references.lesoir.be
 :: cdn-partners-references.lesoir.be
 0.0.0.0 cdn-qc.coccoc.com
@@ -22099,6 +22107,8 @@
 :: ciscotred.cz.cc
 0.0.0.0 citi.uverify.info
 :: citi.uverify.info
+0.0.0.0 citizens.prettygoodwebhost.com
+:: citizens.prettygoodwebhost.com
 0.0.0.0 citizens66.000webhostapp.com
 :: citizens66.000webhostapp.com
 0.0.0.0 citizensb1.000webhostapp.com
@@ -23371,6 +23381,8 @@
 :: confrim-supoort1.regist3r2.tk
 0.0.0.0 confrimascion98.helpfanspagea.gq
 :: confrimascion98.helpfanspagea.gq
+0.0.0.0 congresoce15.interlat.co
+:: congresoce15.interlat.co
 0.0.0.0 connct.secure.wellsfargo.com.aaru486.com.au
 :: connct.secure.wellsfargo.com.aaru486.com.au
 0.0.0.0 connect-go.000webhostapp.com
@@ -24267,8 +24279,6 @@
 :: crimg.sv.publicus.com
 0.0.0.0 crimson.superdomainzone.com
 :: crimson.superdomainzone.com
-0.0.0.0 crl.microsoft.com
-:: crl.microsoft.com
 0.0.0.0 crm-eve.b2b.alibaba-inc.com
 :: crm-eve.b2b.alibaba-inc.com
 0.0.0.0 crm.aaditech.com
@@ -24597,6 +24607,8 @@
 :: cwps.carview.co.jp
 0.0.0.0 cws-cctv.conviva.com
 :: cws-cctv.conviva.com
+0.0.0.0 cws-hulu.conviva.com
+:: cws-hulu.conviva.com
 0.0.0.0 cws.conviva.com
 :: cws.conviva.com
 0.0.0.0 cws.psccint.com
@@ -26145,16 +26157,12 @@
 :: dashboard.1p.bugsnag.appstore.a2z.com
 0.0.0.0 dashboard.aca.bugsnag.appstore.a2z.com
 :: dashboard.aca.bugsnag.appstore.a2z.com
-0.0.0.0 dashboard.adcalls.nl
-:: dashboard.adcalls.nl
 0.0.0.0 dashboard.bugsnag.appstore.a2z.com
 :: dashboard.bugsnag.appstore.a2z.com
 0.0.0.0 dashboard.firetv.bugsnag.appstore.a2z.com
 :: dashboard.firetv.bugsnag.appstore.a2z.com
 0.0.0.0 dashboard.stripe.verification.canowm.com
 :: dashboard.stripe.verification.canowm.com
-0.0.0.0 dashboardnew.adcalls.nl
-:: dashboardnew.adcalls.nl
 0.0.0.0 dasp.org.pk
 :: dasp.org.pk
 0.0.0.0 dat.gtags.net
@@ -26313,8 +26321,14 @@
 :: db1.site-stats.net
 0.0.0.0 db2.fuz.cc
 :: db2.fuz.cc
+0.0.0.0 db5-eap.settings-win.data.microsoft.com.akadns.net
+:: db5-eap.settings-win.data.microsoft.com.akadns.net
+0.0.0.0 db5.settings-win.data.microsoft.com.akadns.net
+:: db5.settings-win.data.microsoft.com.akadns.net
 0.0.0.0 db5.settings.data.microsoft.com.akadns.net
 :: db5.settings.data.microsoft.com.akadns.net
+0.0.0.0 db5.vortex.data.microsoft.com.akadns.net
+:: db5.vortex.data.microsoft.com.akadns.net
 0.0.0.0 dbam.dashbida.com
 :: dbam.dashbida.com
 0.0.0.0 dbankscj.beget.tech
@@ -27627,6 +27641,8 @@
 :: doollli.erotic-place.org
 0.0.0.0 door.jessami.com
 :: door.jessami.com
+0.0.0.0 doppler.hulu.com
+:: doppler.hulu.com
 0.0.0.0 dopsxf4b.beget.tech
 :: dopsxf4b.beget.tech
 0.0.0.0 dorado.xiaojukeji.com
@@ -28417,6 +28433,8 @@
 :: e-system.w3000549.ferozo.com
 0.0.0.0 e-transfer.kumarindustries.net
 :: e-transfer.kumarindustries.net
+0.0.0.0 e-video.billioncart.in
+:: e-video.billioncart.in
 0.0.0.0 e-zshopper.activeshopper.com
 :: e-zshopper.activeshopper.com
 0.0.0.0 e.1919388.net
@@ -29479,6 +29497,10 @@
 :: eu.sushipool.com
 0.0.0.0 eu.track.digitaladsystems.com
 :: eu.track.digitaladsystems.com
+0.0.0.0 eu.vortex-win.data.microsft.com
+:: eu.vortex-win.data.microsft.com
+0.0.0.0 eu.vortex-win.data.microsoft.com
+:: eu.vortex-win.data.microsoft.com
 0.0.0.0 eu.vortex.data.microsoft.com
 :: eu.vortex.data.microsoft.com
 0.0.0.0 eu.webprodcdn.com
@@ -32071,8 +32093,12 @@
 :: geo.query.yahoo.com
 0.0.0.0 geo.sanoma.fi
 :: geo.sanoma.fi
+0.0.0.0 geo.settings-win.data.microsoft.com.akadns.net
+:: geo.settings-win.data.microsoft.com.akadns.net
 0.0.0.0 geo.settings.data.microsoft.com.akadns.net
 :: geo.settings.data.microsoft.com.akadns.net
+0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
+:: geo.vortex.data.microsoft.com.akadns.net
 0.0.0.0 geo.xxxblackbook.com
 :: geo.xxxblackbook.com
 0.0.0.0 geo.yad2.co.il
@@ -37333,6 +37359,8 @@
 :: jzrvquay.angelcities.com
 0.0.0.0 k.16vcd.com
 :: k.16vcd.com
+0.0.0.0 k.bnuni.com
+:: k.bnuni.com
 0.0.0.0 k.h.a.d.free.fr
 :: k.h.a.d.free.fr
 0.0.0.0 k.iinfo.cz
@@ -39745,8 +39773,6 @@
 :: m.haowj.com.cn
 0.0.0.0 m.hbans.com
 :: m.hbans.com
-0.0.0.0 m.hcaig.com
-:: m.hcaig.com
 0.0.0.0 m.hchag.com
 :: m.hchag.com
 0.0.0.0 m.hhllyt.com
@@ -39905,6 +39931,8 @@
 :: m.vaxyz.com
 0.0.0.0 m.vgaom.com
 :: m.vgaom.com
+0.0.0.0 m.vjuer.com
+:: m.vjuer.com
 0.0.0.0 m.vpadn.com
 :: m.vpadn.com
 0.0.0.0 m.wankz.com
@@ -43941,8 +43969,6 @@
 :: nrads.1host.co.il
 0.0.0.0 nro.gov.sd
 :: nro.gov.sd
-0.0.0.0 ns-cdn.neustar.biz
-:: ns-cdn.neustar.biz
 0.0.0.0 ns.cac.com.cn
 :: ns.cac.com.cn
 0.0.0.0 ns.exodus.net
@@ -44855,6 +44881,8 @@
 :: oc-track.autonomycloud.com
 0.0.0.0 oc.umeng.co
 :: oc.umeng.co
+0.0.0.0 oca.telemetry.microsft.com
+:: oca.telemetry.microsft.com
 0.0.0.0 oca.telemetry.microsoft.com
 :: oca.telemetry.microsoft.com
 0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
@@ -47785,6 +47813,8 @@
 :: peoplegraph.firstpartyapps.oaspapps.com
 0.0.0.0 peopleinmotion.datasenter.no
 :: peopleinmotion.datasenter.no
+0.0.0.0 peoplesfoundation.org.uk
+:: peoplesfoundation.org.uk
 0.0.0.0 peoria33884.cz.cc
 :: peoria33884.cz.cc
 0.0.0.0 pepelacer.computingservices123.com
@@ -49589,6 +49619,8 @@
 :: programyfb.blogspot.com
 0.0.0.0 proguyllserv.godaddysites.com
 :: proguyllserv.godaddysites.com
+0.0.0.0 proiect.edumagazin.ro
+:: proiect.edumagazin.ro
 0.0.0.0 proinged.org.ar
 :: proinged.org.ar
 0.0.0.0 prointer.net.ua
@@ -54745,6 +54777,8 @@
 :: services.apple-security.khk0l3vf3.ilfsacademy.org
 0.0.0.0 services.avoidunlimitedaccount.com
 :: services.avoidunlimitedaccount.com
+0.0.0.0 services.brightline.tv
+:: services.brightline.tv
 0.0.0.0 services.hearstmags.com
 :: services.hearstmags.com
 0.0.0.0 services.mailermailer.com
@@ -59231,6 +59265,8 @@
 :: telemetry-experiment.cdn.mozilla.net
 0.0.0.0 telemetry-in.battle.net
 :: telemetry-in.battle.net
+0.0.0.0 telemetry.algolia.com
+:: telemetry.algolia.com
 0.0.0.0 telemetry.api.swiftkey.com
 :: telemetry.api.swiftkey.com
 0.0.0.0 telemetry.appex.bing.net
@@ -61073,6 +61109,8 @@
 :: tracking.absolstats.com
 0.0.0.0 tracking.acekoala.com
 :: tracking.acekoala.com
+0.0.0.0 tracking.acs529.com
+:: tracking.acs529.com
 0.0.0.0 tracking.actionads.ru
 :: tracking.actionads.ru
 0.0.0.0 tracking.ad-survey.com
@@ -63205,6 +63243,10 @@
 :: us.u1.yimg.com
 0.0.0.0 us.v1.yimg.com
 :: us.v1.yimg.com
+0.0.0.0 us.vortex-win.data.microsft.com
+:: us.vortex-win.data.microsft.com
+0.0.0.0 us.vortex-win.data.microsoft.com
+:: us.vortex-win.data.microsoft.com
 0.0.0.0 us.w1.yimg.com
 :: us.w1.yimg.com
 0.0.0.0 us.wa.ui-portal.com
@@ -63549,8 +63591,12 @@
 :: v1.ujian.cc
 0.0.0.0 v1.your-notification.tools
 :: v1.your-notification.tools
+0.0.0.0 v10-win.vortex.data.microsft.com.akadns.net
+:: v10-win.vortex.data.microsft.com.akadns.net
 0.0.0.0 v10.events.data.microsoft.com
 :: v10.events.data.microsoft.com
+0.0.0.0 v10.vortex-win.data.microsft.com
+:: v10.vortex-win.data.microsft.com
 0.0.0.0 v10c.events.data.microsoft.com
 :: v10c.events.data.microsoft.com
 0.0.0.0 v16.56.com
@@ -64385,12 +64431,18 @@
 :: vortex-cy2.metron.live.com.nsatc.net
 0.0.0.0 vortex-sandbox.data.microsoft.com
 :: vortex-sandbox.data.microsoft.com
+0.0.0.0 vortex-win-sandbox.data.microsoft.com
+:: vortex-win-sandbox.data.microsoft.com
 0.0.0.0 vortex-win.data.microsoft.com
 :: vortex-win.data.microsoft.com
 0.0.0.0 vortex.data.glbdns2.microsoft.com
 :: vortex.data.glbdns2.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
 :: vortex.data.microsoft.com
+0.0.0.0 vortex.hulu.com
+:: vortex.hulu.com
+0.0.0.0 vortex.hulu.com.akadns.net
+:: vortex.hulu.com.akadns.net
 0.0.0.0 vote.sparklit.com
 :: vote.sparklit.com
 0.0.0.0 votos-u.webcindario.com
@@ -67991,6 +68043,8 @@
 :: www.donneuropa.it
 0.0.0.0 www.doodream.com
 :: www.doodream.com
+0.0.0.0 www.doppler.hulu.com
+:: www.doppler.hulu.com
 0.0.0.0 www.doubleclick.ne.jp
 :: www.doubleclick.ne.jp
 0.0.0.0 www.doublelvisions.com
@@ -69791,8 +69845,6 @@
 :: www.nbcsearch.com
 0.0.0.0 www.nbyuxin.com
 :: www.nbyuxin.com
-0.0.0.0 www.ncoyqc.com
-:: www.ncoyqc.com
 0.0.0.0 www.ncsreporting.com
 :: www.ncsreporting.com
 0.0.0.0 www.needmorehits.com
@@ -71367,6 +71419,8 @@
 :: www.vokr-gtavc.ic.cz
 0.0.0.0 www.volleyball-doppeldorf.de
 :: www.volleyball-doppeldorf.de
+0.0.0.0 www.vortex.hulu.com
+:: www.vortex.hulu.com
 0.0.0.0 www.voucher-for-you.online
 :: www.voucher-for-you.online
 0.0.0.0 www.vpromo.com
