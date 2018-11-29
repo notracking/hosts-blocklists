@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Nov 28 05:26:47 CET 2018
+# Last update: Thu Nov 29 05:31:56 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35539
+# Number of unique hostnames: 35558
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -419,6 +419,8 @@
 :: 17k.originalsafteyredir.com
 0.0.0.0 1866809.securefastserver.com
 :: 1866809.securefastserver.com
+0.0.0.0 1873083787.rsc.cdn77.org
+:: 1873083787.rsc.cdn77.org
 0.0.0.0 189-211-177-171.static.axtel.net
 :: 189-211-177-171.static.axtel.net
 0.0.0.0 1901.nordstrom.com
@@ -483,6 +485,8 @@
 :: 2.letvlive.com
 0.0.0.0 2.mobixs.cn
 :: 2.mobixs.cn
+0.0.0.0 2.moulding.z8.ru
+:: 2.moulding.z8.ru
 0.0.0.0 2.nanrenwo.net
 :: 2.nanrenwo.net
 0.0.0.0 2.rengshu.com
@@ -2857,6 +2861,8 @@
 :: a207.p.f.qz3.net
 0.0.0.0 a2132959.0lx.net
 :: a2132959.0lx.net
+0.0.0.0 a248.e.akamai.net
+:: a248.e.akamai.net
 0.0.0.0 a2plvcpnl14118.atendclients.com
 :: a2plvcpnl14118.atendclients.com
 0.0.0.0 a2shd.realshieldlinked.com
@@ -6115,8 +6121,6 @@
 :: ads-union.jd.com
 0.0.0.0 ads-v-darwin.hulu.com
 :: ads-v-darwin.hulu.com
-0.0.0.0 ads-v-darwin.hulustream.com
-:: ads-v-darwin.hulustream.com
 0.0.0.0 ads-web.mail.com
 :: ads-web.mail.com
 0.0.0.0 ads.0x7f000001.com
@@ -13761,6 +13765,8 @@
 :: americanascliente.giize.com
 0.0.0.0 americansingles.click-url.com
 :: americansingles.click-url.com
+0.0.0.0 amerpoint.nichost.ru
+:: amerpoint.nichost.ru
 0.0.0.0 ammmmazonm.temp.swtest.ru
 :: ammmmazonm.temp.swtest.ru
 0.0.0.0 amoqixadomolir.blogspot.com
@@ -14515,6 +14521,8 @@
 :: apac.analytics.yahoo.com
 0.0.0.0 apac.rel.msn.com
 :: apac.rel.msn.com
+0.0.0.0 apac1.notify.windows.com.akadns.net
+:: apac1.notify.windows.com.akadns.net
 0.0.0.0 apache21.hostbasket.com
 :: apache21.hostbasket.com
 0.0.0.0 apachestat.cimedia.net
@@ -18135,6 +18143,8 @@
 :: bellsouthbiz.zip2.com
 0.0.0.0 belogss.herokuapp.com
 :: belogss.herokuapp.com
+0.0.0.0 bemsar.tevci.org
+:: bemsar.tevci.org
 0.0.0.0 benabdy8.beget.tech
 :: benabdy8.beget.tech
 0.0.0.0 benstock.free.fr
@@ -19099,6 +19109,8 @@
 :: builds.cngkitwala.com
 0.0.0.0 builds.firetv.bugsnag.appstore.a2z.com
 :: builds.firetv.bugsnag.appstore.a2z.com
+0.0.0.0 buki.nsk.hr
+:: buki.nsk.hr
 0.0.0.0 bulksms.teamserv.com.eg
 :: bulksms.teamserv.com.eg
 0.0.0.0 bullybarricade.consultitdata.com
@@ -21781,6 +21793,8 @@
 :: click.engage.xbox.com
 0.0.0.0 click.ewebse.com
 :: click.ewebse.com
+0.0.0.0 click.expertsmeetings.org
+:: click.expertsmeetings.org
 0.0.0.0 click.eyk.net
 :: click.eyk.net
 0.0.0.0 click.findthewebsiteyouneed.com
@@ -23995,8 +24009,6 @@
 :: curepipe.zezivrezom.org
 0.0.0.0 curraldedentro.mg.gov.br
 :: curraldedentro.mg.gov.br
-0.0.0.0 current.sina.com.cn
-:: current.sina.com.cn
 0.0.0.0 cursor.kvada.globescale.com
 :: cursor.kvada.globescale.com
 0.0.0.0 cursosobej.sslblindado.com
@@ -25351,6 +25363,8 @@
 :: d42tbok7l2bg1.cloudfront.net
 0.0.0.0 d49z64r3ud4kq.cloudfront.net
 :: d49z64r3ud4kq.cloudfront.net
+0.0.0.0 d4ngwggzm3w7j.cloudfront.net
+:: d4ngwggzm3w7j.cloudfront.net
 0.0.0.0 d4pz26d5itt3n.cloudfront.net
 :: d4pz26d5itt3n.cloudfront.net
 0.0.0.0 d5.sina.com.cn
@@ -27895,6 +27909,8 @@
 :: e.t71q.com
 0.0.0.0 e.targetfuel.com
 :: e.targetfuel.com
+0.0.0.0 e.tchep.com
+:: e.tchep.com
 0.0.0.0 e.tdmagroup.com
 :: e.tdmagroup.com
 0.0.0.0 e.tf.360.cn
@@ -28437,6 +28453,8 @@
 :: en.ntdzkj.com
 0.0.0.0 en.ultrex.ru
 :: en.ultrex.ru
+0.0.0.0 en.worthfind.com
+:: en.worthfind.com
 0.0.0.0 enackhlks.epac.to
 :: enackhlks.epac.to
 0.0.0.0 encoding.8openid.assoc.handle.usflexopenid.claimed.id.asdwe21a1e23few143ew.wt154t23dg1sd.2g1456er1.241as53321.30.asrrr21sa.0d1w5421.sa1e54t21y.0er1iy.laduscha.com.au
@@ -30879,6 +30897,8 @@
 :: gall.dcinside.com
 0.0.0.0 galleries1.justcreampie.com
 :: galleries1.justcreampie.com
+0.0.0.0 galos.ekoyazilim.com
+:: galos.ekoyazilim.com
 0.0.0.0 gambero3.cs.tin.it
 :: gambero3.cs.tin.it
 0.0.0.0 game-res.meizu.com
@@ -32229,6 +32249,8 @@
 :: hades.qyer.com
 0.0.0.0 haedong.es.kr
 :: haedong.es.kr
+0.0.0.0 haganelectronics.rubickdesigns.com
+:: haganelectronics.rubickdesigns.com
 0.0.0.0 hai3ymtnvi.sfdtewrgfc.madpendesign.com.au
 :: hai3ymtnvi.sfdtewrgfc.madpendesign.com.au
 0.0.0.0 hair-dos.resourcesarchive.com
@@ -32393,8 +32415,6 @@
 :: hdj.baidu.com
 0.0.0.0 hdjhsudhe.kuaizhan.com
 :: hdjhsudhe.kuaizhan.com
-0.0.0.0 hdredirect-lb3-890977680.us-east-1.elb.amazonaws.com
-:: hdredirect-lb3-890977680.us-east-1.elb.amazonaws.com
 0.0.0.0 hdsrc-a.akamaihd.net
 :: hdsrc-a.akamaihd.net
 0.0.0.0 hdv1sk62nn56gtrozwrc.viomil.ro
@@ -38677,6 +38697,8 @@
 :: m.tansuotv.com
 0.0.0.0 m.tbaiq.com
 :: m.tbaiq.com
+0.0.0.0 m.tchep.com
+:: m.tchep.com
 0.0.0.0 m.tiantianedu.net
 :: m.tiantianedu.net
 0.0.0.0 m.trb.com
@@ -38695,8 +38717,6 @@
 :: m.usersonline.com
 0.0.0.0 m.vaxyz.com
 :: m.vaxyz.com
-0.0.0.0 m.vjuer.com
-:: m.vjuer.com
 0.0.0.0 m.vpadn.com
 :: m.vpadn.com
 0.0.0.0 m.wankz.com
@@ -45219,6 +45239,8 @@
 :: pacificspraybooths.com.au.secureserverdocumentaccountonline.com.sellclerk.com
 0.0.0.0 pacman.gkgar.com
 :: pacman.gkgar.com
+0.0.0.0 paczkomat.biz.pl
+:: paczkomat.biz.pl
 0.0.0.0 padsdel.cdnads.com
 :: padsdel.cdnads.com
 0.0.0.0 page-01.pe.hu
@@ -45611,6 +45633,8 @@
 :: pat.vyudu.tech
 0.0.0.0 pata.bratimir.cpanel.in.rs
 :: pata.bratimir.cpanel.in.rs
+0.0.0.0 patandsca.exsite.info
+:: patandsca.exsite.info
 0.0.0.0 patio-furniture.dreamhoster.com
 :: patio-furniture.dreamhoster.com
 0.0.0.0 patogh-persian.persiangig.com
@@ -51055,6 +51079,8 @@
 :: s12an3.boss.northerndishedends.uk
 0.0.0.0 s133d7.virtualxs.com
 :: s133d7.virtualxs.com
+0.0.0.0 s18501.p519.sites.pressdns.com
+:: s18501.p519.sites.pressdns.com
 0.0.0.0 s1magnettvcom.maynemyltf.netdna-cdn.com
 :: s1magnettvcom.maynemyltf.netdna-cdn.com
 0.0.0.0 s1r.tut.by
@@ -53087,6 +53113,8 @@
 :: sg.winmobi.me
 0.0.0.0 sg.yimg.com
 :: sg.yimg.com
+0.0.0.0 sg2p.wns.windows.com
+:: sg2p.wns.windows.com
 0.0.0.0 sgcdn.duplomediaas.netdna-cdn.com
 :: sgcdn.duplomediaas.netdna-cdn.com
 0.0.0.0 sgg.southcn.com
@@ -53529,6 +53557,8 @@
 :: site1.cybertechpp.com
 0.0.0.0 site2.criaderoeleclipse.co
 :: site2.criaderoeleclipse.co
+0.0.0.0 site2.cybertechpp.com
+:: site2.cybertechpp.com
 0.0.0.0 siteadvisor.com-br.site
 :: siteadvisor.com-br.site
 0.0.0.0 sitebrand.geeks.com
@@ -61421,6 +61451,8 @@
 :: v1.your-notification.tools
 0.0.0.0 v10-win.vortex.data.microsft.com.akadns.net
 :: v10-win.vortex.data.microsft.com.akadns.net
+0.0.0.0 v10-win.vortex.data.microsoft.com.akadns.net
+:: v10-win.vortex.data.microsoft.com.akadns.net
 0.0.0.0 v10.events.data.microsoft.com
 :: v10.events.data.microsoft.com
 0.0.0.0 v10.vortex-win.data.microsft.com
@@ -61565,6 +61597,8 @@
 :: vbb55d.koll.pershoreairporttransfers.co.uk
 0.0.0.0 vbefux.moro.pershoreprivatehire.co.uk
 :: vbefux.moro.pershoreprivatehire.co.uk
+0.0.0.0 vblaw.exsite.info
+:: vblaw.exsite.info
 0.0.0.0 vboxsvr.ovh.net
 :: vboxsvr.ovh.net
 0.0.0.0 vbtdc.saqibsiddiqui.com
@@ -61693,6 +61727,8 @@
 :: verifikasi9888.regis-from-alert32.tk
 0.0.0.0 verifikasihakun771.wixsite.com
 :: verifikasihakun771.wixsite.com
+0.0.0.0 verifikasiidaf11.wixsite.com
+:: verifikasiidaf11.wixsite.com
 0.0.0.0 verify-account-customer.amm-ku.com
 :: verify-account-customer.amm-ku.com
 0.0.0.0 verify-bowiestate-edu.wz.sk
@@ -70389,6 +70425,8 @@
 :: y.shuoshuocm.com
 0.0.0.0 y.un-technologies.com
 :: y.un-technologies.com
+0.0.0.0 y.unilz588.com
+:: y.unilz588.com
 0.0.0.0 y1.spreton.com
 :: y1.spreton.com
 0.0.0.0 y3.analytics.yahoo.com
