@@ -1,6 +1,6 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Nov 30 06:31:29 CET 2018
+# Last update: Sat Dec 1 05:23:29 CET 2018
 # Filter supports ipv4 and ipv6
 # Number of unique hostnames: 35464
 #################################[INFO]##################################
@@ -2435,6 +2435,8 @@
 :: a.dangdang.com
 0.0.0.0 a.dianjoy.com
 :: a.dianjoy.com
+0.0.0.0 a.diaoyu.cn
+:: a.diaoyu.cn
 0.0.0.0 a.dounanhuahui.com
 :: a.dounanhuahui.com
 0.0.0.0 a.duanmeiwen.com
@@ -14923,8 +14925,6 @@
 :: apix.web.analytics.yahoo.com
 0.0.0.0 apk-ssl.tancdn.com
 :: apk-ssl.tancdn.com
-0.0.0.0 apk.gelinboer.cn
-:: apk.gelinboer.cn
 0.0.0.0 apk.idate520.com
 :: apk.idate520.com
 0.0.0.0 apk.supfast.net
@@ -32301,8 +32301,6 @@
 :: hdj.baidu.com
 0.0.0.0 hdjhsudhe.kuaizhan.com
 :: hdjhsudhe.kuaizhan.com
-0.0.0.0 hdredirect-lb3-890977680.us-east-1.elb.amazonaws.com
-:: hdredirect-lb3-890977680.us-east-1.elb.amazonaws.com
 0.0.0.0 hdsrc-a.akamaihd.net
 :: hdsrc-a.akamaihd.net
 0.0.0.0 hdv1sk62nn56gtrozwrc.viomil.ro
@@ -62895,6 +62893,8 @@
 :: webapps.paypal.com.secure.authflow-account.management
 0.0.0.0 webapps.paypal.com.signin.trukt.biz
 :: webapps.paypal.com.signin.trukt.biz
+0.0.0.0 webapps9282.serveirc.com
+:: webapps9282.serveirc.com
 0.0.0.0 webappss09.paypls-manage-accounts.com
 :: webappss09.paypls-manage-accounts.com
 0.0.0.0 webapss.paypal.de.signin.yabse.net
