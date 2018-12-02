@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Dec 1 05:23:29 CET 2018
+# Last update: Sun Dec 2 05:17:21 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35464
+# Number of unique hostnames: 35466
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -13505,8 +13505,6 @@
 :: allegro.pl.showitme.pl
 0.0.0.0 alleron.andree.free.fr
 :: alleron.andree.free.fr
-0.0.0.0 allerotiksex2.aus.cc
-:: allerotiksex2.aus.cc
 0.0.0.0 allisto.rusjohn.ru
 :: allisto.rusjohn.ru
 0.0.0.0 allvideo.org.uk
@@ -16453,6 +16451,8 @@
 :: baidut.github.io
 0.0.0.0 baidutv.baidu.com
 :: baidutv.baidu.com
+0.0.0.0 baiduwapjs1.chinaiiss.com
+:: baiduwapjs1.chinaiiss.com
 0.0.0.0 baifen.music.baidu.com
 :: baifen.music.baidu.com
 0.0.0.0 bajasae.grupos.usb.ve
@@ -27029,8 +27029,6 @@
 :: doubleclick.ne.jp
 0.0.0.0 doubleclick.shockwave.com
 :: doubleclick.shockwave.com
-0.0.0.0 doubleclick.tv002.com
-:: doubleclick.tv002.com
 0.0.0.0 doucments.igg.biz
 :: doucments.igg.biz
 0.0.0.0 doug1izaerwt3.cloudfront.net
@@ -34795,6 +34793,8 @@
 :: ingameads.gameloft.com
 0.0.0.0 ingamesads.gameloft.com
 :: ingamesads.gameloft.com
+0.0.0.0 ingbank.pl.bezpieczne.logowanie.ssl.ngbezpieczna.pw
+:: ingbank.pl.bezpieczne.logowanie.ssl.ngbezpieczna.pw
 0.0.0.0 ingest.sentry.io
 :: ingest.sentry.io
 0.0.0.0 ingest.vungle.akadns.net
@@ -37713,6 +37713,8 @@
 :: log.spotify.com
 0.0.0.0 log.stat.kugou.com
 :: log.stat.kugou.com
+0.0.0.0 log.statistici.ro
+:: log.statistici.ro
 0.0.0.0 log.suchen.de
 :: log.suchen.de
 0.0.0.0 log.superweb.ws
@@ -45211,8 +45213,6 @@
 :: parceria.americanas.com.br
 0.0.0.0 pareshnathtemple.knowinfo.in
 :: pareshnathtemple.knowinfo.in
-0.0.0.0 paris.typepad.com
-:: paris.typepad.com
 0.0.0.0 park.annularvelocity.com
 :: park.annularvelocity.com
 0.0.0.0 park.azsportsent.net
@@ -49649,8 +49649,6 @@
 :: reedrains.siteburg.com
 0.0.0.0 reeise.altervista.org
 :: reeise.altervista.org
-0.0.0.0 reelwhirltv.proimageguide.com
-:: reelwhirltv.proimageguide.com
 0.0.0.0 refcounter.sexhound.com
 :: refcounter.sexhound.com
 0.0.0.0 refer.ccbill.com
@@ -50783,6 +50781,8 @@
 :: s.sh.qihoo.com
 0.0.0.0 s.spolecznosci.net
 :: s.spolecznosci.net
+0.0.0.0 s.statistici.ro
+:: s.statistici.ro
 0.0.0.0 s.stats.wordpress.com
 :: s.stats.wordpress.com
 0.0.0.0 s.trafficjam.cn
@@ -50849,6 +50849,8 @@
 :: s1-a2.dnvod.tv
 0.0.0.0 s1-a3.dnvod.tv
 :: s1-a3.dnvod.tv
+0.0.0.0 s1-a4.dnvod.tv
+:: s1-a4.dnvod.tv
 0.0.0.0 s1.cmfu.com
 :: s1.cmfu.com
 0.0.0.0 s1.dapenti.com
@@ -54163,8 +54165,12 @@
 :: ss.tiscali.it
 0.0.0.0 ss.xxxnavy.com
 :: ss.xxxnavy.com
+0.0.0.0 ssa.1337x.st
+:: ssa.1337x.st
 0.0.0.0 ssa.1337x.to
 :: ssa.1337x.to
+0.0.0.0 ssa.x1337x.ws
+:: ssa.x1337x.ws
 0.0.0.0 ssac.suning.com
 :: ssac.suning.com
 0.0.0.0 ssads.osdn.com
@@ -68823,8 +68829,6 @@
 :: www.two-of-us.at
 0.0.0.0 www.tylko-dla-ciebie.com
 :: www.tylko-dla-ciebie.com
-0.0.0.0 www.typepad.com
-:: www.typepad.com
 0.0.0.0 www.tz-dsp.com
 :: www.tz-dsp.com
 0.0.0.0 www.ucc.wix.com
