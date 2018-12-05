@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Dec 4 05:28:24 CET 2018
+# Last update: Wed Dec 5 05:33:39 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35426
+# Number of unique hostnames: 35427
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -27931,6 +27931,8 @@
 :: easy.au.ru
 0.0.0.0 easy.eu.ai
 :: easy.eu.ai
+0.0.0.0 easy.onvid.pw
+:: easy.onvid.pw
 0.0.0.0 easynet.pierre-lang.com
 :: easynet.pierre-lang.com
 0.0.0.0 easyweb.tdcanadatrust.yousufrehman.com
@@ -45053,8 +45055,6 @@
 :: pacificspraybooths.com.au.secureserverdocumentaccountonline.com.sellclerk.com
 0.0.0.0 pacman.gkgar.com
 :: pacman.gkgar.com
-0.0.0.0 paczkomat.biz.pl
-:: paczkomat.biz.pl
 0.0.0.0 padsdel.cdnads.com
 :: padsdel.cdnads.com
 0.0.0.0 page-01.pe.hu
@@ -70639,6 +70639,8 @@
 :: zeromskiego-77.naszebanki.pl
 0.0.0.0 zetes.vdsinside.com
 :: zetes.vdsinside.com
+0.0.0.0 zeulo.anime-extremo.com
+:: zeulo.anime-extremo.com
 0.0.0.0 zeus.ad.intl.xiaomi.com
 :: zeus.ad.intl.xiaomi.com
 0.0.0.0 zeus.ad.xiaomi.com
