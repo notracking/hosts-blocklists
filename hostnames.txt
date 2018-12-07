@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Dec 6 05:41:33 CET 2018
+# Last update: Fri Dec 7 06:42:45 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35446
+# Number of unique hostnames: 35448
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -31701,6 +31701,8 @@
 :: googlegetphotos.pythonanywhere.com
 0.0.0.0 googlenews.xorg.pl
 :: googlenews.xorg.pl
+0.0.0.0 googletime.ac.ug
+:: googletime.ac.ug
 0.0.0.0 gool.frieghtiger.com
 :: gool.frieghtiger.com
 0.0.0.0 gopacket.goforandroid.com
@@ -34779,8 +34781,6 @@
 :: ingameads.gameloft.com
 0.0.0.0 ingamesads.gameloft.com
 :: ingamesads.gameloft.com
-0.0.0.0 ingbank.pl.bezpieczne.logowanie.ssl.ngbezpieczna.pw
-:: ingbank.pl.bezpieczne.logowanie.ssl.ngbezpieczna.pw
 0.0.0.0 ingest.sentry.io
 :: ingest.sentry.io
 0.0.0.0 ingest.vungle.akadns.net
@@ -36443,6 +36443,8 @@
 :: kmavj.ab4all.com
 0.0.0.0 kmjzb.saqibsiddiqui.com
 :: kmjzb.saqibsiddiqui.com
+0.0.0.0 kmpiframe.keepmeposted.com.mt
+:: kmpiframe.keepmeposted.com.mt
 0.0.0.0 kn.chapnap.com
 :: kn.chapnap.com
 0.0.0.0 kn.dyscsm.cn
@@ -46937,6 +46939,8 @@
 :: play.freebsd.nnna.ru
 0.0.0.0 play.go.cloot.ga
 :: play.go.cloot.ga
+0.0.0.0 play.heavymetalmachines.com
+:: play.heavymetalmachines.com
 0.0.0.0 play.js.vidoza.net
 :: play.js.vidoza.net
 0.0.0.0 play.miner.oozing.co
