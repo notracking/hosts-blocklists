@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Dec 13 05:34:19 CET 2018
+# Last update: Fri Dec 14 06:51:53 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35177
+# Number of unique hostnames: 35193
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2503,6 +2503,8 @@
 :: a.ib.gazeta.pl
 0.0.0.0 a.ihref.com
 :: a.ihref.com
+0.0.0.0 a.imgso.cn
+:: a.imgso.cn
 0.0.0.0 a.imonomy.com
 :: a.imonomy.com
 0.0.0.0 a.impressionigrafiche.it
@@ -20283,6 +20285,8 @@
 :: cdn.gameadvert.com
 0.0.0.0 cdn.geni.us
 :: cdn.geni.us
+0.0.0.0 cdn.getshogun.com
+:: cdn.getshogun.com
 0.0.0.0 cdn.getsmartcontent.com
 :: cdn.getsmartcontent.com
 0.0.0.0 cdn.goateastcach.us
@@ -20571,6 +20575,8 @@
 :: cdn1.res.nx5.com
 0.0.0.0 cdn1.res.uzham.com
 :: cdn1.res.uzham.com
+0.0.0.0 cdn1.tvzhe.com
+:: cdn1.tvzhe.com
 0.0.0.0 cdn1.xlightmedia.com
 :: cdn1.xlightmedia.com
 0.0.0.0 cdn1.zopiny.com
@@ -22819,6 +22825,8 @@
 :: cookie.disneylandparis.com
 0.0.0.0 cookie.fdih.dk
 :: cookie.fdih.dk
+0.0.0.0 cookie.mengheyu.com
+:: cookie.mengheyu.com
 0.0.0.0 cookie.monster.com
 :: cookie.monster.com
 0.0.0.0 cookie.pebblemedia.be
@@ -27703,6 +27711,8 @@
 :: e.t71q.com
 0.0.0.0 e.targetfuel.com
 :: e.targetfuel.com
+0.0.0.0 e.tbaip.com
+:: e.tbaip.com
 0.0.0.0 e.tdmagroup.com
 :: e.tdmagroup.com
 0.0.0.0 e.tf.360.cn
@@ -30423,12 +30433,12 @@
 :: fyvzz.survey7.adsservingtwig.xyz
 0.0.0.0 fz.letv.com
 :: fz.letv.com
+0.0.0.0 fzb01.qiushibaike.com
+:: fzb01.qiushibaike.com
 0.0.0.0 fzk.jpn.com
 :: fzk.jpn.com
 0.0.0.0 fzz.cloud.1234507.com
 :: fzz.cloud.1234507.com
-0.0.0.0 g.163.com
-:: g.163.com
 0.0.0.0 g.3lian.com
 :: g.3lian.com
 0.0.0.0 g.51network.com
@@ -31563,6 +31573,8 @@
 :: grafephot.org.za
 0.0.0.0 gram.mfdrums.com
 :: gram.mfdrums.com
+0.0.0.0 gramelis.newyorkmascot.com
+:: gramelis.newyorkmascot.com
 0.0.0.0 grandpa.thebehrs.ca
 :: grandpa.thebehrs.ca
 0.0.0.0 grant.rpof.org
@@ -31773,6 +31785,8 @@
 :: gxb2rkfgb2xlheyyv48c.littlematchagirl.com.au
 0.0.0.0 gxe.husky.sogou.com
 :: gxe.husky.sogou.com
+0.0.0.0 gxwlzz.baiduspider1.cn
+:: gxwlzz.baiduspider1.cn
 0.0.0.0 gy273h.koll.pershoreairporttransfers.co.uk
 :: gy273h.koll.pershoreairporttransfers.co.uk
 0.0.0.0 gyboo.cruisingsmallship.com
@@ -37959,6 +37973,8 @@
 :: m.aduiz.com
 0.0.0.0 m.adx.bg
 :: m.adx.bg
+0.0.0.0 m.ahuac.com
+:: m.ahuac.com
 0.0.0.0 m.ajiuc.com
 :: m.ajiuc.com
 0.0.0.0 m.ajxqiongbg.com
@@ -38245,6 +38261,8 @@
 :: m.tamilmalls.com
 0.0.0.0 m.tansuotv.com
 :: m.tansuotv.com
+0.0.0.0 m.tbaip.com
+:: m.tbaip.com
 0.0.0.0 m.tbaiq.com
 :: m.tbaiq.com
 0.0.0.0 m.tiantianedu.net
@@ -51533,6 +51551,8 @@
 :: sdksitter.m.sjzhushou.com
 0.0.0.0 sdkupgrade.insight.ucweb.com
 :: sdkupgrade.insight.ucweb.com
+0.0.0.0 sdn.gongkao.hn.cn
+:: sdn.gongkao.hn.cn
 0.0.0.0 sdn.kugou.com
 :: sdn.kugou.com
 0.0.0.0 sdn.scset.com.cn
@@ -60287,6 +60307,8 @@
 :: url.adtrgt.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
+0.0.0.0 urladyms.newlogiq.com
+:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -64073,6 +64095,8 @@
 :: www.agentsplanet.com
 0.0.0.0 www.agenziasanremo.com
 :: www.agenziasanremo.com
+0.0.0.0 www.agliran.co.il
+:: www.agliran.co.il
 0.0.0.0 www.agrant.cn
 :: www.agrant.cn
 0.0.0.0 www.agrantsem.com
@@ -65057,6 +65081,8 @@
 :: www.duiba.com.cn
 0.0.0.0 www.dulceselsombreron.com
 :: www.dulceselsombreron.com
+0.0.0.0 www.duobaoqj.com
+:: www.duobaoqj.com
 0.0.0.0 www.duolaimi.net
 :: www.duolaimi.net
 0.0.0.0 www.dutchsales.org
@@ -65327,6 +65353,8 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
+0.0.0.0 www.fishingtackleindia.com
+:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
@@ -66137,6 +66165,8 @@
 :: www.joomlalivechat.com
 0.0.0.0 www.jornalfarroupilha.com.br
 :: www.jornalfarroupilha.com.br
+0.0.0.0 www.jornalocaminho.com.br
+:: www.jornalocaminho.com.br
 0.0.0.0 www.jouwstats.nl
 :: www.jouwstats.nl
 0.0.0.0 www.jowarinzqmiak.download
@@ -69843,6 +69873,8 @@
 :: ylog.hiido.com
 0.0.0.0 ylpzt.juzojossai.net
 :: ylpzt.juzojossai.net
+0.0.0.0 yly.hywly.com
+:: yly.hywly.com
 0.0.0.0 ym.analytics.yahoo.com
 :: ym.analytics.yahoo.com
 0.0.0.0 ymail-activate1.bugs3.com
