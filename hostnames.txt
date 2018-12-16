@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Dec 15 05:24:10 CET 2018
+# Last update: Sun Dec 16 05:21:37 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35205
+# Number of unique hostnames: 35215
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3123,6 +3123,8 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
+0.0.0.0 abusalewm.exceltoner.com
+:: abusalewm.exceltoner.com
 0.0.0.0 ac.ajur.info
 :: ac.ajur.info
 0.0.0.0 ac.atpanel.com
@@ -23331,6 +23333,8 @@
 :: countus4.editeurjavascript.com
 0.0.0.0 couponcp-a.akamaihd.net
 :: couponcp-a.akamaihd.net
+0.0.0.0 couponcustomer.cpstatic.ch
+:: couponcustomer.cpstatic.ch
 0.0.0.0 couponwinner.com-net.info
 :: couponwinner.com-net.info
 0.0.0.0 courier.karelia.ru
@@ -24609,6 +24613,8 @@
 :: d2focgxak1cn74.cloudfront.net
 0.0.0.0 d2g4rjb98r20op.cloudfront.net
 :: d2g4rjb98r20op.cloudfront.net
+0.0.0.0 d2g9nmtuil60cb.cloudfront.net
+:: d2g9nmtuil60cb.cloudfront.net
 0.0.0.0 d2gfdmu30u15x7.cloudfront.net
 :: d2gfdmu30u15x7.cloudfront.net
 0.0.0.0 d2ggw6du5pulet.cloudfront.net
@@ -24891,6 +24897,8 @@
 :: d36lvucg9kzous.cloudfront.net
 0.0.0.0 d36sxvmjoflc2i.cloudfront.net
 :: d36sxvmjoflc2i.cloudfront.net
+0.0.0.0 d37dzu39aqhuxu.cloudfront.net
+:: d37dzu39aqhuxu.cloudfront.net
 0.0.0.0 d37h3y471q0lt2.cloudfront.net
 :: d37h3y471q0lt2.cloudfront.net
 0.0.0.0 d37kzqe5knnh6t.cloudfront.net
@@ -30091,8 +30099,6 @@
 :: forum-cs.net76.net
 0.0.0.0 forum.adult-torrent.com
 :: forum.adult-torrent.com
-0.0.0.0 forum.auto.am
-:: forum.auto.am
 0.0.0.0 forum.dwnld.net.ua
 :: forum.dwnld.net.ua
 0.0.0.0 forum.like108.com
@@ -31579,6 +31585,8 @@
 :: grafephot.org.za
 0.0.0.0 gram.mfdrums.com
 :: gram.mfdrums.com
+0.0.0.0 gramelis.newyorkmascot.com
+:: gramelis.newyorkmascot.com
 0.0.0.0 grandpa.thebehrs.ca
 :: grandpa.thebehrs.ca
 0.0.0.0 grant.rpof.org
@@ -46033,6 +46041,8 @@
 :: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
+0.0.0.0 phuongdanhvonghe.edu.vn
+:: phuongdanhvonghe.edu.vn
 0.0.0.0 pi-chin-cha.webcindario.com
 :: pi-chin-cha.webcindario.com
 0.0.0.0 pi.safer-networking.ie
@@ -60333,6 +60343,8 @@
 :: url.adtrgt.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
+0.0.0.0 urladyms.newlogiq.com
+:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -62983,8 +62995,6 @@
 :: wisti.adulte3g.com
 0.0.0.0 wit.zzn.com
 :: wit.zzn.com
-0.0.0.0 witchwyd.bestsilvercufflinks.com
-:: witchwyd.bestsilvercufflinks.com
 0.0.0.0 witherrom55.eklablog.fr
 :: witherrom55.eklablog.fr
 0.0.0.0 wixed.wix.com
@@ -65381,6 +65391,8 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
+0.0.0.0 www.fishingtackleindia.com
+:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
@@ -65657,6 +65669,8 @@
 :: www.gj500.com
 0.0.0.0 www.gliamicidellunicef.it
 :: www.gliamicidellunicef.it
+0.0.0.0 www.globalbuffer.com
+:: www.globalbuffer.com
 0.0.0.0 www.globalintergold.com
 :: www.globalintergold.com
 0.0.0.0 www.globalsecrets.com
@@ -66191,6 +66205,8 @@
 :: www.joomlalivechat.com
 0.0.0.0 www.jornalfarroupilha.com.br
 :: www.jornalfarroupilha.com.br
+0.0.0.0 www.jornalocaminho.com.br
+:: www.jornalocaminho.com.br
 0.0.0.0 www.jouwstats.nl
 :: www.jouwstats.nl
 0.0.0.0 www.jowarinzqmiak.download
@@ -66329,6 +66345,8 @@
 :: www.kngcjx.com
 0.0.0.0 www.kniga.tora.ru
 :: www.kniga.tora.ru
+0.0.0.0 www.knowinteractive.com
+:: www.knowinteractive.com
 0.0.0.0 www.koch-backrezepte.de
 :: www.koch-backrezepte.de
 0.0.0.0 www.konimkan.com
@@ -68131,6 +68149,8 @@
 :: www.tiergestuetzt.de
 0.0.0.0 www.timefor.com
 :: www.timefor.com
+0.0.0.0 www.timelessimagesmi.com
+:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tings.com
