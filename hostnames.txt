@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Dec 18 05:34:59 CET 2018
+# Last update: Wed Dec 19 05:33:03 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35195
+# Number of unique hostnames: 35206
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -14153,6 +14153,8 @@
 :: analytics.spreadshirt.de
 0.0.0.0 analytics.squidhq.com
 :: analytics.squidhq.com
+0.0.0.0 analytics.ssbbartgroup.com
+:: analytics.ssbbartgroup.com
 0.0.0.0 analytics.stg.online.xl.pt
 :: analytics.stg.online.xl.pt
 0.0.0.0 analytics.strangeloopnetworks.com
@@ -14695,6 +14697,8 @@
 :: api.quantumgraph.com
 0.0.0.0 api.quarticon.com
 :: api.quarticon.com
+0.0.0.0 api.radar.io
+:: api.radar.io
 0.0.0.0 api.recommendedsw.com
 :: api.recommendedsw.com
 0.0.0.0 api.safedk.com
@@ -15287,6 +15291,8 @@
 :: aqua.dmm.co.jp
 0.0.0.0 aquiwef22.esy.es
 :: aquiwef22.esy.es
+0.0.0.0 ara.desa.id
+:: ara.desa.id
 0.0.0.0 arabmistress.s3.amazonaws.com
 :: arabmistress.s3.amazonaws.com
 0.0.0.0 arads.0fees.us
@@ -15993,6 +15999,8 @@
 :: b-aws.aol.com
 0.0.0.0 b-aws.huffingtonpost.com
 :: b-aws.huffingtonpost.com
+0.0.0.0 b.1istochnik.ru
+:: b.1istochnik.ru
 0.0.0.0 b.1s2.in.ua
 :: b.1s2.in.ua
 0.0.0.0 b.53yao.com
@@ -18401,6 +18409,8 @@
 :: blogad02.myweb.hinet.net
 0.0.0.0 blogads.ebanner.nl
 :: blogads.ebanner.nl
+0.0.0.0 blogdovarejo.campanhamartins.com.br
+:: blogdovarejo.campanhamartins.com.br
 0.0.0.0 bloggers.fuckyoucash.com
 :: bloggers.fuckyoucash.com
 0.0.0.0 blogroll.livedoor.net
@@ -22551,6 +22561,8 @@
 :: commonwealth.riddler.com
 0.0.0.0 commonwewalth.com.au.schoellershop.com
 :: commonwewalth.com.au.schoellershop.com
+0.0.0.0 comms-telemetry-service.us-east-1.amazonaws.com
+:: comms-telemetry-service.us-east-1.amazonaws.com
 0.0.0.0 community.allhiphop.com
 :: community.allhiphop.com
 0.0.0.0 comon.monlineserviceplc.com
@@ -28219,6 +28231,8 @@
 :: emisjawidgeet.onet.pl
 0.0.0.0 emits.iptvdeals.com
 :: emits.iptvdeals.com
+0.0.0.0 emjs.mkzhan.com
+:: emjs.mkzhan.com
 0.0.0.0 emmenegger.owncube.com
 :: emmenegger.owncube.com
 0.0.0.0 emng.libero.it
@@ -31577,6 +31591,8 @@
 :: graf.is-a-geek.org
 0.0.0.0 grafephot.org.za
 :: grafephot.org.za
+0.0.0.0 grajhi.org.sa
+:: grajhi.org.sa
 0.0.0.0 gram.mfdrums.com
 :: gram.mfdrums.com
 0.0.0.0 gramelis.newyorkmascot.com
@@ -33501,6 +33517,8 @@
 :: idmsa.apple.merlin.corp.up.com-index.dysingenieriasas.com
 0.0.0.0 idmsa.gsx.recoverappkey12k0449r02f3402p339j00k903.driv-tv.com
 :: idmsa.gsx.recoverappkey12k0449r02f3402p339j00k903.driv-tv.com
+0.0.0.0 ido.nejanet.hu
+:: ido.nejanet.hu
 0.0.0.0 ids1.deliver.ifeng.com
 :: ids1.deliver.ifeng.com
 0.0.0.0 iebar.baidu.com
@@ -36365,6 +36383,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -46019,8 +46039,6 @@
 :: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
-0.0.0.0 phuongdanhvonghe.edu.vn
-:: phuongdanhvonghe.edu.vn
 0.0.0.0 pi-chin-cha.webcindario.com
 :: pi-chin-cha.webcindario.com
 0.0.0.0 pi.safer-networking.ie
@@ -53091,6 +53109,8 @@
 :: smetrics.fedex.com
 0.0.0.0 smetrics.fifa.com
 :: smetrics.fifa.com
+0.0.0.0 smetrics.foxnews.com
+:: smetrics.foxnews.com
 0.0.0.0 smetrics.freecreditreport.com
 :: smetrics.freecreditreport.com
 0.0.0.0 smetrics.hbogo.com
@@ -54529,6 +54549,8 @@
 :: stats.airfarewatchdog.com
 0.0.0.0 stats.allliquid.com
 :: stats.allliquid.com
+0.0.0.0 stats.api.si.com
+:: stats.api.si.com
 0.0.0.0 stats.appsgeyser.com
 :: stats.appsgeyser.com
 0.0.0.0 stats.ars4real.com
