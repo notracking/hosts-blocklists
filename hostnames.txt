@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Dec 19 05:33:03 CET 2018
+# Last update: Thu Dec 20 05:34:43 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35206
+# Number of unique hostnames: 35217
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -13097,6 +13097,8 @@
 :: agent.tamedia.com.tw
 0.0.0.0 aggiornamento57586546464.altervista.org
 :: aggiornamento57586546464.altervista.org
+0.0.0.0 agile.org.il
+:: agile.org.il
 0.0.0.0 agl-intl.hotstar.com
 :: agl-intl.hotstar.com
 0.0.0.0 agl.hotstar.com
@@ -18427,6 +18429,8 @@
 :: blue-js.github.io
 0.0.0.0 blue.sexer.com
 :: blue.sexer.com
+0.0.0.0 blues.org.il
+:: blues.org.il
 0.0.0.0 bluewin3625.weebly.com
 :: bluewin3625.weebly.com
 0.0.0.0 bluewinsource.weebly.com
@@ -22837,8 +22841,6 @@
 :: cookie.disneylandparis.com
 0.0.0.0 cookie.fdih.dk
 :: cookie.fdih.dk
-0.0.0.0 cookie.mengheyu.com
-:: cookie.mengheyu.com
 0.0.0.0 cookie.monster.com
 :: cookie.monster.com
 0.0.0.0 cookie.pebblemedia.be
@@ -24095,6 +24097,8 @@
 :: d06915f22873285e84a9-9954fed71f1f51f77e6d1b38cb5af421.r69.cf2.rackcdn.com
 0.0.0.0 d1.3158.cn
 :: d1.3158.cn
+0.0.0.0 d1.5h.com
+:: d1.5h.com
 0.0.0.0 d1.cnr.cn
 :: d1.cnr.cn
 0.0.0.0 d1.handdiy.com
@@ -27701,6 +27705,8 @@
 :: e.kunpp.com
 0.0.0.0 e.lancedu.com
 :: e.lancedu.com
+0.0.0.0 e.lguir.com
+:: e.lguir.com
 0.0.0.0 e.mqgpo.com
 :: e.mqgpo.com
 0.0.0.0 e.mrsasharingspace.com
@@ -27733,6 +27739,8 @@
 :: e.targetfuel.com
 0.0.0.0 e.tbaip.com
 :: e.tbaip.com
+0.0.0.0 e.tbenc.com
+:: e.tbenc.com
 0.0.0.0 e.tdmagroup.com
 :: e.tdmagroup.com
 0.0.0.0 e.tf.360.cn
@@ -27745,6 +27753,8 @@
 :: e.tuoaa.com
 0.0.0.0 e.vaxyz.com
 :: e.vaxyz.com
+0.0.0.0 e.vjuei.com
+:: e.vjuei.com
 0.0.0.0 e.wduis.com
 :: e.wduis.com
 0.0.0.0 e.wlues.com
@@ -31699,6 +31709,8 @@
 :: gsmdc.edu.bd
 0.0.0.0 gstat.bitauto.com
 :: gstat.bitauto.com
+0.0.0.0 gstaticadssl.l.google.com
+:: gstaticadssl.l.google.com
 0.0.0.0 gstota.musin.de
 :: gstota.musin.de
 0.0.0.0 gstrefund.arcrevenue-interac.com
@@ -36565,6 +36577,8 @@
 :: lan.free-lyrics-online.com
 0.0.0.0 lanazione.quotidiano.net
 :: lanazione.quotidiano.net
+0.0.0.0 lancang.desa.id
+:: lancang.desa.id
 0.0.0.0 land.pckeeper.software
 :: land.pckeeper.software
 0.0.0.0 land.purifier.cc
@@ -38187,6 +38201,8 @@
 :: m.lancedu.com
 0.0.0.0 m.laoqu123.com
 :: m.laoqu123.com
+0.0.0.0 m.lguir.com
+:: m.lguir.com
 0.0.0.0 m.loading-content.net
 :: m.loading-content.net
 0.0.0.0 m.login-secured.liraon.com
@@ -38287,6 +38303,8 @@
 :: m.tbaip.com
 0.0.0.0 m.tbaiq.com
 :: m.tbaiq.com
+0.0.0.0 m.tbenc.com
+:: m.tbenc.com
 0.0.0.0 m.tcenn.com
 :: m.tcenn.com
 0.0.0.0 m.tiantianedu.net
@@ -38307,6 +38325,8 @@
 :: m.usersonline.com
 0.0.0.0 m.vaxyz.com
 :: m.vaxyz.com
+0.0.0.0 m.vjuei.com
+:: m.vjuei.com
 0.0.0.0 m.vpadn.com
 :: m.vpadn.com
 0.0.0.0 m.wankz.com
@@ -38359,6 +38379,8 @@
 :: m.zaoss.com
 0.0.0.0 m.zbied.com
 :: m.zbied.com
+0.0.0.0 m.zcand.com
+:: m.zcand.com
 0.0.0.0 m.zeiaa.com
 :: m.zeiaa.com
 0.0.0.0 m.zlotysms.pl
@@ -44253,8 +44275,6 @@
 :: p.37see.com
 0.0.0.0 p.99mssj.com
 :: p.99mssj.com
-0.0.0.0 p.abcache.com
-:: p.abcache.com
 0.0.0.0 p.ads.roku.com
 :: p.ads.roku.com
 0.0.0.0 p.appjiagu.com
@@ -46039,6 +46059,8 @@
 :: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
+0.0.0.0 phuongdanhvonghe.edu.vn
+:: phuongdanhvonghe.edu.vn
 0.0.0.0 pi-chin-cha.webcindario.com
 :: pi-chin-cha.webcindario.com
 0.0.0.0 pi.safer-networking.ie
@@ -55091,6 +55113,8 @@
 :: stats.yellowphoenix18.de
 0.0.0.0 stats.yourminis.com
 :: stats.yourminis.com
+0.0.0.0 stats.zmags.com
+:: stats.zmags.com
 0.0.0.0 stats.zotabox.com
 :: stats.zotabox.com
 0.0.0.0 stats1.corusradio.com
@@ -65837,6 +65861,8 @@
 :: www.hjplocoheavier.review
 0.0.0.0 www.hkoxlirf.com
 :: www.hkoxlirf.com
+0.0.0.0 www.hmnjf.com
+:: www.hmnjf.com
 0.0.0.0 www.hndiyikj.com
 :: www.hndiyikj.com
 0.0.0.0 www.hobwelt.com
@@ -66813,8 +66839,6 @@
 :: www.myadsl.co.za
 0.0.0.0 www.myadtrack.com
 :: www.myadtrack.com
-0.0.0.0 www.myairbridge.com
-:: www.myairbridge.com
 0.0.0.0 www.myapp.com
 :: www.myapp.com
 0.0.0.0 www.myclickbankads.com
@@ -67471,8 +67495,6 @@
 :: www.realtytips.com
 0.0.0.0 www.rebeccacella.com
 :: www.rebeccacella.com
-0.0.0.0 www.recrutam.ro
-:: www.recrutam.ro
 0.0.0.0 www.recyber.com
 :: www.recyber.com
 0.0.0.0 www.redactiepartners.nl
