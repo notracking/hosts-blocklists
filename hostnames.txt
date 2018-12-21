@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Dec 20 05:34:43 CET 2018
+# Last update: Fri Dec 21 06:53:58 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35217
+# Number of unique hostnames: 35215
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -27705,8 +27705,6 @@
 :: e.kunpp.com
 0.0.0.0 e.lancedu.com
 :: e.lancedu.com
-0.0.0.0 e.lguir.com
-:: e.lguir.com
 0.0.0.0 e.mqgpo.com
 :: e.mqgpo.com
 0.0.0.0 e.mrsasharingspace.com
@@ -38201,8 +38199,6 @@
 :: m.lancedu.com
 0.0.0.0 m.laoqu123.com
 :: m.laoqu123.com
-0.0.0.0 m.lguir.com
-:: m.lguir.com
 0.0.0.0 m.loading-content.net
 :: m.loading-content.net
 0.0.0.0 m.login-secured.liraon.com
@@ -38289,8 +38285,6 @@
 :: m.shopathome.com
 0.0.0.0 m.simba.taobao.com
 :: m.simba.taobao.com
-0.0.0.0 m.sjaidu.com
-:: m.sjaidu.com
 0.0.0.0 m.smsquiz.pl
 :: m.smsquiz.pl
 0.0.0.0 m.symac.cn
@@ -55405,6 +55399,8 @@
 :: su99nv.boss.northerndishedends.uk
 0.0.0.0 sualle0i6a.4jxgsane74.madpendesign.com.au
 :: sualle0i6a.4jxgsane74.madpendesign.com.au
+0.0.0.0 sub.avgle.com
+:: sub.avgle.com
 0.0.0.0 sub.beirinckx.be
 :: sub.beirinckx.be
 0.0.0.0 sub.powerapple.com
