@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Dec 21 06:53:58 CET 2018
+# Last update: Sat Dec 22 05:25:47 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35215
+# Number of unique hostnames: 35221
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -14495,6 +14495,8 @@
 :: api-push.meizu.com
 0.0.0.0 api-shoulei-ssl.xunlei.com
 :: api-shoulei-ssl.xunlei.com
+0.0.0.0 api-telemetry.servers.getgo.com
+:: api-telemetry.servers.getgo.com
 0.0.0.0 api.2easydroid.com
 :: api.2easydroid.com
 0.0.0.0 api.7segments.com
@@ -14781,8 +14783,6 @@
 :: api.worldsense.com
 0.0.0.0 api.xdirectx.com
 :: api.xdirectx.com
-0.0.0.0 api.xk.miui.com
-:: api.xk.miui.com
 0.0.0.0 api.y.igexin.com
 :: api.y.igexin.com
 0.0.0.0 api.yp.com
@@ -19487,8 +19487,6 @@
 :: c.ylist.cn
 0.0.0.0 c.ynlysg.com
 :: c.ynlysg.com
-0.0.0.0 c.yootui19999.com
-:: c.yootui19999.com
 0.0.0.0 c.za.msn.com
 :: c.za.msn.com
 0.0.0.0 c.zlongad.com
@@ -22599,6 +22597,8 @@
 :: comune.sanpietroaltanagro.sa.it
 0.0.0.0 comunidad.lasexta.com
 :: comunidad.lasexta.com
+0.0.0.0 conabi.xjditan.com
+:: conabi.xjditan.com
 0.0.0.0 concede.fmtlib.net
 :: concede.fmtlib.net
 0.0.0.0 concernant-votre-remboursementimpots.releve-formu.com
@@ -27769,6 +27769,8 @@
 :: e.ysdangan.com
 0.0.0.0 e.yycqc.com
 :: e.yycqc.com
+0.0.0.0 e.zcand.com
+:: e.zcand.com
 0.0.0.0 e2.molbuk.ua
 :: e2.molbuk.ua
 0.0.0.0 e2b8u3v8.map2.ssl.hwcdn.net
@@ -30175,8 +30177,6 @@
 :: fpbcode.onlinedown.net
 0.0.0.0 fpbjiansuo.mn586.com
 :: fpbjiansuo.mn586.com
-0.0.0.0 fpdownload.macromedia.com
-:: fpdownload.macromedia.com
 0.0.0.0 fpert.qpoe.com
 :: fpert.qpoe.com
 0.0.0.0 fpibhiinwepy.fgppchg.fgpp.com
@@ -36345,6 +36345,8 @@
 :: kropka.onet.pl
 0.0.0.0 kropka.tro.pl
 :: kropka.tro.pl
+0.0.0.0 krq.yymmsd.cn
+:: krq.yymmsd.cn
 0.0.0.0 krsa2gno.congrats-sweepstakes-winner.com
 :: krsa2gno.congrats-sweepstakes-winner.com
 0.0.0.0 krsa2gno.important-security-brower-alert.com
@@ -38077,6 +38079,8 @@
 :: m.data.mob.com
 0.0.0.0 m.dbaiz.com
 :: m.dbaiz.com
+0.0.0.0 m.dbiei.com
+:: m.dbiei.com
 0.0.0.0 m.doodlemobile.com
 :: m.doodlemobile.com
 0.0.0.0 m.du1du.org
@@ -45721,6 +45725,8 @@
 :: pdns.nudt.edu.cn
 0.0.0.0 pdown.stat.360safe.com
 :: pdown.stat.360safe.com
+0.0.0.0 pdwuengagementapiwkr.cloudapp.net
+:: pdwuengagementapiwkr.cloudapp.net
 0.0.0.0 pe2cku7pebkpgeko.13inb1.top
 :: pe2cku7pebkpgeko.13inb1.top
 0.0.0.0 pe2cku7pebkpgeko.199ovv.top
@@ -46053,8 +46059,6 @@
 :: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
-0.0.0.0 phuongdanhvonghe.edu.vn
-:: phuongdanhvonghe.edu.vn
 0.0.0.0 pi-chin-cha.webcindario.com
 :: pi-chin-cha.webcindario.com
 0.0.0.0 pi.safer-networking.ie
@@ -51243,6 +51247,8 @@
 :: sc.smardroid.com
 0.0.0.0 sc.vmware.com
 :: sc.vmware.com
+0.0.0.0 sc.xhbaihehang.com
+:: sc.xhbaihehang.com
 0.0.0.0 scaffolds.forpreviewonly.com
 :: scaffolds.forpreviewonly.com
 0.0.0.0 scambiobanner.altervista.org
@@ -59629,6 +59635,8 @@
 :: undm.qibulo.com
 0.0.0.0 unhogarenelcamino.org.gt
 :: unhogarenelcamino.org.gt
+0.0.0.0 unhold.ldgjhd.net
+:: unhold.ldgjhd.net
 0.0.0.0 unicast.ign.com
 :: unicast.ign.com
 0.0.0.0 unicast.msn.com
@@ -66537,6 +66545,8 @@
 :: www.lovetrust.ru
 0.0.0.0 www.lowes-pianos-and-organs.com
 :: www.lowes-pianos-and-organs.com
+0.0.0.0 www.loxsavvy.com.au
+:: www.loxsavvy.com.au
 0.0.0.0 www.lpmxp2014.com
 :: www.lpmxp2014.com
 0.0.0.0 www.lpmxp2015.com
@@ -68601,6 +68611,8 @@
 :: www.whitesports.co.kr
 0.0.0.0 www.whizstats.com
 :: www.whizstats.com
+0.0.0.0 www.whshangsha.com
+:: www.whshangsha.com
 0.0.0.0 www.widebanner.com
 :: www.widebanner.com
 0.0.0.0 www.wifijia.net
