@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Dec 27 05:36:10 CET 2018
+# Last update: Fri Dec 28 07:15:42 CET 2018
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 35165
+# Number of unique hostnames: 35166
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2721,8 +2721,6 @@
 :: a.visadd.com
 0.0.0.0 a.vlion.cn
 :: a.vlion.cn
-0.0.0.0 a.volvelle.tech
-:: a.volvelle.tech
 0.0.0.0 a.vonage.com
 :: a.vonage.com
 0.0.0.0 a.votpusk.ru
@@ -5673,8 +5671,6 @@
 :: adlink.preferences.net
 0.0.0.0 adlink.shopsafe.co.nz
 :: adlink.shopsafe.co.nz
-0.0.0.0 adlog.cbsi.com
-:: adlog.cbsi.com
 0.0.0.0 adm.10jqka.com.cn
 :: adm.10jqka.com.cn
 0.0.0.0 adm.265g.com
@@ -15523,6 +15519,8 @@
 :: asset.tabloidbintang.com
 0.0.0.0 asset.wetransfer.net.debrawhitingfoundation.org
 :: asset.wetransfer.net.debrawhitingfoundation.org
+0.0.0.0 assets-auto.rbl.ms.cdn.cloudflare.net
+:: assets-auto.rbl.ms.cdn.cloudflare.net
 0.0.0.0 assets-polarb-com.a.ssl.fastly.net
 :: assets-polarb-com.a.ssl.fastly.net
 0.0.0.0 assets.2343sdxs.com
@@ -24511,6 +24509,8 @@
 :: d269y12mnftu9c.cloudfront.net
 0.0.0.0 d26b395fwzu5fz.cloudfront.net
 :: d26b395fwzu5fz.cloudfront.net
+0.0.0.0 d26c6kzavi5zwd.cloudfront.net
+:: d26c6kzavi5zwd.cloudfront.net
 0.0.0.0 d26dzd2k67we08.cloudfront.net
 :: d26dzd2k67we08.cloudfront.net
 0.0.0.0 d26j9bp9bq4uhd.cloudfront.net
@@ -28151,6 +28151,8 @@
 :: emarketing.rmauctions.com
 0.0.0.0 embanet.vo.llnwd.net
 :: embanet.vo.llnwd.net
+0.0.0.0 embed-stats.rbl.ms
+:: embed-stats.rbl.ms
 0.0.0.0 embed.insticator.com
 :: embed.insticator.com
 0.0.0.0 embed.powercontent.pl
@@ -28595,8 +28597,6 @@
 :: eu-ad.sam4m.com
 0.0.0.0 eu-ma.sam4m.com
 :: eu-ma.sam4m.com
-0.0.0.0 eu.a.volvelle.tech
-:: eu.a.volvelle.tech
 0.0.0.0 eu.cdn.survey.medallia.com
 :: eu.cdn.survey.medallia.com
 0.0.0.0 eu.link.decideinteractive.com
@@ -29407,8 +29407,6 @@
 :: february2018.atspace.cc
 0.0.0.0 fee-hydrocodone.bebto.com
 :: fee-hydrocodone.bebto.com
-0.0.0.0 feed-player-service.prod.ndnops.com
-:: feed-player-service.prod.ndnops.com
 0.0.0.0 feed.2makeyourday.press
 :: feed.2makeyourday.press
 0.0.0.0 feed.engage.im
@@ -30269,6 +30267,8 @@
 :: front.viedemerde.fr
 0.0.0.0 frontend-loadbalancer.meteorsolutions.com
 :: frontend-loadbalancer.meteorsolutions.com
+0.0.0.0 frontpage-stats.rbl.ms
+:: frontpage-stats.rbl.ms
 0.0.0.0 frostbone.playground.ru
 :: frostbone.playground.ru
 0.0.0.0 frt2354.wixsite.com
@@ -31543,8 +31543,6 @@
 :: grafephot.org.za
 0.0.0.0 gram.mfdrums.com
 :: gram.mfdrums.com
-0.0.0.0 gramelis.newyorkmascot.com
-:: gramelis.newyorkmascot.com
 0.0.0.0 grandpa.thebehrs.ca
 :: grandpa.thebehrs.ca
 0.0.0.0 grant.rpof.org
@@ -36147,6 +36145,8 @@
 :: kn.dyscsm.cn
 0.0.0.0 kn.gzcce.cn
 :: kn.gzcce.cn
+0.0.0.0 kn.hnfxty.cn
+:: kn.hnfxty.cn
 0.0.0.0 kn.jzhrty.cn
 :: kn.jzhrty.cn
 0.0.0.0 kn.qqqmdq.com
@@ -38261,6 +38261,8 @@
 :: m.wbaiz.com
 0.0.0.0 m.wbanv.com
 :: m.wbanv.com
+0.0.0.0 m.wbeiz.com
+:: m.wbeiz.com
 0.0.0.0 m.wduis.com
 :: m.wduis.com
 0.0.0.0 m.wgewj.cn
@@ -38847,8 +38849,6 @@
 :: mat.messajess.com
 0.0.0.0 match.c8.net.ua
 :: match.c8.net.ua
-0.0.0.0 match.deepintent.com
-:: match.deepintent.com
 0.0.0.0 match.doko.jp
 :: match.doko.jp
 0.0.0.0 match.mynewmatchpictureprofile.com
@@ -42995,6 +42995,8 @@
 :: obkom.net.ua
 0.0.0.0 obkzrcclean2.az.pl
 :: obkzrcclean2.az.pl
+0.0.0.0 oblivki.filmy-2017.net
+:: oblivki.filmy-2017.net
 0.0.0.0 obs.nnm2.ru
 :: obs.nnm2.ru
 0.0.0.0 observer.ip-label.net
@@ -44709,6 +44711,8 @@
 :: pages-actv2016.twomini.com
 0.0.0.0 pages-advertment-suppor-facebook.16mb.com
 :: pages-advertment-suppor-facebook.16mb.com
+0.0.0.0 pages-stats.rbl.ms
+:: pages-stats.rbl.ms
 0.0.0.0 pages.convertkit.com
 :: pages.convertkit.com
 0.0.0.0 pageshow.dftoutiao.com
@@ -45897,6 +45901,8 @@
 :: photo.dhford.cn
 0.0.0.0 photo.haoquangou.cn
 :: photo.haoquangou.cn
+0.0.0.0 photo.jiaxiyuan.cn
+:: photo.jiaxiyuan.cn
 0.0.0.0 photo.lyghjzs.cn
 :: photo.lyghjzs.cn
 0.0.0.0 photo.rdguj.cn
@@ -46627,6 +46633,8 @@
 :: plus.pornoshara.tv
 0.0.0.0 plwaz2xxi06iaab0rimt.businessrulesanalysis.com
 :: plwaz2xxi06iaab0rimt.businessrulesanalysis.com
+0.0.0.0 plx.porndig.com
+:: plx.porndig.com
 0.0.0.0 pm.aty.sohu.com
 :: pm.aty.sohu.com
 0.0.0.0 pm.bumskontakt.com
@@ -48633,6 +48641,8 @@
 :: r.reklama.biz
 0.0.0.0 r.rxproxml.com
 :: r.rxproxml.com
+0.0.0.0 r.scoota.co
+:: r.scoota.co
 0.0.0.0 r.topdent.ru
 :: r.topdent.ru
 0.0.0.0 r.twimg.com
@@ -50561,8 +50571,6 @@
 :: sa2.ipon.lt
 0.0.0.0 sa3.tuisong.baidu.com
 :: sa3.tuisong.baidu.com
-0.0.0.0 saa.cbsi.com
-:: saa.cbsi.com
 0.0.0.0 saaaaf.goranjakovljevic.com
 :: saaaaf.goranjakovljevic.com
 0.0.0.0 saad.deze7.com.br
@@ -52819,6 +52827,8 @@
 :: sit.pagechoice.net
 0.0.0.0 site-stats.i8.com
 :: site-stats.i8.com
+0.0.0.0 site-stats.rbl.ms
+:: site-stats.rbl.ms
 0.0.0.0 site.cdnmaster.com
 :: site.cdnmaster.com
 0.0.0.0 site.domoparis.com
@@ -53561,8 +53571,6 @@
 :: srutebmduoh.myfw.us
 0.0.0.0 srv.nwave.de
 :: srv.nwave.de
-0.0.0.0 srv.stackadapt.com
-:: srv.stackadapt.com
 0.0.0.0 srv.thespacereporter.com
 :: srv.thespacereporter.com
 0.0.0.0 srv1.rapidstats.de
@@ -55933,8 +55941,6 @@
 :: t.mtagmonetizationa.com
 0.0.0.0 t.mtagmonetizationb.com
 :: t.mtagmonetizationb.com
-0.0.0.0 t.myvisualiq.net
-:: t.myvisualiq.net
 0.0.0.0 t.nrelate.com
 :: t.nrelate.com
 0.0.0.0 t.nude-moon.com
@@ -60479,8 +60485,6 @@
 :: usd.sierra-boa.com
 0.0.0.0 usdtop.58.com
 :: usdtop.58.com
-0.0.0.0 use.a.volvelle.tech
-:: use.a.volvelle.tech
 0.0.0.0 use.convertglobal.com
 :: use.convertglobal.com
 0.0.0.0 usenet.raidrush.org
@@ -60557,8 +60561,6 @@
 :: ustaw--tlo-fb.blogspot.com
 0.0.0.0 usugi-pomocy.sitey.me
 :: usugi-pomocy.sitey.me
-0.0.0.0 usw.a.volvelle.tech
-:: usw.a.volvelle.tech
 0.0.0.0 usxe5eqstjo3dhyeforo.viomil.ro
 :: usxe5eqstjo3dhyeforo.viomil.ro
 0.0.0.0 uszyce.webd.pl
@@ -61601,8 +61603,6 @@
 :: vt-1.nrelate.com
 0.0.0.0 vt.bjhdonline.com
 :: vt.bjhdonline.com
-0.0.0.0 vt.myvisualiq.net
-:: vt.myvisualiq.net
 0.0.0.0 vte.nexteramedia.com
 :: vte.nexteramedia.com
 0.0.0.0 vtot.proxy.aol.com
@@ -63753,8 +63753,6 @@
 :: www.99stats.com
 0.0.0.0 www.9malls.co.uk
 :: www.9malls.co.uk
-0.0.0.0 www.a.volvelle.tech
-:: www.a.volvelle.tech
 0.0.0.0 www.a1a.pl
 :: www.a1a.pl
 0.0.0.0 www.a1fax.com
@@ -65037,6 +65035,8 @@
 :: www.e-trends.com
 0.0.0.0 www.earnmoneyonline.in
 :: www.earnmoneyonline.in
+0.0.0.0 www.earthwax.top
+:: www.earthwax.top
 0.0.0.0 www.easy-dating.org
 :: www.easy-dating.org
 0.0.0.0 www.easy-swap.com
@@ -66105,8 +66105,6 @@
 :: www.joomlalivechat.com
 0.0.0.0 www.jornalfarroupilha.com.br
 :: www.jornalfarroupilha.com.br
-0.0.0.0 www.jornalocaminho.com.br
-:: www.jornalocaminho.com.br
 0.0.0.0 www.jouwstats.nl
 :: www.jouwstats.nl
 0.0.0.0 www.jowarinzqmiak.download
@@ -69107,6 +69105,8 @@
 :: x.120ask.com
 0.0.0.0 x.9dagui.com
 :: x.9dagui.com
+0.0.0.0 x.9zt8hy.com
+:: x.9zt8hy.com
 0.0.0.0 x.about.com
 :: x.about.com
 0.0.0.0 x.adpro.cn
@@ -69375,6 +69375,8 @@
 :: xifpnixy.cz.cc
 0.0.0.0 ximdav.bplaced.net
 :: ximdav.bplaced.net
+0.0.0.0 xiny.yssbi.net
+:: xiny.yssbi.net
 0.0.0.0 xizfabexzexy.hol.es
 :: xizfabexzexy.hol.es
 0.0.0.0 xji.qwxcs.com
