@@ -1,6 +1,6 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Jan 1 05:12:56 CET 2019
+# Last update: Wed Jan 2 04:55:02 CET 2019
 # Filter supports ipv4 and ipv6
 # Number of unique hostnames: 36409
 #################################[INFO]##################################
@@ -3101,6 +3101,8 @@
 :: abc.hearst.co.uk
 0.0.0.0 abc.hkepc.com
 :: abc.hkepc.com
+0.0.0.0 abc.hkepc.net
+:: abc.hkepc.net
 0.0.0.0 abc.limaction.com
 :: abc.limaction.com
 0.0.0.0 abc.ruiwen.com
@@ -3175,6 +3177,8 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
+0.0.0.0 abusalewm.exceltoner.com
+:: abusalewm.exceltoner.com
 0.0.0.0 ac.ajur.info
 :: ac.ajur.info
 0.0.0.0 ac.atpanel.com
@@ -44795,6 +44799,8 @@
 :: one.cam4ads.com
 0.0.0.0 one.digital.cnet.com
 :: one.digital.cnet.com
+0.0.0.0 one.ifis.today
+:: one.ifis.today
 0.0.0.0 one.meltngo.com
 :: one.meltngo.com
 0.0.0.0 one.schuetttransport.com
@@ -47523,8 +47529,6 @@
 :: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
-0.0.0.0 phuongdanhvonghe.edu.vn
-:: phuongdanhvonghe.edu.vn
 0.0.0.0 pi-chin-cha.webcindario.com
 :: pi-chin-cha.webcindario.com
 0.0.0.0 pi.safer-networking.ie
@@ -65645,6 +65649,8 @@
 :: wp.zontown.com
 0.0.0.0 wp1.cor-natty.com
 :: wp1.cor-natty.com
+0.0.0.0 wp12033108.server-he.de
+:: wp12033108.server-he.de
 0.0.0.0 wpa.qq.com
 :: wpa.qq.com
 0.0.0.0 wpad.fgppchg.fgpp.com
@@ -66649,8 +66655,6 @@
 :: www.aquacell.pl
 0.0.0.0 www.arbeitssuche-web.de
 :: www.arbeitssuche-web.de
-0.0.0.0 www.arbonne.com
-:: www.arbonne.com
 0.0.0.0 www.arcadipace.org
 :: www.arcadipace.org
 0.0.0.0 www.archigate.it
@@ -66703,10 +66707,6 @@
 :: www.autoriparazioniflorisgiorgio.com
 0.0.0.0 www.avita.net.pl
 :: www.avita.net.pl
-0.0.0.0 www.avon.com
-:: www.avon.com
-0.0.0.0 www.avon.pl
-:: www.avon.pl
 0.0.0.0 www.awalkerjones.com
 :: www.awalkerjones.com
 0.0.0.0 www.awmads.com
@@ -68869,8 +68869,6 @@
 :: www.loansbadcredit.net.au
 0.0.0.0 www.locatorprotocol.com
 :: www.locatorprotocol.com
-0.0.0.0 www.log-in-verlag.de
-:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -70501,6 +70499,8 @@
 :: www.tiergestuetzt.de
 0.0.0.0 www.timefor.com
 :: www.timefor.com
+0.0.0.0 www.timelessimagesmi.com
+:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tings.com
