@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Jan 2 04:55:02 CET 2019
+# Last update: Fri Jan 4 06:34:40 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36409
+# Number of unique hostnames: 36422
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -169,6 +169,8 @@
 :: 1.bangdan5.com
 0.0.0.0 1.bashenghuo.com
 :: 1.bashenghuo.com
+0.0.0.0 1.bh5.com.cn
+:: 1.bh5.com.cn
 0.0.0.0 1.chcx.cn
 :: 1.chcx.cn
 0.0.0.0 1.chipde.damoh.schneevonmorgen.com
@@ -22955,6 +22957,8 @@
 :: collector.leaddyno.com
 0.0.0.0 collector.newsx.cc
 :: collector.newsx.cc
+0.0.0.0 collector.prod.expedia.com
+:: collector.prod.expedia.com
 0.0.0.0 collector.puhutv.com
 :: collector.puhutv.com
 0.0.0.0 collector.statowl.com
@@ -24469,6 +24473,8 @@
 :: d.admx.baixing.com
 0.0.0.0 d.ads.readwriteweb.com
 :: d.ads.readwriteweb.com
+0.0.0.0 d.adup-tech.com
+:: d.adup-tech.com
 0.0.0.0 d.advertisegaming3.com
 :: d.advertisegaming3.com
 0.0.0.0 d.adx.io
@@ -24845,6 +24851,8 @@
 :: d1mub3aw743hsf.cloudfront.net
 0.0.0.0 d1mxvenloqrqmu.cloudfront.net
 :: d1mxvenloqrqmu.cloudfront.net
+0.0.0.0 d1n3tk65esqc4k.cloudfront.net
+:: d1n3tk65esqc4k.cloudfront.net
 0.0.0.0 d1n7ypf85zfej7.cloudfront.net
 :: d1n7ypf85zfej7.cloudfront.net
 0.0.0.0 d1nkcqm1nusqof.cloudfront.net
@@ -35517,6 +35525,8 @@
 :: infomaschenwerkede.wwwzssl.in
 0.0.0.0 infomitglieder.de-kontaktaktualisierung.eu
 :: infomitglieder.de-kontaktaktualisierung.eu
+0.0.0.0 informacje.nbhost.pl
+:: informacje.nbhost.pl
 0.0.0.0 informacjeszok24.blogspot.com
 :: informacjeszok24.blogspot.com
 0.0.0.0 informatio.igg.biz
@@ -35691,6 +35701,8 @@
 :: instruminahui.edu.ec
 0.0.0.0 int-found-online.bizpartner.biz
 :: int-found-online.bizpartner.biz
+0.0.0.0 int.w3tong.com
+:: int.w3tong.com
 0.0.0.0 inte.sogou.com
 :: inte.sogou.com
 0.0.0.0 inte.theta.sogoucdn.com
@@ -36873,6 +36885,8 @@
 :: juntadebeneficencia.org.ec
 0.0.0.0 jur.unn.ac.ru
 :: jur.unn.ac.ru
+0.0.0.0 jurasik.serveminecraft.net
+:: jurasik.serveminecraft.net
 0.0.0.0 juridicoee.sslblindado.com
 :: juridicoee.sslblindado.com
 0.0.0.0 just-for-style.omur71.ru
@@ -40913,6 +40927,8 @@
 :: metrics.comcast.com
 0.0.0.0 metrics.compactappliance.com
 :: metrics.compactappliance.com
+0.0.0.0 metrics.consumerreports.org
+:: metrics.consumerreports.org
 0.0.0.0 metrics.corus.ca
 :: metrics.corus.ca
 0.0.0.0 metrics.cosmopolitan.co.uk
@@ -55327,6 +55343,8 @@
 :: snapchat-save.blogspot.com
 0.0.0.0 snaps.vidiemi.com
 :: snaps.vidiemi.com
+0.0.0.0 snbnhngl.ifeng.com
+:: snbnhngl.ifeng.com
 0.0.0.0 sndkorea.nowcdn.co.kr
 :: sndkorea.nowcdn.co.kr
 0.0.0.0 sneckershatch.5gbfree.com
@@ -61243,6 +61261,8 @@
 :: trk.dsv2trk.com
 0.0.0.0 trk.etrigue.com
 :: trk.etrigue.com
+0.0.0.0 trk.flirtsformen.site
+:: trk.flirtsformen.site
 0.0.0.0 trk.i0.cz
 :: trk.i0.cz
 0.0.0.0 trk.in25app.com
@@ -61267,6 +61287,8 @@
 :: trk.pswec.com
 0.0.0.0 trk.rrcpm.com
 :: trk.rrcpm.com
+0.0.0.0 trk.securesmrt-dt.com
+:: trk.securesmrt-dt.com
 0.0.0.0 trk.simply.net
 :: trk.simply.net
 0.0.0.0 trk.sndngbay.site
@@ -64423,6 +64445,8 @@
 :: watch.scarymovieonline.com
 0.0.0.0 watch.stream4know.com
 :: watch.stream4know.com
+0.0.0.0 watchdogdns.duckdns.org
+:: watchdogdns.duckdns.org
 0.0.0.0 watchever.bild.de
 :: watchever.bild.de
 0.0.0.0 watchfree.flv.in
@@ -68869,6 +68893,8 @@
 :: www.loansbadcredit.net.au
 0.0.0.0 www.locatorprotocol.com
 :: www.locatorprotocol.com
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
