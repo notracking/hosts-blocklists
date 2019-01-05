@@ -1,14 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-<<<<<<< HEAD
-# Last update: Sat Jan 5 05:13:52 CET 2019
+# Last update: Sat Jan 5 10:44:31 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36412
-=======
-# Last update: Thu Jan 3 04:59:48 CET 2019
-# Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36416
->>>>>>> 350e8f9a46bb467ce111bc709415e4ee3a741a62
+# Number of unique hostnames: 36421
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3185,6 +3179,8 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
+0.0.0.0 abusalewm.exceltoner.com
+:: abusalewm.exceltoner.com
 0.0.0.0 ac.ajur.info
 :: ac.ajur.info
 0.0.0.0 ac.atpanel.com
@@ -32433,6 +32429,8 @@
 :: grafephot.org.za
 0.0.0.0 gram.mfdrums.com
 :: gram.mfdrums.com
+0.0.0.0 gramelis.newyorkmascot.com
+:: gramelis.newyorkmascot.com
 0.0.0.0 grandpa.thebehrs.ca
 :: grandpa.thebehrs.ca
 0.0.0.0 grant.rpof.org
@@ -37511,6 +37509,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -37915,6 +37915,8 @@
 :: lerofa.hol.es
 0.0.0.0 leroidumatelas.gb.net
 :: leroidumatelas.gb.net
+0.0.0.0 lesbon.ksupridewrestling.com
+:: lesbon.ksupridewrestling.com
 0.0.0.0 lesteeuropeu.tur.br
 :: lesteeuropeu.tur.br
 0.0.0.0 letsgopub.000webhostapp.com
@@ -62613,6 +62615,8 @@
 :: url.adtrgt.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
+0.0.0.0 urladyms.newlogiq.com
+:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -63381,6 +63385,8 @@
 :: vert349.wixsite.com
 0.0.0.0 vertical-stats.huffpost.com
 :: vertical-stats.huffpost.com
+0.0.0.0 verzeroli.outbreakm3dia.com
+:: verzeroli.outbreakm3dia.com
 0.0.0.0 vewrb.italisumo.at
 :: vewrb.italisumo.at
 0.0.0.0 vex.analytics.wildtangent.com
@@ -66851,6 +66857,8 @@
 :: www.bewaycare.com
 0.0.0.0 www.bfqnup.party
 :: www.bfqnup.party
+0.0.0.0 www.bharatinfoline.com
+:: www.bharatinfoline.com
 0.0.0.0 www.biddingx.com
 :: www.biddingx.com
 0.0.0.0 www.bidwee.com
@@ -67761,6 +67769,8 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
+0.0.0.0 www.fishingtackleindia.com
+:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
@@ -68375,6 +68385,8 @@
 :: www.iiewl.com
 0.0.0.0 www.ijacko.net
 :: www.ijacko.net
+0.0.0.0 www.ijerd.com
+:: www.ijerd.com
 0.0.0.0 www.ilgm-deals.com
 :: www.ilgm-deals.com
 0.0.0.0 www.ilkhaberadana.com
@@ -68573,6 +68585,8 @@
 :: www.joomlalivechat.com
 0.0.0.0 www.jornalfarroupilha.com.br
 :: www.jornalfarroupilha.com.br
+0.0.0.0 www.jornalocaminho.com.br
+:: www.jornalocaminho.com.br
 0.0.0.0 www.jouwstats.nl
 :: www.jouwstats.nl
 0.0.0.0 www.jowarinzqmiak.download
@@ -68879,8 +68893,6 @@
 :: www.loansbadcredit.net.au
 0.0.0.0 www.locatorprotocol.com
 :: www.locatorprotocol.com
-0.0.0.0 www.log-in-verlag.de
-:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -68901,8 +68913,6 @@
 :: www.lovetrust.ru
 0.0.0.0 www.lowes-pianos-and-organs.com
 :: www.lowes-pianos-and-organs.com
-0.0.0.0 www.loxsavvy.com.au
-:: www.loxsavvy.com.au
 0.0.0.0 www.lpmxp2014.com
 :: www.lpmxp2014.com
 0.0.0.0 www.lpmxp2015.com
@@ -70513,6 +70523,8 @@
 :: www.tiergestuetzt.de
 0.0.0.0 www.timefor.com
 :: www.timefor.com
+0.0.0.0 www.timelessimagesmi.com
+:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tings.com
