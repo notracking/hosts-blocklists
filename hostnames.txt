@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Jan 7 05:23:56 CET 2019
+# Last update: Tue Jan 8 05:23:54 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36421
+# Number of unique hostnames: 36427
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3581,6 +3581,8 @@
 :: ad.4ertik.porn
 0.0.0.0 ad.51wnl.com
 :: ad.51wnl.com
+0.0.0.0 ad.52av.tv
+:: ad.52av.tv
 0.0.0.0 ad.71i.de
 :: ad.71i.de
 0.0.0.0 ad.91s.com
@@ -18289,6 +18291,8 @@
 :: beacons.hottraffic.nl
 0.0.0.0 beads.sx.atl.publicus.com
 :: beads.sx.atl.publicus.com
+0.0.0.0 beam.koddi.com
+:: beam.koddi.com
 0.0.0.0 beap-bc.yahoo.com
 :: beap-bc.yahoo.com
 0.0.0.0 beap.adss.yahoo.com
@@ -21283,6 +21287,8 @@
 :: celebspy.websx.com
 0.0.0.0 cellstats.mako.co.il
 :: cellstats.mako.co.il
+0.0.0.0 cem.hotelsapi.io
+:: cem.hotelsapi.io
 0.0.0.0 center-help02.ucoz.pl
 :: center-help02.ucoz.pl
 0.0.0.0 center-help233.developer78-fanpage-new-verifikasi43.gq
@@ -26501,6 +26507,8 @@
 :: demo.sp-kunde.de
 0.0.0.0 demo.vertexinfo.in
 :: demo.vertexinfo.in
+0.0.0.0 demo15.webindia.com
+:: demo15.webindia.com
 0.0.0.0 demo5.ikantam.com
 :: demo5.ikantam.com
 0.0.0.0 demon1.linksummary.com
@@ -33877,6 +33885,8 @@
 :: hr3aqz.gay.tathamservice.com
 0.0.0.0 hrfgd74nfksjdcnnklnwefvdsf.materdunst.com
 :: hrfgd74nfksjdcnnklnwefvdsf.materdunst.com
+0.0.0.0 hrum.hotelsapi.io
+:: hrum.hotelsapi.io
 0.0.0.0 hs.interpolls.com
 :: hs.interpolls.com
 0.0.0.0 hsbc.personal-gb.org
@@ -34239,6 +34249,8 @@
 :: iam-agof-app.irquest.com
 0.0.0.0 iam.best.lt.ua
 :: iam.best.lt.ua
+0.0.0.0 iapjalisco.org.mx
+:: iapjalisco.org.mx
 0.0.0.0 iapplsslserviceupgrade.settingaccountsslsupport.com
 :: iapplsslserviceupgrade.settingaccountsslsupport.com
 0.0.0.0 iappweb.moonfruit.com
@@ -36773,6 +36785,8 @@
 :: jsc.dinclinx.com
 0.0.0.0 jsc.tovarro.com
 :: jsc.tovarro.com
+0.0.0.0 jscode.acg68.com
+:: jscode.acg68.com
 0.0.0.0 jscode.jbzj.com
 :: jscode.jbzj.com
 0.0.0.0 jsdx.91xiazai.com
@@ -39295,8 +39309,6 @@
 :: m.gglay.com
 0.0.0.0 m.gjiaj.com
 :: m.gjiaj.com
-0.0.0.0 m.gjuet.com
-:: m.gjuet.com
 0.0.0.0 m.gtuoj.com
 :: m.gtuoj.com
 0.0.0.0 m.guanren11.com
@@ -55347,6 +55359,8 @@
 :: snaps.vidiemi.com
 0.0.0.0 snbnhngl.ifeng.com
 :: snbnhngl.ifeng.com
+0.0.0.0 snd.prosends.science
+:: snd.prosends.science
 0.0.0.0 sndkorea.nowcdn.co.kr
 :: sndkorea.nowcdn.co.kr
 0.0.0.0 sneckershatch.5gbfree.com
@@ -64497,8 +64511,6 @@
 :: wbmwss.beetv.net
 0.0.0.0 wbpctips.mobile.sina.cn
 :: wbpctips.mobile.sina.cn
-0.0.0.0 wbu.wroc.pl
-:: wbu.wroc.pl
 0.0.0.0 wbwl.houyi.baofeng.net
 :: wbwl.houyi.baofeng.net
 0.0.0.0 wc-tracking.lavasoft.com
