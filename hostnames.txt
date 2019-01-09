@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Jan 8 05:23:54 CET 2019
+# Last update: Wed Jan 9 05:28:34 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36427
+# Number of unique hostnames: 36428
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -99,6 +99,8 @@
 :: 09_19.supfree.net
 0.0.0.0 0br.realsecuredredirect.com
 :: 0br.realsecuredredirect.com
+0.0.0.0 0d077ef9e74d8.cdn.sohucs.com
+:: 0d077ef9e74d8.cdn.sohucs.com
 0.0.0.0 0ec97c88.000webhostapp.com
 :: 0ec97c88.000webhostapp.com
 0.0.0.0 0f1dc77bd4.000webhostapp.com
@@ -19485,6 +19487,8 @@
 :: buzzbox.buzzfeed.com
 0.0.0.0 buzzwall.digital-forerunners.com
 :: buzzwall.digital-forerunners.com
+0.0.0.0 bvakl.ifeng.com
+:: bvakl.ifeng.com
 0.0.0.0 bvbvcfc.000webhostapp.com
 :: bvbvcfc.000webhostapp.com
 0.0.0.0 bvtjuy.koll.pershoreairporttransfers.co.uk
@@ -27261,6 +27265,8 @@
 :: dn.binsetup.com
 0.0.0.0 dn3y71tq7jf07.cloudfront.net
 :: dn3y71tq7jf07.cloudfront.net
+0.0.0.0 dna8twue3dlxq.cloudfront.net
+:: dna8twue3dlxq.cloudfront.net
 0.0.0.0 dnads.directnic.com
 :: dnads.directnic.com
 0.0.0.0 dnhgz729v27ca.cloudfront.net
@@ -32431,8 +32437,6 @@
 :: grafephot.org.za
 0.0.0.0 gram.mfdrums.com
 :: gram.mfdrums.com
-0.0.0.0 gramelis.newyorkmascot.com
-:: gramelis.newyorkmascot.com
 0.0.0.0 grandpa.thebehrs.ca
 :: grandpa.thebehrs.ca
 0.0.0.0 grant.rpof.org
@@ -37515,8 +37519,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -59461,6 +59463,8 @@
 :: topnews.smi.one
 0.0.0.0 topping.od.ua
 :: topping.od.ua
+0.0.0.0 topresistor.gotoip2.com
+:: topresistor.gotoip2.com
 0.0.0.0 topsites.blogflux.com
 :: topsites.blogflux.com
 0.0.0.0 topsites.cearchives.com
@@ -64511,6 +64515,8 @@
 :: wbmwss.beetv.net
 0.0.0.0 wbpctips.mobile.sina.cn
 :: wbpctips.mobile.sina.cn
+0.0.0.0 wbu.wroc.pl
+:: wbu.wroc.pl
 0.0.0.0 wbwl.houyi.baofeng.net
 :: wbwl.houyi.baofeng.net
 0.0.0.0 wc-tracking.lavasoft.com
@@ -65303,8 +65309,6 @@
 :: widgetssec.cam-content.com
 0.0.0.0 widnd.dajiadou6.com
 :: widnd.dajiadou6.com
-0.0.0.0 wifiapi02.51y5.net
-:: wifiapi02.51y5.net
 0.0.0.0 wifishow.ggsafe.com
 :: wifishow.ggsafe.com
 0.0.0.0 wiki.protofilm.net
@@ -68589,8 +68593,6 @@
 :: www.joomlalivechat.com
 0.0.0.0 www.jornalfarroupilha.com.br
 :: www.jornalfarroupilha.com.br
-0.0.0.0 www.jornalocaminho.com.br
-:: www.jornalocaminho.com.br
 0.0.0.0 www.jouwstats.nl
 :: www.jouwstats.nl
 0.0.0.0 www.jowarinzqmiak.download
@@ -69341,6 +69343,8 @@
 :: www.nitaphar.com.vn
 0.0.0.0 www.nitronetads.com
 :: www.nitronetads.com
+0.0.0.0 www.nnnwwwe.com
+:: www.nnnwwwe.com
 0.0.0.0 www.noadnetwork.com
 :: www.noadnetwork.com
 0.0.0.0 www.nordwest.tora.ru
@@ -70843,8 +70847,6 @@
 :: www.visits.lt
 0.0.0.0 www.viskon.pl
 :: www.viskon.pl
-0.0.0.0 www.vitaminbude.de
-:: www.vitaminbude.de
 0.0.0.0 www.vivaimontina.com
 :: www.vivaimontina.com
 0.0.0.0 www.vivo7.com
