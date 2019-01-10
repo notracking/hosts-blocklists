@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Jan 9 05:28:34 CET 2019
+# Last update: Thu Jan 10 05:31:13 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36428
+# Number of unique hostnames: 36431
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -14177,8 +14177,6 @@
 :: analytics.leadlifesolutions.net
 0.0.0.0 analytics.levelaccess.net
 :: analytics.levelaccess.net
-0.0.0.0 analytics.liftoff.io
-:: analytics.liftoff.io
 0.0.0.0 analytics.live-panorama.com
 :: analytics.live-panorama.com
 0.0.0.0 analytics.live.com
@@ -37519,6 +37517,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -38067,6 +38067,12 @@
 :: lig.liberation.fr
 0.0.0.0 lightboxanalytics-53675.onmodulus.net
 :: lightboxanalytics-53675.onmodulus.net
+0.0.0.0 lightboxapi1.azurewebsites.net
+:: lightboxapi1.azurewebsites.net
+0.0.0.0 lightboxapi2.azurewebsites.net
+:: lightboxapi2.azurewebsites.net
+0.0.0.0 lightboxapi3.azurewebsites.net
+:: lightboxapi3.azurewebsites.net
 0.0.0.0 lightson.vpsboard.com
 :: lightson.vpsboard.com
 0.0.0.0 ligrfc.ncl.co.kr
@@ -62633,8 +62639,6 @@
 :: url.adtrgt.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
-0.0.0.0 urladyms.newlogiq.com
-:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -67781,8 +67785,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
@@ -68851,6 +68853,8 @@
 :: www.lifelabs.vn
 0.0.0.0 www.liganews.gr
 :: www.liganews.gr
+0.0.0.0 www.lightboxcdn.com
+:: www.lightboxcdn.com
 0.0.0.0 www.likethis.mbosoft.com
 :: www.likethis.mbosoft.com
 0.0.0.0 www.linezing.com
@@ -70847,6 +70851,8 @@
 :: www.visits.lt
 0.0.0.0 www.viskon.pl
 :: www.viskon.pl
+0.0.0.0 www.vitaminbude.de
+:: www.vitaminbude.de
 0.0.0.0 www.vivaimontina.com
 :: www.vivaimontina.com
 0.0.0.0 www.vivo7.com
