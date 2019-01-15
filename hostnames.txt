@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Jan 14 05:30:43 CET 2019
+# Last update: Tue Jan 15 05:37:42 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36738
+# Number of unique hostnames: 36742
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3179,6 +3179,8 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
+0.0.0.0 abusalewm.exceltoner.com
+:: abusalewm.exceltoner.com
 0.0.0.0 ac.ajur.info
 :: ac.ajur.info
 0.0.0.0 ac.atpanel.com
@@ -27885,6 +27887,8 @@
 :: drchx.000webhostapp.com
 0.0.0.0 drd.hauchi.com.tw
 :: drd.hauchi.com.tw
+0.0.0.0 drda5yf9kgz5p.cloudfront.net
+:: drda5yf9kgz5p.cloudfront.net
 0.0.0.0 drdavidlinks.net.au
 :: drdavidlinks.net.au
 0.0.0.0 drdj.m.gxwztv.com
@@ -40173,6 +40177,8 @@
 :: mail3.surf-town.net
 0.0.0.0 mail4.surf-town.net
 :: mail4.surf-town.net
+0.0.0.0 mail5.static.convertkit.com
+:: mail5.static.convertkit.com
 0.0.0.0 mail5.surf-town.net
 :: mail5.surf-town.net
 0.0.0.0 mail6.static.convertkit.com
@@ -41145,6 +41151,8 @@
 :: messagorangconsult.000webhostapp.com
 0.0.0.0 meta.streamcloud.eu
 :: meta.streamcloud.eu
+0.0.0.0 meta.truemobileclicks.com
+:: meta.truemobileclicks.com
 0.0.0.0 metaapi.bulletproofserving.com
 :: metaapi.bulletproofserving.com
 0.0.0.0 metartmoney.met-art.com
@@ -61625,6 +61633,8 @@
 :: tracking.whattoexpect.com
 0.0.0.0 tracking.worldmedia.net
 :: tracking.worldmedia.net
+0.0.0.0 tracking.ws.eurosport.com
+:: tracking.ws.eurosport.com
 0.0.0.0 tracking.wuzzon.nl
 :: tracking.wuzzon.nl
 0.0.0.0 tracking.xsellapp.com
@@ -63211,8 +63221,6 @@
 :: url.adtrgt.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
-0.0.0.0 urladyms.newlogiq.com
-:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -68385,8 +68393,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
@@ -71143,6 +71149,8 @@
 :: www.tiergestuetzt.de
 0.0.0.0 www.timefor.com
 :: www.timefor.com
+0.0.0.0 www.timelessimagesmi.com
+:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tings.com
