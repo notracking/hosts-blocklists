@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Jan 15 05:37:42 CET 2019
+# Last update: Wed Jan 16 05:39:25 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36742
+# Number of unique hostnames: 36762
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2365,6 +2365,8 @@
 :: a.6d47c1118927cf53ba9654931df80e8d.com
 0.0.0.0 a.75111.com
 :: a.75111.com
+0.0.0.0 a.77shw.com
+:: a.77shw.com
 0.0.0.0 a.abv.bg
 :: a.abv.bg
 0.0.0.0 a.ad.playstation.net
@@ -14565,6 +14567,8 @@
 :: anemia.xgamegodni.pl
 0.0.0.0 angehan-lugvaart.paladin-global.net
 :: angehan-lugvaart.paladin-global.net
+0.0.0.0 angelayeedesign.strategysketchnotes.com
+:: angelayeedesign.strategysketchnotes.com
 0.0.0.0 angelinajolie.1stok.com
 :: angelinajolie.1stok.com
 0.0.0.0 angelinajolie.ca.tt
@@ -16397,6 +16401,8 @@
 :: b.1s2.in.ua
 0.0.0.0 b.53yao.com
 :: b.53yao.com
+0.0.0.0 b.77shw.com
+:: b.77shw.com
 0.0.0.0 b.9dreams.net
 :: b.9dreams.net
 0.0.0.0 b.a2gw.com
@@ -18045,6 +18051,8 @@
 :: bbpntg3.homestead.com
 0.0.0.0 bbs.bjchun.com
 :: bbs.bjchun.com
+0.0.0.0 bbs.search.nkwwnx.com
+:: bbs.search.nkwwnx.com
 0.0.0.0 bbs.tiens.net.cn
 :: bbs.tiens.net.cn
 0.0.0.0 bbs.winmag.com
@@ -19473,6 +19481,8 @@
 :: burn.settingsdata.store
 0.0.0.0 bursakombiservisi.web.tr
 :: bursakombiservisi.web.tr
+0.0.0.0 business-blueprint.top-startups.com
+:: business-blueprint.top-startups.com
 0.0.0.0 business-page-set.000webhostapp.com
 :: business-page-set.000webhostapp.com
 0.0.0.0 business.92wy.com
@@ -22597,6 +22607,8 @@
 :: clients.tbo.com
 0.0.0.0 clientstream.intuit.launchdarkly.com
 :: clientstream.intuit.launchdarkly.com
+0.0.0.0 clinic-1.gov.ua
+:: clinic-1.gov.ua
 0.0.0.0 clink.nifty.com
 :: clink.nifty.com
 0.0.0.0 clips.coolerads.com
@@ -28471,6 +28483,8 @@
 :: e.jltdbyq.com
 0.0.0.0 e.joyxv.com
 :: e.joyxv.com
+0.0.0.0 e.kcenu.com
+:: e.kcenu.com
 0.0.0.0 e.kde.cz
 :: e.kde.cz
 0.0.0.0 e.kewro.com
@@ -35017,8 +35031,6 @@
 :: images.freeshop.com
 0.0.0.0 images.go2net.com
 :: images.go2net.com
-0.0.0.0 images.gxsky.com
-:: images.gxsky.com
 0.0.0.0 images.gyffu.com
 :: images.gyffu.com
 0.0.0.0 images.hi5.com
@@ -35317,8 +35329,6 @@
 :: img.stamps.com
 0.0.0.0 img.supfast.net
 :: img.supfast.net
-0.0.0.0 img.sxcol.cn
-:: img.sxcol.cn
 0.0.0.0 img.szm.sk
 :: img.szm.sk
 0.0.0.0 img.tan5858.com
@@ -36403,6 +36413,8 @@
 :: iyuurrfdfd.gobnd.com
 0.0.0.0 iz8pqil968uq30fbknyblxj.estetikburun.asia
 :: iz8pqil968uq30fbknyblxj.estetikburun.asia
+0.0.0.0 izhevsk.planetasvet.ru
+:: izhevsk.planetasvet.ru
 0.0.0.0 izitracking.izimailing.com
 :: izitracking.izimailing.com
 0.0.0.0 j.2004cms.com
@@ -37287,8 +37299,6 @@
 :: k5ads.osdn.com
 0.0.0.0 k5dwwsm3u5kd2kjkm42l.viomil.ro
 :: k5dwwsm3u5kd2kjkm42l.viomil.ro
-0.0.0.0 k5tmk4.sadobo.com
-:: k5tmk4.sadobo.com
 0.0.0.0 k6efm4.kal.wkcengland.com
 :: k6efm4.kal.wkcengland.com
 0.0.0.0 k918053m.beget.tech
@@ -37677,6 +37687,8 @@
 :: kokoblsalbaba.blossy.xyz
 0.0.0.0 kokolokohacking.webcindario.com
 :: kokolokohacking.webcindario.com
+0.0.0.0 kolejskilmentari.edu.my
+:: kolejskilmentari.edu.my
 0.0.0.0 kolevlagie84.000webhostapp.com
 :: kolevlagie84.000webhostapp.com
 0.0.0.0 kolevwd18.000webhostapp.com
@@ -39521,6 +39533,8 @@
 :: m.937920.com
 0.0.0.0 m.aangc.com
 :: m.aangc.com
+0.0.0.0 m.achuc.com
+:: m.achuc.com
 0.0.0.0 m.ad.zhangyue.com
 :: m.ad.zhangyue.com
 0.0.0.0 m.adbridge.de
@@ -39605,6 +39619,8 @@
 :: m.dbaiz.com
 0.0.0.0 m.dbiei.com
 :: m.dbiei.com
+0.0.0.0 m.ddanf.com
+:: m.ddanf.com
 0.0.0.0 m.doodlemobile.com
 :: m.doodlemobile.com
 0.0.0.0 m.du1du.org
@@ -39719,6 +39735,8 @@
 :: m.jltdbyq.com
 0.0.0.0 m.joyxv.com
 :: m.joyxv.com
+0.0.0.0 m.kcenu.com
+:: m.kcenu.com
 0.0.0.0 m.kejet.net
 :: m.kejet.net
 0.0.0.0 m.kewro.com
@@ -39761,8 +39779,6 @@
 :: m.mqgpo.com
 0.0.0.0 m.mrtuo.com
 :: m.mrtuo.com
-0.0.0.0 m.msujd.cn
-:: m.msujd.cn
 0.0.0.0 m.mtuoa.com
 :: m.mtuoa.com
 0.0.0.0 m.mushizhubao.com
@@ -40157,6 +40173,8 @@
 :: mail.radar.imgsmail.ru
 0.0.0.0 mail.siom.ac.cn
 :: mail.siom.ac.cn
+0.0.0.0 mail.stupidhead.tk
+:: mail.stupidhead.tk
 0.0.0.0 mail.tropmet.res.in
 :: mail.tropmet.res.in
 0.0.0.0 mail.tsinghua.edu.cn
@@ -40507,6 +40525,8 @@
 :: mat.messajess.com
 0.0.0.0 matabaju420.000webhostapp.com
 :: matabaju420.000webhostapp.com
+0.0.0.0 mataukitaip.ekovalstybe.lt
+:: mataukitaip.ekovalstybe.lt
 0.0.0.0 match.c8.net.ua
 :: match.c8.net.ua
 0.0.0.0 match.doko.jp
@@ -42755,6 +42775,8 @@
 :: mtrcs.samba.tv
 0.0.0.0 mts.mansion.com
 :: mts.mansion.com
+0.0.0.0 mtsecret.mtcup.com.vn
+:: mtsecret.mtcup.com.vn
 0.0.0.0 mtsnu-miftahululum.sch.id
 :: mtsnu-miftahululum.sch.id
 0.0.0.0 mtty-cdn.mtty.xin
@@ -45721,6 +45743,8 @@
 :: opskins.pp.ua
 0.0.0.0 opt-upgrdhot.000webhostapp.com
 :: opt-upgrdhot.000webhostapp.com
+0.0.0.0 optima.easiere.com
+:: optima.easiere.com
 0.0.0.0 optimiser.trafficmansion.com
 :: optimiser.trafficmansion.com
 0.0.0.0 optimize-stats.voxmedia.com
@@ -47911,6 +47935,8 @@
 :: pharmacy-canada.forsearch.net
 0.0.0.0 pharmacy-news.blogspot.com
 :: pharmacy-news.blogspot.com
+0.0.0.0 pharmaesourcing.technoexam.com
+:: pharmaesourcing.technoexam.com
 0.0.0.0 pharmafranchise.net.in
 :: pharmafranchise.net.in
 0.0.0.0 pharmgirlsalazhar.edu.eg
@@ -49187,6 +49213,8 @@
 :: portal.discover.com.customersvcs.universallogin.signin.petstare.com
 0.0.0.0 portal.discover.com.mice-eg.com
 :: portal.discover.com.mice-eg.com
+0.0.0.0 portal.elsyscakes.com
+:: portal.elsyscakes.com
 0.0.0.0 portal.publishersserviceassociates.com
 :: portal.publishersserviceassociates.com
 0.0.0.0 portal.xtradepro.com
@@ -50921,6 +50949,8 @@
 :: rads.stackoverflow.com
 0.0.0.0 rafaga7v.beget.tech
 :: rafaga7v.beget.tech
+0.0.0.0 ragainesvaldos.ekovalstybe.lt
+:: ragainesvaldos.ekovalstybe.lt
 0.0.0.0 rainb00-scama.revupnet.com
 :: rainb00-scama.revupnet.com
 0.0.0.0 rainbowcolours.me.uk
@@ -55493,6 +55523,8 @@
 :: sin.saratov.sarmo.ru
 0.0.0.0 sina.wrating.com
 :: sina.wrating.com
+0.0.0.0 sinarmas.pariadkomindo.com
+:: sinarmas.pariadkomindo.com
 0.0.0.0 sincronismo.is-an-accountant.com
 :: sincronismo.is-an-accountant.com
 0.0.0.0 sing-in-online-id.000webhostapp.com
@@ -58379,6 +58411,8 @@
 :: sw.mobile.sogou.com
 0.0.0.0 swa.gtimg.com
 :: swa.gtimg.com
+0.0.0.0 swanpark.dothidongsaigon.com
+:: swanpark.dothidongsaigon.com
 0.0.0.0 swappdl.duoyi.com
 :: swappdl.duoyi.com
 0.0.0.0 swattradingco.name.qa
@@ -63221,6 +63255,8 @@
 :: url.adtrgt.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
+0.0.0.0 urladyms.newlogiq.com
+:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -66289,6 +66325,8 @@
 :: wowonder.alvarohurtado.com
 0.0.0.0 wp-stat.s3.amazonasw.com
 :: wp-stat.s3.amazonasw.com
+0.0.0.0 wp.corelooknung.com
+:: wp.corelooknung.com
 0.0.0.0 wp.horizonslearningfoundation.org
 :: wp.horizonslearningfoundation.org
 0.0.0.0 wp.twells.com.hostingmurah.co
@@ -66297,6 +66335,8 @@
 :: wp.zontown.com
 0.0.0.0 wp1.cor-natty.com
 :: wp1.cor-natty.com
+0.0.0.0 wp2.shopcoach.net
+:: wp2.shopcoach.net
 0.0.0.0 wpa.qq.com
 :: wpa.qq.com
 0.0.0.0 wpad.fgppchg.fgpp.com
@@ -66667,8 +66707,6 @@
 :: www.17zhaole.com
 0.0.0.0 www.18access.com
 :: www.18access.com
-0.0.0.0 www.18dusun.com
-:: www.18dusun.com
 0.0.0.0 www.1933000.com
 :: www.1933000.com
 0.0.0.0 www.1axb.com
@@ -68393,6 +68431,8 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
+0.0.0.0 www.fishingtackleindia.com
+:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
@@ -69495,8 +69535,6 @@
 :: www.litra.com.mk
 0.0.0.0 www.little-help.com
 :: www.little-help.com
-0.0.0.0 www.little-moon-aussies.com
-:: www.little-moon-aussies.com
 0.0.0.0 www.littledevildoubt.com
 :: www.littledevildoubt.com
 0.0.0.0 www.live.4480.org
@@ -70069,6 +70107,8 @@
 :: www.ontheweb.com
 0.0.0.0 www.oo5.com
 :: www.oo5.com
+0.0.0.0 www.oollttqq.com
+:: www.oollttqq.com
 0.0.0.0 www.ooniu.com
 :: www.ooniu.com
 0.0.0.0 www.opendownload.de
