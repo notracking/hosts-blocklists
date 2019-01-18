@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Jan 17 05:39:59 CET 2019
+# Last update: Fri Jan 18 06:35:03 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36770
+# Number of unique hostnames: 36781
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2817,6 +2817,8 @@
 :: a1.0s.net.cn
 0.0.0.0 a1.16700.net
 :: a1.16700.net
+0.0.0.0 a1.99966.cn
+:: a1.99966.cn
 0.0.0.0 a1.admaster.net
 :: a1.admaster.net
 0.0.0.0 a1.adstore.jp
@@ -22931,6 +22933,14 @@
 :: cn85240.tmweb.ru
 0.0.0.0 cnagourney.000webhostapp.com
 :: cnagourney.000webhostapp.com
+0.0.0.0 cname01.cryptolootminer.com
+:: cname01.cryptolootminer.com
+0.0.0.0 cname03.cryptolootminer.com
+:: cname03.cryptolootminer.com
+0.0.0.0 cname04.cryptolootminer.com
+:: cname04.cryptolootminer.com
+0.0.0.0 cname05.cryptolootminer.com
+:: cname05.cryptolootminer.com
 0.0.0.0 cnb.cnews.ru
 :: cnb.cnews.ru
 0.0.0.0 cnbc.com-article906773.us
@@ -26457,8 +26467,6 @@
 :: dd.redmensteakjerky.info
 0.0.0.0 dd.wx16999.com
 :: dd.wx16999.com
-0.0.0.0 dd.xinshipu.com
-:: dd.xinshipu.com
 0.0.0.0 dd1.diymianmo.com
 :: dd1.diymianmo.com
 0.0.0.0 dd6zx4ibq538k.cloudfront.net
@@ -27341,8 +27349,6 @@
 :: dlvr.adne.tv
 0.0.0.0 dlvr.t-online.de
 :: dlvr.t-online.de
-0.0.0.0 dm.15tianqi.com
-:: dm.15tianqi.com
 0.0.0.0 dm.388g.cc
 :: dm.388g.cc
 0.0.0.0 dm.51okc.com
@@ -30495,6 +30501,8 @@
 :: ff.meikanguo.com
 0.0.0.0 ff.nsg.org.ua
 :: ff.nsg.org.ua
+0.0.0.0 ff.xue163.net
+:: ff.xue163.net
 0.0.0.0 ff.xue63.com
 :: ff.xue63.com
 0.0.0.0 ffb.feihuo.com
@@ -31407,6 +31415,8 @@
 :: ftp.flyfishusa.com
 0.0.0.0 ftp.oldfortress.net
 :: ftp.oldfortress.net
+0.0.0.0 ftp.spbv.org
+:: ftp.spbv.org
 0.0.0.0 ftpcontent.worldnow.com
 :: ftpcontent.worldnow.com
 0.0.0.0 ftr2.external.xerox.com
@@ -33253,6 +33263,8 @@
 :: hdj.baidu.com
 0.0.0.0 hdjhsudhe.kuaizhan.com
 :: hdjhsudhe.kuaizhan.com
+0.0.0.0 hdredirect-lb5-1afb6e2973825a56.elb.us-east-1.amazonaws.com
+:: hdredirect-lb5-1afb6e2973825a56.elb.us-east-1.amazonaws.com
 0.0.0.0 hdsrc-a.akamaihd.net
 :: hdsrc-a.akamaihd.net
 0.0.0.0 hdv1sk62nn56gtrozwrc.viomil.ro
@@ -37419,6 +37431,8 @@
 :: kbnetworkz.s3.amazonaws.com
 0.0.0.0 kbv5s.kylepasse.at
 :: kbv5s.kylepasse.at
+0.0.0.0 kc.gouchezj.com
+:: kc.gouchezj.com
 0.0.0.0 kc.search.need2find.com
 :: kc.search.need2find.com
 0.0.0.0 kc.ziraat-helpdesk.com
@@ -39971,6 +39985,8 @@
 :: m1.daumcdn.net
 0.0.0.0 m1.jintang114.org
 :: m1.jintang114.org
+0.0.0.0 m1.nn670.com
+:: m1.nn670.com
 0.0.0.0 m1.stream.vidzi.tv
 :: m1.stream.vidzi.tv
 0.0.0.0 m1.torrenti.al
@@ -54565,6 +54581,8 @@
 :: seed-pol-4.inf.nimiq.network
 0.0.0.0 seed1.sushipool.com
 :: seed1.sushipool.com
+0.0.0.0 seedsofhope.wtmserver.com
+:: seedsofhope.wtmserver.com
 0.0.0.0 seelback.tfgjustsayin.net
 :: seelback.tfgjustsayin.net
 0.0.0.0 seer.revpsi.org
@@ -63701,6 +63719,8 @@
 :: v1.0594529.com
 0.0.0.0 v1.log.moji.com
 :: v1.log.moji.com
+0.0.0.0 v1.phb123.com
+:: v1.phb123.com
 0.0.0.0 v1.play.log.hunantv.com
 :: v1.play.log.hunantv.com
 0.0.0.0 v1.res.log.hunantv.com
@@ -65483,8 +65503,6 @@
 :: webphone.bellaliant.net
 0.0.0.0 webpoll.sparklit.com
 :: webpoll.sparklit.com
-0.0.0.0 webredir.vip.gandi.net
-:: webredir.vip.gandi.net
 0.0.0.0 websatpub.fth.net
 :: websatpub.fth.net
 0.0.0.0 webscr.cgi-bin.payzen.securesession.net
@@ -66401,6 +66419,8 @@
 :: ws.voiceads.cn
 0.0.0.0 ws.webcaster.pro
 :: ws.webcaster.pro
+0.0.0.0 ws.wenshenxiu.com
+:: ws.wenshenxiu.com
 0.0.0.0 ws.xjb.ac.cn
 :: ws.xjb.ac.cn
 0.0.0.0 ws.yellowpages.ca
@@ -72969,6 +72989,8 @@
 :: yfxpcode.m.gxwztv.com
 0.0.0.0 yhiop.saqibsiddiqui.com
 :: yhiop.saqibsiddiqui.com
+0.0.0.0 yi.ximizi.com
+:: yi.ximizi.com
 0.0.0.0 yield.audience.digitalmedia.bg
 :: yield.audience.digitalmedia.bg
 0.0.0.0 yijiuningyia.gushiwen.org
