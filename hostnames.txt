@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Jan 18 06:35:03 CET 2019
+# Last update: Sat Jan 19 05:45:36 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36781
+# Number of unique hostnames: 36799
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3053,6 +3053,8 @@
 :: aax.amazon-adsystem.amazon.com
 0.0.0.0 ab-reference-id-number-8697.epkphotography.com
 :: ab-reference-id-number-8697.epkphotography.com
+0.0.0.0 ab.adrevivify.com
+:: ab.adrevivify.com
 0.0.0.0 ab.hysdknb.com
 :: ab.hysdknb.com
 0.0.0.0 ab.itbaribd.com
@@ -14235,6 +14237,8 @@
 :: analytics.jabong.com
 0.0.0.0 analytics.jiuzhilan.com
 :: analytics.jiuzhilan.com
+0.0.0.0 analytics.justuno.com
+:: analytics.justuno.com
 0.0.0.0 analytics.kaltura.com
 :: analytics.kaltura.com
 0.0.0.0 analytics.kidoz.net
@@ -14409,6 +14413,8 @@
 :: analytics.teamcoco.com
 0.0.0.0 analytics.teespring.com
 :: analytics.teespring.com
+0.0.0.0 analytics.thebump.com
+:: analytics.thebump.com
 0.0.0.0 analytics.theknot.com
 :: analytics.theknot.com
 0.0.0.0 analytics.themarketiq.com
@@ -15931,8 +15937,6 @@
 :: assets.igapi.com
 0.0.0.0 assets.ipcdigital.co.uk
 :: assets.ipcdigital.co.uk
-0.0.0.0 assets.kromtech.net
-:: assets.kromtech.net
 0.0.0.0 assets.kuhlmann-software.at
 :: assets.kuhlmann-software.at
 0.0.0.0 assets.olark.com
@@ -19851,6 +19855,8 @@
 :: c.lianwangtech.com
 0.0.0.0 c.live.com
 :: c.live.com
+0.0.0.0 c.media-dl.co
+:: c.media-dl.co
 0.0.0.0 c.microsoft.com
 :: c.microsoft.com
 0.0.0.0 c.minisplat.cn
@@ -25079,6 +25085,8 @@
 :: d1pv6e37nco3b2.cloudfront.net
 0.0.0.0 d1q247yvaifpkc.cloudfront.net
 :: d1q247yvaifpkc.cloudfront.net
+0.0.0.0 d1qc76gneygidm.cloudfront.net
+:: d1qc76gneygidm.cloudfront.net
 0.0.0.0 d1qfcp0bdb2hxl.cloudfront.net
 :: d1qfcp0bdb2hxl.cloudfront.net
 0.0.0.0 d1qk9ujrmkucbl.cloudfront.net
@@ -28561,6 +28569,8 @@
 :: e.wcenr.com
 0.0.0.0 e.wduis.com
 :: e.wduis.com
+0.0.0.0 e.wjier.com
+:: e.wjier.com
 0.0.0.0 e.wlues.com
 :: e.wlues.com
 0.0.0.0 e.x.cn.xtgreat.com
@@ -37067,6 +37077,8 @@
 :: js.soduso.cc
 0.0.0.0 js.sosista.com
 :: js.sosista.com
+0.0.0.0 js.srcsmrtgs.com
+:: js.srcsmrtgs.com
 0.0.0.0 js.stat.ijinshan.com
 :: js.stat.ijinshan.com
 0.0.0.0 js.static.tebaidu.cn
@@ -39655,6 +39667,8 @@
 :: m.efeir.com
 0.0.0.0 m.efeiy.com
 :: m.efeiy.com
+0.0.0.0 m.ejiur.com
+:: m.ejiur.com
 0.0.0.0 m.enrogwm.cn
 :: m.enrogwm.cn
 0.0.0.0 m.exactag.com
@@ -39735,6 +39749,8 @@
 :: m.hbans.com
 0.0.0.0 m.hchag.com
 :: m.hchag.com
+0.0.0.0 m.hchik.com
+:: m.hchik.com
 0.0.0.0 m.hhllyt.com
 :: m.hhllyt.com
 0.0.0.0 m.hot-mob.com
@@ -39825,6 +39841,8 @@
 :: m.oyrim.com
 0.0.0.0 m.panda.voiceads.cn
 :: m.panda.voiceads.cn
+0.0.0.0 m.pcuna.com
+:: m.pcuna.com
 0.0.0.0 m.phonthing.com
 :: m.phonthing.com
 0.0.0.0 m.poonscn.com
@@ -39883,6 +39901,8 @@
 :: m.tdiea.com
 0.0.0.0 m.tenh2.cn
 :: m.tenh2.cn
+0.0.0.0 m.themee.cn
+:: m.themee.cn
 0.0.0.0 m.tiantianedu.net
 :: m.tiantianedu.net
 0.0.0.0 m.trb.com
@@ -39925,6 +39945,8 @@
 :: m.wduis.com
 0.0.0.0 m.wgewj.cn
 :: m.wgewj.cn
+0.0.0.0 m.wjier.com
+:: m.wjier.com
 0.0.0.0 m.wlues.com
 :: m.wlues.com
 0.0.0.0 m.wnxcg.com
@@ -43433,6 +43455,8 @@
 :: new.api.ad.xiaomi.com
 0.0.0.0 new.grandrapidsweb.net
 :: new.grandrapidsweb.net
+0.0.0.0 new.htcui.com
+:: new.htcui.com
 0.0.0.0 new.macartu.cn
 :: new.macartu.cn
 0.0.0.0 new.megustaelvino.cl
@@ -48099,8 +48123,6 @@
 :: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
-0.0.0.0 phuongdanhvonghe.edu.vn
-:: phuongdanhvonghe.edu.vn
 0.0.0.0 phuttha9.beget.tech
 :: phuttha9.beget.tech
 0.0.0.0 pi-chin-cha.webcindario.com
@@ -48447,6 +48469,8 @@
 :: pixel.kiitties.com
 0.0.0.0 pixel.messenger.com
 :: pixel.messenger.com
+0.0.0.0 pixel.mintigo.com
+:: pixel.mintigo.com
 0.0.0.0 pixel.mtrcs.samba.tv
 :: pixel.mtrcs.samba.tv
 0.0.0.0 pixel.nbsp.de
@@ -58797,6 +58821,8 @@
 :: t.leady.com
 0.0.0.0 t.locpub.com
 :: t.locpub.com
+0.0.0.0 t.macadlinkingnow.com
+:: t.macadlinkingnow.com
 0.0.0.0 t.mdn2015x1.com
 :: t.mdn2015x1.com
 0.0.0.0 t.mdn2015x2.com
@@ -67345,6 +67371,8 @@
 :: www.apphostcapital.com
 0.0.0.0 www.apple-xid.com
 :: www.apple-xid.com
+0.0.0.0 www.apple.com-clean-macbook-system.live
+:: www.apple.com-clean-macbook-system.live
 0.0.0.0 www.apple.com-clean-macbook.live
 :: www.apple.com-clean-macbook.live
 0.0.0.0 www.apple.com-speed-macbook.live
@@ -68483,6 +68511,8 @@
 :: www.fleshlight.com
 0.0.0.0 www.flexibleadmin.com
 :: www.flexibleadmin.com
+0.0.0.0 www.flexibletool.com
+:: www.flexibletool.com
 0.0.0.0 www.flowerxpo.top
 :: www.flowerxpo.top
 0.0.0.0 www.flyingcroc.com
@@ -70251,6 +70281,8 @@
 :: www.peachy18.com
 0.0.0.0 www.pee-pantie.com
 :: www.pee-pantie.com
+0.0.0.0 www.perfectgirls.net
+:: www.perfectgirls.net
 0.0.0.0 www.performics.com
 :: www.performics.com
 0.0.0.0 www.persianstat.ir
@@ -70373,6 +70405,8 @@
 :: www.pornsponsors.com
 0.0.0.0 www.portaldimensional.com
 :: www.portaldimensional.com
+0.0.0.0 www.portalenviroment.com
+:: www.portalenviroment.com
 0.0.0.0 www.postnewsads.com
 :: www.postnewsads.com
 0.0.0.0 www.power-emailer.com
@@ -72051,6 +72085,8 @@
 :: www2.topgoldhowflash.icu
 0.0.0.0 www2.upgradebestonlineflash.icu
 :: www2.upgradebestonlineflash.icu
+0.0.0.0 www2.wyylde.com
+:: www2.wyylde.com
 0.0.0.0 www2.xinmin.cn
 :: www2.xinmin.cn
 0.0.0.0 www2.xtdl.com
