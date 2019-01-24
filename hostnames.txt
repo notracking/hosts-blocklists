@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Jan 23 05:44:05 CET 2019
+# Last update: Thu Jan 24 05:30:37 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36798
+# Number of unique hostnames: 36804
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -18217,6 +18217,8 @@
 :: bdcode.2345.com
 0.0.0.0 bdcode.35d1.com
 :: bdcode.35d1.com
+0.0.0.0 bdcode.qinglm.com
+:: bdcode.qinglm.com
 0.0.0.0 bdcode.youke.com
 :: bdcode.youke.com
 0.0.0.0 bdcode1.haodou.com
@@ -24685,6 +24687,8 @@
 :: d.annarbor.com
 0.0.0.0 d.billyaffcontent.com
 :: d.billyaffcontent.com
+0.0.0.0 d.bsheute.de
+:: d.bsheute.de
 0.0.0.0 d.businessinsider.com
 :: d.businessinsider.com
 0.0.0.0 d.clkservice.youdao.com
@@ -26605,6 +26609,8 @@
 :: dedterr8.beget.tech
 0.0.0.0 defejgwdtct.psychiatriemerima.com
 :: defejgwdtct.psychiatriemerima.com
+0.0.0.0 defidaitari.web.id
+:: defidaitari.web.id
 0.0.0.0 degree.pes.edu
 :: degree.pes.edu
 0.0.0.0 dejavu.mercadolivre.com.br
@@ -26705,8 +26711,6 @@
 :: demo.bsscommerce.com
 0.0.0.0 demo.classconnect.cloud
 :: demo.classconnect.cloud
-0.0.0.0 demo.crg-sa.com
-:: demo.crg-sa.com
 0.0.0.0 demo.esoluz.com
 :: demo.esoluz.com
 0.0.0.0 demo.firefighterpreplan.com
@@ -36825,6 +36829,8 @@
 :: joejdbjrmrkklfnmf.usr.me
 0.0.0.0 jogjadebatingforum.or.id
 :: jogjadebatingforum.or.id
+0.0.0.0 john635.goodtreasure.rocks
+:: john635.goodtreasure.rocks
 0.0.0.0 johngalvin.debutinfotech.com
 :: johngalvin.debutinfotech.com
 0.0.0.0 johnraines2017.000webhostapp.com
@@ -46877,6 +46883,8 @@
 :: paopao3.qiyipic.com
 0.0.0.0 pap.zalando.de
 :: pap.zalando.de
+0.0.0.0 papajohns-chat.digitalroots.com
+:: papajohns-chat.digitalroots.com
 0.0.0.0 papapkz.myvnc.com
 :: papapkz.myvnc.com
 0.0.0.0 papi.slideme.org
@@ -48121,6 +48129,8 @@
 :: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
+0.0.0.0 phuongdanhvonghe.edu.vn
+:: phuongdanhvonghe.edu.vn
 0.0.0.0 phuttha9.beget.tech
 :: phuttha9.beget.tech
 0.0.0.0 pi-chin-cha.webcindario.com
@@ -61459,6 +61469,8 @@
 :: tracking.i2w.io
 0.0.0.0 tracking.ibexnetwork.com
 :: tracking.ibexnetwork.com
+0.0.0.0 tracking.ibxlink.com
+:: tracking.ibxlink.com
 0.0.0.0 tracking.icotrack.com
 :: tracking.icotrack.com
 0.0.0.0 tracking.ilinkmd.com
@@ -69615,8 +69627,6 @@
 :: www.loansbadcredit.net.au
 0.0.0.0 www.locatorprotocol.com
 :: www.locatorprotocol.com
-0.0.0.0 www.log-in-verlag.de
-:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -70761,6 +70771,8 @@
 :: www.schwule-boys-nackt.cxa.de
 0.0.0.0 www.scotiaonline.scotiabank.salferreras.com
 :: www.scotiaonline.scotiabank.salferreras.com
+0.0.0.0 www.sdfbd.org
+:: www.sdfbd.org
 0.0.0.0 www.sdlpgift.com
 :: www.sdlpgift.com
 0.0.0.0 www.sea1.cdn.survey.medallia.com
@@ -70965,8 +70977,6 @@
 :: www.spywaresnooper.com
 0.0.0.0 www.srhuafeng.com
 :: www.srhuafeng.com
-0.0.0.0 www.sri.cmu.ac.th
-:: www.sri.cmu.ac.th
 0.0.0.0 www.srld.com
 :: www.srld.com
 0.0.0.0 www.srn.net.in
@@ -73267,6 +73277,8 @@
 :: zads.care2.com
 0.0.0.0 zafiti01.webtrekk-us.net
 :: zafiti01.webtrekk-us.net
+0.0.0.0 zagadki.in.ua
+:: zagadki.in.ua
 0.0.0.0 zahir2.aeiou.pt
 :: zahir2.aeiou.pt
 0.0.0.0 zahirx.aeiou.pt
