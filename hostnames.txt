@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Jan 24 05:30:37 CET 2019
+# Last update: Fri Jan 25 06:26:10 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36804
+# Number of unique hostnames: 36811
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -6123,8 +6123,6 @@
 :: adplatform.vrtcal.com
 0.0.0.0 adplay.tudou.com
 :: adplay.tudou.com
-0.0.0.0 adplay.vm5apis.com
-:: adplay.vm5apis.com
 0.0.0.0 adplus.yonhapnews.co.kr
 :: adplus.yonhapnews.co.kr
 0.0.0.0 adpm.app.qq.com
@@ -19977,6 +19975,8 @@
 :: c.votrube.ru
 0.0.0.0 c.vrvm.com
 :: c.vrvm.com
+0.0.0.0 c.wantxt.cc
+:: c.wantxt.cc
 0.0.0.0 c.wcpt.biz.weibo.com
 :: c.wcpt.biz.weibo.com
 0.0.0.0 c.wechat.jx.cn
@@ -21191,6 +21191,8 @@
 :: cdn7.bad-credit-cdn.com
 0.0.0.0 cdn7.deals-discounts-codes.com
 :: cdn7.deals-discounts-codes.com
+0.0.0.0 cdnads.90phut.tv
+:: cdnads.90phut.tv
 0.0.0.0 cdnads.cam4.com
 :: cdnads.cam4.com
 0.0.0.0 cdnaws.mobidea.com
@@ -28443,6 +28445,8 @@
 :: e.adpower.bg
 0.0.0.0 e.aduiz.com
 :: e.aduiz.com
+0.0.0.0 e.aganj.com
+:: e.aganj.com
 0.0.0.0 e.analytics.yahoo.com
 :: e.analytics.yahoo.com
 0.0.0.0 e.baidu.com
@@ -28515,6 +28519,8 @@
 :: e.mrsasharingspace.com
 0.0.0.0 e.mrtuo.com
 :: e.mrtuo.com
+0.0.0.0 e.nchet.com
+:: e.nchet.com
 0.0.0.0 e.nejup.com
 :: e.nejup.com
 0.0.0.0 e.njiet.com
@@ -28889,6 +28895,8 @@
 :: eff.lu.sogou.com
 0.0.0.0 efiwc.saqibsiddiqui.com
 :: efiwc.saqibsiddiqui.com
+0.0.0.0 efklidis.edu.gr
+:: efklidis.edu.gr
 0.0.0.0 efnfnedo.musictheoryfromzero.com
 :: efnfnedo.musictheoryfromzero.com
 0.0.0.0 efugl.iptvdeals.com
@@ -34183,6 +34191,8 @@
 :: houyi.logger.baofeng.com
 0.0.0.0 howupdateworks.amazingupdates4youtoday.website
 :: howupdateworks.amazingupdates4youtoday.website
+0.0.0.0 howupdateworks.beststubcontentsfrees.xyz
+:: howupdateworks.beststubcontentsfrees.xyz
 0.0.0.0 hp.smiler-ad.com
 :: hp.smiler-ad.com
 0.0.0.0 hpad.www.infoseek.co.jp
@@ -35297,6 +35307,8 @@
 :: img.fliks.net
 0.0.0.0 img.footprintlive.com
 :: img.footprintlive.com
+0.0.0.0 img.gadhx.cn
+:: img.gadhx.cn
 0.0.0.0 img.gaore.com
 :: img.gaore.com
 0.0.0.0 img.gmo.jp
@@ -36747,6 +36759,8 @@
 :: jingjia.qq.com
 0.0.0.0 jinshui2018.chalook.net
 :: jinshui2018.chalook.net
+0.0.0.0 jipinapi.panqis.cn
+:: jipinapi.panqis.cn
 0.0.0.0 jira.face2trade.com
 :: jira.face2trade.com
 0.0.0.0 jixguzfaxdajzhhasiqd.ahdaaf.org
@@ -37307,6 +37321,8 @@
 :: k.iinfo.cz
 0.0.0.0 k.ilius.net
 :: k.ilius.net
+0.0.0.0 k1.mobileadsserver.com
+:: k1.mobileadsserver.com
 0.0.0.0 k1capital.net.au
 :: k1capital.net.au
 0.0.0.0 k2001.free.fr
@@ -38309,8 +38325,6 @@
 :: lerofa.hol.es
 0.0.0.0 leroidumatelas.gb.net
 :: leroidumatelas.gb.net
-0.0.0.0 lesbon.ksupridewrestling.com
-:: lesbon.ksupridewrestling.com
 0.0.0.0 lesteeuropeu.tur.br
 :: lesteeuropeu.tur.br
 0.0.0.0 letsgopub.000webhostapp.com
@@ -39583,6 +39597,8 @@
 :: m.aduiz.com
 0.0.0.0 m.adx.bg
 :: m.adx.bg
+0.0.0.0 m.aganj.com
+:: m.aganj.com
 0.0.0.0 m.ajiuc.com
 :: m.ajiuc.com
 0.0.0.0 m.ajxqiongbg.com
@@ -39657,6 +39673,8 @@
 :: m.dbiei.com
 0.0.0.0 m.ddanf.com
 :: m.ddanf.com
+0.0.0.0 m.dfanf.com
+:: m.dfanf.com
 0.0.0.0 m.doodlemobile.com
 :: m.doodlemobile.com
 0.0.0.0 m.du1du.org
@@ -39821,6 +39839,8 @@
 :: m.mushizhubao.com
 0.0.0.0 m.mxguan.com
 :: m.mxguan.com
+0.0.0.0 m.nchet.com
+:: m.nchet.com
 0.0.0.0 m.nejup.com
 :: m.nejup.com
 0.0.0.0 m.njiet.com
@@ -39849,8 +39869,12 @@
 :: m.porntourfr.3818.idhad.com
 0.0.0.0 m.puooi.com
 :: m.puooi.com
+0.0.0.0 m.qbenu.com
+:: m.qbenu.com
 0.0.0.0 m.qcw.com
 :: m.qcw.com
+0.0.0.0 m.qhout.com
+:: m.qhout.com
 0.0.0.0 m.qianka.com
 :: m.qianka.com
 0.0.0.0 m.qulishi.com
@@ -44099,8 +44123,6 @@
 :: ns1.123go.net
 0.0.0.0 ns1.2911.net
 :: ns1.2911.net
-0.0.0.0 ns1.backdates2.com
-:: ns1.backdates2.com
 0.0.0.0 ns1.bankrate.com
 :: ns1.bankrate.com
 0.0.0.0 ns1.datapipe.net
@@ -45027,6 +45049,8 @@
 :: oeu5ezyexldrgfxg6ysp.maherstcottage.com.au
 0.0.0.0 of.inviziads.com
 :: of.inviziads.com
+0.0.0.0 ofertas.comparadentistas.com
+:: ofertas.comparadentistas.com
 0.0.0.0 ofertas.ricardo-eletro.goodfinedining.com
 :: ofertas.ricardo-eletro.goodfinedining.com
 0.0.0.0 ofertasdev.sslblindado.com
@@ -63319,8 +63343,6 @@
 :: url.adtrgt.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
-0.0.0.0 urladyms.newlogiq.com
-:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -64097,8 +64119,6 @@
 :: vert349.wixsite.com
 0.0.0.0 vertical-stats.huffpost.com
 :: vertical-stats.huffpost.com
-0.0.0.0 verzeroli.outbreakm3dia.com
-:: verzeroli.outbreakm3dia.com
 0.0.0.0 vewrb.italisumo.at
 :: vewrb.italisumo.at
 0.0.0.0 vex.analytics.wildtangent.com
@@ -64273,8 +64293,6 @@
 :: vinnaolagetstartedphp-mimical-ethnol.mybluemix.net
 0.0.0.0 vip-01protect.000webhostapp.com
 :: vip-01protect.000webhostapp.com
-0.0.0.0 vip.adpiano.com
-:: vip.adpiano.com
 0.0.0.0 vip.cainiaofx.com
 :: vip.cainiaofx.com
 0.0.0.0 vip.clickzzs.nl
@@ -67593,8 +67611,6 @@
 :: www.bewaycare.com
 0.0.0.0 www.bfqnup.party
 :: www.bfqnup.party
-0.0.0.0 www.bharatinfoline.com
-:: www.bharatinfoline.com
 0.0.0.0 www.biddingx.com
 :: www.biddingx.com
 0.0.0.0 www.bidwee.com
@@ -68501,8 +68517,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
@@ -69115,8 +69129,6 @@
 :: www.iiewl.com
 0.0.0.0 www.ijacko.net
 :: www.ijacko.net
-0.0.0.0 www.ijerd.com
-:: www.ijerd.com
 0.0.0.0 www.ilgm-deals.com
 :: www.ilgm-deals.com
 0.0.0.0 www.ilkhaberadana.com
@@ -69607,8 +69619,6 @@
 :: www.litra.com.mk
 0.0.0.0 www.little-help.com
 :: www.little-help.com
-0.0.0.0 www.little-moon-aussies.com
-:: www.little-moon-aussies.com
 0.0.0.0 www.littledevildoubt.com
 :: www.littledevildoubt.com
 0.0.0.0 www.live.4480.org
@@ -69627,6 +69637,8 @@
 :: www.loansbadcredit.net.au
 0.0.0.0 www.locatorprotocol.com
 :: www.locatorprotocol.com
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -70977,6 +70989,8 @@
 :: www.spywaresnooper.com
 0.0.0.0 www.srhuafeng.com
 :: www.srhuafeng.com
+0.0.0.0 www.sri.cmu.ac.th
+:: www.sri.cmu.ac.th
 0.0.0.0 www.srld.com
 :: www.srld.com
 0.0.0.0 www.srn.net.in
