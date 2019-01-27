@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Jan 26 05:34:15 CET 2019
+# Last update: Sun Jan 27 05:32:06 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36817
+# Number of unique hostnames: 36839
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -26079,6 +26079,8 @@
 :: daima.miercn.com
 0.0.0.0 daima.niubb.net
 :: daima.niubb.net
+0.0.0.0 daima.ysdui.com
+:: daima.ysdui.com
 0.0.0.0 daimaceshi.8809.cn
 :: daimaceshi.8809.cn
 0.0.0.0 dal-business-26.hostwindsdns.com
@@ -26275,6 +26277,8 @@
 :: datacollect.vmall.com
 0.0.0.0 datadog.a.sentry.io
 :: datadog.a.sentry.io
+0.0.0.0 datas.tianqistatic.com
+:: datas.tianqistatic.com
 0.0.0.0 datasmierci01.blogspot.com
 :: datasmierci01.blogspot.com
 0.0.0.0 dataswitch-ads-75496044.us-east-1.elb.amazonaws.com
@@ -27599,6 +27603,10 @@
 :: domainhelp.search.com
 0.0.0.0 domainpark.sitelutions.com
 :: domainpark.sitelutions.com
+0.0.0.0 domaintmt.tumejortorrent.com
+:: domaintmt.tumejortorrent.com
+0.0.0.0 domaintrp.torrentrapid.com
+:: domaintrp.torrentrapid.com
 0.0.0.0 dominas.femdomina.ru
 :: dominas.femdomina.ru
 0.0.0.0 domkinawyspie.nspace.pl
@@ -28579,6 +28587,8 @@
 :: e.ycuoj.com
 0.0.0.0 e.yingchengtou.com
 :: e.yingchengtou.com
+0.0.0.0 e.yjiaj.com
+:: e.yjiaj.com
 0.0.0.0 e.ysdangan.com
 :: e.ysdangan.com
 0.0.0.0 e.yycqc.com
@@ -29021,6 +29031,8 @@
 :: elotakarekossag.konnyuhitel.hu
 0.0.0.0 elsi.homepage.t-online.de
 :: elsi.homepage.t-online.de
+0.0.0.0 em.baidu.com
+:: em.baidu.com
 0.0.0.0 em1.shinobi.jp
 :: em1.shinobi.jp
 0.0.0.0 email.measi.com.jo
@@ -29127,6 +29139,8 @@
 :: en.ultrex.ru
 0.0.0.0 en.worthfind.com
 :: en.worthfind.com
+0.0.0.0 enabler.datalake.mediaset.it
+:: enabler.datalake.mediaset.it
 0.0.0.0 enackhlks.epac.to
 :: enackhlks.epac.to
 0.0.0.0 encoding.8openid.assoc.handle.usflexopenid.claimed.id.asdwe21a1e23few143ew.wt154t23dg1sd.2g1456er1.241as53321.30.asrrr21sa.0d1w5421.sa1e54t21y.0er1iy.laduscha.com.au
@@ -33211,6 +33225,8 @@
 :: hbadz.eboz.com
 0.0.0.0 hbb.concentra.be
 :: hbb.concentra.be
+0.0.0.0 hbbtv.mediaset.net
+:: hbbtv.mediaset.net
 0.0.0.0 hbdnserror1.wo.com.cn
 :: hbdnserror1.wo.com.cn
 0.0.0.0 hbdnserror2.wo.com.cn
@@ -36301,6 +36317,8 @@
 :: isocket-creatives.s3.amazonaws.com
 0.0.0.0 isonsyi.inboxread28.review
 :: isonsyi.inboxread28.review
+0.0.0.0 ispytanie.savel.ru
+:: ispytanie.savel.ru
 0.0.0.0 istatistik.gazetevatan.com
 :: istatistik.gazetevatan.com
 0.0.0.0 istatistik.milliyet.com.tr
@@ -37907,8 +37925,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -39641,6 +39657,8 @@
 :: m.bgaix.com
 0.0.0.0 m.biquge5200.cc
 :: m.biquge5200.cc
+0.0.0.0 m.bkuax.com
+:: m.bkuax.com
 0.0.0.0 m.bsnnk.com
 :: m.bsnnk.com
 0.0.0.0 m.bugly.qq.com
@@ -39907,8 +39925,6 @@
 :: m.tamilmalls.com
 0.0.0.0 m.tansuotv.com
 :: m.tansuotv.com
-0.0.0.0 m.tbaia.com
-:: m.tbaia.com
 0.0.0.0 m.tbaip.com
 :: m.tbaip.com
 0.0.0.0 m.tbaiq.com
@@ -40003,6 +40019,8 @@
 :: m.yes.youku.com
 0.0.0.0 m.yingchengtou.com
 :: m.yingchengtou.com
+0.0.0.0 m.yjiaj.com
+:: m.yjiaj.com
 0.0.0.0 m.yooli.com
 :: m.yooli.com
 0.0.0.0 m.yoyi.com.cn
@@ -40769,6 +40787,8 @@
 :: mc.dailymotion.com
 0.0.0.0 mc.hujiang.com
 :: mc.hujiang.com
+0.0.0.0 mc.tvzhe.com
+:: mc.tvzhe.com
 0.0.0.0 mc.weather.com.cn
 :: mc.weather.com.cn
 0.0.0.0 mc.yandex.ru
@@ -48061,6 +48081,8 @@
 :: phorm.tv.tr
 0.0.0.0 phorm.web.tr
 :: phorm.web.tr
+0.0.0.0 photo.ccjxybj.cn
+:: photo.ccjxybj.cn
 0.0.0.0 photo.dhford.cn
 :: photo.dhford.cn
 0.0.0.0 photo.haoquangou.cn
@@ -48151,6 +48173,8 @@
 :: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
+0.0.0.0 phuongdanhvonghe.edu.vn
+:: phuongdanhvonghe.edu.vn
 0.0.0.0 phuttha9.beget.tech
 :: phuttha9.beget.tech
 0.0.0.0 pi-chin-cha.webcindario.com
@@ -52825,6 +52849,8 @@
 :: s1.ipicture.ru
 0.0.0.0 s1.kutongji.com
 :: s1.kutongji.com
+0.0.0.0 s1.leshi123.cc
+:: s1.leshi123.cc
 0.0.0.0 s1.milkjpg.com
 :: s1.milkjpg.com
 0.0.0.0 s1.mingmingtehui.com
@@ -52867,6 +52893,8 @@
 :: s2.ipicture.ru
 0.0.0.0 s2.kuaibaopay.com
 :: s2.kuaibaopay.com
+0.0.0.0 s2.leshi123.cc
+:: s2.leshi123.cc
 0.0.0.0 s2.mingmingtehui.com
 :: s2.mingmingtehui.com
 0.0.0.0 s2.play.estream.nu
@@ -56779,6 +56807,8 @@
 :: stat.bei-uns.de
 0.0.0.0 stat.bigmir.net
 :: stat.bigmir.net
+0.0.0.0 stat.biqle.ru
+:: stat.biqle.ru
 0.0.0.0 stat.caijing.com.cn
 :: stat.caijing.com.cn
 0.0.0.0 stat.chinaso.com
@@ -58079,8 +58109,6 @@
 :: stocks-analytics-events.apple.com
 0.0.0.0 stocks-analytics-events.news.apple-dns.net
 :: stocks-analytics-events.news.apple-dns.net
-0.0.0.0 stoneville.bfb.asn.au
-:: stoneville.bfb.asn.au
 0.0.0.0 stopmeagency.free.fr
 :: stopmeagency.free.fr
 0.0.0.0 storage.bulletproofserving.com
@@ -58211,6 +58239,8 @@
 :: subacute-terminatio.000webhostapp.com
 0.0.0.0 subapplationpeipal.ranbros.com
 :: subapplationpeipal.ranbros.com
+0.0.0.0 subdo.torrentlocura.com
+:: subdo.torrentlocura.com
 0.0.0.0 subdo.torrentrapid.com
 :: subdo.torrentrapid.com
 0.0.0.0 subdo.tumejortorrent.com
@@ -63345,8 +63375,6 @@
 :: url.adtrgt.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
-0.0.0.0 urladyms.newlogiq.com
-:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -64663,6 +64691,8 @@
 :: vps-ta.tiscali.it
 0.0.0.0 vps.inte.sogou.com
 :: vps.inte.sogou.com
+0.0.0.0 vps.ovh.ca
+:: vps.ovh.ca
 0.0.0.0 vps.zeptolab.com
 :: vps.zeptolab.com
 0.0.0.0 vqqxyw.koll.pershoreairporttransfers.co.uk
@@ -66705,6 +66735,14 @@
 :: ww12.onetad.com
 0.0.0.0 ww13.onetad.com
 :: ww13.onetad.com
+0.0.0.0 ww2.imgadult.com
+:: ww2.imgadult.com
+0.0.0.0 ww2.imgdrive.net
+:: ww2.imgdrive.net
+0.0.0.0 ww2.imgtaxi.com
+:: ww2.imgtaxi.com
+0.0.0.0 ww2.imgwallet.com
+:: ww2.imgwallet.com
 0.0.0.0 ww2.instafinder.com
 :: ww2.instafinder.com
 0.0.0.0 ww2.pagerankchecker.pw
@@ -67673,10 +67711,14 @@
 :: www.blueimagen.com
 0.0.0.0 www.bnbaz.eb2a.com
 :: www.bnbaz.eb2a.com
+0.0.0.0 www.bnhtml.com
+:: www.bnhtml.com
 0.0.0.0 www.bnmq.com
 :: www.bnmq.com
 0.0.0.0 www.bnnr.nl
 :: www.bnnr.nl
+0.0.0.0 www.bnserving.com
+:: www.bnserving.com
 0.0.0.0 www.bobby.org
 :: www.bobby.org
 0.0.0.0 www.bodasexclusivas.com
@@ -68525,8 +68567,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
@@ -68993,6 +69033,8 @@
 :: www.hmnjf.com
 0.0.0.0 www.hndiyikj.com
 :: www.hndiyikj.com
+0.0.0.0 www.hnh-hotel.com
+:: www.hnh-hotel.com
 0.0.0.0 www.hobwelt.com
 :: www.hobwelt.com
 0.0.0.0 www.home.ro
@@ -69649,6 +69691,8 @@
 :: www.loansbadcredit.net.au
 0.0.0.0 www.locatorprotocol.com
 :: www.locatorprotocol.com
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -71299,6 +71343,8 @@
 :: www.tinybox.com
 0.0.0.0 www.tinydicks.com
 :: www.tinydicks.com
+0.0.0.0 www.tj-cmys.com
+:: www.tj-cmys.com
 0.0.0.0 www.tjhuajiantang.com
 :: www.tjhuajiantang.com
 0.0.0.0 www.tkdami.net
@@ -71493,8 +71539,6 @@
 :: www.unitedmall.com
 0.0.0.0 www.updatesoftwaresend.com
 :: www.updatesoftwaresend.com
-0.0.0.0 www.upetterbeek.be
-:: www.upetterbeek.be
 0.0.0.0 www.upgradebasic.com
 :: www.upgradebasic.com
 0.0.0.0 www.upgradeexplorer.com
