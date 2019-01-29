@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Jan 28 05:33:23 CET 2019
+# Last update: Tue Jan 29 05:31:59 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36833
+# Number of unique hostnames: 36832
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -20701,6 +20701,8 @@
 :: cdn.bestreviews.com
 0.0.0.0 cdn.bestssaker.com
 :: cdn.bestssaker.com
+0.0.0.0 cdn.brandmetrics.com
+:: cdn.brandmetrics.com
 0.0.0.0 cdn.brcdn.com
 :: cdn.brcdn.com
 0.0.0.0 cdn.broadstreetads.com
@@ -28185,6 +28187,8 @@
 :: dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 dualstack.cloudinary.com
 :: dualstack.cloudinary.com
+0.0.0.0 dualstack.us-eu.brightcove.map.fastly.net
+:: dualstack.us-eu.brightcove.map.fastly.net
 0.0.0.0 dub.mobileads.msn.com
 :: dub.mobileads.msn.com
 0.0.0.0 dubstep.onedumb.com
@@ -32517,6 +32521,8 @@
 :: go.mooncklick.com
 0.0.0.0 go.myimgt.com
 :: go.myimgt.com
+0.0.0.0 go.net-di20.stream
+:: go.net-di20.stream
 0.0.0.0 go.netlu.com
 :: go.netlu.com
 0.0.0.0 go.nordvpn.net
@@ -32737,8 +32743,6 @@
 :: grafephot.org.za
 0.0.0.0 gram.mfdrums.com
 :: gram.mfdrums.com
-0.0.0.0 gramelis.newyorkmascot.com
-:: gramelis.newyorkmascot.com
 0.0.0.0 grandpa.thebehrs.ca
 :: grandpa.thebehrs.ca
 0.0.0.0 grant.rpof.org
@@ -34423,6 +34427,8 @@
 :: i-sn2-cor001.api.p001.1drv.com
 0.0.0.0 i-sn2-cor002.api.p001.1drv.com
 :: i-sn2-cor002.api.p001.1drv.com
+0.0.0.0 i-sn3p-cor001.api.p001.1drv.com
+:: i-sn3p-cor001.api.p001.1drv.com
 0.0.0.0 i.1cat.com
 :: i.1cat.com
 0.0.0.0 i.1o26.com
@@ -37923,8 +37929,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -39973,8 +39977,6 @@
 :: m.wbaoz.com
 0.0.0.0 m.wbeiz.com
 :: m.wbeiz.com
-0.0.0.0 m.wcail.com
-:: m.wcail.com
 0.0.0.0 m.wcenr.com
 :: m.wcenr.com
 0.0.0.0 m.wduis.com
@@ -50637,6 +50639,8 @@
 :: qcq8n5.kozer.2ndincome4u.org.uk
 0.0.0.0 qcstrtvt.bloger.index.hr
 :: qcstrtvt.bloger.index.hr
+0.0.0.0 qcvf.ifeng.com
+:: qcvf.ifeng.com
 0.0.0.0 qd.dhzw.org
 :: qd.dhzw.org
 0.0.0.0 qd.js.sanjiangge.com
@@ -63373,6 +63377,8 @@
 :: us-east-1.dc.ads.linkedin.com
 0.0.0.0 us-east-1.profile-api.ads.linkedin.com
 :: us-east-1.profile-api.ads.linkedin.com
+0.0.0.0 us-eu.brightcove.map.fastly.net
+:: us-eu.brightcove.map.fastly.net
 0.0.0.0 us-nj-e10.traffictradinghub.com
 :: us-nj-e10.traffictradinghub.com
 0.0.0.0 us-nj-e2.traffictradinghub.com
@@ -68903,8 +68909,6 @@
 :: www.group-metrics.com
 0.0.0.0 www.grouphappy.com
 :: www.grouphappy.com
-0.0.0.0 www.grumman.pl
-:: www.grumman.pl
 0.0.0.0 www.grupadsa.pl
 :: www.grupadsa.pl
 0.0.0.0 www.gryjava.gsm.pl
@@ -69369,8 +69373,6 @@
 :: www.joomlalivechat.com
 0.0.0.0 www.jornalfarroupilha.com.br
 :: www.jornalfarroupilha.com.br
-0.0.0.0 www.jornalocaminho.com.br
-:: www.jornalocaminho.com.br
 0.0.0.0 www.jouwstats.nl
 :: www.jouwstats.nl
 0.0.0.0 www.jowarinzqmiak.download
@@ -71835,8 +71837,6 @@
 :: www.wowjs.1www.cn
 0.0.0.0 www.wpcdn1.herokuapp.com
 :: www.wpcdn1.herokuapp.com
-0.0.0.0 www.wraplo.pl
-:: www.wraplo.pl
 0.0.0.0 www.wrestlingexposed.com
 :: www.wrestlingexposed.com
 0.0.0.0 www.wshufa.com
@@ -72017,8 +72017,6 @@
 :: www.zbippirad.info
 0.0.0.0 www.zctei.com
 :: www.zctei.com
-0.0.0.0 www.zebrapozyczki.pl
-:: www.zebrapozyczki.pl
 0.0.0.0 www.zennoa.com
 :: www.zennoa.com
 0.0.0.0 www.zeptolab.com
