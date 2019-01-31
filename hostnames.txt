@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Jan 30 05:31:00 CET 2019
+# Last update: Thu Jan 31 05:54:36 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36832
+# Number of unique hostnames: 36834
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -27091,6 +27091,8 @@
 :: digital-ads.s3.amazonaws.com
 0.0.0.0 digital-cable-descrambler.planet-high-heels.com
 :: digital-cable-descrambler.planet-high-heels.com
+0.0.0.0 digitaladv.despar.it
+:: digitaladv.despar.it
 0.0.0.0 digitalmore-a.akamaihd.net
 :: digitalmore-a.akamaihd.net
 0.0.0.0 digitauact.sslblindado.com
@@ -28505,8 +28507,6 @@
 :: e.jltdbyq.com
 0.0.0.0 e.joyxv.com
 :: e.joyxv.com
-0.0.0.0 e.kcenu.com
-:: e.kcenu.com
 0.0.0.0 e.kde.cz
 :: e.kde.cz
 0.0.0.0 e.kewro.com
@@ -30777,6 +30777,8 @@
 :: fhunter.inetport.com
 0.0.0.0 fhwakeford.5gbfree.com
 :: fhwakeford.5gbfree.com
+0.0.0.0 fialka.tomsk.ru
+:: fialka.tomsk.ru
 0.0.0.0 ficcionaliza.angelcities.com
 :: ficcionaliza.angelcities.com
 0.0.0.0 ficken.4iso.de
@@ -32737,6 +32739,8 @@
 :: grafephot.org.za
 0.0.0.0 gram.mfdrums.com
 :: gram.mfdrums.com
+0.0.0.0 gramelis.newyorkmascot.com
+:: gramelis.newyorkmascot.com
 0.0.0.0 grandpa.thebehrs.ca
 :: grandpa.thebehrs.ca
 0.0.0.0 grant.rpof.org
@@ -39803,8 +39807,6 @@
 :: m.jltdbyq.com
 0.0.0.0 m.joyxv.com
 :: m.joyxv.com
-0.0.0.0 m.kcenu.com
-:: m.kcenu.com
 0.0.0.0 m.kejet.net
 :: m.kejet.net
 0.0.0.0 m.kewro.com
@@ -49507,6 +49509,8 @@
 :: prebid.adnxs.co
 0.0.0.0 prebid.appnexusgslb.net
 :: prebid.appnexusgslb.net
+0.0.0.0 predmety.in.ua
+:: predmety.in.ua
 0.0.0.0 prefer.gutterhelment.com
 :: prefer.gutterhelment.com
 0.0.0.0 prefix.payhelping.com
@@ -56509,12 +56513,8 @@
 :: ss.tiscali.it
 0.0.0.0 ss.xxxnavy.com
 :: ss.xxxnavy.com
-0.0.0.0 ssa.1337x.st
-:: ssa.1337x.st
 0.0.0.0 ssa.1337x.to
 :: ssa.1337x.to
-0.0.0.0 ssa.x1337x.ws
-:: ssa.x1337x.ws
 0.0.0.0 ssac.suning.com
 :: ssac.suning.com
 0.0.0.0 ssads.osdn.com
@@ -62565,6 +62565,8 @@
 :: ukonline.hc0.me
 0.0.0.0 ukrsvit.ukrmir.info
 :: ukrsvit.ukrmir.info
+0.0.0.0 ukrtvory.in.ua
+:: ukrtvory.in.ua
 0.0.0.0 uktc.ijento.com
 :: uktc.ijento.com
 0.0.0.0 ukugl.tourstogo.us
@@ -69371,6 +69373,8 @@
 :: www.joomlalivechat.com
 0.0.0.0 www.jornalfarroupilha.com.br
 :: www.jornalfarroupilha.com.br
+0.0.0.0 www.jornalocaminho.com.br
+:: www.jornalocaminho.com.br
 0.0.0.0 www.jouwstats.nl
 :: www.jouwstats.nl
 0.0.0.0 www.jowarinzqmiak.download
