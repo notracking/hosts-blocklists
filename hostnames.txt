@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Jan 31 05:54:36 CET 2019
+# Last update: Fri Feb 1 06:17:41 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36834
+# Number of unique hostnames: 36839
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -429,6 +429,8 @@
 :: 1686607364.rsc.cdn77.org
 0.0.0.0 1696908298.rsc.cdn77.org
 :: 1696908298.rsc.cdn77.org
+0.0.0.0 17.huanqiu.com
+:: 17.huanqiu.com
 0.0.0.0 175.220.196.104.bc.googleusercontent.com
 :: 175.220.196.104.bc.googleusercontent.com
 0.0.0.0 17567525724242400047ss7844577id40004546465465340522.cufflaw.com
@@ -539,6 +541,8 @@
 :: 207-87-18-203.wsmg.digex.net
 0.0.0.0 21.cizhibaogao.org
 :: 21.cizhibaogao.org
+0.0.0.0 21.huanqiu.com
+:: 21.huanqiu.com
 0.0.0.0 21v6m.realsecuredredirect.com
 :: 21v6m.realsecuredredirect.com
 0.0.0.0 22.duote.org
@@ -18051,6 +18055,8 @@
 :: bbp.brazzers.com
 0.0.0.0 bbpntg3.homestead.com
 :: bbpntg3.homestead.com
+0.0.0.0 bbs.0210cc.com
+:: bbs.0210cc.com
 0.0.0.0 bbs.bjchun.com
 :: bbs.bjchun.com
 0.0.0.0 bbs.search.nkwwnx.com
@@ -23039,6 +23045,8 @@
 :: code.3shangyou.com
 0.0.0.0 code.adsales.snidigital.com
 :: code.adsales.snidigital.com
+0.0.0.0 code.bianxianwu.com
+:: code.bianxianwu.com
 0.0.0.0 code.blaztech.gdn
 :: code.blaztech.gdn
 0.0.0.0 code.createjs.com
@@ -28569,6 +28577,8 @@
 :: e.vjuei.com
 0.0.0.0 e.wcenr.com
 :: e.wcenr.com
+0.0.0.0 e.wdiur.com
+:: e.wdiur.com
 0.0.0.0 e.wduis.com
 :: e.wduis.com
 0.0.0.0 e.wlues.com
@@ -30187,6 +30197,8 @@
 :: fastads.swiftnews.com
 0.0.0.0 fastcounter.onlinehoster.net
 :: fastcounter.onlinehoster.net
+0.0.0.0 fastindia.org.in
+:: fastindia.org.in
 0.0.0.0 fat7e23.toko-ku.org
 :: fat7e23.toko-ku.org
 0.0.0.0 fatads.toldya.com
@@ -32739,8 +32751,6 @@
 :: grafephot.org.za
 0.0.0.0 gram.mfdrums.com
 :: gram.mfdrums.com
-0.0.0.0 gramelis.newyorkmascot.com
-:: gramelis.newyorkmascot.com
 0.0.0.0 grandpa.thebehrs.ca
 :: grandpa.thebehrs.ca
 0.0.0.0 grant.rpof.org
@@ -33279,6 +33289,8 @@
 :: hdb.maxli.cn
 0.0.0.0 hdc.maxli.cn
 :: hdc.maxli.cn
+0.0.0.0 hdc.watchtimes.com.cn
+:: hdc.watchtimes.com.cn
 0.0.0.0 hdggcdn.bayimob.com
 :: hdggcdn.bayimob.com
 0.0.0.0 hdj.baidu.com
@@ -35323,8 +35335,6 @@
 :: img.fliks.net
 0.0.0.0 img.footprintlive.com
 :: img.footprintlive.com
-0.0.0.0 img.gadhx.cn
-:: img.gadhx.cn
 0.0.0.0 img.gaore.com
 :: img.gaore.com
 0.0.0.0 img.gmo.jp
@@ -36529,6 +36539,8 @@
 :: j17.shangc.net
 0.0.0.0 j17.xiumu.cn
 :: j17.xiumu.cn
+0.0.0.0 j2.979067.com
+:: j2.979067.com
 0.0.0.0 j49f2ihpk0gtubabhlqd.businessrulesanalysis.com
 :: j49f2ihpk0gtubabhlqd.businessrulesanalysis.com
 0.0.0.0 j7b5ovjdp0gyan3zph0y.littlematchagirl.com.au
@@ -39797,6 +39809,8 @@
 :: m.huyulh.com
 0.0.0.0 m.hyzui.com
 :: m.hyzui.com
+0.0.0.0 m.hzuok.com
+:: m.hzuok.com
 0.0.0.0 m.ilancc.com
 :: m.ilancc.com
 0.0.0.0 m.ishangtong.com
@@ -39893,6 +39907,8 @@
 :: m.qhout.com
 0.0.0.0 m.qianka.com
 :: m.qianka.com
+0.0.0.0 m.qlaot.com
+:: m.qlaot.com
 0.0.0.0 m.qulishi.com
 :: m.qulishi.com
 0.0.0.0 m.qusub.com
@@ -39935,8 +39951,6 @@
 :: m.tcenn.com
 0.0.0.0 m.tdiea.com
 :: m.tdiea.com
-0.0.0.0 m.themee.cn
-:: m.themee.cn
 0.0.0.0 m.tiantianedu.net
 :: m.tiantianedu.net
 0.0.0.0 m.trb.com
@@ -57125,6 +57139,8 @@
 :: static.ifa.empflixlive.com
 0.0.0.0 static.ifa.yobtcams.com
 :: static.ifa.yobtcams.com
+0.0.0.0 static.img.imagecdn.cn
+:: static.img.imagecdn.cn
 0.0.0.0 static.infoaxe.com
 :: static.infoaxe.com
 0.0.0.0 static.inviziads.com
@@ -69373,8 +69389,6 @@
 :: www.joomlalivechat.com
 0.0.0.0 www.jornalfarroupilha.com.br
 :: www.jornalfarroupilha.com.br
-0.0.0.0 www.jornalocaminho.com.br
-:: www.jornalocaminho.com.br
 0.0.0.0 www.jouwstats.nl
 :: www.jouwstats.nl
 0.0.0.0 www.jowarinzqmiak.download
@@ -69579,8 +69593,6 @@
 :: www.laomaotao.net
 0.0.0.0 www.laoqu123.com
 :: www.laoqu123.com
-0.0.0.0 www.larcheedmonton.org
-:: www.larcheedmonton.org
 0.0.0.0 www.lasvegasymca.org
 :: www.lasvegasymca.org
 0.0.0.0 www.latest-460050.ebeda.info
@@ -71787,8 +71799,6 @@
 :: www.whitesports.co.kr
 0.0.0.0 www.whizstats.com
 :: www.whizstats.com
-0.0.0.0 www.whshangsha.com
-:: www.whshangsha.com
 0.0.0.0 www.widebanner.com
 :: www.widebanner.com
 0.0.0.0 www.wifijia.net
