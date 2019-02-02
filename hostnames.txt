@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Feb 1 06:17:41 CET 2019
+# Last update: Sat Feb 2 05:33:31 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36839
+# Number of unique hostnames: 36852
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -571,6 +571,8 @@
 :: 2560.fd.mobile.tv.sms13.de
 0.0.0.0 25z5g623wpqpdwis.onion.to
 :: 25z5g623wpqpdwis.onion.to
+0.0.0.0 2647117-0.web-hosting.es
+:: 2647117-0.web-hosting.es
 0.0.0.0 26c52281.ngrok.io
 :: 26c52281.ngrok.io
 0.0.0.0 279r.realsecuredredirect.com
@@ -13651,6 +13653,8 @@
 :: allegro.pl.showitems.it
 0.0.0.0 allegro.pl.showitme.pl
 :: allegro.pl.showitme.pl
+0.0.0.0 allens.youcheckit.ca
+:: allens.youcheckit.ca
 0.0.0.0 alleron.andree.free.fr
 :: alleron.andree.free.fr
 0.0.0.0 allisto.rusjohn.ru
@@ -14913,6 +14917,8 @@
 :: api.iris.tv
 0.0.0.0 api.ketedata.com
 :: api.ketedata.com
+0.0.0.0 api.kurulu.lk
+:: api.kurulu.lk
 0.0.0.0 api.lazyswipe.com
 :: api.lazyswipe.com
 0.0.0.0 api.leadbolt.net
@@ -18323,6 +18329,8 @@
 :: bdx.playnext.cn
 0.0.0.0 be.mobsweet.com
 :: be.mobsweet.com
+0.0.0.0 be.thevoucherstop.com
+:: be.thevoucherstop.com
 0.0.0.0 be.vtomske.ru
 :: be.vtomske.ru
 0.0.0.0 be18hk.wm.warmglow.org
@@ -26119,6 +26127,8 @@
 :: danieltan.evplayer.com
 0.0.0.0 danildh1.000webhostapp.com
 :: danildh1.000webhostapp.com
+0.0.0.0 dansavanh.in.th
+:: dansavanh.in.th
 0.0.0.0 danuoyi.alicdn.com
 :: danuoyi.alicdn.com
 0.0.0.0 daohang.114so.cn
@@ -29187,6 +29197,8 @@
 :: engager.tmg.nl
 0.0.0.0 engagesrvr.filefactory.com
 :: engagesrvr.filefactory.com
+0.0.0.0 engba.bru.ac.th
+:: engba.bru.ac.th
 0.0.0.0 engine.a.redditmedia.com
 :: engine.a.redditmedia.com
 0.0.0.0 engine.airtransat.co.uk
@@ -32751,6 +32763,8 @@
 :: grafephot.org.za
 0.0.0.0 gram.mfdrums.com
 :: gram.mfdrums.com
+0.0.0.0 gramelis.newyorkmascot.com
+:: gramelis.newyorkmascot.com
 0.0.0.0 grandpa.thebehrs.ca
 :: grandpa.thebehrs.ca
 0.0.0.0 grant.rpof.org
@@ -34157,6 +34171,8 @@
 :: host.torrent21.ru
 0.0.0.0 host1.5v.pl
 :: host1.5v.pl
+0.0.0.0 host1727451.hostland.pro
+:: host1727451.hostland.pro
 0.0.0.0 host207.ewtn.com
 :: host207.ewtn.com
 0.0.0.0 host238.hostmonster.com
@@ -35693,6 +35709,8 @@
 :: in.mydirtyhobby.com
 0.0.0.0 in.mydirtyhobby.de
 :: in.mydirtyhobby.de
+0.0.0.0 in.player.h-cdn.com
+:: in.player.h-cdn.com
 0.0.0.0 in.yimg.com
 :: in.yimg.com
 0.0.0.0 in1.feed.uu.cc
@@ -36539,8 +36557,6 @@
 :: j17.shangc.net
 0.0.0.0 j17.xiumu.cn
 :: j17.xiumu.cn
-0.0.0.0 j2.979067.com
-:: j2.979067.com
 0.0.0.0 j49f2ihpk0gtubabhlqd.businessrulesanalysis.com
 :: j49f2ihpk0gtubabhlqd.businessrulesanalysis.com
 0.0.0.0 j7b5ovjdp0gyan3zph0y.littlematchagirl.com.au
@@ -37939,8 +37955,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -40243,6 +40257,8 @@
 :: mail.ads.wsrs.net
 0.0.0.0 mail.bangla.net
 :: mail.bangla.net
+0.0.0.0 mail.coralwood.in.cp-in-14.webhostbox.net
+:: mail.coralwood.in.cp-in-14.webhostbox.net
 0.0.0.0 mail.cyberh.fr
 :: mail.cyberh.fr
 0.0.0.0 mail.edi.edu.cn
@@ -47255,6 +47271,8 @@
 :: pay-palreviewcenter.16mb.com
 0.0.0.0 pay.holaq.com
 :: pay.holaq.com
+0.0.0.0 pay.hudavaqt.com
+:: pay.hudavaqt.com
 0.0.0.0 pay.lyracandle.com
 :: pay.lyracandle.com
 0.0.0.0 pay.mobiltek.pl
@@ -48177,8 +48195,6 @@
 :: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
-0.0.0.0 phuongdanhvonghe.edu.vn
-:: phuongdanhvonghe.edu.vn
 0.0.0.0 phuttha9.beget.tech
 :: phuttha9.beget.tech
 0.0.0.0 pi-chin-cha.webcindario.com
@@ -48803,6 +48819,8 @@
 :: player.accoona.com
 0.0.0.0 player.alloutwedding.com
 :: player.alloutwedding.com
+0.0.0.0 player.h-cdn.com
+:: player.h-cdn.com
 0.0.0.0 player.insuranceandhealth.com
 :: player.insuranceandhealth.com
 0.0.0.0 player.log.hunantv.com
@@ -48811,6 +48829,8 @@
 :: player.movenetworks.com
 0.0.0.0 player.videos.vidto.me
 :: player.videos.vidto.me
+0.0.0.0 player2.h-cdn.com
+:: player2.h-cdn.com
 0.0.0.0 playinfo.gomlab.com
 :: playinfo.gomlab.com
 0.0.0.0 pleaseupdate.checkupdateslive.net
@@ -62571,6 +62591,8 @@
 :: uk.i1.yimg.com
 0.0.0.0 uk.osgeurope.com
 :: uk.osgeurope.com
+0.0.0.0 uk.thevoucherstop.com
+:: uk.thevoucherstop.com
 0.0.0.0 uk3oi.adgze.cn
 :: uk3oi.adgze.cn
 0.0.0.0 uk606.directrouter.com
@@ -64517,6 +64539,8 @@
 :: vkcheck.pe.hu
 0.0.0.0 vkchek.pe.hu
 :: vkchek.pe.hu
+0.0.0.0 vkckd.kultkam.ru
+:: vkckd.kultkam.ru
 0.0.0.0 vkclub253366.96.lt
 :: vkclub253366.96.lt
 0.0.0.0 vkcom.pe.hu
@@ -67433,8 +67457,6 @@
 :: www.api.ad.intl.xiaomi.com
 0.0.0.0 www.api.convertkit.com
 :: www.api.convertkit.com
-0.0.0.0 www.apmc.com.hk
-:: www.apmc.com.hk
 0.0.0.0 www.app.convertkit.com
 :: www.app.convertkit.com
 0.0.0.0 www.appafile.com
@@ -69389,6 +69411,8 @@
 :: www.joomlalivechat.com
 0.0.0.0 www.jornalfarroupilha.com.br
 :: www.jornalfarroupilha.com.br
+0.0.0.0 www.jornalocaminho.com.br
+:: www.jornalocaminho.com.br
 0.0.0.0 www.jouwstats.nl
 :: www.jouwstats.nl
 0.0.0.0 www.jowarinzqmiak.download
@@ -69593,6 +69617,8 @@
 :: www.laomaotao.net
 0.0.0.0 www.laoqu123.com
 :: www.laoqu123.com
+0.0.0.0 www.larcheedmonton.org
+:: www.larcheedmonton.org
 0.0.0.0 www.lasvegasymca.org
 :: www.lasvegasymca.org
 0.0.0.0 www.latest-460050.ebeda.info
