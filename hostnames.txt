@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Feb 3 05:31:32 CET 2019
+# Last update: Mon Feb 4 05:35:33 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36859
+# Number of unique hostnames: 36910
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -571,8 +571,6 @@
 :: 2560.fd.mobile.tv.sms13.de
 0.0.0.0 25z5g623wpqpdwis.onion.to
 :: 25z5g623wpqpdwis.onion.to
-0.0.0.0 2647117-0.web-hosting.es
-:: 2647117-0.web-hosting.es
 0.0.0.0 26c52281.ngrok.io
 :: 26c52281.ngrok.io
 0.0.0.0 279r.realsecuredredirect.com
@@ -3545,6 +3543,8 @@
 :: ad-cdn.bilgin.pro
 0.0.0.0 ad-check.disconnect.me
 :: ad-check.disconnect.me
+0.0.0.0 ad-choices.spot.im
+:: ad-choices.spot.im
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 :: ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 ad-dev.globalnoticias.pt
@@ -5963,6 +5963,8 @@
 :: admin.safersurf.com
 0.0.0.0 admin.sellhomeforcash.co.uk
 :: admin.sellhomeforcash.co.uk
+0.0.0.0 admin.spot.im
+:: admin.spot.im
 0.0.0.0 admin.teddycash.com
 :: admin.teddycash.com
 0.0.0.0 admin.twinstoresz.com
@@ -13445,6 +13447,14 @@
 :: ajbhsh.edu.bd
 0.0.0.0 ajnad.aljazeera.net
 :: ajnad.aljazeera.net
+0.0.0.0 ak-app-cdn.spot.im
+:: ak-app-cdn.spot.im
+0.0.0.0 ak-dynamic-cdn.spot.im
+:: ak-dynamic-cdn.spot.im
+0.0.0.0 ak-launcher.spot.im
+:: ak-launcher.spot.im
+0.0.0.0 ak-publisher-assets.spot.im
+:: ak-publisher-assets.spot.im
 0.0.0.0 ak.imgaft.com
 :: ak.imgaft.com
 0.0.0.0 ak.linkstorm.net
@@ -13631,6 +13641,8 @@
 :: all.noahfister.com
 0.0.0.0 all.rising.com.cn
 :: all.rising.com.cn
+0.0.0.0 all.spot.im
+:: all.spot.im
 0.0.0.0 all.technologyoptical.com
 :: all.technologyoptical.com
 0.0.0.0 all4gsm.uni.cc
@@ -13945,6 +13957,8 @@
 :: amosjoe11.000webhostapp.com
 0.0.0.0 amp-error-reporting.appspot.com
 :: amp-error-reporting.appspot.com
+0.0.0.0 amp.spot.im
+:: amp.spot.im
 0.0.0.0 ampcid.google.com
 :: ampcid.google.com
 0.0.0.0 amphibrachic-center.000webhostapp.com
@@ -14067,6 +14081,8 @@
 :: analytics-prod-ingress.bricknet.com
 0.0.0.0 analytics-production.hapyak.com
 :: analytics-production.hapyak.com
+0.0.0.0 analytics-read.spot.im
+:: analytics-read.spot.im
 0.0.0.0 analytics-server.gimbal.com
 :: analytics-server.gimbal.com
 0.0.0.0 analytics-service.us-east-1.prod.public.atl-paas.net
@@ -14391,6 +14407,8 @@
 :: analytics.soup.io
 0.0.0.0 analytics.spoken-tutorial.org
 :: analytics.spoken-tutorial.org
+0.0.0.0 analytics.spot.im
+:: analytics.spot.im
 0.0.0.0 analytics.spotify.com
 :: analytics.spotify.com
 0.0.0.0 analytics.spotta.nl
@@ -14741,6 +14759,8 @@
 :: api-flow.flyme.cn
 0.0.0.0 api-game.meizu.com
 :: api-game.meizu.com
+0.0.0.0 api-launcher.spot.im
+:: api-launcher.spot.im
 0.0.0.0 api-lb.vungle.akadns.net
 :: api-lb.vungle.akadns.net
 0.0.0.0 api-logger.curejoy.com
@@ -14917,8 +14937,6 @@
 :: api.iris.tv
 0.0.0.0 api.ketedata.com
 :: api.ketedata.com
-0.0.0.0 api.kurulu.lk
-:: api.kurulu.lk
 0.0.0.0 api.lazyswipe.com
 :: api.lazyswipe.com
 0.0.0.0 api.leadbolt.net
@@ -14995,6 +15013,8 @@
 :: api.south.kontagent.net
 0.0.0.0 api.splkmobile.com
 :: api.splkmobile.com
+0.0.0.0 api.spot.im
+:: api.spot.im
 0.0.0.0 api.stats.appa.pe
 :: api.stats.appa.pe
 0.0.0.0 api.taps.io
@@ -15197,6 +15217,8 @@
 :: app-analytics.snapchat.com
 0.0.0.0 app-carrinho-americanas-iphone-6s.cq94089.tmweb.ru
 :: app-carrinho-americanas-iphone-6s.cq94089.tmweb.ru
+0.0.0.0 app-cdn.spot.im
+:: app-cdn.spot.im
 0.0.0.0 app-clie-digital.umbler.net
 :: app-clie-digital.umbler.net
 0.0.0.0 app-creatives.cdn.admobile.me
@@ -18059,8 +18081,6 @@
 :: bbp.brazzers.com
 0.0.0.0 bbpntg3.homestead.com
 :: bbpntg3.homestead.com
-0.0.0.0 bbs.0210cc.com
-:: bbs.0210cc.com
 0.0.0.0 bbs.bjchun.com
 :: bbs.bjchun.com
 0.0.0.0 bbs.search.nkwwnx.com
@@ -22719,6 +22739,8 @@
 :: cloudcdn.dopa.com
 0.0.0.0 cloudcdn.dopa.com.cn
 :: cloudcdn.dopa.com.cn
+0.0.0.0 cloudfront-app-cdn.spot.im
+:: cloudfront-app-cdn.spot.im
 0.0.0.0 cloudfront-labs.amazonaws.com
 :: cloudfront-labs.amazonaws.com
 0.0.0.0 cloudfront.loggly.com
@@ -23233,6 +23255,8 @@
 :: comms-telemetry-service.us-east-1.amazonaws.com
 0.0.0.0 community.allhiphop.com
 :: community.allhiphop.com
+0.0.0.0 community.spot.im
+:: community.spot.im
 0.0.0.0 comon.monlineserviceplc.com
 :: comon.monlineserviceplc.com
 0.0.0.0 compactiongames.gameaholic.com
@@ -23513,6 +23537,8 @@
 :: controlroom.netmining.com
 0.0.0.0 conv.youdao.com
 :: conv.youdao.com
+0.0.0.0 conversation-read.spot.im
+:: conversation-read.spot.im
 0.0.0.0 converse.tm-awx.com
 :: converse.tm-awx.com
 0.0.0.0 conversion.adpro.cn
@@ -26743,8 +26769,6 @@
 :: demo.sp-kunde.de
 0.0.0.0 demo.vertexinfo.in
 :: demo.vertexinfo.in
-0.0.0.0 demo15.webindia.com
-:: demo15.webindia.com
 0.0.0.0 demo5.ikantam.com
 :: demo5.ikantam.com
 0.0.0.0 demon1.linksummary.com
@@ -28203,6 +28227,8 @@
 :: dual-purpose-cane.000webhostapp.com
 0.0.0.0 dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
 :: dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
+0.0.0.0 dualstack.brightcove.map.fastly.net
+:: dualstack.brightcove.map.fastly.net
 0.0.0.0 dualstack.cloudinary.com
 :: dualstack.cloudinary.com
 0.0.0.0 dualstack.us-eu.brightcove.map.fastly.net
@@ -28367,6 +28393,8 @@
 :: dyn.tnaflix.com
 0.0.0.0 dynad.website.bg
 :: dynad.website.bg
+0.0.0.0 dynamic-cdn.spot.im
+:: dynamic-cdn.spot.im
 0.0.0.0 dynamic.aol.com
 :: dynamic.aol.com
 0.0.0.0 dynamic.cannedbanners.com
@@ -28589,8 +28617,6 @@
 :: e.vjuei.com
 0.0.0.0 e.wcenr.com
 :: e.wcenr.com
-0.0.0.0 e.wdiur.com
-:: e.wdiur.com
 0.0.0.0 e.wduis.com
 :: e.wduis.com
 0.0.0.0 e.wlues.com
@@ -29053,6 +29079,8 @@
 :: em.baidu.com
 0.0.0.0 em1.shinobi.jp
 :: em1.shinobi.jp
+0.0.0.0 email-connect.spot.im
+:: email-connect.spot.im
 0.0.0.0 email.measi.com.jo
 :: email.measi.com.jo
 0.0.0.0 email.positionly.com
@@ -29081,6 +29109,8 @@
 :: embed.sendtonews.com
 0.0.0.0 embed.spokenlayer.com
 :: embed.spokenlayer.com
+0.0.0.0 embed.spot.im
+:: embed.spot.im
 0.0.0.0 embed.xinhuanet.com
 :: embed.xinhuanet.com
 0.0.0.0 embedlog.duiba.com.cn
@@ -29199,8 +29229,6 @@
 :: engager.tmg.nl
 0.0.0.0 engagesrvr.filefactory.com
 :: engagesrvr.filefactory.com
-0.0.0.0 engba.bru.ac.th
-:: engba.bru.ac.th
 0.0.0.0 engine.a.redditmedia.com
 :: engine.a.redditmedia.com
 0.0.0.0 engine.airtransat.co.uk
@@ -29629,6 +29657,8 @@
 :: events-api.outfit7.net
 0.0.0.0 events-coin-clem.000webhostapp.com
 :: events-coin-clem.000webhostapp.com
+0.0.0.0 events-collector.spot.im
+:: events-collector.spot.im
 0.0.0.0 events-egiftsent.000webhostapp.com
 :: events-egiftsent.000webhostapp.com
 0.0.0.0 events.adwidecenter.com
@@ -29809,6 +29839,8 @@
 :: extra.eboundservices.com
 0.0.0.0 extra.wavecdn.net
 :: extra.wavecdn.net
+0.0.0.0 extract.spot.im
+:: extract.spot.im
 0.0.0.0 extranet.ilius.net
 :: extranet.ilius.net
 0.0.0.0 extras.mnginteractive.com
@@ -30211,8 +30243,6 @@
 :: fastads.swiftnews.com
 0.0.0.0 fastcounter.onlinehoster.net
 :: fastcounter.onlinehoster.net
-0.0.0.0 fastindia.org.in
-:: fastindia.org.in
 0.0.0.0 fat7e23.toko-ku.org
 :: fat7e23.toko-ku.org
 0.0.0.0 fatads.toldya.com
@@ -32765,8 +32795,6 @@
 :: grafephot.org.za
 0.0.0.0 gram.mfdrums.com
 :: gram.mfdrums.com
-0.0.0.0 gramelis.newyorkmascot.com
-:: gramelis.newyorkmascot.com
 0.0.0.0 grandpa.thebehrs.ca
 :: grandpa.thebehrs.ca
 0.0.0.0 grant.rpof.org
@@ -34173,8 +34201,6 @@
 :: host.torrent21.ru
 0.0.0.0 host1.5v.pl
 :: host1.5v.pl
-0.0.0.0 host1727451.hostland.pro
-:: host1727451.hostland.pro
 0.0.0.0 host207.ewtn.com
 :: host207.ewtn.com
 0.0.0.0 host238.hostmonster.com
@@ -34371,6 +34397,8 @@
 :: hvkb6um3m0mbncyhx1je.littlematchagirl.com.au
 0.0.0.0 hvtzz.pcloadletter.quhu.info
 :: hvtzz.pcloadletter.quhu.info
+0.0.0.0 hw-images.spot.im
+:: hw-images.spot.im
 0.0.0.0 hwqulkmlonoiaa4vjaqy.perfectoptical.com.my
 :: hwqulkmlonoiaa4vjaqy.perfectoptical.com.my
 0.0.0.0 hwt.player888.cn
@@ -35181,6 +35209,8 @@
 :: images.skenzo.com
 0.0.0.0 images.sohu.com
 :: images.sohu.com
+0.0.0.0 images.spot.im
+:: images.spot.im
 0.0.0.0 images.steamray.com
 :: images.steamray.com
 0.0.0.0 images.streamray.com
@@ -35637,6 +35667,8 @@
 :: impogouv.chduraup.beget.tech
 0.0.0.0 import.globalsources.com
 :: import.globalsources.com
+0.0.0.0 import.spot.im
+:: import.spot.im
 0.0.0.0 impotdy6.beget.tech
 :: impotdy6.beget.tech
 0.0.0.0 impots-gouv-fr.particih.beget.tech
@@ -35987,6 +36019,8 @@
 :: init.phpwind.com
 0.0.0.0 init.phpwind.net
 :: init.phpwind.net
+0.0.0.0 init.spot.im
+:: init.spot.im
 0.0.0.0 ink.churchofthefreespirit.com
 :: ink.churchofthefreespirit.com
 0.0.0.0 inmobisdk-a.akamaihd.net
@@ -36351,8 +36385,6 @@
 :: isocket-creatives.s3.amazonaws.com
 0.0.0.0 isonsyi.inboxread28.review
 :: isonsyi.inboxread28.review
-0.0.0.0 ispytanie.savel.ru
-:: ispytanie.savel.ru
 0.0.0.0 istatistik.gazetevatan.com
 :: istatistik.gazetevatan.com
 0.0.0.0 istatistik.milliyet.com.tr
@@ -37363,8 +37395,6 @@
 :: k.bnuni.com
 0.0.0.0 k.h.a.d.free.fr
 :: k.h.a.d.free.fr
-0.0.0.0 k.iepedacitodecielo.edu.co
-:: k.iepedacitodecielo.edu.co
 0.0.0.0 k.iinfo.cz
 :: k.iinfo.cz
 0.0.0.0 k.ilius.net
@@ -38151,8 +38181,6 @@
 :: lan.free-lyrics-online.com
 0.0.0.0 lanazione.quotidiano.net
 :: lanazione.quotidiano.net
-0.0.0.0 lancang.desa.id
-:: lancang.desa.id
 0.0.0.0 land.pckeeper.software
 :: land.pckeeper.software
 0.0.0.0 land.purifier.cc
@@ -38219,6 +38247,8 @@
 :: lau1.slot.union.ucweb.com
 0.0.0.0 laughing-lichterman-cf5866.netlify.com
 :: laughing-lichterman-cf5866.netlify.com
+0.0.0.0 launcher.spot.im
+:: launcher.spot.im
 0.0.0.0 launchermsg.3g.cn
 :: launchermsg.3g.cn
 0.0.0.0 laurahanly.robhanly.com
@@ -40261,8 +40291,6 @@
 :: mail.ads.wsrs.net
 0.0.0.0 mail.bangla.net
 :: mail.bangla.net
-0.0.0.0 mail.coralwood.in.cp-in-14.webhostbox.net
-:: mail.coralwood.in.cp-in-14.webhostbox.net
 0.0.0.0 mail.cyberh.fr
 :: mail.cyberh.fr
 0.0.0.0 mail.edi.edu.cn
@@ -40811,6 +40839,8 @@
 :: mbs.weathercn.com
 0.0.0.0 mbs.youjizzlive.com
 :: mbs.youjizzlive.com
+0.0.0.0 mc-siderail.spot.im
+:: mc-siderail.spot.im
 0.0.0.0 mc.dailymotion.com
 :: mc.dailymotion.com
 0.0.0.0 mc.hujiang.com
@@ -40881,6 +40911,8 @@
 :: me.afp.chinanews.com
 0.0.0.0 me.centronind.club
 :: me.centronind.club
+0.0.0.0 me.spot.im
+:: me.spot.im
 0.0.0.0 mealsandsteals.sandiego6.com
 :: mealsandsteals.sandiego6.com
 0.0.0.0 mean.thinkerwealth.com
@@ -42525,6 +42557,8 @@
 :: mode.humoromg.com
 0.0.0.0 mode.schuettfarmswi.com
 :: mode.schuettfarmswi.com
+0.0.0.0 moderation.spot.im
+:: moderation.spot.im
 0.0.0.0 modern.watson.data.microsoft.com.akadns.net
 :: modern.watson.data.microsoft.com.akadns.net
 0.0.0.0 modules.wcax.com
@@ -42705,6 +42739,8 @@
 :: mp.tscapeplay.com
 0.0.0.0 mp.twitch.tv
 :: mp.twitch.tv
+0.0.0.0 mp3-community.spot.im
+:: mp3-community.spot.im
 0.0.0.0 mp4.res.hunantv.com
 :: mp4.res.hunantv.com
 0.0.0.0 mpb1.iteye.com
@@ -43649,6 +43685,8 @@
 :: news.xueyanshan.com
 0.0.0.0 newsdon01.000webhostapp.com
 :: newsdon01.000webhostapp.com
+0.0.0.0 newsfeed-sync.spot.im
+:: newsfeed-sync.spot.im
 0.0.0.0 newsite.ahlgrens.se
 :: newsite.ahlgrens.se
 0.0.0.0 newsletter.cps01.net
@@ -44077,6 +44115,8 @@
 :: notifications-fb-help2017.000webhostapp.com
 0.0.0.0 notifications-team2017.000webhostapp.com
 :: notifications-team2017.000webhostapp.com
+0.0.0.0 notifications.spot.im
+:: notifications.spot.im
 0.0.0.0 notificetionwem.fr.nf
 :: notificetionwem.fr.nf
 0.0.0.0 notify.1p.bugsnag.appstore.a2z.com
@@ -45095,8 +45135,6 @@
 :: oeu5ezyexldrgfxg6ysp.maherstcottage.com.au
 0.0.0.0 of.inviziads.com
 :: of.inviziads.com
-0.0.0.0 ofertas.comparadentistas.com
-:: ofertas.comparadentistas.com
 0.0.0.0 ofertas.ricardo-eletro.goodfinedining.com
 :: ofertas.ricardo-eletro.goodfinedining.com
 0.0.0.0 ofertasdev.sslblindado.com
@@ -45643,6 +45681,8 @@
 :: opec.lflink.com
 0.0.0.0 opehs.tanx.com
 :: opehs.tanx.com
+0.0.0.0 open-api.spot.im
+:: open-api.spot.im
 0.0.0.0 open-hive-server-1.pp.ua
 :: open-hive-server-1.pp.ua
 0.0.0.0 open-x.technic3d.de
@@ -48107,8 +48147,6 @@
 :: phorm.tv.tr
 0.0.0.0 phorm.web.tr
 :: phorm.web.tr
-0.0.0.0 photo.ccjxybj.cn
-:: photo.ccjxybj.cn
 0.0.0.0 photo.dhford.cn
 :: photo.dhford.cn
 0.0.0.0 photo.haoquangou.cn
@@ -48477,6 +48515,8 @@
 :: pix.omroep.nl
 0.0.0.0 pix.spin.de
 :: pix.spin.de
+0.0.0.0 pix.spot.im
+:: pix.spot.im
 0.0.0.0 pix.tagcdn.com
 :: pix.tagcdn.com
 0.0.0.0 pixel-a.basis.net
@@ -48585,6 +48625,8 @@
 :: pixel.socialtyze.com
 0.0.0.0 pixel.solvemedia.com
 :: pixel.solvemedia.com
+0.0.0.0 pixel.spot.im
+:: pixel.spot.im
 0.0.0.0 pixel.spotify.com
 :: pixel.spotify.com
 0.0.0.0 pixel.staging.tree.com
@@ -49559,6 +49601,10 @@
 :: preitem.wshareit.com
 0.0.0.0 preland.softmonetize.com
 :: preland.softmonetize.com
+0.0.0.0 premaster-spotops.spot.im
+:: premaster-spotops.spot.im
+0.0.0.0 premaster-spoxy.spot.im
+:: premaster-spoxy.spot.im
 0.0.0.0 premios.promociones-viabcp.ml
 :: premios.promociones-viabcp.ml
 0.0.0.0 premium.ascensionweb.com
@@ -50381,6 +50427,8 @@
 :: public-analytics.us-east-1.prod.public.atl-paas.net
 0.0.0.0 public-analytics.useast.atlassian.io
 :: public-analytics.useast.atlassian.io
+0.0.0.0 public-user.spot.im
+:: public-user.spot.im
 0.0.0.0 public.app.autohome.com.cn
 :: public.app.autohome.com.cn
 0.0.0.0 public.porn.fr
@@ -50425,6 +50473,8 @@
 :: publish.pizzazzemail.com
 0.0.0.0 publish.vidavee.com
 :: publish.vidavee.com
+0.0.0.0 publisher-assets.spot.im
+:: publisher-assets.spot.im
 0.0.0.0 pubportal.brkmd.com
 :: pubportal.brkmd.com
 0.0.0.0 pubs.france-hardware.com
@@ -51123,6 +51173,8 @@
 :: rank.hit.china.com
 0.0.0.0 rank.quedusex.com
 :: rank.quedusex.com
+0.0.0.0 rank.spot.im
+:: rank.spot.im
 0.0.0.0 ranking.buscarsexo.com
 :: ranking.buscarsexo.com
 0.0.0.0 ranking.rakuten.co.jp
@@ -51387,6 +51439,8 @@
 :: rechnung.safenet21.top
 0.0.0.0 reciclarn.ind.br
 :: reciclarn.ind.br
+0.0.0.0 recirculation.spot.im
+:: recirculation.spot.im
 0.0.0.0 recl.kulinar.bg
 :: recl.kulinar.bg
 0.0.0.0 reclame.lequipement.fr
@@ -51403,6 +51457,8 @@
 :: recommendation.algolia.com
 0.0.0.0 recommendation.citrix.com
 :: recommendation.citrix.com
+0.0.0.0 recommendation.spot.im
+:: recommendation.spot.im
 0.0.0.0 recommenderprodwestus.cloudapp.net
 :: recommenderprodwestus.cloudapp.net
 0.0.0.0 reconfim-accountinfolog.000webhostapp.com
@@ -52791,6 +52847,8 @@
 :: s.sh.qihoo.com
 0.0.0.0 s.spolecznosci.net
 :: s.spolecznosci.net
+0.0.0.0 s.spot.im
+:: s.spot.im
 0.0.0.0 s.statistici.ro
 :: s.statistici.ro
 0.0.0.0 s.stats.wordpress.com
@@ -53733,6 +53791,8 @@
 :: scanty.colormark.cl
 0.0.0.0 scarlet.spegene.com
 :: scarlet.spegene.com
+0.0.0.0 sccden.spot.im
+:: sccden.spot.im
 0.0.0.0 scd.secureintl.com
 :: scd.secureintl.com
 0.0.0.0 scdown.qq.com
@@ -54767,8 +54827,12 @@
 :: sentrix.wltechnology.com
 0.0.0.0 sentry-web-lb-160711358.us-east-1.elb.amazonaws.com
 :: sentry-web-lb-160711358.us-east-1.elb.amazonaws.com
+0.0.0.0 sentry.spot.im
+:: sentry.spot.im
 0.0.0.0 seo.orima.tw
 :: seo.orima.tw
+0.0.0.0 seo.spot.im
+:: seo.spot.im
 0.0.0.0 seo.wetalkseo.nl
 :: seo.wetalkseo.nl
 0.0.0.0 seocertification.upcart.me
@@ -56119,6 +56183,8 @@
 :: soboro.uk.com
 0.0.0.0 soceron.org.br
 :: soceron.org.br
+0.0.0.0 social-connect.spot.im
+:: social-connect.spot.im
 0.0.0.0 social.msgplus.net
 :: social.msgplus.net
 0.0.0.0 socialize.eu1.gigya.com
@@ -56401,10 +56467,30 @@
 :: spotmarka.ap0x.com
 0.0.0.0 spotmix.libero.it
 :: spotmix.libero.it
+0.0.0.0 spotops.spot.im
+:: spotops.spot.im
 0.0.0.0 spots.ah-me.com
 :: spots.ah-me.com
 0.0.0.0 spotxchange-a.akamaihd.net
 :: spotxchange-a.akamaihd.net
+0.0.0.0 spoxy-eb.spot.im
+:: spoxy-eb.spot.im
+0.0.0.0 spoxy-launcher.spot.im
+:: spoxy-launcher.spot.im
+0.0.0.0 spoxy-shard1.spot.im
+:: spoxy-shard1.spot.im
+0.0.0.0 spoxy-shard2.spot.im
+:: spoxy-shard2.spot.im
+0.0.0.0 spoxy-shard3.spot.im
+:: spoxy-shard3.spot.im
+0.0.0.0 spoxy-shard4.spot.im
+:: spoxy-shard4.spot.im
+0.0.0.0 spoxy-shard5.spot.im
+:: spoxy-shard5.spot.im
+0.0.0.0 spoxy-shard6.spot.im
+:: spoxy-shard6.spot.im
+0.0.0.0 spoxy-shard8.spot.im
+:: spoxy-shard8.spot.im
 0.0.0.0 spproxy.autobytel.com
 :: spproxy.autobytel.com
 0.0.0.0 sprawdz-ogladaj.bo.pl
@@ -56625,6 +56711,8 @@
 :: ssnhs.arete-energy.us
 0.0.0.0 sso.canada.com
 :: sso.canada.com
+0.0.0.0 sso.spot.im
+:: sso.spot.im
 0.0.0.0 ssor.tribdss.com
 :: ssor.tribdss.com
 0.0.0.0 ssp-rtb.sape.ru
@@ -56769,6 +56857,8 @@
 :: stage.edilnord.it
 0.0.0.0 stage1.afghancuisine.com.au
 :: stage1.afghancuisine.com.au
+0.0.0.0 staging-api.spot.im
+:: staging-api.spot.im
 0.0.0.0 staging.50onred.com
 :: staging.50onred.com
 0.0.0.0 staging.app-analytics.snapchat.com
@@ -56781,6 +56871,8 @@
 :: staging.schoolsleuth.org
 0.0.0.0 staging.snip.answers.com
 :: staging.snip.answers.com
+0.0.0.0 stagingv2.spot.im
+:: stagingv2.spot.im
 0.0.0.0 stair.registrydomainservices.com
 :: stair.registrydomainservices.com
 0.0.0.0 stalworth-perforati.000webhostapp.com
@@ -60209,6 +60301,8 @@
 :: topbinaryaffiliates.ck-cdn.com
 0.0.0.0 topblock.lentainform.com
 :: topblock.lentainform.com
+0.0.0.0 topics.spot.im
+:: topics.spot.im
 0.0.0.0 toplist.deluxestream.info
 :: toplist.deluxestream.info
 0.0.0.0 toplist.pornhost.com
@@ -61287,6 +61381,8 @@
 :: tracker.sns.iqiyi.com
 0.0.0.0 tracker.softgarden.de
 :: tracker.softgarden.de
+0.0.0.0 tracker.spot.im
+:: tracker.spot.im
 0.0.0.0 tracker.squidanalytics.com
 :: tracker.squidanalytics.com
 0.0.0.0 tracker.stats.in.th
@@ -63851,6 +63947,8 @@
 :: v1.play.log.hunantv.com
 0.0.0.0 v1.res.log.hunantv.com
 :: v1.res.log.hunantv.com
+0.0.0.0 v1.spot.im
+:: v1.spot.im
 0.0.0.0 v1.stat.ku6.com
 :: v1.stat.ku6.com
 0.0.0.0 v1.ujian.cc
@@ -63891,6 +63989,8 @@
 :: v2.popupsky.ir
 0.0.0.0 v2.res.log.hunantv.com
 :: v2.res.log.hunantv.com
+0.0.0.0 v2.spot.im
+:: v2.spot.im
 0.0.0.0 v2.stat.ku6.com
 :: v2.stat.ku6.com
 0.0.0.0 v2.urlads.net
@@ -64327,8 +64427,6 @@
 :: vidoza.github.io
 0.0.0.0 vidoza2.github.io
 :: vidoza2.github.io
-0.0.0.0 viettalent.edu.vn
-:: viettalent.edu.vn
 0.0.0.0 view-doc.thaiengine.com
 :: view-doc.thaiengine.com
 0.0.0.0 view.atdmt.net
@@ -66537,6 +66635,8 @@
 :: wrt.mtr-4uk.com
 0.0.0.0 wrutor.org.pl
 :: wrutor.org.pl
+0.0.0.0 ws-api.spot.im
+:: ws-api.spot.im
 0.0.0.0 ws-skreemr.origin.inverse.com
 :: ws-skreemr.origin.inverse.com
 0.0.0.0 ws.amazon.com
@@ -66545,6 +66645,8 @@
 :: ws.ksmobile.net
 0.0.0.0 ws.sj.qq.com
 :: ws.sj.qq.com
+0.0.0.0 ws.spot.im
+:: ws.spot.im
 0.0.0.0 ws.voiceads.cn
 :: ws.voiceads.cn
 0.0.0.0 ws.webcaster.pro
@@ -69423,8 +69525,6 @@
 :: www.joomlalivechat.com
 0.0.0.0 www.jornalfarroupilha.com.br
 :: www.jornalfarroupilha.com.br
-0.0.0.0 www.jornalocaminho.com.br
-:: www.jornalocaminho.com.br
 0.0.0.0 www.jouwstats.nl
 :: www.jouwstats.nl
 0.0.0.0 www.jowarinzqmiak.download
@@ -71071,6 +71171,8 @@
 :: www.sponsoradulto.com
 0.0.0.0 www.spookylinks.com
 :: www.spookylinks.com
+0.0.0.0 www.spot.im
+:: www.spot.im
 0.0.0.0 www.spris.com
 :: www.spris.com
 0.0.0.0 www.spunkycash.com
