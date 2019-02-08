@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Feb 7 05:48:54 CET 2019
+# Last update: Fri Feb 8 06:33:48 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36951
+# Number of unique hostnames: 36952
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -24925,6 +24925,8 @@
 :: d15cjcet1djbmv.cloudfront.net
 0.0.0.0 d15gt9gwxw5wu0.cloudfront.net
 :: d15gt9gwxw5wu0.cloudfront.net
+0.0.0.0 d15kdpgjg3unno.cloudfront.net
+:: d15kdpgjg3unno.cloudfront.net
 0.0.0.0 d160mt023h8h3d.cloudfront.net
 :: d160mt023h8h3d.cloudfront.net
 0.0.0.0 d162nnmwf9bggr.cloudfront.net
@@ -25611,6 +25613,8 @@
 :: d3.sina.com.cn
 0.0.0.0 d3.sinaimg.cn
 :: d3.sinaimg.cn
+0.0.0.0 d30gt5larl1k8h.cloudfront.net
+:: d30gt5larl1k8h.cloudfront.net
 0.0.0.0 d30s0lx1onfwyh.cloudfront.net
 :: d30s0lx1onfwyh.cloudfront.net
 0.0.0.0 d30zrwt3s044zr.cloudfront.net
@@ -28677,6 +28681,8 @@
 :: e2b8u3v8.map2.ssl.hwcdn.net
 0.0.0.0 e2cb3799.ngrok.io
 :: e2cb3799.ngrok.io
+0.0.0.0 e2e.mashable.com
+:: e2e.mashable.com
 0.0.0.0 e32e0c3c972d179cd1d0-1847ac4c91d55b307d162b6d5ad07fe3.r71.cf2.rackcdn.com
 :: e32e0c3c972d179cd1d0-1847ac4c91d55b307d162b6d5ad07fe3.r71.cf2.rackcdn.com
 0.0.0.0 e3yt5.at-band-camp.net
@@ -32833,8 +32839,6 @@
 :: grafephot.org.za
 0.0.0.0 gram.mfdrums.com
 :: gram.mfdrums.com
-0.0.0.0 gramelis.newyorkmascot.com
-:: gramelis.newyorkmascot.com
 0.0.0.0 grandpa.thebehrs.ca
 :: grandpa.thebehrs.ca
 0.0.0.0 grant.rpof.org
@@ -48291,8 +48295,6 @@
 :: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
-0.0.0.0 phuongdanhvonghe.edu.vn
-:: phuongdanhvonghe.edu.vn
 0.0.0.0 phuttha9.beget.tech
 :: phuttha9.beget.tech
 0.0.0.0 pi-chin-cha.webcindario.com
@@ -62803,8 +62805,6 @@
 :: uma.gtags.net
 0.0.0.0 umid.orion.meizu.com
 :: umid.orion.meizu.com
-0.0.0.0 umxamzah.mrsstyleseeker.com
-:: umxamzah.mrsstyleseeker.com
 0.0.0.0 un.52rkl.cn
 :: un.52rkl.cn
 0.0.0.0 un.soarfi.cn
@@ -63583,6 +63583,8 @@
 :: url.adtrgt.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
+0.0.0.0 urladyms.newlogiq.com
+:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -67713,8 +67715,6 @@
 :: www.ashiping.com
 0.0.0.0 www.asiansforu.com
 :: www.asiansforu.com
-0.0.0.0 www.aspi.ag
-:: www.aspi.ag
 0.0.0.0 www.assculturaleincontri.it
 :: www.assculturaleincontri.it
 0.0.0.0 www.assetscdn.stream
@@ -68787,6 +68787,8 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
+0.0.0.0 www.fishingtackleindia.com
+:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
@@ -69121,6 +69123,8 @@
 :: www.gratis-toplist.de
 0.0.0.0 www.greatcarrates.com
 :: www.greatcarrates.com
+0.0.0.0 www.greatdexchange.com
+:: www.greatdexchange.com
 0.0.0.0 www.greatwinner.com
 :: www.greatwinner.com
 0.0.0.0 www.greendak.com
@@ -69601,8 +69605,6 @@
 :: www.joomlalivechat.com
 0.0.0.0 www.jornalfarroupilha.com.br
 :: www.jornalfarroupilha.com.br
-0.0.0.0 www.jornalocaminho.com.br
-:: www.jornalocaminho.com.br
 0.0.0.0 www.jouwstats.nl
 :: www.jouwstats.nl
 0.0.0.0 www.jowarinzqmiak.download
