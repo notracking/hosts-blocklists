@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Feb 9 05:39:36 CET 2019
+# Last update: Sun Feb 10 07:34:34 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36931
+# Number of unique hostnames: 36946
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -19727,8 +19727,6 @@
 :: c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
 0.0.0.0 c-hzgt2.getui.com
 :: c-hzgt2.getui.com
-0.0.0.0 c-nfa.jd.com
-:: c-nfa.jd.com
 0.0.0.0 c.35kds.com
 :: c.35kds.com
 0.0.0.0 c.45io.com
@@ -25743,6 +25741,8 @@
 :: d3ddidv77grh0f.cloudfront.net
 0.0.0.0 d3dphmosjk9rot.cloudfront.net
 :: d3dphmosjk9rot.cloudfront.net
+0.0.0.0 d3dxsjwcn85hgy.cloudfront.net
+:: d3dxsjwcn85hgy.cloudfront.net
 0.0.0.0 d3dytsf4vrjn5x.cloudfront.net
 :: d3dytsf4vrjn5x.cloudfront.net
 0.0.0.0 d3edizycpjjo07.cloudfront.net
@@ -26913,6 +26913,8 @@
 :: dev.dc.letv.com
 0.0.0.0 dev.ehay.ws.singin.it.dell.justinebarbarasalon.com
 :: dev.ehay.ws.singin.it.dell.justinebarbarasalon.com
+0.0.0.0 dev.go.bookingrobin.com
+:: dev.go.bookingrobin.com
 0.0.0.0 dev.hitaishini.com
 :: dev.hitaishini.com
 0.0.0.0 dev.interfusedcreative.com
@@ -31177,6 +31179,8 @@
 :: forum.like108.com
 0.0.0.0 forum.magicsafeprogram.su
 :: forum.magicsafeprogram.su
+0.0.0.0 forum.reshalka.com
+:: forum.reshalka.com
 0.0.0.0 forums.123.st
 :: forums.123.st
 0.0.0.0 forumwarz.s3.amazonaws.com
@@ -32807,6 +32811,8 @@
 :: grafephot.org.za
 0.0.0.0 gram.mfdrums.com
 :: gram.mfdrums.com
+0.0.0.0 gramelis.newyorkmascot.com
+:: gramelis.newyorkmascot.com
 0.0.0.0 grandpa.thebehrs.ca
 :: grandpa.thebehrs.ca
 0.0.0.0 grant.rpof.org
@@ -35395,6 +35401,8 @@
 :: img.feitian001.com
 0.0.0.0 img.filefactscdn.com
 :: img.filefactscdn.com
+0.0.0.0 img.findqc.com
+:: img.findqc.com
 0.0.0.0 img.fliks.net
 :: img.fliks.net
 0.0.0.0 img.footprintlive.com
@@ -35501,6 +35509,8 @@
 :: img.yangshengtang123.com
 0.0.0.0 img.yingshidiguo.cn
 :: img.yingshidiguo.cn
+0.0.0.0 img.yqgytx.com
+:: img.yqgytx.com
 0.0.0.0 img.yuyue007.cn
 :: img.yuyue007.cn
 0.0.0.0 img.zuowen8.com
@@ -36707,6 +36717,10 @@
 :: jb.mnkan.com
 0.0.0.0 jb.revolvermaps.com
 :: jb.revolvermaps.com
+0.0.0.0 jc.bubbleandyeson.com
+:: jc.bubbleandyeson.com
+0.0.0.0 jc.buerchaoshi.com
+:: jc.buerchaoshi.com
 0.0.0.0 jc.revolvermaps.com
 :: jc.revolvermaps.com
 0.0.0.0 jc1.dayfund.cn
@@ -40305,6 +40319,8 @@
 :: magnify360-cdn.s3.amazonaws.com
 0.0.0.0 magnoliathomas799.000webhostapp.com
 :: magnoliathomas799.000webhostapp.com
+0.0.0.0 mahakur.afstudio.web.id
+:: mahakur.afstudio.web.id
 0.0.0.0 maiicenterteam.000webhostapp.com
 :: maiicenterteam.000webhostapp.com
 0.0.0.0 mail-gw.jbic.go.jp
@@ -42759,6 +42775,8 @@
 :: mp.twitch.tv
 0.0.0.0 mp3-community.spot.im
 :: mp3-community.spot.im
+0.0.0.0 mp3.simplymp3.com
+:: mp3.simplymp3.com
 0.0.0.0 mp4.res.hunantv.com
 :: mp4.res.hunantv.com
 0.0.0.0 mpb1.iteye.com
@@ -50537,6 +50555,8 @@
 :: punch.race.sk
 0.0.0.0 punksenice.a2hosted.com
 :: punksenice.a2hosted.com
+0.0.0.0 pupr.sulbarprov.go.id
+:: pupr.sulbarprov.go.id
 0.0.0.0 pups.bdimg.com
 :: pups.bdimg.com
 0.0.0.0 pupu.xnhh120.com
@@ -53071,6 +53091,8 @@
 :: s32.research.de.com
 0.0.0.0 s3cur3.altervista.org
 :: s3cur3.altervista.org
+0.0.0.0 s3m.milkjpg.com
+:: s3m.milkjpg.com
 0.0.0.0 s3r.tut.by
 :: s3r.tut.by
 0.0.0.0 s4.55.la
@@ -55563,6 +55585,8 @@
 :: show.adzpower.com
 0.0.0.0 show.ctrmanager.com
 :: show.ctrmanager.com
+0.0.0.0 show.findqc.com
+:: show.findqc.com
 0.0.0.0 show.kc.taotaosou.com
 :: show.kc.taotaosou.com
 0.0.0.0 show.look.360.cn
@@ -59075,6 +59099,8 @@
 :: t.pswec.com
 0.0.0.0 t.pusk.ru
 :: t.pusk.ru
+0.0.0.0 t.pzclw.cn
+:: t.pzclw.cn
 0.0.0.0 t.qiuqiuqipai.com
 :: t.qiuqiuqipai.com
 0.0.0.0 t.searchelper.com
@@ -62057,6 +62083,8 @@
 :: tramadol2006.3xforum.ro
 0.0.0.0 tran.news.so.com
 :: tran.news.so.com
+0.0.0.0 trandinhtuan.edu.vn
+:: trandinhtuan.edu.vn
 0.0.0.0 trans20120430.getjar.com
 :: trans20120430.getjar.com
 0.0.0.0 transazionericevuta.000webhostapp.com
@@ -63351,6 +63379,8 @@
 :: update-apple-compte.serverid2090.com
 0.0.0.0 update-apple.com.betawihosting.net
 :: update-apple.com.betawihosting.net
+0.0.0.0 update-chase.justmoveup.com
+:: update-chase.justmoveup.com
 0.0.0.0 update-csc.apps-true-login.com
 :: update-csc.apps-true-login.com
 0.0.0.0 update-infored.jalotuvua.com
@@ -64337,8 +64367,6 @@
 :: vert349.wixsite.com
 0.0.0.0 vertical-stats.huffpost.com
 :: vertical-stats.huffpost.com
-0.0.0.0 verzeroli.outbreakm3dia.com
-:: verzeroli.outbreakm3dia.com
 0.0.0.0 vewrb.italisumo.at
 :: vewrb.italisumo.at
 0.0.0.0 vex.analytics.wildtangent.com
@@ -64471,6 +64499,8 @@
 :: vidoza.github.io
 0.0.0.0 vidoza2.github.io
 :: vidoza2.github.io
+0.0.0.0 vieclam.f5mobile.vn
+:: vieclam.f5mobile.vn
 0.0.0.0 view-doc.thaiengine.com
 :: view-doc.thaiengine.com
 0.0.0.0 view.atdmt.net
@@ -66585,6 +66615,8 @@
 :: wor6.b6dfnahea.ns2.name
 0.0.0.0 worden.samenresultaat.nl
 :: worden.samenresultaat.nl
+0.0.0.0 wordpress-219768-716732.cloudwaysapps.com
+:: wordpress-219768-716732.cloudwaysapps.com
 0.0.0.0 wordpress222.wordpress.com
 :: wordpress222.wordpress.com
 0.0.0.0 wordtheme.000webhostapp.com
@@ -67839,8 +67871,6 @@
 :: www.bewaycare.com
 0.0.0.0 www.bfqnup.party
 :: www.bfqnup.party
-0.0.0.0 www.bharatinfoline.com
-:: www.bharatinfoline.com
 0.0.0.0 www.biddingx.com
 :: www.biddingx.com
 0.0.0.0 www.bidwee.com
@@ -69207,8 +69237,6 @@
 :: www.hjplocoheavier.review
 0.0.0.0 www.hkoxlirf.com
 :: www.hkoxlirf.com
-0.0.0.0 www.hmnjf.com
-:: www.hmnjf.com
 0.0.0.0 www.hndiyikj.com
 :: www.hndiyikj.com
 0.0.0.0 www.hnh-hotel.com
@@ -69359,8 +69387,6 @@
 :: www.iiewl.com
 0.0.0.0 www.ijacko.net
 :: www.ijacko.net
-0.0.0.0 www.ijerd.com
-:: www.ijerd.com
 0.0.0.0 www.ilgm-deals.com
 :: www.ilgm-deals.com
 0.0.0.0 www.ilkhaberadana.com
@@ -69561,6 +69587,8 @@
 :: www.joomlalivechat.com
 0.0.0.0 www.jornalfarroupilha.com.br
 :: www.jornalfarroupilha.com.br
+0.0.0.0 www.jornalocaminho.com.br
+:: www.jornalocaminho.com.br
 0.0.0.0 www.jouwstats.nl
 :: www.jouwstats.nl
 0.0.0.0 www.jowarinzqmiak.download
@@ -71309,6 +71337,8 @@
 :: www.subscribe.livingsocial.com
 0.0.0.0 www.successgroupiitjee.com
 :: www.successgroupiitjee.com
+0.0.0.0 www.successinteaching.info
+:: www.successinteaching.info
 0.0.0.0 www.suckpenis.com
 :: www.suckpenis.com
 0.0.0.0 www.sugarsync.com
