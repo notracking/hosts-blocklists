@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Feb 10 07:34:34 CET 2019
+# Last update: Mon Feb 11 05:35:43 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36946
+# Number of unique hostnames: 36909
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -249,6 +249,8 @@
 :: 1.sj33.net
 0.0.0.0 1.soufy.cn
 :: 1.soufy.cn
+0.0.0.0 1.tongquee.com
+:: 1.tongquee.com
 0.0.0.0 1.ttxs123.net
 :: 1.ttxs123.net
 0.0.0.0 1.tulaoshi.com
@@ -493,6 +495,8 @@
 :: 2.aili.com
 0.0.0.0 2.bashenghuo.com
 :: 2.bashenghuo.com
+0.0.0.0 2.beeg.com
+:: 2.beeg.com
 0.0.0.0 2.chipde.damoh.schneevonmorgen.com
 :: 2.chipde.damoh.schneevonmorgen.com
 0.0.0.0 2.heiyange.com
@@ -567,8 +571,6 @@
 :: 2560.fd.mobile.tv.sms13.de
 0.0.0.0 25z5g623wpqpdwis.onion.to
 :: 25z5g623wpqpdwis.onion.to
-0.0.0.0 2625886-0.web-hosting.es
-:: 2625886-0.web-hosting.es
 0.0.0.0 26c52281.ngrok.io
 :: 26c52281.ngrok.io
 0.0.0.0 279r.realsecuredredirect.com
@@ -2029,8 +2031,6 @@
 :: 625491-deu-verbraucher-sicherheit-account.paypaldevelopment-system.top
 0.0.0.0 62wtqm.est.northerndishedends.com
 :: 62wtqm.est.northerndishedends.com
-0.0.0.0 6306481-0.alojamiento-web.es
-:: 6306481-0.alojamiento-web.es
 0.0.0.0 6322.web-stats.org
 :: 6322.web-stats.org
 0.0.0.0 65421.promofrio.co
@@ -2887,6 +2887,8 @@
 :: a1shd.realshieldlinked.com
 0.0.0.0 a2.b310.com
 :: a2.b310.com
+0.0.0.0 a2.beeg.com
+:: a2.beeg.com
 0.0.0.0 a2.huanqiumil.com
 :: a2.huanqiumil.com
 0.0.0.0 a2.mediagra.com
@@ -13405,8 +13407,6 @@
 :: airbnb.com.online-booking.reference1618.pw
 0.0.0.0 airbnb.com.westpeak.ca
 :: airbnb.com.westpeak.ca
-0.0.0.0 airbnb.shr.re
-:: airbnb.shr.re
 0.0.0.0 airbrushbyjamie.000webhostapp.com
 :: airbrushbyjamie.000webhostapp.com
 0.0.0.0 aircraft.evote.cl
@@ -13559,8 +13559,6 @@
 :: alexpay2.beget.tech
 0.0.0.0 alfredog.beget.tech
 :: alfredog.beget.tech
-0.0.0.0 algomaispresentes.projetoscantec.com
-:: algomaispresentes.projetoscantec.com
 0.0.0.0 alhuriahglass.000webhostapp.com
 :: alhuriahglass.000webhostapp.com
 0.0.0.0 ali59000.free.fr
@@ -13659,8 +13657,6 @@
 :: allegro.pl.showitems.it
 0.0.0.0 allegro.pl.showitme.pl
 :: allegro.pl.showitme.pl
-0.0.0.0 allens.youcheckit.ca
-:: allens.youcheckit.ca
 0.0.0.0 alleron.andree.free.fr
 :: alleron.andree.free.fr
 0.0.0.0 allisto.rusjohn.ru
@@ -13691,8 +13687,6 @@
 :: alpha.brand.sogou.com
 0.0.0.0 alpha.easy-hit-counters.com
 :: alpha.easy-hit-counters.com
-0.0.0.0 alpha.elementortemplate.it
-:: alpha.elementortemplate.it
 0.0.0.0 alpha.telemetry.microsft.com
 :: alpha.telemetry.microsft.com
 0.0.0.0 alpha.telemetry.microsoft.com
@@ -14657,8 +14651,6 @@
 :: anti-fraud.website-works.com
 0.0.0.0 antiga.cinemaencurs.org
 :: antiga.cinemaencurs.org
-0.0.0.0 antigua.aguilarnoticias.com
-:: antigua.aguilarnoticias.com
 0.0.0.0 antithetic-polls.000webhostapp.com
 :: antithetic-polls.000webhostapp.com
 0.0.0.0 antonyme-dictionnaire-improvement.effers.com
@@ -15019,8 +15011,6 @@
 :: api.tatagou.com.cn
 0.0.0.0 api.testrequest.info
 :: api.testrequest.info
-0.0.0.0 api.thememove.com
-:: api.thememove.com
 0.0.0.0 api.tongji.today
 :: api.tongji.today
 0.0.0.0 api.trackuity.com
@@ -15267,8 +15257,6 @@
 :: app.eduancm.com
 0.0.0.0 app.fancifulapp.cool
 :: app.fancifulapp.cool
-0.0.0.0 app.francescoadorno.it
-:: app.francescoadorno.it
 0.0.0.0 app.getvero.com
 :: app.getvero.com
 0.0.0.0 app.houyi.baofeng.net
@@ -16157,8 +16145,6 @@
 :: auifhejgrg.betachiomega.org
 0.0.0.0 aunz.yimg.com
 :: aunz.yimg.com
-0.0.0.0 aurdent.u0453635.cp.regruhosting.ru
-:: aurdent.u0453635.cp.regruhosting.ru
 0.0.0.0 aurora.starpartner.com
 :: aurora.starpartner.com
 0.0.0.0 aus.laola1.tv
@@ -18069,8 +18055,6 @@
 :: bbbrasileops211-001-site1.1tempurl.com
 0.0.0.0 bbca.channelfinder.net
 :: bbca.channelfinder.net
-0.0.0.0 bbcatania.my-lp.it
-:: bbcatania.my-lp.it
 0.0.0.0 bbcc.yxlady.com
 :: bbcc.yxlady.com
 0.0.0.0 bbestiloapp.000webhostapp.com
@@ -18347,8 +18331,6 @@
 :: bdx.playnext.cn
 0.0.0.0 be.mobsweet.com
 :: be.mobsweet.com
-0.0.0.0 be.thevoucherstop.com
-:: be.thevoucherstop.com
 0.0.0.0 be.vtomske.ru
 :: be.vtomske.ru
 0.0.0.0 be18hk.wm.warmglow.org
@@ -18903,8 +18885,6 @@
 :: blogad02.myweb.hinet.net
 0.0.0.0 blogads.ebanner.nl
 :: blogads.ebanner.nl
-0.0.0.0 blogg.postvaxel.se
-:: blogg.postvaxel.se
 0.0.0.0 bloggers.fuckyoucash.com
 :: bloggers.fuckyoucash.com
 0.0.0.0 blogroll.livedoor.net
@@ -20497,8 +20477,6 @@
 :: casino-gambling-online.searchservice.info
 0.0.0.0 casino-online.100gal.net
 :: casino-online.100gal.net
-0.0.0.0 cassie.magixcreative.io
-:: cassie.magixcreative.io
 0.0.0.0 cassmcdn.000webhostapp.com
 :: cassmcdn.000webhostapp.com
 0.0.0.0 cassmcdsa.000webhostapp.com
@@ -26153,8 +26131,6 @@
 :: danieltan.evplayer.com
 0.0.0.0 danildh1.000webhostapp.com
 :: danildh1.000webhostapp.com
-0.0.0.0 dansavanh.in.th
-:: dansavanh.in.th
 0.0.0.0 danuoyi.alicdn.com
 :: danuoyi.alicdn.com
 0.0.0.0 daohang.114so.cn
@@ -26585,8 +26561,6 @@
 :: de.pandora.xiaomi.com
 0.0.0.0 de.ssl-paypalservice.com
 :: de.ssl-paypalservice.com
-0.0.0.0 de.thevoucherstop.com
-:: de.thevoucherstop.com
 0.0.0.0 de.web.planet49.com
 :: de.web.planet49.com
 0.0.0.0 de1.frosmo.com
@@ -26745,8 +26719,6 @@
 :: delivery04.dhe.ibm.com
 0.0.0.0 delmal.enigma.revenuewire.net
 :: delmal.enigma.revenuewire.net
-0.0.0.0 delphi.spb.ru
-:: delphi.spb.ru
 0.0.0.0 delta-a1.tucows.com
 :: delta-a1.tucows.com
 0.0.0.0 delta.rspcdn.com
@@ -26949,8 +26921,6 @@
 :: dev.tg.wan.360.cn
 0.0.0.0 dev.tg.youxi.com
 :: dev.tg.youxi.com
-0.0.0.0 dev.thememove.com
-:: dev.thememove.com
 0.0.0.0 dev.wrathofshadows.net
 :: dev.wrathofshadows.net
 0.0.0.0 dev1.redanchormedia.com
@@ -27589,8 +27559,6 @@
 :: doccu.000webhostapp.com
 0.0.0.0 docj27ko03fnu.cloudfront.net
 :: docj27ko03fnu.cloudfront.net
-0.0.0.0 docs.web-x.com.my
-:: docs.web-x.com.my
 0.0.0.0 docsign.libra.id
 :: docsign.libra.id
 0.0.0.0 docsiign.ladyofelegance.net
@@ -27607,8 +27575,6 @@
 :: document.oyareview-pdf-iso.webapps-securityt2jk39w92review.lold38388dkjs.us
 0.0.0.0 document.pdf.kfunk.co.za
 :: document.pdf.kfunk.co.za
-0.0.0.0 document.thememove.com
-:: document.thememove.com
 0.0.0.0 document.wordsmithindia.in
 :: document.wordsmithindia.in
 0.0.0.0 documentational.000webhostapp.com
@@ -31151,8 +31117,6 @@
 :: foreveryoung.gz01.bdysite.com
 0.0.0.0 forex-trading-benefits.blogspot.com
 :: forex-trading-benefits.blogspot.com
-0.0.0.0 forexrobot.youralgo.com
-:: forexrobot.youralgo.com
 0.0.0.0 form.doctortoken.in
 :: form.doctortoken.in
 0.0.0.0 forms.convertkit.com
@@ -31431,8 +31395,6 @@
 :: freshwork.email-accountsettings.online
 0.0.0.0 friend.zzn.com
 :: friend.zzn.com
-0.0.0.0 frispa.usm.md
-:: frispa.usm.md
 0.0.0.0 fritz.asnetworks.de
 :: fritz.asnetworks.de
 0.0.0.0 frivascures.000webhostapp.com
@@ -33173,8 +33135,6 @@
 :: haedong.es.kr
 0.0.0.0 hai3ymtnvi.sfdtewrgfc.madpendesign.com.au
 :: hai3ymtnvi.sfdtewrgfc.madpendesign.com.au
-0.0.0.0 haine2.webrevolutionfactory.com
-:: haine2.webrevolutionfactory.com
 0.0.0.0 hair-dos.resourcesarchive.com
 :: hair-dos.resourcesarchive.com
 0.0.0.0 haitaoad.nosdn.127.net
@@ -34225,8 +34185,6 @@
 :: host.torrent21.ru
 0.0.0.0 host1.5v.pl
 :: host1.5v.pl
-0.0.0.0 host1724967.hostland.pro
-:: host1724967.hostland.pro
 0.0.0.0 host207.ewtn.com
 :: host207.ewtn.com
 0.0.0.0 host238.hostmonster.com
@@ -37001,8 +36959,6 @@
 :: jounkh.5gbfree.com
 0.0.0.0 journal.jltl.org
 :: journal.jltl.org
-0.0.0.0 journal.tgeeks.co.tz
-:: journal.tgeeks.co.tz
 0.0.0.0 journalism.uk.smarttargetting.com
 :: journalism.uk.smarttargetting.com
 0.0.0.0 jovan.soldatovic.org
@@ -37721,8 +37677,6 @@
 :: kirao.ashmarinc.com
 0.0.0.0 kires.umk-spo.biz
 :: kires.umk-spo.biz
-0.0.0.0 kisfino.sedarosa.com
-:: kisfino.sedarosa.com
 0.0.0.0 kiskegyed.creatorword.com
 :: kiskegyed.creatorword.com
 0.0.0.0 kisker.czisza.hu
@@ -38025,8 +37979,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -38427,8 +38379,6 @@
 :: lelong.000webhostapp.com
 0.0.0.0 lemon.chasingyourdream.com
 :: lemon.chasingyourdream.com
-0.0.0.0 lens.youcheckit.ca
-:: lens.youcheckit.ca
 0.0.0.0 leohill1936.000webhostapp.com
 :: leohill1936.000webhostapp.com
 0.0.0.0 leomoveis.ind.br
@@ -45135,8 +45085,6 @@
 :: ocat84einc.rr.nu
 0.0.0.0 occipitocervical.zaara.name
 :: occipitocervical.zaara.name
-0.0.0.0 oceangate.parkhomes.vn
-:: oceangate.parkhomes.vn
 0.0.0.0 ocick.frost-electric-supply.com
 :: ocick.frost-electric-supply.com
 0.0.0.0 ocp.bnet.com
@@ -46043,8 +45991,6 @@
 :: orei.campanaderechoeducacion.org
 0.0.0.0 oreo.iawsnetwork.com
 :: oreo.iawsnetwork.com
-0.0.0.0 organikatzir.enterhello.com
-:: organikatzir.enterhello.com
 0.0.0.0 organikusok.blogspot.hu
 :: organikusok.blogspot.hu
 0.0.0.0 orgy.usatown.net
@@ -47339,8 +47285,6 @@
 :: pay-palreviewcenter.16mb.com
 0.0.0.0 pay.holaq.com
 :: pay.holaq.com
-0.0.0.0 pay.hudavaqt.com
-:: pay.hudavaqt.com
 0.0.0.0 pay.lyracandle.com
 :: pay.lyracandle.com
 0.0.0.0 pay.mobiltek.pl
@@ -49681,8 +49625,6 @@
 :: priscure.heliohost.org
 0.0.0.0 prism.pandora.tv
 :: prism.pandora.tv
-0.0.0.0 prisma.fp.ub.ac.id
-:: prisma.fp.ub.ac.id
 0.0.0.0 privacy.aol.com
 :: privacy.aol.com
 0.0.0.0 privacycollector-production-457481513.us-east-1.elb.amazonaws.com
@@ -50555,8 +50497,6 @@
 :: punch.race.sk
 0.0.0.0 punksenice.a2hosted.com
 :: punksenice.a2hosted.com
-0.0.0.0 pupr.sulbarprov.go.id
-:: pupr.sulbarprov.go.id
 0.0.0.0 pups.bdimg.com
 :: pups.bdimg.com
 0.0.0.0 pupu.xnhh120.com
@@ -52091,8 +52031,6 @@
 :: resr.configure.8c1.net
 0.0.0.0 rest.zzn.com
 :: rest.zzn.com
-0.0.0.0 restaurant.thememove.com
-:: restaurant.thememove.com
 0.0.0.0 restore.online.access.wf-south.loan
 :: restore.online.access.wf-south.loan
 0.0.0.0 result.wired.com
@@ -55549,8 +55487,6 @@
 :: shop.laurita.info
 0.0.0.0 shop.lauritaexcavating.info
 :: shop.lauritaexcavating.info
-0.0.0.0 shop.mgcentrografica.com
-:: shop.mgcentrografica.com
 0.0.0.0 shop.selectcellars.com.au
 :: shop.selectcellars.com.au
 0.0.0.0 shop.skin-safety.com
@@ -58381,8 +58317,6 @@
 :: studcat.infra.systems
 0.0.0.0 students.igg.biz
 :: students.igg.biz
-0.0.0.0 studiafoto.kiev.ua
-:: studiafoto.kiev.ua
 0.0.0.0 studiotosi.claimadv.it
 :: studiotosi.claimadv.it
 0.0.0.0 stuff-nzwhistleout.s3.amazonaws.com
@@ -59733,8 +59667,6 @@
 :: template.aebn.net
 0.0.0.0 temporary.nut.cc
 :: temporary.nut.cc
-0.0.0.0 temptest123.reveance.nl
-:: temptest123.reveance.nl
 0.0.0.0 tenin58gaccel.rr.nu
 :: tenin58gaccel.rr.nu
 0.0.0.0 tentsf05luxfig.rr.nu
@@ -59825,8 +59757,6 @@
 :: test.sies.uz
 0.0.0.0 test.surepush.cn
 :: test.surepush.cn
-0.0.0.0 test.thepilons.ca
-:: test.thepilons.ca
 0.0.0.0 test.zeus.ad.xiaomi.com
 :: test.zeus.ad.xiaomi.com
 0.0.0.0 test1.lmsoft.cz
@@ -61979,6 +61909,8 @@
 :: tracking.whattoexpect.com
 0.0.0.0 tracking.worldmedia.net
 :: tracking.worldmedia.net
+0.0.0.0 tracking.wpnetwork.eu
+:: tracking.wpnetwork.eu
 0.0.0.0 tracking.ws.eurosport.com
 :: tracking.ws.eurosport.com
 0.0.0.0 tracking.wuzzon.nl
@@ -62109,8 +62041,6 @@
 :: transportlivraisonsuiviconnecter.fr.fo
 0.0.0.0 travel-insurance-quotes.beesearch.info
 :: travel-insurance-quotes.beesearch.info
-0.0.0.0 travel.enterhello.com
-:: travel.enterhello.com
 0.0.0.0 travel.netster.com
 :: travel.netster.com
 0.0.0.0 travel.travelocity.com
@@ -62769,8 +62699,6 @@
 :: uk.i1.yimg.com
 0.0.0.0 uk.osgeurope.com
 :: uk.osgeurope.com
-0.0.0.0 uk.thevoucherstop.com
-:: uk.thevoucherstop.com
 0.0.0.0 uk3oi.adgze.cn
 :: uk3oi.adgze.cn
 0.0.0.0 uk606.directrouter.com
@@ -64367,6 +64295,8 @@
 :: vert349.wixsite.com
 0.0.0.0 vertical-stats.huffpost.com
 :: vertical-stats.huffpost.com
+0.0.0.0 verzeroli.outbreakm3dia.com
+:: verzeroli.outbreakm3dia.com
 0.0.0.0 vewrb.italisumo.at
 :: vewrb.italisumo.at
 0.0.0.0 vex.analytics.wildtangent.com
@@ -64721,8 +64651,6 @@
 :: vkcheck.pe.hu
 0.0.0.0 vkchek.pe.hu
 :: vkchek.pe.hu
-0.0.0.0 vkckd.kultkam.ru
-:: vkckd.kultkam.ru
 0.0.0.0 vkclub253366.96.lt
 :: vkclub253366.96.lt
 0.0.0.0 vkcom.pe.hu
@@ -65441,8 +65369,6 @@
 :: watch.scarymovieonline.com
 0.0.0.0 watch.stream4know.com
 :: watch.stream4know.com
-0.0.0.0 watchdogdns.duckdns.org
-:: watchdogdns.duckdns.org
 0.0.0.0 watchever.bild.de
 :: watchever.bild.de
 0.0.0.0 watchfree.flv.in
@@ -66919,8 +66845,6 @@
 :: wutlar.fortumo.com
 0.0.0.0 wuvac.agwebdigital.com
 :: wuvac.agwebdigital.com
-0.0.0.0 wvilla.enterhello.com
-:: wvilla.enterhello.com
 0.0.0.0 wvmqquthmutualportmutual.000webhostapp.com
 :: wvmqquthmutualportmutual.000webhostapp.com
 0.0.0.0 wvw.allaroundautorepair.com
@@ -69387,6 +69311,8 @@
 :: www.iiewl.com
 0.0.0.0 www.ijacko.net
 :: www.ijacko.net
+0.0.0.0 www.ijerd.com
+:: www.ijerd.com
 0.0.0.0 www.ilgm-deals.com
 :: www.ilgm-deals.com
 0.0.0.0 www.ilkhaberadana.com
