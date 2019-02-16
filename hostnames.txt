@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Feb 15 07:14:56 CET 2019
+# Last update: Sat Feb 16 05:37:31 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36890
+# Number of unique hostnames: 36889
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2547,6 +2547,8 @@
 :: a.i-sgcm.com
 0.0.0.0 a.ib.gazeta.pl
 :: a.ib.gazeta.pl
+0.0.0.0 a.icdol.com
+:: a.icdol.com
 0.0.0.0 a.ihref.com
 :: a.ihref.com
 0.0.0.0 a.imgso.cn
@@ -2857,6 +2859,8 @@
 :: a1.sumiaowang.com
 0.0.0.0 a1.suntimes.com
 :: a1.suntimes.com
+0.0.0.0 a1.twtym.com
+:: a1.twtym.com
 0.0.0.0 a1.vdolady.com
 :: a1.vdolady.com
 0.0.0.0 a1.yimg.com
@@ -17973,8 +17977,6 @@
 :: bars.sapo.pt
 0.0.0.0 barshelluniversity.tcalr.org
 :: barshelluniversity.tcalr.org
-0.0.0.0 barsy.blogspot.com
-:: barsy.blogspot.com
 0.0.0.0 bas.boshi.tv
 :: bas.boshi.tv
 0.0.0.0 base.filedot.xyz
@@ -19337,6 +19339,8 @@
 :: broker.adobe.com
 0.0.0.0 browncustomsoftware.net.au
 :: browncustomsoftware.net.au
+0.0.0.0 browser.events.data.microsoft.com
+:: browser.events.data.microsoft.com
 0.0.0.0 browser.pipe.aria.microsoft.com
 :: browser.pipe.aria.microsoft.com
 0.0.0.0 browsermine.12finance.com
@@ -25373,6 +25377,8 @@
 :: d2ho1n52p59mwv.cloudfront.net
 0.0.0.0 d2i54aseqwhx68.cloudfront.net
 :: d2i54aseqwhx68.cloudfront.net
+0.0.0.0 d2i5pngfrazn5t.cloudfront.net
+:: d2i5pngfrazn5t.cloudfront.net
 0.0.0.0 d2ipklohrie3lo.cloudfront.net
 :: d2ipklohrie3lo.cloudfront.net
 0.0.0.0 d2is3w689nunba.cloudfront.net
@@ -27383,6 +27389,8 @@
 :: dm.388g.cc
 0.0.0.0 dm.51okc.com
 :: dm.51okc.com
+0.0.0.0 dm.66qw.net
+:: dm.66qw.net
 0.0.0.0 dm.66wenshen.com
 :: dm.66wenshen.com
 0.0.0.0 dm.92to.com
@@ -27627,6 +27635,8 @@
 :: doma.shipgigs.com
 0.0.0.0 domain.webkeyit.com
 :: domain.webkeyit.com
+0.0.0.0 domaind2020.descargas2020.com
+:: domaind2020.descargas2020.com
 0.0.0.0 domainhelp.search.com
 :: domainhelp.search.com
 0.0.0.0 domainpark.sitelutions.com
@@ -29547,6 +29557,8 @@
 :: eu-ad.sam4m.com
 0.0.0.0 eu-ma.sam4m.com
 :: eu-ma.sam4m.com
+0.0.0.0 eu-v20.events.data.microsoft.com
+:: eu-v20.events.data.microsoft.com
 0.0.0.0 eu.cdn.survey.medallia.com
 :: eu.cdn.survey.medallia.com
 0.0.0.0 eu.link.decideinteractive.com
@@ -29645,6 +29657,8 @@
 :: events-egiftsent.000webhostapp.com
 0.0.0.0 events.adwidecenter.com
 :: events.adwidecenter.com
+0.0.0.0 events.data.microsoft.com
+:: events.data.microsoft.com
 0.0.0.0 events.fgol.mobi
 :: events.fgol.mobi
 0.0.0.0 events.gfe.nvidia.com
@@ -29791,6 +29805,8 @@
 :: ext.royalcactus.com
 0.0.0.0 ext.theglobalweb.com
 :: ext.theglobalweb.com
+0.0.0.0 ext.trafficbroker.xyz
+:: ext.trafficbroker.xyz
 0.0.0.0 ext1.price.ru
 :: ext1.price.ru
 0.0.0.0 ext4.price.ru
@@ -29949,8 +29965,6 @@
 :: fable.in.ua
 0.0.0.0 fabrizv7.beget.tech
 :: fabrizv7.beget.tech
-0.0.0.0 fabryka-chinczykow.blogspot.com
-:: fabryka-chinczykow.blogspot.com
 0.0.0.0 fabulous.fsn.net
 :: fabulous.fsn.net
 0.0.0.0 fabulous.fsn.nl
@@ -29995,8 +30009,6 @@
 :: facebook-color.5v.pl
 0.0.0.0 facebook-com506.webnode.com
 :: facebook-com506.webnode.com
-0.0.0.0 facebook-kolor.blogspot.com
-:: facebook-kolor.blogspot.com
 0.0.0.0 facebook-page1048534.site88.net
 :: facebook-page1048534.site88.net
 0.0.0.0 facebook-proxy.hi5.com
@@ -32645,6 +32657,8 @@
 :: goldbye.vicp.net
 0.0.0.0 goldenticket.disconnect.me
 :: goldenticket.disconnect.me
+0.0.0.0 golfforkids.assistlist.com
+:: golfforkids.assistlist.com
 0.0.0.0 golosovanie1001golos.esy.es
 :: golosovanie1001golos.esy.es
 0.0.0.0 gom-player.gooofull.com
@@ -32865,8 +32879,6 @@
 :: gserv.cneteu.net
 0.0.0.0 gserv.zdnet.co.uk
 :: gserv.zdnet.co.uk
-0.0.0.0 gsimon.edu.free.fr
-:: gsimon.edu.free.fr
 0.0.0.0 gsiworld.neostrada.pl
 :: gsiworld.neostrada.pl
 0.0.0.0 gsm-mobile-phone.beesearch.info
@@ -35369,8 +35381,6 @@
 :: img.gz9d.com
 0.0.0.0 img.hcwifi.cn
 :: img.hcwifi.cn
-0.0.0.0 img.helpinfo.cn
-:: img.helpinfo.cn
 0.0.0.0 img.img18.com
 :: img.img18.com
 0.0.0.0 img.kuwanpx.com
@@ -36167,8 +36177,6 @@
 :: internet-bankline-itau.duckdns.org
 0.0.0.0 internet-cleaning-tool.capital-software.qarchive.org
 :: internet-cleaning-tool.capital-software.qarchive.org
-0.0.0.0 internet-lte-5gb.blogspot.com
-:: internet-lte-5gb.blogspot.com
 0.0.0.0 internet.an7.com.br
 :: internet.an7.com.br
 0.0.0.0 internet.marsmediachannels.com
@@ -42405,6 +42413,8 @@
 :: mobile.da.mgtv.com
 0.0.0.0 mobile.desenhoonline.com
 :: mobile.desenhoonline.com
+0.0.0.0 mobile.events.data.microsoft.com
+:: mobile.events.data.microsoft.com
 0.0.0.0 mobile.free-fr.le-fr.info
 :: mobile.free-fr.le-fr.info
 0.0.0.0 mobile.free.baparisappli.com
@@ -43283,8 +43293,6 @@
 :: natwestcustomerlogon.astronomiegitimi.net
 0.0.0.0 natwestcustomerlogon.livebetterforever.co.uk
 :: natwestcustomerlogon.livebetterforever.co.uk
-0.0.0.0 nauczycielkasex.blogspot.com
-:: nauczycielkasex.blogspot.com
 0.0.0.0 nautinell211.000webhostapp.com
 :: nautinell211.000webhostapp.com
 0.0.0.0 nav.winasdaq.com
@@ -48077,6 +48085,8 @@
 :: phentermine.t-amo.net
 0.0.0.0 phentermine.webpark.pl
 :: phentermine.webpark.pl
+0.0.0.0 phi.estream.xyz
+:: phi.estream.xyz
 0.0.0.0 philly.staging.sdx.xfinity.com
 :: philly.staging.sdx.xfinity.com
 0.0.0.0 phn.apnanalytics.com
@@ -49115,8 +49125,6 @@
 :: pokemon2k16go.blogspot.com
 0.0.0.0 poker-games.e-online-poker-4u.net
 :: poker-games.e-online-poker-4u.net
-0.0.0.0 pokolorujfb.glt.pl
-:: pokolorujfb.glt.pl
 0.0.0.0 pol.boobs-xl.com
 :: pol.boobs-xl.com
 0.0.0.0 poland.fizzyslim.biz
@@ -49135,8 +49143,6 @@
 :: policy.video.iqiyi.com
 0.0.0.0 poliy.kozow.com
 :: poliy.kozow.com
-0.0.0.0 polkawlesie.blogspot.com
-:: polkawlesie.blogspot.com
 0.0.0.0 pollserver.interpolls.com
 :: pollserver.interpolls.com
 0.0.0.0 polsatboxingnight-transmisjahd.ujm.pl
@@ -52909,6 +52915,8 @@
 :: s1.teknum.com
 0.0.0.0 s1.vidtod.me
 :: s1.vidtod.me
+0.0.0.0 s1.wan1979.com
+:: s1.wan1979.com
 0.0.0.0 s1.wesiedu.com
 :: s1.wesiedu.com
 0.0.0.0 s12an3.boss.northerndishedends.uk
@@ -54779,6 +54787,8 @@
 :: self.ancestrybloodhound.org
 0.0.0.0 self.assesment.complete.refunds.agent.uk09234832.kmbuk.com
 :: self.assesment.complete.refunds.agent.uk09234832.kmbuk.com
+0.0.0.0 self.events.data.microsoft.com
+:: self.events.data.microsoft.com
 0.0.0.0 selfie.snapmobileasia.net
 :: selfie.snapmobileasia.net
 0.0.0.0 seliverstova.hop.ru
@@ -55169,8 +55179,6 @@
 :: sevise-notification.com.topanimationgroup.com
 0.0.0.0 sevise-notification.rccgnaprotocol.org
 :: sevise-notification.rccgnaprotocol.org
-0.0.0.0 sex-fabryka.blogspot.com
-:: sex-fabryka.blogspot.com
 0.0.0.0 sex-videos.gocunt.com
 :: sex-videos.gocunt.com
 0.0.0.0 sex.hotblog.top
@@ -55187,10 +55195,6 @@
 :: sex.whodoyouthinkweare.com
 0.0.0.0 sex.xx1.ch
 :: sex.xx1.ch
-0.0.0.0 sexdzieci.blogspot.com
-:: sexdzieci.blogspot.com
-0.0.0.0 sexfabryka.blogspot.com
-:: sexfabryka.blogspot.com
 0.0.0.0 sexkiss-24.web-go.net
 :: sexkiss-24.web-go.net
 0.0.0.0 sexo.gay.allmanpages.com
@@ -58177,8 +58181,6 @@
 :: stgg5jv6mqiibmax.torpoint.ch
 0.0.0.0 stgg5jv6mqiibmax.torshop.li
 :: stgg5jv6mqiibmax.torshop.li
-0.0.0.0 stiepcic.z-sat.com
-:: stiepcic.z-sat.com
 0.0.0.0 stiker.kl.com.ua
 :: stiker.kl.com.ua
 0.0.0.0 stikesbethesda.ac.id
@@ -58857,8 +58859,6 @@
 :: szkolarodzenia.sos.pl
 0.0.0.0 sznaucer-figa.nd.e-wro.pl
 :: sznaucer-figa.nd.e-wro.pl
-0.0.0.0 szokgwalt.blogspot.com
-:: szokgwalt.blogspot.com
 0.0.0.0 szokinfo247.blogspot.com
 :: szokinfo247.blogspot.com
 0.0.0.0 szupertanacsok.blog.hu
@@ -61457,6 +61457,8 @@
 :: tracking.adtracker.ch
 0.0.0.0 tracking.adultsense.com
 :: tracking.adultsense.com
+0.0.0.0 tracking.aegpresents.com
+:: tracking.aegpresents.com
 0.0.0.0 tracking.aimediagroup.com
 :: tracking.aimediagroup.com
 0.0.0.0 tracking.allposters.com
@@ -62265,6 +62267,8 @@
 :: tt11.adobe.com
 0.0.0.0 tt123.eastday.com
 :: tt123.eastday.com
+0.0.0.0 tt123.hao0202.com
+:: tt123.hao0202.com
 0.0.0.0 tt321.eastday.com
 :: tt321.eastday.com
 0.0.0.0 tt54rfdjhb34rfbnknaerg.milerteddy.com
@@ -62377,8 +62381,6 @@
 :: two.mp3mp4.com
 0.0.0.0 two.schuetttransport.com
 :: two.schuetttransport.com
-0.0.0.0 twoj-test-iq.blogspot.com
-:: twoj-test-iq.blogspot.com
 0.0.0.0 twomanonewarfare.000webhostapp.com
 :: twomanonewarfare.000webhostapp.com
 0.0.0.0 twoytuswrks.000webhostapp.com
@@ -62711,6 +62713,8 @@
 :: uma.gtags.net
 0.0.0.0 umid.orion.meizu.com
 :: umid.orion.meizu.com
+0.0.0.0 umwatsonc.events.data.microsoft.com
+:: umwatsonc.events.data.microsoft.com
 0.0.0.0 un.52rkl.cn
 :: un.52rkl.cn
 0.0.0.0 un.soarfi.cn
@@ -63509,6 +63513,8 @@
 :: us-tracker.inside-graph.com
 0.0.0.0 us-ugc-aka.canal-plus.com
 :: us-ugc-aka.canal-plus.com
+0.0.0.0 us-v20.events.data.microsoft.com
+:: us-v20.events.data.microsoft.com
 0.0.0.0 us.3zs0.date
 :: us.3zs0.date
 0.0.0.0 us.a1.yimg.com
@@ -64273,8 +64279,6 @@
 :: vert349.wixsite.com
 0.0.0.0 vertical-stats.huffpost.com
 :: vertical-stats.huffpost.com
-0.0.0.0 verzeroli.outbreakm3dia.com
-:: verzeroli.outbreakm3dia.com
 0.0.0.0 vewrb.italisumo.at
 :: vewrb.italisumo.at
 0.0.0.0 vex.analytics.wildtangent.com
@@ -66107,8 +66111,6 @@
 :: wibiya-actions.conduit-data.com
 0.0.0.0 wibiya-june-new-log.conduit-data.com
 :: wibiya-june-new-log.conduit-data.com
-0.0.0.0 wideo-pryszcz.blogspot.com
-:: wideo-pryszcz.blogspot.com
 0.0.0.0 widget.apptap.com
 :: widget.apptap.com
 0.0.0.0 widget.breakingburner.com
@@ -66839,6 +66841,8 @@
 :: ww.xiaopiaoyou.com
 0.0.0.0 ww1.contaprime.com
 :: ww1.contaprime.com
+0.0.0.0 ww1.flashx.pw
+:: ww1.flashx.pw
 0.0.0.0 ww1.searchhelper.com
 :: ww1.searchhelper.com
 0.0.0.0 ww1.tongji123.com
@@ -66893,6 +66897,8 @@
 :: ww366.onetad.com
 0.0.0.0 ww4.tongji123.com
 :: ww4.tongji123.com
+0.0.0.0 ww46.vidzi.tv
+:: ww46.vidzi.tv
 0.0.0.0 ww62.hsn.com
 :: ww62.hsn.com
 0.0.0.0 ww78.onetad.com
@@ -69285,8 +69291,6 @@
 :: www.iiewl.com
 0.0.0.0 www.ijacko.net
 :: www.ijacko.net
-0.0.0.0 www.ijerd.com
-:: www.ijerd.com
 0.0.0.0 www.ilgm-deals.com
 :: www.ilgm-deals.com
 0.0.0.0 www.ilkhaberadana.com
@@ -71145,8 +71149,6 @@
 :: www.spywaresnooper.com
 0.0.0.0 www.srhuafeng.com
 :: www.srhuafeng.com
-0.0.0.0 www.sri.cmu.ac.th
-:: www.sri.cmu.ac.th
 0.0.0.0 www.srld.com
 :: www.srld.com
 0.0.0.0 www.srn.net.in
@@ -71361,8 +71363,6 @@
 :: www.telescopethesky.com
 0.0.0.0 www.templatezone.com
 :: www.templatezone.com
-0.0.0.0 www.terraads.net
-:: www.terraads.net
 0.0.0.0 www.tesimages.com
 :: www.tesimages.com
 0.0.0.0 www.testracking.com
@@ -72217,6 +72217,8 @@
 :: www2.autopartswarehouse.com
 0.0.0.0 www2.counter.bloke.com
 :: www2.counter.bloke.com
+0.0.0.0 www2.daclips.in
+:: www2.daclips.in
 0.0.0.0 www2.dealtime.com
 :: www2.dealtime.com
 0.0.0.0 www2.delta-search.com
@@ -72235,6 +72237,8 @@
 :: www2.kampanyatakip.net
 0.0.0.0 www2.kiehls.com
 :: www2.kiehls.com
+0.0.0.0 www2.movpod.in
+:: www2.movpod.in
 0.0.0.0 www2.mystats.nl
 :: www2.mystats.nl
 0.0.0.0 www2.purecandygirls.com
@@ -72479,14 +72483,8 @@
 :: wxwm2.ikuailian.com
 0.0.0.0 wy.ce22d.cn
 :: wy.ce22d.cn
-0.0.0.0 wyciskanie-pryszcza.blogspot.com
-:: wyciskanie-pryszcza.blogspot.com
-0.0.0.0 wyciskaniepryszcza0.blogspot.com
-:: wyciskaniepryszcza0.blogspot.com
 0.0.0.0 wycvts.kal.wkcengland.com
 :: wycvts.kal.wkcengland.com
-0.0.0.0 wygrajnike.blogspot.com
-:: wygrajnike.blogspot.com
 0.0.0.0 wypad3k0.blogspot.com
 :: wypad3k0.blogspot.com
 0.0.0.0 wypromuj.nazwa.pl
@@ -72545,6 +72543,8 @@
 :: x.interia.pl
 0.0.0.0 x.jd.com
 :: x.jd.com
+0.0.0.0 x.mtrend.cn
+:: x.mtrend.cn
 0.0.0.0 x.myspace.com
 :: x.myspace.com
 0.0.0.0 x.myspace.edgesuite.net
@@ -73577,8 +73577,6 @@
 :: zg.mmyuer.com
 0.0.0.0 zgarniij_vouchher.skroc.pl
 :: zgarniij_vouchher.skroc.pl
-0.0.0.0 zgarnijnike.blogspot.com
-:: zgarnijnike.blogspot.com
 0.0.0.0 zgopxgi9uqlgoioatuuc.littlematchagirl.com.au
 :: zgopxgi9uqlgoioatuuc.littlematchagirl.com.au
 0.0.0.0 zharuk.org.ua
