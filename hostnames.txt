@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Feb 16 05:37:31 CET 2019
+# Last update: Sun Feb 17 05:32:47 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36889
+# Number of unique hostnames: 36912
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2379,6 +2379,8 @@
 :: a.ads1.msn.com
 0.0.0.0 a.ads2.msn.com
 :: a.ads2.msn.com
+0.0.0.0 a.adtng.com
+:: a.adtng.com
 0.0.0.0 a.advanstar.com
 :: a.advanstar.com
 0.0.0.0 a.alimama.cn
@@ -3185,8 +3187,6 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
-0.0.0.0 abusalewm.exceltoner.com
-:: abusalewm.exceltoner.com
 0.0.0.0 ac.ajur.info
 :: ac.ajur.info
 0.0.0.0 ac.atpanel.com
@@ -15037,6 +15037,8 @@
 :: api.union.vip.com
 0.0.0.0 api.uniplayad.com
 :: api.uniplayad.com
+0.0.0.0 api.uprivaladserver.net
+:: api.uprivaladserver.net
 0.0.0.0 api.usebutton.com
 :: api.usebutton.com
 0.0.0.0 api.usersnap.com
@@ -22967,6 +22969,8 @@
 :: cnetwidget.creativemark.co.uk
 0.0.0.0 cng.advertmedias.com
 :: cng.advertmedias.com
+0.0.0.0 cng.spb.ru
+:: cng.spb.ru
 0.0.0.0 cnghs.edu.bd
 :: cnghs.edu.bd
 0.0.0.0 cnn.dyn.cnn.com
@@ -31551,6 +31555,8 @@
 :: fw.crir.com
 0.0.0.0 fw.qq.com
 :: fw.qq.com
+0.0.0.0 fw.zhuaji.org
+:: fw.zhuaji.org
 0.0.0.0 fw433.npic.ac.cn
 :: fw433.npic.ac.cn
 0.0.0.0 fwbjgras.cz.cc
@@ -32311,6 +32317,8 @@
 :: gg.egouz.com
 0.0.0.0 gg.gao7.com
 :: gg.gao7.com
+0.0.0.0 gg.getbs.com
+:: gg.getbs.com
 0.0.0.0 gg.google.com
 :: gg.google.com
 0.0.0.0 gg.haianw.com
@@ -32785,6 +32793,8 @@
 :: grafephot.org.za
 0.0.0.0 gram.mfdrums.com
 :: gram.mfdrums.com
+0.0.0.0 gramelis.newyorkmascot.com
+:: gramelis.newyorkmascot.com
 0.0.0.0 grandpa.thebehrs.ca
 :: grandpa.thebehrs.ca
 0.0.0.0 grant.rpof.org
@@ -33413,6 +33423,8 @@
 :: help.vjjays.com
 0.0.0.0 help.yunaq.com
 :: help.yunaq.com
+0.0.0.0 helpdesk.lesitedemamsp.fr
+:: helpdesk.lesitedemamsp.fr
 0.0.0.0 helpdesk.marketbill.com
 :: helpdesk.marketbill.com
 0.0.0.0 helpdeskfunnies.cyberjuice.com
@@ -37131,6 +37143,8 @@
 :: js.newrutor.eu.org
 0.0.0.0 js.nrcdn.com
 :: js.nrcdn.com
+0.0.0.0 js.pascal1.science
+:: js.pascal1.science
 0.0.0.0 js.pub.tom.com
 :: js.pub.tom.com
 0.0.0.0 js.ruiwen.com
@@ -37763,6 +37777,8 @@
 :: kmjzb.saqibsiddiqui.com
 0.0.0.0 kmpiframe.keepmeposted.com.mt
 :: kmpiframe.keepmeposted.com.mt
+0.0.0.0 kn-paradise.net.vn
+:: kn-paradise.net.vn
 0.0.0.0 kn.chapnap.com
 :: kn.chapnap.com
 0.0.0.0 kn.dyscsm.cn
@@ -38023,6 +38039,8 @@
 :: kylik79.beget.tech
 0.0.0.0 kynangbanhang.edu.vn
 :: kynangbanhang.edu.vn
+0.0.0.0 kynangthuyettrinh.edu.vn
+:: kynangthuyettrinh.edu.vn
 0.0.0.0 kyrsu.frost-electric-supply.com
 :: kyrsu.frost-electric-supply.com
 0.0.0.0 kyznyavavilon.esy.es
@@ -39359,6 +39377,8 @@
 :: lon6-accesspoint-a33.lon6.spotify.com
 0.0.0.0 lonapetra.tblog.com
 :: lonapetra.tblog.com
+0.0.0.0 londonmarathon2019.kevinmiller66.co.uk
+:: londonmarathon2019.kevinmiller66.co.uk
 0.0.0.0 londonprivaterentals.standard.co.uk
 :: londonprivaterentals.standard.co.uk
 0.0.0.0 long.offshorepassagemaker.com
@@ -39559,6 +39579,8 @@
 :: luffyyaq.beget.tech
 0.0.0.0 luissalamanca.tarjetavirtual.biz
 :: luissalamanca.tarjetavirtual.biz
+0.0.0.0 lun.otrweb.ru
+:: lun.otrweb.ru
 0.0.0.0 luna.nkd.com
 :: luna.nkd.com
 0.0.0.0 lunametrics.wpengine.netdna-cdn.com
@@ -42223,6 +42245,8 @@
 :: miscaros.cm-fundao.pt
 0.0.0.0 miser.000webhostapp.com
 :: miser.000webhostapp.com
+0.0.0.0 misionnevado.gob.ve
+:: misionnevado.gob.ve
 0.0.0.0 miss.doctortoken.com
 :: miss.doctortoken.com
 0.0.0.0 miss.scoginfinance.com
@@ -45495,6 +45519,8 @@
 :: online-chase.com.monicamargolis.com
 0.0.0.0 online-cigarettes.hitslog.net
 :: online-cigarettes.hitslog.net
+0.0.0.0 online-citibank.u0482981.cp.regruhosting.ru
+:: online-citibank.u0482981.cp.regruhosting.ru
 0.0.0.0 online-forex-trading-systems.blogspot.com
 :: online-forex-trading-systems.blogspot.com
 0.0.0.0 online-income-tax-service.wirlip.ml
@@ -47241,6 +47267,8 @@
 :: patriot.cs.pp.cn
 0.0.0.0 patrono.com.br.villantio.com
 :: patrono.com.br.villantio.com
+0.0.0.0 pattani.mcu.ac.th
+:: pattani.mcu.ac.th
 0.0.0.0 paulor.pro.br
 :: paulor.pro.br
 0.0.0.0 pave.elisecries.com
@@ -48199,8 +48227,6 @@
 :: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
-0.0.0.0 phuongdanhvonghe.edu.vn
-:: phuongdanhvonghe.edu.vn
 0.0.0.0 phuttha9.beget.tech
 :: phuttha9.beget.tech
 0.0.0.0 pi-chin-cha.webcindario.com
@@ -49611,6 +49637,8 @@
 :: prim.dsvload.net
 0.0.0.0 princetontrenton.sla.org
 :: princetontrenton.sla.org
+0.0.0.0 print.abcreative.com
+:: print.abcreative.com
 0.0.0.0 priority-static-api.nkstatic.com
 :: priority-static-api.nkstatic.com
 0.0.0.0 priscure.heliohost.org
@@ -51987,6 +52015,8 @@
 :: rescn.u3.ucweb.com
 0.0.0.0 research.de.com
 :: research.de.com
+0.0.0.0 research.fph.tu.ac.th
+:: research.fph.tu.ac.th
 0.0.0.0 research.ifmo.ru
 :: research.ifmo.ru
 0.0.0.0 reseller.sexyads.com
@@ -58181,6 +58211,8 @@
 :: stgg5jv6mqiibmax.torpoint.ch
 0.0.0.0 stgg5jv6mqiibmax.torshop.li
 :: stgg5jv6mqiibmax.torshop.li
+0.0.0.0 stiepcic.z-sat.com
+:: stiepcic.z-sat.com
 0.0.0.0 stiker.kl.com.ua
 :: stiker.kl.com.ua
 0.0.0.0 stikesbethesda.ac.id
@@ -59713,6 +59745,8 @@
 :: test.ad.asap-asp.net
 0.0.0.0 test.ad.xiaomi.com
 :: test.ad.xiaomi.com
+0.0.0.0 test.aimakinvest.kz
+:: test.aimakinvest.kz
 0.0.0.0 test.alojamentouniversitario.com
 :: test.alojamentouniversitario.com
 0.0.0.0 test.ancestrybloodhound.org
@@ -59981,6 +60015,8 @@
 :: timhgtwe.cz.cc
 0.0.0.0 timothycopus.aimoo.com
 :: timothycopus.aimoo.com
+0.0.0.0 timothymills.org.uk
+:: timothymills.org.uk
 0.0.0.0 tin.pornoset.org
 :: tin.pornoset.org
 0.0.0.0 tin.servicedoorstep.in
@@ -64279,6 +64315,8 @@
 :: vert349.wixsite.com
 0.0.0.0 vertical-stats.huffpost.com
 :: vertical-stats.huffpost.com
+0.0.0.0 verzeroli.outbreakm3dia.com
+:: verzeroli.outbreakm3dia.com
 0.0.0.0 vewrb.italisumo.at
 :: vewrb.italisumo.at
 0.0.0.0 vex.analytics.wildtangent.com
@@ -66567,6 +66605,8 @@
 :: wowonder.alvarohurtado.com
 0.0.0.0 wp-stat.s3.amazonasw.com
 :: wp-stat.s3.amazonasw.com
+0.0.0.0 wp.berbahku.id.or.id
+:: wp.berbahku.id.or.id
 0.0.0.0 wp.horizonslearningfoundation.org
 :: wp.horizonslearningfoundation.org
 0.0.0.0 wp.twells.com.hostingmurah.co
@@ -66585,6 +66625,8 @@
 :: wpcdn1.herokuapp.com
 0.0.0.0 wpconte.heliohost.org
 :: wpconte.heliohost.org
+0.0.0.0 wpdemo.wctravel.com.au
+:: wpdemo.wctravel.com.au
 0.0.0.0 wpk.edu.hk
 :: wpk.edu.hk
 0.0.0.0 wpkcuewcemh.fgppchg.fgpp.com
@@ -69107,8 +69149,6 @@
 :: www.higame123.com
 0.0.0.0 www.highspeedtesting.com
 :: www.highspeedtesting.com
-0.0.0.0 www.highsport.se
-:: www.highsport.se
 0.0.0.0 www.hilfe-forum.info
 :: www.hilfe-forum.info
 0.0.0.0 www.himandy.com
@@ -69291,6 +69331,8 @@
 :: www.iiewl.com
 0.0.0.0 www.ijacko.net
 :: www.ijacko.net
+0.0.0.0 www.ijerd.com
+:: www.ijerd.com
 0.0.0.0 www.ilgm-deals.com
 :: www.ilgm-deals.com
 0.0.0.0 www.ilkhaberadana.com
@@ -69491,6 +69533,8 @@
 :: www.joomlalivechat.com
 0.0.0.0 www.jornalfarroupilha.com.br
 :: www.jornalfarroupilha.com.br
+0.0.0.0 www.jornalocaminho.com.br
+:: www.jornalocaminho.com.br
 0.0.0.0 www.jouwstats.nl
 :: www.jouwstats.nl
 0.0.0.0 www.jowarinzqmiak.download
@@ -69799,6 +69843,8 @@
 :: www.loansbadcredit.net.au
 0.0.0.0 www.locatorprotocol.com
 :: www.locatorprotocol.com
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -71149,6 +71195,8 @@
 :: www.spywaresnooper.com
 0.0.0.0 www.srhuafeng.com
 :: www.srhuafeng.com
+0.0.0.0 www.sri.cmu.ac.th
+:: www.sri.cmu.ac.th
 0.0.0.0 www.srld.com
 :: www.srld.com
 0.0.0.0 www.srn.net.in
@@ -71431,8 +71479,6 @@
 :: www.tiergestuetzt.de
 0.0.0.0 www.timefor.com
 :: www.timefor.com
-0.0.0.0 www.timelessimagesmi.com
-:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tings.com
@@ -72501,6 +72547,8 @@
 :: wzrqm.saqibsiddiqui.com
 0.0.0.0 x-box.t35.com
 :: x-box.t35.com
+0.0.0.0 x-soft.tomsk.ru
+:: x-soft.tomsk.ru
 0.0.0.0 x.120ask.com
 :: x.120ask.com
 0.0.0.0 x.9dagui.com
@@ -73085,8 +73133,6 @@
 :: yachfz.altervista.org
 0.0.0.0 yad1.yad2.co.il
 :: yad1.yad2.co.il
-0.0.0.0 yadirect.top.rbc.ru
-:: yadirect.top.rbc.ru
 0.0.0.0 yads.c.yimg.jp
 :: yads.c.yimg.jp
 0.0.0.0 yads.yahoo.co.jp
