@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Feb 17 05:32:47 CET 2019
+# Last update: Mon Feb 18 05:34:27 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36912
+# Number of unique hostnames: 36894
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3187,6 +3187,8 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
+0.0.0.0 abusalewm.exceltoner.com
+:: abusalewm.exceltoner.com
 0.0.0.0 ac.ajur.info
 :: ac.ajur.info
 0.0.0.0 ac.atpanel.com
@@ -13211,8 +13213,6 @@
 :: afs.googleusercontent.com
 0.0.0.0 afservant.guj.de
 :: afservant.guj.de
-0.0.0.0 afshari.yazdvip.ir
-:: afshari.yazdvip.ir
 0.0.0.0 afx.tagcdn.com
 :: afx.tagcdn.com
 0.0.0.0 ag.nukefans.net
@@ -13659,6 +13659,8 @@
 :: allegro.pl.showitems.it
 0.0.0.0 allegro.pl.showitme.pl
 :: allegro.pl.showitme.pl
+0.0.0.0 allens.youcheckit.ca
+:: allens.youcheckit.ca
 0.0.0.0 alleron.andree.free.fr
 :: alleron.andree.free.fr
 0.0.0.0 allisto.rusjohn.ru
@@ -22633,8 +22635,6 @@
 :: clips.coolerads.com
 0.0.0.0 clipsexx.esy.es
 :: clipsexx.esy.es
-0.0.0.0 cliqcares.cliq.com
-:: cliqcares.cliq.com
 0.0.0.0 clit120.outster.com
 :: clit120.outster.com
 0.0.0.0 clit50.outster.com
@@ -22969,8 +22969,6 @@
 :: cnetwidget.creativemark.co.uk
 0.0.0.0 cng.advertmedias.com
 :: cng.advertmedias.com
-0.0.0.0 cng.spb.ru
-:: cng.spb.ru
 0.0.0.0 cnghs.edu.bd
 :: cnghs.edu.bd
 0.0.0.0 cnn.dyn.cnn.com
@@ -26897,8 +26895,6 @@
 :: dev.dc.letv.com
 0.0.0.0 dev.ehay.ws.singin.it.dell.justinebarbarasalon.com
 :: dev.ehay.ws.singin.it.dell.justinebarbarasalon.com
-0.0.0.0 dev.go.bookingrobin.com
-:: dev.go.bookingrobin.com
 0.0.0.0 dev.hitaishini.com
 :: dev.hitaishini.com
 0.0.0.0 dev.interfusedcreative.com
@@ -27585,8 +27581,6 @@
 :: document-via-google-doc.bottlerockethq.com
 0.0.0.0 document.damnashcollege.edu.bd
 :: document.damnashcollege.edu.bd
-0.0.0.0 document.magixcreative.io
-:: document.magixcreative.io
 0.0.0.0 document.oyareview-pdf-iso.webapps-securityt2jk39w92review.lold38388dkjs.us
 :: document.oyareview-pdf-iso.webapps-securityt2jk39w92review.lold38388dkjs.us
 0.0.0.0 document.pdf.kfunk.co.za
@@ -30205,8 +30199,6 @@
 :: fansppagee.verifikasion1.tk
 0.0.0.0 fantage.haxdo.com
 :: fantage.haxdo.com
-0.0.0.0 fantastika.in.ua
-:: fantastika.in.ua
 0.0.0.0 fanxing.kugou.com
 :: fanxing.kugou.com
 0.0.0.0 fapet.ipb.ac.id
@@ -31159,8 +31151,6 @@
 :: forum.like108.com
 0.0.0.0 forum.magicsafeprogram.su
 :: forum.magicsafeprogram.su
-0.0.0.0 forum.reshalka.com
-:: forum.reshalka.com
 0.0.0.0 forums.123.st
 :: forums.123.st
 0.0.0.0 forumwarz.s3.amazonaws.com
@@ -31465,8 +31455,6 @@
 :: ft.pnop.com
 0.0.0.0 ft2.autonomycloud.com
 :: ft2.autonomycloud.com
-0.0.0.0 ftic.qifake.com
-:: ftic.qifake.com
 0.0.0.0 ftoxmpdipwobp4qy.10nzk9.top
 :: ftoxmpdipwobp4qy.10nzk9.top
 0.0.0.0 ftoxmpdipwobp4qy.17vj7b.top
@@ -34111,8 +34099,6 @@
 :: home.bt.bt.custhelp.signin1.bt.com.appanswersdetail.puntoblu.me
 0.0.0.0 home.com.cgi-bin-webscr.log-dispatch-updat-account.cg-bin-team.updat.server-crypt.cg-bint.securly.data4678744dbj.portal.gruporafaela.com.br
 :: home.com.cgi-bin-webscr.log-dispatch-updat-account.cg-bin-team.updat.server-crypt.cg-bint.securly.data4678744dbj.portal.gruporafaela.com.br
-0.0.0.0 home.earthlink.net
-:: home.earthlink.net
 0.0.0.0 home.indianmedicalsupply.net
 :: home.indianmedicalsupply.net
 0.0.0.0 home.jatxh.cn
@@ -34651,8 +34637,6 @@
 :: iam-agof-app.irquest.com
 0.0.0.0 iam.best.lt.ua
 :: iam.best.lt.ua
-0.0.0.0 iapjalisco.org.mx
-:: iapjalisco.org.mx
 0.0.0.0 iapplsslserviceupgrade.settingaccountsslsupport.com
 :: iapplsslserviceupgrade.settingaccountsslsupport.com
 0.0.0.0 iappweb.moonfruit.com
@@ -37671,8 +37655,6 @@
 :: kindergarten.4760.at
 0.0.0.0 kine.web4me.fr
 :: kine.web4me.fr
-0.0.0.0 kineclick.free.fr
-:: kineclick.free.fr
 0.0.0.0 kinetictokenforms.typeform.com
 :: kinetictokenforms.typeform.com
 0.0.0.0 king.humoromg.com
@@ -40287,8 +40269,6 @@
 :: magnify360-cdn.s3.amazonaws.com
 0.0.0.0 magnoliathomas799.000webhostapp.com
 :: magnoliathomas799.000webhostapp.com
-0.0.0.0 mahakur.afstudio.web.id
-:: mahakur.afstudio.web.id
 0.0.0.0 maiicenterteam.000webhostapp.com
 :: maiicenterteam.000webhostapp.com
 0.0.0.0 mail-gw.jbic.go.jp
@@ -42579,8 +42559,6 @@
 :: mola77.mobilenobo.com
 0.0.0.0 molla.gato1000.cl
 :: molla.gato1000.cl
-0.0.0.0 molly.thememove.com
-:: molly.thememove.com
 0.0.0.0 molowo.in.ua
 :: molowo.in.ua
 0.0.0.0 mon-deu-1.inf.nimiq.network
@@ -42745,8 +42723,6 @@
 :: mp.twitch.tv
 0.0.0.0 mp3-community.spot.im
 :: mp3-community.spot.im
-0.0.0.0 mp3.simplymp3.com
-:: mp3.simplymp3.com
 0.0.0.0 mp4.res.hunantv.com
 :: mp4.res.hunantv.com
 0.0.0.0 mpb1.iteye.com
@@ -43997,8 +43973,6 @@
 :: nordwest.tora.ru
 0.0.0.0 norton-antivirus-trial.searchservice.info
 :: norton-antivirus-trial.searchservice.info
-0.0.0.0 nos.etudfrance.com
-:: nos.etudfrance.com
 0.0.0.0 nossl.aafp.org
 :: nossl.aafp.org
 0.0.0.0 nostalgia.onego.ru
@@ -45519,8 +45493,6 @@
 :: online-chase.com.monicamargolis.com
 0.0.0.0 online-cigarettes.hitslog.net
 :: online-cigarettes.hitslog.net
-0.0.0.0 online-citibank.u0482981.cp.regruhosting.ru
-:: online-citibank.u0482981.cp.regruhosting.ru
 0.0.0.0 online-forex-trading-systems.blogspot.com
 :: online-forex-trading-systems.blogspot.com
 0.0.0.0 online-income-tax-service.wirlip.ml
@@ -48227,6 +48199,8 @@
 :: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
+0.0.0.0 phuongdanhvonghe.edu.vn
+:: phuongdanhvonghe.edu.vn
 0.0.0.0 phuttha9.beget.tech
 :: phuttha9.beget.tech
 0.0.0.0 pi-chin-cha.webcindario.com
@@ -56879,8 +56853,6 @@
 :: staging.app-analytics.snapchat.com
 0.0.0.0 staging.elemental-id.com
 :: staging.elemental-id.com
-0.0.0.0 staging.fanthefirecreative.com
-:: staging.fanthefirecreative.com
 0.0.0.0 staging.pixel.printsites.net
 :: staging.pixel.printsites.net
 0.0.0.0 staging.schoolsleuth.org
@@ -59939,8 +59911,6 @@
 :: thor.blindferret.media
 0.0.0.0 thpqvpken.fgppchg.fgpp.com
 :: thpqvpken.fgppchg.fgpp.com
-0.0.0.0 thptngochoi.edu.vn
-:: thptngochoi.edu.vn
 0.0.0.0 threats.nwpc.safecart.com
 :: threats.nwpc.safecart.com
 0.0.0.0 threepillarsattorneys.vtgbackstage.com
@@ -60177,8 +60147,6 @@
 :: tomparkinsomgeneretaeaccescodegrenteforthebilingrenewincrew.tomhwoodparkunik.com
 0.0.0.0 tomshw.corley.it
 :: tomshw.corley.it
-0.0.0.0 tomward.org.uk
-:: tomward.org.uk
 0.0.0.0 tone.mykiddi.co.uk
 :: tone.mykiddi.co.uk
 0.0.0.0 tongj.xilu.com
@@ -63297,8 +63265,6 @@
 :: up.qingdaonews.com
 0.0.0.0 up1.tj.u2.ucweb.com
 :: up1.tj.u2.ucweb.com
-0.0.0.0 up2m.politanisamarinda.ac.id
-:: up2m.politanisamarinda.ac.id
 0.0.0.0 up4.ucweb.com
 :: up4.ucweb.com
 0.0.0.0 upaappdate.altervista.org
@@ -63325,8 +63291,6 @@
 :: update-apple-compte.serverid2090.com
 0.0.0.0 update-apple.com.betawihosting.net
 :: update-apple.com.betawihosting.net
-0.0.0.0 update-chase.justmoveup.com
-:: update-chase.justmoveup.com
 0.0.0.0 update-csc.apps-true-login.com
 :: update-csc.apps-true-login.com
 0.0.0.0 update-infored.jalotuvua.com
@@ -64449,8 +64413,6 @@
 :: vidoza.github.io
 0.0.0.0 vidoza2.github.io
 :: vidoza2.github.io
-0.0.0.0 vieclam.f5mobile.vn
-:: vieclam.f5mobile.vn
 0.0.0.0 view-doc.thaiengine.com
 :: view-doc.thaiengine.com
 0.0.0.0 view.atdmt.net
@@ -69149,6 +69111,8 @@
 :: www.higame123.com
 0.0.0.0 www.highspeedtesting.com
 :: www.highspeedtesting.com
+0.0.0.0 www.highsport.se
+:: www.highsport.se
 0.0.0.0 www.hilfe-forum.info
 :: www.hilfe-forum.info
 0.0.0.0 www.himandy.com
@@ -71479,6 +71443,8 @@
 :: www.tiergestuetzt.de
 0.0.0.0 www.timefor.com
 :: www.timefor.com
+0.0.0.0 www.timelessimagesmi.com
+:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tings.com
@@ -72547,8 +72513,6 @@
 :: wzrqm.saqibsiddiqui.com
 0.0.0.0 x-box.t35.com
 :: x-box.t35.com
-0.0.0.0 x-soft.tomsk.ru
-:: x-soft.tomsk.ru
 0.0.0.0 x.120ask.com
 :: x.120ask.com
 0.0.0.0 x.9dagui.com
