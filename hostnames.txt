@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Feb 18 05:34:27 CET 2019
+# Last update: Tue Feb 19 05:41:35 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36894
+# Number of unique hostnames: 36910
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -13447,6 +13447,10 @@
 :: ak-app-cdn.spot.im
 0.0.0.0 ak-dynamic-cdn.spot.im
 :: ak-dynamic-cdn.spot.im
+0.0.0.0 ak-events-collector.spot.im
+:: ak-events-collector.spot.im
+0.0.0.0 ak-images.spot.im
+:: ak-images.spot.im
 0.0.0.0 ak-launcher.spot.im
 :: ak-launcher.spot.im
 0.0.0.0 ak-publisher-assets.spot.im
@@ -15427,8 +15431,12 @@
 :: apple.com--validation.systems
 0.0.0.0 apple.com-analysis-safety-antimalware-support.accountant
 :: apple.com-analysis-safety-antimalware-support.accountant
+0.0.0.0 apple.com-care-macbook-system.live
+:: apple.com-care-macbook-system.live
 0.0.0.0 apple.com-cleaner.systems
 :: apple.com-cleaner.systems
+0.0.0.0 apple.com-improve-macos.live
+:: apple.com-improve-macos.live
 0.0.0.0 apple.com-internet-security-review.info
 :: apple.com-internet-security-review.info
 0.0.0.0 apple.com-internet-security-review.review
@@ -15437,12 +15445,20 @@
 :: apple.com-onlinesupport.host
 0.0.0.0 apple.com-onlinesupport.site
 :: apple.com-onlinesupport.site
+0.0.0.0 apple.com-repair-macbook.live
+:: apple.com-repair-macbook.live
+0.0.0.0 apple.com-repair-os.live
+:: apple.com-repair-os.live
 0.0.0.0 apple.com-safetyalert.com
 :: apple.com-safetyalert.com
 0.0.0.0 apple.com-scan-virus-detected.com
 :: apple.com-scan-virus-detected.com
 0.0.0.0 apple.com-security-desktop-antimalware-support.download
 :: apple.com-security-desktop-antimalware-support.download
+0.0.0.0 apple.com-speedup-macbook.live
+:: apple.com-speedup-macbook.live
+0.0.0.0 apple.com-speedup-macos.live
+:: apple.com-speedup-macos.live
 0.0.0.0 apple.com-store.me
 :: apple.com-store.me
 0.0.0.0 apple.com-supportcenter.pro
@@ -30471,6 +30487,8 @@
 :: fe.lea.lycos.es
 0.0.0.0 fe.lea.spray.se
 :: fe.lea.spray.se
+0.0.0.0 featured.perfectionholic.com
+:: featured.perfectionholic.com
 0.0.0.0 february2018.atspace.cc
 :: february2018.atspace.cc
 0.0.0.0 fee-hydrocodone.bebto.com
@@ -32877,6 +32895,8 @@
 :: gserv.cneteu.net
 0.0.0.0 gserv.zdnet.co.uk
 :: gserv.zdnet.co.uk
+0.0.0.0 gsimon.edu.free.fr
+:: gsimon.edu.free.fr
 0.0.0.0 gsiworld.neostrada.pl
 :: gsiworld.neostrada.pl
 0.0.0.0 gsm-mobile-phone.beesearch.info
@@ -60077,6 +60097,8 @@
 :: tkmedia.aotter.net
 0.0.0.0 tkmftc.aotter.net
 :: tkmftc.aotter.net
+0.0.0.0 tkn.fux.com
+:: tkn.fux.com
 0.0.0.0 tknet.rayjump.com
 :: tknet.rayjump.com
 0.0.0.0 tkportal.aotter.net
@@ -67573,12 +67595,22 @@
 :: www.apphostcapital.com
 0.0.0.0 www.apple-xid.com
 :: www.apple-xid.com
+0.0.0.0 www.apple.com-care-macbook-system.live
+:: www.apple.com-care-macbook-system.live
 0.0.0.0 www.apple.com-clean-macbook-system.live
 :: www.apple.com-clean-macbook-system.live
 0.0.0.0 www.apple.com-clean-macbook.live
 :: www.apple.com-clean-macbook.live
+0.0.0.0 www.apple.com-improve-macos.live
+:: www.apple.com-improve-macos.live
+0.0.0.0 www.apple.com-repair-macbook.live
+:: www.apple.com-repair-macbook.live
 0.0.0.0 www.apple.com-speed-macbook.live
 :: www.apple.com-speed-macbook.live
+0.0.0.0 www.apple.com-speedup-macbook.live
+:: www.apple.com-speedup-macbook.live
+0.0.0.0 www.apple.com-speedup-macos.live
+:: www.apple.com-speedup-macos.live
 0.0.0.0 www.appleid-iphonetore.com
 :: www.appleid-iphonetore.com
 0.0.0.0 www.appleidinfo.net
@@ -67783,8 +67815,6 @@
 :: www.bewaycare.com
 0.0.0.0 www.bfqnup.party
 :: www.bfqnup.party
-0.0.0.0 www.bharatinfoline.com
-:: www.bharatinfoline.com
 0.0.0.0 www.biddingx.com
 :: www.biddingx.com
 0.0.0.0 www.bidwee.com
@@ -70665,6 +70695,8 @@
 :: www.promomasters.at
 0.0.0.0 www.promotions.yahoo.com
 :: www.promotions.yahoo.com
+0.0.0.0 www.prooexpert.com
+:: www.prooexpert.com
 0.0.0.0 www.propan.ru
 :: www.propan.ru
 0.0.0.0 www.prosex.com
