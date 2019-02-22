@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Feb 21 05:46:41 CET 2019
+# Last update: Fri Feb 22 06:54:19 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36913
+# Number of unique hostnames: 36939
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2817,6 +2817,8 @@
 :: a1.0s.net.cn
 0.0.0.0 a1.16700.net
 :: a1.16700.net
+0.0.0.0 a1.7down.com
+:: a1.7down.com
 0.0.0.0 a1.99966.cn
 :: a1.99966.cn
 0.0.0.0 a1.admaster.net
@@ -12709,6 +12711,8 @@
 :: aegis.secure-orders.net
 0.0.0.0 aen.belugaboost.com
 :: aen.belugaboost.com
+0.0.0.0 aerdtc.gov.mm
+:: aerdtc.gov.mm
 0.0.0.0 aero.pixel.optimalq.net
 :: aero.pixel.optimalq.net
 0.0.0.0 aeropostale.resultspage.com
@@ -14631,6 +14635,8 @@
 :: annonce.lequipement.fr
 0.0.0.0 annonser.dagbladet.no
 :: annonser.dagbladet.no
+0.0.0.0 annual.fph.tu.ac.th
+:: annual.fph.tu.ac.th
 0.0.0.0 annualreports.tacomaartmuseum.org
 :: annualreports.tacomaartmuseum.org
 0.0.0.0 anon.doubleclick.speedera.net
@@ -16611,6 +16617,8 @@
 :: b.the-nextlevel.com
 0.0.0.0 b.thefile.me
 :: b.thefile.me
+0.0.0.0 b.top4top.net
+:: b.top4top.net
 0.0.0.0 b.trackcdn.com
 :: b.trackcdn.com
 0.0.0.0 b.tukucc.com
@@ -18789,6 +18797,8 @@
 :: bjsieops.buyshouses.net
 0.0.0.0 bjwwfx001.org.cn
 :: bjwwfx001.org.cn
+0.0.0.0 bk-brandstory.mdscreative.com
+:: bk-brandstory.mdscreative.com
 0.0.0.0 bk-sirius.kiev.ua
 :: bk-sirius.kiev.ua
 0.0.0.0 bk9gun.vpser.net
@@ -19677,6 +19687,8 @@
 :: bvbvcfc.000webhostapp.com
 0.0.0.0 bvtjuy.koll.pershoreairporttransfers.co.uk
 :: bvtjuy.koll.pershoreairporttransfers.co.uk
+0.0.0.0 bvxk.vatphamtamlinh.net
+:: bvxk.vatphamtamlinh.net
 0.0.0.0 bw1q.ccisisl.top
 :: bw1q.ccisisl.top
 0.0.0.0 bwb101.goo.ne.jp
@@ -24873,6 +24885,8 @@
 :: d13dhn7ldhrcf6.cloudfront.net
 0.0.0.0 d13im3ek7neeqp.cloudfront.net
 :: d13im3ek7neeqp.cloudfront.net
+0.0.0.0 d13jhr4vol1304.cloudfront.net
+:: d13jhr4vol1304.cloudfront.net
 0.0.0.0 d13strl4lo8mtp.cloudfront.net
 :: d13strl4lo8mtp.cloudfront.net
 0.0.0.0 d13xa9aa1tga7e.cloudfront.net
@@ -25063,6 +25077,8 @@
 :: d1ksyxj9xozc2j.cloudfront.net
 0.0.0.0 d1l6p2sc9645hc.cloudfront.net
 :: d1l6p2sc9645hc.cloudfront.net
+0.0.0.0 d1ledzqk4xkhp4.cloudfront.net
+:: d1ledzqk4xkhp4.cloudfront.net
 0.0.0.0 d1lm7kd3bd3yo9.cloudfront.net
 :: d1lm7kd3bd3yo9.cloudfront.net
 0.0.0.0 d1lxhc4jvstzrp.cloudfront.net
@@ -25661,6 +25677,8 @@
 :: d36sxvmjoflc2i.cloudfront.net
 0.0.0.0 d37dzu39aqhuxu.cloudfront.net
 :: d37dzu39aqhuxu.cloudfront.net
+0.0.0.0 d37f9khcllt32v.cloudfront.net
+:: d37f9khcllt32v.cloudfront.net
 0.0.0.0 d37h3y471q0lt2.cloudfront.net
 :: d37h3y471q0lt2.cloudfront.net
 0.0.0.0 d37kzqe5knnh6t.cloudfront.net
@@ -26507,6 +26525,8 @@
 :: dcs.plussizetech.com
 0.0.0.0 dctk.expedia.com
 :: dctk.expedia.com
+0.0.0.0 dctrcdd.davaocity.gov.ph
+:: dctrcdd.davaocity.gov.ph
 0.0.0.0 dcvaad06ad-system.esy.es
 :: dcvaad06ad-system.esy.es
 0.0.0.0 dcw.1592878.com
@@ -26769,6 +26789,8 @@
 :: demo.ithreeweb.com
 0.0.0.0 demo.jointreport-switch.com
 :: demo.jointreport-switch.com
+0.0.0.0 demo.liuzhixiong.top
+:: demo.liuzhixiong.top
 0.0.0.0 demo.minecraft.edu.vn
 :: demo.minecraft.edu.vn
 0.0.0.0 demo.sp-kunde.de
@@ -29071,6 +29093,8 @@
 :: ell.miltontech.com
 0.0.0.0 ells_fargo.com.confirm.text.or-activewf.top
 :: ells_fargo.com.confirm.text.or-activewf.top
+0.0.0.0 ellsworth.diagency.co.uk
+:: ellsworth.diagency.co.uk
 0.0.0.0 ellusakit.000webhostapp.com
 :: ellusakit.000webhostapp.com
 0.0.0.0 ellylldan.demos.su
@@ -29191,6 +29215,8 @@
 :: en.mywebzines.com
 0.0.0.0 en.ntdzkj.com
 :: en.ntdzkj.com
+0.0.0.0 en.sun-sen.com
+:: en.sun-sen.com
 0.0.0.0 en.ultrex.ru
 :: en.ultrex.ru
 0.0.0.0 en.worthfind.com
@@ -30339,6 +30365,8 @@
 :: fb.darbo.uzrasai.lt
 0.0.0.0 fb.postmee.xyz
 :: fb.postmee.xyz
+0.0.0.0 fb.saltermitchell.com
+:: fb.saltermitchell.com
 0.0.0.0 fb.xk.miui.com
 :: fb.xk.miui.com
 0.0.0.0 fb1-pw.go2clickbank.com
@@ -30887,6 +30915,8 @@
 :: file.mm.co.kr
 0.0.0.0 file.oculus-tech.com
 :: file.oculus-tech.com
+0.0.0.0 files.anjian.com
+:: files.anjian.com
 0.0.0.0 files.brothersoft.com
 :: files.brothersoft.com
 0.0.0.0 files.download-sponsor.de
@@ -32897,8 +32927,6 @@
 :: gserv.cneteu.net
 0.0.0.0 gserv.zdnet.co.uk
 :: gserv.zdnet.co.uk
-0.0.0.0 gsimon.edu.free.fr
-:: gsimon.edu.free.fr
 0.0.0.0 gsiworld.neostrada.pl
 :: gsiworld.neostrada.pl
 0.0.0.0 gsm-mobile-phone.beesearch.info
@@ -33545,6 +33573,8 @@
 :: hior.000webhostapp.com
 0.0.0.0 hipcrime.home.dhs.org
 :: hipcrime.home.dhs.org
+0.0.0.0 hipecard.yazdvip.ir
+:: hipecard.yazdvip.ir
 0.0.0.0 hipub.hiwit.org
 :: hipub.hiwit.org
 0.0.0.0 hiq.fotolog.com
@@ -34161,6 +34191,8 @@
 :: hondafuerza.dhdinc.info
 0.0.0.0 honey.briefly.ru
 :: honey.briefly.ru
+0.0.0.0 hongcheng.org.hk
+:: hongcheng.org.hk
 0.0.0.0 honolulu.app.ur.gcion.com
 :: honolulu.app.ur.gcion.com
 0.0.0.0 honor.agitaattori.fi
@@ -34713,6 +34745,8 @@
 :: ib.nab.com.au.verify-nab.ga
 0.0.0.0 ib.nabinfo.com
 :: ib.nabinfo.com
+0.0.0.0 ibakery.tungwahcsd.org
+:: ibakery.tungwahcsd.org
 0.0.0.0 ibanners.empoweredcomms.com.au
 :: ibanners.empoweredcomms.com.au
 0.0.0.0 ibaveh.yadozalamom.pw
@@ -38045,6 +38079,8 @@
 :: kylik79.beget.tech
 0.0.0.0 kynangbanhang.edu.vn
 :: kynangbanhang.edu.vn
+0.0.0.0 kynanggiaotiepungxu.edu.vn
+:: kynanggiaotiepungxu.edu.vn
 0.0.0.0 kynangthuyettrinh.edu.vn
 :: kynangthuyettrinh.edu.vn
 0.0.0.0 kyrsu.frost-electric-supply.com
@@ -40515,6 +40551,8 @@
 :: manticore.demos.su
 0.0.0.0 mantis-wp.s3.amazonaws.com
 :: mantis-wp.s3.amazonaws.com
+0.0.0.0 mantoerika.yazdvip.ir
+:: mantoerika.yazdvip.ir
 0.0.0.0 mantrsa.000webhostapp.com
 :: mantrsa.000webhostapp.com
 0.0.0.0 manualterap.roleforum.ru
@@ -47313,6 +47351,8 @@
 :: pay.lyracandle.com
 0.0.0.0 pay.mobiltek.pl
 :: pay.mobiltek.pl
+0.0.0.0 pay.onebip.com
+:: pay.onebip.com
 0.0.0.0 pay.pal.com.imsfcu.ac.bd
 :: pay.pal.com.imsfcu.ac.bd
 0.0.0.0 payable.billing-airfryer.com
@@ -48229,6 +48269,8 @@
 :: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
+0.0.0.0 phuongdanhvonghe.edu.vn
+:: phuongdanhvonghe.edu.vn
 0.0.0.0 phuttha9.beget.tech
 :: phuttha9.beget.tech
 0.0.0.0 pi-chin-cha.webcindario.com
@@ -53785,6 +53827,8 @@
 :: schlicher-domung.brightfuture.biz
 0.0.0.0 school.obec.go.th
 :: school.obec.go.th
+0.0.0.0 school6.chernyahovsk.ru
+:: school6.chernyahovsk.ru
 0.0.0.0 school8.kvz.kubannet.ru
 :: school8.kvz.kubannet.ru
 0.0.0.0 schoorsteen.geenstijl.nl
@@ -54845,6 +54889,8 @@
 :: sentrix.wltechnology.com
 0.0.0.0 sentry-web-lb-160711358.us-east-1.elb.amazonaws.com
 :: sentry-web-lb-160711358.us-east-1.elb.amazonaws.com
+0.0.0.0 sentry.gitlab.net
+:: sentry.gitlab.net
 0.0.0.0 sentry.spot.im
 :: sentry.spot.im
 0.0.0.0 seo.orima.tw
@@ -56865,6 +56911,8 @@
 :: staffwrights.5gbfree.com
 0.0.0.0 stag.tivinci.com
 :: stag.tivinci.com
+0.0.0.0 stage.abichama.bm.vinil.co
+:: stage.abichama.bm.vinil.co
 0.0.0.0 stage.broder.com
 :: stage.broder.com
 0.0.0.0 stage.edilnord.it
@@ -59591,6 +59639,8 @@
 :: tedeumssteinbergs.shock-fun.com
 0.0.0.0 teens.ofsexe.free.fr
 :: teens.ofsexe.free.fr
+0.0.0.0 teenypress.briancook.net
+:: teenypress.briancook.net
 0.0.0.0 tei.portal.crockerandwestridge.com
 :: tei.portal.crockerandwestridge.com
 0.0.0.0 teinfo.wps.cn
@@ -64441,6 +64491,8 @@
 :: vidoza.github.io
 0.0.0.0 vidoza2.github.io
 :: vidoza2.github.io
+0.0.0.0 vienquanly.edu.vn
+:: vienquanly.edu.vn
 0.0.0.0 view-doc.thaiengine.com
 :: view-doc.thaiengine.com
 0.0.0.0 view.atdmt.net
@@ -65463,6 +65515,8 @@
 :: wealth.sttrims.com
 0.0.0.0 web-ccfr.tsinghua.edu.cn
 :: web-ccfr.tsinghua.edu.cn
+0.0.0.0 web-frontend-dot-sc-analytics.appspot.com
+:: web-frontend-dot-sc-analytics.appspot.com
 0.0.0.0 web-hosting.hitslog.net
 :: web-hosting.hitslog.net
 0.0.0.0 web-t.9gag.com
@@ -68713,8 +68767,6 @@
 :: www.findstuff.com
 0.0.0.0 www.findwhatevernow.com
 :: www.findwhatevernow.com
-0.0.0.0 www.fiocchidiriso.com
-:: www.fiocchidiriso.com
 0.0.0.0 www.fioribelli.it
 :: www.fioribelli.it
 0.0.0.0 www.firebanner.com
@@ -69885,8 +69937,6 @@
 :: www.lrworld.com
 0.0.0.0 www.luarisharif.com
 :: www.luarisharif.com
-0.0.0.0 www.luce.polimi.it
-:: www.luce.polimi.it
 0.0.0.0 www.luckyday.world
 :: www.luckyday.world
 0.0.0.0 www.lucyfeed.com
@@ -71865,6 +71915,8 @@
 :: www.web-chart.de
 0.0.0.0 www.web-controlling.com
 :: www.web-controlling.com
+0.0.0.0 www.web-frontend-dot-sc-analytics.appspot.com
+:: www.web-frontend-dot-sc-analytics.appspot.com
 0.0.0.0 www.web-marketing.8m.com
 :: www.web-marketing.8m.com
 0.0.0.0 www.web.analytics.yahoo.com
