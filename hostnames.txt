@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Feb 25 05:40:03 CET 2019
+# Last update: Tue Feb 26 05:45:15 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36914
+# Number of unique hostnames: 36927
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2495,6 +2495,8 @@
 :: a.epinv.com
 0.0.0.0 a.eporner.com
 :: a.eporner.com
+0.0.0.0 a.et.nytimes.com
+:: a.et.nytimes.com
 0.0.0.0 a.evo.co.uk
 :: a.evo.co.uk
 0.0.0.0 a.exam58.com
@@ -3191,6 +3193,8 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
+0.0.0.0 abusalewm.exceltoner.com
+:: abusalewm.exceltoner.com
 0.0.0.0 ac.ajur.info
 :: ac.ajur.info
 0.0.0.0 ac.atpanel.com
@@ -13247,6 +13251,8 @@
 :: agent.tamedia.com.tw
 0.0.0.0 aggiornamento57586546464.altervista.org
 :: aggiornamento57586546464.altervista.org
+0.0.0.0 aghigh.yazdvip.ir
+:: aghigh.yazdvip.ir
 0.0.0.0 agl-intl.hotstar.com
 :: agl-intl.hotstar.com
 0.0.0.0 agl.hotstar.com
@@ -18855,6 +18861,8 @@
 :: blocks.ginotrack.com
 0.0.0.0 blog.3kingsclothing.com
 :: blog.3kingsclothing.com
+0.0.0.0 blog.aliatakay.com
+:: blog.aliatakay.com
 0.0.0.0 blog.autourdeminuit.com
 :: blog.autourdeminuit.com
 0.0.0.0 blog.berniagabagus.com
@@ -18887,6 +18895,8 @@
 :: blog.onadvertise.com
 0.0.0.0 blog.opeconsultores.es
 :: blog.opeconsultores.es
+0.0.0.0 blog.piotrszarmach.com
+:: blog.piotrszarmach.com
 0.0.0.0 blog.raw-recruits.com
 :: blog.raw-recruits.com
 0.0.0.0 blog.replacemycontacts.com
@@ -21083,6 +21093,8 @@
 :: cdn.tuto4pc.com
 0.0.0.0 cdn.usabilitytracker.com
 :: cdn.usabilitytracker.com
+0.0.0.0 cdn.userty.com
+:: cdn.userty.com
 0.0.0.0 cdn.vaguntrader.com
 :: cdn.vaguntrader.com
 0.0.0.0 cdn.vamaker.com
@@ -40011,6 +40023,8 @@
 :: m.smsquiz.pl
 0.0.0.0 m.symac.cn
 :: m.symac.cn
+0.0.0.0 m.szbabaoli.com
+:: m.szbabaoli.com
 0.0.0.0 m.tamilmalls.com
 :: m.tamilmalls.com
 0.0.0.0 m.tansuotv.com
@@ -46359,6 +46373,8 @@
 :: oz.ministryofads.com
 0.0.0.0 oz.valueclick.ne.jp
 :: oz.valueclick.ne.jp
+0.0.0.0 ozon.misatheme.com
+:: ozon.misatheme.com
 0.0.0.0 p-alpha.ooo.al
 :: p-alpha.ooo.al
 0.0.0.0 p-behacdn.ksmobile.net
@@ -49601,6 +49617,8 @@
 :: preitem.wshareit.com
 0.0.0.0 preland.softmonetize.com
 :: preland.softmonetize.com
+0.0.0.0 premaster-app-cdn.spot.im
+:: premaster-app-cdn.spot.im
 0.0.0.0 premaster-spotops.spot.im
 :: premaster-spotops.spot.im
 0.0.0.0 premaster-spoxy.spot.im
@@ -50803,6 +50821,8 @@
 :: qianclick.baidu.com
 0.0.0.0 qihbmpizoeaiwdxbtpbs.littlematchagirl.com.au
 :: qihbmpizoeaiwdxbtpbs.littlematchagirl.com.au
+0.0.0.0 qiji1.jdwx.info
+:: qiji1.jdwx.info
 0.0.0.0 qiye11.ejunshi.net
 :: qiye11.ejunshi.net
 0.0.0.0 qiyeb.iaskbus.com
@@ -58149,6 +58169,10 @@
 :: status.convertkit.com
 0.0.0.0 status.kino-dom.org
 :: status.kino-dom.org
+0.0.0.0 status.spot.im
+:: status.spot.im
+0.0.0.0 status.wpm.neustar.biz
+:: status.wpm.neustar.biz
 0.0.0.0 statystyki.panelek.com
 :: statystyki.panelek.com
 0.0.0.0 stb.eat.int.ru
@@ -63527,8 +63551,6 @@
 :: url.adtrgt.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
-0.0.0.0 urladyms.newlogiq.com
-:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -64313,6 +64335,8 @@
 :: vert349.wixsite.com
 0.0.0.0 vertical-stats.huffpost.com
 :: vertical-stats.huffpost.com
+0.0.0.0 verzeroli.outbreakm3dia.com
+:: verzeroli.outbreakm3dia.com
 0.0.0.0 vewrb.italisumo.at
 :: vewrb.italisumo.at
 0.0.0.0 vex.analytics.wildtangent.com
@@ -68727,8 +68751,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
@@ -69337,6 +69359,8 @@
 :: www.iiewl.com
 0.0.0.0 www.ijacko.net
 :: www.ijacko.net
+0.0.0.0 www.ijerd.com
+:: www.ijerd.com
 0.0.0.0 www.ilgm-deals.com
 :: www.ilgm-deals.com
 0.0.0.0 www.ilkhaberadana.com
@@ -71481,6 +71505,8 @@
 :: www.tiergestuetzt.de
 0.0.0.0 www.timefor.com
 :: www.timefor.com
+0.0.0.0 www.timelessimagesmi.com
+:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tings.com
