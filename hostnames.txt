@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Feb 26 05:45:15 CET 2019
+# Last update: Wed Feb 27 05:52:44 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36927
+# Number of unique hostnames: 36931
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -18999,6 +18999,8 @@
 :: bn.profiwin.de
 0.0.0.0 bn.sarov.info
 :: bn.sarov.info
+0.0.0.0 bn.take-profit.org
+:: bn.take-profit.org
 0.0.0.0 bn.uol.com.br
 :: bn.uol.com.br
 0.0.0.0 bn1.homefot.ru
@@ -33295,6 +33297,8 @@
 :: haunted-velocity.000webhostapp.com
 0.0.0.0 have.virtualheromessages.com
 :: have.virtualheromessages.com
+0.0.0.0 hawk.pcgamer.com
+:: hawk.pcgamer.com
 0.0.0.0 hawkz7.est.northerndishedends.com
 :: hawkz7.est.northerndishedends.com
 0.0.0.0 hayday1.visits.lt
@@ -35909,6 +35913,8 @@
 :: info.instantmixcup.com
 0.0.0.0 info.ipkvko.kz
 :: info.ipkvko.kz
+0.0.0.0 info.kugou.com
+:: info.kugou.com
 0.0.0.0 info.learningco.com
 :: info.learningco.com
 0.0.0.0 info.meiguoshenpo.com
@@ -37333,6 +37339,8 @@
 :: jssdk.beetv.net
 0.0.0.0 jssourcetest-bg.web.analytics.yahoo.com
 :: jssourcetest-bg.web.analytics.yahoo.com
+0.0.0.0 jswebcollects.kugou.com
+:: jswebcollects.kugou.com
 0.0.0.0 jsys.analogpoint.com
 :: jsys.analogpoint.com
 0.0.0.0 jt.india.com
@@ -38033,8 +38041,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -56265,6 +56271,8 @@
 :: softreadynow.thereadysetandgoforcontentprepared.trade
 0.0.0.0 softreadynow.thespaceupdatespcandmac.info
 :: softreadynow.thespaceupdatespcandmac.info
+0.0.0.0 softstat.kugou.com
+:: softstat.kugou.com
 0.0.0.0 software.avvocatoferrante.it
 :: software.avvocatoferrante.it
 0.0.0.0 software.instant-income-app.com
