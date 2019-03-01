@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Feb 28 05:43:44 CET 2019
+# Last update: Fri Mar 1 06:34:46 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36918
+# Number of unique hostnames: 36925
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3929,6 +3929,8 @@
 :: ad.donaukurier.de
 0.0.0.0 ad.doubanio.com
 :: ad.doubanio.com
+0.0.0.0 ad.doublemax.net
+:: ad.doublemax.net
 0.0.0.0 ad.download.cnet.com
 :: ad.download.cnet.com
 0.0.0.0 ad.download.net
@@ -6205,6 +6207,8 @@
 :: ads-by.yieldselect.com
 0.0.0.0 ads-chunks.prod.ihrhls.com
 :: ads-chunks.prod.ihrhls.com
+0.0.0.0 ads-cloud.rovio.com
+:: ads-cloud.rovio.com
 0.0.0.0 ads-d.viber.com
 :: ads-d.viber.com
 0.0.0.0 ads-de.spray.net
@@ -20963,6 +20967,8 @@
 :: cdn.mega-tags.com
 0.0.0.0 cdn.mercent.com
 :: cdn.mercent.com
+0.0.0.0 cdn.merklesearch.com
+:: cdn.merklesearch.com
 0.0.0.0 cdn.mingmingtehui.com
 :: cdn.mingmingtehui.com
 0.0.0.0 cdn.mobidea.com
@@ -29353,6 +29359,8 @@
 :: epzu4ebrmh.ivertiipolska.com.pl
 0.0.0.0 eqantics.freeservers.com
 :: eqantics.freeservers.com
+0.0.0.0 eqnan.megaseries.biz
+:: eqnan.megaseries.biz
 0.0.0.0 eqs-redserver.appspot.com
 :: eqs-redserver.appspot.com
 0.0.0.0 equestrian.horse-trai.horseboxes.dll-offer-items.com
@@ -32811,8 +32819,6 @@
 :: grafephot.org.za
 0.0.0.0 gram.mfdrums.com
 :: gram.mfdrums.com
-0.0.0.0 gramelis.newyorkmascot.com
-:: gramelis.newyorkmascot.com
 0.0.0.0 grandpa.thebehrs.ca
 :: grandpa.thebehrs.ca
 0.0.0.0 grant.rpof.org
@@ -48243,6 +48249,8 @@
 :: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
+0.0.0.0 phuongdanhvonghe.edu.vn
+:: phuongdanhvonghe.edu.vn
 0.0.0.0 phuttha9.beget.tech
 :: phuttha9.beget.tech
 0.0.0.0 pi-chin-cha.webcindario.com
@@ -50679,6 +50687,8 @@
 :: pxlctl.elpais.com
 0.0.0.0 pxlgnpgecom-a.akamaihd.net
 :: pxlgnpgecom-a.akamaihd.net
+0.0.0.0 pxrbl.megafilms.me
+:: pxrbl.megafilms.me
 0.0.0.0 py.da.mgtv.com
 :: py.da.mgtv.com
 0.0.0.0 pybul.bestfrozenporn.nl
@@ -52995,8 +53005,6 @@
 :: s2.play1.videos.videos.vidto.me
 0.0.0.0 s2.play1.videos.vidto.me
 :: s2.play1.videos.vidto.me
-0.0.0.0 s2.socialannex.com
-:: s2.socialannex.com
 0.0.0.0 s2.video.estream.nu
 :: s2.video.estream.nu
 0.0.0.0 s2.video2.stream.vidzi.tv
@@ -59669,6 +59677,8 @@
 :: telemetry.mozilla.org
 0.0.0.0 telemetry.nvidia.com
 :: telemetry.nvidia.com
+0.0.0.0 telemetry.remoteapp.windowsazure.com
+:: telemetry.remoteapp.windowsazure.com
 0.0.0.0 telemetry.servers.getgo.com
 :: telemetry.servers.getgo.com
 0.0.0.0 telemetry.sonarsource.com
@@ -67493,6 +67503,8 @@
 :: www.agentsplanet.com
 0.0.0.0 www.agenziasanremo.com
 :: www.agenziasanremo.com
+0.0.0.0 www.agliran.co.il
+:: www.agliran.co.il
 0.0.0.0 www.agrant.cn
 :: www.agrant.cn
 0.0.0.0 www.agrantsem.com
@@ -67835,6 +67847,8 @@
 :: www.bewaycare.com
 0.0.0.0 www.bfqnup.party
 :: www.bfqnup.party
+0.0.0.0 www.bharatinfoline.com
+:: www.bharatinfoline.com
 0.0.0.0 www.biddingx.com
 :: www.biddingx.com
 0.0.0.0 www.bidwee.com
@@ -69545,8 +69559,6 @@
 :: www.joomlalivechat.com
 0.0.0.0 www.jornalfarroupilha.com.br
 :: www.jornalfarroupilha.com.br
-0.0.0.0 www.jornalocaminho.com.br
-:: www.jornalocaminho.com.br
 0.0.0.0 www.jouwstats.nl
 :: www.jouwstats.nl
 0.0.0.0 www.jowarinzqmiak.download
@@ -69855,6 +69867,8 @@
 :: www.loansbadcredit.net.au
 0.0.0.0 www.locatorprotocol.com
 :: www.locatorprotocol.com
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
