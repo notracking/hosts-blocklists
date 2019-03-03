@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Mar 2 05:21:48 CET 2019
+# Last update: Sun Mar 3 05:26:46 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36927
+# Number of unique hostnames: 36937
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -20955,6 +20955,8 @@
 :: cdn.lmiutil.com
 0.0.0.0 cdn.lu.sogoucdn.com
 :: cdn.lu.sogoucdn.com
+0.0.0.0 cdn.m.okdd.net
+:: cdn.m.okdd.net
 0.0.0.0 cdn.mahmukhach.info
 :: cdn.mahmukhach.info
 0.0.0.0 cdn.marjmedya.com
@@ -24635,8 +24637,6 @@
 :: cxwthqm5i0iplki1smyd.maherstcottage.com.au
 0.0.0.0 cxzv260ad-system.16mb.com
 :: cxzv260ad-system.16mb.com
-0.0.0.0 cy2.settings.data.microsoft.com.akadns.net
-:: cy2.settings.data.microsoft.com.akadns.net
 0.0.0.0 cy2.vortex.data.microsoft.com.akadns.net
 :: cy2.vortex.data.microsoft.com.akadns.net
 0.0.0.0 cy41058.tmweb.ru
@@ -26005,6 +26005,8 @@
 :: d6.sinaimg.cn
 0.0.0.0 d60y8cj1tje2a.cloudfront.net
 :: d60y8cj1tje2a.cloudfront.net
+0.0.0.0 d63a3au5lqmtu.cloudfront.net
+:: d63a3au5lqmtu.cloudfront.net
 0.0.0.0 d660441.u-telcom.net
 :: d660441.u-telcom.net
 0.0.0.0 d662653.u-telcom.net
@@ -26665,6 +26667,8 @@
 :: dedicheanonime2017.altervista.org
 0.0.0.0 dedterr8.beget.tech
 :: dedterr8.beget.tech
+0.0.0.0 dee.uzyid.cn
+:: dee.uzyid.cn
 0.0.0.0 defejgwdtct.psychiatriemerima.com
 :: defejgwdtct.psychiatriemerima.com
 0.0.0.0 degree.pes.edu
@@ -28179,6 +28183,8 @@
 :: dspcm.brand.sogou.com
 0.0.0.0 dspelts.000webhostapp.com
 :: dspelts.000webhostapp.com
+0.0.0.0 dspimg.dftoutiao.com
+:: dspimg.dftoutiao.com
 0.0.0.0 dspmnt.autohome.com.cn
 :: dspmnt.autohome.com.cn
 0.0.0.0 dspserver.ad.cmvideo.cn
@@ -28539,6 +28545,8 @@
 :: e.domob.cn
 0.0.0.0 e.dunmm.com
 :: e.dunmm.com
+0.0.0.0 e.ediun.com
+:: e.ediun.com
 0.0.0.0 e.ejuen.com
 :: e.ejuen.com
 0.0.0.0 e.fbaix.com
@@ -29587,6 +29595,8 @@
 :: eu-ad.sam4m.com
 0.0.0.0 eu-ma.sam4m.com
 :: eu-ma.sam4m.com
+0.0.0.0 eu-v10.events.data.microsoft.com
+:: eu-v10.events.data.microsoft.com
 0.0.0.0 eu-v20.events.data.microsoft.com
 :: eu-v20.events.data.microsoft.com
 0.0.0.0 eu.cdn.survey.medallia.com
@@ -30605,6 +30615,8 @@
 :: ff.xue163.net
 0.0.0.0 ff.xue63.com
 :: ff.xue63.com
+0.0.0.0 ff123.hao0202.com
+:: ff123.hao0202.com
 0.0.0.0 ffb.feihuo.com
 :: ffb.feihuo.com
 0.0.0.0 ffdsarr3.beget.tech
@@ -32819,8 +32831,6 @@
 :: grafephot.org.za
 0.0.0.0 gram.mfdrums.com
 :: gram.mfdrums.com
-0.0.0.0 gramelis.newyorkmascot.com
-:: gramelis.newyorkmascot.com
 0.0.0.0 grandpa.thebehrs.ca
 :: grandpa.thebehrs.ca
 0.0.0.0 grant.rpof.org
@@ -35843,8 +35853,6 @@
 :: inent17alexe.rr.nu
 0.0.0.0 inf-team-live.epizy.com
 :: inf-team-live.epizy.com
-0.0.0.0 inference.location.live.net
-:: inference.location.live.net
 0.0.0.0 infinityid.condenastdigital.com
 :: infinityid.condenastdigital.com
 0.0.0.0 inflectionless-volt.000webhostapp.com
@@ -37143,6 +37151,8 @@
 :: js.ftp0118.info
 0.0.0.0 js.gewuwen.com
 :: js.gewuwen.com
+0.0.0.0 js.guangsss1999.com
+:: js.guangsss1999.com
 0.0.0.0 js.hkslg520.com
 :: js.hkslg520.com
 0.0.0.0 js.hsadpixel.net
@@ -38295,8 +38305,6 @@
 :: lauren9u.beget.tech
 0.0.0.0 lava.hatchfactory.in
 :: lava.hatchfactory.in
-0.0.0.0 lavoixdesmots.free.fr
-:: lavoixdesmots.free.fr
 0.0.0.0 lavonnewk.000webhostapp.com
 :: lavonnewk.000webhostapp.com
 0.0.0.0 law.dekante.ru
@@ -38975,8 +38983,6 @@
 :: localads.maps.me
 0.0.0.0 localcontent.huffingtonpost.com
 :: localcontent.huffingtonpost.com
-0.0.0.0 location-inference-westus.cloudapp.net
-:: location-inference-westus.cloudapp.net
 0.0.0.0 location.fashionises.com
 :: location.fashionises.com
 0.0.0.0 location.l.force.com
@@ -39793,6 +39799,8 @@
 :: m.du1du.org
 0.0.0.0 m.duias.com
 :: m.duias.com
+0.0.0.0 m.ediun.com
+:: m.ediun.com
 0.0.0.0 m.efeir.com
 :: m.efeir.com
 0.0.0.0 m.efeiy.com
@@ -39855,6 +39863,8 @@
 :: m.gbaog.com
 0.0.0.0 m.gglay.com
 :: m.gglay.com
+0.0.0.0 m.gjiai.com
+:: m.gjiai.com
 0.0.0.0 m.gjiaj.com
 :: m.gjiaj.com
 0.0.0.0 m.gtuoj.com
@@ -39959,6 +39969,8 @@
 :: m.nouaa.com
 0.0.0.0 m.ntxiangtai.com
 :: m.ntxiangtai.com
+0.0.0.0 m.obeip.com
+:: m.obeip.com
 0.0.0.0 m.ocenp.com
 :: m.ocenp.com
 0.0.0.0 m.oipeirates.online
@@ -42911,6 +42923,8 @@
 :: mssqladmin.surf-town.net
 0.0.0.0 mstat.zol.com.cn
 :: mstat.zol.com.cn
+0.0.0.0 msttz.tst98.com
+:: msttz.tst98.com
 0.0.0.0 msv53-sh-mortar.mschosting.com
 :: msv53-sh-mortar.mschosting.com
 0.0.0.0 msxml.info.com
@@ -45313,6 +45327,8 @@
 :: okd193.air.airporttaxievesham.co.uk
 0.0.0.0 okg8gimbac.bradul.creatory.org
 :: okg8gimbac.bradul.creatory.org
+0.0.0.0 oki.sxlczj.cn
+:: oki.sxlczj.cn
 0.0.0.0 okilo.cyber-pk.com
 :: okilo.cyber-pk.com
 0.0.0.0 okmido7n.beget.tech
@@ -48183,6 +48199,8 @@
 :: photo.video.gay.free.fr
 0.0.0.0 photo.welldex.cn
 :: photo.welldex.cn
+0.0.0.0 photo.yishuhuanbao.cn
+:: photo.yishuhuanbao.cn
 0.0.0.0 photo.yqydjr.cn
 :: photo.yqydjr.cn
 0.0.0.0 photook.vxm.pl
@@ -48253,6 +48271,8 @@
 :: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
+0.0.0.0 phuongdanhvonghe.edu.vn
+:: phuongdanhvonghe.edu.vn
 0.0.0.0 phuttha9.beget.tech
 :: phuttha9.beget.tech
 0.0.0.0 pi-chin-cha.webcindario.com
@@ -55209,8 +55229,6 @@
 :: settings-win.data.microsoft.com
 0.0.0.0 settings.data.glbdns2.microsoft.com
 :: settings.data.glbdns2.microsoft.com
-0.0.0.0 settings.data.microsoft.com
-:: settings.data.microsoft.com
 0.0.0.0 settings.luckyorange.net
 :: settings.luckyorange.net
 0.0.0.0 setupdate24.readyforucontent.review
@@ -63569,6 +63587,8 @@
 :: us-tracker.inside-graph.com
 0.0.0.0 us-ugc-aka.canal-plus.com
 :: us-ugc-aka.canal-plus.com
+0.0.0.0 us-v10.events.data.microsoft.com
+:: us-v10.events.data.microsoft.com
 0.0.0.0 us-v20.events.data.microsoft.com
 :: us-v20.events.data.microsoft.com
 0.0.0.0 us.3zs0.date
@@ -64335,8 +64355,6 @@
 :: vert349.wixsite.com
 0.0.0.0 vertical-stats.huffpost.com
 :: vertical-stats.huffpost.com
-0.0.0.0 verzeroli.outbreakm3dia.com
-:: verzeroli.outbreakm3dia.com
 0.0.0.0 vewrb.italisumo.at
 :: vewrb.italisumo.at
 0.0.0.0 vex.analytics.wildtangent.com
@@ -69105,6 +69123,8 @@
 :: www.gryjava.gsm.pl
 0.0.0.0 www.gt4ec.net
 :: www.gt4ec.net
+0.0.0.0 www.guanyitanggy.com
+:: www.guanyitanggy.com
 0.0.0.0 www.guesstheview.com
 :: www.guesstheview.com
 0.0.0.0 www.gwebspace.de
@@ -69359,8 +69379,6 @@
 :: www.iiewl.com
 0.0.0.0 www.ijacko.net
 :: www.ijacko.net
-0.0.0.0 www.ijerd.com
-:: www.ijerd.com
 0.0.0.0 www.ilgm-deals.com
 :: www.ilgm-deals.com
 0.0.0.0 www.ilkhaberadana.com
@@ -69561,8 +69579,6 @@
 :: www.joomlalivechat.com
 0.0.0.0 www.jornalfarroupilha.com.br
 :: www.jornalfarroupilha.com.br
-0.0.0.0 www.jornalocaminho.com.br
-:: www.jornalocaminho.com.br
 0.0.0.0 www.jouwstats.nl
 :: www.jouwstats.nl
 0.0.0.0 www.jowarinzqmiak.download
@@ -70931,6 +70947,8 @@
 :: www.roulettebotplus.com
 0.0.0.0 www.roxyaffiliates.com
 :: www.roxyaffiliates.com
+0.0.0.0 www.rrrwwwa.com
+:: www.rrrwwwa.com
 0.0.0.0 www.rsmtrack.com
 :: www.rsmtrack.com
 0.0.0.0 www.rsptrack.com
@@ -72937,6 +72955,8 @@
 :: xn--e1aaajzchnkg.ru.com
 0.0.0.0 xn--paypl-q5b.c11.ixsecure.com
 :: xn--paypl-q5b.c11.ixsecure.com
+0.0.0.0 xndjh.hebiz.cn
+:: xndjh.hebiz.cn
 0.0.0.0 xne1ocient87zxz.360doc.cn
 :: xne1ocient87zxz.360doc.cn
 0.0.0.0 xnotes.s-inter.com
