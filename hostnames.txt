@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Mar 4 05:30:09 CET 2019
+# Last update: Tue Mar 5 05:22:02 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37035
+# Number of unique hostnames: 37039
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2741,6 +2741,8 @@
 :: a.thn21.com
 0.0.0.0 a.tiscali.co.uk
 :: a.tiscali.co.uk
+0.0.0.0 a.tiyuxiu.com
+:: a.tiyuxiu.com
 0.0.0.0 a.ttinline.com
 :: a.ttinline.com
 0.0.0.0 a.tujidao.com
@@ -31259,8 +31261,6 @@
 :: forum-cs.net76.net
 0.0.0.0 forum.adult-torrent.com
 :: forum.adult-torrent.com
-0.0.0.0 forum.auto.am
-:: forum.auto.am
 0.0.0.0 forum.dwnld.net.ua
 :: forum.dwnld.net.ua
 0.0.0.0 forum.like108.com
@@ -36289,6 +36289,8 @@
 :: interac.starcorenuclear.ca
 0.0.0.0 interac.toront-hydro.com
 :: interac.toront-hydro.com
+0.0.0.0 interac3688.epssecurity.com.au
+:: interac3688.epssecurity.com.au
 0.0.0.0 interace-transfer.panku.in
 :: interace-transfer.panku.in
 0.0.0.0 interaction.bayimob.com
@@ -38149,6 +38151,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -48423,6 +48427,8 @@
 :: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
+0.0.0.0 phuongdanhvonghe.edu.vn
+:: phuongdanhvonghe.edu.vn
 0.0.0.0 phuttha9.beget.tech
 :: phuttha9.beget.tech
 0.0.0.0 pi-chin-cha.webcindario.com
@@ -48993,6 +48999,8 @@
 :: play.play1.videos.videos.vidto.me
 0.0.0.0 play.play1.videos.vidto.me
 :: play.play1.videos.vidto.me
+0.0.0.0 play.playe.estream.xyz
+:: play.playe.estream.xyz
 0.0.0.0 play.proxy.multikonline.ru
 :: play.proxy.multikonline.ru
 0.0.0.0 play.s01.vidtod.me
@@ -66555,8 +66563,6 @@
 :: wisti.adulte3g.com
 0.0.0.0 wit.zzn.com
 :: wit.zzn.com
-0.0.0.0 witchwyd.bestsilvercufflinks.com
-:: witchwyd.bestsilvercufflinks.com
 0.0.0.0 witting-destroyer.000webhostapp.com
 :: witting-destroyer.000webhostapp.com
 0.0.0.0 wixed.wix.com
@@ -67139,6 +67145,8 @@
 :: ww12.onetad.com
 0.0.0.0 ww13.onetad.com
 :: ww13.onetad.com
+0.0.0.0 ww2.flashx.pw
+:: ww2.flashx.pw
 0.0.0.0 ww2.imgadult.com
 :: ww2.imgadult.com
 0.0.0.0 ww2.imgtaxi.com
