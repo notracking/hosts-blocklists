@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Mar 5 05:22:02 CET 2019
+# Last update: Wed Mar 6 05:56:19 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37039
+# Number of unique hostnames: 37077
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2655,6 +2655,8 @@
 :: a.nanhuwang.com
 0.0.0.0 a.navi-gaming.com
 :: a.navi-gaming.com
+0.0.0.0 a.net-bt32.stream
+:: a.net-bt32.stream
 0.0.0.0 a.networkworld.com
 :: a.networkworld.com
 0.0.0.0 a.nonstoppartner.net
@@ -19215,6 +19217,8 @@
 :: boni2.acsdrctverlosch1.com
 0.0.0.0 bonjo.bmbsklep.pl
 :: bonjo.bmbsklep.pl
+0.0.0.0 bonobonator.vishnja.in.net
+:: bonobonator.vishnja.in.net
 0.0.0.0 bontent.powvideo.net
 :: bontent.powvideo.net
 0.0.0.0 bonus.tvmaze.com
@@ -26219,6 +26223,8 @@
 :: daima.ysdui.com
 0.0.0.0 daimaceshi.8809.cn
 :: daimaceshi.8809.cn
+0.0.0.0 dake.net.cn
+:: dake.net.cn
 0.0.0.0 dal-business-26.hostwindsdns.com
 :: dal-business-26.hostwindsdns.com
 0.0.0.0 dal-business-28.hostwindsdns.com
@@ -28621,6 +28627,8 @@
 :: e.ejuen.com
 0.0.0.0 e.fbaix.com
 :: e.fbaix.com
+0.0.0.0 e.feisia1.cn
+:: e.feisia1.cn
 0.0.0.0 e.fimky.com
 :: e.fimky.com
 0.0.0.0 e.freewebhostingarea.com
@@ -31261,6 +31269,8 @@
 :: forum-cs.net76.net
 0.0.0.0 forum.adult-torrent.com
 :: forum.adult-torrent.com
+0.0.0.0 forum.auto.am
+:: forum.auto.am
 0.0.0.0 forum.dwnld.net.ua
 :: forum.dwnld.net.ua
 0.0.0.0 forum.like108.com
@@ -32907,6 +32917,8 @@
 :: grafephot.org.za
 0.0.0.0 gram.mfdrums.com
 :: gram.mfdrums.com
+0.0.0.0 gramelis.newyorkmascot.com
+:: gramelis.newyorkmascot.com
 0.0.0.0 grandpa.thebehrs.ca
 :: grandpa.thebehrs.ca
 0.0.0.0 grant.rpof.org
@@ -37261,8 +37273,6 @@
 :: js.ftp0118.info
 0.0.0.0 js.gewuwen.com
 :: js.gewuwen.com
-0.0.0.0 js.guangsss1999.com
-:: js.guangsss1999.com
 0.0.0.0 js.hkslg520.com
 :: js.hkslg520.com
 0.0.0.0 js.hsadpixel.net
@@ -38175,6 +38185,8 @@
 :: kuzrab.maxpolezhaev.ru
 0.0.0.0 kvartira.aiq.ru
 :: kvartira.aiq.ru
+0.0.0.0 kvidal.socialgrab.no
+:: kvidal.socialgrab.no
 0.0.0.0 kvvijrmu.angelcities.com
 :: kvvijrmu.angelcities.com
 0.0.0.0 kwcdn.000dn.com
@@ -39969,6 +39981,8 @@
 :: m.fbaix.com
 0.0.0.0 m.feirs.com
 :: m.feirs.com
+0.0.0.0 m.feisia1.cn
+:: m.feisia1.cn
 0.0.0.0 m.fengwanwl.com
 :: m.fengwanwl.com
 0.0.0.0 m.fenrs.com
@@ -43849,8 +43863,6 @@
 :: news.sla.org
 0.0.0.0 news.soptv.ws
 :: news.soptv.ws
-0.0.0.0 news.xueyanshan.com
-:: news.xueyanshan.com
 0.0.0.0 newsdon01.000webhostapp.com
 :: newsdon01.000webhostapp.com
 0.0.0.0 newsfeed-sync.spot.im
@@ -46963,6 +46975,8 @@
 :: p3p.yahoo.com
 0.0.0.0 p4.dnvod.tv
 :: p4.dnvod.tv
+0.0.0.0 p48.lublin.eu
+:: p48.lublin.eu
 0.0.0.0 p4p.excite.co.jp
 :: p4p.excite.co.jp
 0.0.0.0 p4p.sina.com.cn
@@ -56537,8 +56551,6 @@
 :: sostats.mozilla.com
 0.0.0.0 sotimnehenim.pythonanywhere.com
 :: sotimnehenim.pythonanywhere.com
-0.0.0.0 sou.xanbhx.com
-:: sou.xanbhx.com
 0.0.0.0 souaid-naz.000webhostapp.com
 :: souaid-naz.000webhostapp.com
 0.0.0.0 soul.doctortoken.co.in
@@ -57137,6 +57149,8 @@
 :: startup.oupeng.com
 0.0.0.0 stast2.gq.com
 :: stast2.gq.com
+0.0.0.0 stat-c.maxthon.com
+:: stat-c.maxthon.com
 0.0.0.0 stat-counter.tass-online.ru
 :: stat-counter.tass-online.ru
 0.0.0.0 stat-y.xywy.com
@@ -57657,6 +57671,8 @@
 :: staticads.btopenworld.com
 0.0.0.0 staticb.mydirtyhobby.com
 :: staticb.mydirtyhobby.com
+0.0.0.0 staticcdn.ecootec.com
+:: staticcdn.ecootec.com
 0.0.0.0 staticpix.spin.de
 :: staticpix.spin.de
 0.0.0.0 staticrr.paleokits.net
@@ -66563,6 +66579,8 @@
 :: wisti.adulte3g.com
 0.0.0.0 wit.zzn.com
 :: wit.zzn.com
+0.0.0.0 witchwyd.bestsilvercufflinks.com
+:: witchwyd.bestsilvercufflinks.com
 0.0.0.0 witting-destroyer.000webhostapp.com
 :: witting-destroyer.000webhostapp.com
 0.0.0.0 wixed.wix.com
@@ -66805,6 +66823,8 @@
 :: wor6.b6dfnahea.ns2.name
 0.0.0.0 worden.samenresultaat.nl
 :: worden.samenresultaat.nl
+0.0.0.0 wordpress.dev.zhishiq.com
+:: wordpress.dev.zhishiq.com
 0.0.0.0 wordpress222.wordpress.com
 :: wordpress222.wordpress.com
 0.0.0.0 wordtheme.000webhostapp.com
@@ -67555,6 +67575,10 @@
 :: www.adfunkyserver.com
 0.0.0.0 www.adhexa.com
 :: www.adhexa.com
+0.0.0.0 www.adidasbuty.pl
+:: www.adidasbuty.pl
+0.0.0.0 www.adidasterrexsolo.pl
+:: www.adidasterrexsolo.pl
 0.0.0.0 www.adimages.beeb.com
 :: www.adimages.beeb.com
 0.0.0.0 www.adloader.com
@@ -67731,6 +67755,8 @@
 :: www.affiliateshowcase.com
 0.0.0.0 www.affordablewebsitetraffic.com
 :: www.affordablewebsitetraffic.com
+0.0.0.0 www.agataszupke.pl
+:: www.agataszupke.pl
 0.0.0.0 www.agentsplanet.com
 :: www.agentsplanet.com
 0.0.0.0 www.agenziasanremo.com
@@ -67759,8 +67785,12 @@
 :: www.ajalis.com
 0.0.0.0 www.akoneplatit.sk
 :: www.akoneplatit.sk
+0.0.0.0 www.akredytowane.pl
+:: www.akredytowane.pl
 0.0.0.0 www.alarif.org
 :: www.alarif.org
+0.0.0.0 www.alerter.pl
+:: www.alerter.pl
 0.0.0.0 www.alexxe.com
 :: www.alexxe.com
 0.0.0.0 www.alfapro.pl
@@ -67781,6 +67811,8 @@
 :: www.almondnetworks.com
 0.0.0.0 www.alnimrexpo.com
 :: www.alnimrexpo.com
+0.0.0.0 www.alpcity.pl
+:: www.alpcity.pl
 0.0.0.0 www.alphamedical02.fr
 :: www.alphamedical02.fr
 0.0.0.0 www.alrpost69.com
@@ -67911,6 +67943,8 @@
 :: www.armstrongsystems.bizland.com
 0.0.0.0 www.aroraeducation.com
 :: www.aroraeducation.com
+0.0.0.0 www.artandevent.pl
+:: www.artandevent.pl
 0.0.0.0 www.artisticasrl.com
 :: www.artisticasrl.com
 0.0.0.0 www.as-chwilowka.pl
@@ -68027,6 +68061,8 @@
 :: www.basecinco.com.ar
 0.0.0.0 www.battle-wowmail-us.com
 :: www.battle-wowmail-us.com
+0.0.0.0 www.bazartani.pl
+:: www.bazartani.pl
 0.0.0.0 www.bb1429.com
 :: www.bb1429.com
 0.0.0.0 www.bblacastellana.eu
@@ -68185,6 +68221,8 @@
 :: www.btf-analytics.s3.amazonaws.com
 0.0.0.0 www.buckeyecentralrailroad.org
 :: www.buckeyecentralrailroad.org
+0.0.0.0 www.bueongi.pl
+:: www.bueongi.pl
 0.0.0.0 www.bugsbanner.it
 :: www.bugsbanner.it
 0.0.0.0 www.bulletads.com
@@ -68201,6 +68239,10 @@
 :: www.bustyweb.us
 0.0.0.0 www.butterfly-media.co.uk
 :: www.butterfly-media.co.uk
+0.0.0.0 www.butyadidas.pl
+:: www.butyadidas.pl
+0.0.0.0 www.butyasicsgel.pl
+:: www.butyasicsgel.pl
 0.0.0.0 www.buwobarun.cn
 :: www.buwobarun.cn
 0.0.0.0 www.buy404s.com
@@ -68621,6 +68663,8 @@
 :: www.diediao.com
 0.0.0.0 www.dietoftoday.ca.pn
 :: www.dietoftoday.ca.pn
+0.0.0.0 www.dietovo.pl
+:: www.dietovo.pl
 0.0.0.0 www.dietsecret.ru
 :: www.dietsecret.ru
 0.0.0.0 www.diffusionpub.com
@@ -68767,8 +68811,6 @@
 :: www.eightforums.com
 0.0.0.0 www.eivamos.com
 :: www.eivamos.com
-0.0.0.0 www.ejmii.com
-:: www.ejmii.com
 0.0.0.0 www.elc.tomsk.ru
 :: www.elc.tomsk.ru
 0.0.0.0 www.elded.eu
@@ -68851,6 +68893,8 @@
 :: www.euroconcept.ro
 0.0.0.0 www.europartner.pl
 :: www.europartner.pl
+0.0.0.0 www.europeancupkyokushin.pl
+:: www.europeancupkyokushin.pl
 0.0.0.0 www.europerank.com
 :: www.europerank.com
 0.0.0.0 www.everifymatch.com
@@ -68949,6 +68993,8 @@
 :: www.filmy.porno.pl
 0.0.0.0 www.financial-advice-books.com
 :: www.financial-advice-books.com
+0.0.0.0 www.finansedladziecka.pl
+:: www.finansedladziecka.pl
 0.0.0.0 www.finanzmarkt2004.de
 :: www.finanzmarkt2004.de
 0.0.0.0 www.finclub.pl
@@ -68991,6 +69037,8 @@
 :: www.flowerxpo.top
 0.0.0.0 www.flyingcroc.com
 :: www.flyingcroc.com
+0.0.0.0 www.flyszop.pl
+:: www.flyszop.pl
 0.0.0.0 www.fmbj.science
 :: www.fmbj.science
 0.0.0.0 www.fncash.com
@@ -69011,6 +69059,8 @@
 :: www.forum.ithealth.ru
 0.0.0.0 www.fotoidea.com
 :: www.fotoidea.com
+0.0.0.0 www.fotolajt.pl
+:: www.fotolajt.pl
 0.0.0.0 www.fpcplugs.com
 :: www.fpcplugs.com
 0.0.0.0 www.fpcpopunder.com
@@ -69127,6 +69177,8 @@
 :: www.fullqurandownload.com
 0.0.0.0 www.fun-hits.de
 :: www.fun-hits.de
+0.0.0.0 www.fundacjawschodslonca.pl
+:: www.fundacjawschodslonca.pl
 0.0.0.0 www.funjokes.com
 :: www.funjokes.com
 0.0.0.0 www.funny-postcards10.home.ro
@@ -69587,6 +69639,8 @@
 :: www.imcounting.com
 0.0.0.0 www.imoviepost.com
 :: www.imoviepost.com
+0.0.0.0 www.imperiumczerniizlota.pl
+:: www.imperiumczerniizlota.pl
 0.0.0.0 www.impm.upel.edu.ve
 :: www.impm.upel.edu.ve
 0.0.0.0 www.impresadeambrosis.it
@@ -69773,6 +69827,8 @@
 :: www.joomlalivechat.com
 0.0.0.0 www.jornalfarroupilha.com.br
 :: www.jornalfarroupilha.com.br
+0.0.0.0 www.jornalocaminho.com.br
+:: www.jornalocaminho.com.br
 0.0.0.0 www.jouwstats.nl
 :: www.jouwstats.nl
 0.0.0.0 www.jowarinzqmiak.download
@@ -69921,6 +69977,8 @@
 :: www.knowinteractive.com
 0.0.0.0 www.koch-backrezepte.de
 :: www.koch-backrezepte.de
+0.0.0.0 www.kolaseum.pl
+:: www.kolaseum.pl
 0.0.0.0 www.konimkan.com
 :: www.konimkan.com
 0.0.0.0 www.konkursynagrody.pl
@@ -69947,6 +70005,8 @@
 :: www.kudifish.com
 0.0.0.0 www.kuguopush.com
 :: www.kuguopush.com
+0.0.0.0 www.kurtkiwyprzedaz.pl
+:: www.kurtkiwyprzedaz.pl
 0.0.0.0 www.kurulumtr.com
 :: www.kurulumtr.com
 0.0.0.0 www.kvr-systems.de
@@ -70025,6 +70085,8 @@
 :: www.lewderkltrw.download
 0.0.0.0 www.lexiconsahzdcver.download
 :: www.lexiconsahzdcver.download
+0.0.0.0 www.lgw500.com
+:: www.lgw500.com
 0.0.0.0 www.liangao.com
 :: www.liangao.com
 0.0.0.0 www.libo-conveyor.com
@@ -70085,8 +70147,6 @@
 :: www.loansbadcredit.net.au
 0.0.0.0 www.locatorprotocol.com
 :: www.locatorprotocol.com
-0.0.0.0 www.log-in-verlag.de
-:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -70223,6 +70283,8 @@
 :: www.medical-research-books.com
 0.0.0.0 www.medsimages.com
 :: www.medsimages.com
+0.0.0.0 www.megachiny.eu
+:: www.megachiny.eu
 0.0.0.0 www.megadownloads.info
 :: www.megadownloads.info
 0.0.0.0 www.megagiftcity.com
@@ -70295,6 +70357,8 @@
 :: www.milardi.it
 0.0.0.0 www.milesaway.oracle.cpa.clicksure.com
 :: www.milesaway.oracle.cpa.clicksure.com
+0.0.0.0 www.milletpolska.pl
+:: www.milletpolska.pl
 0.0.0.0 www.millwardbrownacsr.com
 :: www.millwardbrownacsr.com
 0.0.0.0 www.mindownload.com
@@ -70311,6 +70375,8 @@
 :: www.ministryofads.com
 0.0.0.0 www.mistrzmotywacji.pl
 :: www.mistrzmotywacji.pl
+0.0.0.0 www.mkaltenpflege24h.pl
+:: www.mkaltenpflege24h.pl
 0.0.0.0 www.mkto-panda123.music.blog
 :: www.mkto-panda123.music.blog
 0.0.0.0 www.mktrack.com
@@ -70365,8 +70431,6 @@
 :: www.moviedownloader.net
 0.0.0.0 www.moviestarplanethack.info
 :: www.moviestarplanethack.info
-0.0.0.0 www.movingtransfer.com
-:: www.movingtransfer.com
 0.0.0.0 www.mp-mail.nl
 :: www.mp-mail.nl
 0.0.0.0 www.mp3downloadhq.com
@@ -70511,6 +70575,10 @@
 :: www.ngads.com
 0.0.0.0 www.nicheads.com
 :: www.nicheads.com
+0.0.0.0 www.nikeairmaxjewell.pl
+:: www.nikeairmaxjewell.pl
+0.0.0.0 www.nikehuarache.pl
+:: www.nikehuarache.pl
 0.0.0.0 www.nikey.cn
 :: www.nikey.cn
 0.0.0.0 www.nine2rack.in
@@ -70847,6 +70915,8 @@
 :: www.popupsearch.com
 0.0.0.0 www.popuptrafic.com
 :: www.popuptrafic.com
+0.0.0.0 www.poradniaszczecin.pl
+:: www.poradniaszczecin.pl
 0.0.0.0 www.poricaci.wz.cz
 :: www.poricaci.wz.cz
 0.0.0.0 www.pornagraphy.com
@@ -71023,6 +71093,8 @@
 :: www.rackshack-affiliates.net
 0.0.0.0 www.rainbow.pl
 :: www.rainbow.pl
+0.0.0.0 www.ralphlaurenskleponline.pl
+:: www.ralphlaurenskleponline.pl
 0.0.0.0 www.ranchapptag.com
 :: www.ranchapptag.com
 0.0.0.0 www.random-logic.com
@@ -71187,6 +71259,10 @@
 :: www.salesonline.ie
 0.0.0.0 www.salldo.de
 :: www.salldo.de
+0.0.0.0 www.salomonsklep.online
+:: www.salomonsklep.online
+0.0.0.0 www.salomonwyprzedaz.pl
+:: www.salomonwyprzedaz.pl
 0.0.0.0 www.samsclub33.pochta.ru
 :: www.samsclub33.pochta.ru
 0.0.0.0 www.sankyo.gr.jp
@@ -71371,6 +71447,8 @@
 :: www.smfads.com
 0.0.0.0 www.smspop.com
 :: www.smspop.com
+0.0.0.0 www.sneakervclub.com
+:: www.sneakervclub.com
 0.0.0.0 www.snuggharbor.net
 :: www.snuggharbor.net
 0.0.0.0 www.sociallypublish.com
@@ -73833,8 +73911,6 @@
 :: zee.cws.conviva.com
 0.0.0.0 zeewong86.000webhostapp.com
 :: zeewong86.000webhostapp.com
-0.0.0.0 zejotyke.boxhost.me
-:: zejotyke.boxhost.me
 0.0.0.0 zejrzyj-zdjecia.bo.pl
 :: zejrzyj-zdjecia.bo.pl
 0.0.0.0 zen-test.yandex.ru
