@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Mar 8 06:26:49 CET 2019
+# Last update: Sat Mar 9 05:34:36 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37070
+# Number of unique hostnames: 37041
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -643,6 +643,8 @@
 :: 27lelchgcvs2wpm7.xkfi59.top
 0.0.0.0 27lelchgcvs2wpm7.xmvr54.top
 :: 27lelchgcvs2wpm7.xmvr54.top
+0.0.0.0 28.securefinds2.com
+:: 28.securefinds2.com
 0.0.0.0 283.laobanfa.com
 :: 283.laobanfa.com
 0.0.0.0 290684.en.world-stone.com
@@ -2871,6 +2873,8 @@
 :: a1.peoplecdn.cn
 0.0.0.0 a1.qqjay.com
 :: a1.qqjay.com
+0.0.0.0 a1.seadform.net
+:: a1.seadform.net
 0.0.0.0 a1.security-next.com
 :: a1.security-next.com
 0.0.0.0 a1.sumiaowang.com
@@ -6123,6 +6127,8 @@
 :: adopt.kutekitten.com
 0.0.0.0 adopt.precisead.com
 :: adopt.precisead.com
+0.0.0.0 adoramatracksdk.optimove.net
+:: adoramatracksdk.optimove.net
 0.0.0.0 adp.atm.youku.com
 :: adp.atm.youku.com
 0.0.0.0 adp.cnki.net
@@ -7441,8 +7447,6 @@
 :: ads.eudora.com
 0.0.0.0 ads.eunanoticias.com
 :: ads.eunanoticias.com
-0.0.0.0 ads.eurogamer.net
-:: ads.eurogamer.net
 0.0.0.0 ads.eurogrand.com
 :: ads.eurogrand.com
 0.0.0.0 ads.euselect.com
@@ -10285,8 +10289,6 @@
 :: ads.xlxtra.com
 0.0.0.0 ads.xposed.com
 :: ads.xposed.com
-0.0.0.0 ads.xprofiles.com
-:: ads.xprofiles.com
 0.0.0.0 ads.xserv.net
 :: ads.xserv.net
 0.0.0.0 ads.xtac.com
@@ -10339,8 +10341,6 @@
 :: ads.youtube.com
 0.0.0.0 ads.yupimsn.com
 :: ads.yupimsn.com
-0.0.0.0 ads.yvmads.com
-:: ads.yvmads.com
 0.0.0.0 ads.z-quest.com
 :: ads.z-quest.com
 0.0.0.0 ads.zajenata.bg
@@ -12493,8 +12493,6 @@
 :: advertising.ezanga.com
 0.0.0.0 advertising.finditt.com
 :: advertising.finditt.com
-0.0.0.0 advertising.fussball-liveticker.eu
-:: advertising.fussball-liveticker.eu
 0.0.0.0 advertising.gammae.com
 :: advertising.gammae.com
 0.0.0.0 advertising.gawker.com
@@ -15715,6 +15713,8 @@
 :: aquarius-heel.000webhostapp.com
 0.0.0.0 aquiwef22.esy.es
 :: aquiwef22.esy.es
+0.0.0.0 ar.mytrack.pro
+:: ar.mytrack.pro
 0.0.0.0 arabiantrade.000webhostapp.com
 :: arabiantrade.000webhostapp.com
 0.0.0.0 arabic-offenses.000webhostapp.com
@@ -16157,8 +16157,6 @@
 :: attenione.x24hr.com
 0.0.0.0 attilah33.000webhostapp.com
 :: attilah33.000webhostapp.com
-0.0.0.0 attribution.webmarketing123.com
-:: attribution.webmarketing123.com
 0.0.0.0 attributiontrackingga.googlecode.com
 :: attributiontrackingga.googlecode.com
 0.0.0.0 attt.mppl.pk
@@ -18283,6 +18281,8 @@
 :: bdasd.chinabig.com.cn
 0.0.0.0 bdasd.wmxa.cn
 :: bdasd.wmxa.cn
+0.0.0.0 bdcm.kandianla.com
+:: bdcm.kandianla.com
 0.0.0.0 bdcode.2345.com
 :: bdcode.2345.com
 0.0.0.0 bdcode.35d1.com
@@ -18447,8 +18447,6 @@
 :: beacon.kmi-us.com
 0.0.0.0 beacon.lycos.com
 :: beacon.lycos.com
-0.0.0.0 beacon.mediahuis.be
-:: beacon.mediahuis.be
 0.0.0.0 beacon.mtgx.tv
 :: beacon.mtgx.tv
 0.0.0.0 beacon.netflix.com
@@ -20687,6 +20685,8 @@
 :: cdn-social.janrain.com
 0.0.0.0 cdn-staging.convertkit.com
 :: cdn-staging.convertkit.com
+0.0.0.0 cdn-v3.conductrics.com
+:: cdn-v3.conductrics.com
 0.0.0.0 cdn.0i-i0.com
 :: cdn.0i-i0.com
 0.0.0.0 cdn.2app.lk
@@ -23331,6 +23331,8 @@
 :: company.1ps.ru
 0.0.0.0 company.aozora.nagoya
 :: company.aozora.nagoya
+0.0.0.0 companyreviews.serveftp.com
+:: companyreviews.serveftp.com
 0.0.0.0 compass.automotiveeventregistration.com
 :: compass.automotiveeventregistration.com
 0.0.0.0 compatexchange.cloudapp.net
@@ -23821,8 +23823,6 @@
 :: count.timedg.com
 0.0.0.0 count.video.sina.com.cn
 :: count.video.sina.com.cn
-0.0.0.0 count.vivistats.com
-:: count.vivistats.com
 0.0.0.0 count.vrs.sohu.com
 :: count.vrs.sohu.com
 0.0.0.0 count.west263.com
@@ -26511,8 +26511,6 @@
 :: dc.cp21.ott.cibntv.net
 0.0.0.0 dc.csdn.net
 :: dc.csdn.net
-0.0.0.0 dc.kaboodle.com
-:: dc.kaboodle.com
 0.0.0.0 dc.letv.com
 :: dc.letv.com
 0.0.0.0 dc.liuliang100.com
@@ -26813,8 +26811,6 @@
 :: delivery.playtem.com
 0.0.0.0 delivery.porn.com
 :: delivery.porn.com
-0.0.0.0 delivery.switch.whatculture.com
-:: delivery.switch.whatculture.com
 0.0.0.0 delivery.thebloggernetwork.com
 :: delivery.thebloggernetwork.com
 0.0.0.0 delivery.uauniverse.com
@@ -28427,8 +28423,6 @@
 :: dwn.pushtraffic.net
 0.0.0.0 dwqe0j5428eu5.cloudfront.net
 :: dwqe0j5428eu5.cloudfront.net
-0.0.0.0 dws.reporting.dnitv.com
-:: dws.reporting.dnitv.com
 0.0.0.0 dwtrack.qidian.com
 :: dwtrack.qidian.com
 0.0.0.0 dwtracking.sdo.com
@@ -30587,8 +30581,6 @@
 :: fe.lea.lycos.de
 0.0.0.0 fe.lea.lycos.es
 :: fe.lea.lycos.es
-0.0.0.0 fe.lea.spray.se
-:: fe.lea.spray.se
 0.0.0.0 featured.perfectionholic.com
 :: featured.perfectionholic.com
 0.0.0.0 february2018.atspace.cc
@@ -32275,6 +32267,8 @@
 :: geoip-lookup.vice.com
 0.0.0.0 geoip.al.com
 :: geoip.al.com
+0.0.0.0 geoip.businessinsider.com
+:: geoip.businessinsider.com
 0.0.0.0 geoip.edagames.com
 :: geoip.edagames.com
 0.0.0.0 geoip.fotoable.net
@@ -33507,8 +33501,6 @@
 :: helal.net.bd
 0.0.0.0 helesouurusa.cjb.com
 :: helesouurusa.cjb.com
-0.0.0.0 helios.finn.no
-:: helios.finn.no
 0.0.0.0 helios.fvn.no
 :: helios.fvn.no
 0.0.0.0 hellefrank100.000webhostapp.com
@@ -35547,8 +35539,6 @@
 :: img.nameintel.com
 0.0.0.0 img.neogen.ro
 :: img.neogen.ro
-0.0.0.0 img.network.affiliando.com
-:: img.network.affiliando.com
 0.0.0.0 img.oraohui.cn
 :: img.oraohui.cn
 0.0.0.0 img.parked.ru
@@ -38343,8 +38333,6 @@
 :: lampunggeh.or.id
 0.0.0.0 lanazione.quotidiano.net
 :: lanazione.quotidiano.net
-0.0.0.0 land.pckeeper.software
-:: land.pckeeper.software
 0.0.0.0 land.purifier.cc
 :: land.purifier.cc
 0.0.0.0 landing.hostmerchantservices.com
@@ -38421,6 +38409,8 @@
 :: lauren9u.beget.tech
 0.0.0.0 lava.hatchfactory.in
 :: lava.hatchfactory.in
+0.0.0.0 lavoixdesmots.free.fr
+:: lavoixdesmots.free.fr
 0.0.0.0 lavonnewk.000webhostapp.com
 :: lavonnewk.000webhostapp.com
 0.0.0.0 law.dekante.ru
@@ -41789,8 +41779,6 @@
 :: metrics.hbonow.com
 0.0.0.0 metrics.health.com
 :: metrics.health.com
-0.0.0.0 metrics.hhgregg.com
-:: metrics.hhgregg.com
 0.0.0.0 metrics.homebase.co.uk
 :: metrics.homebase.co.uk
 0.0.0.0 metrics.hoovers.com
@@ -42811,8 +42799,6 @@
 :: monitor.uu.qq.com
 0.0.0.0 monitor.wpm.neustar.biz
 :: monitor.wpm.neustar.biz
-0.0.0.0 monitoring.profi-webhosting.cz
-:: monitoring.profi-webhosting.cz
 0.0.0.0 monster.idsoftware.com
 :: monster.idsoftware.com
 0.0.0.0 montezuma.spb.ru
@@ -44941,8 +44927,6 @@
 :: oascentral.herenb.com
 0.0.0.0 oascentral.hispanicbusiness.com
 :: oascentral.hispanicbusiness.com
-0.0.0.0 oascentral.hitfix.com
-:: oascentral.hitfix.com
 0.0.0.0 oascentral.hollywood.com
 :: oascentral.hollywood.com
 0.0.0.0 oascentral.hosted.ap.org
@@ -45573,8 +45557,6 @@
 :: omni.csc.com
 0.0.0.0 omni.dispatch.com
 :: omni.dispatch.com
-0.0.0.0 omni.focus.de
-:: omni.focus.de
 0.0.0.0 omni.holidaycheck.com
 :: omni.holidaycheck.com
 0.0.0.0 omni.holidaycheck.de
@@ -45841,8 +45823,6 @@
 :: oovqsvi.angelcities.com
 0.0.0.0 oowhe.frost-electric-supply.com
 :: oowhe.frost-electric-supply.com
-0.0.0.0 op.standartnews.com
-:: op.standartnews.com
 0.0.0.0 oparatoeur5574.operator360mobile.com
 :: oparatoeur5574.operator360mobile.com
 0.0.0.0 opcwdns.opcw.nl
@@ -46609,8 +46589,6 @@
 :: p.sdu8cvc.com
 0.0.0.0 p.searchmission.com
 :: p.searchmission.com
-0.0.0.0 p.securedownload01.com
-:: p.securedownload01.com
 0.0.0.0 p.srv2trkk.com
 :: p.srv2trkk.com
 0.0.0.0 p.t-online.de
@@ -47067,8 +47045,6 @@
 :: pagerank.g-easy.hu
 0.0.0.0 pagerank.jklir.net
 :: pagerank.jklir.net
-0.0.0.0 pagerank.scambiositi.com
-:: pagerank.scambiositi.com
 0.0.0.0 pages-actv2016.twomini.com
 :: pages-actv2016.twomini.com
 0.0.0.0 pages-advertment-suppor-facebook.16mb.com
@@ -48585,8 +48561,6 @@
 :: ping.getadblock.com
 0.0.0.0 ping.pinyin.sogou.com
 :: ping.pinyin.sogou.com
-0.0.0.0 ping.qbaka.net
-:: ping.qbaka.net
 0.0.0.0 ping.weiduofan.com
 :: ping.weiduofan.com
 0.0.0.0 ping.xlmc.sandai.net
@@ -50043,8 +50017,6 @@
 :: promo.freecamstars.com
 0.0.0.0 promo.freshdirect.com
 :: promo.freshdirect.com
-0.0.0.0 promo.hdvbucks.com
-:: promo.hdvbucks.com
 0.0.0.0 promo.indecentes-voisines.com
 :: promo.indecentes-voisines.com
 0.0.0.0 promo.intuitext.ro
@@ -51847,8 +51819,6 @@
 :: redirect.site50.net
 0.0.0.0 redirect.todayreward.net
 :: redirect.todayreward.net
-0.0.0.0 redirect.tracking202.com
-:: redirect.tracking202.com
 0.0.0.0 redirect.wister.biz
 :: redirect.wister.biz
 0.0.0.0 redirect.xmladfeed.com
@@ -57029,6 +56999,8 @@
 :: st.a-link.co.kr
 0.0.0.0 st.acstnst.com
 :: st.acstnst.com
+0.0.0.0 st.chatango.com
+:: st.chatango.com
 0.0.0.0 st.fanatics.com
 :: st.fanatics.com
 0.0.0.0 st.holalauncher.com
@@ -60511,8 +60483,6 @@
 :: toolspro.indecentes-voisines.com
 0.0.0.0 top-fwz1.mail.ru
 :: top-fwz1.mail.ru
-0.0.0.0 top.c-stat.eu
-:: top.c-stat.eu
 0.0.0.0 top.chebra.lt
 :: top.chebra.lt
 0.0.0.0 top.dating.lt
@@ -61407,8 +61377,6 @@
 :: track.wildblue.com
 0.0.0.0 track.written.com
 :: track.written.com
-0.0.0.0 track.www.zazzle.com
-:: track.www.zazzle.com
 0.0.0.0 track.xapads.com
 :: track.xapads.com
 0.0.0.0 track.xmax.jp
@@ -61717,8 +61685,6 @@
 :: tracking.4v4jfe79erfxfu8z8.com
 0.0.0.0 tracking.aatkit.com
 :: tracking.aatkit.com
-0.0.0.0 tracking.absolstats.com
-:: tracking.absolstats.com
 0.0.0.0 tracking.acekoala.com
 :: tracking.acekoala.com
 0.0.0.0 tracking.acs529.com
@@ -64715,8 +64681,6 @@
 :: view.jamba.de
 0.0.0.0 view.netrams.com
 :: view.netrams.com
-0.0.0.0 view.network.affiliando.com
-:: view.network.affiliando.com
 0.0.0.0 view.popupsponsor.com
 :: view.popupsponsor.com
 0.0.0.0 view.protect.docxls.arabiantentuae.com
@@ -64843,8 +64807,6 @@
 :: visualdna-widgets.mirror.co.uk
 0.0.0.0 visualscience.external.bbc.co.uk
 :: visualscience.external.bbc.co.uk
-0.0.0.0 vitals.tracking.mdxdata.com
-:: vitals.tracking.mdxdata.com
 0.0.0.0 vitaly.agricolacolhue.cl
 :: vitaly.agricolacolhue.cl
 0.0.0.0 vitamin-protection.forumotion.com
@@ -65681,8 +65643,6 @@
 :: wb.gtimg.com
 0.0.0.0 wb.interpolls.com
 :: wb.interpolls.com
-0.0.0.0 wba.wirtschaftsblatt.at
-:: wba.wirtschaftsblatt.at
 0.0.0.0 wbads.vo.llnwd.net
 :: wbads.vo.llnwd.net
 0.0.0.0 wbapp.mobile.sina.cn
@@ -68147,8 +68107,6 @@
 :: www.blogcatalog.com
 0.0.0.0 www.blogonur.com
 :: www.blogonur.com
-0.0.0.0 www.blogtoplist.com
-:: www.blogtoplist.com
 0.0.0.0 www.blowadvertising.com
 :: www.blowadvertising.com
 0.0.0.0 www.blowjobsonline.com
@@ -68725,12 +68683,16 @@
 :: www.drawnsex.com
 0.0.0.0 www.drb.pl
 :: www.drb.pl
+0.0.0.0 www.dreamboxturk.com
+:: www.dreamboxturk.com
 0.0.0.0 www.drmehul.in
 :: www.drmehul.in
 0.0.0.0 www.dt1blog.com
 :: www.dt1blog.com
 0.0.0.0 www.duiba.com.cn
 :: www.duiba.com.cn
+0.0.0.0 www.dulceselsombreron.com
+:: www.dulceselsombreron.com
 0.0.0.0 www.duolaimi.net
 :: www.duolaimi.net
 0.0.0.0 www.dutchsales.org
@@ -69395,8 +69357,6 @@
 :: www.hentaigratuit.com
 0.0.0.0 www.herbalife.pl
 :: www.herbalife.pl
-0.0.0.0 www.herbalsmokeshops.com
-:: www.herbalsmokeshops.com
 0.0.0.0 www.herborizeabruj.download
 :: www.herborizeabruj.download
 0.0.0.0 www.herdsgtqbsn.download
@@ -69513,8 +69473,6 @@
 :: www.hotelnatali.ru
 0.0.0.0 www.hotranks.com
 :: www.hotranks.com
-0.0.0.0 www.htmate2.com
-:: www.htmate2.com
 0.0.0.0 www.html-email-marketing.com
 :: www.html-email-marketing.com
 0.0.0.0 www.https-paypal-com.tk
@@ -70513,8 +70471,6 @@
 :: www.naturesunshine.com
 0.0.0.0 www.naughty-traffic.com
 :: www.naughty-traffic.com
-0.0.0.0 www.nbcsearch.com
-:: www.nbcsearch.com
 0.0.0.0 www.nbyuxin.com
 :: www.nbyuxin.com
 0.0.0.0 www.ncsreporting.com
@@ -70597,8 +70553,6 @@
 :: www.novelsys.co
 0.0.0.0 www.nowa.k-link-poland.pl
 :: www.nowa.k-link-poland.pl
-0.0.0.0 www.nowgifttown.com
-:: www.nowgifttown.com
 0.0.0.0 www.nowstat.com
 :: www.nowstat.com
 0.0.0.0 www.npcdn1.now.sh
@@ -70677,8 +70631,6 @@
 :: www.online.sh.cn
 0.0.0.0 www.onlinespielbank.com
 :: www.onlinespielbank.com
-0.0.0.0 www.onlinewebservice3.de
-:: www.onlinewebservice3.de
 0.0.0.0 www.only-dates.de
 :: www.only-dates.de
 0.0.0.0 www.onlyfavorite.com
@@ -70843,8 +70795,6 @@
 :: www.pixel.interactivesales.ru
 0.0.0.0 www.pixel.surpasshosting.com
 :: www.pixel.surpasshosting.com
-0.0.0.0 www.pixelpmm.info
-:: www.pixelpmm.info
 0.0.0.0 www.pixels.asia
 :: www.pixels.asia
 0.0.0.0 www.pizzachezmichel.com
@@ -70861,8 +70811,6 @@
 :: www.pj550077.com
 0.0.0.0 www.placehold.it
 :: www.placehold.it
-0.0.0.0 www.platinumbucks.com
-:: www.platinumbucks.com
 0.0.0.0 www.plug-media.com
 :: www.plug-media.com
 0.0.0.0 www.plus500.com
@@ -71335,8 +71283,6 @@
 :: www.servertasarimbu.com
 0.0.0.0 www.sexegratis.com
 :: www.sexegratis.com
-0.0.0.0 www.sexfind.com
-:: www.sexfind.com
 0.0.0.0 www.sexgame.co
 :: www.sexgame.co
 0.0.0.0 www.sextronix.com
@@ -71663,8 +71609,6 @@
 :: www.taichang.co.kr
 0.0.0.0 www.talentbroker.net
 :: www.talentbroker.net
-0.0.0.0 www.tangabilder.to
-:: www.tangabilder.to
 0.0.0.0 www.tanger.com.br
 :: www.tanger.com.br
 0.0.0.0 www.tangibledownload.com
@@ -71809,8 +71753,6 @@
 :: www.toolbarcounter.com
 0.0.0.0 www.top-rank.pl
 :: www.top-rank.pl
-0.0.0.0 www.top1.ro
-:: www.top1.ro
 0.0.0.0 www.top100.lt
 :: www.top100.lt
 0.0.0.0 www.top100.ro
