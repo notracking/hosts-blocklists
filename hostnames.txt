@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Mar 13 05:50:24 CET 2019
+# Last update: Thu Mar 14 05:32:26 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37170
+# Number of unique hostnames: 37175
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -211,8 +211,6 @@
 :: 1.i1766.com
 0.0.0.0 1.im.cz
 :: 1.im.cz
-0.0.0.0 1.jacago.com
-:: 1.jacago.com
 0.0.0.0 1.jeasyui.net
 :: 1.jeasyui.net
 0.0.0.0 1.jiqie.cn
@@ -14689,6 +14687,8 @@
 :: antiga.cinemaencurs.org
 0.0.0.0 antithetic-polls.000webhostapp.com
 :: antithetic-polls.000webhostapp.com
+0.0.0.0 anton.dev1.fromun.is
+:: anton.dev1.fromun.is
 0.0.0.0 antonyme-dictionnaire-improvement.effers.com
 :: antonyme-dictionnaire-improvement.effers.com
 0.0.0.0 antonyme-dictionnaire-improvement.flnet.org
@@ -31965,6 +31965,8 @@
 :: gao.ynet.com
 0.0.0.0 gardinotec.ind.br
 :: gardinotec.ind.br
+0.0.0.0 garo.org.tr
+:: garo.org.tr
 0.0.0.0 gas.data.pplive.com
 :: gas.data.pplive.com
 0.0.0.0 gasasthe.freehostia.com
@@ -32459,6 +32461,8 @@
 :: gg.cs090.com
 0.0.0.0 gg.egouz.com
 :: gg.egouz.com
+0.0.0.0 gg.g9mi6.com
+:: gg.g9mi6.com
 0.0.0.0 gg.gao7.com
 :: gg.gao7.com
 0.0.0.0 gg.getbs.com
@@ -34177,6 +34181,8 @@
 :: hk2wns1.wns.windows.com
 0.0.0.0 hk2wns1b.wns.windows.com
 :: hk2wns1b.wns.windows.com
+0.0.0.0 hkt777.ddns.net
+:: hkt777.ddns.net
 0.0.0.0 hl.kuzu.com
 :: hl.kuzu.com
 0.0.0.0 hljdnserror1.wo.com.cn
@@ -39599,6 +39605,8 @@
 :: looky.hyves.org
 0.0.0.0 lootloo.net23.net
 :: lootloo.net23.net
+0.0.0.0 lopxe.itvina.co
+:: lopxe.itvina.co
 0.0.0.0 lorain77.mystagingwebsite.com
 :: lorain77.mystagingwebsite.com
 0.0.0.0 los.reconm.looks-recon-get.com
@@ -47475,6 +47483,8 @@
 :: pas.private4.com
 0.0.0.0 pasaz.goryonline.com
 :: pasaz.goryonline.com
+0.0.0.0 pasca-ip.unri.ac.id
+:: pasca-ip.unri.ac.id
 0.0.0.0 pass-nepal.org.np
 :: pass-nepal.org.np
 0.0.0.0 pass1.soogif.com
@@ -53185,8 +53195,6 @@
 :: s1-a2.dnvod.tv
 0.0.0.0 s1-a3.dnvod.tv
 :: s1-a3.dnvod.tv
-0.0.0.0 s1-a4.dnvod.tv
-:: s1-a4.dnvod.tv
 0.0.0.0 s1.cmfu.com
 :: s1.cmfu.com
 0.0.0.0 s1.dapenti.com
@@ -68075,6 +68083,8 @@
 :: www.api.ad.intl.xiaomi.com
 0.0.0.0 www.api.convertkit.com
 :: www.api.convertkit.com
+0.0.0.0 www.apmc.com.hk
+:: www.apmc.com.hk
 0.0.0.0 www.app.convertkit.com
 :: www.app.convertkit.com
 0.0.0.0 www.appafile.com
