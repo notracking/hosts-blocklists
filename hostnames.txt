@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Mar 15 06:46:59 CET 2019
+# Last update: Sat Mar 16 05:23:49 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37188
+# Number of unique hostnames: 37191
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -4309,8 +4309,6 @@
 :: ad.jiemian.com
 0.0.0.0 ad.jmg.com
 :: ad.jmg.com
-0.0.0.0 ad.joinaxxess.com
-:: ad.joinaxxess.com
 0.0.0.0 ad.jokeroo.com
 :: ad.jokeroo.com
 0.0.0.0 ad.jorte.com
@@ -23159,6 +23157,8 @@
 :: cobradvh.beget.tech
 0.0.0.0 cobrands.mailermailer.com
 :: cobrands.mailermailer.com
+0.0.0.0 cobrowse.mypurecloud.com
+:: cobrowse.mypurecloud.com
 0.0.0.0 cobrowse.oraclecloud.com
 :: cobrowse.oraclecloud.com
 0.0.0.0 cocoawu.b0.upaiyun.com
@@ -33051,6 +33051,8 @@
 :: gserv.cneteu.net
 0.0.0.0 gserv.zdnet.co.uk
 :: gserv.zdnet.co.uk
+0.0.0.0 gsimon.edu.free.fr
+:: gsimon.edu.free.fr
 0.0.0.0 gsiworld.neostrada.pl
 :: gsiworld.neostrada.pl
 0.0.0.0 gsm-mobile-phone.beesearch.info
@@ -35895,6 +35897,8 @@
 :: impservice2.youdao.com
 0.0.0.0 imrankhan.web.pk
 :: imrankhan.web.pk
+0.0.0.0 imshopping.rediff.com
+:: imshopping.rediff.com
 0.0.0.0 imtrk.trktoo.com
 :: imtrk.trktoo.com
 0.0.0.0 imupdate.3g.cn
@@ -41591,6 +41595,8 @@
 :: metric.inetcore.com
 0.0.0.0 metric.infoworld.com
 :: metric.infoworld.com
+0.0.0.0 metric.kirklands.com
+:: metric.kirklands.com
 0.0.0.0 metric.kleientertainment.com
 :: metric.kleientertainment.com
 0.0.0.0 metric.makemytrip.com
@@ -73365,8 +73371,6 @@
 :: xifpnixy.cz.cc
 0.0.0.0 ximdav.bplaced.net
 :: ximdav.bplaced.net
-0.0.0.0 xiny.yssbi.net
-:: xiny.yssbi.net
 0.0.0.0 xizfabexzexy.hol.es
 :: xizfabexzexy.hol.es
 0.0.0.0 xj.eh456yje4.pw
@@ -74317,6 +74321,8 @@
 :: ztrpm.lu.sogou.com
 0.0.0.0 ztuw5bvuuapzdfya.klimbim.pl
 :: ztuw5bvuuapzdfya.klimbim.pl
+0.0.0.0 ztyumn.ifeng.com
+:: ztyumn.ifeng.com
 0.0.0.0 zuimeitianqi.inveno.com
 :: zuimeitianqi.inveno.com
 0.0.0.0 zum.mudmaggot.com
