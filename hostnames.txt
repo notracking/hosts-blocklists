@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Mar 17 05:28:13 CET 2019
+# Last update: Mon Mar 18 05:26:30 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37192
+# Number of unique hostnames: 37161
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -381,6 +381,8 @@
 :: 1278725189.pub.ezanga.com
 0.0.0.0 12bmkg.est.northerndishedends.com
 :: 12bmkg.est.northerndishedends.com
+0.0.0.0 12qkm.r.ah.d.sendibm4.com
+:: 12qkm.r.ah.d.sendibm4.com
 0.0.0.0 13023.url.7wkw.com
 :: 13023.url.7wkw.com
 0.0.0.0 131922.131.links4trade.com
@@ -3105,8 +3107,6 @@
 :: ab159015.adbutler-zilon.com
 0.0.0.0 ab163949.adbutler-kaon.com
 :: ab163949.adbutler-kaon.com
-0.0.0.0 aba-staging.devstage.in
-:: aba-staging.devstage.in
 0.0.0.0 ababy.dragon.uaezvcvs.tk
 :: ababy.dragon.uaezvcvs.tk
 0.0.0.0 abakus.freenet.de
@@ -14519,6 +14519,8 @@
 :: analytics.yahoo.com
 0.0.0.0 analytics.yam.com
 :: analytics.yam.com
+0.0.0.0 analytics.yeniakit.com.tr
+:: analytics.yeniakit.com.tr
 0.0.0.0 analytics.yola.net
 :: analytics.yola.net
 0.0.0.0 analytics.yolacdn.net
@@ -16301,6 +16303,8 @@
 :: avast.d0wnloadz.net
 0.0.0.0 avban.av.by
 :: avban.av.by
+0.0.0.0 avis2018.cherrydemoserver10.com
+:: avis2018.cherrydemoserver10.com
 0.0.0.0 avishkainduwara1998.000webhostapp.com
 :: avishkainduwara1998.000webhostapp.com
 0.0.0.0 avpa.dzone.com
@@ -22803,8 +22807,6 @@
 :: clkstat.qihoo.com
 0.0.0.0 clktrk.display.io
 :: clktrk.display.io
-0.0.0.0 clock.noixun.com
-:: clock.noixun.com
 0.0.0.0 clog.go.com
 :: clog.go.com
 0.0.0.0 close.cellphonesglobal.com
@@ -23535,8 +23537,6 @@
 :: connectsecureauth.000webhostapp.com
 0.0.0.0 conquer.wybconsultores.cl
 :: conquer.wybconsultores.cl
-0.0.0.0 consent.cookiebot.com
-:: consent.cookiebot.com
 0.0.0.0 conservational-book.000webhostapp.com
 :: conservational-book.000webhostapp.com
 0.0.0.0 considered.fdns.uk
@@ -24435,8 +24435,6 @@
 :: crosspromotion.ubi.com
 0.0.0.0 crosspromotion.weplayer.cc
 :: crosspromotion.weplayer.cc
-0.0.0.0 crowdsensing.univ-lr.fr
-:: crowdsensing.univ-lr.fr
 0.0.0.0 crs.baidu.com
 :: crs.baidu.com
 0.0.0.0 crsteswo.beget.tech
@@ -25727,6 +25725,8 @@
 :: d31807xkria1x4.cloudfront.net
 0.0.0.0 d31bfnnwekbny6.cloudfront.net
 :: d31bfnnwekbny6.cloudfront.net
+0.0.0.0 d31nb97nd8ha11.cloudfront.net
+:: d31nb97nd8ha11.cloudfront.net
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
 :: d31qbv1cthcecs.cloudfront.net
 0.0.0.0 d32pxqbknuxsuy.cloudfront.net
@@ -27705,8 +27705,6 @@
 :: doccu.000webhostapp.com
 0.0.0.0 docj27ko03fnu.cloudfront.net
 :: docj27ko03fnu.cloudfront.net
-0.0.0.0 docs.crazycafe.net
-:: docs.crazycafe.net
 0.0.0.0 docsign.libra.id
 :: docsign.libra.id
 0.0.0.0 docsiign.ladyofelegance.net
@@ -29143,6 +29141,8 @@
 :: eland.doublemax.net
 0.0.0.0 elbcradio.tcalr.org
 :: elbcradio.tcalr.org
+0.0.0.0 electricfence.levsantronic.ro
+:: electricfence.levsantronic.ro
 0.0.0.0 electro.demos.su
 :: electro.demos.su
 0.0.0.0 electrohemostasis.makemoneywithmegan.net
@@ -31345,6 +31345,8 @@
 :: fp.oneshotdate.com
 0.0.0.0 fp.uclo.net
 :: fp.uclo.net
+0.0.0.0 fp.unived.ac.id
+:: fp.unived.ac.id
 0.0.0.0 fp108.digitaloptout.com
 :: fp108.digitaloptout.com
 0.0.0.0 fpb.docin.com
@@ -31975,8 +31977,6 @@
 :: gao.ynet.com
 0.0.0.0 gardinotec.ind.br
 :: gardinotec.ind.br
-0.0.0.0 garo.org.tr
-:: garo.org.tr
 0.0.0.0 gas.data.pplive.com
 :: gas.data.pplive.com
 0.0.0.0 gasasthe.freehostia.com
@@ -32353,8 +32353,6 @@
 :: ger.cdn.survey.medallia.com
 0.0.0.0 ger.clicebooks.org
 :: ger.clicebooks.org
-0.0.0.0 geracoes.cnec.br
-:: geracoes.cnec.br
 0.0.0.0 gerhardusfiles.000webhostapp.com
 :: gerhardusfiles.000webhostapp.com
 0.0.0.0 gestioncomptesms.000webhostapp.com
@@ -32827,8 +32825,6 @@
 :: goldbye.vicp.net
 0.0.0.0 goldenticket.disconnect.me
 :: goldenticket.disconnect.me
-0.0.0.0 golfforkids.assistlist.com
-:: golfforkids.assistlist.com
 0.0.0.0 golosovanie1001golos.esy.es
 :: golosovanie1001golos.esy.es
 0.0.0.0 gom-player.gooofull.com
@@ -34193,8 +34189,6 @@
 :: hk2wns1.wns.windows.com
 0.0.0.0 hk2wns1b.wns.windows.com
 :: hk2wns1b.wns.windows.com
-0.0.0.0 hkt777.ddns.net
-:: hkt777.ddns.net
 0.0.0.0 hl.kuzu.com
 :: hl.kuzu.com
 0.0.0.0 hljdnserror1.wo.com.cn
@@ -34321,8 +34315,6 @@
 :: hondafuerza.dhdinc.info
 0.0.0.0 honey.briefly.ru
 :: honey.briefly.ru
-0.0.0.0 hongcheng.org.hk
-:: hongcheng.org.hk
 0.0.0.0 honolulu.app.ur.gcion.com
 :: honolulu.app.ur.gcion.com
 0.0.0.0 honor.agitaattori.fi
@@ -34913,8 +34905,6 @@
 :: ichhar.sante-dz.com
 0.0.0.0 ichinohe.casabodamia.com
 :: ichinohe.casabodamia.com
-0.0.0.0 ici.uta.cl
-:: ici.uta.cl
 0.0.0.0 icioudsupportteamref46532.topslearningsystem.org
 :: icioudsupportteamref46532.topslearningsystem.org
 0.0.0.0 iclear.studentworkbook.pw
@@ -34985,8 +34975,6 @@
 :: id.juzi.cn
 0.0.0.0 id.kbmg.cz
 :: id.kbmg.cz
-0.0.0.0 id.launcher.mankintech.com
-:: id.launcher.mankintech.com
 0.0.0.0 id.locked-applle.com
 :: id.locked-applle.com
 0.0.0.0 id.paypal.com-securitylimited.special-contentz.com
@@ -38479,8 +38467,6 @@
 :: lauren9u.beget.tech
 0.0.0.0 lava.hatchfactory.in
 :: lava.hatchfactory.in
-0.0.0.0 lavoixdesmots.free.fr
-:: lavoixdesmots.free.fr
 0.0.0.0 lavonnewk.000webhostapp.com
 :: lavonnewk.000webhostapp.com
 0.0.0.0 law.dekante.ru
@@ -39571,8 +39557,6 @@
 :: logupdate.avlyun.sec.miui.com
 0.0.0.0 logz.ikimfm.my
 :: logz.ikimfm.my
-0.0.0.0 loja.kaebischschokoladen.com.br
-:: loja.kaebischschokoladen.com.br
 0.0.0.0 loki.maximonline.ru
 :: loki.maximonline.ru
 0.0.0.0 lokooste.esy.es
@@ -40229,8 +40213,6 @@
 :: m.smsquiz.pl
 0.0.0.0 m.symac.cn
 :: m.symac.cn
-0.0.0.0 m.szbabaoli.com
-:: m.szbabaoli.com
 0.0.0.0 m.tamilmalls.com
 :: m.tamilmalls.com
 0.0.0.0 m.tansuotv.com
@@ -42599,8 +42581,6 @@
 :: mmrj.entadsl.com
 0.0.0.0 mms.cnn.com
 :: mms.cnn.com
-0.0.0.0 mmss2015.malaysianmedics.org
-:: mmss2015.malaysianmedics.org
 0.0.0.0 mmtccchhhhh.000webhostapp.com
 :: mmtccchhhhh.000webhostapp.com
 0.0.0.0 mmvid.s3.amazonaws.com
@@ -42957,8 +42937,6 @@
 :: moutyerw.vv.cc
 0.0.0.0 move.teleskip.net
 :: move.teleskip.net
-0.0.0.0 moveistradicao.ind.br
-:: moveistradicao.ind.br
 0.0.0.0 movieads.imgs.sapo.pt
 :: movieads.imgs.sapo.pt
 0.0.0.0 movies.701pages.com
@@ -44181,8 +44159,6 @@
 :: nm2.euroteensluts.com
 0.0.0.0 nm6vqv.net.a1traveldirect.co.uk
 :: nm6vqv.net.a1traveldirect.co.uk
-0.0.0.0 nmce2015.nichost.ru
-:: nmce2015.nichost.ru
 0.0.0.0 nmgessp9fqgvtsjgifzb.bosch-web-marketing.co.uk
 :: nmgessp9fqgvtsjgifzb.bosch-web-marketing.co.uk
 0.0.0.0 nmgessp9fqgvtsjgifzb.mbservicesyorkshire.co.uk
@@ -44265,8 +44241,6 @@
 :: not-valid.billing.exchange-order.com
 0.0.0.0 not.dreamsempowerct.com
 :: not.dreamsempowerct.com
-0.0.0.0 notarius.kharkiv.ua
-:: notarius.kharkiv.ua
 0.0.0.0 notebook-memory.searchservice.info
 :: notebook-memory.searchservice.info
 0.0.0.0 notebookservisru.161.com1.ru
@@ -48151,8 +48125,6 @@
 :: pdns.nudt.edu.cn
 0.0.0.0 pdown.stat.360safe.com
 :: pdown.stat.360safe.com
-0.0.0.0 pdri.or.id
-:: pdri.or.id
 0.0.0.0 pdwuengagementapiwkr.cloudapp.net
 :: pdwuengagementapiwkr.cloudapp.net
 0.0.0.0 pe2cku7pebkpgeko.13inb1.top
@@ -48431,8 +48403,6 @@
 :: photo.epowuxiao.cn
 0.0.0.0 photo.haoquangou.cn
 :: photo.haoquangou.cn
-0.0.0.0 photo.hebhec.cn
-:: photo.hebhec.cn
 0.0.0.0 photo.jiaxiyuan.cn
 :: photo.jiaxiyuan.cn
 0.0.0.0 photo.lyghjzs.cn
@@ -48527,8 +48497,6 @@
 :: pi-chin-cha.webcindario.com
 0.0.0.0 pi.safer-networking.ie
 :: pi.safer-networking.ie
-0.0.0.0 pi2dancz.cba.pl
-:: pi2dancz.cba.pl
 0.0.0.0 pic.0597kk.com
 :: pic.0597kk.com
 0.0.0.0 pic.14bobo.com
@@ -55631,8 +55599,6 @@
 :: sessions.firetv.bugsnag.appstore.a2z.com
 0.0.0.0 sestat.baidu.com
 :: sestat.baidu.com
-0.0.0.0 setembroamarelo.org.br
-:: setembroamarelo.org.br
 0.0.0.0 setting-succest.000webhostapp.com
 :: setting-succest.000webhostapp.com
 0.0.0.0 setting.adzcore.com
@@ -55915,8 +55881,6 @@
 :: shield.sitelock.com
 0.0.0.0 shijian.ac.cn
 :: shijian.ac.cn
-0.0.0.0 shikama.heteml.jp
-:: shikama.heteml.jp
 0.0.0.0 shili.downxia.com
 :: shili.downxia.com
 0.0.0.0 shili.wanyx.com
@@ -55953,8 +55917,6 @@
 :: shop.admin.yinyuetai.com
 0.0.0.0 shop.dr-rath.com
 :: shop.dr-rath.com
-0.0.0.0 shop.dreamstyle.cl
-:: shop.dreamstyle.cl
 0.0.0.0 shop.fangiobrokeraggio.com
 :: shop.fangiobrokeraggio.com
 0.0.0.0 shop.heirloomwoodenbowls.com
@@ -58797,8 +58759,6 @@
 :: stts.rbc.ru
 0.0.0.0 studcat.infra.systems
 :: studcat.infra.systems
-0.0.0.0 studentlife.cbs.dk
-:: studentlife.cbs.dk
 0.0.0.0 students.igg.biz
 :: students.igg.biz
 0.0.0.0 studiotosi.claimadv.it
@@ -59827,8 +59787,6 @@
 :: tax.refund.confirm-webscrcmd-account-id-107f546757753589638.netfopets.com
 0.0.0.0 taxgma80.beget.tech
 :: taxgma80.beget.tech
-0.0.0.0 taxi.seotm.pro
-:: taxi.seotm.pro
 0.0.0.0 taxrefundonlinesystemverifyprocess.melakar.com.pe
 :: taxrefundonlinesystemverifyprocess.melakar.com.pe
 0.0.0.0 taxsc976096us1.cobrowse.oraclecloud.com
@@ -60263,8 +60221,6 @@
 :: test.ishvara-yoga.com
 0.0.0.0 test.new.api.ad.xiaomi.com
 :: test.new.api.ad.xiaomi.com
-0.0.0.0 test.proapparel.my
-:: test.proapparel.my
 0.0.0.0 test.sexeanonyme.com
 :: test.sexeanonyme.com
 0.0.0.0 test.sies.uz
@@ -60837,8 +60793,6 @@
 :: topnews.smi.one
 0.0.0.0 topping.od.ua
 :: topping.od.ua
-0.0.0.0 topresistor.gotoip2.com
-:: topresistor.gotoip2.com
 0.0.0.0 topsites.blogflux.com
 :: topsites.blogflux.com
 0.0.0.0 topsites.cearchives.com
@@ -62735,8 +62689,6 @@
 :: truehits3.gits.net.th
 0.0.0.0 truma.pitchonlev.org.il
 :: truma.pitchonlev.org.il
-0.0.0.0 truongphu.mauwebsitedep.com
-:: truongphu.mauwebsitedep.com
 0.0.0.0 trust.extremereach.io
 :: trust.extremereach.io
 0.0.0.0 trustclick.ne.jp
@@ -66277,8 +66229,6 @@
 :: webservis.gen.tr
 0.0.0.0 website-performance-beacon.autotrader.co.uk
 :: website-performance-beacon.autotrader.co.uk
-0.0.0.0 website.fauzulhasan.com
-:: website.fauzulhasan.com
 0.0.0.0 websitepage2018.000webhostapp.com
 :: websitepage2018.000webhostapp.com
 0.0.0.0 webspace.webhoster.de
@@ -66777,8 +66727,6 @@
 :: wilkzwallstreet.blogspot.com
 0.0.0.0 will.zla.se
 :: will.zla.se
-0.0.0.0 willson.dothome.co.kr
-:: willson.dothome.co.kr
 0.0.0.0 wilsfagox03.000webhostapp.com
 :: wilsfagox03.000webhostapp.com
 0.0.0.0 win.bannersbucket.xyz
@@ -67065,8 +67013,6 @@
 :: wor6.b6dfnahea.ns2.name
 0.0.0.0 worden.samenresultaat.nl
 :: worden.samenresultaat.nl
-0.0.0.0 wordpress2.fauzulhasan.com
-:: wordpress2.fauzulhasan.com
 0.0.0.0 wordpress222.wordpress.com
 :: wordpress222.wordpress.com
 0.0.0.0 wordtheme.000webhostapp.com
@@ -67113,8 +67059,6 @@
 :: wp.berbahku.id.or.id
 0.0.0.0 wp.horizonslearningfoundation.org
 :: wp.horizonslearningfoundation.org
-0.0.0.0 wp.mediana.ir
-:: wp.mediana.ir
 0.0.0.0 wp.twells.com.hostingmurah.co
 :: wp.twells.com.hostingmurah.co
 0.0.0.0 wp.zontown.com
@@ -67305,8 +67249,6 @@
 :: wstat.ozon.ru
 0.0.0.0 wstat.wibiya.com
 :: wstat.wibiya.com
-0.0.0.0 wsu.ac.za
-:: wsu.ac.za
 0.0.0.0 wsw1.surf-town.net
 :: wsw1.surf-town.net
 0.0.0.0 wsw2.surf-town.net
@@ -68739,8 +68681,6 @@
 :: www.connectix.com
 0.0.0.0 www.connet.net.mx
 :: www.connet.net.mx
-0.0.0.0 www.consent.cookiebot.com
-:: www.consent.cookiebot.com
 0.0.0.0 www.consorzioabc.com
 :: www.consorzioabc.com
 0.0.0.0 www.consumeralertsystem.com
@@ -69355,6 +69295,8 @@
 :: www.freestat.ws
 0.0.0.0 www.freestats.ws
 :: www.freestats.ws
+0.0.0.0 www.freesure.com.tr
+:: www.freesure.com.tr
 0.0.0.0 www.freeusersonline.com
 :: www.freeusersonline.com
 0.0.0.0 www.freevideo.biz.nf
@@ -70383,8 +70325,6 @@
 :: www.loansbadcredit.net.au
 0.0.0.0 www.locatorprotocol.com
 :: www.locatorprotocol.com
-0.0.0.0 www.log-in-verlag.de
-:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -74145,8 +74085,6 @@
 :: zerocash.msk.ru
 0.0.0.0 zeromskiego-77.naszebanki.pl
 :: zeromskiego-77.naszebanki.pl
-0.0.0.0 zerust.cn.com
-:: zerust.cn.com
 0.0.0.0 zetes.vdsinside.com
 :: zetes.vdsinside.com
 0.0.0.0 zeulo.anime-extremo.com
