@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Mar 18 05:26:30 CET 2019
+# Last update: Tue Mar 19 05:40:32 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37161
+# Number of unique hostnames: 37155
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2879,6 +2879,8 @@
 :: a1.peoplecdn.cn
 0.0.0.0 a1.qqjay.com
 :: a1.qqjay.com
+0.0.0.0 a1.qqtn.com
+:: a1.qqtn.com
 0.0.0.0 a1.security-next.com
 :: a1.security-next.com
 0.0.0.0 a1.sumiaowang.com
@@ -3215,8 +3217,6 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
-0.0.0.0 abusalewm.exceltoner.com
-:: abusalewm.exceltoner.com
 0.0.0.0 ac.ajur.info
 :: ac.ajur.info
 0.0.0.0 ac.atpanel.com
@@ -32949,8 +32949,6 @@
 :: grafephot.org.za
 0.0.0.0 gram.mfdrums.com
 :: gram.mfdrums.com
-0.0.0.0 gramelis.newyorkmascot.com
-:: gramelis.newyorkmascot.com
 0.0.0.0 grandpa.thebehrs.ca
 :: grandpa.thebehrs.ca
 0.0.0.0 grant.rpof.org
@@ -35885,8 +35883,6 @@
 :: impservice2.youdao.com
 0.0.0.0 imrankhan.web.pk
 :: imrankhan.web.pk
-0.0.0.0 imshopping.rediff.com
-:: imshopping.rediff.com
 0.0.0.0 imtrk.trktoo.com
 :: imtrk.trktoo.com
 0.0.0.0 imupdate.3g.cn
@@ -41643,6 +41639,8 @@
 :: metrics.active.com
 0.0.0.0 metrics.adidas.com
 :: metrics.adidas.com
+0.0.0.0 metrics.aeon.co
+:: metrics.aeon.co
 0.0.0.0 metrics.aetn.com
 :: metrics.aetn.com
 0.0.0.0 metrics.aftonbladet.se
@@ -59319,8 +59317,6 @@
 :: szb.aiyole.com
 0.0.0.0 szgxkd.gay.tathamservice.com
 :: szgxkd.gay.tathamservice.com
-0.0.0.0 szkolarodzenia.sos.pl
-:: szkolarodzenia.sos.pl
 0.0.0.0 sznaucer-figa.nd.e-wro.pl
 :: sznaucer-figa.nd.e-wro.pl
 0.0.0.0 szokinfo247.blogspot.com
@@ -63983,8 +63979,6 @@
 :: url.jiemengle.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
-0.0.0.0 urladyms.newlogiq.com
-:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -69195,8 +69189,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
@@ -70005,8 +69997,6 @@
 :: www.joomlalivechat.com
 0.0.0.0 www.jornalfarroupilha.com.br
 :: www.jornalfarroupilha.com.br
-0.0.0.0 www.jornalocaminho.com.br
-:: www.jornalocaminho.com.br
 0.0.0.0 www.jouwstats.nl
 :: www.jouwstats.nl
 0.0.0.0 www.jowarinzqmiak.download
@@ -70325,6 +70315,8 @@
 :: www.loansbadcredit.net.au
 0.0.0.0 www.locatorprotocol.com
 :: www.locatorprotocol.com
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -71961,8 +71953,6 @@
 :: www.tiergestuetzt.de
 0.0.0.0 www.timefor.com
 :: www.timefor.com
-0.0.0.0 www.timelessimagesmi.com
-:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tings.com
@@ -72567,8 +72557,6 @@
 :: www.xyfex.com
 0.0.0.0 www.xyztraffic.com
 :: www.xyztraffic.com
-0.0.0.0 www.y8.com
-:: www.y8.com
 0.0.0.0 www.yasnogorie.tora.ru
 :: www.yasnogorie.tora.ru
 0.0.0.0 www.yc1234.com
