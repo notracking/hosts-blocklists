@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Mar 20 05:37:28 CET 2019
+# Last update: Thu Mar 21 05:35:02 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37153
+# Number of unique hostnames: 37156
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3219,8 +3219,6 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
-0.0.0.0 abusalewm.exceltoner.com
-:: abusalewm.exceltoner.com
 0.0.0.0 ac.ajur.info
 :: ac.ajur.info
 0.0.0.0 ac.atpanel.com
@@ -28729,6 +28727,8 @@
 :: e.redbox.com
 0.0.0.0 e.ricpt.com
 :: e.ricpt.com
+0.0.0.0 e.sbaoe.com
+:: e.sbaoe.com
 0.0.0.0 e.t71q.com
 :: e.t71q.com
 0.0.0.0 e.targetfuel.com
@@ -37879,8 +37879,6 @@
 :: kindergarten.4760.at
 0.0.0.0 kine.web4me.fr
 :: kine.web4me.fr
-0.0.0.0 kineclick.free.fr
-:: kineclick.free.fr
 0.0.0.0 kinetictokenforms.typeform.com
 :: kinetictokenforms.typeform.com
 0.0.0.0 king.humoromg.com
@@ -38463,6 +38461,8 @@
 :: lauren9u.beget.tech
 0.0.0.0 lava.hatchfactory.in
 :: lava.hatchfactory.in
+0.0.0.0 lavoixdesmots.free.fr
+:: lavoixdesmots.free.fr
 0.0.0.0 lavonnewk.000webhostapp.com
 :: lavonnewk.000webhostapp.com
 0.0.0.0 law.dekante.ru
@@ -39965,6 +39965,8 @@
 :: m.ddanf.com
 0.0.0.0 m.dfanf.com
 :: m.dfanf.com
+0.0.0.0 m.djunf.com
+:: m.djunf.com
 0.0.0.0 m.doodlemobile.com
 :: m.doodlemobile.com
 0.0.0.0 m.du1du.org
@@ -39973,6 +39975,8 @@
 :: m.duias.com
 0.0.0.0 m.easypatent.net
 :: m.easypatent.net
+0.0.0.0 m.ecenf.com
+:: m.ecenf.com
 0.0.0.0 m.efeir.com
 :: m.efeir.com
 0.0.0.0 m.efeiy.com
@@ -40105,6 +40109,8 @@
 :: m.lancedu.com
 0.0.0.0 m.laoqu123.com
 :: m.laoqu123.com
+0.0.0.0 m.laxienian888.com
+:: m.laxienian888.com
 0.0.0.0 m.loading-content.net
 :: m.loading-content.net
 0.0.0.0 m.login-secured.liraon.com
@@ -40195,6 +40201,8 @@
 :: m.sancdn.net
 0.0.0.0 m.sanjiangge.com
 :: m.sanjiangge.com
+0.0.0.0 m.sbaoe.com
+:: m.sbaoe.com
 0.0.0.0 m.sbief.com
 :: m.sbief.com
 0.0.0.0 m.serulom.tk
@@ -41117,6 +41125,8 @@
 :: md.he9630.com
 0.0.0.0 md.sh5e.com
 :: md.sh5e.com
+0.0.0.0 md.tvzhe.com
+:: md.tvzhe.com
 0.0.0.0 mdc.meitustat.com
 :: mdc.meitustat.com
 0.0.0.0 mdefbugivafmnk.ivydancefloors.com
@@ -48037,8 +48047,6 @@
 :: pcash.imlive.com
 0.0.0.0 pcash.wildmatch.com
 :: pcash.wildmatch.com
-0.0.0.0 pcbrowser.dd.qq.com
-:: pcbrowser.dd.qq.com
 0.0.0.0 pcbutts1-therealtruth.blogspot.com
 :: pcbutts1-therealtruth.blogspot.com
 0.0.0.0 pcd.autohome.com.cn
@@ -48401,10 +48409,14 @@
 :: photo.epowuxiao.cn
 0.0.0.0 photo.haoquangou.cn
 :: photo.haoquangou.cn
+0.0.0.0 photo.hhmyi.cn
+:: photo.hhmyi.cn
 0.0.0.0 photo.jiaxiyuan.cn
 :: photo.jiaxiyuan.cn
 0.0.0.0 photo.lyghjzs.cn
 :: photo.lyghjzs.cn
+0.0.0.0 photo.majiang188.cn
+:: photo.majiang188.cn
 0.0.0.0 photo.ofsja.cn
 :: photo.ofsja.cn
 0.0.0.0 photo.rdguj.cn
@@ -48415,6 +48427,8 @@
 :: photo.video.gay.free.fr
 0.0.0.0 photo.welldex.cn
 :: photo.welldex.cn
+0.0.0.0 photo.xxlywl.cn
+:: photo.xxlywl.cn
 0.0.0.0 photo.yishuhuanbao.cn
 :: photo.yishuhuanbao.cn
 0.0.0.0 photo.yqydjr.cn
@@ -49655,8 +49669,6 @@
 :: portnoff.od.ua
 0.0.0.0 pos.baidu.com
 :: pos.baidu.com
-0.0.0.0 poserio.thecaregrouppc.net
-:: poserio.thecaregrouppc.net
 0.0.0.0 position.dftoutiao.com
 :: position.dftoutiao.com
 0.0.0.0 pospr.waw.pl
@@ -54549,6 +54561,8 @@
 :: sdkupgrade.insight.ucweb.com
 0.0.0.0 sdlematanglestari.sch.id
 :: sdlematanglestari.sch.id
+0.0.0.0 sdn.chaxiaohao.top
+:: sdn.chaxiaohao.top
 0.0.0.0 sdn.gongkao.hn.cn
 :: sdn.gongkao.hn.cn
 0.0.0.0 sdn.kugou.com
@@ -58565,8 +58579,6 @@
 :: stcollection.moneysupermarket.com
 0.0.0.0 std.o.webmd.com
 :: std.o.webmd.com
-0.0.0.0 stdl.qq.com
-:: stdl.qq.com
 0.0.0.0 steam.fasting.tk
 :: steam.fasting.tk
 0.0.0.0 steam.myago.tk
@@ -60779,6 +60791,8 @@
 :: topnews.smi.one
 0.0.0.0 topping.od.ua
 :: topping.od.ua
+0.0.0.0 topresistor.gotoip2.com
+:: topresistor.gotoip2.com
 0.0.0.0 topsites.blogflux.com
 :: topsites.blogflux.com
 0.0.0.0 topsites.cearchives.com
@@ -63971,8 +63985,6 @@
 :: url.jiemengle.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
-0.0.0.0 urladyms.newlogiq.com
-:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -69181,8 +69193,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
@@ -70611,8 +70621,6 @@
 :: www.mscarsales.co.uk
 0.0.0.0 www.mshelp247.weebly.com
 :: www.mshelp247.weebly.com
-0.0.0.0 www.msm.mc
-:: www.msm.mc
 0.0.0.0 www.msp-hack.com
 :: www.msp-hack.com
 0.0.0.0 www.mspbooster.com
@@ -71947,8 +71955,6 @@
 :: www.tiergestuetzt.de
 0.0.0.0 www.timefor.com
 :: www.timefor.com
-0.0.0.0 www.timelessimagesmi.com
-:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tings.com
