@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Mar 21 05:35:02 CET 2019
+# Last update: Fri Mar 22 07:09:19 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37156
+# Number of unique hostnames: 37152
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3219,6 +3219,8 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
+0.0.0.0 abusalewm.exceltoner.com
+:: abusalewm.exceltoner.com
 0.0.0.0 ac.ajur.info
 :: ac.ajur.info
 0.0.0.0 ac.atpanel.com
@@ -18799,8 +18801,6 @@
 :: bite.theta.sogoucdn.com
 0.0.0.0 bitskins.cn.com
 :: bitskins.cn.com
-0.0.0.0 biurorachunkowe24.waw.pl
-:: biurorachunkowe24.waw.pl
 0.0.0.0 bixia.fymm.cn
 :: bixia.fymm.cn
 0.0.0.0 biz.gexing.com
@@ -20475,8 +20475,6 @@
 :: capitale-one-bank-login-secured.edukasys.com
 0.0.0.0 capitalone.com.eastvalleynd.com
 :: capitalone.com.eastvalleynd.com
-0.0.0.0 capture.condenastdigital.com
-:: capture.condenastdigital.com
 0.0.0.0 car-donation.shengen.ru
 :: car-donation.shengen.ru
 0.0.0.0 car-insurance.inshurance-from.com
@@ -35981,8 +35979,6 @@
 :: inent17alexe.rr.nu
 0.0.0.0 inf-team-live.epizy.com
 :: inf-team-live.epizy.com
-0.0.0.0 infinityid.condenastdigital.com
-:: infinityid.condenastdigital.com
 0.0.0.0 inflectionless-volt.000webhostapp.com
 :: inflectionless-volt.000webhostapp.com
 0.0.0.0 infnw18.at.ua
@@ -38137,8 +38133,6 @@
 :: kropka.onet.pl
 0.0.0.0 kropka.tro.pl
 :: kropka.tro.pl
-0.0.0.0 krq.yymmsd.cn
-:: krq.yymmsd.cn
 0.0.0.0 krsa2gno.congrats-sweepstakes-winner.com
 :: krsa2gno.congrats-sweepstakes-winner.com
 0.0.0.0 krsa2gno.important-security-brower-alert.com
@@ -38197,8 +38191,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -42849,8 +42841,6 @@
 :: moncompte-mobile.gzero.com.mx
 0.0.0.0 moncompte.ameli.fr.freepac8.beget.tech
 :: moncompte.ameli.fr.freepac8.beget.tech
-0.0.0.0 moncompte.grouperf.com
-:: moncompte.grouperf.com
 0.0.0.0 monde-pub.sdv.fr
 :: monde-pub.sdv.fr
 0.0.0.0 mondoads.s3.amazonaws.com
@@ -44459,6 +44449,8 @@
 :: ns1.123go.net
 0.0.0.0 ns1.2911.net
 :: ns1.2911.net
+0.0.0.0 ns1.backdates0.com
+:: ns1.backdates0.com
 0.0.0.0 ns1.backdates2.com
 :: ns1.backdates2.com
 0.0.0.0 ns1.bankrate.com
@@ -48821,8 +48813,6 @@
 :: pixel.captora.com
 0.0.0.0 pixel.collosteam.com
 :: pixel.collosteam.com
-0.0.0.0 pixel.condenastdigital.com
-:: pixel.condenastdigital.com
 0.0.0.0 pixel.despegar.com
 :: pixel.despegar.com
 0.0.0.0 pixel.digitru.st
@@ -49669,6 +49659,8 @@
 :: portnoff.od.ua
 0.0.0.0 pos.baidu.com
 :: pos.baidu.com
+0.0.0.0 poserio.thecaregrouppc.net
+:: poserio.thecaregrouppc.net
 0.0.0.0 position.dftoutiao.com
 :: position.dftoutiao.com
 0.0.0.0 pospr.waw.pl
@@ -55243,8 +55235,6 @@
 :: segment.mamaslatinas.com
 0.0.0.0 segment.revelist.com
 :: segment.revelist.com
-0.0.0.0 segmentation.condenastdigital.com
-:: segmentation.condenastdigital.com
 0.0.0.0 segmentation.k8s.us-east-1--production.containers.aws.conde.io
 :: segmentation.k8s.us-east-1--production.containers.aws.conde.io
 0.0.0.0 segob.gob.mx
@@ -68301,8 +68291,6 @@
 :: www.bewaycare.com
 0.0.0.0 www.bfqnup.party
 :: www.bfqnup.party
-0.0.0.0 www.bharatinfoline.com
-:: www.bharatinfoline.com
 0.0.0.0 www.biddingx.com
 :: www.biddingx.com
 0.0.0.0 www.bidwee.com
@@ -70621,6 +70609,8 @@
 :: www.mscarsales.co.uk
 0.0.0.0 www.mshelp247.weebly.com
 :: www.mshelp247.weebly.com
+0.0.0.0 www.msm.mc
+:: www.msm.mc
 0.0.0.0 www.msp-hack.com
 :: www.msp-hack.com
 0.0.0.0 www.mspbooster.com
@@ -71955,6 +71945,8 @@
 :: www.tiergestuetzt.de
 0.0.0.0 www.timefor.com
 :: www.timefor.com
+0.0.0.0 www.timelessimagesmi.com
+:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tings.com
