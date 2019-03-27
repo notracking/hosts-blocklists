@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Mar 26 05:31:33 CET 2019
+# Last update: Wed Mar 27 05:41:43 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 36966
+# Number of unique hostnames: 36970
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -13,6 +13,8 @@
 #  conf-file=/path/to/domains.txt
 #  addn-hosts=/path/to/hostnames.txt
 ###############################[HOSTNAMES]###############################
+0.0.0.0 0.nextyourcontent.com
+:: 0.nextyourcontent.com
 0.0.0.0 0.up.qingdaonews.com
 :: 0.up.qingdaonews.com
 0.0.0.0 000.gaysexe.free.fr
@@ -46073,8 +46075,6 @@
 :: oqwygprskqv65j72.1hbdbx.top
 0.0.0.0 oqwygprskqv65j72.1j1x2b.top
 :: oqwygprskqv65j72.1j1x2b.top
-0.0.0.0 oqwygprskqv65j72.1jquw7.top
-:: oqwygprskqv65j72.1jquw7.top
 0.0.0.0 oqwygprskqv65j72.1kh9ct.top
 :: oqwygprskqv65j72.1kh9ct.top
 0.0.0.0 oqwygprskqv65j72.1mudaw.top
@@ -67735,6 +67735,8 @@
 :: www.alladultdirectory.net
 0.0.0.0 www.almondnetworks.com
 :: www.almondnetworks.com
+0.0.0.0 www.alnimrexpo.com
+:: www.alnimrexpo.com
 0.0.0.0 www.alpcity.pl
 :: www.alpcity.pl
 0.0.0.0 www.alphamedical02.fr
@@ -68689,6 +68691,8 @@
 :: www.egypt-dream.net
 0.0.0.0 www.eivamos.com
 :: www.eivamos.com
+0.0.0.0 www.ejmii.com
+:: www.ejmii.com
 0.0.0.0 www.elc.tomsk.ru
 :: www.elc.tomsk.ru
 0.0.0.0 www.elded.eu
@@ -70241,6 +70245,8 @@
 :: www.moviedownloader.net
 0.0.0.0 www.moviestarplanethack.info
 :: www.moviestarplanethack.info
+0.0.0.0 www.movingtransfer.com
+:: www.movingtransfer.com
 0.0.0.0 www.mp-mail.nl
 :: www.mp-mail.nl
 0.0.0.0 www.mp3downloadhq.com
@@ -73935,6 +73941,8 @@
 :: zzc.9939.com
 0.0.0.0 zzcw.office-mall.net
 :: zzcw.office-mall.net
+0.0.0.0 zzhc.vnet.cn
+:: zzhc.vnet.cn
 0.0.0.0 zzjsujpstcsx.myfw.us
 :: zzjsujpstcsx.myfw.us
 0.0.0.0 zzpush.58.com
