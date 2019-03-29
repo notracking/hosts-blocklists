@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Mar 28 05:29:08 CET 2019
+# Last update: Fri Mar 29 06:50:07 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37182
+# Number of unique hostnames: 37192
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -15487,6 +15487,8 @@
 :: apple.com-repair-macbook.live
 0.0.0.0 apple.com-repair-os.live
 :: apple.com-repair-os.live
+0.0.0.0 apple.com-repair.live
+:: apple.com-repair.live
 0.0.0.0 apple.com-safetyalert.com
 :: apple.com-safetyalert.com
 0.0.0.0 apple.com-scan-virus-detected.com
@@ -28663,6 +28665,8 @@
 :: e.hyzui.com
 0.0.0.0 e.invodo.com
 :: e.invodo.com
+0.0.0.0 e.izaos.com
+:: e.izaos.com
 0.0.0.0 e.jiaas.com
 :: e.jiaas.com
 0.0.0.0 e.jltdbyq.com
@@ -31883,8 +31887,6 @@
 :: galaxy.sogoucdn.com
 0.0.0.0 galent1.000webhostapp.com
 :: galent1.000webhostapp.com
-0.0.0.0 galifeu-kolsmmrwoytjfvofzfg.stackpathdns.com
-:: galifeu-kolsmmrwoytjfvofzfg.stackpathdns.com
 0.0.0.0 galkavk.esy.es
 :: galkavk.esy.es
 0.0.0.0 gall.dcinside.com
@@ -32461,6 +32463,8 @@
 :: gg.getbs.com
 0.0.0.0 gg.google.com
 :: gg.google.com
+0.0.0.0 gg.gw032.com
+:: gg.gw032.com
 0.0.0.0 gg.haianw.com
 :: gg.haianw.com
 0.0.0.0 gg.jkmeishi.com
@@ -32921,6 +32925,8 @@
 :: gp.dejanews.com
 0.0.0.0 gp.jstv.com
 :: gp.jstv.com
+0.0.0.0 gp.zaiyunli.cn
+:: gp.zaiyunli.cn
 0.0.0.0 gpoint.gpoint.com.gr
 :: gpoint.gpoint.com.gr
 0.0.0.0 gr.linkwi.se
@@ -35055,8 +35061,6 @@
 :: iframes.prettyincash.com
 0.0.0.0 ifs.tanx.com
 :: ifs.tanx.com
-0.0.0.0 ifteiha.lions-mark.com
-:: ifteiha.lions-mark.com
 0.0.0.0 ifwry.yeslaptop.win
 :: ifwry.yeslaptop.win
 0.0.0.0 ig.insightgrit.com
@@ -39223,6 +39227,8 @@
 :: log.kukuplay.com
 0.0.0.0 log.kuwo.cn
 :: log.kuwo.cn
+0.0.0.0 log.liusha.info
+:: log.liusha.info
 0.0.0.0 log.logrocket.io
 :: log.logrocket.io
 0.0.0.0 log.ltype.baofeng.com
@@ -39863,6 +39869,8 @@
 :: m.api.baifendian.com
 0.0.0.0 m.aqiudaohang.com
 :: m.aqiudaohang.com
+0.0.0.0 m.aquns.com
+:: m.aquns.com
 0.0.0.0 m.astrokolik.com
 :: m.astrokolik.com
 0.0.0.0 m.atm.youku.com
@@ -40053,8 +40061,12 @@
 :: m.iorgb.com
 0.0.0.0 m.ishangtong.com
 :: m.ishangtong.com
+0.0.0.0 m.izaos.com
+:: m.izaos.com
 0.0.0.0 m.jhcgood.com
 :: m.jhcgood.com
+0.0.0.0 m.jkuok.com
+:: m.jkuok.com
 0.0.0.0 m.jltdbyq.com
 :: m.jltdbyq.com
 0.0.0.0 m.joyxv.com
@@ -40169,6 +40181,8 @@
 :: m.sbaoe.com
 0.0.0.0 m.sbief.com
 :: m.sbief.com
+0.0.0.0 m.sdaih.com
+:: m.sdaih.com
 0.0.0.0 m.serulom.tk
 :: m.serulom.tk
 0.0.0.0 m.sharpmobilemarketing.onlinetrafficresults.com
@@ -42749,6 +42763,8 @@
 :: mobile.traffic-tracker.net
 0.0.0.0 mobile.updatescotia.crystalls.com
 :: mobile.updatescotia.crystalls.com
+0.0.0.0 mobile0363.harddayforall4.life
+:: mobile0363.harddayforall4.life
 0.0.0.0 mobile18.in.com
 :: mobile18.in.com
 0.0.0.0 mobile2.da.mgtv.com
@@ -48431,6 +48447,8 @@
 :: photo.bjdfhy.cn
 0.0.0.0 photo.dhford.cn
 :: photo.dhford.cn
+0.0.0.0 photo.domainrank.cn
+:: photo.domainrank.cn
 0.0.0.0 photo.epowuxiao.cn
 :: photo.epowuxiao.cn
 0.0.0.0 photo.haoquangou.cn
@@ -58017,6 +58035,8 @@
 :: statistics.elsevier.nl
 0.0.0.0 statistics.infowap.info
 :: statistics.infowap.info
+0.0.0.0 statistics.liusha.info
+:: statistics.liusha.info
 0.0.0.0 statistics.rbi-nl.com
 :: statistics.rbi-nl.com
 0.0.0.0 statistics.reedbusiness.nl
@@ -60251,6 +60271,8 @@
 :: tempest.services.disqus.com
 0.0.0.0 template.aebn.net
 :: template.aebn.net
+0.0.0.0 template.liusha.info
+:: template.liusha.info
 0.0.0.0 temporary.nut.cc
 :: temporary.nut.cc
 0.0.0.0 tenin58gaccel.rr.nu
@@ -63249,8 +63271,6 @@
 :: ugg.keefung-zs.com
 0.0.0.0 ughmvqf.spitt.ru
 :: ughmvqf.spitt.ru
-0.0.0.0 uglyugly.savedalyfield.com
-:: uglyugly.savedalyfield.com
 0.0.0.0 ugwebz.uk.pn
 :: ugwebz.uk.pn
 0.0.0.0 ugyenacademy.edu.bt
@@ -68213,6 +68233,8 @@
 :: www.apple.com-improve-macos.live
 0.0.0.0 www.apple.com-repair-macbook.live
 :: www.apple.com-repair-macbook.live
+0.0.0.0 www.apple.com-repair.live
+:: www.apple.com-repair.live
 0.0.0.0 www.apple.com-speed-macbook.live
 :: www.apple.com-speed-macbook.live
 0.0.0.0 www.apple.com-speed-macos.live
@@ -70049,6 +70071,8 @@
 :: www.js-cdn.dynatrace.com
 0.0.0.0 www.jsgo979.com
 :: www.jsgo979.com
+0.0.0.0 www.jshonghuadq.com
+:: www.jshonghuadq.com
 0.0.0.0 www.jshosting.bi
 :: www.jshosting.bi
 0.0.0.0 www.jshosting.do
@@ -70163,8 +70187,6 @@
 :: www.kinomarathon.ru
 0.0.0.0 www.kitchentablegang.org
 :: www.kitchentablegang.org
-0.0.0.0 www.klanglos-studio.de
-:: www.klanglos-studio.de
 0.0.0.0 www.klikdirect.com
 :: www.klikdirect.com
 0.0.0.0 www.klikijuz.com
@@ -70361,8 +70383,6 @@
 :: www.loansbadcredit.net.au
 0.0.0.0 www.locatorprotocol.com
 :: www.locatorprotocol.com
-0.0.0.0 www.log-in-verlag.de
-:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -70913,8 +70933,6 @@
 :: www.onlyfreeoffersonline.com
 0.0.0.0 www.ontheweb.com
 :: www.ontheweb.com
-0.0.0.0 www.oo5.com
-:: www.oo5.com
 0.0.0.0 www.oollttqq.com
 :: www.oollttqq.com
 0.0.0.0 www.ooniu.com
@@ -71381,6 +71399,8 @@
 :: www.rempko.sk
 0.0.0.0 www.renameit.com
 :: www.renameit.com
+0.0.0.0 www.renminben.com
+:: www.renminben.com
 0.0.0.0 www.rethemniotikokarnavali.gr
 :: www.rethemniotikokarnavali.gr
 0.0.0.0 www.revisitors.com
