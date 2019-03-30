@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Mar 29 06:50:07 CET 2019
+# Last update: Sat Mar 30 05:36:52 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37192
+# Number of unique hostnames: 37194
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -14155,6 +14155,8 @@
 :: analytics.apnewsregistry.com
 0.0.0.0 analytics.archive.org
 :: analytics.archive.org
+0.0.0.0 analytics.arinetapi.com
+:: analytics.arinetapi.com
 0.0.0.0 analytics.arubamediamarketing.it
 :: analytics.arubamediamarketing.it
 0.0.0.0 analytics.atlassian.com
@@ -15393,12 +15395,16 @@
 :: app1.letitbefaster.life
 0.0.0.0 app1.letitbefaster.today
 :: app1.letitbefaster.today
+0.0.0.0 app1.letmacworkfaster.site
+:: app1.letmacworkfaster.site
 0.0.0.0 app2.downloadmacsoft.world
 :: app2.downloadmacsoft.world
 0.0.0.0 app2.letitbefaster.life
 :: app2.letitbefaster.life
 0.0.0.0 app2.letmacwork.world
 :: app2.letmacwork.world
+0.0.0.0 app2.letmacworkfaster.site
+:: app2.letmacworkfaster.site
 0.0.0.0 app2.letslowbefast.life
 :: app2.letslowbefast.life
 0.0.0.0 app3.letitbefaster.life
@@ -18263,6 +18269,8 @@
 :: bd1.nxing.cn
 0.0.0.0 bd1.pipaw.com
 :: bd1.pipaw.com
+0.0.0.0 bd1.sosg.net
+:: bd1.sosg.net
 0.0.0.0 bd1.szhk.com
 :: bd1.szhk.com
 0.0.0.0 bd1.wowoqq.com
@@ -18905,6 +18913,8 @@
 :: blitearagon.000webhostapp.com
 0.0.0.0 block.mediavenus.biz
 :: block.mediavenus.biz
+0.0.0.0 block734.oplatyi.pl
+:: block734.oplatyi.pl
 0.0.0.0 blockchain.info.datasellnow.com
 :: blockchain.info.datasellnow.com
 0.0.0.0 blockedfbservice.16mb.com
@@ -29133,8 +29143,6 @@
 :: eland.doublemax.net
 0.0.0.0 elbcradio.tcalr.org
 :: elbcradio.tcalr.org
-0.0.0.0 electricfence.levsantronic.ro
-:: electricfence.levsantronic.ro
 0.0.0.0 electro.demos.su
 :: electro.demos.su
 0.0.0.0 electrohemostasis.makemoneywithmegan.net
@@ -31887,6 +31895,8 @@
 :: galaxy.sogoucdn.com
 0.0.0.0 galent1.000webhostapp.com
 :: galent1.000webhostapp.com
+0.0.0.0 galifeu-kolsmmrwoytjfvofzfg.stackpathdns.com
+:: galifeu-kolsmmrwoytjfvofzfg.stackpathdns.com
 0.0.0.0 galkavk.esy.es
 :: galkavk.esy.es
 0.0.0.0 gall.dcinside.com
@@ -35061,6 +35071,8 @@
 :: iframes.prettyincash.com
 0.0.0.0 ifs.tanx.com
 :: ifs.tanx.com
+0.0.0.0 ifteiha.lions-mark.com
+:: ifteiha.lions-mark.com
 0.0.0.0 ifwry.yeslaptop.win
 :: ifwry.yeslaptop.win
 0.0.0.0 ig.insightgrit.com
@@ -37853,8 +37865,6 @@
 :: kindergarten.4760.at
 0.0.0.0 kine.web4me.fr
 :: kine.web4me.fr
-0.0.0.0 kineclick.free.fr
-:: kineclick.free.fr
 0.0.0.0 kinetictokenforms.typeform.com
 :: kinetictokenforms.typeform.com
 0.0.0.0 king.humoromg.com
@@ -39739,8 +39749,6 @@
 :: lucibad.home.ro
 0.0.0.0 lucid.trslack.com
 :: lucid.trslack.com
-0.0.0.0 luckyshop.net.ua
-:: luckyshop.net.ua
 0.0.0.0 luesojz.angelcities.com
 :: luesojz.angelcities.com
 0.0.0.0 luffyyaq.beget.tech
@@ -42763,8 +42771,6 @@
 :: mobile.traffic-tracker.net
 0.0.0.0 mobile.updatescotia.crystalls.com
 :: mobile.updatescotia.crystalls.com
-0.0.0.0 mobile0363.harddayforall4.life
-:: mobile0363.harddayforall4.life
 0.0.0.0 mobile18.in.com
 :: mobile18.in.com
 0.0.0.0 mobile2.da.mgtv.com
@@ -49911,6 +49917,8 @@
 :: premium.ascensionweb.com
 0.0.0.0 premium.aws.wix.com
 :: premium.aws.wix.com
+0.0.0.0 premium.ihuh.pl
+:: premium.ihuh.pl
 0.0.0.0 premium.naturalnews.tv
 :: premium.naturalnews.tv
 0.0.0.0 premium.wix.com
@@ -52463,6 +52471,8 @@
 :: revsci.tvguide.com
 0.0.0.0 reward-zone.treatmentthrone.xyz
 :: reward-zone.treatmentthrone.xyz
+0.0.0.0 reward2496.harddayforall9.icu
+:: reward2496.harddayforall9.icu
 0.0.0.0 rewdedaa.gratisdejtingsajter.com
 :: rewdedaa.gratisdejtingsajter.com
 0.0.0.0 rexafajay.axfree.com
@@ -60937,8 +60947,6 @@
 :: topnews.smi.one
 0.0.0.0 topping.od.ua
 :: topping.od.ua
-0.0.0.0 topresistor.gotoip2.com
-:: topresistor.gotoip2.com
 0.0.0.0 topsites.blogflux.com
 :: topsites.blogflux.com
 0.0.0.0 topsites.cearchives.com
@@ -64131,8 +64139,6 @@
 :: url.jiemengle.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
-0.0.0.0 urladyms.newlogiq.com
-:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -69307,8 +69313,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
@@ -69435,8 +69439,6 @@
 :: www.gcmadvertising.com
 0.0.0.0 www.gcs1.cn
 :: www.gcs1.cn
-0.0.0.0 www.gdlbdzkj.com
-:: www.gdlbdzkj.com
 0.0.0.0 www.gdpr-service.herokuapp.com
 :: www.gdpr-service.herokuapp.com
 0.0.0.0 www.gelios.msk.ru
@@ -70383,6 +70385,8 @@
 :: www.loansbadcredit.net.au
 0.0.0.0 www.locatorprotocol.com
 :: www.locatorprotocol.com
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
