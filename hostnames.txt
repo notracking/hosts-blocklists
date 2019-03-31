@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Mar 30 05:36:52 CET 2019
+# Last update: Sun Mar 31 06:22:28 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37194
+# Number of unique hostnames: 37195
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -151,6 +151,8 @@
 :: 1.201980.com
 0.0.0.0 1.21shebao.com
 :: 1.21shebao.com
+0.0.0.0 1.32xp.com
+:: 1.32xp.com
 0.0.0.0 1.51sxue.cn
 :: 1.51sxue.cn
 0.0.0.0 1.5646.cn
@@ -3219,8 +3221,6 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
-0.0.0.0 abusalewm.exceltoner.com
-:: abusalewm.exceltoner.com
 0.0.0.0 ac.ajur.info
 :: ac.ajur.info
 0.0.0.0 ac.atpanel.com
@@ -19035,6 +19035,8 @@
 :: bms.xenium.bg
 0.0.0.0 bms.zeptolab.com
 :: bms.zeptolab.com
+0.0.0.0 bmt.almuhsin.org
+:: bmt.almuhsin.org
 0.0.0.0 bmvip.alimama.cn
 :: bmvip.alimama.cn
 0.0.0.0 bmw2ep.paomifen.cn
@@ -33045,8 +33047,6 @@
 :: gserv.cneteu.net
 0.0.0.0 gserv.zdnet.co.uk
 :: gserv.zdnet.co.uk
-0.0.0.0 gsimon.edu.free.fr
-:: gsimon.edu.free.fr
 0.0.0.0 gsiworld.neostrada.pl
 :: gsiworld.neostrada.pl
 0.0.0.0 gsm-mobile-phone.beesearch.info
@@ -64139,6 +64139,8 @@
 :: url.jiemengle.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
+0.0.0.0 urladyms.newlogiq.com
+:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -67421,6 +67423,8 @@
 :: wswb3.surf-town.net
 0.0.0.0 wt.adtrue24.com
 :: wt.adtrue24.com
+0.0.0.0 wt.bankmillennium.pl
+:: wt.bankmillennium.pl
 0.0.0.0 wt.lovfot.ru
 :: wt.lovfot.ru
 0.0.0.0 wt.o.nytimes.com
@@ -68211,8 +68215,6 @@
 :: www.api.ad.intl.xiaomi.com
 0.0.0.0 www.api.convertkit.com
 :: www.api.convertkit.com
-0.0.0.0 www.apmc.com.hk
-:: www.apmc.com.hk
 0.0.0.0 www.app.convertkit.com
 :: www.app.convertkit.com
 0.0.0.0 www.appafile.com
@@ -69313,6 +69315,8 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
+0.0.0.0 www.fishingtackleindia.com
+:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
@@ -71403,8 +71407,6 @@
 :: www.rempko.sk
 0.0.0.0 www.renameit.com
 :: www.renameit.com
-0.0.0.0 www.renminben.com
-:: www.renminben.com
 0.0.0.0 www.rethemniotikokarnavali.gr
 :: www.rethemniotikokarnavali.gr
 0.0.0.0 www.revisitors.com
@@ -72023,8 +72025,6 @@
 :: www.tiergestuetzt.de
 0.0.0.0 www.timefor.com
 :: www.timefor.com
-0.0.0.0 www.timelessimagesmi.com
-:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tings.com
@@ -74277,6 +74277,8 @@
 :: zonderzorgen.000webhostapp.com
 0.0.0.0 zone.laurita.net
 :: zone.laurita.net
+0.0.0.0 zontent.powvideo.net
+:: zontent.powvideo.net
 0.0.0.0 zoolandia.boo.pl
 :: zoolandia.boo.pl
 0.0.0.0 zork.jerkngo.com
