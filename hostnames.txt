@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Apr 1 05:23:06 CEST 2019
+# Last update: Tue Apr 2 05:23:59 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37204
+# Number of unique hostnames: 37201
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3219,6 +3219,8 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
+0.0.0.0 abusalewm.exceltoner.com
+:: abusalewm.exceltoner.com
 0.0.0.0 ac.ajur.info
 :: ac.ajur.info
 0.0.0.0 ac.atpanel.com
@@ -19421,8 +19423,6 @@
 :: britneyspears.1stok.com
 0.0.0.0 britneyspears.ca.tt
 :: britneyspears.ca.tt
-0.0.0.0 britts.oharvest.net
-:: britts.oharvest.net
 0.0.0.0 briut.fruitfuldemo.com
 :: briut.fruitfuldemo.com
 0.0.0.0 bro.flyme.cn
@@ -25167,6 +25167,8 @@
 :: d1i2v9a8xom2hy.cloudfront.net
 0.0.0.0 d1i9kr6k34lyp.cloudfront.net
 :: d1i9kr6k34lyp.cloudfront.net
+0.0.0.0 d1il9t8pu4dsoj.cloudfront.net
+:: d1il9t8pu4dsoj.cloudfront.net
 0.0.0.0 d1ivexoxmp59q7.cloudfront.net
 :: d1ivexoxmp59q7.cloudfront.net
 0.0.0.0 d1izbwxtc3f9ue.cloudfront.net
@@ -28659,8 +28661,6 @@
 :: e.fimky.com
 0.0.0.0 e.freewebhostingarea.com
 :: e.freewebhostingarea.com
-0.0.0.0 e.fshet.com
-:: e.fshet.com
 0.0.0.0 e.gglay.com
 :: e.gglay.com
 0.0.0.0 e.gjiaj.com
@@ -28755,8 +28755,6 @@
 :: e.tuoaa.com
 0.0.0.0 e.vaxyz.com
 :: e.vaxyz.com
-0.0.0.0 e.vcaif.com
-:: e.vcaif.com
 0.0.0.0 e.vjuei.com
 :: e.vjuei.com
 0.0.0.0 e.vpeny.com
@@ -29869,6 +29867,8 @@
 :: ewstv.abc15.com
 0.0.0.0 ex.banner.t-online.de
 :: ex.banner.t-online.de
+0.0.0.0 ex.infox.sg
+:: ex.infox.sg
 0.0.0.0 ex.joyjasp.com
 :: ex.joyjasp.com
 0.0.0.0 ex.mdtoday.co.kr
@@ -40019,8 +40019,6 @@
 :: m.fhxsw.org
 0.0.0.0 m.fimky.com
 :: m.fimky.com
-0.0.0.0 m.fshet.com
-:: m.fshet.com
 0.0.0.0 m.game.weibo.cn
 :: m.game.weibo.cn
 0.0.0.0 m.gameyun907.net
@@ -40115,8 +40113,6 @@
 :: m.login-secured.liraon.com
 0.0.0.0 m.loldlxmy.com
 :: m.loldlxmy.com
-0.0.0.0 m.lpaoz.com
-:: m.lpaoz.com
 0.0.0.0 m.lu.sogou.com
 :: m.lu.sogou.com
 0.0.0.0 m.maila88.com
@@ -49533,8 +49529,6 @@
 :: polskieinfo365.wordpress.com
 0.0.0.0 pomfjaunvb.scrapper-site.net
 :: pomfjaunvb.scrapper-site.net
-0.0.0.0 pong.fccay.cn
-:: pong.fccay.cn
 0.0.0.0 pong.netcaptor.com
 :: pong.netcaptor.com
 0.0.0.0 pong.prognet.com
@@ -51587,6 +51581,8 @@
 :: razorweb-a.akamaihd.net
 0.0.0.0 rb.burstway.com
 :: rb.burstway.com
+0.0.0.0 rb.infox.sg
+:: rb.infox.sg
 0.0.0.0 rb.kleo.ru
 :: rb.kleo.ru
 0.0.0.0 rb.newsru.com
@@ -59811,6 +59807,8 @@
 :: tagdol.dothome.co.kr
 0.0.0.0 tagging.outrider.com
 :: tagging.outrider.com
+0.0.0.0 tagipur.mrsstyleseeker.com
+:: tagipur.mrsstyleseeker.com
 0.0.0.0 taglocker.target.com
 :: taglocker.target.com
 0.0.0.0 tags.1001spiele.de
@@ -63481,6 +63479,8 @@
 :: universitdegeneve.weebly.com
 0.0.0.0 unjs.jfcdns.com
 :: unjs.jfcdns.com
+0.0.0.0 unknow.now.sh
+:: unknow.now.sh
 0.0.0.0 unknown.counsellor.gov.cn
 :: unknown.counsellor.gov.cn
 0.0.0.0 unlink.altitude.lv
@@ -64153,8 +64153,6 @@
 :: url.jiemengle.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
-0.0.0.0 urladyms.newlogiq.com
-:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -69331,8 +69329,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
@@ -70405,8 +70401,6 @@
 :: www.loansbadcredit.net.au
 0.0.0.0 www.locatorprotocol.com
 :: www.locatorprotocol.com
-0.0.0.0 www.log-in-verlag.de
-:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -71467,8 +71461,6 @@
 :: www.roulettebotplus.com
 0.0.0.0 www.roxyaffiliates.com
 :: www.roxyaffiliates.com
-0.0.0.0 www.rrrwwwa.com
-:: www.rrrwwwa.com
 0.0.0.0 www.rsmtrack.com
 :: www.rsmtrack.com
 0.0.0.0 www.rsptrack.com
@@ -72013,6 +72005,8 @@
 :: www.thelifeisbinary.netlify.com
 0.0.0.0 www.theprofitsmaker.net
 :: www.theprofitsmaker.net
+0.0.0.0 www.therapiehyperbare.com
+:: www.therapiehyperbare.com
 0.0.0.0 www.thereefrestaurant.com
 :: www.thereefrestaurant.com
 0.0.0.0 www.thesarus.co
@@ -72041,6 +72035,8 @@
 :: www.tiergestuetzt.de
 0.0.0.0 www.timefor.com
 :: www.timefor.com
+0.0.0.0 www.timelessimagesmi.com
+:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tings.com
@@ -73111,8 +73107,6 @@
 :: x-box.t35.com
 0.0.0.0 x.120ask.com
 :: x.120ask.com
-0.0.0.0 x.12381236.com
-:: x.12381236.com
 0.0.0.0 x.9dagui.com
 :: x.9dagui.com
 0.0.0.0 x.9zt8hy.com
