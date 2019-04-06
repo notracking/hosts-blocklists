@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Apr 5 06:51:24 CEST 2019
+# Last update: Sat Apr 6 05:33:15 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37201
+# Number of unique hostnames: 37203
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -38181,6 +38181,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -68161,6 +68163,8 @@
 :: www.alladultdirectory.net
 0.0.0.0 www.almondnetworks.com
 :: www.almondnetworks.com
+0.0.0.0 www.alnimrexpo.com
+:: www.alnimrexpo.com
 0.0.0.0 www.alpcity.pl
 :: www.alpcity.pl
 0.0.0.0 www.alphamedical02.fr
@@ -70401,6 +70405,8 @@
 :: www.loansbadcredit.net.au
 0.0.0.0 www.locatorprotocol.com
 :: www.locatorprotocol.com
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -70685,8 +70691,6 @@
 :: www.moviedownloader.net
 0.0.0.0 www.moviestarplanethack.info
 :: www.moviestarplanethack.info
-0.0.0.0 www.movingtransfer.com
-:: www.movingtransfer.com
 0.0.0.0 www.mp-mail.nl
 :: www.mp-mail.nl
 0.0.0.0 www.mp3downloadhq.com
