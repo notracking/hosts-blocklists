@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Apr 9 05:38:10 CEST 2019
+# Last update: Wed Apr 10 05:40:00 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37137
+# Number of unique hostnames: 37149
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3221,6 +3221,8 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
+0.0.0.0 abusalewm.exceltoner.com
+:: abusalewm.exceltoner.com
 0.0.0.0 ac.ajur.info
 :: ac.ajur.info
 0.0.0.0 ac.atpanel.com
@@ -15633,6 +15635,8 @@
 :: apps-sslsecurecust-service35406506985.users-sders.com
 0.0.0.0 apps.bittorrent.com
 :: apps.bittorrent.com
+0.0.0.0 apps.corel.com
+:: apps.corel.com
 0.0.0.0 apps.disrayco.com
 :: apps.disrayco.com
 0.0.0.0 apps.fb.com-copyrights-suport.xyz
@@ -26273,6 +26277,8 @@
 :: dal.d.la
 0.0.0.0 dal9hkyfi0m0n.cloudfront.net
 :: dal9hkyfi0m0n.cloudfront.net
+0.0.0.0 dam.corel.com
+:: dam.corel.com
 0.0.0.0 dam.zhqryw.cn
 :: dam.zhqryw.cn
 0.0.0.0 damm.royalfootweardistrict.com
@@ -28653,8 +28659,6 @@
 :: e.invodo.com
 0.0.0.0 e.ituiy.com
 :: e.ituiy.com
-0.0.0.0 e.iyuey.com
-:: e.iyuey.com
 0.0.0.0 e.izaos.com
 :: e.izaos.com
 0.0.0.0 e.jiaas.com
@@ -36445,6 +36449,8 @@
 :: ipm.atm.cp31.ott.cibntv.net
 0.0.0.0 ipm.atm.youku.com
 :: ipm.atm.youku.com
+0.0.0.0 ipm.corel.com
+:: ipm.corel.com
 0.0.0.0 iptoo.cruisingsmallship.com
 :: iptoo.cruisingsmallship.com
 0.0.0.0 ipv4-count.gmx.net
@@ -36653,6 +36659,8 @@
 :: iwanad.baidu.com
 0.0.0.0 iwhab.randbinternationaltravel.com
 :: iwhab.randbinternationaltravel.com
+0.0.0.0 iws.corel.com
+:: iws.corel.com
 0.0.0.0 iwstat.tudou.com
 :: iwstat.tudou.com
 0.0.0.0 ixmwqbvtibvv428mu4as.maherstcottage.com.au
@@ -38153,6 +38161,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -40053,6 +40063,8 @@
 :: m.ishangtong.com
 0.0.0.0 m.ituiy.com
 :: m.ituiy.com
+0.0.0.0 m.iygeoy.com
+:: m.iygeoy.com
 0.0.0.0 m.izaos.com
 :: m.izaos.com
 0.0.0.0 m.jhcgood.com
@@ -40193,6 +40205,8 @@
 :: m.shopathome.com
 0.0.0.0 m.simba.taobao.com
 :: m.simba.taobao.com
+0.0.0.0 m.siwyom.com
+:: m.siwyom.com
 0.0.0.0 m.smsquiz.pl
 :: m.smsquiz.pl
 0.0.0.0 m.symac.cn
@@ -40429,8 +40443,6 @@
 :: mackeeperapp1.zeobit.com
 0.0.0.0 mackolikftp.tuttur.com
 :: mackolikftp.tuttur.com
-0.0.0.0 macplatform.wondershare.com
-:: macplatform.wondershare.com
 0.0.0.0 macrosdaycl.000webhostapp.com
 :: macrosdaycl.000webhostapp.com
 0.0.0.0 mad.m.maxthon.cn
@@ -41051,6 +41063,8 @@
 :: mbs.youjizzlive.com
 0.0.0.0 mc-siderail.spot.im
 :: mc-siderail.spot.im
+0.0.0.0 mc.corel.com
+:: mc.corel.com
 0.0.0.0 mc.dailymotion.com
 :: mc.dailymotion.com
 0.0.0.0 mc.hujiang.com
@@ -46301,6 +46315,8 @@
 :: orgy.usatown.net
 0.0.0.0 orig.aktuaris.or.id
 :: orig.aktuaris.or.id
+0.0.0.0 origin-mc.corel.com
+:: origin-mc.corel.com
 0.0.0.0 origin-tracking.trulia.com
 :: origin-tracking.trulia.com
 0.0.0.0 origin.chron.com
@@ -49049,8 +49065,6 @@
 :: platform.stumbleupon.com
 0.0.0.0 platform.tumblr.com
 :: platform.tumblr.com
-0.0.0.0 platform.wondershare.com
-:: platform.wondershare.com
 0.0.0.0 platfrom-api.vidazoo.com
 :: platfrom-api.vidazoo.com
 0.0.0.0 platiniferous-buckl.000webhostapp.com
@@ -59181,6 +59195,8 @@
 :: sworkitads.herokuapp.com
 0.0.0.0 swpgjai.pop.weddingeeos.com
 :: swpgjai.pop.weddingeeos.com
+0.0.0.0 sws.corel.com
+:: sws.corel.com
 0.0.0.0 swswfwsf.beckmenlaw.net
 :: swswfwsf.beckmenlaw.net
 0.0.0.0 swwsbk.greatriverohio.net
@@ -60059,8 +60075,6 @@
 :: tech.weeklytribune.net
 0.0.0.0 techexpress.home.mindspring.com
 :: techexpress.home.mindspring.com
-0.0.0.0 techhome-js.github.io
-:: techhome-js.github.io
 0.0.0.0 techinvaa.000webhostapp.com
 :: techinvaa.000webhostapp.com
 0.0.0.0 technickauniverzitaostravaupdate.weebly.com
@@ -61801,6 +61815,8 @@
 :: tracker.departapp.com
 0.0.0.0 tracker.dev.hearst.nl
 :: tracker.dev.hearst.nl
+0.0.0.0 tracker.digitalcamp.co.kr
+:: tracker.digitalcamp.co.kr
 0.0.0.0 tracker.divvit.com
 :: tracker.divvit.com
 0.0.0.0 tracker.drippler.com
@@ -63179,6 +63195,8 @@
 :: ugg.keefung-zs.com
 0.0.0.0 ughmvqf.spitt.ru
 :: ughmvqf.spitt.ru
+0.0.0.0 uglyugly.savedalyfield.com
+:: uglyugly.savedalyfield.com
 0.0.0.0 ugwebz.uk.pn
 :: ugwebz.uk.pn
 0.0.0.0 ugyenacademy.edu.bt
@@ -65771,6 +65789,8 @@
 :: w6bfg4hahn5bfnlsafgchkvg5fwsfvrt.hareuna.at
 0.0.0.0 w7.sahajcare.org
 :: w7.sahajcare.org
+0.0.0.0 w82.googleecdn.com
+:: w82.googleecdn.com
 0.0.0.0 w84mv7.lol.airporttaxipershore.co.uk
 :: w84mv7.lol.airporttaxipershore.co.uk
 0.0.0.0 w88.go.com
@@ -70819,6 +70839,8 @@
 :: www.onlyfreeoffersonline.com
 0.0.0.0 www.ontheweb.com
 :: www.ontheweb.com
+0.0.0.0 www.oo5.com
+:: www.oo5.com
 0.0.0.0 www.oollttqq.com
 :: www.oollttqq.com
 0.0.0.0 www.ooniu.com
@@ -71901,6 +71923,8 @@
 :: www.tiergestuetzt.de
 0.0.0.0 www.timefor.com
 :: www.timefor.com
+0.0.0.0 www.timelessimagesmi.com
+:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tings.com
