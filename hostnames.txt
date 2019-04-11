@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Apr 10 05:40:00 CEST 2019
+# Last update: Thu Apr 11 05:26:07 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37149
+# Number of unique hostnames: 37171
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2497,6 +2497,8 @@
 :: a.dounanhuahui.com
 0.0.0.0 a.duanmeiwen.com
 :: a.duanmeiwen.com
+0.0.0.0 a.duduji.com
+:: a.duduji.com
 0.0.0.0 a.dynad.net
 :: a.dynad.net
 0.0.0.0 a.ecook.cn
@@ -28695,6 +28697,8 @@
 :: e.okfhn.com
 0.0.0.0 e.oyrim.com
 :: e.oyrim.com
+0.0.0.0 e.ozwqxi.cn
+:: e.ozwqxi.cn
 0.0.0.0 e.poonscn.com
 :: e.poonscn.com
 0.0.0.0 e.ppaie.com
@@ -28761,6 +28765,8 @@
 :: e.ysdangan.com
 0.0.0.0 e.yycqc.com
 :: e.yycqc.com
+0.0.0.0 e.zvfuka.cn
+:: e.zvfuka.cn
 0.0.0.0 e2.molbuk.ua
 :: e2.molbuk.ua
 0.0.0.0 e2b8u3v8.map2.ssl.hwcdn.net
@@ -31125,6 +31131,8 @@
 :: fjkdledcsc.5gbfree.com
 0.0.0.0 fkads.foxkids.com
 :: fkads.foxkids.com
+0.0.0.0 fkm.unbrah.ac.id
+:: fkm.unbrah.ac.id
 0.0.0.0 fkooaee.angelcities.com
 :: fkooaee.angelcities.com
 0.0.0.0 fl.milesplit.com
@@ -36273,6 +36281,8 @@
 :: inte.sogou.com
 0.0.0.0 inte.theta.sogoucdn.com
 :: inte.theta.sogoucdn.com
+0.0.0.0 intech.lru.ac.th
+:: intech.lru.ac.th
 0.0.0.0 intelhdgraphicsgtdrive6w.metroblog.com
 :: intelhdgraphicsgtdrive6w.metroblog.com
 0.0.0.0 intelli.ageuk.org.uk
@@ -37411,6 +37421,8 @@
 :: jsb.qianzhan.com
 0.0.0.0 jsc.dinclinx.com
 :: jsc.dinclinx.com
+0.0.0.0 jsc.go.ke
+:: jsc.go.ke
 0.0.0.0 jsc.tovarro.com
 :: jsc.tovarro.com
 0.0.0.0 jscode.acg68.com
@@ -37743,6 +37755,8 @@
 :: keisu.eproof.com
 0.0.0.0 keisu02.eproof.com
 :: keisu02.eproof.com
+0.0.0.0 kelas1.inasweb.com
+:: kelas1.inasweb.com
 0.0.0.0 kele1688.web23.badudns.cc
 :: kele1688.web23.badudns.cc
 0.0.0.0 kelifi3c.beget.tech
@@ -39907,6 +39921,8 @@
 :: m.cenrs.com
 0.0.0.0 m.chenhuia.com
 :: m.chenhuia.com
+0.0.0.0 m.ckaim.com
+:: m.ckaim.com
 0.0.0.0 m.clkservice.youdao.com
 :: m.clkservice.youdao.com
 0.0.0.0 m.cocounion.com
@@ -40059,12 +40075,16 @@
 :: m.ilancc.com
 0.0.0.0 m.iorgb.com
 :: m.iorgb.com
+0.0.0.0 m.iqasgw.com
+:: m.iqasgw.com
 0.0.0.0 m.ishangtong.com
 :: m.ishangtong.com
 0.0.0.0 m.ituiy.com
 :: m.ituiy.com
 0.0.0.0 m.iygeoy.com
 :: m.iygeoy.com
+0.0.0.0 m.iygqhe.cn
+:: m.iygqhe.cn
 0.0.0.0 m.izaos.com
 :: m.izaos.com
 0.0.0.0 m.jhcgood.com
@@ -40083,6 +40103,8 @@
 :: m.khaiu.com
 0.0.0.0 m.kubiqq.com
 :: m.kubiqq.com
+0.0.0.0 m.kuptmf.cn
+:: m.kuptmf.cn
 0.0.0.0 m.lab-mills.com
 :: m.lab-mills.com
 0.0.0.0 m.laigame7.net
@@ -40223,8 +40245,12 @@
 :: m.tbenc.com
 0.0.0.0 m.tcenn.com
 :: m.tcenn.com
+0.0.0.0 m.tdiac.com
+:: m.tdiac.com
 0.0.0.0 m.tdiea.com
 :: m.tdiea.com
+0.0.0.0 m.tfeic.com
+:: m.tfeic.com
 0.0.0.0 m.tiantianedu.net
 :: m.tiantianedu.net
 0.0.0.0 m.trb.com
@@ -40321,6 +40347,8 @@
 :: m.zbied.com
 0.0.0.0 m.zeiaa.com
 :: m.zeiaa.com
+0.0.0.0 m.zvfuka.cn
+:: m.zvfuka.cn
 0.0.0.0 m0-s.san.ru
 :: m0-s.san.ru
 0.0.0.0 m1.27com.com
@@ -43555,6 +43583,8 @@
 :: nadjibsoft.blogspot.com
 0.0.0.0 nagarkusumbihsn.edu.bd
 :: nagarkusumbihsn.edu.bd
+0.0.0.0 najlepsiebyvanie.webmerc.eu
+:: najlepsiebyvanie.webmerc.eu
 0.0.0.0 najprzydatniejsze.blogspot.com
 :: najprzydatniejsze.blogspot.com
 0.0.0.0 names.indianmedsupplies.co.in
@@ -47129,8 +47159,6 @@
 :: pacificspraybooths.com.au.secureserverdocumentaccountonline.com.sellclerk.com
 0.0.0.0 pacman.gkgar.com
 :: pacman.gkgar.com
-0.0.0.0 padsdel.cdnads.com
-:: padsdel.cdnads.com
 0.0.0.0 pagaesfbmc.000webhostapp.com
 :: pagaesfbmc.000webhostapp.com
 0.0.0.0 page-01.pe.hu
@@ -49587,8 +49615,6 @@
 :: poriferous-graphs.000webhostapp.com
 0.0.0.0 pork.2tumeng.com
 :: pork.2tumeng.com
-0.0.0.0 porn.marvin-vibez.in
-:: porn.marvin-vibez.in
 0.0.0.0 pornhub-forum.uni.me
 :: pornhub-forum.uni.me
 0.0.0.0 pornhub.tardangro.com
@@ -50835,8 +50861,6 @@
 :: push.app.autohome.com.cn
 0.0.0.0 push.appsgeyser.com
 :: push.appsgeyser.com
-0.0.0.0 push.cdnads.com
-:: push.cdnads.com
 0.0.0.0 push.com2us.net
 :: push.com2us.net
 0.0.0.0 push.m.youku.com
@@ -50923,6 +50947,8 @@
 :: px.adhigh.net
 0.0.0.0 px.ads.linkedin.com
 :: px.ads.linkedin.com
+0.0.0.0 px.boundhub.com
+:: px.boundhub.com
 0.0.0.0 px.excitedigitalmedia.com
 :: px.excitedigitalmedia.com
 0.0.0.0 px.gfycat.com
@@ -53177,6 +53203,8 @@
 :: s.zlongad.com
 0.0.0.0 s01.delivery.addynamo.com
 :: s01.delivery.addynamo.com
+0.0.0.0 s01.hostcontent.live
+:: s01.hostcontent.live
 0.0.0.0 s01.vidtod.me
 :: s01.vidtod.me
 0.0.0.0 s01.vidtodo.pro
@@ -53187,6 +53215,8 @@
 :: s02.vidtod.me
 0.0.0.0 s03.optimix.asia
 :: s03.optimix.asia
+0.0.0.0 s09.hostcontent.live
+:: s09.hostcontent.live
 0.0.0.0 s0c572u6iu4x3b05rdso.alfacomercial.com.br
 :: s0c572u6iu4x3b05rdso.alfacomercial.com.br
 0.0.0.0 s0e3nwd7mhf45sghuds3.businessrulesanalysis.com
@@ -53251,6 +53281,10 @@
 :: s1.wan1979.com
 0.0.0.0 s1.wesiedu.com
 :: s1.wesiedu.com
+0.0.0.0 s11.hostcontent.live
+:: s11.hostcontent.live
+0.0.0.0 s12.hostcontent.live
+:: s12.hostcontent.live
 0.0.0.0 s12an3.boss.northerndishedends.uk
 :: s12an3.boss.northerndishedends.uk
 0.0.0.0 s133d7.virtualxs.com
@@ -53937,6 +53971,8 @@
 :: savefree.000webhostapp.com
 0.0.0.0 saveourlifes.niwamembers.com
 :: saveourlifes.niwamembers.com
+0.0.0.0 savetax.idfcmf.com
+:: savetax.idfcmf.com
 0.0.0.0 savior.mypen.is
 :: savior.mypen.is
 0.0.0.0 savoir-vivre.etiquette.by
@@ -56017,6 +56053,8 @@
 :: shoppstop.comood.opsource.net
 0.0.0.0 shopriteco.besaba.com
 :: shopriteco.besaba.com
+0.0.0.0 short.id.au
+:: short.id.au
 0.0.0.0 shouji.yd126.com
 :: shouji.yd126.com
 0.0.0.0 shovi.frost-electric-supply.com
@@ -69389,6 +69427,8 @@
 :: www.getworldpassport.com
 0.0.0.0 www.gewinnspiele-slotmachine.de
 :: www.gewinnspiele-slotmachine.de
+0.0.0.0 www.gggwwwe.com
+:: www.gggwwwe.com
 0.0.0.0 www.ghareebkar.com
 :: www.ghareebkar.com
 0.0.0.0 www.giftcardsurveys.us.com
@@ -73265,6 +73305,8 @@
 :: xiaoshuo.zhandao.net
 0.0.0.0 xiazai.cdren.com
 :: xiazai.cdren.com
+0.0.0.0 xiazai.crossoverchina.com
+:: xiazai.crossoverchina.com
 0.0.0.0 xiazai.downok.com
 :: xiazai.downok.com
 0.0.0.0 xiazai.rilibiao.com.cn
@@ -73371,6 +73413,8 @@
 :: xoomer.virgilio.it
 0.0.0.0 xorgwebs.webs.com
 :: xorgwebs.webs.com
+0.0.0.0 xoso.thememanga.com
+:: xoso.thememanga.com
 0.0.0.0 xotsa.frenchgerlemanelectric.com
 :: xotsa.frenchgerlemanelectric.com
 0.0.0.0 xpcs.ads.yahoo.com
