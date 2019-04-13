@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Apr 12 07:08:35 CEST 2019
+# Last update: Sat Apr 13 05:29:13 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37185
+# Number of unique hostnames: 37188
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2889,6 +2889,8 @@
 :: a1.qqtn.com
 0.0.0.0 a1.security-next.com
 :: a1.security-next.com
+0.0.0.0 a1.shusanqi.com
+:: a1.shusanqi.com
 0.0.0.0 a1.sumiaowang.com
 :: a1.sumiaowang.com
 0.0.0.0 a1.suntimes.com
@@ -3039,6 +3041,8 @@
 :: a9shd.realshieldlinked.com
 0.0.0.0 aa.gushiwen.org
 :: aa.gushiwen.org
+0.0.0.0 aa.jiangzi.com
+:: aa.jiangzi.com
 0.0.0.0 aa.oasfile.aftenposten.no
 :: aa.oasfile.aftenposten.no
 0.0.0.0 aa.sdo.com
@@ -3267,6 +3271,8 @@
 :: ac.ybinst9.ec.yimg.com
 0.0.0.0 ac1.ayee.net
 :: ac1.ayee.net
+0.0.0.0 ac1.faxingchina.com
+:: ac1.faxingchina.com
 0.0.0.0 ac2.msn.com
 :: ac2.msn.com
 0.0.0.0 ac3.msn.com
@@ -12077,6 +12083,8 @@
 :: adtools2.amakings.com
 0.0.0.0 adtrack.adleadevent.com
 :: adtrack.adleadevent.com
+0.0.0.0 adtrack.appcpi.net
+:: adtrack.appcpi.net
 0.0.0.0 adtrack.cimedia.net
 :: adtrack.cimedia.net
 0.0.0.0 adtrack.king.com
@@ -16617,8 +16625,6 @@
 :: b.nex.bg
 0.0.0.0 b.nkb.co.jp
 :: b.nkb.co.jp
-0.0.0.0 b.nude-moon.com
-:: b.nude-moon.com
 0.0.0.0 b.nwave.de
 :: b.nwave.de
 0.0.0.0 b.photobucket.com
@@ -18567,6 +18573,8 @@
 :: behance.vo.llnwd.net
 0.0.0.0 behave.nualias.com
 :: behave.nualias.com
+0.0.0.0 beijing.buzhi5.com
+:: beijing.buzhi5.com
 0.0.0.0 beijinglvyou.net.cn
 :: beijinglvyou.net.cn
 0.0.0.0 bekanmer01.mutu.firstheberg.net
@@ -20503,8 +20511,6 @@
 :: carec.000webhostapp.com
 0.0.0.0 careers.canwestad.net
 :: careers.canwestad.net
-0.0.0.0 caribbeanrealestate.luxuryvilladestinations.com
-:: caribbeanrealestate.luxuryvilladestinations.com
 0.0.0.0 carisoprodol.polybuild.ru
 :: carisoprodol.polybuild.ru
 0.0.0.0 carisoprodol.shengen.ru
@@ -26267,6 +26273,8 @@
 :: daima.niubb.net
 0.0.0.0 daima.ysdui.com
 :: daima.ysdui.com
+0.0.0.0 daima.yutou123.cn
+:: daima.yutou123.cn
 0.0.0.0 daimaceshi.8809.cn
 :: daimaceshi.8809.cn
 0.0.0.0 dake.net.cn
@@ -29057,8 +29065,6 @@
 :: eegad.freeservers.com
 0.0.0.0 eekro.cruisingsmallship.com
 :: eekro.cruisingsmallship.com
-0.0.0.0 eeliot.free.fr
-:: eeliot.free.fr
 0.0.0.0 eeroo.frost-electric-supply.com
 :: eeroo.frost-electric-supply.com
 0.0.0.0 eetho.cruisingsmallship.com
@@ -31937,6 +31943,8 @@
 :: gamead.swjoy.com
 0.0.0.0 gameads.digyourowngrave.com
 :: gameads.digyourowngrave.com
+0.0.0.0 gameanalisys.appcpi.net
+:: gameanalisys.appcpi.net
 0.0.0.0 gamebox.kugou.com
 :: gamebox.kugou.com
 0.0.0.0 gamecenter.iqiyi.com
@@ -35419,8 +35427,6 @@
 :: imap.creativity.it
 0.0.0.0 imap.dpsl.net
 :: imap.dpsl.net
-0.0.0.0 imap.drbill.de
-:: imap.drbill.de
 0.0.0.0 imap.eiakr.com
 :: imap.eiakr.com
 0.0.0.0 imap.hamnail.net
@@ -38193,8 +38199,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -41545,8 +41549,6 @@
 :: meravshlez.000webhostapp.com
 0.0.0.0 mercad0liv.sslblindado.com
 :: mercad0liv.sslblindado.com
-0.0.0.0 mercadolivre.krovatka.net
-:: mercadolivre.krovatka.net
 0.0.0.0 mercedes-vitoin.423.com1.ru
 :: mercedes-vitoin.423.com1.ru
 0.0.0.0 mercedwebml090.000webhostapp.com
@@ -48607,8 +48609,6 @@
 :: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
-0.0.0.0 phuongdanhvonghe.edu.vn
-:: phuongdanhvonghe.edu.vn
 0.0.0.0 phuttha9.beget.tech
 :: phuttha9.beget.tech
 0.0.0.0 pi-chin-cha.webcindario.com
@@ -49805,6 +49805,8 @@
 :: pp.nrelate.com
 0.0.0.0 pp.pplproblems.com
 :: pp.pplproblems.com
+0.0.0.0 pp.wayqq.com
+:: pp.wayqq.com
 0.0.0.0 pp1108725401z.esy.es
 :: pp1108725401z.esy.es
 0.0.0.0 pp2.dhzw.org
@@ -52221,6 +52223,8 @@
 :: rem-track.bild.de
 0.0.0.0 rem.rezonmedia.eu
 :: rem.rezonmedia.eu
+0.0.0.0 remain.appcpi.net
+:: remain.appcpi.net
 0.0.0.0 rembdgfipgouv-001-site1.btempurl.com
 :: rembdgfipgouv-001-site1.btempurl.com
 0.0.0.0 remboursement-ameli.serverplan1.com
@@ -53229,8 +53233,6 @@
 :: s.zlongad.com
 0.0.0.0 s01.delivery.addynamo.com
 :: s01.delivery.addynamo.com
-0.0.0.0 s01.hostcontent.live
-:: s01.hostcontent.live
 0.0.0.0 s01.vidtod.me
 :: s01.vidtod.me
 0.0.0.0 s01.vidtodo.pro
@@ -53241,8 +53243,6 @@
 :: s02.vidtod.me
 0.0.0.0 s03.optimix.asia
 :: s03.optimix.asia
-0.0.0.0 s09.hostcontent.live
-:: s09.hostcontent.live
 0.0.0.0 s0c572u6iu4x3b05rdso.alfacomercial.com.br
 :: s0c572u6iu4x3b05rdso.alfacomercial.com.br
 0.0.0.0 s0e3nwd7mhf45sghuds3.businessrulesanalysis.com
@@ -53269,6 +53269,8 @@
 :: s1.hiapk.com
 0.0.0.0 s1.hnhbyxdq.com
 :: s1.hnhbyxdq.com
+0.0.0.0 s1.hualaoye.com
+:: s1.hualaoye.com
 0.0.0.0 s1.huiqituan.com
 :: s1.huiqituan.com
 0.0.0.0 s1.inviziads.com
@@ -53307,10 +53309,6 @@
 :: s1.wan1979.com
 0.0.0.0 s1.wesiedu.com
 :: s1.wesiedu.com
-0.0.0.0 s11.hostcontent.live
-:: s11.hostcontent.live
-0.0.0.0 s12.hostcontent.live
-:: s12.hostcontent.live
 0.0.0.0 s12an3.boss.northerndishedends.uk
 :: s12an3.boss.northerndishedends.uk
 0.0.0.0 s133d7.virtualxs.com
@@ -55801,8 +55799,6 @@
 :: sex.xx1.ch
 0.0.0.0 sexkiss-24.web-go.net
 :: sexkiss-24.web-go.net
-0.0.0.0 sexo.gay.allmanpages.com
-:: sexo.gay.allmanpages.com
 0.0.0.0 sexway.cidadeinternet.com.br
 :: sexway.cidadeinternet.com.br
 0.0.0.0 sexy-frauen.thumblogger.com
@@ -55811,6 +55807,8 @@
 :: sexy.fling.com
 0.0.0.0 sexy.hintergrundbilder.sms13.de
 :: sexy.hintergrundbilder.sms13.de
+0.0.0.0 sexy.legratuit.com
+:: sexy.legratuit.com
 0.0.0.0 sexyperfectgirl.blogspot.com
 :: sexyperfectgirl.blogspot.com
 0.0.0.0 sexyporngirls.blogspot.ca
@@ -64725,6 +64723,8 @@
 :: vasapi.rdtuijian.com
 0.0.0.0 vashadvokat.in.ua
 :: vashadvokat.in.ua
+0.0.0.0 vast.videocdn.tv
+:: vast.videocdn.tv
 0.0.0.0 vatrack.hinet.net
 :: vatrack.hinet.net
 0.0.0.0 vb1700.mgmt.somee.com
@@ -68189,6 +68189,8 @@
 :: www.api.ad.intl.xiaomi.com
 0.0.0.0 www.api.convertkit.com
 :: www.api.convertkit.com
+0.0.0.0 www.apmc.com.hk
+:: www.apmc.com.hk
 0.0.0.0 www.app.convertkit.com
 :: www.app.convertkit.com
 0.0.0.0 www.appafile.com
@@ -68391,6 +68393,8 @@
 :: www.bdg-analytics.appspot.com
 0.0.0.0 www.bfqnup.party
 :: www.bfqnup.party
+0.0.0.0 www.bharatinfoline.com
+:: www.bharatinfoline.com
 0.0.0.0 www.biddingx.com
 :: www.biddingx.com
 0.0.0.0 www.bidwee.com
@@ -73873,6 +73877,8 @@
 :: yrpdgiti.cz.cc
 0.0.0.0 yrt7dgkf.exashare.com
 :: yrt7dgkf.exashare.com
+0.0.0.0 ys.muhoujiemi.com
+:: ys.muhoujiemi.com
 0.0.0.0 ysej.code.weddingeeos.com
 :: ysej.code.weddingeeos.com
 0.0.0.0 ysfppkzlef0hqofnsbts.businessrulesanalysis.com
@@ -73983,8 +73989,8 @@
 :: z3ytpu.gay.tathamservice.com
 0.0.0.0 z5u5gg.koll.pershoreairporttransfers.co.uk
 :: z5u5gg.koll.pershoreairporttransfers.co.uk
-0.0.0.0 z88.izhufu.net
-:: z88.izhufu.net
+0.0.0.0 z888.izhufu.net
+:: z888.izhufu.net
 0.0.0.0 z9a6mz.first.pershoretaxi.co.uk
 :: z9a6mz.first.pershoretaxi.co.uk
 0.0.0.0 z9egbju3bqplyh2brnft.littlematchagirl.com.au
