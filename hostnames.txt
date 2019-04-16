@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Apr 15 05:28:03 CEST 2019
+# Last update: Tue Apr 16 05:38:55 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37123
+# Number of unique hostnames: 37137
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -12479,6 +12479,8 @@
 :: advertiser.cyberghostvpn.com
 0.0.0.0 advertiser.lifestyleadnetwork.com
 :: advertiser.lifestyleadnetwork.com
+0.0.0.0 advertiserconnection.azurewebsites.net
+:: advertiserconnection.azurewebsites.net
 0.0.0.0 advertisers.federatedmedia.net
 :: advertisers.federatedmedia.net
 0.0.0.0 advertising.adsoundmedia.com
@@ -28597,8 +28599,6 @@
 :: e-zshopper.activeshopper.com
 0.0.0.0 e.1919388.net
 :: e.1919388.net
-0.0.0.0 e.2st5ne.cn
-:: e.2st5ne.cn
 0.0.0.0 e.51xmgys.com
 :: e.51xmgys.com
 0.0.0.0 e.60sk.ru
@@ -32499,6 +32499,8 @@
 :: ggr.yxdown.com
 0.0.0.0 ggs.myzaker.com
 :: ggs.myzaker.com
+0.0.0.0 ggstreaming.azurewebsites.net
+:: ggstreaming.azurewebsites.net
 0.0.0.0 ggtp-1255424916.cos.ap-chengdu.myqcloud.com
 :: ggtp-1255424916.cos.ap-chengdu.myqcloud.com
 0.0.0.0 ggvrefis.000webhostapp.com
@@ -36809,6 +36811,8 @@
 :: jawi55v.000webhostapp.com
 0.0.0.0 jayboyd.t15.org
 :: jayboyd.t15.org
+0.0.0.0 jazan.azurewebsites.net
+:: jazan.azurewebsites.net
 0.0.0.0 jazancci.org.sa
 :: jazancci.org.sa
 0.0.0.0 jazmany.cu.ma
@@ -38707,6 +38711,12 @@
 :: lig.liberation.fr
 0.0.0.0 lightboxanalytics-53675.onmodulus.net
 :: lightboxanalytics-53675.onmodulus.net
+0.0.0.0 lightboxapi1.azurewebsites.net
+:: lightboxapi1.azurewebsites.net
+0.0.0.0 lightboxapi2.azurewebsites.net
+:: lightboxapi2.azurewebsites.net
+0.0.0.0 lightboxapi3.azurewebsites.net
+:: lightboxapi3.azurewebsites.net
 0.0.0.0 lightson.vpsboard.com
 :: lightson.vpsboard.com
 0.0.0.0 ligrfc.ncl.co.kr
@@ -47243,6 +47253,8 @@
 :: pakiety-lte-5gb.blogspot.com
 0.0.0.0 pakiety-pokemon-go.blogspot.com
 :: pakiety-pokemon-go.blogspot.com
+0.0.0.0 palacesquare.rambler.ru
+:: palacesquare.rambler.ru
 0.0.0.0 palatej9.beget.tech
 :: palatej9.beget.tech
 0.0.0.0 pallotyni.ryn.pl
@@ -47311,6 +47323,8 @@
 :: papyal.s3rv.me
 0.0.0.0 paques-2016.offre-exceptionnelle.xyz
 :: paques-2016.offre-exceptionnelle.xyz
+0.0.0.0 paracesquare.rambler.ru
+:: paracesquare.rambler.ru
 0.0.0.0 parceria.americanas.com.br
 :: parceria.americanas.com.br
 0.0.0.0 pareshnathtemple.knowinfo.in
@@ -49211,6 +49225,8 @@
 :: plissconfrimfage1222.plisceeksfanspage.tk
 0.0.0.0 plmkolp.m.58xs.tw
 :: plmkolp.m.58xs.tw
+0.0.0.0 ploenjitmedia.azurewebsites.net
+:: ploenjitmedia.azurewebsites.net
 0.0.0.0 pls.webtype.com
 :: pls.webtype.com
 0.0.0.0 plsderk.ddns.me.uk
@@ -55637,8 +55653,6 @@
 :: serwer1827616.home.pl
 0.0.0.0 serwer1837541.home.pl
 :: serwer1837541.home.pl
-0.0.0.0 serwis-laptopow.warszawa.pl
-:: serwis-laptopow.warszawa.pl
 0.0.0.0 serwis.kb.help
 :: serwis.kb.help
 0.0.0.0 session-tracker.badcreditloans.com
@@ -57115,6 +57129,8 @@
 :: ssl.amazon-id-17982.de-customercenter-verifikation.info
 0.0.0.0 ssl.bmo-onlineverification.com
 :: ssl.bmo-onlineverification.com
+0.0.0.0 ssl.cf6.rackcdn.com
+:: ssl.cf6.rackcdn.com
 0.0.0.0 ssl.eroscomix.com
 :: ssl.eroscomix.com
 0.0.0.0 ssl.hyhzy.cn
@@ -64791,6 +64807,8 @@
 :: vert349.wixsite.com
 0.0.0.0 vertical-stats.huffpost.com
 :: vertical-stats.huffpost.com
+0.0.0.0 verzeroli.outbreakm3dia.com
+:: verzeroli.outbreakm3dia.com
 0.0.0.0 vewrb.italisumo.at
 :: vewrb.italisumo.at
 0.0.0.0 vex.analytics.wildtangent.com
@@ -65085,6 +65103,8 @@
 :: vitrines.globo.com
 0.0.0.0 vizisense.komli.net
 :: vizisense.komli.net
+0.0.0.0 vj.tianji520.cn
+:: vj.tianji520.cn
 0.0.0.0 vj.x-ssp.com
 :: vj.x-ssp.com
 0.0.0.0 vj0.42422277.com
@@ -65453,6 +65473,8 @@
 :: vvlog.moviebox.baofeng.com
 0.0.0.0 vvv.ieduw.com
 :: vvv.ieduw.com
+0.0.0.0 vvv.lunqudai.com
+:: vvv.lunqudai.com
 0.0.0.0 vvvalki.000webhostapp.com
 :: vvvalki.000webhostapp.com
 0.0.0.0 vvvvvv.paypaiaccount.org.agcamera.com
@@ -68869,6 +68891,8 @@
 :: www.donneuropa.it
 0.0.0.0 www.doppler.hulu.com
 :: www.doppler.hulu.com
+0.0.0.0 www.dotabet100.com
+:: www.dotabet100.com
 0.0.0.0 www.doubleclick.ne.jp
 :: www.doubleclick.ne.jp
 0.0.0.0 www.doublelvisions.com
@@ -69695,6 +69719,8 @@
 :: www.iiewl.com
 0.0.0.0 www.ijacko.net
 :: www.ijacko.net
+0.0.0.0 www.ijerd.com
+:: www.ijerd.com
 0.0.0.0 www.ilgm-deals.com
 :: www.ilgm-deals.com
 0.0.0.0 www.ilkhaberadana.com
@@ -69943,6 +69969,8 @@
 :: www.jshosting.st
 0.0.0.0 www.jshosting.tr
 :: www.jshosting.tr
+0.0.0.0 www.jtcomms.com
+:: www.jtcomms.com
 0.0.0.0 www.juiceplus.com
 :: www.juiceplus.com
 0.0.0.0 www.jumpinessrhbijjq.download
@@ -69993,6 +70021,8 @@
 :: www.kanshuapp.com
 0.0.0.0 www.karakulszmlyttq.download
 :: www.karakulszmlyttq.download
+0.0.0.0 www.karavelle.com.br
+:: www.karavelle.com.br
 0.0.0.0 www.kardanremont.com
 :: www.kardanremont.com
 0.0.0.0 www.kasdjjaks83adsasd.com
@@ -70255,8 +70285,6 @@
 :: www.lovetrust.ru
 0.0.0.0 www.lowes-pianos-and-organs.com
 :: www.lowes-pianos-and-organs.com
-0.0.0.0 www.loxsavvy.com.au
-:: www.loxsavvy.com.au
 0.0.0.0 www.lpmxp2014.com
 :: www.lpmxp2014.com
 0.0.0.0 www.lpmxp2015.com
