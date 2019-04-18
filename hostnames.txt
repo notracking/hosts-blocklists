@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Apr 17 05:22:14 CEST 2019
+# Last update: Thu Apr 18 05:23:22 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37142
+# Number of unique hostnames: 37147
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2391,8 +2391,6 @@
 :: a.ads1.msn.com
 0.0.0.0 a.ads2.msn.com
 :: a.ads2.msn.com
-0.0.0.0 a.adtng.com
-:: a.adtng.com
 0.0.0.0 a.advanstar.com
 :: a.advanstar.com
 0.0.0.0 a.alimama.cn
@@ -17715,6 +17713,8 @@
 :: banners.globovision.com
 0.0.0.0 banners.guns.ru
 :: banners.guns.ru
+0.0.0.0 banners.haqqin.az
+:: banners.haqqin.az
 0.0.0.0 banners.heavenmedia.com
 :: banners.heavenmedia.com
 0.0.0.0 banners.hetnet.nl
@@ -38895,6 +38895,8 @@
 :: little.forexbrokerstoday.info
 0.0.0.0 littlefield.logs.roku.com
 :: littlefield.logs.roku.com
+0.0.0.0 littlerepulsive.rambler.ru
+:: littlerepulsive.rambler.ru
 0.0.0.0 liuaghv.000webhostapp.com
 :: liuaghv.000webhostapp.com
 0.0.0.0 liuz112.ddns.net
@@ -55901,6 +55903,8 @@
 :: sher.index.hu
 0.0.0.0 shib.nscu.ga
 :: shib.nscu.ga
+0.0.0.0 shicao.icantv.cn
+:: shicao.icantv.cn
 0.0.0.0 shield.sitelock.com
 :: shield.sitelock.com
 0.0.0.0 shili.downxia.com
@@ -60261,6 +60265,8 @@
 :: test2.nqs.nice264.com
 0.0.0.0 testats.inuvo.com
 :: testats.inuvo.com
+0.0.0.0 testcddc.atclouddev.net
+:: testcddc.atclouddev.net
 0.0.0.0 testen.instijlmedia.nl
 :: testen.instijlmedia.nl
 0.0.0.0 testim.legostore.kz
@@ -64025,6 +64031,8 @@
 :: url.jiemengle.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
+0.0.0.0 urladyms.newlogiq.com
+:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -69201,6 +69209,8 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
+0.0.0.0 www.fishingtackleindia.com
+:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
