@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Apr 18 05:23:22 CEST 2019
+# Last update: Fri Apr 19 06:11:21 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37147
+# Number of unique hostnames: 37193
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -195,6 +195,8 @@
 :: 1.feihua.com
 0.0.0.0 1.feihua365.cn
 :: 1.feihua365.cn
+0.0.0.0 1.fembed.com
+:: 1.fembed.com
 0.0.0.0 1.forgetstore.com
 :: 1.forgetstore.com
 0.0.0.0 1.glook.cn
@@ -2049,6 +2051,8 @@
 :: 62wtqm.est.northerndishedends.com
 0.0.0.0 6322.web-stats.org
 :: 6322.web-stats.org
+0.0.0.0 63msoprodconfigsc73578190us1.cobrowse.oraclecloud.com
+:: 63msoprodconfigsc73578190us1.cobrowse.oraclecloud.com
 0.0.0.0 65421.promofrio.co
 :: 65421.promofrio.co
 0.0.0.0 66.8ox.cn
@@ -6281,6 +6285,10 @@
 :: ads-solno.sol.no
 0.0.0.0 ads-team-safety.esy.es
 :: ads-team-safety.esy.es
+0.0.0.0 ads-tracking.beop.io
+:: ads-tracking.beop.io
+0.0.0.0 ads-tracking.beopinion.com
+:: ads-tracking.beopinion.com
 0.0.0.0 ads-trk.vidible.tv
 :: ads-trk.vidible.tv
 0.0.0.0 ads-union.jd.com
@@ -14039,6 +14047,8 @@
 :: amzn.trendhure.com
 0.0.0.0 an-retargeting.awsotherlevels.com
 :: an-retargeting.awsotherlevels.com
+0.0.0.0 an.blogis.org
+:: an.blogis.org
 0.0.0.0 an.m.liebao.cn
 :: an.m.liebao.cn
 0.0.0.0 an.mainichi.jp
@@ -20823,8 +20833,6 @@
 :: cdn.bugly.qq.com
 0.0.0.0 cdn.c.try9.com
 :: cdn.c.try9.com
-0.0.0.0 cdn.callrail.com
-:: cdn.callrail.com
 0.0.0.0 cdn.capturly.com
 :: cdn.capturly.com
 0.0.0.0 cdn.cdmetrix.com
@@ -22847,6 +22855,8 @@
 :: cloudcdn.dopa.com
 0.0.0.0 cloudcdn.dopa.com.cn
 :: cloudcdn.dopa.com.cn
+0.0.0.0 cloudfront-dynamic-cdn.spot.im
+:: cloudfront-dynamic-cdn.spot.im
 0.0.0.0 cloudfront-labs.amazonaws.com
 :: cloudfront-labs.amazonaws.com
 0.0.0.0 cloudfront.loggly.com
@@ -28273,6 +28283,8 @@
 :: dsp-impr2.youdao.com
 0.0.0.0 dsp.ali213.net
 :: dsp.ali213.net
+0.0.0.0 dsp.api.vungle.akadns.net
+:: dsp.api.vungle.akadns.net
 0.0.0.0 dsp.brand.sogou.com
 :: dsp.brand.sogou.com
 0.0.0.0 dsp.dianru.com
@@ -31345,6 +31357,8 @@
 :: fpn81171321mp.hol.es
 0.0.0.0 fpn81291321p.hol.es
 :: fpn81291321p.hol.es
+0.0.0.0 fpoc-origin-dev.jwpltx.com
+:: fpoc-origin-dev.jwpltx.com
 0.0.0.0 fqnvl0t3gw.bradul.creatory.org
 :: fqnvl0t3gw.bradul.creatory.org
 0.0.0.0 fr-himedia.cdn.videoplaza.tv
@@ -32595,6 +32609,8 @@
 :: gk4aiims.000webhostapp.com
 0.0.0.0 gkiklasisjakartautara.or.id
 :: gkiklasisjakartautara.or.id
+0.0.0.0 gkpaarl.org.za
+:: gkpaarl.org.za
 0.0.0.0 glclk.about.com
 :: glclk.about.com
 0.0.0.0 glean.pop6.com
@@ -34183,6 +34199,8 @@
 :: hm.ubiej.com
 0.0.0.0 hmc.uxuixsw0b.top
 :: hmc.uxuixsw0b.top
+0.0.0.0 hmjanealamhs.edu.bd
+:: hmjanealamhs.edu.bd
 0.0.0.0 hmora.fred-build.tk
 :: hmora.fred-build.tk
 0.0.0.0 hmrc.logincorpssl.com
@@ -34627,6 +34645,8 @@
 :: i.1cat.com
 0.0.0.0 i.1o26.com
 :: i.1o26.com
+0.0.0.0 i.ads.roku.com
+:: i.ads.roku.com
 0.0.0.0 i.bigmir.net
 :: i.bigmir.net
 0.0.0.0 i.cdnpark.com
@@ -36811,6 +36831,8 @@
 :: javascriptcounter.appspot.com
 0.0.0.0 javdict.disqus.com
 :: javdict.disqus.com
+0.0.0.0 javis.mauwebsitedep.com
+:: javis.mauwebsitedep.com
 0.0.0.0 jawi55v.000webhostapp.com
 :: jawi55v.000webhostapp.com
 0.0.0.0 jayboyd.t15.org
@@ -36971,6 +36993,8 @@
 :: jiaoben.ganji.cn
 0.0.0.0 jiaoben.jucanw.com
 :: jiaoben.jucanw.com
+0.0.0.0 jiaoben.webkaka.com
+:: jiaoben.webkaka.com
 0.0.0.0 jiaoben.xinshipu.cn
 :: jiaoben.xinshipu.cn
 0.0.0.0 jias.haotxt.com
@@ -40571,6 +40595,8 @@
 :: mail.issas.ac.cn
 0.0.0.0 mail.iteronsystems.com
 :: mail.iteronsystems.com
+0.0.0.0 mail.mtbkhnna.com
+:: mail.mtbkhnna.com
 0.0.0.0 mail.myiris.com
 :: mail.myiris.com
 0.0.0.0 mail.pmo.ac.cn
@@ -41521,6 +41547,8 @@
 :: meravshlez.000webhostapp.com
 0.0.0.0 mercad0liv.sslblindado.com
 :: mercad0liv.sslblindado.com
+0.0.0.0 mercadolivre.krovatka.net
+:: mercadolivre.krovatka.net
 0.0.0.0 mercedes-vitoin.423.com1.ru
 :: mercedes-vitoin.423.com1.ru
 0.0.0.0 mercedwebml090.000webhostapp.com
@@ -43187,6 +43215,8 @@
 :: msnbot-65-55-108-23.search.msn.com
 0.0.0.0 msnclick.wrating.com
 :: msnclick.wrating.com
+0.0.0.0 msoprodconfigsc73578190us1.cobrowse.oraclecloud.com
+:: msoprodconfigsc73578190us1.cobrowse.oraclecloud.com
 0.0.0.0 mssbcloudsc73578190us1.cobrowse.oraclecloud.com
 :: mssbcloudsc73578190us1.cobrowse.oraclecloud.com
 0.0.0.0 mssp.baidu.com
@@ -44803,6 +44833,14 @@
 :: o0.winfuture.de
 0.0.0.0 o1.inviziads.com
 :: o1.inviziads.com
+0.0.0.0 o10.ck.n.convertkit.com
+:: o10.ck.n.convertkit.com
+0.0.0.0 o15.ck.n.convertkit.com
+:: o15.ck.n.convertkit.com
+0.0.0.0 o16.ck.n.convertkit.com
+:: o16.ck.n.convertkit.com
+0.0.0.0 o17.ck.n.convertkit.com
+:: o17.ck.n.convertkit.com
 0.0.0.0 o1b257.koll.pershoreairporttransfers.co.uk
 :: o1b257.koll.pershoreairporttransfers.co.uk
 0.0.0.0 o20j8uo62vc2wmf.lazega.ru
@@ -45785,6 +45823,8 @@
 :: onai.16mb.com
 0.0.0.0 onceux.unicornmedia.com
 :: onceux.unicornmedia.com
+0.0.0.0 ondaalmanzor.educarex.es
+:: ondaalmanzor.educarex.es
 0.0.0.0 one-dimensional-whi.000webhostapp.com
 :: one-dimensional-whi.000webhostapp.com
 0.0.0.0 one-drive-file-microsoft-office365-viewdocl0g.000webhostapp.com
@@ -49189,6 +49229,8 @@
 :: play1.videos.videos.vidto.me
 0.0.0.0 play1.videos.vidto.me
 :: play1.videos.vidto.me
+0.0.0.0 play6191.bumblee85.agency
+:: play6191.bumblee85.agency
 0.0.0.0 playe.vidto.se
 :: playe.vidto.se
 0.0.0.0 player.1800coupon.com
@@ -50017,6 +50059,8 @@
 :: produla.czatgg.pl
 0.0.0.0 prodxnews1blob.blob.core.windows.net
 :: prodxnews1blob.blob.core.windows.net
+0.0.0.0 profes2015.inf.unibz.it
+:: profes2015.inf.unibz.it
 0.0.0.0 profile.bharatmatrimony.com
 :: profile.bharatmatrimony.com
 0.0.0.0 profile.citrix.com
@@ -52223,6 +52267,8 @@
 :: replicated.aca.bugsnag.appstore.a2z.com
 0.0.0.0 replicated.aca.ftv.bugsnag.appstore.a2z.com
 :: replicated.aca.ftv.bugsnag.appstore.a2z.com
+0.0.0.0 replicated.bugsnag.appstore.a2z.com
+:: replicated.bugsnag.appstore.a2z.com
 0.0.0.0 replicated.firetv.bugsnag.appstore.a2z.com
 :: replicated.firetv.bugsnag.appstore.a2z.com
 0.0.0.0 reply.dciserver.com
@@ -53023,6 +53069,10 @@
 :: s.avforums.ru
 0.0.0.0 s.baidu.com
 :: s.baidu.com
+0.0.0.0 s.beop.io
+:: s.beop.io
+0.0.0.0 s.beopinion.com
+:: s.beopinion.com
 0.0.0.0 s.bl-1.com
 :: s.bl-1.com
 0.0.0.0 s.bledea.us.mhqo.ga
@@ -54171,8 +54221,14 @@
 :: sc88019931us1.cobrowse.oraclecloud.com
 0.0.0.0 sc88146167gb1.cobrowse.oraclecloud.com
 :: sc88146167gb1.cobrowse.oraclecloud.com
+0.0.0.0 sc88651734gb1.cobrowse.oraclecloud.com
+:: sc88651734gb1.cobrowse.oraclecloud.com
+0.0.0.0 sc89648805hms1.cobrowse.oraclecloud.com
+:: sc89648805hms1.cobrowse.oraclecloud.com
 0.0.0.0 sc90329283us14.cobrowse.oraclecloud.com
 :: sc90329283us14.cobrowse.oraclecloud.com
+0.0.0.0 sc90361918llms1.cobrowse.oraclecloud.com
+:: sc90361918llms1.cobrowse.oraclecloud.com
 0.0.0.0 sc91537202us1.cobrowse.oraclecloud.com
 :: sc91537202us1.cobrowse.oraclecloud.com
 0.0.0.0 sc91967456us1.cobrowse.oraclecloud.com
@@ -56741,6 +56797,8 @@
 :: somoreq-track-west-1951866777.us-west-1.elb.amazonaws.com
 0.0.0.0 somt.honda.com
 :: somt.honda.com
+0.0.0.0 sonargaonhs.edu.bd
+:: sonargaonhs.edu.bd
 0.0.0.0 sonatns.sonatrach.dz
 :: sonatns.sonatrach.dz
 0.0.0.0 sondr5344ygfweyjbfkw4fhsefv.heliofetch.at
@@ -56933,6 +56991,8 @@
 :: sport.xoomcounter.com
 0.0.0.0 sportsentry.ne.jp
 :: sportsentry.ne.jp
+0.0.0.0 spot-headers.spot.im
+:: spot-headers.spot.im
 0.0.0.0 spot.fitness.com
 :: spot.fitness.com
 0.0.0.0 spot.spsfactory.com
@@ -56949,6 +57009,8 @@
 :: spots.ah-me.com
 0.0.0.0 spotxchange-a.akamaihd.net
 :: spotxchange-a.akamaihd.net
+0.0.0.0 spoxy.spot.im
+:: spoxy.spot.im
 0.0.0.0 spproxy.autobytel.com
 :: spproxy.autobytel.com
 0.0.0.0 sprawdz-ogladaj.bo.pl
@@ -57309,6 +57371,8 @@
 :: stadig.ifeng.com
 0.0.0.0 stadig0.ifeng.com
 :: stadig0.ifeng.com
+0.0.0.0 stafflogin.gcmethiopia.org
+:: stafflogin.gcmethiopia.org
 0.0.0.0 staffsolut.nichost.ru
 :: staffsolut.nichost.ru
 0.0.0.0 staffwrights.5gbfree.com
@@ -57873,8 +57937,6 @@
 :: static2.ero2you.com
 0.0.0.0 static2.rutracker.org
 :: static2.rutracker.org
-0.0.0.0 static4.emoticonize.com
-:: static4.emoticonize.com
 0.0.0.0 static8.pmadx.com
 :: static8.pmadx.com
 0.0.0.0 staticadm.leju.com
@@ -59559,6 +59621,8 @@
 :: t01.proximic.com
 0.0.0.0 t0x529rn84tpw7sp62un.businessrulesanalysis.com
 :: t0x529rn84tpw7sp62un.businessrulesanalysis.com
+0.0.0.0 t1-spoxy.spot.im
+:: t1-spoxy.spot.im
 0.0.0.0 t1.58cdn.com.cn
 :: t1.58cdn.com.cn
 0.0.0.0 t1.612.com
@@ -62741,8 +62805,6 @@
 :: trutor.org.pl
 0.0.0.0 trx.mxmfb.com
 :: trx.mxmfb.com
-0.0.0.0 try.seemyass.com
-:: try.seemyass.com
 0.0.0.0 ts.d.p.xpanama.net
 :: ts.d.p.xpanama.net
 0.0.0.0 ts.eu-west-1.p.xpanama.net
@@ -67787,6 +67849,8 @@
 :: www.ad4push.com
 0.0.0.0 www.ad4screen.com
 :: www.ad4screen.com
+0.0.0.0 www.adamkepinski.pl
+:: www.adamkepinski.pl
 0.0.0.0 www.adbanner.gr
 :: www.adbanner.gr
 0.0.0.0 www.adbert.com.tw
@@ -67987,6 +68051,8 @@
 :: www.affiliate.net
 0.0.0.0 www.affiliateshowcase.com
 :: www.affiliateshowcase.com
+0.0.0.0 www.afternic.com
+:: www.afternic.com
 0.0.0.0 www.agataszupke.pl
 :: www.agataszupke.pl
 0.0.0.0 www.agentsplanet.com
@@ -68031,6 +68097,8 @@
 :: www.algocashmaster.com
 0.0.0.0 www.algocashmaster.net
 :: www.algocashmaster.net
+0.0.0.0 www.alhassanain.com
+:: www.alhassanain.com
 0.0.0.0 www.all-about-mall.com
 :: www.all-about-mall.com
 0.0.0.0 www.alladultdirectories.com
@@ -68761,6 +68829,8 @@
 :: www.crackserver.com
 0.0.0.0 www.crazywinnings.com
 :: www.crazywinnings.com
+0.0.0.0 www.creatingyourfreedom.com
+:: www.creatingyourfreedom.com
 0.0.0.0 www.creativ-art1.com
 :: www.creativ-art1.com
 0.0.0.0 www.credit-dreams.com
@@ -71801,6 +71871,8 @@
 :: www.tanger.com.br
 0.0.0.0 www.tangibledownload.com
 :: www.tangibledownload.com
+0.0.0.0 www.taniebutysportowe.com
+:: www.taniebutysportowe.com
 0.0.0.0 www.tao123.com
 :: www.tao123.com
 0.0.0.0 www.taobaobo5.com
@@ -71847,6 +71919,8 @@
 :: www.telescopethesky.com
 0.0.0.0 www.templatezone.com
 :: www.templatezone.com
+0.0.0.0 www.terrex.pl
+:: www.terrex.pl
 0.0.0.0 www.tesimages.com
 :: www.tesimages.com
 0.0.0.0 www.testracking.com
@@ -71913,6 +71987,8 @@
 :: www.tiens.pl
 0.0.0.0 www.tiergestuetzt.de
 :: www.tiergestuetzt.de
+0.0.0.0 www.tigipro.pl
+:: www.tigipro.pl
 0.0.0.0 www.timefor.com
 :: www.timefor.com
 0.0.0.0 www.timelessimagesmi.com
@@ -71971,6 +72047,8 @@
 :: www.tostadomedia.com
 0.0.0.0 www.totalwellnesscleansereviews.moneysites.com
 :: www.totalwellnesscleansereviews.moneysites.com
+0.0.0.0 www.totucafe.pl
+:: www.totucafe.pl
 0.0.0.0 www.touclick.com
 :: www.touclick.com
 0.0.0.0 www.tpt.edu.in
@@ -72095,6 +72173,10 @@
 :: www.u1trkqf.com
 0.0.0.0 www.ucc.wix.com
 :: www.ucc.wix.com
+0.0.0.0 www.ucitrials.pl
+:: www.ucitrials.pl
+0.0.0.0 www.uggwyprzedaz.pl
+:: www.uggwyprzedaz.pl
 0.0.0.0 www.ugripe.com
 :: www.ugripe.com
 0.0.0.0 www.ujian.cc
@@ -72165,6 +72247,8 @@
 :: www.validview.com
 0.0.0.0 www.vangmobi.com
 :: www.vangmobi.com
+0.0.0.0 www.vansallegro.pl
+:: www.vansallegro.pl
 0.0.0.0 www.vantis-holding.com
 :: www.vantis-holding.com
 0.0.0.0 www.vascoart.pl
@@ -72185,6 +72269,10 @@
 :: www.vertourmer.com
 0.0.0.0 www.verypositiveus.com
 :: www.verypositiveus.com
+0.0.0.0 www.veryvoga.pl
+:: www.veryvoga.pl
+0.0.0.0 www.vethurt.pl
+:: www.vethurt.pl
 0.0.0.0 www.vfbhermsdorf.de
 :: www.vfbhermsdorf.de
 0.0.0.0 www.via22.net
@@ -72445,8 +72533,12 @@
 :: www.wwwoldnavy.com
 0.0.0.0 www.wwwsexmovies.com
 :: www.wwwsexmovies.com
+0.0.0.0 www.wyjazd24.pl
+:: www.wyjazd24.pl
 0.0.0.0 www.wykreslanka.com.pl
 :: www.wykreslanka.com.pl
+0.0.0.0 www.wylogujsiezmatrixa.pl
+:: www.wylogujsiezmatrixa.pl
 0.0.0.0 www.wyroki.eu
 :: www.wyroki.eu
 0.0.0.0 www.wysistat.com
@@ -72617,6 +72709,8 @@
 :: www.zeptolab.com
 0.0.0.0 www.zergnet.com
 :: www.zergnet.com
+0.0.0.0 www.zespolbefree.pl
+:: www.zespolbefree.pl
 0.0.0.0 www.zfn5wua2d1.online
 :: www.zfn5wua2d1.online
 0.0.0.0 www.zhongmin.cn
@@ -73767,8 +73861,6 @@
 :: your.dailytopdealz.com
 0.0.0.0 yourdailytrailer.yournewtab.com
 :: yourdailytrailer.yournewtab.com
-0.0.0.0 yourpage.blazenet.net
-:: yourpage.blazenet.net
 0.0.0.0 yourpic.msk.ru
 :: yourpic.msk.ru
 0.0.0.0 yoursubdomain.bravediary.com
