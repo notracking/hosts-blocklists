@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Apr 21 05:26:14 CEST 2019
+# Last update: Mon Apr 22 05:25:50 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37235
+# Number of unique hostnames: 37202
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2357,6 +2357,8 @@
 :: a-c-sky.rzb.ir
 0.0.0.0 a-counter.kiev.ua
 :: a-counter.kiev.ua
+0.0.0.0 a-dot-kinozal-tv.appspot.com
+:: a-dot-kinozal-tv.appspot.com
 0.0.0.0 a-img.afpbb.com
 :: a-img.afpbb.com
 0.0.0.0 a-love.nninfo.ru
@@ -3917,8 +3919,6 @@
 :: ad.dedecms.com
 0.0.0.0 ad.demotivation.me
 :: ad.demotivation.me
-0.0.0.0 ad.depo.hu
-:: ad.depo.hu
 0.0.0.0 ad.depositfiles.com
 :: ad.depositfiles.com
 0.0.0.0 ad.designpark.de
@@ -4163,8 +4163,6 @@
 :: ad.groupon.pl
 0.0.0.0 ad.gunosy.com
 :: ad.gunosy.com
-0.0.0.0 ad.gyermekevek.hu
-:: ad.gyermekevek.hu
 0.0.0.0 ad.h-vip.ru
 :: ad.h-vip.ru
 0.0.0.0 ad.handytarife.de
@@ -4391,8 +4389,6 @@
 :: ad.lolipop.jp
 0.0.0.0 ad.looktraffic.com
 :: ad.looktraffic.com
-0.0.0.0 ad.love.hu
-:: ad.love.hu
 0.0.0.0 ad.lqalm.com
 :: ad.lqalm.com
 0.0.0.0 ad.lupa.cz
@@ -4531,8 +4527,6 @@
 :: ad.ohmynews.com
 0.0.0.0 ad.onad.eu
 :: ad.onad.eu
-0.0.0.0 ad.onadozo.hu
-:: ad.onadozo.hu
 0.0.0.0 ad.onlinechange.biz
 :: ad.onlinechange.biz
 0.0.0.0 ad.onmedia.bg
@@ -4795,16 +4789,12 @@
 :: ad.stat.4u.pl
 0.0.0.0 ad.subnet.dk
 :: ad.subnet.dk
-0.0.0.0 ad.supportal.hu
-:: ad.supportal.hu
 0.0.0.0 ad.suprnova.org
 :: ad.suprnova.org
 0.0.0.0 ad.sweb.ru
 :: ad.sweb.ru
 0.0.0.0 ad.swissguide.ch
 :: ad.swissguide.ch
-0.0.0.0 ad.szexneked.hu
-:: ad.szexneked.hu
 0.0.0.0 ad.t-ad.co.kr
 :: ad.t-ad.co.kr
 0.0.0.0 ad.targetingmarketplace.com
@@ -7743,8 +7733,6 @@
 :: ads.gay.com
 0.0.0.0 ads.gazetaesportiva.net
 :: ads.gazetaesportiva.net
-0.0.0.0 ads.geeks.hu
-:: ads.geeks.hu
 0.0.0.0 ads.geekswithblogs.net
 :: ads.geekswithblogs.net
 0.0.0.0 ads.gemscool.com
@@ -8729,8 +8717,6 @@
 :: ads.neoseeker.com
 0.0.0.0 ads.neowin.net
 :: ads.neowin.net
-0.0.0.0 ads.nepszava.com
-:: ads.nepszava.com
 0.0.0.0 ads.nerve.com
 :: ads.nerve.com
 0.0.0.0 ads.net2day.de
@@ -12215,8 +12201,6 @@
 :: adv.federalpost.ru
 0.0.0.0 adv.fjtv.net
 :: adv.fjtv.net
-0.0.0.0 adv.forpsi.hu
-:: adv.forpsi.hu
 0.0.0.0 adv.forpsi.pl
 :: adv.forpsi.pl
 0.0.0.0 adv.freeonline.it
@@ -12395,8 +12379,6 @@
 :: adver.pengyou.com
 0.0.0.0 adver.qq.com
 :: adver.qq.com
-0.0.0.0 adverbs.napilapcsoport.hu
-:: adverbs.napilapcsoport.hu
 0.0.0.0 adverserve.austriacomplus.at
 :: adverserve.austriacomplus.at
 0.0.0.0 adverserve.hoc-technology.de
@@ -14051,6 +14033,8 @@
 :: an-retargeting.awsotherlevels.com
 0.0.0.0 an.blogis.org
 :: an.blogis.org
+0.0.0.0 an.facebook.com
+:: an.facebook.com
 0.0.0.0 an.m.liebao.cn
 :: an.m.liebao.cn
 0.0.0.0 an.mainichi.jp
@@ -16251,8 +16235,6 @@
 :: aunz.yimg.com
 0.0.0.0 aurora.starpartner.com
 :: aurora.starpartner.com
-0.0.0.0 aurorahurricane.net.au
-:: aurorahurricane.net.au
 0.0.0.0 ausonetan.esy.es
 :: ausonetan.esy.es
 0.0.0.0 ausregistrycom.000webhostapp.com
@@ -19063,8 +19045,6 @@
 :: bms.xenium.bg
 0.0.0.0 bms.zeptolab.com
 :: bms.zeptolab.com
-0.0.0.0 bmt.almuhsin.org
-:: bmt.almuhsin.org
 0.0.0.0 bmvip.alimama.cn
 :: bmvip.alimama.cn
 0.0.0.0 bmw2ep.paomifen.cn
@@ -19347,8 +19327,6 @@
 :: box.rus.porn
 0.0.0.0 boxz.cools4u.com
 :: boxz.cools4u.com
-0.0.0.0 boxzsak.kirowski.com
-:: boxzsak.kirowski.com
 0.0.0.0 boy.fujieace.com
 :: boy.fujieace.com
 0.0.0.0 boylondon.jaanhsoft.kr
@@ -20559,8 +20537,6 @@
 :: carry.myeffect.net
 0.0.0.0 cars.constructionwitness.net
 :: cars.constructionwitness.net
-0.0.0.0 cars24.org.in
-:: cars24.org.in
 0.0.0.0 cart.asianglobal.cn
 :: cart.asianglobal.cn
 0.0.0.0 cart.dbcloud.eu
@@ -27047,8 +27023,6 @@
 :: deunce68rtaint.rr.nu
 0.0.0.0 deuterium.geo-idm.fr
 :: deuterium.geo-idm.fr
-0.0.0.0 dev-en.rewallonia.be
-:: dev-en.rewallonia.be
 0.0.0.0 dev-supoort00.regis-fanpageee-confirm.ml
 :: dev-supoort00.regis-fanpageee-confirm.ml
 0.0.0.0 dev.a-t-martialarts.com
@@ -27081,8 +27055,6 @@
 :: dev.jwpltx.com
 0.0.0.0 dev.karma.mdpcdn.com
 :: dev.karma.mdpcdn.com
-0.0.0.0 dev.livana-spikoe.com
-:: dev.livana-spikoe.com
 0.0.0.0 dev.log.getadblock.com
 :: dev.log.getadblock.com
 0.0.0.0 dev.maruemoinschere.fr
@@ -28805,8 +28777,6 @@
 :: e.vaxyz.com
 0.0.0.0 e.vjuei.com
 :: e.vjuei.com
-0.0.0.0 e.vmiua.com
-:: e.vmiua.com
 0.0.0.0 e.vpeny.com
 :: e.vpeny.com
 0.0.0.0 e.vweit.com
@@ -30021,8 +29991,6 @@
 :: extranet.ilius.net
 0.0.0.0 extras.mnginteractive.com
 :: extras.mnginteractive.com
-0.0.0.0 extraspace.uk.com
-:: extraspace.uk.com
 0.0.0.0 eye.skeltonancestry.com
 :: eye.skeltonancestry.com
 0.0.0.0 eyewond.hs.llnwd.net
@@ -31143,8 +31111,6 @@
 :: fishadz.pressflex.net
 0.0.0.0 fishman.vyhino.org
 :: fishman.vyhino.org
-0.0.0.0 fit.yazhouxingti.com
-:: fit.yazhouxingti.com
 0.0.0.0 fit911.000webhostapp.com
 :: fit911.000webhostapp.com
 0.0.0.0 fitness.org.za
@@ -37599,8 +37565,6 @@
 :: junniper.mcdir.ru
 0.0.0.0 juntadebeneficencia.org.ec
 :: juntadebeneficencia.org.ec
-0.0.0.0 jupiter.fabatech.xyz
-:: jupiter.fabatech.xyz
 0.0.0.0 jur.unn.ac.ru
 :: jur.unn.ac.ru
 0.0.0.0 juridicoee.sslblindado.com
@@ -37945,6 +37909,10 @@
 :: kinoprogramm.bild.de
 0.0.0.0 kinotavr.nichost.ru
 :: kinotavr.nichost.ru
+0.0.0.0 kinozal-me.appspot.com
+:: kinozal-me.appspot.com
+0.0.0.0 kinozal-tv.appspot.com
+:: kinozal-tv.appspot.com
 0.0.0.0 kirao.ashmarinc.com
 :: kirao.ashmarinc.com
 0.0.0.0 kires.umk-spo.biz
@@ -38247,8 +38215,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -40359,8 +40325,6 @@
 :: m.vbinr.com
 0.0.0.0 m.vjuei.com
 :: m.vjuei.com
-0.0.0.0 m.vmiua.com
-:: m.vmiua.com
 0.0.0.0 m.vpadn.com
 :: m.vpadn.com
 0.0.0.0 m.vpeny.com
@@ -41311,6 +41275,8 @@
 :: media-8.vpptechnologies.com
 0.0.0.0 media-a.vpptechnologies.com
 :: media-a.vpptechnologies.com
+0.0.0.0 media-analytics.akamaized.net
+:: media-analytics.akamaized.net
 0.0.0.0 media-b.vpptechnologies.com
 :: media-b.vpptechnologies.com
 0.0.0.0 media-c.vpptechnologies.com
@@ -44251,8 +44217,6 @@
 :: ngjfgfk.penaltypros.com
 0.0.0.0 ngogncuonhunganhvanlavyadoa-caecal-xenophobia.mybluemix.net
 :: ngogncuonhunganhvanlavyadoa-caecal-xenophobia.mybluemix.net
-0.0.0.0 ngowebsite.developeratfiverr.in
-:: ngowebsite.developeratfiverr.in
 0.0.0.0 ngr61ail.rr.nu
 :: ngr61ail.rr.nu
 0.0.0.0 ngs.impress.co.jp
@@ -44413,8 +44377,6 @@
 :: nomer1.ru.ru
 0.0.0.0 noncommercial-remai.000webhostapp.com
 :: noncommercial-remai.000webhostapp.com
-0.0.0.0 nonprofit.goknows.com
-:: nonprofit.goknows.com
 0.0.0.0 nonsi.csheaven.com
 :: nonsi.csheaven.com
 0.0.0.0 nonsoagali2.000webhostapp.com
@@ -49153,6 +49115,8 @@
 :: pks-setiabudi.or.id
 0.0.0.0 pksun1.publikompass.it
 :: pksun1.publikompass.it
+0.0.0.0 pl.allsports4free.club
+:: pl.allsports4free.club
 0.0.0.0 pl.coral-club.com
 :: pl.coral-club.com
 0.0.0.0 pl.fmworld.com
@@ -51653,12 +51617,8 @@
 :: rc.haodongkeji.cn
 0.0.0.0 rc.himedia.individuad.net
 :: rc.himedia.individuad.net
-0.0.0.0 rc.rc.hu
-:: rc.rc.hu
 0.0.0.0 rc.revolvermaps.com
 :: rc.revolvermaps.com
-0.0.0.0 rc.rootclick.com
-:: rc.rootclick.com
 0.0.0.0 rc.semilo.individuad.net
 :: rc.semilo.individuad.net
 0.0.0.0 rc6.i2i.jp
@@ -54059,8 +54019,6 @@
 :: savefree.000webhostapp.com
 0.0.0.0 saveourlifes.niwamembers.com
 :: saveourlifes.niwamembers.com
-0.0.0.0 savetax.idfcmf.com
-:: savetax.idfcmf.com
 0.0.0.0 savior.mypen.is
 :: savior.mypen.is
 0.0.0.0 savoir-vivre.etiquette.by
@@ -56087,8 +56045,6 @@
 :: shop.skin-safety.com
 0.0.0.0 shop.sohbet24.net
 :: shop.sohbet24.net
-0.0.0.0 shop.stairnaheireann.ie
-:: shop.stairnaheireann.ie
 0.0.0.0 shop.yinyuetai.com
 :: shop.yinyuetai.com
 0.0.0.0 shopping.dailycamera.com
@@ -57187,8 +57143,6 @@
 :: srv.thespacereporter.com
 0.0.0.0 srv1.rapidstats.de
 :: srv1.rapidstats.de
-0.0.0.0 srv1.srv-stat.com
-:: srv1.srv-stat.com
 0.0.0.0 srv118.teste.website
 :: srv118.teste.website
 0.0.0.0 srv119473.hoster-test.ru
@@ -57431,8 +57385,6 @@
 :: sta.holagames.com
 0.0.0.0 sta.ifeng.com
 :: sta.ifeng.com
-0.0.0.0 sta.ossia.com
-:: sta.ossia.com
 0.0.0.0 stackoverflow.dluat.com
 :: stackoverflow.dluat.com
 0.0.0.0 stackoverflow.hex1.ru
@@ -57517,8 +57469,6 @@
 :: stat.56.com
 0.0.0.0 stat.acca.it
 :: stat.acca.it
-0.0.0.0 stat.adultium.com
-:: stat.adultium.com
 0.0.0.0 stat.alibaba.com
 :: stat.alibaba.com
 0.0.0.0 stat.aport.ru
@@ -58139,8 +58089,6 @@
 :: stats.avg.com
 0.0.0.0 stats.backcountry.com
 :: stats.backcountry.com
-0.0.0.0 stats.badoostats.com
-:: stats.badoostats.com
 0.0.0.0 stats.bbc.co.uk
 :: stats.bbc.co.uk
 0.0.0.0 stats.becu.org
@@ -61173,8 +61121,6 @@
 :: track.byzon.swelen.net
 0.0.0.0 track.cafemomstatic.com
 :: track.cafemomstatic.com
-0.0.0.0 track.calithornia.com
-:: track.calithornia.com
 0.0.0.0 track.catalogs.com
 :: track.catalogs.com
 0.0.0.0 track.cbs.com
@@ -61677,8 +61623,6 @@
 :: track.right-ads.com
 0.0.0.0 track.roiservice.com
 :: track.roiservice.com
-0.0.0.0 track.rtb-media.me
-:: track.rtb-media.me
 0.0.0.0 track.scanguard.com
 :: track.scanguard.com
 0.0.0.0 track.scanmyphones.com
@@ -61747,8 +61691,6 @@
 :: track.tooplay.com
 0.0.0.0 track.topromotion.net
 :: track.topromotion.net
-0.0.0.0 track.trackbyme.info
-:: track.trackbyme.info
 0.0.0.0 track.trackffic.xyz
 :: track.trackffic.xyz
 0.0.0.0 track.tracking85.com
@@ -62513,8 +62455,6 @@
 :: tracking.taptica.com
 0.0.0.0 tracking.tchibo.de
 :: tracking.tchibo.de
-0.0.0.0 tracking.tchibo.hu
-:: tracking.tchibo.hu
 0.0.0.0 tracking.teebik.com
 :: tracking.teebik.com
 0.0.0.0 tracking.theeword.co.uk
@@ -63921,8 +63861,6 @@
 :: uolcartao.webcindario.com
 0.0.0.0 uole.ad.uol.com.br
 :: uole.ad.uol.com.br
-0.0.0.0 up-banner.wavecdn.de
-:: up-banner.wavecdn.de
 0.0.0.0 up-banner.wavecdn.net
 :: up-banner.wavecdn.net
 0.0.0.0 up.hiao.com
@@ -64151,8 +64089,6 @@
 :: urafur.clubeo.com
 0.0.0.0 uravvtvalidateupgradein.netai.net
 :: uravvtvalidateupgradein.netai.net
-0.0.0.0 urbaniak.waw.pl
-:: urbaniak.waw.pl
 0.0.0.0 urchin.5173.com
 :: urchin.5173.com
 0.0.0.0 urchin.estadao.com.br
@@ -65051,6 +64987,8 @@
 :: video.theparentingvillage.com
 0.0.0.0 video.ureport.push.qq.com
 :: video.ureport.push.qq.com
+0.0.0.0 video.vid4u.org
+:: video.vid4u.org
 0.0.0.0 video.videonow.ru
 :: video.videonow.ru
 0.0.0.0 video.videos.vidto.me
@@ -67255,8 +67193,6 @@
 :: wp-stat.s3.amazonasw.com
 0.0.0.0 wp.berbahku.id.or.id
 :: wp.berbahku.id.or.id
-0.0.0.0 wp.hopure.com
-:: wp.hopure.com
 0.0.0.0 wp.horizonslearningfoundation.org
 :: wp.horizonslearningfoundation.org
 0.0.0.0 wp.twells.com.hostingmurah.co
@@ -67447,8 +67383,6 @@
 :: wss.hbpl.co.uk
 0.0.0.0 wsstatic.govmetric.com
 :: wsstatic.govmetric.com
-0.0.0.0 wstat.ozon.ru
-:: wstat.ozon.ru
 0.0.0.0 wstat.wibiya.com
 :: wstat.wibiya.com
 0.0.0.0 wsw1.surf-town.net
