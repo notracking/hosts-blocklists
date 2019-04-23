@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Apr 22 05:25:50 CEST 2019
+# Last update: Tue Apr 23 05:48:00 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37202
+# Number of unique hostnames: 37246
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3953,6 +3953,8 @@
 :: ad.dmm.de
 0.0.0.0 ad.dmpi.net
 :: ad.dmpi.net
+0.0.0.0 ad.docer.pl
+:: ad.docer.pl
 0.0.0.0 ad.doctissimo.fr
 :: ad.doctissimo.fr
 0.0.0.0 ad.doganburda.com
@@ -5825,6 +5827,8 @@
 :: adjsla.daycorpltd12.netdna-cdn.com
 0.0.0.0 adjuggler.yourdictionary.com
 :: adjuggler.yourdictionary.com
+0.0.0.0 adk.docer.pl
+:: adk.docer.pl
 0.0.0.0 adl.kinogo.by
 :: adl.kinogo.by
 0.0.0.0 adl.mynetreklam.com
@@ -18115,8 +18119,6 @@
 :: bay.xiawu.com
 0.0.0.0 bayanicgiyimsitesi.somee.com
 :: bayanicgiyimsitesi.somee.com
-0.0.0.0 bayh.cdhenfan.com
-:: bayh.cdhenfan.com
 0.0.0.0 bazan.home.pl
 :: bazan.home.pl
 0.0.0.0 bazinga.mse.sogou.com
@@ -21607,12 +21609,8 @@
 :: centro.pixel.ad
 0.0.0.0 centrum-bezpiecznej-pozyczki.waw.pl
 :: centrum-bezpiecznej-pozyczki.waw.pl
-0.0.0.0 centrum-napraw-swojego-laptopa.warszawa.pl
-:: centrum-napraw-swojego-laptopa.warszawa.pl
 0.0.0.0 centrum-pogotowie-komputerowe.warszawa.pl
 :: centrum-pogotowie-komputerowe.warszawa.pl
-0.0.0.0 centrum-ratuj-swojego-laptopa.warszawa.pl
-:: centrum-ratuj-swojego-laptopa.warszawa.pl
 0.0.0.0 centurylaw.vyudu.tech
 :: centurylaw.vyudu.tech
 0.0.0.0 ceo.efa-light.com
@@ -24413,8 +24411,6 @@
 :: creditmutuel.fr-87.draytongossip.com
 0.0.0.0 creditsoffer.blogspot.com
 :: creditsoffer.blogspot.com
-0.0.0.0 creighton.wenerdhard.com
-:: creighton.wenerdhard.com
 0.0.0.0 creme21new.web-previews.de
 :: creme21new.web-previews.de
 0.0.0.0 crewtwqj.beget.tech
@@ -33029,6 +33025,8 @@
 :: groupaccount.000webhostapp.com
 0.0.0.0 groupchatting.netne.net
 :: groupchatting.netne.net
+0.0.0.0 growa.seojohor.com
+:: growa.seojohor.com
 0.0.0.0 grupa-sprzedazowa.home.pl
 :: grupa-sprzedazowa.home.pl
 0.0.0.0 grupamedialna.hekko24.pl
@@ -34551,8 +34549,6 @@
 :: huodong.mobilem.360.cn
 0.0.0.0 huostaan-eksperten.makemoneywithmegan.net
 :: huostaan-eksperten.makemoneywithmegan.net
-0.0.0.0 hurtownia.kolrise.com
-:: hurtownia.kolrise.com
 0.0.0.0 huskieaccess.bugly.qq.com
 :: huskieaccess.bugly.qq.com
 0.0.0.0 hustoon.over-blog.com
@@ -43383,6 +43379,8 @@
 :: music.getyesappz1.com
 0.0.0.0 music.hatchfactory.in
 :: music.hatchfactory.in
+0.0.0.0 music.jbl-solo.com
+:: music.jbl-solo.com
 0.0.0.0 music.myappzcenter.com
 :: music.myappzcenter.com
 0.0.0.0 music102.awardspace.com
@@ -45699,6 +45697,8 @@
 :: okmido8m.beget.tech
 0.0.0.0 oknothoh0gvxxlzgfvvl.mafe.edu.co
 :: oknothoh0gvxxlzgfvvl.mafe.edu.co
+0.0.0.0 okom.wroc.pl
+:: okom.wroc.pl
 0.0.0.0 oktatasicentrum.uw.hu
 :: oktatasicentrum.uw.hu
 0.0.0.0 okulpfws3jczwkpr7806.viomil.ro
@@ -46557,6 +46557,8 @@
 :: ovc2-ustokyyneikyfasnm.stackpathdns.com
 0.0.0.0 ovgads.ovguide.com
 :: ovgads.ovguide.com
+0.0.0.0 ovh.webshark.pl
+:: ovh.webshark.pl
 0.0.0.0 ovhtelecomfr.aniconplastic.com.ph
 :: ovhtelecomfr.aniconplastic.com.ph
 0.0.0.0 ow.biqugego.com
@@ -48395,8 +48397,6 @@
 :: peoria33884.cz.cc
 0.0.0.0 pepelacer.computingservices123.com
 :: pepelacer.computingservices123.com
-0.0.0.0 peps20years.afg.vn
-:: peps20years.afg.vn
 0.0.0.0 peregrine.igg.biz
 :: peregrine.igg.biz
 0.0.0.0 perf-events.cloud.unity3d.com
@@ -49265,8 +49265,6 @@
 :: play1.videos.videos.vidto.me
 0.0.0.0 play1.videos.vidto.me
 :: play1.videos.vidto.me
-0.0.0.0 play6191.bumblee85.agency
-:: play6191.bumblee85.agency
 0.0.0.0 playe.vidto.se
 :: playe.vidto.se
 0.0.0.0 player.1800coupon.com
@@ -56417,6 +56415,8 @@
 :: skgroup.kiev.ua
 0.0.0.0 skinsycs.89.pl
 :: skinsycs.89.pl
+0.0.0.0 sklep466452.shoparena.pl
+:: sklep466452.shoparena.pl
 0.0.0.0 skripko8.beget.tech
 :: skripko8.beget.tech
 0.0.0.0 skskskks.000webhostapp.com
@@ -57131,8 +57131,6 @@
 :: srilaini1helprecoveryii.000webhostapp.com
 0.0.0.0 srisaranankara.sch.lk
 :: srisaranankara.sch.lk
-0.0.0.0 srodmiescie-napraw-laptopa.warszawa.pl
-:: srodmiescie-napraw-laptopa.warszawa.pl
 0.0.0.0 srpze.saqibsiddiqui.com
 :: srpze.saqibsiddiqui.com
 0.0.0.0 srutebmduoh.myfw.us
@@ -65971,8 +65969,6 @@
 :: warrning-fanpa9e1.securittty4.tk
 0.0.0.0 warrning-fanpa9e2.securittty4.ml
 :: warrning-fanpa9e2.securittty4.ml
-0.0.0.0 warszawski-serwis-laptopow.warszawa.pl
-:: warszawski-serwis-laptopow.warszawa.pl
 0.0.0.0 was.ancestrybloodhound.com
 :: was.ancestrybloodhound.com
 0.0.0.0 wasabi.mine.nu
@@ -68263,6 +68259,8 @@
 :: www.artandevent.pl
 0.0.0.0 www.artisticasrl.com
 :: www.artisticasrl.com
+0.0.0.0 www.artstructures.pl
+:: www.artstructures.pl
 0.0.0.0 www.as-chwilowka.pl
 :: www.as-chwilowka.pl
 0.0.0.0 www.ashiping.com
@@ -68861,6 +68859,8 @@
 :: www.crowdgather.com
 0.0.0.0 www.cryptown.netlify.com
 :: www.cryptown.netlify.com
+0.0.0.0 www.cs-podhale.pl
+:: www.cs-podhale.pl
 0.0.0.0 www.cshacks.partycat.us
 :: www.cshacks.partycat.us
 0.0.0.0 www.csomediakit.com
@@ -69021,6 +69021,8 @@
 :: www.drb.pl
 0.0.0.0 www.dreamboxturk.com
 :: www.dreamboxturk.com
+0.0.0.0 www.drmartens1460.pl
+:: www.drmartens1460.pl
 0.0.0.0 www.drmehul.in
 :: www.drmehul.in
 0.0.0.0 www.dt1blog.com
@@ -69069,6 +69071,10 @@
 :: www.ebm.e.redbox.com
 0.0.0.0 www.eboundservices.com
 :: www.eboundservices.com
+0.0.0.0 www.eccobutyoutlet.pl
+:: www.eccobutyoutlet.pl
+0.0.0.0 www.eccocool.pl
+:: www.eccocool.pl
 0.0.0.0 www.eclean.or.kr
 :: www.eclean.or.kr
 0.0.0.0 www.ecoflow.pl
@@ -69097,6 +69103,8 @@
 :: www.elc.tomsk.ru
 0.0.0.0 www.elded.eu
 :: www.elded.eu
+0.0.0.0 www.elektrostar.com.pl
+:: www.elektrostar.com.pl
 0.0.0.0 www.elemntindexer.com
 :: www.elemntindexer.com
 0.0.0.0 www.elisaart.it
@@ -69395,6 +69403,8 @@
 :: www.ga31.com
 0.0.0.0 www.gacatl.com
 :: www.gacatl.com
+0.0.0.0 www.gadajzdrow.eu
+:: www.gadajzdrow.eu
 0.0.0.0 www.galileounaluna.com
 :: www.galileounaluna.com
 0.0.0.0 www.gallerytrafficservice.com
@@ -69425,6 +69435,8 @@
 :: www.gdpr-service.herokuapp.com
 0.0.0.0 www.gelios.msk.ru
 :: www.gelios.msk.ru
+0.0.0.0 www.gelkayano.pl
+:: www.gelkayano.pl
 0.0.0.0 www.genericstrattera.com
 :: www.genericstrattera.com
 0.0.0.0 www.genericviagra.us
@@ -69669,6 +69681,10 @@
 :: www.hndiyikj.com
 0.0.0.0 www.hobwelt.com
 :: www.hobwelt.com
+0.0.0.0 www.hollistersklep.com
+:: www.hollistersklep.com
+0.0.0.0 www.hollisterskleponline.pl
+:: www.hollisterskleponline.pl
 0.0.0.0 www.home.ro
 :: www.home.ro
 0.0.0.0 www.homebusinessgo.com
@@ -69799,6 +69815,8 @@
 :: www.ideaworks.com
 0.0.0.0 www.idfonline.co.il
 :: www.idfonline.co.il
+0.0.0.0 www.idgarin.com
+:: www.idgarin.com
 0.0.0.0 www.idirect.com
 :: www.idirect.com
 0.0.0.0 www.iergzsqungod.review
@@ -69963,6 +69981,8 @@
 :: www.jampanimxygdwkim.download
 0.0.0.0 www.jaran.com
 :: www.jaran.com
+0.0.0.0 www.jasnypoker.pl
+:: www.jasnypoker.pl
 0.0.0.0 www.jav23.com
 :: www.jav23.com
 0.0.0.0 www.javdict.disqus.com
@@ -70145,6 +70165,8 @@
 :: www.keepaclient.com
 0.0.0.0 www.kelly.co
 :: www.kelly.co
+0.0.0.0 www.kenseeart.pl
+:: www.kenseeart.pl
 0.0.0.0 www.kerningrsxwpoc.download
 :: www.kerningrsxwpoc.download
 0.0.0.0 www.keyofhealth.com
@@ -70435,6 +70457,10 @@
 :: www.macfillerck.com
 0.0.0.0 www.macombdisplayads.com
 :: www.macombdisplayads.com
+0.0.0.0 www.maczyn.pl
+:: www.maczyn.pl
+0.0.0.0 www.madagascaroasis.org
+:: www.madagascaroasis.org
 0.0.0.0 www.madhouse.cn
 :: www.madhouse.cn
 0.0.0.0 www.madmax53.stellar.cpa.clicksure.com
@@ -70617,10 +70643,16 @@
 :: www.mobilejmp.com
 0.0.0.0 www.mobilelandings.com
 :: www.mobilelandings.com
+0.0.0.0 www.mobiluj.eu
+:: www.mobiluj.eu
+0.0.0.0 www.mobiluj.sk
+:: www.mobiluj.sk
 0.0.0.0 www.mobjmp.com
 :: www.mobjmp.com
 0.0.0.0 www.modi4moda.com
 :: www.modi4moda.com
+0.0.0.0 www.modwebpro.pl
+:: www.modwebpro.pl
 0.0.0.0 www.mohecm.com
 :: www.mohecm.com
 0.0.0.0 www.mojadedra.pl
@@ -70747,6 +70779,8 @@
 :: www.naturesunshine.com
 0.0.0.0 www.naughty-traffic.com
 :: www.naughty-traffic.com
+0.0.0.0 www.nb574.pl
+:: www.nb574.pl
 0.0.0.0 www.nbyuxin.com
 :: www.nbyuxin.com
 0.0.0.0 www.ncsreporting.com
@@ -70793,6 +70827,8 @@
 :: www.ngads.com
 0.0.0.0 www.nicheads.com
 :: www.nicheads.com
+0.0.0.0 www.nikeairhuarache.pl
+:: www.nikeairhuarache.pl
 0.0.0.0 www.nikeairmaxjewell.pl
 :: www.nikeairmaxjewell.pl
 0.0.0.0 www.nikehuarache.pl
@@ -70807,6 +70843,8 @@
 :: www.nitaphar.com.vn
 0.0.0.0 www.nitronetads.com
 :: www.nitronetads.com
+0.0.0.0 www.nkuop.com
+:: www.nkuop.com
 0.0.0.0 www.nnnwwwe.com
 :: www.nnnwwwe.com
 0.0.0.0 www.noadnetwork.com
@@ -70869,6 +70907,8 @@
 :: www.obesitycheck.com
 0.0.0.0 www.objectopoly.info
 :: www.objectopoly.info
+0.0.0.0 www.obuwiesalomon.pl
+:: www.obuwiesalomon.pl
 0.0.0.0 www.odkrywamyzakryte.com
 :: www.odkrywamyzakryte.com
 0.0.0.0 www.offerent.com
@@ -70885,6 +70925,8 @@
 :: www.oktrk.com
 0.0.0.0 www.old.adtech.pl
 :: www.old.adtech.pl
+0.0.0.0 www.olubin.pl
+:: www.olubin.pl
 0.0.0.0 www.olympia.com
 :: www.olympia.com
 0.0.0.0 www.on2url.com
@@ -71039,6 +71081,8 @@
 :: www.perupuntocom.com
 0.0.0.0 www.petpleasers.ca
 :: www.petpleasers.ca
+0.0.0.0 www.petshooop.com
+:: www.petshooop.com
 0.0.0.0 www.pfhsystem.com
 :: www.pfhsystem.com
 0.0.0.0 www.pfotenranch.de
@@ -71093,6 +71137,8 @@
 :: www.plus500.com
 0.0.0.0 www.pm-international.com
 :: www.pm-international.com
+0.0.0.0 www.pmpj.pl
+:: www.pmpj.pl
 0.0.0.0 www.podereilboschetto.com
 :: www.podereilboschetto.com
 0.0.0.0 www.poesiadelsud.it
@@ -71161,6 +71207,8 @@
 :: www.pp9899.com
 0.0.0.0 www.pr-free.de
 :: www.pr-free.de
+0.0.0.0 www.pracowniabajka.pl
+:: www.pracowniabajka.pl
 0.0.0.0 www.prank.com
 :: www.prank.com
 0.0.0.0 www.prdirectory.biz
@@ -71217,6 +71265,8 @@
 :: www.promolnk.com
 0.0.0.0 www.promomasters.at
 :: www.promomasters.at
+0.0.0.0 www.promonster.pl
+:: www.promonster.pl
 0.0.0.0 www.promotions.yahoo.com
 :: www.promotions.yahoo.com
 0.0.0.0 www.propan.ru
@@ -71307,6 +71357,8 @@
 :: www.rainbow.pl
 0.0.0.0 www.ralphlaurenskleponline.pl
 :: www.ralphlaurenskleponline.pl
+0.0.0.0 www.ralplauran.com
+:: www.ralplauran.com
 0.0.0.0 www.ranchapptag.com
 :: www.ranchapptag.com
 0.0.0.0 www.random-logic.com
@@ -71327,6 +71379,8 @@
 :: www.raypath-international.com.pl
 0.0.0.0 www.raypath.eu
 :: www.raypath.eu
+0.0.0.0 www.rbhth.com
+:: www.rbhth.com
 0.0.0.0 www.real-marketing.com
 :: www.real-marketing.com
 0.0.0.0 www.realestateletters.com
@@ -71407,6 +71461,8 @@
 :: www.ristoromontebasso.it
 0.0.0.0 www.rivcash.com
 :: www.rivcash.com
+0.0.0.0 www.riverparkbaseball.org
+:: www.riverparkbaseball.org
 0.0.0.0 www.riverwalktrader.co.za
 :: www.riverwalktrader.co.za
 0.0.0.0 www.roboclean-poland.com
@@ -71511,14 +71567,14 @@
 :: www.schwule-boys-nackt.cxa.de
 0.0.0.0 www.scotiaonline.scotiabank.salferreras.com
 :: www.scotiaonline.scotiabank.salferreras.com
-0.0.0.0 www.sdfbd.org
-:: www.sdfbd.org
 0.0.0.0 www.sdlpgift.com
 :: www.sdlpgift.com
 0.0.0.0 www.sea1.cdn.survey.medallia.com
 :: www.sea1.cdn.survey.medallia.com
 0.0.0.0 www.seal-technicsag.ch
 :: www.seal-technicsag.ch
+0.0.0.0 www.seansobox.pl
+:: www.seansobox.pl
 0.0.0.0 www.search.us.com
 :: www.search.us.com
 0.0.0.0 www.searchapps.me
@@ -71677,6 +71733,8 @@
 :: www.sonnoli.com
 0.0.0.0 www.sopot24.ru
 :: www.sopot24.ru
+0.0.0.0 www.sos-info-migrator.pl
+:: www.sos-info-migrator.pl
 0.0.0.0 www.souid.com
 :: www.souid.com
 0.0.0.0 www.soundstation.dk
@@ -71719,6 +71777,8 @@
 :: www.spywaresnooper.com
 0.0.0.0 www.srhuafeng.com
 :: www.srhuafeng.com
+0.0.0.0 www.sri.cmu.ac.th
+:: www.sri.cmu.ac.th
 0.0.0.0 www.srld.com
 :: www.srld.com
 0.0.0.0 www.srn.net.in
@@ -71797,6 +71857,8 @@
 :: www.studiosipro.com
 0.0.0.0 www.stupid.co
 :: www.stupid.co
+0.0.0.0 www.stylovemeble.pl
+:: www.stylovemeble.pl
 0.0.0.0 www.subscribe.livingsocial.com
 :: www.subscribe.livingsocial.com
 0.0.0.0 www.successgroupiitjee.com
@@ -71831,6 +71893,8 @@
 :: www.surj.com
 0.0.0.0 www.surphace.com
 :: www.surphace.com
+0.0.0.0 www.suuntosklep.online
+:: www.suuntosklep.online
 0.0.0.0 www.sxcdn02.now.sh
 :: www.sxcdn02.now.sh
 0.0.0.0 www.sxcdn03.now.sh
@@ -71859,6 +71923,8 @@
 :: www.system4.nl
 0.0.0.0 www.systempartition.com
 :: www.systempartition.com
+0.0.0.0 www.szachysieradzkie.pl
+:: www.szachysieradzkie.pl
 0.0.0.0 www.szczesliwydzien.com
 :: www.szczesliwydzien.com
 0.0.0.0 www.szxc868.com
@@ -71885,8 +71951,12 @@
 :: www.tanger.com.br
 0.0.0.0 www.tangibledownload.com
 :: www.tangibledownload.com
+0.0.0.0 www.taniebutymaster.com
+:: www.taniebutymaster.com
 0.0.0.0 www.taniebutysportowe.com
 :: www.taniebutysportowe.com
+0.0.0.0 www.taniemedia.pl
+:: www.taniemedia.pl
 0.0.0.0 www.tao123.com
 :: www.tao123.com
 0.0.0.0 www.taobaobo5.com
@@ -72137,6 +72207,8 @@
 :: www.truetraffic4u.com
 0.0.0.0 www.tsgonline.com
 :: www.tsgonline.com
+0.0.0.0 www.tslinfo.pl
+:: www.tslinfo.pl
 0.0.0.0 www.tsrparaclk.biz
 :: www.tsrparaclk.biz
 0.0.0.0 www.ttcdn.cn
@@ -72147,6 +72219,8 @@
 :: www.tubehits.com
 0.0.0.0 www.tucows.com
 :: www.tucows.com
+0.0.0.0 www.tuesdaysky.pl
+:: www.tuesdaysky.pl
 0.0.0.0 www.tui1999.com
 :: www.tui1999.com
 0.0.0.0 www.tuituigui19999.com
@@ -72199,6 +72273,8 @@
 :: www.ultimatesearch.com
 0.0.0.0 www.ultimatetopsites.com
 :: www.ultimatetopsites.com
+0.0.0.0 www.ultraexpert.pl
+:: www.ultraexpert.pl
 0.0.0.0 www.um0592.com
 :: www.um0592.com
 0.0.0.0 www.umiwi.com
@@ -72263,6 +72339,8 @@
 :: www.vangmobi.com
 0.0.0.0 www.vansallegro.pl
 :: www.vansallegro.pl
+0.0.0.0 www.vanssk8hi.pl
+:: www.vanssk8hi.pl
 0.0.0.0 www.vantis-holding.com
 :: www.vantis-holding.com
 0.0.0.0 www.vascoart.pl
@@ -72323,6 +72401,8 @@
 :: www.vipromoffers.com
 0.0.0.0 www.virtualrosary.com
 :: www.virtualrosary.com
+0.0.0.0 www.virtualsklep.com
+:: www.virtualsklep.com
 0.0.0.0 www.virtualsurfer.com
 :: www.virtualsurfer.com
 0.0.0.0 www.virtumundo.com
@@ -72485,6 +72565,8 @@
 :: www.whizstats.com
 0.0.0.0 www.widebanner.com
 :: www.widebanner.com
+0.0.0.0 www.wiecznieczwarty.com.pl
+:: www.wiecznieczwarty.com.pl
 0.0.0.0 www.wifijia.net
 :: www.wifijia.net
 0.0.0.0 www.wigglewoo.com
@@ -72493,6 +72575,8 @@
 :: www.wildarcade.com
 0.0.0.0 www.wilddreams.info
 :: www.wilddreams.info
+0.0.0.0 www.wildent.pl
+:: www.wildent.pl
 0.0.0.0 www.wildsap.com
 :: www.wildsap.com
 0.0.0.0 www.willcommen.de
@@ -72515,6 +72599,8 @@
 :: www.witnatura.pl
 0.0.0.0 www.wixed.wix.com
 :: www.wixed.wix.com
+0.0.0.0 www.wizecover.co.uk
+:: www.wizecover.co.uk
 0.0.0.0 www.womenbaby.com
 :: www.womenbaby.com
 0.0.0.0 www.wonderwhistle.co.uk
@@ -72699,6 +72785,8 @@
 :: www.z8o.cn
 0.0.0.0 www.za-ads.de
 :: www.za-ads.de
+0.0.0.0 www.zaho.pl
+:: www.zaho.pl
 0.0.0.0 www.zal-inkasso.de
 :: www.zal-inkasso.de
 0.0.0.0 www.zamplus.com
