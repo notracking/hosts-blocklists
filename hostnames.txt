@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Apr 23 05:48:00 CEST 2019
+# Last update: Wed Apr 24 05:25:34 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37246
+# Number of unique hostnames: 37268
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -14193,6 +14193,8 @@
 :: analytics.ccgateway.net
 0.0.0.0 analytics.ccs.mcafee.com
 :: analytics.ccs.mcafee.com
+0.0.0.0 analytics.ceneo.pl
+:: analytics.ceneo.pl
 0.0.0.0 analytics.cervellio.com
 :: analytics.cervellio.com
 0.0.0.0 analytics.civicplus.com
@@ -15089,6 +15091,8 @@
 :: api.uprivaladserver.net
 0.0.0.0 api.usebutton.com
 :: api.usebutton.com
+0.0.0.0 api.useinsider.com
+:: api.useinsider.com
 0.0.0.0 api.usersnap.com
 :: api.usersnap.com
 0.0.0.0 api.userstyles.org
@@ -15613,6 +15617,8 @@
 :: applets.sulekha.com
 0.0.0.0 applicationinsights.microsoft.com
 :: applicationinsights.microsoft.com
+0.0.0.0 applicationinsights.us-east-1.amazonaws.com
+:: applicationinsights.us-east-1.amazonaws.com
 0.0.0.0 applog.camera360.com
 :: applog.camera360.com
 0.0.0.0 applog.uc.cn
@@ -18627,6 +18633,8 @@
 :: beryza.best.pershoretaxis.co.uk
 0.0.0.0 besc.baidustatic.com
 :: besc.baidustatic.com
+0.0.0.0 best.aliexpress.com
+:: best.aliexpress.com
 0.0.0.0 best.netease.com
 :: best.netease.com
 0.0.0.0 bestchahge.net.ru
@@ -19603,6 +19611,8 @@
 :: burn.settingsdata.store
 0.0.0.0 bursakombiservisi.web.tr
 :: bursakombiservisi.web.tr
+0.0.0.0 business-insight.aptoilab.com
+:: business-insight.aptoilab.com
 0.0.0.0 business-page-set.000webhostapp.com
 :: business-page-set.000webhostapp.com
 0.0.0.0 business.92wy.com
@@ -23187,6 +23197,8 @@
 :: coconuts.boy.jp
 0.0.0.0 cocukbakicisi.web.tr
 :: cocukbakicisi.web.tr
+0.0.0.0 cod.bitrec.com
+:: cod.bitrec.com
 0.0.0.0 cod.southmoney.com
 :: cod.southmoney.com
 0.0.0.0 code.37cs.com
@@ -24411,6 +24423,8 @@
 :: creditmutuel.fr-87.draytongossip.com
 0.0.0.0 creditsoffer.blogspot.com
 :: creditsoffer.blogspot.com
+0.0.0.0 creighton.wenerdhard.com
+:: creighton.wenerdhard.com
 0.0.0.0 creme21new.web-previews.de
 :: creme21new.web-previews.de
 0.0.0.0 crewtwqj.beget.tech
@@ -27323,6 +27337,8 @@
 :: disablegoogleplussync.pythonanywhere.com
 0.0.0.0 disablesaccount.000webhostapp.com
 :: disablesaccount.000webhostapp.com
+0.0.0.0 discount.s3blog.org
+:: discount.s3blog.org
 0.0.0.0 discover.com.raroz.net
 :: discover.com.raroz.net
 0.0.0.0 discover.com.treedv.com
@@ -29433,6 +29449,8 @@
 :: entry.baidu.com
 0.0.0.0 entry12-bk-mfug-ufj-ssl-salam.grittygirls.org
 :: entry12-bk-mfug-ufj-ssl-salam.grittygirls.org
+0.0.0.0 entryhit.wp.pl
+:: entryhit.wp.pl
 0.0.0.0 enucip.spacefoot.com
 :: enucip.spacefoot.com
 0.0.0.0 eol1.egyptonline.com
@@ -32153,6 +32171,8 @@
 :: gcirm.wisinfo.com
 0.0.0.0 gclavarino.000webhostapp.com
 :: gclavarino.000webhostapp.com
+0.0.0.0 gcontent.services.tvn.pl
+:: gcontent.services.tvn.pl
 0.0.0.0 gcounter.hosting4u.net
 :: gcounter.hosting4u.net
 0.0.0.0 gd.ads.vip.gq1.yahoo.com
@@ -32477,8 +32497,6 @@
 :: gg.jkmeishi.com
 0.0.0.0 gg.kugou.com
 :: gg.kugou.com
-0.0.0.0 gg.mob.vendimob.pl
-:: gg.mob.vendimob.pl
 0.0.0.0 gg.ptfish.com
 :: gg.ptfish.com
 0.0.0.0 gg.sonhoo.com
@@ -33807,6 +33825,8 @@
 :: hits.zdnet.co.kr
 0.0.0.0 hitserver.ibope.com.br
 :: hitserver.ibope.com.br
+0.0.0.0 hitslink.interia.com.pl
+:: hitslink.interia.com.pl
 0.0.0.0 hitweb.chosun.com
 :: hitweb.chosun.com
 0.0.0.0 hitweb2.chosun.com
@@ -36685,6 +36705,8 @@
 :: ivy.pconline.com.cn
 0.0.0.0 iwa.hit.interia.pl
 :: iwa.hit.interia.pl
+0.0.0.0 iwa3.hit.interia.pl
+:: iwa3.hit.interia.pl
 0.0.0.0 iwan.sogou.com
 :: iwan.sogou.com
 0.0.0.0 iwanad.baidu.com
@@ -37329,8 +37351,6 @@
 :: js.idgdmg.com.cn
 0.0.0.0 js.iodo.com
 :: js.iodo.com
-0.0.0.0 js.jaat3ax.site
-:: js.jaat3ax.site
 0.0.0.0 js.keywordsconnect.com
 :: js.keywordsconnect.com
 0.0.0.0 js.krutor.org.pl
@@ -38211,6 +38231,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -39699,6 +39721,8 @@
 :: lp.torchbrowser.com
 0.0.0.0 lp.webgame.web.id
 :: lp.webgame.web.id
+0.0.0.0 lp4.onlinecasinoreports.com
+:: lp4.onlinecasinoreports.com
 0.0.0.0 lp7.mobilescaner.today
 :: lp7.mobilescaner.today
 0.0.0.0 lpdxwwi0-site.itempurl.com
@@ -40837,6 +40861,8 @@
 :: map.sddan.com
 0.0.0.0 map2.ssl.hwcdn.net
 :: map2.ssl.hwcdn.net
+0.0.0.0 mapasturisticos.tur.br
+:: mapasturisticos.tur.br
 0.0.0.0 mapena.ac.id
 :: mapena.ac.id
 0.0.0.0 mapi.tapreason.com
@@ -41147,6 +41173,8 @@
 :: mbs.weathercn.com
 0.0.0.0 mbs.youjizzlive.com
 :: mbs.youjizzlive.com
+0.0.0.0 mbslmail.mbslbank.com
+:: mbslmail.mbslbank.com
 0.0.0.0 mc-siderail.spot.im
 :: mc-siderail.spot.im
 0.0.0.0 mc.corel.com
@@ -51495,6 +51523,8 @@
 :: rads.msn.com
 0.0.0.0 rads.stackoverflow.com
 :: rads.stackoverflow.com
+0.0.0.0 radwa.0mr.net
+:: radwa.0mr.net
 0.0.0.0 rafaga7v.beget.tech
 :: rafaga7v.beget.tech
 0.0.0.0 rainb00-scama.revupnet.com
@@ -57509,6 +57539,8 @@
 :: stat.duokanbox.com
 0.0.0.0 stat.dyna.ultraweb.hu
 :: stat.dyna.ultraweb.hu
+0.0.0.0 stat.dziennik.pl
+:: stat.dziennik.pl
 0.0.0.0 stat.ea3w.com
 :: stat.ea3w.com
 0.0.0.0 stat.ekologia.pl
@@ -58037,6 +58069,8 @@
 :: stats-ec2-46-137-101-227.layar.com
 0.0.0.0 stats-newyork1.bloxcms.com
 :: stats-newyork1.bloxcms.com
+0.0.0.0 stats-srv.rp.pl
+:: stats-srv.rp.pl
 0.0.0.0 stats.24.com
 :: stats.24.com
 0.0.0.0 stats.24ways.org
@@ -58259,6 +58293,8 @@
 :: stats.go-west.nl
 0.0.0.0 stats.gograph.com
 :: stats.gograph.com
+0.0.0.0 stats.goldenline.pl
+:: stats.goldenline.pl
 0.0.0.0 stats.greenpixels.com
 :: stats.greenpixels.com
 0.0.0.0 stats.grok.se
@@ -58729,6 +58765,8 @@
 :: stg.a.analytics.yahoo.com
 0.0.0.0 stg.jwpltx.com
 :: stg.jwpltx.com
+0.0.0.0 stg.wp.pl
+:: stg.wp.pl
 0.0.0.0 stgg5jv6mqiibmax.toradmin.li
 :: stgg5jv6mqiibmax.toradmin.li
 0.0.0.0 stgg5jv6mqiibmax.toranimals.li
@@ -61115,6 +61153,8 @@
 :: track.businesstrenders.com
 0.0.0.0 track.businessunionorg.com
 :: track.businessunionorg.com
+0.0.0.0 track.buybox.click
+:: track.buybox.click
 0.0.0.0 track.byzon.swelen.net
 :: track.byzon.swelen.net
 0.0.0.0 track.cafemomstatic.com
@@ -61997,6 +62037,8 @@
 :: tracker.truehits.in.th
 0.0.0.0 tracker.twenga.nl
 :: tracker.twenga.nl
+0.0.0.0 tracker.twenga.pl
+:: tracker.twenga.pl
 0.0.0.0 tracker.u-link.me
 :: tracker.u-link.me
 0.0.0.0 tracker.uprinting.com
@@ -62075,6 +62117,8 @@
 :: tracking.adultsense.com
 0.0.0.0 tracking.aegpresents.com
 :: tracking.aegpresents.com
+0.0.0.0 tracking.affiliate44.com.pl
+:: tracking.affiliate44.com.pl
 0.0.0.0 tracking.aimediagroup.com
 :: tracking.aimediagroup.com
 0.0.0.0 tracking.allposters.com
@@ -64429,6 +64473,8 @@
 :: ut.iadsdk.apple.com
 0.0.0.0 ut.imm-ltt.gq
 :: ut.imm-ltt.gq
+0.0.0.0 ut.o2.pl
+:: ut.o2.pl
 0.0.0.0 ut2.shuqistat.com
 :: ut2.shuqistat.com
 0.0.0.0 utenti.lycos.it
@@ -67207,6 +67253,8 @@
 :: wpcdn1.herokuapp.com
 0.0.0.0 wpconte.heliohost.org
 :: wpconte.heliohost.org
+0.0.0.0 wpdemo.sleeplesshacker.com
+:: wpdemo.sleeplesshacker.com
 0.0.0.0 wpdemo.wctravel.com.au
 :: wpdemo.wctravel.com.au
 0.0.0.0 wpk.edu.hk
@@ -70389,8 +70437,6 @@
 :: www.loansbadcredit.net.au
 0.0.0.0 www.locatorprotocol.com
 :: www.locatorprotocol.com
-0.0.0.0 www.log-in-verlag.de
-:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -71567,6 +71613,8 @@
 :: www.schwule-boys-nackt.cxa.de
 0.0.0.0 www.scotiaonline.scotiabank.salferreras.com
 :: www.scotiaonline.scotiabank.salferreras.com
+0.0.0.0 www.sdfbd.org
+:: www.sdfbd.org
 0.0.0.0 www.sdlpgift.com
 :: www.sdlpgift.com
 0.0.0.0 www.sea1.cdn.survey.medallia.com
@@ -72219,8 +72267,6 @@
 :: www.tubehits.com
 0.0.0.0 www.tucows.com
 :: www.tucows.com
-0.0.0.0 www.tuesdaysky.pl
-:: www.tuesdaysky.pl
 0.0.0.0 www.tui1999.com
 :: www.tui1999.com
 0.0.0.0 www.tuituigui19999.com
@@ -72339,8 +72385,6 @@
 :: www.vangmobi.com
 0.0.0.0 www.vansallegro.pl
 :: www.vansallegro.pl
-0.0.0.0 www.vanssk8hi.pl
-:: www.vanssk8hi.pl
 0.0.0.0 www.vantis-holding.com
 :: www.vantis-holding.com
 0.0.0.0 www.vascoart.pl
@@ -72575,8 +72619,6 @@
 :: www.wildarcade.com
 0.0.0.0 www.wilddreams.info
 :: www.wilddreams.info
-0.0.0.0 www.wildent.pl
-:: www.wildent.pl
 0.0.0.0 www.wildsap.com
 :: www.wildsap.com
 0.0.0.0 www.willcommen.de
@@ -73235,6 +73277,8 @@
 :: x.niuliyan.cn
 0.0.0.0 x.saponsroyale.com
 :: x.saponsroyale.com
+0.0.0.0 x.sare25.com
+:: x.sare25.com
 0.0.0.0 x.technic3d.biz
 :: x.technic3d.biz
 0.0.0.0 x.vamaker.com
