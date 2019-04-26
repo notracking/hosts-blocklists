@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Apr 25 05:42:45 CEST 2019
+# Last update: Fri Apr 26 06:26:16 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37272
+# Number of unique hostnames: 37286
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -27093,6 +27093,8 @@
 :: dev.tg.wan.360.cn
 0.0.0.0 dev.tg.youxi.com
 :: dev.tg.youxi.com
+0.0.0.0 dev.ups.analytics.yahoo.com
+:: dev.ups.analytics.yahoo.com
 0.0.0.0 dev.wrathofshadows.net
 :: dev.wrathofshadows.net
 0.0.0.0 dev1.redanchormedia.com
@@ -35037,6 +35039,8 @@
 :: idservicetelsmsmmssfr.000webhostapp.com
 0.0.0.0 idstore2k18.000webhostapp.com
 :: idstore2k18.000webhostapp.com
+0.0.0.0 idsync.analytics.yahoo.com
+:: idsync.analytics.yahoo.com
 0.0.0.0 iebar.baidu.com
 :: iebar.baidu.com
 0.0.0.0 ieonline.microsoft.com
@@ -40231,8 +40235,6 @@
 :: m.nouaa.com
 0.0.0.0 m.nqut.cn
 :: m.nqut.cn
-0.0.0.0 m.ntxiangtai.com
-:: m.ntxiangtai.com
 0.0.0.0 m.ocenp.com
 :: m.ocenp.com
 0.0.0.0 m.ogeigs.com
@@ -44911,6 +44913,8 @@
 :: o17.ck.n.convertkit.com
 0.0.0.0 o1b257.koll.pershoreairporttransfers.co.uk
 :: o1b257.koll.pershoreairporttransfers.co.uk
+0.0.0.0 o20.ck.n.convertkit.com
+:: o20.ck.n.convertkit.com
 0.0.0.0 o20j8uo62vc2wmf.lazega.ru
 :: o20j8uo62vc2wmf.lazega.ru
 0.0.0.0 o2o.api.xiaomi.com
@@ -46359,6 +46363,10 @@
 :: optmnstr.awesomemotive.netdna-cdn.com
 0.0.0.0 optusnet.com.a.schoorlse-reddingsbrigade.trade
 :: optusnet.com.a.schoorlse-reddingsbrigade.trade
+0.0.0.0 opus-dev.analytics.yahoo.com
+:: opus-dev.analytics.yahoo.com
+0.0.0.0 opus.analytics.yahoo.com
+:: opus.analytics.yahoo.com
 0.0.0.0 opwngka.ddns.info
 :: opwngka.ddns.info
 0.0.0.0 oqwygprskqv65j72.12kb9j.top
@@ -48835,6 +48843,8 @@
 :: pim14uwcgivjdw8esf8u.mbservicesyorkshire.co.uk
 0.0.0.0 pimg1.126.net
 :: pimg1.126.net
+0.0.0.0 ping-origin-dev.jwpltx.com
+:: ping-origin-dev.jwpltx.com
 0.0.0.0 ping.acc.sogou.com
 :: ping.acc.sogou.com
 0.0.0.0 ping.aclst.com
@@ -54165,12 +54175,18 @@
 :: sc15636701llms1.cobrowse.oraclecloud.com
 0.0.0.0 sc16260007llms1.cobrowse.oraclecloud.com
 :: sc16260007llms1.cobrowse.oraclecloud.com
+0.0.0.0 sc1784323llms1.cobrowse.oraclecloud.com
+:: sc1784323llms1.cobrowse.oraclecloud.com
+0.0.0.0 sc17864323llms1.cobrowse.oraclecloud.com
+:: sc17864323llms1.cobrowse.oraclecloud.com
 0.0.0.0 sc22206764gb1.cobrowse.oraclecloud.com
 :: sc22206764gb1.cobrowse.oraclecloud.com
 0.0.0.0 sc23269568hms1.cobrowse.oraclecloud.com
 :: sc23269568hms1.cobrowse.oraclecloud.com
 0.0.0.0 sc25236956us1.cobrowse.oraclecloud.com
 :: sc25236956us1.cobrowse.oraclecloud.com
+0.0.0.0 sc25708701llms1.cobrowse.oraclecloud.com
+:: sc25708701llms1.cobrowse.oraclecloud.com
 0.0.0.0 sc30545339hms1.cobrowse.oraclecloud.com
 :: sc30545339hms1.cobrowse.oraclecloud.com
 0.0.0.0 sc30897597llms1.cobrowse.oraclecloud.com
@@ -54261,6 +54277,8 @@
 :: sc80261445us1.cobrowse.oraclecloud.com
 0.0.0.0 sc80838491us1.cobrowse.oraclecloud.com
 :: sc80838491us1.cobrowse.oraclecloud.com
+0.0.0.0 sc80879723au1.cobrowse.oraclecloud.com
+:: sc80879723au1.cobrowse.oraclecloud.com
 0.0.0.0 sc81298620llms1.cobrowse.oraclecloud.com
 :: sc81298620llms1.cobrowse.oraclecloud.com
 0.0.0.0 sc83334686il1.cobrowse.oraclecloud.com
@@ -54319,6 +54337,8 @@
 :: scarlet.spegene.com
 0.0.0.0 sccden.spot.im
 :: sccden.spot.im
+0.0.0.0 sccdens.spot.im
+:: sccdens.spot.im
 0.0.0.0 scd.secureintl.com
 :: scd.secureintl.com
 0.0.0.0 scdown.qq.com
@@ -64947,8 +64967,6 @@
 :: vert349.wixsite.com
 0.0.0.0 vertical-stats.huffpost.com
 :: vertical-stats.huffpost.com
-0.0.0.0 verzeroli.outbreakm3dia.com
-:: verzeroli.outbreakm3dia.com
 0.0.0.0 vewrb.italisumo.at
 :: vewrb.italisumo.at
 0.0.0.0 vex.analytics.wildtangent.com
@@ -67785,8 +67803,6 @@
 :: www.716703.com
 0.0.0.0 www.7218.pl
 :: www.7218.pl
-0.0.0.0 www.72933.pl
-:: www.72933.pl
 0.0.0.0 www.749558.com
 :: www.749558.com
 0.0.0.0 www.7540.com
@@ -67831,6 +67847,8 @@
 :: www.99stats.com
 0.0.0.0 www.9malls.co.uk
 :: www.9malls.co.uk
+0.0.0.0 www.a.et.nytimes.com
+:: www.a.et.nytimes.com
 0.0.0.0 www.a1a.pl
 :: www.a1a.pl
 0.0.0.0 www.a1fax.com
@@ -68657,6 +68675,8 @@
 :: www.cctvalberton.co.za
 0.0.0.0 www.cdirealestate.com
 :: www.cdirealestate.com
+0.0.0.0 www.cdn.merklesearch.com
+:: www.cdn.merklesearch.com
 0.0.0.0 www.cdn.survey.medallia.com
 :: www.cdn.survey.medallia.com
 0.0.0.0 www.cedino.pl
@@ -69071,8 +69091,6 @@
 :: www.drawnsex.com
 0.0.0.0 www.drb.pl
 :: www.drb.pl
-0.0.0.0 www.dreamboxturk.com
-:: www.dreamboxturk.com
 0.0.0.0 www.drmartens1460.pl
 :: www.drmartens1460.pl
 0.0.0.0 www.drmehul.in
@@ -69225,6 +69243,8 @@
 :: www.esptj.com
 0.0.0.0 www.estats4all.com
 :: www.estats4all.com
+0.0.0.0 www.et.nytimes.com
+:: www.et.nytimes.com
 0.0.0.0 www.etraffic.com
 :: www.etraffic.com
 0.0.0.0 www.eu.cdn.survey.medallia.com
@@ -69893,8 +69913,6 @@
 :: www.iiewl.com
 0.0.0.0 www.ijacko.net
 :: www.ijacko.net
-0.0.0.0 www.ijerd.com
-:: www.ijerd.com
 0.0.0.0 www.ilgm-deals.com
 :: www.ilgm-deals.com
 0.0.0.0 www.ilkhaberadana.com
@@ -70441,8 +70459,6 @@
 :: www.loansbadcredit.net.au
 0.0.0.0 www.locatorprotocol.com
 :: www.locatorprotocol.com
-0.0.0.0 www.log-in-verlag.de
-:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -70617,6 +70633,8 @@
 :: www.methodcasino2015.com
 0.0.0.0 www.methode-binaire.com
 :: www.methode-binaire.com
+0.0.0.0 www.metrics.aeon.co
+:: www.metrics.aeon.co
 0.0.0.0 www.metrics.brightcove.com
 :: www.metrics.brightcove.com
 0.0.0.0 www.metrics.daveandbusters.com
@@ -71183,6 +71201,8 @@
 :: www.pj550077.com
 0.0.0.0 www.placehold.it
 :: www.placehold.it
+0.0.0.0 www.player.h-cdn.com
+:: www.player.h-cdn.com
 0.0.0.0 www.plug-media.com
 :: www.plug-media.com
 0.0.0.0 www.plus500.com
@@ -71627,6 +71647,8 @@
 :: www.sea1.cdn.survey.medallia.com
 0.0.0.0 www.seal-technicsag.ch
 :: www.seal-technicsag.ch
+0.0.0.0 www.seal.godaddy.com
+:: www.seal.godaddy.com
 0.0.0.0 www.seansobox.pl
 :: www.seansobox.pl
 0.0.0.0 www.search.us.com
@@ -71657,6 +71679,8 @@
 :: www.seekways.com
 0.0.0.0 www.segredodemarketing.com
 :: www.segredodemarketing.com
+0.0.0.0 www.sentry.gitlab.net
+:: www.sentry.gitlab.net
 0.0.0.0 www.seo-portal.ro
 :: www.seo-portal.ro
 0.0.0.0 www.servermax.de
@@ -71937,6 +71961,8 @@
 :: www.superinternetdeals.com
 0.0.0.0 www.supersharewareman.com
 :: www.supersharewareman.com
+0.0.0.0 www.supplementum.pl
+:: www.supplementum.pl
 0.0.0.0 www.supremehits.net
 :: www.supremehits.net
 0.0.0.0 www.surfaccuracy.com
@@ -72693,6 +72719,8 @@
 :: www.wyroki.eu
 0.0.0.0 www.wysistat.com
 :: www.wysistat.com
+0.0.0.0 www.xapi.xfinity.com
+:: www.xapi.xfinity.com
 0.0.0.0 www.xbn.ru
 :: www.xbn.ru
 0.0.0.0 www.xbzzzx.com
