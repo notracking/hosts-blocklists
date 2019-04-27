@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Apr 26 06:26:16 CEST 2019
+# Last update: Sat Apr 27 05:33:05 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37286
+# Number of unique hostnames: 37296
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3231,6 +3231,8 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
+0.0.0.0 abusalewm.exceltoner.com
+:: abusalewm.exceltoner.com
 0.0.0.0 ac.ajur.info
 :: ac.ajur.info
 0.0.0.0 ac.atpanel.com
@@ -15401,8 +15403,6 @@
 :: app1.letitbefaster.life
 0.0.0.0 app1.letitbefaster.today
 :: app1.letitbefaster.today
-0.0.0.0 app1.letmacworkfaster.site
-:: app1.letmacworkfaster.site
 0.0.0.0 app2.downloadmacsoft.site
 :: app2.downloadmacsoft.site
 0.0.0.0 app2.downloadmacsoft.world
@@ -15411,8 +15411,6 @@
 :: app2.letitbefaster.life
 0.0.0.0 app2.letmacwork.world
 :: app2.letmacwork.world
-0.0.0.0 app2.letmacworkfaster.site
-:: app2.letmacworkfaster.site
 0.0.0.0 app2.letslowbefast.life
 :: app2.letslowbefast.life
 0.0.0.0 app3.letitbefaster.life
@@ -16821,6 +16819,8 @@
 :: baby.dorki.info
 0.0.0.0 baby.py.shangdu.com
 :: baby.py.shangdu.com
+0.0.0.0 bac.edu.my
+:: bac.edu.my
 0.0.0.0 back.messajess.info
 :: back.messajess.info
 0.0.0.0 backdoor.thumblogger.com
@@ -21573,6 +21573,8 @@
 :: ce2-dev-trk.s3.amazonaws.com
 0.0.0.0 ce2-dev.s3.amazonaws.com
 :: ce2-dev.s3.amazonaws.com
+0.0.0.0 cecav.utad.pt
+:: cecav.utad.pt
 0.0.0.0 cedexis-dsa-eu.gccdn.net
 :: cedexis-dsa-eu.gccdn.net
 0.0.0.0 cedexis.cdn.mediactive-network.net
@@ -23537,6 +23539,8 @@
 :: confrim-supoort1.regist3r2.tk
 0.0.0.0 confrimascion98.helpfanspagea.gq
 :: confrimascion98.helpfanspagea.gq
+0.0.0.0 congchung.isocial.vn
+:: congchung.isocial.vn
 0.0.0.0 connct.secure.wellsfargo.com.aaru486.com.au
 :: connct.secure.wellsfargo.com.aaru486.com.au
 0.0.0.0 connect-go.000webhostapp.com
@@ -32995,6 +32999,8 @@
 :: graphics7.nytimes.com
 0.0.0.0 graphics8.nytimes.m7z.net
 :: graphics8.nytimes.m7z.net
+0.0.0.0 grasscutter.sakuraweb.com
+:: grasscutter.sakuraweb.com
 0.0.0.0 gratis.nl.sms.sms13.de
 :: gratis.nl.sms.sms13.de
 0.0.0.0 gratis.sms.senden.sms13.de
@@ -35013,6 +35019,8 @@
 :: idcheckonline.bankofamerica.com.accid0e5b6e0b5e9ba0e5b69.idverificationcloud.online
 0.0.0.0 idd00dnu.eresmas.net
 :: idd00dnu.eresmas.net
+0.0.0.0 iddeia.org.br
+:: iddeia.org.br
 0.0.0.0 idea.ideaman-usa.com
 :: idea.ideaman-usa.com
 0.0.0.0 ideascentre.org.hk
@@ -35169,6 +35177,8 @@
 :: ikanco.itui778.business
 0.0.0.0 ikcode.baidu.com
 :: ikcode.baidu.com
+0.0.0.0 ikeba-fia.unkris.ac.id
+:: ikeba-fia.unkris.ac.id
 0.0.0.0 ikeeneremadu.dnjj.ga
 :: ikeeneremadu.dnjj.ga
 0.0.0.0 iklan.eramuslim.com
@@ -36559,6 +36569,8 @@
 :: is2.websearch.com
 0.0.0.0 isaac-mafi.persiangig.com
 :: isaac-mafi.persiangig.com
+0.0.0.0 isais.or.id
+:: isais.or.id
 0.0.0.0 isalvador.000webhostapp.com
 :: isalvador.000webhostapp.com
 0.0.0.0 isamuxpompapsc50.6ka.info
@@ -40511,6 +40523,8 @@
 :: m9zzz.survey7.adsservingtwig.xyz
 0.0.0.0 ma-caf-allocataires-services-en-ligne.paoksjdllmlmpr.com
 :: ma-caf-allocataires-services-en-ligne.paoksjdllmlmpr.com
+0.0.0.0 ma-masalikilhuda.sch.id
+:: ma-masalikilhuda.sch.id
 0.0.0.0 ma.baidu.com
 :: ma.baidu.com
 0.0.0.0 ma.tinyflashlight.com
@@ -46433,6 +46447,8 @@
 :: orange181.godaddysites.com
 0.0.0.0 orangefacture.maitrepx.beget.tech
 :: orangefacture.maitrepx.beget.tech
+0.0.0.0 orangmm.ultimatefreehost.in
+:: orangmm.ultimatefreehost.in
 0.0.0.0 orbit.lun.ua
 :: orbit.lun.ua
 0.0.0.0 orbowlada.strefa.pl
@@ -49289,8 +49305,6 @@
 :: play.traffpartners.com
 0.0.0.0 play.vb.wearesaudis.net
 :: play.vb.wearesaudis.net
-0.0.0.0 play.video.estream.nu
-:: play.video.estream.nu
 0.0.0.0 play.videos.videos.vidto.me
 :: play.videos.videos.vidto.me
 0.0.0.0 play.videos.vidto.me
@@ -53401,8 +53415,6 @@
 :: s2.play1.videos.videos.vidto.me
 0.0.0.0 s2.play1.videos.vidto.me
 :: s2.play1.videos.vidto.me
-0.0.0.0 s2.video.estream.nu
-:: s2.video.estream.nu
 0.0.0.0 s2.videos.videos.vidto.me
 :: s2.videos.videos.vidto.me
 0.0.0.0 s2.videos.vidto.me
@@ -53447,8 +53459,6 @@
 :: s3.play1.videos.videos.vidto.me
 0.0.0.0 s3.play1.videos.vidto.me
 :: s3.play1.videos.vidto.me
-0.0.0.0 s3.video.estream.nu
-:: s3.video.estream.nu
 0.0.0.0 s3.videos.videos.vidto.me
 :: s3.videos.videos.vidto.me
 0.0.0.0 s3.videos.vidto.me
@@ -54125,6 +54135,8 @@
 :: sbnc.hak.su
 0.0.0.0 sbpb1.qulishi.com
 :: sbpb1.qulishi.com
+0.0.0.0 sbs-careers.viewsite.io
+:: sbs-careers.viewsite.io
 0.0.0.0 sbs.ipeary.com
 :: sbs.ipeary.com
 0.0.0.0 sbups6.moro.pershoreprivatehire.co.uk
@@ -60187,6 +60199,8 @@
 :: tech.weeklytribune.net
 0.0.0.0 techexpress.home.mindspring.com
 :: techexpress.home.mindspring.com
+0.0.0.0 techhome-js.github.io
+:: techhome-js.github.io
 0.0.0.0 techinvaa.000webhostapp.com
 :: techinvaa.000webhostapp.com
 0.0.0.0 technickauniverzitaostravaupdate.weebly.com
@@ -64967,6 +64981,8 @@
 :: vert349.wixsite.com
 0.0.0.0 vertical-stats.huffpost.com
 :: vertical-stats.huffpost.com
+0.0.0.0 verzeroli.outbreakm3dia.com
+:: verzeroli.outbreakm3dia.com
 0.0.0.0 vewrb.italisumo.at
 :: vewrb.italisumo.at
 0.0.0.0 vex.analytics.wildtangent.com
@@ -65045,8 +65061,6 @@
 :: video.cynogage.com
 0.0.0.0 video.entertaintastic.com
 :: video.entertaintastic.com
-0.0.0.0 video.estream.nu
-:: video.estream.nu
 0.0.0.0 video.sexstorage.net
 :: video.sexstorage.net
 0.0.0.0 video.theparentingvillage.com
@@ -66163,8 +66177,6 @@
 :: web.kuaisouwifi.com
 0.0.0.0 web.m182.vhostgo.com
 :: web.m182.vhostgo.com
-0.0.0.0 web.miamihouseparty.net
-:: web.miamihouseparty.net
 0.0.0.0 web.mxradon.com
 :: web.mxradon.com
 0.0.0.0 web.n2s.co.kr
@@ -69091,6 +69103,8 @@
 :: www.drawnsex.com
 0.0.0.0 www.drb.pl
 :: www.drb.pl
+0.0.0.0 www.dreamboxturk.com
+:: www.dreamboxturk.com
 0.0.0.0 www.drmartens1460.pl
 :: www.drmartens1460.pl
 0.0.0.0 www.drmehul.in
@@ -69913,6 +69927,8 @@
 :: www.iiewl.com
 0.0.0.0 www.ijacko.net
 :: www.ijacko.net
+0.0.0.0 www.ijerd.com
+:: www.ijerd.com
 0.0.0.0 www.ilgm-deals.com
 :: www.ilgm-deals.com
 0.0.0.0 www.ilkhaberadana.com
@@ -70459,6 +70475,8 @@
 :: www.loansbadcredit.net.au
 0.0.0.0 www.locatorprotocol.com
 :: www.locatorprotocol.com
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -72155,6 +72173,8 @@
 :: www.tigipro.pl
 0.0.0.0 www.timefor.com
 :: www.timefor.com
+0.0.0.0 www.timelessimagesmi.com
+:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tings.com
