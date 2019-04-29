@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Apr 28 05:28:14 CEST 2019
+# Last update: Mon Apr 29 05:27:58 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37296
+# Number of unique hostnames: 37272
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -14361,6 +14361,8 @@
 :: analytics.onesearch.id
 0.0.0.0 analytics.ooyala.com
 :: analytics.ooyala.com
+0.0.0.0 analytics.openload.co
+:: analytics.openload.co
 0.0.0.0 analytics.paddle.com
 :: analytics.paddle.com
 0.0.0.0 analytics.phando.com
@@ -14565,8 +14567,6 @@
 :: analyzer52.fc2.com
 0.0.0.0 analyzer55.fc2.com
 :: analyzer55.fc2.com
-0.0.0.0 anan.t46445.top
-:: anan.t46445.top
 0.0.0.0 ananhp.net.a1traveldirect.co.uk
 :: ananhp.net.a1traveldirect.co.uk
 0.0.0.0 anapixel.elmundo.es
@@ -15733,8 +15733,6 @@
 :: apx.motads.com
 0.0.0.0 aqcyua.est.northerndishedends.com
 :: aqcyua.est.northerndishedends.com
-0.0.0.0 aqua.dewinterlaura.be
-:: aqua.dewinterlaura.be
 0.0.0.0 aqua.dmm.co.jp
 :: aqua.dmm.co.jp
 0.0.0.0 aquarius-heel.000webhostapp.com
@@ -15815,8 +15813,6 @@
 :: arms.livedoor.net
 0.0.0.0 arouersobesite.free.fr
 :: arouersobesite.free.fr
-0.0.0.0 arr.sbs-app.com
-:: arr.sbs-app.com
 0.0.0.0 arraiaame.sslblindado.com
 :: arraiaame.sslblindado.com
 0.0.0.0 arrayed-assemblies.000webhostapp.com
@@ -16089,8 +16085,6 @@
 :: astat.bugly.qq.com
 0.0.0.0 astrategy.beacon.qq.com
 :: astrategy.beacon.qq.com
-0.0.0.0 asu.edu.et
-:: asu.edu.et
 0.0.0.0 asu.msmu.ru
 :: asu.msmu.ru
 0.0.0.0 asumi.shinobi.jp
@@ -16305,8 +16299,6 @@
 :: autolinkmaker.itunes.apple.com
 0.0.0.0 automation.service.euro-system-security.info
 :: automation.service.euro-system-security.info
-0.0.0.0 autos.in.th
-:: autos.in.th
 0.0.0.0 autoserv-2.nichost.ru
 :: autoserv-2.nichost.ru
 0.0.0.0 autoupdate.update4ever.xyz
@@ -16319,6 +16311,8 @@
 :: av.ageverify.co
 0.0.0.0 av.beap.bc.yahoo.com
 :: av.beap.bc.yahoo.com
+0.0.0.0 avada.nycwebapps.com
+:: avada.nycwebapps.com
 0.0.0.0 avast.d0wnloadz.net
 :: avast.d0wnloadz.net
 0.0.0.0 avban.av.by
@@ -19437,8 +19431,6 @@
 :: bright.bncnt.com
 0.0.0.0 brightcove.map.fastly.net
 :: brightcove.map.fastly.net
-0.0.0.0 brighteducationcenter.org.rw
-:: brighteducationcenter.org.rw
 0.0.0.0 britneyspears.1stok.com
 :: britneyspears.1stok.com
 0.0.0.0 britneyspears.ca.tt
@@ -20675,6 +20667,8 @@
 :: cca.mob.com
 0.0.0.0 ccb.uncle-ad.com
 :: ccb.uncle-ad.com
+0.0.0.0 ccc.ac.th
+:: ccc.ac.th
 0.0.0.0 ccc.sys.intl.xiaomi.com
 :: ccc.sys.intl.xiaomi.com
 0.0.0.0 ccc.sys.miui.com
@@ -21225,8 +21219,6 @@
 :: cdn.zampda.net
 0.0.0.0 cdn.zampdsp.com
 :: cdn.zampdsp.com
-0.0.0.0 cdn.zecast.com
-:: cdn.zecast.com
 0.0.0.0 cdn.ziffstatic.com
 :: cdn.ziffstatic.com
 0.0.0.0 cdn0.mobmore.com
@@ -24563,8 +24555,6 @@
 :: csagov.jinanyuz.com
 0.0.0.0 csc.beap.bc.yahoo.com
 :: csc.beap.bc.yahoo.com
-0.0.0.0 csd-tat.org.ua
-:: csd-tat.org.ua
 0.0.0.0 cserver.mii.instacontent.net
 :: cserver.mii.instacontent.net
 0.0.0.0 csgosteamanalyst.eu.com
@@ -25767,6 +25757,8 @@
 :: d31nb97nd8ha11.cloudfront.net
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
 :: d31qbv1cthcecs.cloudfront.net
+0.0.0.0 d31vxm9ubutrmw.cloudfront.net
+:: d31vxm9ubutrmw.cloudfront.net
 0.0.0.0 d32pxqbknuxsuy.cloudfront.net
 :: d32pxqbknuxsuy.cloudfront.net
 0.0.0.0 d32r49xyei4vz6.cloudfront.net
@@ -27633,8 +27625,6 @@
 :: dmapp.youku.com
 0.0.0.0 dmc1acwvwny3.cloudfront.net
 :: dmc1acwvwny3.cloudfront.net
-0.0.0.0 dmd.metaservices.microsoft.com
-:: dmd.metaservices.microsoft.com
 0.0.0.0 dmd88drvr.000webhostapp.com
 :: dmd88drvr.000webhostapp.com
 0.0.0.0 dmdigbrzjbmso.cloudfront.net
@@ -29189,8 +29179,6 @@
 :: eland.doublemax.net
 0.0.0.0 elbcradio.tcalr.org
 :: elbcradio.tcalr.org
-0.0.0.0 electricfence.levsantronic.ro
-:: electricfence.levsantronic.ro
 0.0.0.0 electro.demos.su
 :: electro.demos.su
 0.0.0.0 electrohemostasis.makemoneywithmegan.net
@@ -29509,8 +29497,6 @@
 :: erectile.byethost33.com
 0.0.0.0 erg.boutiquedepro.net
 :: erg.boutiquedepro.net
-0.0.0.0 erica.id.au
-:: erica.id.au
 0.0.0.0 ericzworkz.free.fr
 :: ericzworkz.free.fr
 0.0.0.0 erie.smartage.com
@@ -29623,8 +29609,6 @@
 :: esrfbb.conciliolatinoamericano.com
 0.0.0.0 esscer47emonyno.rr.nu
 :: esscer47emonyno.rr.nu
-0.0.0.0 estab.org.tr
-:: estab.org.tr
 0.0.0.0 estadisticas.lanacion.com.ar
 :: estadisticas.lanacion.com.ar
 0.0.0.0 estadonline.publiguias.cl
@@ -30431,8 +30415,6 @@
 :: fav.simba.taobao.com
 0.0.0.0 fawebooh.000webhostapp.com
 :: fawebooh.000webhostapp.com
-0.0.0.0 fax.pc.phone.sms13.de
-:: fax.pc.phone.sms13.de
 0.0.0.0 fb-2018sist.000webhostapp.com
 :: fb-2018sist.000webhostapp.com
 0.0.0.0 fb-account-control.hoibangai.com
@@ -31913,8 +31895,6 @@
 :: galaxy.sogoucdn.com
 0.0.0.0 galent1.000webhostapp.com
 :: galent1.000webhostapp.com
-0.0.0.0 galifeu-kolsmmrwoytjfvofzfg.stackpathdns.com
-:: galifeu-kolsmmrwoytjfvofzfg.stackpathdns.com
 0.0.0.0 galkavk.esy.es
 :: galkavk.esy.es
 0.0.0.0 gall.dcinside.com
@@ -33047,8 +33027,6 @@
 :: groupaccount.000webhostapp.com
 0.0.0.0 groupchatting.netne.net
 :: groupchatting.netne.net
-0.0.0.0 growa.seojohor.com
-:: growa.seojohor.com
 0.0.0.0 grupa-sprzedazowa.home.pl
 :: grupa-sprzedazowa.home.pl
 0.0.0.0 grupamedialna.hekko24.pl
@@ -34239,8 +34217,6 @@
 :: hm.ubiej.com
 0.0.0.0 hmc.uxuixsw0b.top
 :: hmc.uxuixsw0b.top
-0.0.0.0 hmjanealamhs.edu.bd
-:: hmjanealamhs.edu.bd
 0.0.0.0 hmora.fred-build.tk
 :: hmora.fred-build.tk
 0.0.0.0 hmrc.logincorpssl.com
@@ -36881,8 +36857,6 @@
 :: javascriptcounter.appspot.com
 0.0.0.0 javdict.disqus.com
 :: javdict.disqus.com
-0.0.0.0 javis.mauwebsitedep.com
-:: javis.mauwebsitedep.com
 0.0.0.0 jawi55v.000webhostapp.com
 :: jawi55v.000webhostapp.com
 0.0.0.0 jayboyd.t15.org
@@ -37853,8 +37827,6 @@
 :: keryt.jnservo.com
 0.0.0.0 kestrel.ospreymedialp.com
 :: kestrel.ospreymedialp.com
-0.0.0.0 ketanggungan.desabrebes.id
-:: ketanggungan.desabrebes.id
 0.0.0.0 kevinvalleyproperty.000webhostapp.com
 :: kevinvalleyproperty.000webhostapp.com
 0.0.0.0 kewu.cfpwealthcpp.net
@@ -40671,8 +40643,6 @@
 :: mail.issas.ac.cn
 0.0.0.0 mail.iteronsystems.com
 :: mail.iteronsystems.com
-0.0.0.0 mail.mtbkhnna.com
-:: mail.mtbkhnna.com
 0.0.0.0 mail.myiris.com
 :: mail.myiris.com
 0.0.0.0 mail.pmo.ac.cn
@@ -40881,8 +40851,6 @@
 :: map.sddan.com
 0.0.0.0 map2.ssl.hwcdn.net
 :: map2.ssl.hwcdn.net
-0.0.0.0 mapasturisticos.tur.br
-:: mapasturisticos.tur.br
 0.0.0.0 mapena.ac.id
 :: mapena.ac.id
 0.0.0.0 mapi.tapreason.com
@@ -42957,6 +42925,8 @@
 :: mobileroadie.siaraya.com
 0.0.0.0 mobilfree9.beget.tech
 :: mobilfree9.beget.tech
+0.0.0.0 mobility-advice.org.uk
+:: mobility-advice.org.uk
 0.0.0.0 mobipapcomercio.vl5.net2.com.br
 :: mobipapcomercio.vl5.net2.com.br
 0.0.0.0 mobisex.pieprz.pl
@@ -43617,8 +43587,6 @@
 :: myunion1.qm120.com
 0.0.0.0 myunion1.tupians.com
 :: myunion1.tupians.com
-0.0.0.0 mywhiteboards.blogsale.net
-:: mywhiteboards.blogsale.net
 0.0.0.0 mz7oyb3v32vshcvk.bidobject.li
 :: mz7oyb3v32vshcvk.bidobject.li
 0.0.0.0 mz7oyb3v32vshcvk.getstar.li
@@ -45911,8 +45879,6 @@
 :: onai.16mb.com
 0.0.0.0 onceux.unicornmedia.com
 :: onceux.unicornmedia.com
-0.0.0.0 ondaalmanzor.educarex.es
-:: ondaalmanzor.educarex.es
 0.0.0.0 one-dimensional-whi.000webhostapp.com
 :: one-dimensional-whi.000webhostapp.com
 0.0.0.0 one-drive-file-microsoft-office365-viewdocl0g.000webhostapp.com
@@ -48453,6 +48419,8 @@
 :: peoria33884.cz.cc
 0.0.0.0 pepelacer.computingservices123.com
 :: pepelacer.computingservices123.com
+0.0.0.0 peps20years.afg.vn
+:: peps20years.afg.vn
 0.0.0.0 peregrine.igg.biz
 :: peregrine.igg.biz
 0.0.0.0 perf-events.cloud.unity3d.com
@@ -48719,8 +48687,6 @@
 :: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
-0.0.0.0 phuongdanhvonghe.edu.vn
-:: phuongdanhvonghe.edu.vn
 0.0.0.0 phuttha9.beget.tech
 :: phuttha9.beget.tech
 0.0.0.0 pi-chin-cha.webcindario.com
@@ -50149,8 +50115,6 @@
 :: produla.czatgg.pl
 0.0.0.0 prodxnews1blob.blob.core.windows.net
 :: prodxnews1blob.blob.core.windows.net
-0.0.0.0 profes2015.inf.unibz.it
-:: profes2015.inf.unibz.it
 0.0.0.0 profile.bharatmatrimony.com
 :: profile.bharatmatrimony.com
 0.0.0.0 profile.citrix.com
@@ -51551,8 +51515,6 @@
 :: rads.msn.com
 0.0.0.0 rads.stackoverflow.com
 :: rads.stackoverflow.com
-0.0.0.0 radwa.0mr.net
-:: radwa.0mr.net
 0.0.0.0 rafaga7v.beget.tech
 :: rafaga7v.beget.tech
 0.0.0.0 rainb00-scama.revupnet.com
@@ -54137,8 +54099,6 @@
 :: sbnc.hak.su
 0.0.0.0 sbpb1.qulishi.com
 :: sbpb1.qulishi.com
-0.0.0.0 sbs-careers.viewsite.io
-:: sbs-careers.viewsite.io
 0.0.0.0 sbs.ipeary.com
 :: sbs.ipeary.com
 0.0.0.0 sbups6.moro.pershoreprivatehire.co.uk
@@ -56893,8 +56853,6 @@
 :: somoreq-track-west-1951866777.us-west-1.elb.amazonaws.com
 0.0.0.0 somt.honda.com
 :: somt.honda.com
-0.0.0.0 sonargaonhs.edu.bd
-:: sonargaonhs.edu.bd
 0.0.0.0 sonatns.sonatrach.dz
 :: sonatns.sonatrach.dz
 0.0.0.0 sondr5344ygfweyjbfkw4fhsefv.heliofetch.at
@@ -57463,8 +57421,6 @@
 :: stadig.ifeng.com
 0.0.0.0 stadig0.ifeng.com
 :: stadig0.ifeng.com
-0.0.0.0 stafflogin.gcmethiopia.org
-:: stafflogin.gcmethiopia.org
 0.0.0.0 staffsolut.nichost.ru
 :: staffsolut.nichost.ru
 0.0.0.0 staffwrights.5gbfree.com
@@ -64493,6 +64449,8 @@
 :: usp1.baidu.com
 0.0.0.0 usr.dropkickmedia.com
 :: usr.dropkickmedia.com
+0.0.0.0 uss.ac.th
+:: uss.ac.th
 0.0.0.0 ustaw--tlo-fb.blogspot.com
 :: ustaw--tlo-fb.blogspot.com
 0.0.0.0 usuf.candukang.cn
@@ -64757,8 +64715,6 @@
 :: valium.polybuild.ru
 0.0.0.0 valiumvalium.3xforum.ro
 :: valiumvalium.3xforum.ro
-0.0.0.0 vallabh.zecast.com
-:: vallabh.zecast.com
 0.0.0.0 valleculate-subtask.000webhostapp.com
 :: valleculate-subtask.000webhostapp.com
 0.0.0.0 valo.atm.youku.com
@@ -66807,8 +66763,6 @@
 :: whn.star-media.cn
 0.0.0.0 who.knows.com
 :: who.knows.com
-0.0.0.0 wholesale.promirrors.com
-:: wholesale.promirrors.com
 0.0.0.0 whoson.smcorp.com
 :: whoson.smcorp.com
 0.0.0.0 whsca.org.au
@@ -67289,8 +67243,6 @@
 :: wpcdn1.herokuapp.com
 0.0.0.0 wpconte.heliohost.org
 :: wpconte.heliohost.org
-0.0.0.0 wpdemo.sleeplesshacker.com
-:: wpdemo.sleeplesshacker.com
 0.0.0.0 wpdemo.wctravel.com.au
 :: wpdemo.wctravel.com.au
 0.0.0.0 wpk.edu.hk
@@ -70477,6 +70429,8 @@
 :: www.loansbadcredit.net.au
 0.0.0.0 www.locatorprotocol.com
 :: www.locatorprotocol.com
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -74037,8 +73991,6 @@
 :: ym.analytics.yahoo.com
 0.0.0.0 ymail-activate1.bugs3.com
 :: ymail-activate1.bugs3.com
-0.0.0.0 ymca.monkeynbiz.com
-:: ymca.monkeynbiz.com
 0.0.0.0 ymph.y8u975.cn
 :: ymph.y8u975.cn
 0.0.0.0 yn.001fzc.com
