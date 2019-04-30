@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Apr 29 05:27:58 CEST 2019
+# Last update: Tue Apr 30 05:36:00 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37272
+# Number of unique hostnames: 37291
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -909,6 +909,8 @@
 :: 41907.gwtoys.cn
 0.0.0.0 4225.zhuolingxiu.com
 :: 4225.zhuolingxiu.com
+0.0.0.0 43242.zh1144.com
+:: 43242.zh1144.com
 0.0.0.0 433348--gast-angabe-account.vorkehrung-sicherheitssystem.ml
 :: 433348--gast-angabe-account.vorkehrung-sicherheitssystem.ml
 0.0.0.0 434bom.wm.warmglow.org
@@ -5585,6 +5587,8 @@
 :: adengine.rt.ru
 0.0.0.0 adengine.theglobe.net
 :: adengine.theglobe.net
+0.0.0.0 adeq.hiidc.com.cn
+:: adeq.hiidc.com.cn
 0.0.0.0 adevents.msn.com
 :: adevents.msn.com
 0.0.0.0 adeventtracker.spotify.com
@@ -14393,8 +14397,6 @@
 :: analytics.query.yahoo.com
 0.0.0.0 analytics.radiatemedia.com
 :: analytics.radiatemedia.com
-0.0.0.0 analytics.rayjump.com
-:: analytics.rayjump.com
 0.0.0.0 analytics.rechtslupe.org
 :: analytics.rechtslupe.org
 0.0.0.0 analytics.recruitics.com
@@ -15731,6 +15733,8 @@
 :: apu0640.audientia.net
 0.0.0.0 apx.motads.com
 :: apx.motads.com
+0.0.0.0 aq1r.qilekacha.club
+:: aq1r.qilekacha.club
 0.0.0.0 aqcyua.est.northerndishedends.com
 :: aqcyua.est.northerndishedends.com
 0.0.0.0 aqua.dmm.co.jp
@@ -27017,8 +27021,6 @@
 :: details.information.center.security.interac.akunnet.com
 0.0.0.0 detect.ergebnis-dienst.de
 :: detect.ergebnis-dienst.de
-0.0.0.0 detect.rayjump.com
-:: detect.rayjump.com
 0.0.0.0 detectinfologs010.000webhostapp.com
 :: detectinfologs010.000webhostapp.com
 0.0.0.0 detnsuoxy81x.cloudfront.net
@@ -28633,6 +28635,8 @@
 :: e.1919388.net
 0.0.0.0 e.51xmgys.com
 :: e.51xmgys.com
+0.0.0.0 e.53trya.cn
+:: e.53trya.cn
 0.0.0.0 e.60sk.ru
 :: e.60sk.ru
 0.0.0.0 e.7clink.com
@@ -28707,6 +28711,8 @@
 :: e.iygqhe.cn
 0.0.0.0 e.izaos.com
 :: e.izaos.com
+0.0.0.0 e.jganv.com
+:: e.jganv.com
 0.0.0.0 e.jiaas.com
 :: e.jiaas.com
 0.0.0.0 e.jltdbyq.com
@@ -28729,6 +28735,8 @@
 :: e.mrsasharingspace.com
 0.0.0.0 e.mrtuo.com
 :: e.mrtuo.com
+0.0.0.0 e.mw31pe.cn
+:: e.mw31pe.cn
 0.0.0.0 e.nchet.com
 :: e.nchet.com
 0.0.0.0 e.nejup.com
@@ -28753,10 +28761,14 @@
 :: e.qiaoyuwang.com
 0.0.0.0 e.qiyunmuye.com
 :: e.qiyunmuye.com
+0.0.0.0 e.qjah62.com
+:: e.qjah62.com
 0.0.0.0 e.qq.com
 :: e.qq.com
 0.0.0.0 e.redbox.com
 :: e.redbox.com
+0.0.0.0 e.rgjrq.cn
+:: e.rgjrq.cn
 0.0.0.0 e.ricpt.com
 :: e.ricpt.com
 0.0.0.0 e.sbaoe.com
@@ -28817,6 +28829,8 @@
 :: e.yingchengtou.com
 0.0.0.0 e.ysdangan.com
 :: e.ysdangan.com
+0.0.0.0 e.yu3p7m.cn
+:: e.yu3p7m.cn
 0.0.0.0 e.yycqc.com
 :: e.yycqc.com
 0.0.0.0 e.zvfuka.cn
@@ -35589,6 +35603,8 @@
 :: img.mybet.com
 0.0.0.0 img.nameintel.com
 :: img.nameintel.com
+0.0.0.0 img.nktcw.cn
+:: img.nktcw.cn
 0.0.0.0 img.oraohui.cn
 :: img.oraohui.cn
 0.0.0.0 img.parked.ru
@@ -36893,6 +36909,8 @@
 :: jc.lgtianma.cn
 0.0.0.0 jc.revolvermaps.com
 :: jc.revolvermaps.com
+0.0.0.0 jc.szjianxin.net
+:: jc.szjianxin.net
 0.0.0.0 jc1.dayfund.cn
 :: jc1.dayfund.cn
 0.0.0.0 jchen5072.000webhostapp.com
@@ -39863,6 +39881,8 @@
 :: m-vk.serulom.tk
 0.0.0.0 m-vk.urmas.tk
 :: m-vk.urmas.tk
+0.0.0.0 m.0cec5.com
+:: m.0cec5.com
 0.0.0.0 m.107279.com
 :: m.107279.com
 0.0.0.0 m.168ey.com
@@ -39879,6 +39899,8 @@
 :: m.495495.com
 0.0.0.0 m.51xmgys.com
 :: m.51xmgys.com
+0.0.0.0 m.53trya.cn
+:: m.53trya.cn
 0.0.0.0 m.551144.com
 :: m.551144.com
 0.0.0.0 m.640640.com
@@ -39889,6 +39911,8 @@
 :: m.7180443.com
 0.0.0.0 m.77vcd.com
 :: m.77vcd.com
+0.0.0.0 m.7nej2.com
+:: m.7nej2.com
 0.0.0.0 m.937920.com
 :: m.937920.com
 0.0.0.0 m.aangc.com
@@ -39939,6 +39963,8 @@
 :: m.awesometracker.com
 0.0.0.0 m.axzlsc.com
 :: m.axzlsc.com
+0.0.0.0 m.b93dpn.com
+:: m.b93dpn.com
 0.0.0.0 m.baidu.com.zhiduo.org
 :: m.baidu.com.zhiduo.org
 0.0.0.0 m.bailingjiankang.com
@@ -39973,6 +39999,8 @@
 :: m.cfanm.com
 0.0.0.0 m.chenhuia.com
 :: m.chenhuia.com
+0.0.0.0 m.chqdz9.com
+:: m.chqdz9.com
 0.0.0.0 m.cioysg.com
 :: m.cioysg.com
 0.0.0.0 m.ckaim.com
@@ -40009,6 +40037,8 @@
 :: m.du1du.org
 0.0.0.0 m.duias.com
 :: m.duias.com
+0.0.0.0 m.e2n8vc.cn
+:: m.e2n8vc.cn
 0.0.0.0 m.easypatent.net
 :: m.easypatent.net
 0.0.0.0 m.ecenf.com
@@ -40145,6 +40175,8 @@
 :: m.izaos.com
 0.0.0.0 m.jc9388.com
 :: m.jc9388.com
+0.0.0.0 m.jganv.com
+:: m.jganv.com
 0.0.0.0 m.jhcgood.com
 :: m.jhcgood.com
 0.0.0.0 m.jkuok.com
@@ -40189,6 +40221,8 @@
 :: m.maopuzw.com
 0.0.0.0 m.matdm.com
 :: m.matdm.com
+0.0.0.0 m.mffcf.cn
+:: m.mffcf.cn
 0.0.0.0 m.miaoxinqipei.com
 :: m.miaoxinqipei.com
 0.0.0.0 m.mimzw.com
@@ -40209,6 +40243,8 @@
 :: m.mtuoa.com
 0.0.0.0 m.mushizhubao.com
 :: m.mushizhubao.com
+0.0.0.0 m.mw31pe.cn
+:: m.mw31pe.cn
 0.0.0.0 m.mxguan.com
 :: m.mxguan.com
 0.0.0.0 m.nchet.com
@@ -40257,10 +40293,14 @@
 :: m.qhout.com
 0.0.0.0 m.qianka.com
 :: m.qianka.com
+0.0.0.0 m.qjah62.com
+:: m.qjah62.com
 0.0.0.0 m.qulishi.com
 :: m.qulishi.com
 0.0.0.0 m.qusub.com
 :: m.qusub.com
+0.0.0.0 m.rgjrq.cn
+:: m.rgjrq.cn
 0.0.0.0 m.rhcapass.com
 :: m.rhcapass.com
 0.0.0.0 m.ricpt.com
@@ -43601,6 +43641,8 @@
 :: mz7oyb3v32vshcvk.toysworlds.at
 0.0.0.0 n.3g.163.com
 :: n.3g.163.com
+0.0.0.0 n.88android.com
+:: n.88android.com
 0.0.0.0 n.a.mosenni.com
 :: n.a.mosenni.com
 0.0.0.0 n.ad-back.net
@@ -43849,8 +43891,6 @@
 :: nest.youwatch.org
 0.0.0.0 net-protection.000webhostapp.com
 :: net-protection.000webhostapp.com
-0.0.0.0 net.rayjump.com
-:: net.rayjump.com
 0.0.0.0 netads.hotwired.com
 :: netads.hotwired.com
 0.0.0.0 netads.sohu.com
@@ -48603,6 +48643,8 @@
 :: photo.jiaxiyuan.cn
 0.0.0.0 photo.lyghjzs.cn
 :: photo.lyghjzs.cn
+0.0.0.0 photo.maimi88.cn
+:: photo.maimi88.cn
 0.0.0.0 photo.majiang188.cn
 :: photo.majiang188.cn
 0.0.0.0 photo.ofsja.cn
@@ -48687,6 +48729,8 @@
 :: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
+0.0.0.0 phuongdanhvonghe.edu.vn
+:: phuongdanhvonghe.edu.vn
 0.0.0.0 phuttha9.beget.tech
 :: phuttha9.beget.tech
 0.0.0.0 pi-chin-cha.webcindario.com
@@ -53257,6 +53301,8 @@
 :: s.x.cn.xtgreat.com
 0.0.0.0 s.xcfe.cn
 :: s.xcfe.cn
+0.0.0.0 s.xodyw.com
+:: s.xodyw.com
 0.0.0.0 s.xpanama.net
 :: s.xpanama.net
 0.0.0.0 s.xvideos.com
@@ -55793,8 +55839,6 @@
 :: setting-succest.000webhostapp.com
 0.0.0.0 setting.adzcore.com
 :: setting.adzcore.com
-0.0.0.0 setting.rayjump.com
-:: setting.rayjump.com
 0.0.0.0 setting.snswin.qq.com
 :: setting.snswin.qq.com
 0.0.0.0 setting505.hol.es
@@ -60725,8 +60769,6 @@
 :: tkn.pornerbros.com
 0.0.0.0 tkn.porntube.com
 :: tkn.porntube.com
-0.0.0.0 tknet.rayjump.com
-:: tknet.rayjump.com
 0.0.0.0 tkportal.aotter.net
 :: tkportal.aotter.net
 0.0.0.0 tkrecorder.aotter.net
@@ -68423,8 +68465,6 @@
 :: www.bdg-analytics.appspot.com
 0.0.0.0 www.bfqnup.party
 :: www.bfqnup.party
-0.0.0.0 www.bharatinfoline.com
-:: www.bharatinfoline.com
 0.0.0.0 www.biddingx.com
 :: www.biddingx.com
 0.0.0.0 www.bidwee.com
@@ -69593,8 +69633,6 @@
 :: www.greatwinner.com
 0.0.0.0 www.greendak.com
 :: www.greendak.com
-0.0.0.0 www.greenfieldadvisorsltd.com
-:: www.greenfieldadvisorsltd.com
 0.0.0.0 www.greenindex.dynamic-dns.net
 :: www.greenindex.dynamic-dns.net
 0.0.0.0 www.greensustainabilitycoach.com
