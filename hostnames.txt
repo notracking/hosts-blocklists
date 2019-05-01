@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Apr 30 05:36:00 CEST 2019
+# Last update: Wed May 1 05:37:13 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37291
+# Number of unique hostnames: 37286
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -21619,8 +21619,6 @@
 :: centro.pixel.ad
 0.0.0.0 centrum-bezpiecznej-pozyczki.waw.pl
 :: centrum-bezpiecznej-pozyczki.waw.pl
-0.0.0.0 centrum-pogotowie-komputerowe.warszawa.pl
-:: centrum-pogotowie-komputerowe.warszawa.pl
 0.0.0.0 centurylaw.vyudu.tech
 :: centurylaw.vyudu.tech
 0.0.0.0 ceo.efa-light.com
@@ -36479,6 +36477,8 @@
 :: ip.hivps.xyz
 0.0.0.0 ip2.pxene.com
 :: ip2.pxene.com
+0.0.0.0 ipapi.tmbi.com
+:: ipapi.tmbi.com
 0.0.0.0 ipc.chtah.com
 :: ipc.chtah.com
 0.0.0.0 ipengtai.huanqiu.com
@@ -38237,8 +38237,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -48729,8 +48727,6 @@
 :: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
-0.0.0.0 phuongdanhvonghe.edu.vn
-:: phuongdanhvonghe.edu.vn
 0.0.0.0 phuttha9.beget.tech
 :: phuttha9.beget.tech
 0.0.0.0 pi-chin-cha.webcindario.com
@@ -64185,12 +64181,12 @@
 :: url.jiemengle.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
-0.0.0.0 urladyms.newlogiq.com
-:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
 :: urlserverappstoreca.selfip.com
+0.0.0.0 us-central1-narvar-data-lake.cloudfunctions.net
+:: us-central1-narvar-data-lake.cloudfunctions.net
 0.0.0.0 us-east-1.dc.ads.linkedin.com
 :: us-east-1.dc.ads.linkedin.com
 0.0.0.0 us-east-1.profile-api.ads.linkedin.com
@@ -68465,6 +68461,8 @@
 :: www.bdg-analytics.appspot.com
 0.0.0.0 www.bfqnup.party
 :: www.bfqnup.party
+0.0.0.0 www.bharatinfoline.com
+:: www.bharatinfoline.com
 0.0.0.0 www.biddingx.com
 :: www.biddingx.com
 0.0.0.0 www.bidwee.com
@@ -69149,10 +69147,6 @@
 :: www.ebm.e.redbox.com
 0.0.0.0 www.eboundservices.com
 :: www.eboundservices.com
-0.0.0.0 www.eccobutyoutlet.pl
-:: www.eccobutyoutlet.pl
-0.0.0.0 www.eccocool.pl
-:: www.eccocool.pl
 0.0.0.0 www.eclean.or.kr
 :: www.eclean.or.kr
 0.0.0.0 www.ecoflow.pl
@@ -69381,8 +69375,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
@@ -69633,6 +69625,8 @@
 :: www.greatwinner.com
 0.0.0.0 www.greendak.com
 :: www.greendak.com
+0.0.0.0 www.greenfieldadvisorsltd.com
+:: www.greenfieldadvisorsltd.com
 0.0.0.0 www.greenindex.dynamic-dns.net
 :: www.greenindex.dynamic-dns.net
 0.0.0.0 www.greensustainabilitycoach.com
@@ -69821,8 +69815,6 @@
 :: www.hotcry.com
 0.0.0.0 www.hotdogsandads.com
 :: www.hotdogsandads.com
-0.0.0.0 www.hotelnatali.ru
-:: www.hotelnatali.ru
 0.0.0.0 www.hotranks.com
 :: www.hotranks.com
 0.0.0.0 www.html-email-marketing.com
@@ -72395,6 +72387,8 @@
 :: www.uriyuri.com
 0.0.0.0 www.urmediazone.com
 :: www.urmediazone.com
+0.0.0.0 www.us-central1-narvar-data-lake.cloudfunctions.net
+:: www.us-central1-narvar-data-lake.cloudfunctions.net
 0.0.0.0 www.us.cdn.survey.medallia.com
 :: www.us.cdn.survey.medallia.com
 0.0.0.0 www.usaenterprise.com
@@ -74245,6 +74239,8 @@
 :: zahir2.aeiou.pt
 0.0.0.0 zahirx.aeiou.pt
 :: zahirx.aeiou.pt
+0.0.0.0 zales.narvar.com
+:: zales.narvar.com
 0.0.0.0 zam.horizonbeverage.org
 :: zam.horizonbeverage.org
 0.0.0.0 zamhuxnh.cz.cc
@@ -74337,10 +74333,6 @@
 :: zen.ancestrybloodhound.biz
 0.0.0.0 zen.nbci.com
 :: zen.nbci.com
-0.0.0.0 zerocash.msk.ru
-:: zerocash.msk.ru
-0.0.0.0 zeromskiego-77.naszebanki.pl
-:: zeromskiego-77.naszebanki.pl
 0.0.0.0 zetes.vdsinside.com
 :: zetes.vdsinside.com
 0.0.0.0 zeulo.anime-extremo.com
@@ -74441,8 +74433,6 @@
 :: zmienkolory.blogspot.com
 0.0.0.0 zminer.zaloapp.com
 :: zminer.zaloapp.com
-0.0.0.0 zmoda.hostreo.com
-:: zmoda.hostreo.com
 0.0.0.0 znaptag-us.s3.amazonaws.com
 :: znaptag-us.s3.amazonaws.com
 0.0.0.0 znojmo.skauting.cz
