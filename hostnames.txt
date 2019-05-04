@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri May 3 06:36:16 CEST 2019
+# Last update: Sat May 4 05:40:24 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37299
+# Number of unique hostnames: 37339
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -6049,6 +6049,8 @@
 :: adn.inven.co.kr
 0.0.0.0 adn.kinkydollars.com
 :: adn.kinkydollars.com
+0.0.0.0 adn.lrb.co.uk
+:: adn.lrb.co.uk
 0.0.0.0 adn.meinsol.de
 :: adn.meinsol.de
 0.0.0.0 adn.nsmartad.com
@@ -16951,6 +16953,8 @@
 :: bancosantanderspain-servicioenlinea24h.b-teacher.co.il
 0.0.0.0 bandai.hs.llnwd.net
 :: bandai.hs.llnwd.net
+0.0.0.0 bandit.godsshopp.com
+:: bandit.godsshopp.com
 0.0.0.0 bandoc.d-group.co.il
 :: bandoc.d-group.co.il
 0.0.0.0 baner.energy-torrent.com
@@ -18893,6 +18897,8 @@
 :: bkappwj9.beget.tech
 0.0.0.0 bkd.penajamkab.go.id
 :: bkd.penajamkab.go.id
+0.0.0.0 bkdd.enrekangkab.go.id
+:: bkdd.enrekangkab.go.id
 0.0.0.0 bkmcgi.play.cp81.ott.cibntv.net
 :: bkmcgi.play.cp81.ott.cibntv.net
 0.0.0.0 bksdkconfig.play.cp81.ott.cibntv.net
@@ -18949,18 +18955,28 @@
 :: blocks.ginotrack.com
 0.0.0.0 blog.3kingsclothing.com
 :: blog.3kingsclothing.com
+0.0.0.0 blog.ahlanmagazine.com
+:: blog.ahlanmagazine.com
 0.0.0.0 blog.almeidaboer.adv.br
 :: blog.almeidaboer.adv.br
+0.0.0.0 blog.amisz.com
+:: blog.amisz.com
 0.0.0.0 blog.atxin.cc
 :: blog.atxin.cc
 0.0.0.0 blog.autourdeminuit.com
 :: blog.autourdeminuit.com
 0.0.0.0 blog.berniagabagus.com
 :: blog.berniagabagus.com
+0.0.0.0 blog.bestcs.in
+:: blog.bestcs.in
+0.0.0.0 blog.bookingham.ro
+:: blog.bookingham.ro
 0.0.0.0 blog.broadcast-technology.com
 :: blog.broadcast-technology.com
 0.0.0.0 blog.byethost.com
 :: blog.byethost.com
+0.0.0.0 blog.connect2school.com
+:: blog.connect2school.com
 0.0.0.0 blog.guiket.com
 :: blog.guiket.com
 0.0.0.0 blog.infoaxe.com
@@ -18979,6 +18995,10 @@
 :: blog.kovida.in
 0.0.0.0 blog.mediumpromo.top
 :: blog.mediumpromo.top
+0.0.0.0 blog.memareno.ir
+:: blog.memareno.ir
+0.0.0.0 blog.moonlightortho.com
+:: blog.moonlightortho.com
 0.0.0.0 blog.ndstudio.xyz
 :: blog.ndstudio.xyz
 0.0.0.0 blog.onadvertise.com
@@ -18991,14 +19011,24 @@
 :: blog.raw-recruits.com
 0.0.0.0 blog.replacemycontacts.com
 :: blog.replacemycontacts.com
+0.0.0.0 blog.sabkishop.in
+:: blog.sabkishop.in
 0.0.0.0 blog.siisa.com.ar
 :: blog.siisa.com.ar
 0.0.0.0 blog.starweb.com.br
 :: blog.starweb.com.br
+0.0.0.0 blog.steadfast-inc.com
+:: blog.steadfast-inc.com
 0.0.0.0 blog.stopartrose.be
 :: blog.stopartrose.be
+0.0.0.0 blog.taxmann.com
+:: blog.taxmann.com
+0.0.0.0 blog.thaicarecloud.org
+:: blog.thaicarecloud.org
 0.0.0.0 blog.tlacademy.org
 :: blog.tlacademy.org
+0.0.0.0 blog.toothlab.org
+:: blog.toothlab.org
 0.0.0.0 blog.trianglewebhosting.com
 :: blog.trianglewebhosting.com
 0.0.0.0 blog.usafibremarin.ml
@@ -20395,6 +20425,8 @@
 :: camclqlbqtzftmplndts.ahdaaf.org
 0.0.0.0 camden.logs.roku.com
 :: camden.logs.roku.com
+0.0.0.0 cameron.orrkids.net
+:: cameron.orrkids.net
 0.0.0.0 cameron.pieceapizza.ca
 :: cameron.pieceapizza.ca
 0.0.0.0 camerondiaznude.1stok.com
@@ -23357,6 +23389,8 @@
 :: comecyt.miranda.gob.ve
 0.0.0.0 comet.ibsrv.net
 :: comet.ibsrv.net
+0.0.0.0 comfortless-showers.000webhostapp.com
+:: comfortless-showers.000webhostapp.com
 0.0.0.0 comm.app.autohome.com.cn
 :: comm.app.autohome.com.cn
 0.0.0.0 comm.ovh.fr
@@ -23389,6 +23423,8 @@
 :: comms-telemetry-service.us-east-1.amazonaws.com
 0.0.0.0 community.allhiphop.com
 :: community.allhiphop.com
+0.0.0.0 community.diygeeks.org
+:: community.diygeeks.org
 0.0.0.0 compactiongames.gameaholic.com
 :: compactiongames.gameaholic.com
 0.0.0.0 company.1ps.ru
@@ -26429,6 +26465,8 @@
 :: data.emimino.cz
 0.0.0.0 data.gametree.tw
 :: data.gametree.tw
+0.0.0.0 data.iain-manado.ac.id
+:: data.iain-manado.ac.id
 0.0.0.0 data.imakenews.com
 :: data.imakenews.com
 0.0.0.0 data.initialcontroledge.info
@@ -28047,6 +28085,8 @@
 :: dp3.qq.com
 0.0.0.0 dp51h10v6ggpa.cloudfront.net
 :: dp51h10v6ggpa.cloudfront.net
+0.0.0.0 dp5a.surabaya.go.id
+:: dp5a.surabaya.go.id
 0.0.0.0 dpb3g4kqr8xz.cloudfront.net
 :: dpb3g4kqr8xz.cloudfront.net
 0.0.0.0 dpboxspace.com-ref48932409389434.teckolobsters.co.uk
@@ -28737,8 +28777,6 @@
 :: e.kewro.com
 0.0.0.0 e.kunpp.com
 :: e.kunpp.com
-0.0.0.0 e.kwp79i.cn
-:: e.kwp79i.cn
 0.0.0.0 e.lancedu.com
 :: e.lancedu.com
 0.0.0.0 e.miaoxinqipei.com
@@ -31935,6 +31973,8 @@
 :: gall.dcinside.com
 0.0.0.0 galleries1.justcreampie.com
 :: galleries1.justcreampie.com
+0.0.0.0 galtest2.lansystems.it
+:: galtest2.lansystems.it
 0.0.0.0 gambero3.cs.tin.it
 :: gambero3.cs.tin.it
 0.0.0.0 game-res.meizu.com
@@ -32011,6 +32051,8 @@
 :: gas.data.pplive.com
 0.0.0.0 gasasthe.freehostia.com
 :: gasasthe.freehostia.com
+0.0.0.0 gasdetector.dlvcorp.com
+:: gasdetector.dlvcorp.com
 0.0.0.0 gashot.yurivideos.com
 :: gashot.yurivideos.com
 0.0.0.0 gasurvey.gemius.com
@@ -32587,6 +32629,8 @@
 :: gi.xi.gxabj.com
 0.0.0.0 gia.jd.com
 :: gia.jd.com
+0.0.0.0 giambeo2.ballybeauty.vn
+:: giambeo2.ballybeauty.vn
 0.0.0.0 giants.yourzip.co
 :: giants.yourzip.co
 0.0.0.0 giantsavings-a.akamaihd.net
@@ -34279,6 +34323,8 @@
 :: hndnserror6.wo.com.cn
 0.0.0.0 hndnserror7.wo.com.cn
 :: hndnserror7.wo.com.cn
+0.0.0.0 hniold.mageexperts.com
+:: hniold.mageexperts.com
 0.0.0.0 ho-openx.ha.rs
 :: ho-openx.ha.rs
 0.0.0.0 hoawy.frost-electric-supply.com
@@ -36277,6 +36323,8 @@
 :: inside.inlandempirebellydancers.com
 0.0.0.0 insideintercom.wpengine.com
 :: insideintercom.wpengine.com
+0.0.0.0 insideoutservicessouthflorida.000webhostapp.com
+:: insideoutservicessouthflorida.000webhostapp.com
 0.0.0.0 insight-760077375.us-east-1.elb.amazonaws.com
 :: insight-760077375.us-east-1.elb.amazonaws.com
 0.0.0.0 insight.mintel.com
@@ -37175,6 +37223,8 @@
 :: jochuwz50k.zl9ep5zzxe.madpendesign.com.au
 0.0.0.0 joejdbjrmrkklfnmf.usr.me
 :: joejdbjrmrkklfnmf.usr.me
+0.0.0.0 joelscoolstuff.000webhostapp.com
+:: joelscoolstuff.000webhostapp.com
 0.0.0.0 jogjadebatingforum.or.id
 :: jogjadebatingforum.or.id
 0.0.0.0 johngalvin.debutinfotech.com
@@ -38261,8 +38311,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -38981,6 +39029,8 @@
 :: listen.sitey.me
 0.0.0.0 listing.yahoo.co.jp
 :: listing.yahoo.co.jp
+0.0.0.0 listings.virtuance.com
+:: listings.virtuance.com
 0.0.0.0 listlog.baofeng.net
 :: listlog.baofeng.net
 0.0.0.0 lite.schuettfarmstrucking.com
@@ -43641,8 +43691,6 @@
 :: mz7oyb3v32vshcvk.toysworlds.at
 0.0.0.0 n.3g.163.com
 :: n.3g.163.com
-0.0.0.0 n.88android.com
-:: n.88android.com
 0.0.0.0 n.a.mosenni.com
 :: n.a.mosenni.com
 0.0.0.0 n.ad-back.net
@@ -44329,6 +44377,8 @@
 :: nir.regmedia.co.uk
 0.0.0.0 nisd.org.np
 :: nisd.org.np
+0.0.0.0 nisi-web.threeon.io
+:: nisi-web.threeon.io
 0.0.0.0 nite.ancestrybloodhound.net
 :: nite.ancestrybloodhound.net
 0.0.0.0 niuer-req.xy.huijitrans.com
@@ -46355,6 +46405,8 @@
 :: opiopiopi.000webhostapp.com
 0.0.0.0 oppgradere6.sitey.me
 :: oppgradere6.sitey.me
+0.0.0.0 opportunity.aiesec.hk
+:: opportunity.aiesec.hk
 0.0.0.0 oprd.gov.mk
 :: oprd.gov.mk
 0.0.0.0 opserver01.iti.net.pk
@@ -48483,6 +48535,8 @@
 :: peringatanpembelok9.wixsite.com
 0.0.0.0 peritonitic-hairpin.000webhostapp.com
 :: peritonitic-hairpin.000webhostapp.com
+0.0.0.0 perkim.bondowosokab.go.id
+:: perkim.bondowosokab.go.id
 0.0.0.0 perkinss-imac.fgppchg.fgpp.com
 :: perkinss-imac.fgppchg.fgpp.com
 0.0.0.0 perl.villakayenta.com
@@ -48731,6 +48785,8 @@
 :: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
+0.0.0.0 phuongdanhvonghe.edu.vn
+:: phuongdanhvonghe.edu.vn
 0.0.0.0 phuttha9.beget.tech
 :: phuttha9.beget.tech
 0.0.0.0 pi-chin-cha.webcindario.com
@@ -48929,6 +48985,8 @@
 :: pitbull-video.ujm.pl
 0.0.0.0 pitbull.ek1.pl
 :: pitbull.ek1.pl
+0.0.0.0 pitouki.free.fr
+:: pitouki.free.fr
 0.0.0.0 piu.lostfilm.tv
 :: piu.lostfilm.tv
 0.0.0.0 pivecino.webcindario.com
@@ -49683,6 +49741,8 @@
 :: pong.netcaptor.com
 0.0.0.0 pong.prognet.com
 :: pong.prognet.com
+0.0.0.0 pontesgestal.sp.leg.br
+:: pontesgestal.sp.leg.br
 0.0.0.0 pontofrio.ofertasdodia.ml
 :: pontofrio.ofertasdodia.ml
 0.0.0.0 pool.distilled.ie
@@ -49885,6 +49945,8 @@
 :: pp-secured.ssl.ssl-pp-secure.com
 0.0.0.0 pp.free.fr
 :: pp.free.fr
+0.0.0.0 pp.hotel-le-verdon.fr
+:: pp.hotel-le-verdon.fr
 0.0.0.0 pp.nrelate.com
 :: pp.nrelate.com
 0.0.0.0 pp.pplproblems.com
@@ -53973,6 +54035,8 @@
 :: saloongkum.lpru.ac.th
 0.0.0.0 sam-sdelai.blogspot.com
 :: sam-sdelai.blogspot.com
+0.0.0.0 samcloud.spacialdev.com
+:: samcloud.spacialdev.com
 0.0.0.0 samdi.or.kr
 :: samdi.or.kr
 0.0.0.0 same.chinadaily.com.cn
@@ -54443,6 +54507,8 @@
 :: scouts.dio.org
 0.0.0.0 scprtrs.000webhostapp.com
 :: scprtrs.000webhostapp.com
+0.0.0.0 scrawk.tusarranjan.com
+:: scrawk.tusarranjan.com
 0.0.0.0 scream.garudamp3.com
 :: scream.garudamp3.com
 0.0.0.0 screencapturewidget.aebn.net
@@ -57209,6 +57275,8 @@
 :: srilaini1helprecoveryii.000webhostapp.com
 0.0.0.0 srisaranankara.sch.lk
 :: srisaranankara.sch.lk
+0.0.0.0 srishti.saintgits.org
+:: srishti.saintgits.org
 0.0.0.0 srpze.saqibsiddiqui.com
 :: srpze.saqibsiddiqui.com
 0.0.0.0 srutebmduoh.myfw.us
@@ -60407,6 +60475,8 @@
 :: test.ark.letv.com
 0.0.0.0 test.beejapan.org
 :: test.beejapan.org
+0.0.0.0 test.cablemar.es
+:: test.cablemar.es
 0.0.0.0 test.digimarkting.com
 :: test.digimarkting.com
 0.0.0.0 test.dirktuip.nl
@@ -60421,6 +60491,8 @@
 :: test.fireonlineradio.com
 0.0.0.0 test.gaxtoa.com
 :: test.gaxtoa.com
+0.0.0.0 test.hotel-zulawy.com.pl
+:: test.hotel-zulawy.com.pl
 0.0.0.0 test.ishvara-yoga.com
 :: test.ishvara-yoga.com
 0.0.0.0 test.new.api.ad.xiaomi.com
@@ -62995,6 +63067,8 @@
 :: ttts.miyue17.com
 0.0.0.0 ttuk.offers4u.mobi
 :: ttuk.offers4u.mobi
+0.0.0.0 ttytnguhanhson.danang.vn
+:: ttytnguhanhson.danang.vn
 0.0.0.0 tu.baixing.com
 :: tu.baixing.com
 0.0.0.0 tu.biddingx.com
@@ -65547,6 +65621,8 @@
 :: vps.inte.sogou.com
 0.0.0.0 vps.zeptolab.com
 :: vps.zeptolab.com
+0.0.0.0 vps1.globalintvps.net.in
+:: vps1.globalintvps.net.in
 0.0.0.0 vqqxyw.koll.pershoreairporttransfers.co.uk
 :: vqqxyw.koll.pershoreairporttransfers.co.uk
 0.0.0.0 vqrq.adsb4track.com
@@ -66099,6 +66175,8 @@
 :: watson.telemetry.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com.nsatc.net
 :: watson.telemetry.microsoft.com.nsatc.net
+0.0.0.0 wave.ternclinic.co.il
+:: wave.ternclinic.co.il
 0.0.0.0 way.ancestrybloodhound.mobi
 :: way.ancestrybloodhound.mobi
 0.0.0.0 wayne213.000webhostapp.com
@@ -70483,6 +70561,8 @@
 :: www.loansbadcredit.net.au
 0.0.0.0 www.locatorprotocol.com
 :: www.locatorprotocol.com
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
