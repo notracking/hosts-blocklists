@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat May 4 05:40:24 CEST 2019
+# Last update: Sun May 5 05:33:45 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37339
+# Number of unique hostnames: 37340
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -18767,6 +18767,8 @@
 :: bill.agent.v-56.com
 0.0.0.0 bill.ecsuite.com
 :: bill.ecsuite.com
+0.0.0.0 bill.prosis-hors.ru
+:: bill.prosis-hors.ru
 0.0.0.0 bill4939.njealle.co.uk
 :: bill4939.njealle.co.uk
 0.0.0.0 billing.netflix.user.solution.id2.client-redirection.com
@@ -20147,6 +20149,8 @@
 :: c.xbox.com
 0.0.0.0 c.xianguonongchang.org
 :: c.xianguonongchang.org
+0.0.0.0 c.xiaobaipan.com
+:: c.xiaobaipan.com
 0.0.0.0 c.xiaozhuyoupu.com
 :: c.xiaozhuyoupu.com
 0.0.0.0 c.xilongfuwu.com
@@ -24473,6 +24477,8 @@
 :: crimg.sv.publicus.com
 0.0.0.0 crimson.superdomainzone.com
 :: crimson.superdomainzone.com
+0.0.0.0 cristalandia.to.gov.br
+:: cristalandia.to.gov.br
 0.0.0.0 crm-eve.b2b.alibaba-inc.com
 :: crm-eve.b2b.alibaba-inc.com
 0.0.0.0 crm.aaditech.com
@@ -27881,6 +27887,8 @@
 :: donlopsmagazinidetriot.000webhostapp.com
 0.0.0.0 dontblockme.modaco.com
 :: dontblockme.modaco.com
+0.0.0.0 doo6pwib3qngu.cloudfront.net
+:: doo6pwib3qngu.cloudfront.net
 0.0.0.0 door.jessami.com
 :: door.jessami.com
 0.0.0.0 doppler.hulu.com
@@ -29247,6 +29255,8 @@
 :: eland.doublemax.net
 0.0.0.0 elbcradio.tcalr.org
 :: elbcradio.tcalr.org
+0.0.0.0 electricfence.levsantronic.ro
+:: electricfence.levsantronic.ro
 0.0.0.0 electro.demos.su
 :: electro.demos.su
 0.0.0.0 electrohemostasis.makemoneywithmegan.net
@@ -30409,8 +30419,6 @@
 :: fandango.gcrd.co
 0.0.0.0 fandangostore.wgiftcard.com
 :: fandangostore.wgiftcard.com
-0.0.0.0 fandesophiemarceau.free.fr
-:: fandesophiemarceau.free.fr
 0.0.0.0 fangdalaw.gd.cn
 :: fangdalaw.gd.cn
 0.0.0.0 fanpage-center33.verifikasiii-again.tk
@@ -30467,8 +30475,6 @@
 :: fat7e23.toko-ku.org
 0.0.0.0 fatads.toldya.com
 :: fatads.toldya.com
-0.0.0.0 fatghettowhores.blogspot.com
-:: fatghettowhores.blogspot.com
 0.0.0.0 faucethubggrip.linkandzelda.com
 :: faucethubggrip.linkandzelda.com
 0.0.0.0 faulks.net.au
@@ -31041,12 +31047,8 @@
 :: fialka.tomsk.ru
 0.0.0.0 ficcionaliza.angelcities.com
 :: ficcionaliza.angelcities.com
-0.0.0.0 ficken.4iso.de
-:: ficken.4iso.de
 0.0.0.0 fidelity.auth.currentthinkingsolar.com.au
 :: fidelity.auth.currentthinkingsolar.com.au
-0.0.0.0 fidelity.com.secure.onlinebanking.com-accountverification.com.rosepena.com
-:: fidelity.com.secure.onlinebanking.com-accountverification.com.rosepena.com
 0.0.0.0 fidelity.teryhfc.xyz
 :: fidelity.teryhfc.xyz
 0.0.0.0 fidgetspinner.5v.pl
@@ -31119,8 +31121,6 @@
 :: filmy.porno.pl
 0.0.0.0 filosvybfimpsv.ru.gg
 :: filosvybfimpsv.ru.gg
-0.0.0.0 filoumektoub.free.fr
-:: filoumektoub.free.fr
 0.0.0.0 filter.adexchangemedia.xyz
 :: filter.adexchangemedia.xyz
 0.0.0.0 filter.mediacpc.com
@@ -31483,8 +31483,6 @@
 :: freak.chasingyourdream.com
 0.0.0.0 fredrickfrank200.000webhostapp.com
 :: fredrickfrank200.000webhostapp.com
-0.0.0.0 free-anal-sex-pictures.gocunt.com
-:: free-anal-sex-pictures.gocunt.com
 0.0.0.0 free-dating-site.allmanpages.com
 :: free-dating-site.allmanpages.com
 0.0.0.0 free-gay-porno-and-nude-celebrity-porn-stars.gocunt.com
@@ -43777,6 +43775,8 @@
 :: nanostats.nanopress.it
 0.0.0.0 nanotech.tiberius.pl
 :: nanotech.tiberius.pl
+0.0.0.0 napalm51.nut.cc
+:: napalm51.nut.cc
 0.0.0.0 napitrend.blogspot.hu
 :: napitrend.blogspot.hu
 0.0.0.0 napraw-laptopa.waw.pl
@@ -46057,6 +46057,8 @@
 :: online.americanexpress.com.myca.logon.us.action.logonhandler.request.type.logonhandler.robbinstechgroup.com.au
 0.0.0.0 online.aria-web.com
 :: online.aria-web.com
+0.0.0.0 online.bank.com.hostreme.com
+:: online.bank.com.hostreme.com
 0.0.0.0 online.bank0famerican.corn.auth-user.login-token-valid.0000.0.000.0.00.0000.00.0-accent.login-acct.overview.jiyemeradesh.com
 :: online.bank0famerican.corn.auth-user.login-token-valid.0000.0.000.0.00.0000.00.0-accent.login-acct.overview.jiyemeradesh.com
 0.0.0.0 online.bankaustria.at.id981086i.gdn
@@ -60393,6 +60395,8 @@
 :: temai.taobao.com
 0.0.0.0 temp.163.com
 :: temp.163.com
+0.0.0.0 temp.dkqualitylifestyle.co.za
+:: temp.dkqualitylifestyle.co.za
 0.0.0.0 tempered-transforme.000webhostapp.com
 :: tempered-transforme.000webhostapp.com
 0.0.0.0 tempest.services.disqus.com
@@ -68561,8 +68565,6 @@
 :: www.bdg-analytics.appspot.com
 0.0.0.0 www.bfqnup.party
 :: www.bfqnup.party
-0.0.0.0 www.bharatinfoline.com
-:: www.bharatinfoline.com
 0.0.0.0 www.biddingx.com
 :: www.biddingx.com
 0.0.0.0 www.bidwee.com
