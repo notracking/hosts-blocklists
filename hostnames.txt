@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue May 7 05:41:42 CEST 2019
+# Last update: Wed May 8 05:46:49 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37356
+# Number of unique hostnames: 37355
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2759,8 +2759,6 @@
 :: a.thanksearch.com
 0.0.0.0 a.thefreedictionary.com
 :: a.thefreedictionary.com
-0.0.0.0 a.thefreethoughtproject.com
-:: a.thefreethoughtproject.com
 0.0.0.0 a.thn21.com
 :: a.thn21.com
 0.0.0.0 a.tiscali.co.uk
@@ -3235,8 +3233,6 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
-0.0.0.0 abusalewm.exceltoner.com
-:: abusalewm.exceltoner.com
 0.0.0.0 ac.ajur.info
 :: ac.ajur.info
 0.0.0.0 ac.atpanel.com
@@ -13499,6 +13495,8 @@
 :: ak-dynamic-cdn.spot.im
 0.0.0.0 ak-events-collector.spot.im
 :: ak-events-collector.spot.im
+0.0.0.0 ak-mc-siderail.spot.im
+:: ak-mc-siderail.spot.im
 0.0.0.0 ak-publisher-assets.spot.im
 :: ak-publisher-assets.spot.im
 0.0.0.0 ak.imgaft.com
@@ -16463,6 +16461,8 @@
 :: ayamkentaki645.000webhostapp.com
 0.0.0.0 ayareview-document.pdf-iso.webapps-security.review-2jk39w92.ab5nights.com
 :: ayareview-document.pdf-iso.webapps-security.review-2jk39w92.ab5nights.com
+0.0.0.0 ayashige.sakura.ne.jp
+:: ayashige.sakura.ne.jp
 0.0.0.0 ayboll.sgsrv.com
 :: ayboll.sgsrv.com
 0.0.0.0 aye2.burosa2018.com
@@ -18965,6 +18965,8 @@
 :: blog.berniagabagus.com
 0.0.0.0 blog.bijin-co.jp
 :: blog.bijin-co.jp
+0.0.0.0 blog.booketea.com
+:: blog.booketea.com
 0.0.0.0 blog.bookingham.ro
 :: blog.bookingham.ro
 0.0.0.0 blog.broadcast-technology.com
@@ -21229,8 +21231,6 @@
 :: cdn.viralmint.com
 0.0.0.0 cdn.visualbee.net
 :: cdn.visualbee.net
-0.0.0.0 cdn.voscast.com
-:: cdn.voscast.com
 0.0.0.0 cdn.westbaud.com
 :: cdn.westbaud.com
 0.0.0.0 cdn.wg.uproxx.com
@@ -28897,8 +28897,6 @@
 :: e.yu3p7m.cn
 0.0.0.0 e.yycqc.com
 :: e.yycqc.com
-0.0.0.0 e.zhaibei112.top
-:: e.zhaibei112.top
 0.0.0.0 e.zvfuka.cn
 :: e.zvfuka.cn
 0.0.0.0 e2.molbuk.ua
@@ -32311,6 +32309,8 @@
 :: geni.anas.it
 0.0.0.0 genre.nut.cc
 :: genre.nut.cc
+0.0.0.0 gently.org.uk
+:: gently.org.uk
 0.0.0.0 geo.cliphunter.com
 :: geo.cliphunter.com
 0.0.0.0 geo.deepmetrix.com
@@ -33785,6 +33785,8 @@
 :: highspeed.duckcrypt.info
 0.0.0.0 hilfulschool.edu.bd
 :: hilfulschool.edu.bd
+0.0.0.0 himappa.feb.unpad.ac.id
+:: himappa.feb.unpad.ac.id
 0.0.0.0 himwcw.gigy.gq
 :: himwcw.gigy.gq
 0.0.0.0 hinsdaleumc.dreamhosters.com
@@ -34467,8 +34469,6 @@
 :: host238.hostmonster.com
 0.0.0.0 hostcpanelverfyonline.16mb.com
 :: hostcpanelverfyonline.16mb.com
-0.0.0.0 hosted.adback.co
-:: hosted.adback.co
 0.0.0.0 hosted.stats.com
 :: hosted.stats.com
 0.0.0.0 hosted.stats.com.edgesuite.net
@@ -37227,6 +37227,8 @@
 :: jobs.nuwerk.monsterboard.nl
 0.0.0.0 jochuwz50k.zl9ep5zzxe.madpendesign.com.au
 :: jochuwz50k.zl9ep5zzxe.madpendesign.com.au
+0.0.0.0 joeing2.duckdns.org
+:: joeing2.duckdns.org
 0.0.0.0 joejdbjrmrkklfnmf.usr.me
 :: joejdbjrmrkklfnmf.usr.me
 0.0.0.0 jogjadebatingforum.or.id
@@ -38031,6 +38033,8 @@
 :: kitchen-island.mensk.us
 0.0.0.0 kitebersama.web.id
 :: kitebersama.web.id
+0.0.0.0 kitkatmatcha.synology.me
+:: kitkatmatcha.synology.me
 0.0.0.0 kittengarden.gb.net
 :: kittengarden.gb.net
 0.0.0.0 kiwibank1.com.space2upreview.net
@@ -40559,8 +40563,6 @@
 :: m.zbied.com
 0.0.0.0 m.zeiaa.com
 :: m.zeiaa.com
-0.0.0.0 m.zhaibei112.top
-:: m.zhaibei112.top
 0.0.0.0 m.zvfuka.cn
 :: m.zvfuka.cn
 0.0.0.0 m0-s.san.ru
@@ -45005,6 +45007,8 @@
 :: o20.ck.n.convertkit.com
 0.0.0.0 o20j8uo62vc2wmf.lazega.ru
 :: o20j8uo62vc2wmf.lazega.ru
+0.0.0.0 o22.ck.n.convertkit.com
+:: o22.ck.n.convertkit.com
 0.0.0.0 o2o.api.xiaomi.com
 :: o2o.api.xiaomi.com
 0.0.0.0 o365.ezyro.com
@@ -45655,8 +45659,6 @@
 :: oehknf74ohqlfnpq9rhfgcq93g.hateflux.com
 0.0.0.0 oem.cnrghj.cn
 :: oem.cnrghj.cn
-0.0.0.0 oem.twimg.com
-:: oem.twimg.com
 0.0.0.0 oeu5ezyexldrgfxg6ysp.maherstcottage.com.au
 :: oeu5ezyexldrgfxg6ysp.maherstcottage.com.au
 0.0.0.0 of.inviziads.com
@@ -62931,6 +62933,8 @@
 :: trk.i0.cz
 0.0.0.0 trk.in25app.com
 :: trk.in25app.com
+0.0.0.0 trk.justanswer.com
+:: trk.justanswer.com
 0.0.0.0 trk.largecast.com
 :: trk.largecast.com
 0.0.0.0 trk.m.libero.it
@@ -66099,8 +66103,6 @@
 :: wallsfargo0240.000webhostapp.com
 0.0.0.0 walp.atm.youku.com
 :: walp.atm.youku.com
-0.0.0.0 waltersburgburgoon.adback.co
-:: waltersburgburgoon.adback.co
 0.0.0.0 wamanet.virtualave.net
 :: wamanet.virtualave.net
 0.0.0.0 wan.2345.com
@@ -68969,8 +68971,6 @@
 :: www.computerxchange.com
 0.0.0.0 www.comune.santa-maria-capua-vetere.ce.it
 :: www.comune.santa-maria-capua-vetere.ce.it
-0.0.0.0 www.comunedeicittadini.it
-:: www.comunedeicittadini.it
 0.0.0.0 www.comwgi.com
 :: www.comwgi.com
 0.0.0.0 www.connectix.com
@@ -72289,8 +72289,6 @@
 :: www.tigipro.pl
 0.0.0.0 www.timefor.com
 :: www.timefor.com
-0.0.0.0 www.timelessimagesmi.com
-:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tings.com
