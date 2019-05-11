@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri May 10 06:46:37 CEST 2019
+# Last update: Sat May 11 05:44:00 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37356
+# Number of unique hostnames: 37348
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3235,8 +3235,6 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
-0.0.0.0 abusalewm.exceltoner.com
-:: abusalewm.exceltoner.com
 0.0.0.0 ac.ajur.info
 :: ac.ajur.info
 0.0.0.0 ac.atpanel.com
@@ -15509,6 +15507,8 @@
 :: apple.com-safetyalert.com
 0.0.0.0 apple.com-scan-virus-detected.com
 :: apple.com-scan-virus-detected.com
+0.0.0.0 apple.com-scan.live
+:: apple.com-scan.live
 0.0.0.0 apple.com-security-desktop-antimalware-support.download
 :: apple.com-security-desktop-antimalware-support.download
 0.0.0.0 apple.com-speed-macos.live
@@ -23739,8 +23739,6 @@
 :: coolertracks.emailroi.com
 0.0.0.0 coolfiles.toget.com.tw
 :: coolfiles.toget.com.tw
-0.0.0.0 coolrastaman.free.fr
-:: coolrastaman.free.fr
 0.0.0.0 coop.pop.baofeng.com
 :: coop.pop.baofeng.com
 0.0.0.0 coop.webforce.es
@@ -23751,10 +23749,6 @@
 :: cooper.logs.roku.com
 0.0.0.0 cootek-file.cdn.cootekservice.com
 :: cootek-file.cdn.cootekservice.com
-0.0.0.0 coquettes.free.fr
-:: coquettes.free.fr
-0.0.0.0 coquins.tahiti.free.fr
-:: coquins.tahiti.free.fr
 0.0.0.0 corbiein.beget.tech
 :: corbiein.beget.tech
 0.0.0.0 cordillera.alcantara.cl
@@ -23785,8 +23779,6 @@
 :: coreg.flashtrack.net
 0.0.0.0 coremetric.vo.llnwd.net
 :: coremetric.vo.llnwd.net
-0.0.0.0 coriandre10.free.fr
-:: coriandre10.free.fr
 0.0.0.0 coriolis.accuweather.com
 :: coriolis.accuweather.com
 0.0.0.0 corneliakroellkautexgroup.000webhostapp.com
@@ -24371,10 +24363,6 @@
 :: crashlytics.163.com
 0.0.0.0 crayon.meishichina.com
 :: crayon.meishichina.com
-0.0.0.0 crazylolitas.dorki.info
-:: crazylolitas.dorki.info
-0.0.0.0 crd.clan.su
-:: crd.clan.su
 0.0.0.0 crdu.shmu.ac.ir
 :: crdu.shmu.ac.ir
 0.0.0.0 cre-dp.sina.cn
@@ -31065,6 +31053,8 @@
 :: ficcionaliza.angelcities.com
 0.0.0.0 fidelity.auth.currentthinkingsolar.com.au
 :: fidelity.auth.currentthinkingsolar.com.au
+0.0.0.0 fidelity.com.secure.onlinebanking.com-accountverification.com.rosepena.com
+:: fidelity.com.secure.onlinebanking.com-accountverification.com.rosepena.com
 0.0.0.0 fidelity.teryhfc.xyz
 :: fidelity.teryhfc.xyz
 0.0.0.0 fidgetspinner.5v.pl
@@ -48547,8 +48537,6 @@
 :: peoria33884.cz.cc
 0.0.0.0 pepelacer.computingservices123.com
 :: pepelacer.computingservices123.com
-0.0.0.0 peps20years.afg.vn
-:: peps20years.afg.vn
 0.0.0.0 peregrine.igg.biz
 :: peregrine.igg.biz
 0.0.0.0 perf-events.cloud.unity3d.com
@@ -52657,6 +52645,8 @@
 :: reward-zone.treatmentthrone.xyz
 0.0.0.0 reward2496.harddayforall9.icu
 :: reward2496.harddayforall9.icu
+0.0.0.0 reward5191.srli20.agency
+:: reward5191.srli20.agency
 0.0.0.0 rewdedaa.gratisdejtingsajter.com
 :: rewdedaa.gratisdejtingsajter.com
 0.0.0.0 rexafajay.axfree.com
@@ -56911,8 +56901,6 @@
 :: snoop.minecraft.net
 0.0.0.0 snore.sabreasiapacific.com
 :: snore.sabreasiapacific.com
-0.0.0.0 snow.nvr163.com
-:: snow.nvr163.com
 0.0.0.0 snsbank.nl.mijnsns.snelzelfregelen.be
 :: snsbank.nl.mijnsns.snelzelfregelen.be
 0.0.0.0 sntl-14.topdat.com
@@ -60687,8 +60675,6 @@
 :: theoklis.keepfree.de
 0.0.0.0 theozone.tripod.com
 :: theozone.tripod.com
-0.0.0.0 therisinghope.org.pk
-:: therisinghope.org.pk
 0.0.0.0 thermomix.vorwerk.pl
 :: thermomix.vorwerk.pl
 0.0.0.0 thesslao54.000webhostapp.com
@@ -68427,6 +68413,8 @@
 :: www.apple.com-repair-macbook.live
 0.0.0.0 www.apple.com-repair.live
 :: www.apple.com-repair.live
+0.0.0.0 www.apple.com-scan.live
+:: www.apple.com-scan.live
 0.0.0.0 www.apple.com-speed-macbook.live
 :: www.apple.com-speed-macbook.live
 0.0.0.0 www.apple.com-speed-macos.live
@@ -68603,8 +68591,6 @@
 :: www.bdg-analytics.appspot.com
 0.0.0.0 www.bfqnup.party
 :: www.bfqnup.party
-0.0.0.0 www.bharatinfoline.com
-:: www.bharatinfoline.com
 0.0.0.0 www.biddingx.com
 :: www.biddingx.com
 0.0.0.0 www.bidwee.com
@@ -72291,8 +72277,6 @@
 :: www.tigipro.pl
 0.0.0.0 www.timefor.com
 :: www.timefor.com
-0.0.0.0 www.timelessimagesmi.com
-:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tings.com
