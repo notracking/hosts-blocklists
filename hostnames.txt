@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat May 11 05:44:00 CEST 2019
+# Last update: Sun May 12 09:46:29 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37348
+# Number of unique hostnames: 37350
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3235,6 +3235,8 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
+0.0.0.0 abusalewm.exceltoner.com
+:: abusalewm.exceltoner.com
 0.0.0.0 ac.ajur.info
 :: ac.ajur.info
 0.0.0.0 ac.atpanel.com
@@ -19357,8 +19359,6 @@
 :: boticariovalepresent.home.sapo.pt
 0.0.0.0 bots.configbinbots.info
 :: bots.configbinbots.info
-0.0.0.0 boutique.grouperf.com
-:: boutique.grouperf.com
 0.0.0.0 boutique.iacoila.fr
 :: boutique.iacoila.fr
 0.0.0.0 boutiqueattraction.fanowebconsole.com
@@ -39609,6 +39609,8 @@
 :: loginid.facebook.weekendtime.com.au
 0.0.0.0 loginlog.sdo.com
 :: loginlog.sdo.com
+0.0.0.0 loginonline-com.firebaseapp.com
+:: loginonline-com.firebaseapp.com
 0.0.0.0 loginr.bbestilocadastro.net
 :: loginr.bbestilocadastro.net
 0.0.0.0 loginslf.beget.tech
@@ -68383,8 +68385,6 @@
 :: www.api.ad.intl.xiaomi.com
 0.0.0.0 www.api.convertkit.com
 :: www.api.convertkit.com
-0.0.0.0 www.apmc.com.hk
-:: www.apmc.com.hk
 0.0.0.0 www.app.convertkit.com
 :: www.app.convertkit.com
 0.0.0.0 www.appafile.com
@@ -68591,6 +68591,8 @@
 :: www.bdg-analytics.appspot.com
 0.0.0.0 www.bfqnup.party
 :: www.bfqnup.party
+0.0.0.0 www.bharatinfoline.com
+:: www.bharatinfoline.com
 0.0.0.0 www.biddingx.com
 :: www.biddingx.com
 0.0.0.0 www.bidwee.com
@@ -69657,6 +69659,8 @@
 :: www.get-hitz.de
 0.0.0.0 www.getcouponsfast.com
 :: www.getcouponsfast.com
+0.0.0.0 www.getdataback.pl
+:: www.getdataback.pl
 0.0.0.0 www.getfilemacgetdmg.com
 :: www.getfilemacgetdmg.com
 0.0.0.0 www.getfilesmact.com
@@ -70651,8 +70655,6 @@
 :: www.macfillerck.com
 0.0.0.0 www.macombdisplayads.com
 :: www.macombdisplayads.com
-0.0.0.0 www.maczyn.pl
-:: www.maczyn.pl
 0.0.0.0 www.madagascaroasis.org
 :: www.madagascaroasis.org
 0.0.0.0 www.madhouse.cn
@@ -72277,6 +72279,8 @@
 :: www.tigipro.pl
 0.0.0.0 www.timefor.com
 :: www.timefor.com
+0.0.0.0 www.timelessimagesmi.com
+:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tings.com
