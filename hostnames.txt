@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon May 13 05:34:33 CEST 2019
+# Last update: Tue May 14 05:41:52 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37303
+# Number of unique hostnames: 37328
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -1997,6 +1997,8 @@
 :: 5b272b4607a73.webredirect.org
 0.0.0.0 5cjvq1.koll.pershoreairporttransfers.co.uk
 :: 5cjvq1.koll.pershoreairporttransfers.co.uk
+0.0.0.0 5eyz.flzee.com
+:: 5eyz.flzee.com
 0.0.0.0 5f8174fcf50c8f3fcaa2-1d2bf932855ebd52407efbb6cb4b64e5.r49.cf2.rackcdn.com
 :: 5f8174fcf50c8f3fcaa2-1d2bf932855ebd52407efbb6cb4b64e5.r49.cf2.rackcdn.com
 0.0.0.0 5gb-internetu-pakiety.blogspot.com
@@ -24907,6 +24909,8 @@
 :: d.kugou.com
 0.0.0.0 d.la1-c2-phx.salesforceliveagent.com
 :: d.la1-c2-phx.salesforceliveagent.com
+0.0.0.0 d.lqrzc.com
+:: d.lqrzc.com
 0.0.0.0 d.lumatag.co.uk
 :: d.lumatag.co.uk
 0.0.0.0 d.mx.e.redbox.com
@@ -25673,6 +25677,8 @@
 :: d2ubicnllnnszy.cloudfront.net
 0.0.0.0 d2ue9k1rhsumed.cloudfront.net
 :: d2ue9k1rhsumed.cloudfront.net
+0.0.0.0 d2uepos3ef6db0.cloudfront.net
+:: d2uepos3ef6db0.cloudfront.net
 0.0.0.0 d2uevgmgh16uk4.cloudfront.net
 :: d2uevgmgh16uk4.cloudfront.net
 0.0.0.0 d2ul07mfd59d8q.cloudfront.net
@@ -28651,10 +28657,16 @@
 :: e.3nqc6b.cn
 0.0.0.0 e.4tm8na.cn
 :: e.4tm8na.cn
+0.0.0.0 e.50j33.cn
+:: e.50j33.cn
 0.0.0.0 e.51xmgys.com
 :: e.51xmgys.com
 0.0.0.0 e.53trya.cn
 :: e.53trya.cn
+0.0.0.0 e.5h9gdb.cn
+:: e.5h9gdb.cn
+0.0.0.0 e.5qk4xi.cn
+:: e.5qk4xi.cn
 0.0.0.0 e.60sk.ru
 :: e.60sk.ru
 0.0.0.0 e.7clink.com
@@ -28663,6 +28675,8 @@
 :: e.7ogh2e.cn
 0.0.0.0 e.91.com
 :: e.91.com
+0.0.0.0 e.980he.cn
+:: e.980he.cn
 0.0.0.0 e.ad.xiaomi.com
 :: e.ad.xiaomi.com
 0.0.0.0 e.admin60.com
@@ -28789,6 +28803,8 @@
 :: e.qjah62.com
 0.0.0.0 e.qq.com
 :: e.qq.com
+0.0.0.0 e.r5v3ye.cn
+:: e.r5v3ye.cn
 0.0.0.0 e.redbox.com
 :: e.redbox.com
 0.0.0.0 e.rgjrq.cn
@@ -28825,6 +28841,8 @@
 :: e.vaxyz.com
 0.0.0.0 e.vjuei.com
 :: e.vjuei.com
+0.0.0.0 e.vkjnd.com
+:: e.vkjnd.com
 0.0.0.0 e.vpeny.com
 :: e.vpeny.com
 0.0.0.0 e.vweit.com
@@ -28845,6 +28863,8 @@
 :: e.xcouv.com
 0.0.0.0 e.xeig.cn
 :: e.xeig.cn
+0.0.0.0 e.xgaij.com
+:: e.xgaij.com
 0.0.0.0 e.xikdn.com
 :: e.xikdn.com
 0.0.0.0 e.yangjingbang.net
@@ -37333,6 +37353,8 @@
 :: js.adpremium.org
 0.0.0.0 js.adxkj.com
 :: js.adxkj.com
+0.0.0.0 js.aerhr224a.site
+:: js.aerhr224a.site
 0.0.0.0 js.aijiaoqi.com
 :: js.aijiaoqi.com
 0.0.0.0 js.analytics.yahoo.com
@@ -39085,6 +39107,8 @@
 :: liwiosarl.appspot.com
 0.0.0.0 lizzy.altervista.org
 :: lizzy.altervista.org
+0.0.0.0 ljblo.usb166.com
+:: ljblo.usb166.com
 0.0.0.0 ljhllbx6a0.bradul.creatory.org
 :: ljhllbx6a0.bradul.creatory.org
 0.0.0.0 ljvixhf6i-site.1tempurl.com
@@ -39927,10 +39951,14 @@
 :: m.1yjlm.com
 0.0.0.0 m.3987.com
 :: m.3987.com
+0.0.0.0 m.41fsxa.cn
+:: m.41fsxa.cn
 0.0.0.0 m.448u79.cn
 :: m.448u79.cn
 0.0.0.0 m.495495.com
 :: m.495495.com
+0.0.0.0 m.50j33.cn
+:: m.50j33.cn
 0.0.0.0 m.51xmgys.com
 :: m.51xmgys.com
 0.0.0.0 m.52j72s.com
@@ -39939,10 +39967,14 @@
 :: m.53trya.cn
 0.0.0.0 m.551144.com
 :: m.551144.com
+0.0.0.0 m.5h9gdb.cn
+:: m.5h9gdb.cn
 0.0.0.0 m.640640.com
 :: m.640640.com
 0.0.0.0 m.649649.com
 :: m.649649.com
+0.0.0.0 m.6i9th.cn
+:: m.6i9th.cn
 0.0.0.0 m.7180443.com
 :: m.7180443.com
 0.0.0.0 m.77vcd.com
@@ -39951,6 +39983,8 @@
 :: m.7nej2.com
 0.0.0.0 m.937920.com
 :: m.937920.com
+0.0.0.0 m.980he.cn
+:: m.980he.cn
 0.0.0.0 m.aangc.com
 :: m.aangc.com
 0.0.0.0 m.abfalse.cn
@@ -40093,6 +40127,8 @@
 :: m.epoch168.com
 0.0.0.0 m.exactag.com
 :: m.exactag.com
+0.0.0.0 m.f846b.cn
+:: m.f846b.cn
 0.0.0.0 m.facebook.com-----------------secured----account---confirmation.rel360.com
 :: m.facebook.com-----------------secured----account---confirmation.rel360.com
 0.0.0.0 m.facebook.com-----------------securelogin---confirm.giftcardisrael.com
@@ -40207,6 +40243,8 @@
 :: m.iduob.com
 0.0.0.0 m.ilancc.com
 :: m.ilancc.com
+0.0.0.0 m.inqra.cn
+:: m.inqra.cn
 0.0.0.0 m.iorgb.com
 :: m.iorgb.com
 0.0.0.0 m.iqasgw.com
@@ -40253,6 +40291,8 @@
 :: m.laoqu123.com
 0.0.0.0 m.laxienian888.com
 :: m.laxienian888.com
+0.0.0.0 m.le78p.cn
+:: m.le78p.cn
 0.0.0.0 m.llaoz.com
 :: m.llaoz.com
 0.0.0.0 m.loading-content.net
@@ -40425,6 +40465,8 @@
 :: m.vbinr.com
 0.0.0.0 m.vjuei.com
 :: m.vjuei.com
+0.0.0.0 m.vkjnd.com
+:: m.vkjnd.com
 0.0.0.0 m.vpadn.com
 :: m.vpadn.com
 0.0.0.0 m.vpeny.com
@@ -40469,12 +40511,16 @@
 :: m.xcouv.com
 0.0.0.0 m.xeig.cn
 :: m.xeig.cn
+0.0.0.0 m.xgaij.com
+:: m.xgaij.com
 0.0.0.0 m.xikdn.com
 :: m.xikdn.com
 0.0.0.0 m.xingxd.com
 :: m.xingxd.com
 0.0.0.0 m.xvideos.fr
 :: m.xvideos.fr
+0.0.0.0 m.y7s6ro.cn
+:: m.y7s6ro.cn
 0.0.0.0 m.yalayi.com
 :: m.yalayi.com
 0.0.0.0 m.yangjingbang.net
@@ -42721,6 +42767,8 @@
 :: mlb.did.ijinshan.com
 0.0.0.0 mldtdbsoko.myfw.us
 :: mldtdbsoko.myfw.us
+0.0.0.0 mldy.huaxiays.cn
+:: mldy.huaxiays.cn
 0.0.0.0 mldy.yu83r.cn
 :: mldy.yu83r.cn
 0.0.0.0 mlog.aipai.com
@@ -48889,6 +48937,8 @@
 :: pimg1.126.net
 0.0.0.0 ping-origin-dev.jwpltx.com
 :: ping-origin-dev.jwpltx.com
+0.0.0.0 ping-origin-stg.jwpltx.com
+:: ping-origin-stg.jwpltx.com
 0.0.0.0 ping.acc.sogou.com
 :: ping.acc.sogou.com
 0.0.0.0 ping.aclst.com
@@ -49653,8 +49703,6 @@
 :: podzemi.myotis.info
 0.0.0.0 poeurthkflutzee.krakraas.beget.tech
 :: poeurthkflutzee.krakraas.beget.tech
-0.0.0.0 pogotowie-komputerowe24h.warszawa.pl
-:: pogotowie-komputerowe24h.warszawa.pl
 0.0.0.0 pogruz.wanyizhao.net
 :: pogruz.wanyizhao.net
 0.0.0.0 points.riotcodegenerator.com
@@ -55729,6 +55777,8 @@
 :: service-confirmation-customer.traxlerenterprises.com
 0.0.0.0 service-confirmation-customers.jakarta6666666.com
 :: service-confirmation-customers.jakarta6666666.com
+0.0.0.0 service-dev.idsync.analytics.yahoo.com
+:: service-dev.idsync.analytics.yahoo.com
 0.0.0.0 service-fermeture.cs-go.fr
 :: service-fermeture.cs-go.fr
 0.0.0.0 service-information.wellspringhypnosis.com
@@ -55761,6 +55811,8 @@
 :: service.epro.sogou.com
 0.0.0.0 service.face2trade.com
 :: service.face2trade.com
+0.0.0.0 service.idsync.analytics.yahoo.com
+:: service.idsync.analytics.yahoo.com
 0.0.0.0 service.jiagu.360.cn
 :: service.jiagu.360.cn
 0.0.0.0 service.mm-r-prop-11-16-2.com
@@ -57645,6 +57697,8 @@
 :: stat.miraben.pw
 0.0.0.0 stat.moji.com
 :: stat.moji.com
+0.0.0.0 stat.moonwalk.co
+:: stat.moonwalk.co
 0.0.0.0 stat.mtv3.fi
 :: stat.mtv3.fi
 0.0.0.0 stat.nebula168.com
@@ -64179,6 +64233,8 @@
 :: ups-parcel.1n1talk.net
 0.0.0.0 ups-spor.org.tr
 :: ups-spor.org.tr
+0.0.0.0 ups.analytics.yahoo.com
+:: ups.analytics.yahoo.com
 0.0.0.0 ups.ksmobile.net
 :: ups.ksmobile.net
 0.0.0.0 upsoj.iptvdeals.com
@@ -64215,8 +64271,6 @@
 :: url.jiemengle.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
-0.0.0.0 urladyms.newlogiq.com
-:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -69411,8 +69465,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
@@ -69569,8 +69621,6 @@
 :: www.get-hitz.de
 0.0.0.0 www.getcouponsfast.com
 :: www.getcouponsfast.com
-0.0.0.0 www.getdataback.pl
-:: www.getdataback.pl
 0.0.0.0 www.getfilemacgetdmg.com
 :: www.getfilemacgetdmg.com
 0.0.0.0 www.getfilesmact.com
@@ -70201,6 +70251,8 @@
 :: www.jshosting.st
 0.0.0.0 www.jshosting.tr
 :: www.jshosting.tr
+0.0.0.0 www.jtcomms.com
+:: www.jtcomms.com
 0.0.0.0 www.juiceplus.com
 :: www.juiceplus.com
 0.0.0.0 www.jumpinessrhbijjq.download
@@ -70495,8 +70547,6 @@
 :: www.loansbadcredit.net.au
 0.0.0.0 www.locatorprotocol.com
 :: www.locatorprotocol.com
-0.0.0.0 www.log-in-verlag.de
-:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -70709,8 +70759,6 @@
 :: www.milardi.it
 0.0.0.0 www.milesaway.oracle.cpa.clicksure.com
 :: www.milesaway.oracle.cpa.clicksure.com
-0.0.0.0 www.milletpolska.pl
-:: www.milletpolska.pl
 0.0.0.0 www.millwardbrownacsr.com
 :: www.millwardbrownacsr.com
 0.0.0.0 www.mindownload.com
@@ -73335,6 +73383,8 @@
 :: x.interia.pl
 0.0.0.0 x.jd.com
 :: x.jd.com
+0.0.0.0 x.lzspf.com
+:: x.lzspf.com
 0.0.0.0 x.mtrend.cn
 :: x.mtrend.cn
 0.0.0.0 x.myspace.com
