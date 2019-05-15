@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue May 14 05:41:52 CEST 2019
+# Last update: Wed May 15 05:41:56 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37328
+# Number of unique hostnames: 37352
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3235,6 +3235,8 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
+0.0.0.0 abusalewm.exceltoner.com
+:: abusalewm.exceltoner.com
 0.0.0.0 ac.ajur.info
 :: ac.ajur.info
 0.0.0.0 ac.atpanel.com
@@ -13423,6 +13425,8 @@
 :: aim-charts.pf.aol.com
 0.0.0.0 aim.yoyi.com.cn
 :: aim.yoyi.com.cn
+0.0.0.0 aima.shouhome.com
+:: aima.shouhome.com
 0.0.0.0 aima.weathercn.com
 :: aima.weathercn.com
 0.0.0.0 aimeebxj.beget.tech
@@ -13651,8 +13655,6 @@
 :: alipay.dajiadou6.com
 0.0.0.0 aliru2.ru.p.pstl.live
 :: aliru2.ru.p.pstl.live
-0.0.0.0 alissl.ucdl.pp.uc.cn
-:: alissl.ucdl.pp.uc.cn
 0.0.0.0 alissonluis-musico.sites.uol.com.br
 :: alissonluis-musico.sites.uol.com.br
 0.0.0.0 alitui.weibo.com
@@ -14823,6 +14825,8 @@
 :: api.ad.snappea.com
 0.0.0.0 api.ad.xiaomi.com
 :: api.ad.xiaomi.com
+0.0.0.0 api.ad.xv555.com
+:: api.ad.xv555.com
 0.0.0.0 api.ad4push.com
 :: api.ad4push.com
 0.0.0.0 api.adcome.cn
@@ -16689,6 +16693,8 @@
 :: b.tukucc.com
 0.0.0.0 b.turbo.az
 :: b.turbo.az
+0.0.0.0 b.tvsou.com
+:: b.tvsou.com
 0.0.0.0 b.unjs.com
 :: b.unjs.com
 0.0.0.0 b.vghd.com
@@ -18283,6 +18289,8 @@
 :: bd1.heiguang.cn
 0.0.0.0 bd1.home8080.cn
 :: bd1.home8080.cn
+0.0.0.0 bd1.idgdmg.com.cn
+:: bd1.idgdmg.com.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.nipic.com
@@ -18313,6 +18321,8 @@
 :: bd2.flfgw.cn
 0.0.0.0 bd2.home8080.cn
 :: bd2.home8080.cn
+0.0.0.0 bd2.idgdmg.com.cn
+:: bd2.idgdmg.com.cn
 0.0.0.0 bd2.jobui.com
 :: bd2.jobui.com
 0.0.0.0 bd2.nipic.com
@@ -28671,6 +28681,8 @@
 :: e.60sk.ru
 0.0.0.0 e.7clink.com
 :: e.7clink.com
+0.0.0.0 e.7hd2ma.cn
+:: e.7hd2ma.cn
 0.0.0.0 e.7ogh2e.cn
 :: e.7ogh2e.cn
 0.0.0.0 e.91.com
@@ -29239,6 +29251,8 @@
 :: eland.doublemax.net
 0.0.0.0 elbcradio.tcalr.org
 :: elbcradio.tcalr.org
+0.0.0.0 electricfence.levsantronic.ro
+:: electricfence.levsantronic.ro
 0.0.0.0 electro.demos.su
 :: electro.demos.su
 0.0.0.0 electrohemostasis.makemoneywithmegan.net
@@ -29581,6 +29595,8 @@
 :: err.agava.ru
 0.0.0.0 err.chicappa.jp
 :: err.chicappa.jp
+0.0.0.0 err.ifengcloud.ifeng.com
+:: err.ifengcloud.ifeng.com
 0.0.0.0 err.lolipop.jp
 :: err.lolipop.jp
 0.0.0.0 err1.9939118.info
@@ -33429,8 +33445,6 @@
 :: hao.qquu8.com
 0.0.0.0 hao.tiandi.com
 :: hao.tiandi.com
-0.0.0.0 hao.uc.cn
-:: hao.uc.cn
 0.0.0.0 hao1.loxue.com
 :: hao1.loxue.com
 0.0.0.0 hao123.xywy.com
@@ -33557,6 +33571,8 @@
 :: hd.ylddq.com
 0.0.0.0 hda.maxli.cn
 :: hda.maxli.cn
+0.0.0.0 hda.watchtimes.com.cn
+:: hda.watchtimes.com.cn
 0.0.0.0 hdad.baike.com
 :: hdad.baike.com
 0.0.0.0 hdapp1003-a.akamaihd.net
@@ -37411,6 +37427,8 @@
 :: js.hscollectedforms.net
 0.0.0.0 js.idgdmg.com.cn
 :: js.idgdmg.com.cn
+0.0.0.0 js.idgdmgroup.com.cn
+:: js.idgdmgroup.com.cn
 0.0.0.0 js.iodo.com
 :: js.iodo.com
 0.0.0.0 js.keywordsconnect.com
@@ -39385,6 +39403,8 @@
 :: log.quora.com
 0.0.0.0 log.rc.hunantv.com
 :: log.rc.hunantv.com
+0.0.0.0 log.sina.cn
+:: log.sina.cn
 0.0.0.0 log.snapdeal.com
 :: log.snapdeal.com
 0.0.0.0 log.spotify.com
@@ -40177,6 +40197,8 @@
 :: m.frfykc.cn
 0.0.0.0 m.fsouo.com
 :: m.fsouo.com
+0.0.0.0 m.fy4zb.cn
+:: m.fy4zb.cn
 0.0.0.0 m.game.weibo.cn
 :: m.game.weibo.cn
 0.0.0.0 m.gameyun907.net
@@ -40455,8 +40477,6 @@
 :: m.tstore.co.kr
 0.0.0.0 m.tuopp.com
 :: m.tuopp.com
-0.0.0.0 m.uc123.com
-:: m.uc123.com
 0.0.0.0 m.usersonline.com
 :: m.usersonline.com
 0.0.0.0 m.vaxyz.com
@@ -40517,6 +40537,8 @@
 :: m.xikdn.com
 0.0.0.0 m.xingxd.com
 :: m.xingxd.com
+0.0.0.0 m.xsk5j.cn
+:: m.xsk5j.cn
 0.0.0.0 m.xvideos.fr
 :: m.xvideos.fr
 0.0.0.0 m.y7s6ro.cn
@@ -40553,6 +40575,8 @@
 :: m.zbied.com
 0.0.0.0 m.zeiaa.com
 :: m.zeiaa.com
+0.0.0.0 m.zq4ka.cn
+:: m.zq4ka.cn
 0.0.0.0 m.zvfuka.cn
 :: m.zvfuka.cn
 0.0.0.0 m0-s.san.ru
@@ -42739,6 +42763,10 @@
 :: mix.kinostuff.com
 0.0.0.0 mixer.cupid.ptqy.gitv.tv
 :: mixer.cupid.ptqy.gitv.tv
+0.0.0.0 mixer.sina.cn
+:: mixer.sina.cn
+0.0.0.0 mixers.sina.cn
+:: mixers.sina.cn
 0.0.0.0 mizori5i.beget.tech
 :: mizori5i.beget.tech
 0.0.0.0 mjaey.saqibsiddiqui.com
@@ -46197,6 +46225,8 @@
 :: oovqsvi.angelcities.com
 0.0.0.0 oowhe.frost-electric-supply.com
 :: oowhe.frost-electric-supply.com
+0.0.0.0 op.ssp.qq.com
+:: op.ssp.qq.com
 0.0.0.0 oparatoeur5574.operator360mobile.com
 :: oparatoeur5574.operator360mobile.com
 0.0.0.0 opcwdns.opcw.nl
@@ -47349,6 +47379,8 @@
 :: pa.gogreenadmin.com
 0.0.0.0 pa.yahoo.com
 :: pa.yahoo.com
+0.0.0.0 pacaio.match.qq.com
+:: pacaio.match.qq.com
 0.0.0.0 pacan.gofreedom.info
 :: pacan.gofreedom.info
 0.0.0.0 paceful.yanshfare.org
@@ -52609,6 +52641,8 @@
 :: revision.acc.invalid-address-app-info.com
 0.0.0.0 revistas.tec.ac.cr
 :: revistas.tec.ac.cr
+0.0.0.0 revive.outin.cn
+:: revive.outin.cn
 0.0.0.0 revive.vkushti.tv
 :: revive.vkushti.tv
 0.0.0.0 revive.workmedia.pt
@@ -55709,8 +55743,6 @@
 :: server.findthemd.com
 0.0.0.0 server.gameads.com
 :: server.gameads.com
-0.0.0.0 server.m.pp.cn
-:: server.m.pp.cn
 0.0.0.0 server.philipsenet.nl
 :: server.philipsenet.nl
 0.0.0.0 server.privatewebsolution.com
@@ -61805,6 +61837,8 @@
 :: track.smcnetwork.net
 0.0.0.0 track.social.com
 :: track.social.com
+0.0.0.0 track.sohu.com
+:: track.sohu.com
 0.0.0.0 track.spankadoo.pl
 :: track.spankadoo.pl
 0.0.0.0 track.specialdailydeals4u.com
@@ -63243,8 +63277,6 @@
 :: u.raidmedia.com.cn
 0.0.0.0 u.scdn.co
 :: u.scdn.co
-0.0.0.0 u.uc123.com
-:: u.uc123.com
 0.0.0.0 u.ucfly.com
 :: u.ucfly.com
 0.0.0.0 u.x.jd.com
@@ -64271,6 +64303,8 @@
 :: url.jiemengle.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
+0.0.0.0 urladyms.newlogiq.com
+:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -64639,6 +64673,8 @@
 :: utmpinhibitslijkten.byklyf.com
 0.0.0.0 utop.umengcloud.com
 :: utop.umengcloud.com
+0.0.0.0 utp-dmp.ucweb.com
+:: utp-dmp.ucweb.com
 0.0.0.0 utp.ucweb.com
 :: utp.ucweb.com
 0.0.0.0 utrack.hexun.com
@@ -67269,6 +67305,8 @@
 :: wm.maxysearch.info
 0.0.0.0 wm.mipcdn.com
 :: wm.mipcdn.com
+0.0.0.0 wmedia-track.uc.cn
+:: wmedia-track.uc.cn
 0.0.0.0 wmsource.virtualave.net
 :: wmsource.virtualave.net
 0.0.0.0 wmvrlpvpqxu.yi.org
@@ -69465,6 +69503,8 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
+0.0.0.0 www.fishingtackleindia.com
+:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
@@ -70547,6 +70587,8 @@
 :: www.loansbadcredit.net.au
 0.0.0.0 www.locatorprotocol.com
 :: www.locatorprotocol.com
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -72235,6 +72277,8 @@
 :: www.tigipro.pl
 0.0.0.0 www.timefor.com
 :: www.timefor.com
+0.0.0.0 www.timelessimagesmi.com
+:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tings.com
@@ -73819,6 +73863,8 @@
 :: xsso.tracking.photoyee.com
 0.0.0.0 xstatic.nk-net.pl
 :: xstatic.nk-net.pl
+0.0.0.0 xsweb.pxuns.com
+:: xsweb.pxuns.com
 0.0.0.0 xt.eh6q.cn
 :: xt.eh6q.cn
 0.0.0.0 xtruh.uranus.sogou.com
@@ -74667,5 +74713,7 @@
 :: zzskmmdu.cz.cc
 0.0.0.0 zzy.mipujia.com
 :: zzy.mipujia.com
+0.0.0.0 zzy.quyaoya.com
+:: zzy.quyaoya.com
 0.0.0.0 zzy1.mipujia.com
 :: zzy1.mipujia.com
