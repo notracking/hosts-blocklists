@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed May 15 05:41:56 CEST 2019
+# Last update: Thu May 16 05:43:46 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37352
+# Number of unique hostnames: 37371
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -18929,6 +18929,8 @@
 :: blablacar.d3.ru
 0.0.0.0 black.convertkit.com
 :: black.convertkit.com
+0.0.0.0 blackdog.sakura.ne.jp
+:: blackdog.sakura.ne.jp
 0.0.0.0 blackhill.pp.ua
 :: blackhill.pp.ua
 0.0.0.0 blacknews.sakura.ne.jp
@@ -18997,6 +18999,8 @@
 :: blog.memeal.ai
 0.0.0.0 blog.ndstudio.xyz
 :: blog.ndstudio.xyz
+0.0.0.0 blog.olawolff.com
+:: blog.olawolff.com
 0.0.0.0 blog.onadvertise.com
 :: blog.onadvertise.com
 0.0.0.0 blog.opeconsultores.es
@@ -19021,6 +19025,8 @@
 :: blog.trianglewebhosting.com
 0.0.0.0 blog.usafibremarin.ml
 :: blog.usafibremarin.ml
+0.0.0.0 blog.ysydc.cn
+:: blog.ysydc.cn
 0.0.0.0 blogad01.myweb.hinet.net
 :: blogad01.myweb.hinet.net
 0.0.0.0 blogad02.myweb.hinet.net
@@ -20461,6 +20467,8 @@
 :: campamento.queenscamp.com
 0.0.0.0 campanie.go.ro
 :: campanie.go.ro
+0.0.0.0 camponesa.ind.br
+:: camponesa.ind.br
 0.0.0.0 campus.lovepop.jp
 :: campus.lovepop.jp
 0.0.0.0 campus.org.bd
@@ -23103,6 +23111,8 @@
 :: cn.bidushe.com
 0.0.0.0 cn.clickable.net
 :: cn.clickable.net
+0.0.0.0 cn.willmoreinternational.com
+:: cn.willmoreinternational.com
 0.0.0.0 cn01.dwstat.cn
 :: cn01.dwstat.cn
 0.0.0.0 cn54tfw0kw.fgppchg.fgpp.com
@@ -23277,6 +23287,8 @@
 :: codeym.dictall.com
 0.0.0.0 coding.1100011.ir
 :: coding.1100011.ir
+0.0.0.0 coebioetica.salud-oaxaca.gob.mx
+:: coebioetica.salud-oaxaca.gob.mx
 0.0.0.0 cof.tracking.priberam.pt
 :: cof.tracking.priberam.pt
 0.0.0.0 coin-hive-proxy-ybydcnjgkl.now.sh
@@ -26227,6 +26239,8 @@
 :: d9rj2sdxjer5v.cloudfront.net
 0.0.0.0 d9tnvwv7i2n85.cloudfront.net
 :: d9tnvwv7i2n85.cloudfront.net
+0.0.0.0 d9w.fl1c.com
+:: d9w.fl1c.com
 0.0.0.0 da.2000888.com
 :: da.2000888.com
 0.0.0.0 da.geracaotrict.com.br
@@ -27013,6 +27027,8 @@
 :: desgao1zt7irn.cloudfront.net
 0.0.0.0 desidating.in.nf
 :: desidating.in.nf
+0.0.0.0 design.bpotech.com.vn
+:: design.bpotech.com.vn
 0.0.0.0 design.mangoxl.com
 :: design.mangoxl.com
 0.0.0.0 designbuildinstall.net.au
@@ -28845,6 +28861,8 @@
 :: e.tspric.cn
 0.0.0.0 e.tuoaa.com
 :: e.tuoaa.com
+0.0.0.0 e.u4j1ec.cn
+:: e.u4j1ec.cn
 0.0.0.0 e.us8l5b.cn
 :: e.us8l5b.cn
 0.0.0.0 e.v48bna.cn
@@ -28857,8 +28875,6 @@
 :: e.vkjnd.com
 0.0.0.0 e.vpeny.com
 :: e.vpeny.com
-0.0.0.0 e.vweit.com
-:: e.vweit.com
 0.0.0.0 e.wcenr.com
 :: e.wcenr.com
 0.0.0.0 e.wduis.com
@@ -28879,6 +28895,8 @@
 :: e.xgaij.com
 0.0.0.0 e.xikdn.com
 :: e.xikdn.com
+0.0.0.0 e.y23zpl.cn
+:: e.y23zpl.cn
 0.0.0.0 e.yangjingbang.net
 :: e.yangjingbang.net
 0.0.0.0 e.ycuoj.com
@@ -34969,6 +34987,8 @@
 :: ic.wps.cn
 0.0.0.0 icache.getrelevant.com
 :: icache.getrelevant.com
+0.0.0.0 icdt.unitbv.ro
+:: icdt.unitbv.ro
 0.0.0.0 ice.andromed.in.ua
 :: ice.andromed.in.ua
 0.0.0.0 ice.ip64.net
@@ -38003,6 +38023,8 @@
 :: kinozal-me.appspot.com
 0.0.0.0 kinozal-tv.appspot.com
 :: kinozal-tv.appspot.com
+0.0.0.0 kirakima.sakura.ne.jp
+:: kirakima.sakura.ne.jp
 0.0.0.0 kirao.ashmarinc.com
 :: kirao.ashmarinc.com
 0.0.0.0 kires.umk-spo.biz
@@ -38709,6 +38731,8 @@
 :: leon10.5gbfree.com
 0.0.0.0 leonarderickson.chez.com
 :: leonarderickson.chez.com
+0.0.0.0 leonxiii.edu.ar
+:: leonxiii.edu.ar
 0.0.0.0 lepodownload.mediatek.com
 :: lepodownload.mediatek.com
 0.0.0.0 lerofa.hol.es
@@ -39941,6 +39965,8 @@
 :: lzjue8dkseu.cedricchenevert.com
 0.0.0.0 lzjue8dkseu.mbservicesyorkshire.co.uk
 :: lzjue8dkseu.mbservicesyorkshire.co.uk
+0.0.0.0 lzzht.googlespider1.cn
+:: lzzht.googlespider1.cn
 0.0.0.0 m-fb-security.000webhostapp.com
 :: m-fb-security.000webhostapp.com
 0.0.0.0 m-vk.fasting.tk
@@ -40197,8 +40223,6 @@
 :: m.frfykc.cn
 0.0.0.0 m.fsouo.com
 :: m.fsouo.com
-0.0.0.0 m.fy4zb.cn
-:: m.fy4zb.cn
 0.0.0.0 m.game.weibo.cn
 :: m.game.weibo.cn
 0.0.0.0 m.gameyun907.net
@@ -40513,6 +40537,8 @@
 :: m.wlues.com
 0.0.0.0 m.wnxcg.com
 :: m.wnxcg.com
+0.0.0.0 m.wogpa.cn
+:: m.wogpa.cn
 0.0.0.0 m.wooboo.com.cn
 :: m.wooboo.com.cn
 0.0.0.0 m.wqiuj.com
@@ -41061,6 +41087,8 @@
 :: market.oicdn.com
 0.0.0.0 market2.the-adult-company.com
 :: market2.the-adult-company.com
+0.0.0.0 marketidea.in.th
+:: marketidea.in.th
 0.0.0.0 marketing-solutions.bt.com
 :: marketing-solutions.bt.com
 0.0.0.0 marketing.al.ly
@@ -42445,6 +42473,8 @@
 :: mhdtestks3.1391.com
 0.0.0.0 mhdufile.1391.com
 :: mhdufile.1391.com
+0.0.0.0 mhfa.org.mt
+:: mhfa.org.mt
 0.0.0.0 mhjk.1391.com
 :: mhjk.1391.com
 0.0.0.0 mhsn.edu.bd
@@ -59995,6 +60025,8 @@
 :: take.virtualheromessages.com
 0.0.0.0 take5.real.com
 :: take5.real.com
+0.0.0.0 takosumi.sakura.ne.jp
+:: takosumi.sakura.ne.jp
 0.0.0.0 talanyuvraj.000webhostapp.com
 :: talanyuvraj.000webhostapp.com
 0.0.0.0 talesoftheslayer.bravejournal.com
@@ -60545,6 +60577,8 @@
 :: test2.jessekanclerz.com
 0.0.0.0 test2.nqs.nice264.com
 :: test2.nqs.nice264.com
+0.0.0.0 test5.freebottlepc.com
+:: test5.freebottlepc.com
 0.0.0.0 testats.inuvo.com
 :: testats.inuvo.com
 0.0.0.0 testcddc.atclouddev.net
@@ -73373,6 +73407,8 @@
 :: wypad3k0.blogspot.com
 0.0.0.0 wypromuj.nazwa.pl
 :: wypromuj.nazwa.pl
+0.0.0.0 wywoznieczystosci.pomorze.pl
+:: wywoznieczystosci.pomorze.pl
 0.0.0.0 wyzq.rehuwang.com
 :: wyzq.rehuwang.com
 0.0.0.0 wz.37wan.com
@@ -74495,6 +74531,8 @@
 :: zgarniij_vouchher.skroc.pl
 0.0.0.0 zgopxgi9uqlgoioatuuc.littlematchagirl.com.au
 :: zgopxgi9uqlgoioatuuc.littlematchagirl.com.au
+0.0.0.0 zh.jktopia.com
+:: zh.jktopia.com
 0.0.0.0 zharuk.org.ua
 :: zharuk.org.ua
 0.0.0.0 zhengxing.onlinedj.com.cn
