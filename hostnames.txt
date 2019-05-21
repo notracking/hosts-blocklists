@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon May 20 05:44:24 CEST 2019
+# Last update: Tue May 21 05:45:29 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37381
+# Number of unique hostnames: 37396
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -15365,8 +15365,6 @@
 :: app.onlinecustomer-home-service.app.update-help.desk.app.vhamg.com
 0.0.0.0 app.onlinecustomer-home-service.app.update.ten-four.com
 :: app.onlinecustomer-home-service.app.update.ten-four.com
-0.0.0.0 app.pendo.io
-:: app.pendo.io
 0.0.0.0 app.pho8.com
 :: app.pho8.com
 0.0.0.0 app.pr0gramm.com
@@ -28769,6 +28767,8 @@
 :: e.gjiaj.com
 0.0.0.0 e.gnfpzc.cn
 :: e.gnfpzc.cn
+0.0.0.0 e.gtrve.cn
+:: e.gtrve.cn
 0.0.0.0 e.gtuoj.com
 :: e.gtuoj.com
 0.0.0.0 e.gxjfh.com
@@ -28809,6 +28809,8 @@
 :: e.kewro.com
 0.0.0.0 e.kunpp.com
 :: e.kunpp.com
+0.0.0.0 e.kzwsh.cn
+:: e.kzwsh.cn
 0.0.0.0 e.lancedu.com
 :: e.lancedu.com
 0.0.0.0 e.miaoxinqipei.com
@@ -28827,6 +28829,8 @@
 :: e.nejup.com
 0.0.0.0 e.njiet.com
 :: e.njiet.com
+0.0.0.0 e.o5vm6c.cn
+:: e.o5vm6c.cn
 0.0.0.0 e.ofuda.cc
 :: e.ofuda.cc
 0.0.0.0 e.okfhn.com
@@ -29973,6 +29977,8 @@
 :: ew16d.package12.com
 0.0.0.0 ewstv.abc15.com
 :: ewstv.abc15.com
+0.0.0.0 ex-torrentycom.5v.pl
+:: ex-torrentycom.5v.pl
 0.0.0.0 ex.banner.t-online.de
 :: ex.banner.t-online.de
 0.0.0.0 ex.infox.sg
@@ -34921,6 +34927,8 @@
 :: iam-agof-app.irquest.com
 0.0.0.0 iam.best.lt.ua
 :: iam.best.lt.ua
+0.0.0.0 iamablogger.convertkit.com
+:: iamablogger.convertkit.com
 0.0.0.0 iapplsslserviceupgrade.settingaccountsslsupport.com
 :: iapplsslserviceupgrade.settingaccountsslsupport.com
 0.0.0.0 iappweb.moonfruit.com
@@ -35249,6 +35257,8 @@
 :: iis3g.deliver.ifeng.com
 0.0.0.0 ijeti.imeti.org
 :: ijeti.imeti.org
+0.0.0.0 ijeu.pdkzyy.cn
+:: ijeu.pdkzyy.cn
 0.0.0.0 ijv.siveify.com
 :: ijv.siveify.com
 0.0.0.0 ik4dm.mazerunci.at
@@ -40009,6 +40019,8 @@
 :: m.1919388.net
 0.0.0.0 m.1yjlm.com
 :: m.1yjlm.com
+0.0.0.0 m.24pga.cn
+:: m.24pga.cn
 0.0.0.0 m.3987.com
 :: m.3987.com
 0.0.0.0 m.41fsxa.cn
@@ -40017,6 +40029,8 @@
 :: m.448u79.cn
 0.0.0.0 m.495495.com
 :: m.495495.com
+0.0.0.0 m.4qonm.cn
+:: m.4qonm.cn
 0.0.0.0 m.50j33.cn
 :: m.50j33.cn
 0.0.0.0 m.51xmgys.com
@@ -40027,6 +40041,8 @@
 :: m.53trya.cn
 0.0.0.0 m.551144.com
 :: m.551144.com
+0.0.0.0 m.5d63b.cn
+:: m.5d63b.cn
 0.0.0.0 m.5h9gdb.cn
 :: m.5h9gdb.cn
 0.0.0.0 m.640640.com
@@ -40409,6 +40425,10 @@
 :: m.nouaa.com
 0.0.0.0 m.nqut.cn
 :: m.nqut.cn
+0.0.0.0 m.o4hpc.cn
+:: m.o4hpc.cn
+0.0.0.0 m.o5vm6c.cn
+:: m.o5vm6c.cn
 0.0.0.0 m.ocenp.com
 :: m.ocenp.com
 0.0.0.0 m.ogeigs.com
@@ -40451,6 +40471,8 @@
 :: m.qulishi.com
 0.0.0.0 m.qusub.com
 :: m.qusub.com
+0.0.0.0 m.r507p.cn
+:: m.r507p.cn
 0.0.0.0 m.rgjrq.cn
 :: m.rgjrq.cn
 0.0.0.0 m.rhcapass.com
@@ -42843,6 +42865,8 @@
 :: mldtdbsoko.myfw.us
 0.0.0.0 mldy.huaxiays.cn
 :: mldy.huaxiays.cn
+0.0.0.0 mldy.xdaay.cn
+:: mldy.xdaay.cn
 0.0.0.0 mldy.yu83r.cn
 :: mldy.yu83r.cn
 0.0.0.0 mlog.aipai.com
@@ -44993,6 +45017,8 @@
 :: nxkl36xz.apps.lair.io
 0.0.0.0 nxs.kidcolez.cn
 :: nxs.kidcolez.cn
+0.0.0.0 nxw.0518g.com
+:: nxw.0518g.com
 0.0.0.0 nyads.ny.publicus.com
 :: nyads.ny.publicus.com
 0.0.0.0 nybxmwmrcgtr.fgppchg.fgpp.com
@@ -45063,6 +45089,10 @@
 :: o16.ck.n.convertkit.com
 0.0.0.0 o17.ck.n.convertkit.com
 :: o17.ck.n.convertkit.com
+0.0.0.0 o18.ck.n.convertkit.com
+:: o18.ck.n.convertkit.com
+0.0.0.0 o19.ck.n.convertkit.com
+:: o19.ck.n.convertkit.com
 0.0.0.0 o1b257.koll.pershoreairporttransfers.co.uk
 :: o1b257.koll.pershoreairporttransfers.co.uk
 0.0.0.0 o20.ck.n.convertkit.com
@@ -48773,6 +48803,8 @@
 :: photo.epowuxiao.cn
 0.0.0.0 photo.haoquangou.cn
 :: photo.haoquangou.cn
+0.0.0.0 photo.hgdanbas.cn
+:: photo.hgdanbas.cn
 0.0.0.0 photo.hhmyi.cn
 :: photo.hhmyi.cn
 0.0.0.0 photo.jiaxiyuan.cn
@@ -48793,6 +48825,8 @@
 :: photo.video.gay.free.fr
 0.0.0.0 photo.welldex.cn
 :: photo.welldex.cn
+0.0.0.0 photo.whwestern.cn
+:: photo.whwestern.cn
 0.0.0.0 photo.ybaobei.cn
 :: photo.ybaobei.cn
 0.0.0.0 photo.yishuhuanbao.cn
@@ -49015,6 +49049,8 @@
 :: pimg1.126.net
 0.0.0.0 ping-origin-dev.jwpltx.com
 :: ping-origin-dev.jwpltx.com
+0.0.0.0 ping-origin-prd.jwpltx.com
+:: ping-origin-prd.jwpltx.com
 0.0.0.0 ping-origin-stg.jwpltx.com
 :: ping-origin-stg.jwpltx.com
 0.0.0.0 ping.acc.sogou.com
@@ -57461,8 +57497,6 @@
 :: ssl.hyhzy.cn
 0.0.0.0 ssl.istore-recheckbill-idwmid4658944.topslearningsystem.org
 :: ssl.istore-recheckbill-idwmid4658944.topslearningsystem.org
-0.0.0.0 ssl.lnsanepay.net
-:: ssl.lnsanepay.net
 0.0.0.0 ssl.login.skype.com.gohiding.com
 :: ssl.login.skype.com.gohiding.com
 0.0.0.0 ssl.o.webmd.com
@@ -60815,6 +60849,8 @@
 :: tierlantijntjekudus.zaara.name
 0.0.0.0 tikhom.demos.su
 :: tikhom.demos.su
+0.0.0.0 tikn.hwgs.info
+:: tikn.hwgs.info
 0.0.0.0 til5d6zn.beget.tech
 :: til5d6zn.beget.tech
 0.0.0.0 tiles.cdn.mozilla.net
@@ -61265,8 +61301,6 @@
 :: tr.semilo.individuad.net
 0.0.0.0 tr.snapchat.com
 :: tr.snapchat.com
-0.0.0.0 tr.spinwin.fun
-:: tr.spinwin.fun
 0.0.0.0 tr.webantenna.info
 :: tr.webantenna.info
 0.0.0.0 tr1.frosmo.com
@@ -68519,8 +68553,6 @@
 :: www.artandevent.pl
 0.0.0.0 www.artisticasrl.com
 :: www.artisticasrl.com
-0.0.0.0 www.artstructures.pl
-:: www.artstructures.pl
 0.0.0.0 www.as-chwilowka.pl
 :: www.as-chwilowka.pl
 0.0.0.0 www.ashiping.com
@@ -68767,8 +68799,6 @@
 :: www.butterfly-media.co.uk
 0.0.0.0 www.butyadidas.pl
 :: www.butyadidas.pl
-0.0.0.0 www.butyasicsgel.pl
-:: www.butyasicsgel.pl
 0.0.0.0 www.buwobarun.cn
 :: www.buwobarun.cn
 0.0.0.0 www.buy404s.com
@@ -72851,8 +72881,6 @@
 :: www.witnatura.pl
 0.0.0.0 www.wixed.wix.com
 :: www.wixed.wix.com
-0.0.0.0 www.wizecover.co.uk
-:: www.wizecover.co.uk
 0.0.0.0 www.womenbaby.com
 :: www.womenbaby.com
 0.0.0.0 www.wonderwhistle.co.uk
@@ -73757,6 +73785,8 @@
 :: xlpfycamwlsewxemknq5.alfacomercial.com.br
 0.0.0.0 xls.go.sohu.com
 :: xls.go.sohu.com
+0.0.0.0 xls.suxun368.cc
+:: xls.suxun368.cc
 0.0.0.0 xlsmoyvwt.ivydancefloors.com
 :: xlsmoyvwt.ivydancefloors.com
 0.0.0.0 xmhjpqyesu.kbogghjvnt.madpendesign.com.au
