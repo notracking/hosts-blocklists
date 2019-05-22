@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue May 21 05:45:29 CEST 2019
+# Last update: Wed May 22 05:40:20 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37396
+# Number of unique hostnames: 37399
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -1273,6 +1273,8 @@
 :: 518.sdinfo.net
 0.0.0.0 51friend.anytome.com
 :: 51friend.anytome.com
+0.0.0.0 51posuiji.org.cn
+:: 51posuiji.org.cn
 0.0.0.0 521073--verbraucher-mitteilung-account.sicher-vorbeugung.tk
 :: 521073--verbraucher-mitteilung-account.sicher-vorbeugung.tk
 0.0.0.0 521686-de-verbraucher-kenntnis-benutzer.sicherheitsabwehr-hilfeservice-sicherheitshilfe.tk
@@ -28047,6 +28049,8 @@
 :: download.realtimegaming.com
 0.0.0.0 download.sj.qq.com
 :: download.sj.qq.com
+0.0.0.0 download.televisionfanatic.com
+:: download.televisionfanatic.com
 0.0.0.0 download.torchbrowser.com
 :: download.torchbrowser.com
 0.0.0.0 download.ttrili.com
@@ -48803,8 +48807,6 @@
 :: photo.epowuxiao.cn
 0.0.0.0 photo.haoquangou.cn
 :: photo.haoquangou.cn
-0.0.0.0 photo.hgdanbas.cn
-:: photo.hgdanbas.cn
 0.0.0.0 photo.hhmyi.cn
 :: photo.hhmyi.cn
 0.0.0.0 photo.jiaxiyuan.cn
@@ -49391,6 +49393,8 @@
 :: pl.slimg0ji-berry.com
 0.0.0.0 pl.superando.net
 :: pl.superando.net
+0.0.0.0 pl.tvplusnewtab.com
+:: pl.tvplusnewtab.com
 0.0.0.0 pl.web.toleadoo.com
 :: pl.web.toleadoo.com
 0.0.0.0 pl1.slimg0ji-berry.com
@@ -52735,6 +52739,8 @@
 :: reward2496.harddayforall9.icu
 0.0.0.0 reward5191.srli20.agency
 :: reward5191.srli20.agency
+0.0.0.0 reward6918.linetotime2.agency
+:: reward6918.linetotime2.agency
 0.0.0.0 rewdedaa.gratisdejtingsajter.com
 :: rewdedaa.gratisdejtingsajter.com
 0.0.0.0 rexafajay.axfree.com
@@ -56373,8 +56379,6 @@
 :: shtt.shuqw.com
 0.0.0.0 shutdown.cgffood.vn
 :: shutdown.cgffood.vn
-0.0.0.0 shutterfly.narvar.com
-:: shutterfly.narvar.com
 0.0.0.0 shzyjbr.wtdtjs.rocks
 :: shzyjbr.wtdtjs.rocks
 0.0.0.0 si.homestore.com
@@ -69343,6 +69347,8 @@
 :: www.easy-swap.com
 0.0.0.0 www.easycounter.com
 :: www.easycounter.com
+0.0.0.0 www.easypdfcombine.com
+:: www.easypdfcombine.com
 0.0.0.0 www.easyyoutubemarketing.com
 :: www.easyyoutubemarketing.com
 0.0.0.0 www.eatthis.com
@@ -73307,6 +73313,8 @@
 :: www381.ddlczn.com
 0.0.0.0 www4.at.debianbase.de
 :: www4.at.debianbase.de
+0.0.0.0 www4.co-aa198.stream
+:: www4.co-aa198.stream
 0.0.0.0 www4.counter.bloke.com
 :: www4.counter.bloke.com
 0.0.0.0 www4.delta-search.com
@@ -74457,8 +74465,6 @@
 :: zahir2.aeiou.pt
 0.0.0.0 zahirx.aeiou.pt
 :: zahirx.aeiou.pt
-0.0.0.0 zales.narvar.com
-:: zales.narvar.com
 0.0.0.0 zam.horizonbeverage.org
 :: zam.horizonbeverage.org
 0.0.0.0 zamhuxnh.cz.cc
