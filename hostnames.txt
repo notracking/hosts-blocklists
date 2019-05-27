@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun May 26 05:36:24 CEST 2019
+# Last update: Mon May 27 05:51:55 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 38759
+# Number of unique hostnames: 38733
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -15003,6 +15003,8 @@
 :: api.convertkit.com
 0.0.0.0 api.coolguang.com
 :: api.coolguang.com
+0.0.0.0 api.cortana.ai
+:: api.cortana.ai
 0.0.0.0 api.cpu.baidu.com
 :: api.cpu.baidu.com
 0.0.0.0 api.cupid.iqiyi.com
@@ -16285,8 +16287,6 @@
 :: atiws.aipai.com
 0.0.0.0 atkins.vo.llnwd.net
 :: atkins.vo.llnwd.net
-0.0.0.0 atkt.markv.in
-:: atkt.markv.in
 0.0.0.0 atlas.astrology.com
 :: atlas.astrology.com
 0.0.0.0 atlas.services.ou.edu
@@ -16881,6 +16881,8 @@
 :: b4.6dad.com
 0.0.0.0 b4.rivalgaming.com
 :: b4.rivalgaming.com
+0.0.0.0 b4.solarporn.net
+:: b4.solarporn.net
 0.0.0.0 b4.toparcadehits.com
 :: b4.toparcadehits.com
 0.0.0.0 b4.yahoo.co.jp
@@ -19139,8 +19141,6 @@
 :: blog-aida.cba.pl
 0.0.0.0 blog.3kingsclothing.com
 :: blog.3kingsclothing.com
-0.0.0.0 blog.apoictech.com
-:: blog.apoictech.com
 0.0.0.0 blog.autourdeminuit.com
 :: blog.autourdeminuit.com
 0.0.0.0 blog.berniagabagus.com
@@ -19159,8 +19159,6 @@
 :: blog.infoaxe.com
 0.0.0.0 blog.insite.pt
 :: blog.insite.pt
-0.0.0.0 blog.instacart-clone.com
-:: blog.instacart-clone.com
 0.0.0.0 blog.iondaniel.ro
 :: blog.iondaniel.ro
 0.0.0.0 blog.ittune.net
@@ -19175,8 +19173,6 @@
 :: blog.kovida.in
 0.0.0.0 blog.laviajeria.com
 :: blog.laviajeria.com
-0.0.0.0 blog.meditacaosempre.com
-:: blog.meditacaosempre.com
 0.0.0.0 blog.mediumpromo.top
 :: blog.mediumpromo.top
 0.0.0.0 blog.memeal.ai
@@ -19203,8 +19199,6 @@
 :: blog.starweb.com.br
 0.0.0.0 blog.stopartrose.be
 :: blog.stopartrose.be
-0.0.0.0 blog.tactfudosan.com
-:: blog.tactfudosan.com
 0.0.0.0 blog.thaicarecloud.org
 :: blog.thaicarecloud.org
 0.0.0.0 blog.tlacademy.org
@@ -19225,8 +19219,6 @@
 :: bloggers.fuckyoucash.com
 0.0.0.0 blogroll.livedoor.net
 :: blogroll.livedoor.net
-0.0.0.0 blogs.ct.utfpr.edu.br
-:: blogs.ct.utfpr.edu.br
 0.0.0.0 blogs.itsynergy.co
 :: blogs.itsynergy.co
 0.0.0.0 blossom0012.web.fc2.com
@@ -20785,8 +20777,6 @@
 :: carambos.esy.es
 0.0.0.0 cardmusical.com.sapo.pt
 :: cardmusical.com.sapo.pt
-0.0.0.0 cardosoebaroni.adv.br
-:: cardosoebaroni.adv.br
 0.0.0.0 cards.virtuagirlhd.com
 :: cards.virtuagirlhd.com
 0.0.0.0 cardserviceics-1t9y4rteg.logorder.com
@@ -26799,8 +26789,6 @@
 :: data.emimino.cz
 0.0.0.0 data.gametree.tw
 :: data.gametree.tw
-0.0.0.0 data.iain-manado.ac.id
-:: data.iain-manado.ac.id
 0.0.0.0 data.imakenews.com
 :: data.imakenews.com
 0.0.0.0 data.initialcontroledge.info
@@ -27469,8 +27457,6 @@
 :: dev.cenov.fr
 0.0.0.0 dev.chambredhotebressuire.com
 :: dev.chambredhotebressuire.com
-0.0.0.0 dev.colombiafacil.com
-:: dev.colombiafacil.com
 0.0.0.0 dev.comstockcompanies.com
 :: dev.comstockcompanies.com
 0.0.0.0 dev.dawnbreaker.com
@@ -27549,8 +27535,6 @@
 :: developer.qbicblack.com
 0.0.0.0 developer23-fanpage.new-verifikasi-fanpage89.tk
 :: developer23-fanpage.new-verifikasi-fanpage89.tk
-0.0.0.0 developing.soulbrights.com
-:: developing.soulbrights.com
 0.0.0.0 development.susteen.nl
 :: development.susteen.nl
 0.0.0.0 device-fingerprintdb-v1.s3.amazonaws.com
@@ -27815,8 +27799,6 @@
 :: dispatcher.upmc.uc.cn
 0.0.0.0 dispenser-rtb.sape.ru
 :: dispenser-rtb.sape.ru
-0.0.0.0 disperumkim.baliprov.go.id
-:: disperumkim.baliprov.go.id
 0.0.0.0 display.360totalsecurity.com
 :: display.360totalsecurity.com
 0.0.0.0 display.ad.daum.net
@@ -28181,8 +28163,6 @@
 :: do67etikr7pwz.cloudfront.net
 0.0.0.0 do69ll745l27z.cloudfront.net
 :: do69ll745l27z.cloudfront.net
-0.0.0.0 doanthanhnien.spktvinh.edu.vn
-:: doanthanhnien.spktvinh.edu.vn
 0.0.0.0 doc.doc.instruction.ukfrn.co.uk
 :: doc.doc.instruction.ukfrn.co.uk
 0.0.0.0 doc.go.sohu.com
@@ -28229,8 +28209,6 @@
 :: dodian.site50.net
 0.0.0.0 dofeb.frenchgerlemanelectric.com
 :: dofeb.frenchgerlemanelectric.com
-0.0.0.0 dog-mdfc.sakura.ne.jp
-:: dog-mdfc.sakura.ne.jp
 0.0.0.0 dog.halfbirthdayproducts.com
 :: dog.halfbirthdayproducts.com
 0.0.0.0 dogus-ads-cdn.dygdigital.com
@@ -29145,8 +29123,6 @@
 :: e.1zq4lj.cn
 0.0.0.0 e.2t4um.cn
 :: e.2t4um.cn
-0.0.0.0 e.38ursg.cn
-:: e.38ursg.cn
 0.0.0.0 e.3nqc6b.cn
 :: e.3nqc6b.cn
 0.0.0.0 e.46kxj.cn
@@ -34825,6 +34801,8 @@
 :: hk.napi.ucweb.com
 0.0.0.0 hk168.edo2008.com
 :: hk168.edo2008.com
+0.0.0.0 hk2.settings.data.microsoft.com.akadns.net
+:: hk2.settings.data.microsoft.com.akadns.net
 0.0.0.0 hk2.wns.windows.com
 :: hk2.wns.windows.com
 0.0.0.0 hk2sch130020721.wns.windows.com
@@ -35489,8 +35467,6 @@
 :: i.gdt.qq.com
 0.0.0.0 i.go.sohu.com
 :: i.go.sohu.com
-0.0.0.0 i.haloapps.com
-:: i.haloapps.com
 0.0.0.0 i.holalauncher.com
 :: i.holalauncher.com
 0.0.0.0 i.hzblic.com
@@ -37165,8 +37141,6 @@
 :: inte.sogou.com
 0.0.0.0 inte.theta.sogoucdn.com
 :: inte.theta.sogoucdn.com
-0.0.0.0 inted.org.za
-:: inted.org.za
 0.0.0.0 intelli.ageuk.org.uk
 :: intelli.ageuk.org.uk
 0.0.0.0 intelligence.dgmsearchlab.com
@@ -38877,8 +38851,6 @@
 :: kitchen-island.mensk.us
 0.0.0.0 kitebersama.web.id
 :: kitebersama.web.id
-0.0.0.0 kitkatmatcha.synology.me
-:: kitkatmatcha.synology.me
 0.0.0.0 kittengarden.gb.net
 :: kittengarden.gb.net
 0.0.0.0 kittoyakudatu.web.fc2.com
@@ -39193,8 +39165,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -41883,8 +41853,6 @@
 :: major-appl.ranges-coo.ranges-sto.dll-offer-items.com
 0.0.0.0 maka.ken-shin.net
 :: maka.ken-shin.net
-0.0.0.0 makanankhasjogya.000webhostapp.com
-:: makanankhasjogya.000webhostapp.com
 0.0.0.0 make-money.shengen.ru
 :: make-money.shengen.ru
 0.0.0.0 makeitandshakeit.webcindario.com
@@ -42729,8 +42697,6 @@
 :: mennber.sgx7k7cnu4qk6vp2w.gdn
 0.0.0.0 menshealth.daily.us.com
 :: menshealth.daily.us.com
-0.0.0.0 mentes.bolt.hu
-:: mentes.bolt.hu
 0.0.0.0 mephisto.nd.e-wro.pl
 :: mephisto.nd.e-wro.pl
 0.0.0.0 mepra.blautechnology.cl
@@ -43943,8 +43909,6 @@
 :: mo.res.wpscdn.cn
 0.0.0.0 mo.spaces.ru
 :: mo.spaces.ru
-0.0.0.0 mo.test.haloapps.com
-:: mo.test.haloapps.com
 0.0.0.0 mo5kx7liz2z7mtr8jdb4.littlematchagirl.com.au
 :: mo5kx7liz2z7mtr8jdb4.littlematchagirl.com.au
 0.0.0.0 mob10.cqjktj.com
@@ -49565,6 +49529,8 @@
 :: pcbutts1-therealtruth.blogspot.com
 0.0.0.0 pcd.autohome.com.cn
 :: pcd.autohome.com.cn
+0.0.0.0 pci.xxxity.com
+:: pci.xxxity.com
 0.0.0.0 pcil.blufysh.com
 :: pcil.blufysh.com
 0.0.0.0 pcinfo.secl.cc
@@ -52987,8 +52953,6 @@
 :: rarabarnfi.hotmail.ru
 0.0.0.0 ras.infynetz.com
 :: ras.infynetz.com
-0.0.0.0 rashhgames4u.000webhostapp.com
-:: rashhgames4u.000webhostapp.com
 0.0.0.0 raskrutka.ucoz.com
 :: raskrutka.ucoz.com
 0.0.0.0 rasppalm.brightfuture.biz
@@ -54137,8 +54101,6 @@
 :: roiq-vice.ranker.com
 0.0.0.0 roitrack.directdisplayad.com
 :: roitrack.directdisplayad.com
-0.0.0.0 roksolana.zp.ua
-:: roksolana.zp.ua
 0.0.0.0 rolemodelstreetteam.invasioncrew.com
 :: rolemodelstreetteam.invasioncrew.com
 0.0.0.0 rollingwood.logs.roku.com
@@ -56169,8 +56131,6 @@
 :: sdn.scset.com.cn
 0.0.0.0 sdn1kaliawi.sch.id
 :: sdn1kaliawi.sch.id
-0.0.0.0 sdn36pekanbaru.sch.id
-:: sdn36pekanbaru.sch.id
 0.0.0.0 sdn3labuhandalam.sch.id
 :: sdn3labuhandalam.sch.id
 0.0.0.0 sdn5bumiwaras.sch.id
@@ -57343,8 +57303,6 @@
 :: setupoin17.000webhostapp.com
 0.0.0.0 setupupgrade12.thepointofforcontentingperfect.win
 :: setupupgrade12.thepointofforcontentingperfect.win
-0.0.0.0 sever.likechrisktivu.com
-:: sever.likechrisktivu.com
 0.0.0.0 sevise-notification.com.topanimationgroup.com
 :: sevise-notification.com.topanimationgroup.com
 0.0.0.0 sevise-notification.rccgnaprotocol.org
@@ -61303,8 +61261,6 @@
 :: t.xtubetv.net
 0.0.0.0 t.ymlp275.net
 :: t.ymlp275.net
-0.0.0.0 t0.ssl.ak.tiles.virtualearth.net
-:: t0.ssl.ak.tiles.virtualearth.net
 0.0.0.0 t01.proximic.com
 :: t01.proximic.com
 0.0.0.0 t0x529rn84tpw7sp62un.businessrulesanalysis.com
@@ -61475,8 +61431,6 @@
 :: take5.real.com
 0.0.0.0 takemaruko.web.fc2.com
 :: takemaruko.web.fc2.com
-0.0.0.0 takosumi.sakura.ne.jp
-:: takosumi.sakura.ne.jp
 0.0.0.0 talanyuvraj.000webhostapp.com
 :: talanyuvraj.000webhostapp.com
 0.0.0.0 talesoftheslayer.bravejournal.com
@@ -61557,8 +61511,6 @@
 :: tas-si.toboads.com
 0.0.0.0 tas2.toboads.si
 :: tas2.toboads.si
-0.0.0.0 tasaico.net.pe
-:: tasaico.net.pe
 0.0.0.0 tasimbaba-niak.000webhostapp.com
 :: tasimbaba-niak.000webhostapp.com
 0.0.0.0 task.zla.se
@@ -62485,8 +62437,6 @@
 :: tokensale.xn--havve-7l1b.com
 0.0.0.0 tokmutualwealthportfolio.000webhostapp.com
 :: tokmutualwealthportfolio.000webhostapp.com
-0.0.0.0 tokoagung.web.id
-:: tokoagung.web.id
 0.0.0.0 tokoahbab.berniagabagus.com
 :: tokoahbab.berniagabagus.com
 0.0.0.0 tol-spoxy.spot.im
@@ -66173,8 +66123,6 @@
 :: users-help-centre.000webhostapp.com
 0.0.0.0 users.atw.hu
 :: users.atw.hu
-0.0.0.0 users.cjb.net
-:: users.cjb.net
 0.0.0.0 users.quantumgraph.com
 :: users.quantumgraph.com
 0.0.0.0 users16.jabry.com
@@ -66805,6 +66753,8 @@
 :: video.videos.vidto.me
 0.0.0.0 video.wap.mpush.qq.com
 :: video.wap.mpush.qq.com
+0.0.0.0 videoads-cloud.rovio.com
+:: videoads-cloud.rovio.com
 0.0.0.0 videoads.theonion.com
 :: videoads.theonion.com
 0.0.0.0 videoakama.web.fc2.com
@@ -69037,8 +68987,6 @@
 :: wor6.b6dfnahea.ns2.name
 0.0.0.0 worden.samenresultaat.nl
 :: worden.samenresultaat.nl
-0.0.0.0 wordpress-58925-804720.cloudwaysapps.com
-:: wordpress-58925-804720.cloudwaysapps.com
 0.0.0.0 wordpress.demo189.trust.vn
 :: wordpress.demo189.trust.vn
 0.0.0.0 wordpress.kikihairandbeauty.co.uk
