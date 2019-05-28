@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon May 27 05:51:55 CEST 2019
+# Last update: Tue May 28 05:56:20 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 38733
+# Number of unique hostnames: 38763
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3595,6 +3595,8 @@
 :: activity.app.autohome.com.cn
 0.0.0.0 activity.bayimob.com
 :: activity.bayimob.com
+0.0.0.0 activity.browser.intl.miui.com
+:: activity.browser.intl.miui.com
 0.0.0.0 activity.clotfun.xyz
 :: activity.clotfun.xyz
 0.0.0.0 activity.m.duiba.com.cn
@@ -15111,6 +15113,8 @@
 :: api.newad.ifeng.com
 0.0.0.0 api.newbelden.com
 :: api.newbelden.com
+0.0.0.0 api.newsfeed.intl.miui.com
+:: api.newsfeed.intl.miui.com
 0.0.0.0 api.nrelate.com
 :: api.nrelate.com
 0.0.0.0 api.oneaudience.com
@@ -22553,6 +22557,8 @@
 :: cj1.256.cc
 0.0.0.0 cjhq.baidu.com
 :: cjhq.baidu.com
+0.0.0.0 cjiv.chengjie168.com.cn
+:: cjiv.chengjie168.com.cn
 0.0.0.0 cjmooter.xcache.kinxcdn.com
 :: cjmooter.xcache.kinxcdn.com
 0.0.0.0 cjroq.bealge.sogou.com
@@ -23157,8 +23163,6 @@
 :: cloud.marccenido.com
 0.0.0.0 cloud.pdf.sukunstays.com
 :: cloud.pdf.sukunstays.com
-0.0.0.0 cloud.rovio.com
-:: cloud.rovio.com
 0.0.0.0 cloud.zyiis.net
 :: cloud.zyiis.net
 0.0.0.0 cloud02.conquistasc.com
@@ -26937,6 +26941,8 @@
 :: dbi1.surf-town.net
 0.0.0.0 dbimbem.axfree.com
 :: dbimbem.axfree.com
+0.0.0.0 dbnw.jyzmsy.com.cn
+:: dbnw.jyzmsy.com.cn
 0.0.0.0 dbs-237687635.000webhostapp.com
 :: dbs-237687635.000webhostapp.com
 0.0.0.0 dbs.autolatest.ro
@@ -29189,6 +29195,8 @@
 :: e.ejuen.com
 0.0.0.0 e.fbaix.com
 :: e.fbaix.com
+0.0.0.0 e.fdp29b.cn
+:: e.fdp29b.cn
 0.0.0.0 e.fimky.com
 :: e.fimky.com
 0.0.0.0 e.freewebhostingarea.com
@@ -29237,6 +29245,8 @@
 :: e.jltdbyq.com
 0.0.0.0 e.joyxv.com
 :: e.joyxv.com
+0.0.0.0 e.jzvog.cn
+:: e.jzvog.cn
 0.0.0.0 e.kde.cz
 :: e.kde.cz
 0.0.0.0 e.kewro.com
@@ -29331,6 +29341,10 @@
 :: e.vkjnd.com
 0.0.0.0 e.vpeny.com
 :: e.vpeny.com
+0.0.0.0 e.vpmjg.cn
+:: e.vpmjg.cn
+0.0.0.0 e.w6o2c.cn
+:: e.w6o2c.cn
 0.0.0.0 e.wcenr.com
 :: e.wcenr.com
 0.0.0.0 e.wduis.com
@@ -29357,6 +29371,8 @@
 :: e.yangjingbang.net
 0.0.0.0 e.ycuoj.com
 :: e.ycuoj.com
+0.0.0.0 e.ygqna.cn
+:: e.ygqna.cn
 0.0.0.0 e.yingchengtou.com
 :: e.yingchengtou.com
 0.0.0.0 e.ysdangan.com
@@ -31623,6 +31639,8 @@
 :: file.doc.viewer.salemgauch.com
 0.0.0.0 file.laurita.net
 :: file.laurita.net
+0.0.0.0 file.market.xiaomi.com
+:: file.market.xiaomi.com
 0.0.0.0 file.mm.co.kr
 :: file.mm.co.kr
 0.0.0.0 file.oculus-tech.com
@@ -33929,6 +33947,8 @@
 :: gz.hxdaka.com
 0.0.0.0 gzm.xzbu.com
 :: gzm.xzbu.com
+0.0.0.0 gzqroju.cinci.rr.com
+:: gzqroju.cinci.rr.com
 0.0.0.0 h-adashx.ut.taobao.com
 :: h-adashx.ut.taobao.com
 0.0.0.0 h-adashx4ae.ut.taobao.com
@@ -35297,6 +35317,8 @@
 :: hu.xbhy.com
 0.0.0.0 hu587tiugi.vv.cc
 :: hu587tiugi.vv.cc
+0.0.0.0 huangye.miui.com
+:: huangye.miui.com
 0.0.0.0 hub.adlpartner.com
 :: hub.adlpartner.com
 0.0.0.0 hubxt.redtube.com
@@ -40877,12 +40899,16 @@
 :: m.181mob.com
 0.0.0.0 m.1919388.net
 :: m.1919388.net
+0.0.0.0 m.1x3td.cn
+:: m.1x3td.cn
 0.0.0.0 m.1yjlm.com
 :: m.1yjlm.com
 0.0.0.0 m.24pga.cn
 :: m.24pga.cn
 0.0.0.0 m.3987.com
 :: m.3987.com
+0.0.0.0 m.408uo.cn
+:: m.408uo.cn
 0.0.0.0 m.41fsxa.cn
 :: m.41fsxa.cn
 0.0.0.0 m.448u79.cn
@@ -40913,6 +40939,8 @@
 :: m.649649.com
 0.0.0.0 m.6i9th.cn
 :: m.6i9th.cn
+0.0.0.0 m.6z1gf.cn
+:: m.6z1gf.cn
 0.0.0.0 m.7180443.com
 :: m.7180443.com
 0.0.0.0 m.77vcd.com
@@ -40929,6 +40957,8 @@
 :: m.980he.cn
 0.0.0.0 m.98tpof.cn
 :: m.98tpof.cn
+0.0.0.0 m.9r48f.cn
+:: m.9r48f.cn
 0.0.0.0 m.aangc.com
 :: m.aangc.com
 0.0.0.0 m.abfalse.cn
@@ -41223,6 +41253,8 @@
 :: m.jltdbyq.com
 0.0.0.0 m.joyxv.com
 :: m.joyxv.com
+0.0.0.0 m.jzvog.cn
+:: m.jzvog.cn
 0.0.0.0 m.kejet.net
 :: m.kejet.net
 0.0.0.0 m.kewro.com
@@ -41411,6 +41443,8 @@
 :: m.tfeic.com
 0.0.0.0 m.tiantianedu.net
 :: m.tiantianedu.net
+0.0.0.0 m.to9g1f.cn
+:: m.to9g1f.cn
 0.0.0.0 m.trb.com
 :: m.trb.com
 0.0.0.0 m.trk44.mobi
@@ -41419,12 +41453,16 @@
 :: m.tstore.co.kr
 0.0.0.0 m.tuopp.com
 :: m.tuopp.com
+0.0.0.0 m.tv12h.cn
+:: m.tv12h.cn
 0.0.0.0 m.usersonline.com
 :: m.usersonline.com
 0.0.0.0 m.vaxyz.com
 :: m.vaxyz.com
 0.0.0.0 m.vbinr.com
 :: m.vbinr.com
+0.0.0.0 m.vh92e.cn
+:: m.vh92e.cn
 0.0.0.0 m.vjuei.com
 :: m.vjuei.com
 0.0.0.0 m.vkjnd.com
@@ -41433,6 +41471,10 @@
 :: m.vpadn.com
 0.0.0.0 m.vpeny.com
 :: m.vpeny.com
+0.0.0.0 m.vpmjg.cn
+:: m.vpmjg.cn
+0.0.0.0 m.w6o2c.cn
+:: m.w6o2c.cn
 0.0.0.0 m.w720p.cn
 :: m.w720p.cn
 0.0.0.0 m.wankz.com
@@ -44373,6 +44415,8 @@
 :: ms127.0.0.101341.club
 0.0.0.0 msb2x6ef0qjnm1kbf0cy.thequalitycheck.com
 :: msb2x6ef0qjnm1kbf0cy.thequalitycheck.com
+0.0.0.0 msblhtsh.cinci.rr.com
+:: msblhtsh.cinci.rr.com
 0.0.0.0 msbmopod.vo.llnwd.net
 :: msbmopod.vo.llnwd.net
 0.0.0.0 msbrandent.vo.llnwd.net
@@ -45545,6 +45589,8 @@
 :: nlads.go2net.com
 0.0.0.0 nlazovic.mybesthost.com
 :: nlazovic.mybesthost.com
+0.0.0.0 nlccrunsemmvbbv.cinci.rr.com
+:: nlccrunsemmvbbv.cinci.rr.com
 0.0.0.0 nlconsulateorlandoorg.siteprotect.net
 :: nlconsulateorlandoorg.siteprotect.net
 0.0.0.0 nlog.baidu.com
@@ -51251,6 +51297,8 @@
 :: ppurifier.game.xiaomi.com
 0.0.0.0 pq.stat.ku6.com
 :: pq.stat.ku6.com
+0.0.0.0 pqqyhbff.cinci.rr.com
+:: pqqyhbff.cinci.rr.com
 0.0.0.0 pqtsordw.qhigh.com
 :: pqtsordw.qhigh.com
 0.0.0.0 pqwaker.altervista.org
@@ -54465,6 +54513,8 @@
 :: ry7c5.directadsopt.com
 0.0.0.0 rya.rockyou.com
 :: rya.rockyou.com
+0.0.0.0 ryadqsgyfwx.cinci.rr.com
+:: ryadqsgyfwx.cinci.rr.com
 0.0.0.0 ryszardmisiek.art.pl
 :: ryszardmisiek.art.pl
 0.0.0.0 rytutiy8it76ru5ey4w675e86r7.000webhostapp.com
@@ -57199,6 +57249,8 @@
 :: services.apple-security.khk0l3vf3.ilfsacademy.org
 0.0.0.0 services.avoidunlimitedaccount.com
 :: services.avoidunlimitedaccount.com
+0.0.0.0 services.brid.tv
+:: services.brid.tv
 0.0.0.0 services.brightline.tv
 :: services.brightline.tv
 0.0.0.0 services.hearstmags.com
@@ -61079,6 +61131,8 @@
 :: t-staging.powerreviews.com
 0.0.0.0 t.3apf.com
 :: t.3apf.com
+0.0.0.0 t.91dijiu.com
+:: t.91dijiu.com
 0.0.0.0 t.9gag.com
 :: t.9gag.com
 0.0.0.0 t.adbxb.cn
@@ -61591,6 +61645,8 @@
 :: td.xue63.com
 0.0.0.0 tdc.advertorials.dk
 :: tdc.advertorials.dk
+0.0.0.0 tdethzebgufhuqt.cinci.rr.com
+:: tdethzebgufhuqt.cinci.rr.com
 0.0.0.0 tdgzin36bqr86m89u4ks.bosch-web-marketing.co.uk
 :: tdgzin36bqr86m89u4ks.bosch-web-marketing.co.uk
 0.0.0.0 tdgzin36bqr86m89u4ks.mbservicesyorkshire.co.uk
@@ -64611,8 +64667,6 @@
 :: ttrade.elegance.bg
 0.0.0.0 tts.178ud.com
 :: tts.178ud.com
-0.0.0.0 ttsv2.shijiezhidao.com
-:: ttsv2.shijiezhidao.com
 0.0.0.0 ttt.fwq101.tk
 :: ttt.fwq101.tk
 0.0.0.0 ttts.miyue17.com
@@ -67367,6 +67421,8 @@
 :: vwxwhbsqh0a4fg2mbhuf.maherstcottage.com.au
 0.0.0.0 vxhft.saqibsiddiqui.com
 :: vxhft.saqibsiddiqui.com
+0.0.0.0 vxluvrwzs.cinci.rr.com
+:: vxluvrwzs.cinci.rr.com
 0.0.0.0 vxsgcfxr.beget.tech
 :: vxsgcfxr.beget.tech
 0.0.0.0 vxv.phre.net
@@ -69045,6 +69101,8 @@
 :: wp1.cor-natty.com
 0.0.0.0 wpa.qq.com
 :: wpa.qq.com
+0.0.0.0 wpad.cinci.rr.com
+:: wpad.cinci.rr.com
 0.0.0.0 wpad.fgppchg.fgpp.com
 :: wpad.fgppchg.fgpp.com
 0.0.0.0 wpc.32df9.rhocdn.net
@@ -72835,8 +72893,6 @@
 :: www.locatorprotocol.com
 0.0.0.0 www.locgest.com
 :: www.locgest.com
-0.0.0.0 www.log-in-verlag.de
-:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -76391,6 +76447,8 @@
 :: xjq.jxmqkj.com
 0.0.0.0 xjqxkn.freewww.info
 :: xjqxkn.freewww.info
+0.0.0.0 xkdi.jiaxinkang.cn
+:: xkdi.jiaxinkang.cn
 0.0.0.0 xlfstaxlrui.yi.org
 :: xlfstaxlrui.yi.org
 0.0.0.0 xlite.counterpath.com
@@ -76753,6 +76811,8 @@
 :: yatara.lmbbhutan.com
 0.0.0.0 yb.torchbrowser.com
 :: yb.torchbrowser.com
+0.0.0.0 ybhssnaemxyer.cinci.rr.com
+:: ybhssnaemxyer.cinci.rr.com
 0.0.0.0 ybinst0.ec.yimg.com
 :: ybinst0.ec.yimg.com
 0.0.0.0 ybinst1.ec.yimg.com
