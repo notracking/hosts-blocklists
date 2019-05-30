@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed May 29 05:52:55 CEST 2019
+# Last update: Thu May 30 05:45:21 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 38775
+# Number of unique hostnames: 38853
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -11415,8 +11415,6 @@
 :: adserver.merciless.localstars.com
 0.0.0.0 adserver.millionairemate.com
 :: adserver.millionairemate.com
-0.0.0.0 adserver.ministryofads.com
-:: adserver.ministryofads.com
 0.0.0.0 adserver.mmoguru.com
 :: adserver.mmoguru.com
 0.0.0.0 adserver.mobillex.com
@@ -11923,8 +11921,6 @@
 :: adsmart.yicha.cn
 0.0.0.0 adsmidlands.000webhostapp.com
 :: adsmidlands.000webhostapp.com
-0.0.0.0 adsmws.cloudapp.net
-:: adsmws.cloudapp.net
 0.0.0.0 adsnew.gsmarena.com
 :: adsnew.gsmarena.com
 0.0.0.0 adsnew.internethaber.com
@@ -14309,8 +14305,6 @@
 :: analytics.cocolog-nifty.com
 0.0.0.0 analytics.cohesionapps.com
 :: analytics.cohesionapps.com
-0.0.0.0 analytics.colacoweb.net
-:: analytics.colacoweb.net
 0.0.0.0 analytics.conmio.com
 :: analytics.conmio.com
 0.0.0.0 analytics.convertlanguage.com
@@ -14323,8 +14317,6 @@
 :: analytics.de.algolia.com
 0.0.0.0 analytics.degeeict.nl
 :: analytics.degeeict.nl
-0.0.0.0 analytics.digit.in
-:: analytics.digit.in
 0.0.0.0 analytics.disneyinternational.com
 :: analytics.disneyinternational.com
 0.0.0.0 analytics.dolansoft.org
@@ -14567,8 +14559,6 @@
 :: analytics.theminersunion.com
 0.0.0.0 analytics.thenest.com
 :: analytics.thenest.com
-0.0.0.0 analytics.thevideo.me
-:: analytics.thevideo.me
 0.0.0.0 analytics.thingx.tv
 :: analytics.thingx.tv
 0.0.0.0 analytics.tout.com
@@ -14671,8 +14661,6 @@
 :: anapixel.marca.com
 0.0.0.0 anapixel.telva.com
 :: anapixel.telva.com
-0.0.0.0 anayltics.kuikr.com
-:: anayltics.kuikr.com
 0.0.0.0 anbqjdoyw6wkmpeu.oldtrees.at
 :: anbqjdoyw6wkmpeu.oldtrees.at
 0.0.0.0 anchor.stailamedia.com
@@ -15517,22 +15505,30 @@
 :: app1.letitbefaster.life
 0.0.0.0 app1.letitbefaster.today
 :: app1.letitbefaster.today
+0.0.0.0 app1.letitbefaster.website
+:: app1.letitbefaster.website
 0.0.0.0 app2.downloadmacsoft.site
 :: app2.downloadmacsoft.site
 0.0.0.0 app2.downloadmacsoft.world
 :: app2.downloadmacsoft.world
 0.0.0.0 app2.letitbefaster.life
 :: app2.letitbefaster.life
+0.0.0.0 app2.letitbefaster.website
+:: app2.letitbefaster.website
 0.0.0.0 app2.letmacwork.world
 :: app2.letmacwork.world
 0.0.0.0 app2.letslowbefast.life
 :: app2.letslowbefast.life
 0.0.0.0 app3.letitbefaster.life
 :: app3.letitbefaster.life
+0.0.0.0 app3.letitbefaster.website
+:: app3.letitbefaster.website
 0.0.0.0 app3.letmacwork.world
 :: app3.letmacwork.world
 0.0.0.0 app4.letitbefaster.life
 :: app4.letitbefaster.life
+0.0.0.0 app4.letitbefaster.website
+:: app4.letitbefaster.website
 0.0.0.0 app4.letslowbefast.life
 :: app4.letslowbefast.life
 0.0.0.0 app4.letslowbefast.today
@@ -15545,6 +15541,8 @@
 :: app5.fastermac.tech
 0.0.0.0 app5.letitbefaster.life
 :: app5.letitbefaster.life
+0.0.0.0 app5.letitbefaster.website
+:: app5.letitbefaster.website
 0.0.0.0 app553348890online.000webhostapp.com
 :: app553348890online.000webhostapp.com
 0.0.0.0 app5766463432646.000webhostapp.com
@@ -18947,6 +18945,8 @@
 :: bill.agent.v-56.com
 0.0.0.0 bill.ecsuite.com
 :: bill.ecsuite.com
+0.0.0.0 bill.prosis-hors.ru
+:: bill.prosis-hors.ru
 0.0.0.0 bill4939.njealle.co.uk
 :: bill4939.njealle.co.uk
 0.0.0.0 billiard.design-ekb.ru
@@ -19767,8 +19767,6 @@
 :: bt641499.gotoip4.com
 0.0.0.0 btcgroup.lgg.ru
 :: btcgroup.lgg.ru
-0.0.0.0 btds.artplay.info
-:: btds.artplay.info
 0.0.0.0 btf-analytics.s3.amazonaws.com
 :: btf-analytics.s3.amazonaws.com
 0.0.0.0 btfile.mycosmetiks.fr
@@ -22671,8 +22669,6 @@
 :: clic-pub.fr.fm
 0.0.0.0 clic.cyberbrain.net
 :: clic.cyberbrain.net
-0.0.0.0 click-rtb-useast.kobenetwork.com
-:: click-rtb-useast.kobenetwork.com
 0.0.0.0 click.absoluteagency.com
 :: click.absoluteagency.com
 0.0.0.0 click.ad.nu-face.jp
@@ -22919,8 +22915,6 @@
 :: clickn.fang.com
 0.0.0.0 clickrp.ziyu.net
 :: clickrp.ziyu.net
-0.0.0.0 clickrtb-useast.kobenetwork.com
-:: clickrtb-useast.kobenetwork.com
 0.0.0.0 clicks.about.com
 :: clicks.about.com
 0.0.0.0 clicks.about.nl
@@ -25913,6 +25907,8 @@
 :: d2izezc8ujpkba.cloudfront.net
 0.0.0.0 d2jjzw81hqbuqv.cloudfront.net
 :: d2jjzw81hqbuqv.cloudfront.net
+0.0.0.0 d2k4es4l94a3cv.cloudfront.net
+:: d2k4es4l94a3cv.cloudfront.net
 0.0.0.0 d2k8yz7zlc0yyi.cloudfront.net
 :: d2k8yz7zlc0yyi.cloudfront.net
 0.0.0.0 d2kbaqwa2nt57l.cloudfront.net
@@ -26741,8 +26737,6 @@
 :: dascoin.prowly.com
 0.0.0.0 dascoininfo.blogspot.com
 :: dascoininfo.blogspot.com
-0.0.0.0 dasdada.fu.ck
-:: dasdada.fu.ck
 0.0.0.0 dasfdasfasdf.no-ip.info
 :: dasfdasfasdf.no-ip.info
 0.0.0.0 dash.prankvine.com
@@ -44221,6 +44215,8 @@
 :: mon.2os.cdnfarm18.com
 0.0.0.0 mon.2yf.cdnfarm18.com
 :: mon.2yf.cdnfarm18.com
+0.0.0.0 mon.allocine.fr
+:: mon.allocine.fr
 0.0.0.0 mon.cdnfarm18.com
 :: mon.cdnfarm18.com
 0.0.0.0 mon.majorserving.com
@@ -45203,6 +45199,8 @@
 :: network2.aufeminin.com
 0.0.0.0 networkads.devx.com
 :: networkads.devx.com
+0.0.0.0 neu.hansmuennich.de.baugebiet-stadlhof.de
+:: neu.hansmuennich.de.baugebiet-stadlhof.de
 0.0.0.0 neu.sat-immobilien.de
 :: neu.sat-immobilien.de
 0.0.0.0 nevada.freesite.host
@@ -48135,8 +48133,6 @@
 :: oxsferxtehxkuzaxdloa.littlematchagirl.com.au
 0.0.0.0 oyy.l2anons.ws
 :: oyy.l2anons.ws
-0.0.0.0 oz.ministryofads.com
-:: oz.ministryofads.com
 0.0.0.0 oz.valueclick.ne.jp
 :: oz.valueclick.ne.jp
 0.0.0.0 p-alpha.ooo.al
@@ -51647,8 +51643,6 @@
 :: promo.japanhdv.com
 0.0.0.0 promo.jeunette.net
 :: promo.jeunette.net
-0.0.0.0 promo.kobenetwork.com
-:: promo.kobenetwork.com
 0.0.0.0 promo.lifeselector.com
 :: promo.lifeselector.com
 0.0.0.0 promo.meexy.com
@@ -51759,8 +51753,6 @@
 :: promotions.sportingbet.com
 0.0.0.0 promotions.yahoo.com
 :: promotions.yahoo.com
-0.0.0.0 promotions.yourfirstmillion.biz
-:: promotions.yourfirstmillion.biz
 0.0.0.0 promotools.globalmailer.com
 :: promotools.globalmailer.com
 0.0.0.0 promotools.islive.nl
@@ -52095,8 +52087,6 @@
 :: ptool.barginginfrance.net
 0.0.0.0 ptp.lolco.net
 :: ptp.lolco.net
-0.0.0.0 ptrack.betaout.com
-:: ptrack.betaout.com
 0.0.0.0 ptracker.be2.com
 :: ptracker.be2.com
 0.0.0.0 ptrads.mp3.com
@@ -54409,8 +54399,6 @@
 :: rtb-p.kejet.net
 0.0.0.0 rtb-pclick.secure.yahoo.com
 :: rtb-pclick.secure.yahoo.com
-0.0.0.0 rtb-useast.kobenetwork.com
-:: rtb-useast.kobenetwork.com
 0.0.0.0 rtb.adjux.com
 :: rtb.adjux.com
 0.0.0.0 rtb.appbid.com
@@ -57391,14 +57379,10 @@
 :: sexy.fling.com
 0.0.0.0 sexyteens.hol.es
 :: sexyteens.hol.es
-0.0.0.0 sf-3.east.kobenetwork.com
-:: sf-3.east.kobenetwork.com
 0.0.0.0 sf.impact.as
 :: sf.impact.as
 0.0.0.0 sf01.fastapi.net
 :: sf01.fastapi.net
-0.0.0.0 sf3.east.kobenetwork.com
-:: sf3.east.kobenetwork.com
 0.0.0.0 sfads.osdn.com
 :: sfads.osdn.com
 0.0.0.0 sfb-safetyunblock.000webhostapp.com
@@ -63035,6 +63019,8 @@
 :: track.igg.com
 0.0.0.0 track.ilovecpa.com
 :: track.ilovecpa.com
+0.0.0.0 track.imedia-eu.pro
+:: track.imedia-eu.pro
 0.0.0.0 track.impactfive.com
 :: track.impactfive.com
 0.0.0.0 track.india-marketing.in
@@ -64517,16 +64503,10 @@
 :: trk.anchtrk.com
 0.0.0.0 trk.apperol.com
 :: trk.apperol.com
-0.0.0.0 trk.bluepawmktg.com
-:: trk.bluepawmktg.com
 0.0.0.0 trk.bpcashtrk.com
 :: trk.bpcashtrk.com
-0.0.0.0 trk.brightsolarinc.com
-:: trk.brightsolarinc.com
 0.0.0.0 trk.cachemetracking.com
 :: trk.cachemetracking.com
-0.0.0.0 trk.clickthelinkheretoverifyme.com
-:: trk.clickthelinkheretoverifyme.com
 0.0.0.0 trk.dsllgal.com
 :: trk.dsllgal.com
 0.0.0.0 trk.dsv2trk.com
@@ -65917,6 +65897,8 @@
 :: url.jiemengle.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
+0.0.0.0 urladyms.newlogiq.com
+:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -66961,8 +66943,6 @@
 :: virilityhealth.vitamine-und-mehr.org
 0.0.0.0 virpngezwu.yrezonvtrkc.tk
 :: virpngezwu.yrezonvtrkc.tk
-0.0.0.0 virtual.thewhig.com
-:: virtual.thewhig.com
 0.0.0.0 virtualbartendertrack.beer.com
 :: virtualbartendertrack.beer.com
 0.0.0.0 virtualbook.web.fc2.com
@@ -69731,6 +69711,8 @@
 :: www.9malls.co.uk
 0.0.0.0 www.a.et.nytimes.com
 :: www.a.et.nytimes.com
+0.0.0.0 www.a.stat.xiaomi.com
+:: www.a.stat.xiaomi.com
 0.0.0.0 www.a1a.pl
 :: www.a1a.pl
 0.0.0.0 www.a1fax.com
@@ -69755,6 +69737,10 @@
 :: www.abmr2.net
 0.0.0.0 www.abonne-free.com
 :: www.abonne-free.com
+0.0.0.0 www.abtest.mistat.intl.xiaomi.com
+:: www.abtest.mistat.intl.xiaomi.com
+0.0.0.0 www.abtest.mistat.xiaomi.com
+:: www.abtest.mistat.xiaomi.com
 0.0.0.0 www.aca-uccle.be
 :: www.aca-uccle.be
 0.0.0.0 www.acansorga.it
@@ -69897,8 +69883,12 @@
 :: www.ads.bianca.net
 0.0.0.0 www.ads.bitservices.no
 :: www.ads.bitservices.no
+0.0.0.0 www.ads.chacomedia.com
+:: www.ads.chacomedia.com
 0.0.0.0 www.ads.mrejata.net
 :: www.ads.mrejata.net
+0.0.0.0 www.ads.proc.cc
+:: www.ads.proc.cc
 0.0.0.0 www.ads.wsrs.net
 :: www.ads.wsrs.net
 0.0.0.0 www.ads1.advance.de
@@ -69939,8 +69929,6 @@
 :: www.adserver.janes.org
 0.0.0.0 www.adserver.jolt.co.uk
 :: www.adserver.jolt.co.uk
-0.0.0.0 www.adserver.ministryofads.com
-:: www.adserver.ministryofads.com
 0.0.0.0 www.adserver.radiomediagroup.org
 :: www.adserver.radiomediagroup.org
 0.0.0.0 www.adserver.rankedbyreview.com
@@ -69985,6 +69973,10 @@
 :: www.adultlinkexchange.com
 0.0.0.0 www.adultsonlyvids.com
 :: www.adultsonlyvids.com
+0.0.0.0 www.adv.axiatraders.com
+:: www.adv.axiatraders.com
+0.0.0.0 www.adv.sec.intl.miui.com
+:: www.adv.sec.intl.miui.com
 0.0.0.0 www.advancedmaccleaner.com
 :: www.advancedmaccleaner.com
 0.0.0.0 www.advancesrl.eu
@@ -70149,8 +70141,18 @@
 :: www.amzgenerator.stream
 0.0.0.0 www.anacuamic.com
 :: www.anacuamic.com
+0.0.0.0 www.analytics-digit-in.cdn.ampproject.org
+:: www.analytics-digit-in.cdn.ampproject.org
+0.0.0.0 www.analytics.247sports.com
+:: www.analytics.247sports.com
+0.0.0.0 www.analytics.icons8.com
+:: www.analytics.icons8.com
 0.0.0.0 www.analytics.ihgip.net
 :: www.analytics.ihgip.net
+0.0.0.0 www.analytics.picsart.com
+:: www.analytics.picsart.com
+0.0.0.0 www.analytics.publitas.com
+:: www.analytics.publitas.com
 0.0.0.0 www.analytics.theminersunion.com
 :: www.analytics.theminersunion.com
 0.0.0.0 www.analytics.xcal.tv
@@ -70191,14 +70193,36 @@
 :: www.ap.cdn.survey.medallia.com
 0.0.0.0 www.api.ad.intl.xiaomi.com
 :: www.api.ad.intl.xiaomi.com
+0.0.0.0 www.api.ad.snappea.com
+:: www.api.ad.snappea.com
+0.0.0.0 www.api.ad.xiaomi.com
+:: www.api.ad.xiaomi.com
+0.0.0.0 www.api.admob.xiaomi.com
+:: www.api.admob.xiaomi.com
+0.0.0.0 www.api.axiatraders.com
+:: www.api.axiatraders.com
+0.0.0.0 www.api.brs.intl.miui.com
+:: www.api.brs.intl.miui.com
+0.0.0.0 www.api.collect.data.intl.miui.com
+:: www.api.collect.data.intl.miui.com
 0.0.0.0 www.api.convertkit.com
 :: www.api.convertkit.com
+0.0.0.0 www.api.d.xiaomi.com
+:: www.api.d.xiaomi.com
+0.0.0.0 www.api.hybrid.intl.xiaomi.com
+:: www.api.hybrid.intl.xiaomi.com
+0.0.0.0 www.api.sec.intl.miui.com
+:: www.api.sec.intl.miui.com
+0.0.0.0 www.api.setting.intl.miui.com
+:: www.api.setting.intl.miui.com
 0.0.0.0 www.apmc.com.hk
 :: www.apmc.com.hk
 0.0.0.0 www.apmmc.it
 :: www.apmmc.it
 0.0.0.0 www.app.convertkit.com
 :: www.app.convertkit.com
+0.0.0.0 www.app.storage.yunvm.com
+:: www.app.storage.yunvm.com
 0.0.0.0 www.appafile.com
 :: www.appafile.com
 0.0.0.0 www.appartamentiflora.com
@@ -70251,10 +70275,14 @@
 :: www.applicationsdeliveryupdate.com
 0.0.0.0 www.applicationwiki.com
 :: www.applicationwiki.com
+0.0.0.0 www.applog.camera360.com
+:: www.applog.camera360.com
 0.0.0.0 www.apponic.com
 :: www.apponic.com
 0.0.0.0 www.appoutpost.com
 :: www.appoutpost.com
+0.0.0.0 www.apps.id.net
+:: www.apps.id.net
 0.0.0.0 www.appyet.com
 :: www.appyet.com
 0.0.0.0 www.aproso.de
@@ -70341,6 +70369,8 @@
 :: www.auditcitoyen.be
 0.0.0.0 www.aussiemoneymethod.com
 :: www.aussiemoneymethod.com
+0.0.0.0 www.authbe.sec.intl.miui.com
+:: www.authbe.sec.intl.miui.com
 0.0.0.0 www.automac.it
 :: www.automac.it
 0.0.0.0 www.autoriparazioniflorisgiorgio.com
@@ -70451,6 +70481,10 @@
 :: www.bfsa.gov.bd
 0.0.0.0 www.bgrea.karoo.net
 :: www.bgrea.karoo.net
+0.0.0.0 www.bi-collector.oneapm.com
+:: www.bi-collector.oneapm.com
+0.0.0.0 www.bid.axiatraders.com
+:: www.bid.axiatraders.com
 0.0.0.0 www.biddingx.com
 :: www.biddingx.com
 0.0.0.0 www.bidwee.com
@@ -70571,8 +70605,6 @@
 :: www.bshare.cn
 0.0.0.0 www.bt.emsecure.net
 :: www.bt.emsecure.net
-0.0.0.0 www.btds.artplay.info
-:: www.btds.artplay.info
 0.0.0.0 www.btf-analytics.s3.amazonaws.com
 :: www.btf-analytics.s3.amazonaws.com
 0.0.0.0 www.buckeyecentralrailroad.org
@@ -70711,6 +70743,14 @@
 :: www.cbpassiveincome.com
 0.0.0.0 www.cbproads.com
 :: www.cbproads.com
+0.0.0.0 www.cc.sys.intl.xiaomi.com
+:: www.cc.sys.intl.xiaomi.com
+0.0.0.0 www.cc.sys.miui.com
+:: www.cc.sys.miui.com
+0.0.0.0 www.ccc.sys.intl.xiaomi.com
+:: www.ccc.sys.intl.xiaomi.com
+0.0.0.0 www.ccc.sys.miui.com
+:: www.ccc.sys.miui.com
 0.0.0.0 www.cccwwwr.com
 :: www.cccwwwr.com
 0.0.0.0 www.cclickbank.com
@@ -70723,6 +70763,10 @@
 :: www.cctvalberton.co.za
 0.0.0.0 www.cdirealestate.com
 :: www.cdirealestate.com
+0.0.0.0 www.cdn.ad.xiaomi.com
+:: www.cdn.ad.xiaomi.com
+0.0.0.0 www.cdn.beginads.com
+:: www.cdn.beginads.com
 0.0.0.0 www.cdn.merklesearch.com
 :: www.cdn.merklesearch.com
 0.0.0.0 www.cdn.survey.medallia.com
@@ -70825,6 +70869,8 @@
 :: www.cleverdotl.top
 0.0.0.0 www.click.alibaba.com
 :: www.click.alibaba.com
+0.0.0.0 www.click.axiatraders.com
+:: www.click.axiatraders.com
 0.0.0.0 www.click10.com
 :: www.click10.com
 0.0.0.0 www.clickaction.net
@@ -71051,10 +71097,14 @@
 :: www.customads.net
 0.0.0.0 www.cutillas.fr
 :: www.cutillas.fr
+0.0.0.0 www.cvent.axiatraders.com
+:: www.cvent.axiatraders.com
 0.0.0.0 www.cvshopfactory.com
 :: www.cvshopfactory.com
 0.0.0.0 www.cwahi.net
 :: www.cwahi.net
+0.0.0.0 www.cws.conviva.com
+:: www.cws.conviva.com
 0.0.0.0 www.cycleuniverseupdate.com
 :: www.cycleuniverseupdate.com
 0.0.0.0 www.czzcjlb.com
@@ -71081,6 +71131,14 @@
 :: www.darmowe-wrozby.com
 0.0.0.0 www.daspar.net
 :: www.daspar.net
+0.0.0.0 www.data.mistat.intl.xiaomi.com
+:: www.data.mistat.intl.xiaomi.com
+0.0.0.0 www.data.mistat.xiaomi.com
+:: www.data.mistat.xiaomi.com
+0.0.0.0 www.data.sec.intl.miui.com
+:: www.data.sec.intl.miui.com
+0.0.0.0 www.datacollect.vmall.com
+:: www.datacollect.vmall.com
 0.0.0.0 www.dataforce.net
 :: www.dataforce.net
 0.0.0.0 www.datamarkets.com.ar
@@ -71259,6 +71317,8 @@
 :: www.e-traffic.com
 0.0.0.0 www.e-trends.com
 :: www.e-trends.com
+0.0.0.0 www.e.ad.xiaomi.com
+:: www.e.ad.xiaomi.com
 0.0.0.0 www.earnmoneyonline.in
 :: www.earnmoneyonline.in
 0.0.0.0 www.earthwax.top
@@ -71357,6 +71417,8 @@
 :: www.emar.com.cn
 0.0.0.0 www.emarketmakers.com
 :: www.emarketmakers.com
+0.0.0.0 www.embed.sendtonews.com
+:: www.embed.sendtonews.com
 0.0.0.0 www.empolio.com
 :: www.empolio.com
 0.0.0.0 www.emporium-group.pl
@@ -71515,6 +71577,8 @@
 :: www.fatherlinh.com
 0.0.0.0 www.fblaster.com
 :: www.fblaster.com
+0.0.0.0 www.fcanr.tracking.miui.com
+:: www.fcanr.tracking.miui.com
 0.0.0.0 www.fchabkirchen-frauenberg.de
 :: www.fchabkirchen-frauenberg.de
 0.0.0.0 www.feddoctor.com
@@ -71587,6 +71651,8 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
+0.0.0.0 www.fishingtackleindia.com
+:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
@@ -71601,6 +71667,8 @@
 :: www.flamarimports.com.br
 0.0.0.0 www.flamingo-shop.eu
 :: www.flamingo-shop.eu
+0.0.0.0 www.flash.sec.intl.miui.com
+:: www.flash.sec.intl.miui.com
 0.0.0.0 www.flashflood.com
 :: www.flashflood.com
 0.0.0.0 www.flavonmax.com
@@ -71769,6 +71837,8 @@
 :: www.gentechimpianti.com
 0.0.0.0 www.geocities.jp
 :: www.geocities.jp
+0.0.0.0 www.geofence.sys.miui.com
+:: www.geofence.sys.miui.com
 0.0.0.0 www.geoffwhite.ws
 :: www.geoffwhite.ws
 0.0.0.0 www.geolocation.performgroup.com
@@ -71819,6 +71889,8 @@
 :: www.gjscomputerservices.com.au
 0.0.0.0 www.gliamicidellunicef.it
 :: www.gliamicidellunicef.it
+0.0.0.0 www.globalapi.ad.xiaomi.com
+:: www.globalapi.ad.xiaomi.com
 0.0.0.0 www.globalbuffer.com
 :: www.globalbuffer.com
 0.0.0.0 www.globalchristiantrust.com
@@ -71853,6 +71925,8 @@
 :: www.gome.com.cn
 0.0.0.0 www.gonimar.onored.com
 :: www.gonimar.onored.com
+0.0.0.0 www.goodblock.gladly.io
+:: www.goodblock.gladly.io
 0.0.0.0 www.googkle.com
 :: www.googkle.com
 0.0.0.0 www.google.com-document-view.alibabatradegroup.com
@@ -71885,6 +71959,8 @@
 :: www.gran.mari-el.ru
 0.0.0.0 www.granmarquise.com.br
 :: www.granmarquise.com.br
+0.0.0.0 www.graph.accountkit.com
+:: www.graph.accountkit.com
 0.0.0.0 www.gratis-counter-gratis.de
 :: www.gratis-counter-gratis.de
 0.0.0.0 www.gratis-toplist.de
@@ -72025,8 +72101,6 @@
 :: www.higame123.com
 0.0.0.0 www.highspeedtesting.com
 :: www.highspeedtesting.com
-0.0.0.0 www.highsport.se
-:: www.highsport.se
 0.0.0.0 www.hilfe-forum.info
 :: www.hilfe-forum.info
 0.0.0.0 www.himandy.com
@@ -72147,6 +72221,10 @@
 :: www.hotelnidodaquila.it
 0.0.0.0 www.hotranks.com
 :: www.hotranks.com
+0.0.0.0 www.hotstar.pubnub.net
+:: www.hotstar.pubnub.net
+0.0.0.0 www.howupdateworks.amazingupdates4youtoday.website
+:: www.howupdateworks.amazingupdates4youtoday.website
 0.0.0.0 www.html-email-marketing.com
 :: www.html-email-marketing.com
 0.0.0.0 www.https-paypal-com.tk
@@ -72211,6 +72289,8 @@
 :: www.icloud-appleld.com
 0.0.0.0 www.icloud-rastrear.com
 :: www.icloud-rastrear.com
+0.0.0.0 www.icloud.com-locations.in
+:: www.icloud.com-locations.in
 0.0.0.0 www.icloudsiphone.com
 :: www.icloudsiphone.com
 0.0.0.0 www.icp.edu.pk
@@ -72279,6 +72359,14 @@
 :: www.impm.upel.edu.ve
 0.0.0.0 www.impresadeambrosis.it
 :: www.impresadeambrosis.it
+0.0.0.0 www.in-star.videoplaza.tv
+:: www.in-star.videoplaza.tv
+0.0.0.0 www.in-starlive-preroll.videoplaza.tv
+:: www.in-starlive-preroll.videoplaza.tv
+0.0.0.0 www.in-starlive.videoplaza.tv
+:: www.in-starlive.videoplaza.tv
+0.0.0.0 www.in-viacom18.videoplaza.tv
+:: www.in-viacom18.videoplaza.tv
 0.0.0.0 www.inari.net
 :: www.inari.net
 0.0.0.0 www.incentivenetworks2.com
@@ -72917,6 +73005,8 @@
 :: www.locatorprotocol.com
 0.0.0.0 www.locgest.com
 :: www.locgest.com
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -72989,6 +73079,8 @@
 :: www.macaheadapps.com
 0.0.0.0 www.macfillerck.com
 :: www.macfillerck.com
+0.0.0.0 www.mackeeperapp.zeobit.com
+:: www.mackeeperapp.zeobit.com
 0.0.0.0 www.macombdisplayads.com
 :: www.macombdisplayads.com
 0.0.0.0 www.macro1990.it
@@ -73199,8 +73291,6 @@
 :: www.minero-proxy-03.now.sh
 0.0.0.0 www.minesage.com
 :: www.minesage.com
-0.0.0.0 www.ministryofads.com
-:: www.ministryofads.com
 0.0.0.0 www.minkssalon.com
 :: www.minkssalon.com
 0.0.0.0 www.mistrzmotywacji.pl
@@ -73415,6 +73505,8 @@
 :: www.netzathleten.de
 0.0.0.0 www.neumayr-alkoven.com
 :: www.neumayr-alkoven.com
+0.0.0.0 www.new.api.ad.xiaomi.com
+:: www.new.api.ad.xiaomi.com
 0.0.0.0 www.newagemosaic.com
 :: www.newagemosaic.com
 0.0.0.0 www.newsectorbs.top
@@ -73873,6 +73965,8 @@
 :: www.portaldimensional.com
 0.0.0.0 www.portalenviroment.com
 :: www.portalenviroment.com
+0.0.0.0 www.postmediamontrealgazette2.files.wordpress.com
+:: www.postmediamontrealgazette2.files.wordpress.com
 0.0.0.0 www.postnewsads.com
 :: www.postnewsads.com
 0.0.0.0 www.power-emailer.com
@@ -73951,6 +74045,8 @@
 :: www.promomasters.at
 0.0.0.0 www.promonster.pl
 :: www.promonster.pl
+0.0.0.0 www.promotion.com-rewards.club
+:: www.promotion.com-rewards.club
 0.0.0.0 www.promotions.yahoo.com
 :: www.promotions.yahoo.com
 0.0.0.0 www.promumedical.com
@@ -73987,6 +74083,10 @@
 :: www.pspmrsmtumpat.com
 0.0.0.0 www.pstats.com
 :: www.pstats.com
+0.0.0.0 www.pub.axiatraders.com
+:: www.pub.axiatraders.com
+0.0.0.0 www.pull-3045.kxcdn.com
+:: www.pull-3045.kxcdn.com
 0.0.0.0 www.pulsefl.0catch.com
 :: www.pulsefl.0catch.com
 0.0.0.0 www.punishtube.com
@@ -74211,6 +74311,10 @@
 :: www.rooversadvocatuur.nl
 0.0.0.0 www.rossorelli.ru
 :: www.rossorelli.ru
+0.0.0.0 www.rotator.axiatraders.com
+:: www.rotator.axiatraders.com
+0.0.0.0 www.rotator.beginads.com
+:: www.rotator.beginads.com
 0.0.0.0 www.roulettebotplus.com
 :: www.roulettebotplus.com
 0.0.0.0 www.roxyaffiliates.com
@@ -74225,6 +74329,8 @@
 :: www.rsrly.com
 0.0.0.0 www.rt-ns.ru
 :: www.rt-ns.ru
+0.0.0.0 www.rtb-adsterra.flshtrk.store
+:: www.rtb-adsterra.flshtrk.store
 0.0.0.0 www.rtcode.com
 :: www.rtcode.com
 0.0.0.0 www.runnergamesch.com
@@ -74327,6 +74433,10 @@
 :: www.scoutvda.it
 0.0.0.0 www.sdfbd.org
 :: www.sdfbd.org
+0.0.0.0 www.sdkconfig.ad.intl.xiaomi.com
+:: www.sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 www.sdkconfig.ad.xiaomi.com
+:: www.sdkconfig.ad.xiaomi.com
 0.0.0.0 www.sdlpgift.com
 :: www.sdlpgift.com
 0.0.0.0 www.sea1.cdn.survey.medallia.com
@@ -74383,6 +74493,8 @@
 :: www.servermax.de
 0.0.0.0 www.servertasarimbu.com
 :: www.servertasarimbu.com
+0.0.0.0 www.service.videoplaza.tv
+:: www.service.videoplaza.tv
 0.0.0.0 www.servipisos.com.ar
 :: www.servipisos.com.ar
 0.0.0.0 www.sexegratis.com
@@ -74399,6 +74511,8 @@
 :: www.sfippa.com
 0.0.0.0 www.sgizmo.com
 :: www.sgizmo.com
+0.0.0.0 www.sgp.o2o.api.xiaomi.com
+:: www.sgp.o2o.api.xiaomi.com
 0.0.0.0 www.sgspeziapallamano.com
 :: www.sgspeziapallamano.com
 0.0.0.0 www.shadyacresminis.bravepages.com
@@ -74619,6 +74733,8 @@
 :: www.srn.net.in
 0.0.0.0 www.srox.com
 :: www.srox.com
+0.0.0.0 www.ssp.ad.xiaomi.com
+:: www.ssp.ad.xiaomi.com
 0.0.0.0 www.ssstuitui1999.com
 :: www.ssstuitui1999.com
 0.0.0.0 www.sstats.kroger.com
@@ -74673,6 +74789,8 @@
 :: www.stkjw.net
 0.0.0.0 www.stopkomornikowi.pl
 :: www.stopkomornikowi.pl
+0.0.0.0 www.storeconfig.mistat.intl.xiaomi.com
+:: www.storeconfig.mistat.intl.xiaomi.com
 0.0.0.0 www.straight-up.ca
 :: www.straight-up.ca
 0.0.0.0 www.stratega-online.de
@@ -74731,6 +74849,8 @@
 :: www.superbanner.org
 0.0.0.0 www.superinternetdeals.com
 :: www.superinternetdeals.com
+0.0.0.0 www.superlogout.github.io
+:: www.superlogout.github.io
 0.0.0.0 www.supersharewareman.com
 :: www.supersharewareman.com
 0.0.0.0 www.supplementum.pl
@@ -74885,6 +75005,12 @@
 :: www.terrex.pl
 0.0.0.0 www.tesimages.com
 :: www.tesimages.com
+0.0.0.0 www.test.ad.xiaomi.com
+:: www.test.ad.xiaomi.com
+0.0.0.0 www.test.e.ad.xiaomi.com
+:: www.test.e.ad.xiaomi.com
+0.0.0.0 www.test.new.api.ad.xiaomi.com
+:: www.test.new.api.ad.xiaomi.com
 0.0.0.0 www.testracking.com
 :: www.testracking.com
 0.0.0.0 www.texelvakantiehuisje.nl
@@ -75051,6 +75177,12 @@
 :: www.tracker.peerclick.io
 0.0.0.0 www.trackhost.com
 :: www.trackhost.com
+0.0.0.0 www.tracking.beginads.com
+:: www.tracking.beginads.com
+0.0.0.0 www.tracking.intl.miui.com
+:: www.tracking.intl.miui.com
+0.0.0.0 www.tracking.miui.com
+:: www.tracking.miui.com
 0.0.0.0 www.trackingclick.net
 :: www.trackingclick.net
 0.0.0.0 www.traders-forum.com
@@ -75153,6 +75285,8 @@
 :: www.tuttosessogratis.org
 0.0.0.0 www.tvblanket.com
 :: www.tvblanket.com
+0.0.0.0 www.tvmds.tvpassport.com
+:: www.tvmds.tvpassport.com
 0.0.0.0 www.tvnews.or.kr
 :: www.tvnews.or.kr
 0.0.0.0 www.tvpassport.com
@@ -75381,6 +75515,8 @@
 :: www.voucher-for-you.online
 0.0.0.0 www.vpromo.com
 :: www.vpromo.com
+0.0.0.0 www.vrl.m.conviva.com
+:: www.vrl.m.conviva.com
 0.0.0.0 www.vthought.com
 :: www.vthought.com
 0.0.0.0 www.vtoyshop.com
@@ -75585,6 +75721,16 @@
 :: www.ww-tv.net
 0.0.0.0 www.wwkiosk.com
 :: www.wwkiosk.com
+0.0.0.0 www.www.api.ad.intl.xiaomi.com
+:: www.www.api.ad.intl.xiaomi.com
+0.0.0.0 www.www.axiatraders.com
+:: www.www.axiatraders.com
+0.0.0.0 www.www.chacomedia.com
+:: www.www.chacomedia.com
+0.0.0.0 www.www.diptanuinfo.co.cc
+:: www.www.diptanuinfo.co.cc
+0.0.0.0 www.www.tvpassport.com
+:: www.www.tvpassport.com
 0.0.0.0 www.wwwoldnavy.com
 :: www.wwwoldnavy.com
 0.0.0.0 www.wwwsexmovies.com
@@ -75751,6 +75897,8 @@
 :: www.zaho.pl
 0.0.0.0 www.zal-inkasso.de
 :: www.zal-inkasso.de
+0.0.0.0 www.zamora.axiatraders.com
+:: www.zamora.axiatraders.com
 0.0.0.0 www.zamplus.com
 :: www.zamplus.com
 0.0.0.0 www.zapadserver.com
@@ -75769,6 +75917,8 @@
 :: www.zbippirad.info
 0.0.0.0 www.zctei.com
 :: www.zctei.com
+0.0.0.0 www.zee.cws.conviva.com
+:: www.zee.cws.conviva.com
 0.0.0.0 www.zenemuzeum.go.ro
 :: www.zenemuzeum.go.ro
 0.0.0.0 www.zennoa.com
@@ -75779,6 +75929,10 @@
 :: www.zergnet.com
 0.0.0.0 www.zespolbefree.pl
 :: www.zespolbefree.pl
+0.0.0.0 www.zeus.ad.intl.xiaomi.com
+:: www.zeus.ad.intl.xiaomi.com
+0.0.0.0 www.zeus.ad.xiaomi.com
+:: www.zeus.ad.xiaomi.com
 0.0.0.0 www.zfn5wua2d1.online
 :: www.zfn5wua2d1.online
 0.0.0.0 www.zgcslam.apnet.pl
@@ -76535,6 +76689,8 @@
 :: xmr.mining.be
 0.0.0.0 xn----8sblgmbj1a1bk8l.xn----161-4vemb6cjl7anbaea3afninj.xn--p1ai
 :: xn----8sblgmbj1a1bk8l.xn----161-4vemb6cjl7anbaea3afninj.xn--p1ai
+0.0.0.0 xn--as-wqa.org.pl
+:: xn--as-wqa.org.pl
 0.0.0.0 xn--d1abj0abs9d.in.ua
 :: xn--d1abj0abs9d.in.ua
 0.0.0.0 xn--e1aaajzchnkg.ru.com
