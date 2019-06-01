@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri May 31 07:02:18 CEST 2019
+# Last update: Sat Jun 1 05:53:19 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 38853
+# Number of unique hostnames: 38875
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2743,8 +2743,6 @@
 :: a.prisacom.com
 0.0.0.0 a.psxxw.cn
 :: a.psxxw.cn
-0.0.0.0 a.pub.network
-:: a.pub.network
 0.0.0.0 a.qiao024.com
 :: a.qiao024.com
 0.0.0.0 a.qinghua5.com
@@ -3119,6 +3117,8 @@
 :: aaa.dv0.info
 0.0.0.0 aaaaaa.icfoscolosoverato.it
 :: aaaaaa.icfoscolosoverato.it
+0.0.0.0 aaddss.tohomh.com
+:: aaddss.tohomh.com
 0.0.0.0 aads.treehugger.com
 :: aads.treehugger.com
 0.0.0.0 aagaou.wm.warmglow.org
@@ -3601,6 +3601,8 @@
 :: activity.clotfun.xyz
 0.0.0.0 activity.m.duiba.com.cn
 :: activity.m.duiba.com.cn
+0.0.0.0 activity.tuiapple.com
+:: activity.tuiapple.com
 0.0.0.0 activity.tuifish.com
 :: activity.tuifish.com
 0.0.0.0 activity.windows.com
@@ -15671,6 +15673,8 @@
 :: apple.mapconnect.info
 0.0.0.0 apple.phishing.at.all.possible.subdomins.of.gwtoys.cn
 :: apple.phishing.at.all.possible.subdomins.of.gwtoys.cn
+0.0.0.0 apple.pvxt.net
+:: apple.pvxt.net
 0.0.0.0 apple.quickparcelexpress.com
 :: apple.quickparcelexpress.com
 0.0.0.0 apple.support.verifyfmi.com
@@ -18945,8 +18949,6 @@
 :: bill.agent.v-56.com
 0.0.0.0 bill.ecsuite.com
 :: bill.ecsuite.com
-0.0.0.0 bill.prosis-hors.ru
-:: bill.prosis-hors.ru
 0.0.0.0 bill4939.njealle.co.uk
 :: bill4939.njealle.co.uk
 0.0.0.0 billiard.design-ekb.ru
@@ -26907,6 +26909,8 @@
 :: dazdqv.koll.pershoreairporttransfers.co.uk
 0.0.0.0 db.riskwaters.com
 :: db.riskwaters.com
+0.0.0.0 db.xiaoshuofuwuqi.com
+:: db.xiaoshuofuwuqi.com
 0.0.0.0 db.zurpit.com
 :: db.zurpit.com
 0.0.0.0 db1.fuz.cc
@@ -27625,6 +27629,8 @@
 :: dfyhnddsalog.7m.pl
 0.0.0.0 dfzenk6ej1plw.cloudfront.net
 :: dfzenk6ej1plw.cloudfront.net
+0.0.0.0 dg.egjq.com.cn
+:: dg.egjq.com.cn
 0.0.0.0 dg.gamebuffet.mobi
 :: dg.gamebuffet.mobi
 0.0.0.0 dg5thrrj8f.sm1qrqaeri.madpendesign.com.au
@@ -29133,6 +29139,8 @@
 :: e.2t4um.cn
 0.0.0.0 e.3nqc6b.cn
 :: e.3nqc6b.cn
+0.0.0.0 e.41zna.cn
+:: e.41zna.cn
 0.0.0.0 e.46kxj.cn
 :: e.46kxj.cn
 0.0.0.0 e.4tm8na.cn
@@ -29149,6 +29157,8 @@
 :: e.5qk4xi.cn
 0.0.0.0 e.60sk.ru
 :: e.60sk.ru
+0.0.0.0 e.6yw7j.cn
+:: e.6yw7j.cn
 0.0.0.0 e.7clink.com
 :: e.7clink.com
 0.0.0.0 e.7hd2ma.cn
@@ -29157,6 +29167,8 @@
 :: e.7hs3ja.cn
 0.0.0.0 e.7ogh2e.cn
 :: e.7ogh2e.cn
+0.0.0.0 e.80o4j.cn
+:: e.80o4j.cn
 0.0.0.0 e.82uxa.cn
 :: e.82uxa.cn
 0.0.0.0 e.91.com
@@ -29171,6 +29183,8 @@
 :: e.admin60.com
 0.0.0.0 e.aduiz.com
 :: e.aduiz.com
+0.0.0.0 e.ailix.cn
+:: e.ailix.cn
 0.0.0.0 e.analytics.yahoo.com
 :: e.analytics.yahoo.com
 0.0.0.0 e.baidu.com
@@ -29299,6 +29313,8 @@
 :: e.qiaoyuwang.com
 0.0.0.0 e.qiyunmuye.com
 :: e.qiyunmuye.com
+0.0.0.0 e.qj10b.cn
+:: e.qj10b.cn
 0.0.0.0 e.qjah62.com
 :: e.qjah62.com
 0.0.0.0 e.qq.com
@@ -29311,6 +29327,8 @@
 :: e.rgjrq.cn
 0.0.0.0 e.ricpt.com
 :: e.ricpt.com
+0.0.0.0 e.s0o5g.cn
+:: e.s0o5g.cn
 0.0.0.0 e.sbaoe.com
 :: e.sbaoe.com
 0.0.0.0 e.t71q.com
@@ -29769,8 +29787,6 @@
 :: eland.doublemax.net
 0.0.0.0 elbcradio.tcalr.org
 :: elbcradio.tcalr.org
-0.0.0.0 electricfence.levsantronic.ro
-:: electricfence.levsantronic.ro
 0.0.0.0 electro.demos.su
 :: electro.demos.su
 0.0.0.0 electrohemostasis.makemoneywithmegan.net
@@ -31217,6 +31233,8 @@
 :: fdads.sv.publicus.com
 0.0.0.0 fdcbn-url-photos.zyro.com
 :: fdcbn-url-photos.zyro.com
+0.0.0.0 fdd.tianhuafund.cn
+:: fdd.tianhuafund.cn
 0.0.0.0 fdg.10eurosbonheur.net
 :: fdg.10eurosbonheur.net
 0.0.0.0 fdl.eu.msn.com
@@ -32461,6 +32479,8 @@
 :: g.haluoha.com
 0.0.0.0 g.hsw.cn
 :: g.hsw.cn
+0.0.0.0 g.hutao1.cn
+:: g.hutao1.cn
 0.0.0.0 g.jssdk.net
 :: g.jssdk.net
 0.0.0.0 g.jwpsrv.com
@@ -35853,8 +35873,6 @@
 :: iebar.baidu.com
 0.0.0.0 ieonline.microsoft.com
 :: ieonline.microsoft.com
-0.0.0.0 iesjaumei.edu.gva.es
-:: iesjaumei.edu.gva.es
 0.0.0.0 if.bbanner.it
 :: if.bbanner.it
 0.0.0.0 if.yyjsbz.cn
@@ -40915,6 +40933,8 @@
 :: m.181mob.com
 0.0.0.0 m.1919388.net
 :: m.1919388.net
+0.0.0.0 m.1j5wc.cn
+:: m.1j5wc.cn
 0.0.0.0 m.1x3td.cn
 :: m.1x3td.cn
 0.0.0.0 m.1yjlm.com
@@ -40923,6 +40943,8 @@
 :: m.24ihe.cn
 0.0.0.0 m.24pga.cn
 :: m.24pga.cn
+0.0.0.0 m.34uvn.cn
+:: m.34uvn.cn
 0.0.0.0 m.3987.com
 :: m.3987.com
 0.0.0.0 m.408uo.cn
@@ -40971,6 +40993,10 @@
 :: m.7hs3ja.cn
 0.0.0.0 m.7nej2.com
 :: m.7nej2.com
+0.0.0.0 m.7wx8f.cn
+:: m.7wx8f.cn
+0.0.0.0 m.85rvq.cn
+:: m.85rvq.cn
 0.0.0.0 m.937920.com
 :: m.937920.com
 0.0.0.0 m.980he.cn
@@ -40979,6 +41005,8 @@
 :: m.98tpof.cn
 0.0.0.0 m.9r48f.cn
 :: m.9r48f.cn
+0.0.0.0 m.9z41f.cn
+:: m.9z41f.cn
 0.0.0.0 m.aangc.com
 :: m.aangc.com
 0.0.0.0 m.abfalse.cn
@@ -40997,6 +41025,8 @@
 :: m.aduiz.com
 0.0.0.0 m.adx.bg
 :: m.adx.bg
+0.0.0.0 m.ailix.cn
+:: m.ailix.cn
 0.0.0.0 m.ajiuc.com
 :: m.ajiuc.com
 0.0.0.0 m.ajxqiongbg.com
@@ -41013,6 +41043,8 @@
 :: m.aqiudaohang.com
 0.0.0.0 m.aquns.com
 :: m.aquns.com
+0.0.0.0 m.arxnfj14120.cn
+:: m.arxnfj14120.cn
 0.0.0.0 m.astrokolik.com
 :: m.astrokolik.com
 0.0.0.0 m.atm.youku.com
@@ -41443,6 +41475,8 @@
 :: m.smsquiz.pl
 0.0.0.0 m.symac.cn
 :: m.symac.cn
+0.0.0.0 m.sz05f.cn
+:: m.sz05f.cn
 0.0.0.0 m.t98rzq.cn
 :: m.t98rzq.cn
 0.0.0.0 m.tamilmalls.com
@@ -41561,6 +41595,8 @@
 :: m.yalayi.com
 0.0.0.0 m.yangjingbang.net
 :: m.yangjingbang.net
+0.0.0.0 m.yanyankj.com
+:: m.yanyankj.com
 0.0.0.0 m.yap.yahoo.com
 :: m.yap.yahoo.com
 0.0.0.0 m.yceno.com
@@ -43891,6 +43927,8 @@
 :: mldy.xdaay.cn
 0.0.0.0 mldy.yu83r.cn
 :: mldy.yu83r.cn
+0.0.0.0 mldy.yxxgab.cn
+:: mldy.yxxgab.cn
 0.0.0.0 mlog.aipai.com
 :: mlog.aipai.com
 0.0.0.0 mlog.hiido.com
@@ -52441,6 +52479,8 @@
 :: pvrgeypwi.storeplusa.su
 0.0.0.0 pvsite.zol.com.cn
 :: pvsite.zol.com.cn
+0.0.0.0 pvstat.baomihua.com
+:: pvstat.baomihua.com
 0.0.0.0 pvstat.html5.qq.com
 :: pvstat.html5.qq.com
 0.0.0.0 pvtest.zol.com.cn
@@ -54655,6 +54695,8 @@
 :: s.dpcq1.net
 0.0.0.0 s.dynad.net
 :: s.dynad.net
+0.0.0.0 s.e739.cn
+:: s.e739.cn
 0.0.0.0 s.fastapi.net
 :: s.fastapi.net
 0.0.0.0 s.fl-ads.com
@@ -58773,6 +58815,8 @@
 :: srepdata.usatoday.com
 0.0.0.0 srilaini1helprecoveryii.000webhostapp.com
 :: srilaini1helprecoveryii.000webhostapp.com
+0.0.0.0 srisaranankara.sch.lk
+:: srisaranankara.sch.lk
 0.0.0.0 srpze.saqibsiddiqui.com
 :: srpze.saqibsiddiqui.com
 0.0.0.0 srutebmduoh.myfw.us
@@ -65897,8 +65941,6 @@
 :: url.jiemengle.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
-0.0.0.0 urladyms.newlogiq.com
-:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -70851,6 +70893,8 @@
 :: www.citypulse.com
 0.0.0.0 www.civicscience.com
 :: www.civicscience.com
+0.0.0.0 www.claiks.com
+:: www.claiks.com
 0.0.0.0 www.clanthol.com
 :: www.clanthol.com
 0.0.0.0 www.clap4ya.com
@@ -71267,6 +71311,8 @@
 :: www.doumob.com
 0.0.0.0 www.downassbitches.com
 :: www.downassbitches.com
+0.0.0.0 www.download.extraslot.ru
+:: www.download.extraslot.ru
 0.0.0.0 www.downloaddirect.com
 :: www.downloaddirect.com
 0.0.0.0 www.downloads-unlimited.com
@@ -71649,8 +71695,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
