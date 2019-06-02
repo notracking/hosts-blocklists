@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Jun 1 05:53:19 CEST 2019
+# Last update: Sun Jun 2 05:46:05 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 38875
+# Number of unique hostnames: 38874
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -40995,8 +40995,6 @@
 :: m.7nej2.com
 0.0.0.0 m.7wx8f.cn
 :: m.7wx8f.cn
-0.0.0.0 m.85rvq.cn
-:: m.85rvq.cn
 0.0.0.0 m.937920.com
 :: m.937920.com
 0.0.0.0 m.980he.cn
@@ -67933,6 +67931,8 @@
 :: wbmwss.beetv.net
 0.0.0.0 wbpctips.mobile.sina.cn
 :: wbpctips.mobile.sina.cn
+0.0.0.0 wbu.wroc.pl
+:: wbu.wroc.pl
 0.0.0.0 wbwl.houyi.baofeng.net
 :: wbwl.houyi.baofeng.net
 0.0.0.0 wc-tracking.lavasoft.com
@@ -70893,8 +70893,6 @@
 :: www.citypulse.com
 0.0.0.0 www.civicscience.com
 :: www.civicscience.com
-0.0.0.0 www.claiks.com
-:: www.claiks.com
 0.0.0.0 www.clanthol.com
 :: www.clanthol.com
 0.0.0.0 www.clap4ya.com
