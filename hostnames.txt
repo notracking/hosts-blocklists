@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Jun 3 05:40:50 CEST 2019
+# Last update: Tue Jun 4 05:56:07 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 38852
+# Number of unique hostnames: 38851
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2655,8 +2655,6 @@
 :: a.kik.bg
 0.0.0.0 a.killergram-girls.com
 :: a.killergram-girls.com
-0.0.0.0 a.klaviyo.com
-:: a.klaviyo.com
 0.0.0.0 a.ktxtr.com
 :: a.ktxtr.com
 0.0.0.0 a.kubik3.ru
