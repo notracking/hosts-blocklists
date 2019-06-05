@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Jun 4 05:56:07 CEST 2019
+# Last update: Wed Jun 5 05:48:44 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 38851
+# Number of unique hostnames: 38849
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -22017,6 +22017,8 @@
 :: cf.37cs.com
 0.0.0.0 cf.iadsdk.apple.com
 :: cf.iadsdk.apple.com
+0.0.0.0 cf1c0.thisav.com
+:: cf1c0.thisav.com
 0.0.0.0 cfcd.duckdns.org
 :: cfcd.duckdns.org
 0.0.0.0 cfceu.duckdns.org
@@ -50087,8 +50089,6 @@
 :: pic.0597kk.com
 0.0.0.0 pic.14bobo.com
 :: pic.14bobo.com
-0.0.0.0 pic.bdyxzx.com
-:: pic.bdyxzx.com
 0.0.0.0 pic.bloggerads.net
 :: pic.bloggerads.net
 0.0.0.0 pic.by175.com
@@ -50507,6 +50507,8 @@
 :: pixel.vihub.ru
 0.0.0.0 pixel.wp.com
 :: pixel.wp.com
+0.0.0.0 pixel.wp.pl
+:: pixel.wp.pl
 0.0.0.0 pixel.wp.tv
 :: pixel.wp.tv
 0.0.0.0 pixel.yola.com
@@ -65893,8 +65895,6 @@
 :: url.jiemengle.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
-0.0.0.0 urladyms.newlogiq.com
-:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -69599,8 +69599,6 @@
 :: www.500ww.com
 0.0.0.0 www.5066.net
 :: www.5066.net
-0.0.0.0 www.50mi.cn
-:: www.50mi.cn
 0.0.0.0 www.51388.com
 :: www.51388.com
 0.0.0.0 www.5188yy.com
@@ -71647,8 +71645,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
@@ -71903,6 +71899,8 @@
 :: www.glxgroup.com
 0.0.0.0 www.gmcjjh.org
 :: www.gmcjjh.org
+0.0.0.0 www.gnezdodesign.ru
+:: www.gnezdodesign.ru
 0.0.0.0 www.gns-consola.com
 :: www.gns-consola.com
 0.0.0.0 www.go2clickbank.com
@@ -72493,8 +72491,6 @@
 :: www.izmirtente.info
 0.0.0.0 www.jacklindberg.com
 :: www.jacklindberg.com
-0.0.0.0 www.jacquesdalne.net
-:: www.jacquesdalne.net
 0.0.0.0 www.jacquestrifin.be
 :: www.jacquestrifin.be
 0.0.0.0 www.jafvcwmrfespousing.review
@@ -73355,8 +73351,6 @@
 :: www.morpheus-forum.de
 0.0.0.0 www.motortecnica.org
 :: www.motortecnica.org
-0.0.0.0 www.motoslittetrecime.com
-:: www.motoslittetrecime.com
 0.0.0.0 www.mountain-paradise.co.uk
 :: www.mountain-paradise.co.uk
 0.0.0.0 www.movable-ink-2183.com
@@ -75393,6 +75387,8 @@
 :: www.v90327ux.beget.tech
 0.0.0.0 www.vakantiehuisjeameland.nl
 :: www.vakantiehuisjeameland.nl
+0.0.0.0 www.valerypro.com
+:: www.valerypro.com
 0.0.0.0 www.valhallarisingthemovie.co.uk
 :: www.valhallarisingthemovie.co.uk
 0.0.0.0 www.validatedsite.com
