@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Jun 5 05:48:44 CEST 2019
+# Last update: Thu Jun 6 05:45:53 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 38849
+# Number of unique hostnames: 38866
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -961,6 +961,8 @@
 :: 48.2mydns.net
 0.0.0.0 496812--gast-sicher-account.vorkehrung-sicherheitssystem.ml
 :: 496812--gast-sicher-account.vorkehrung-sicherheitssystem.ml
+0.0.0.0 4au.htf16a.cn
+:: 4au.htf16a.cn
 0.0.0.0 4bf27o.wm.warmglow.org
 :: 4bf27o.wm.warmglow.org
 0.0.0.0 4c92j5.cz.cc
@@ -29149,6 +29151,8 @@
 :: e.82uxa.cn
 0.0.0.0 e.91.com
 :: e.91.com
+0.0.0.0 e.95z3a.cn
+:: e.95z3a.cn
 0.0.0.0 e.980he.cn
 :: e.980he.cn
 0.0.0.0 e.9mf0a.cn
@@ -29269,6 +29273,8 @@
 :: e.nejup.com
 0.0.0.0 e.njiet.com
 :: e.njiet.com
+0.0.0.0 e.nq37f.cn
+:: e.nq37f.cn
 0.0.0.0 e.o5vm6c.cn
 :: e.o5vm6c.cn
 0.0.0.0 e.ofuda.cc
@@ -29283,6 +29289,8 @@
 :: e.poonscn.com
 0.0.0.0 e.ppaie.com
 :: e.ppaie.com
+0.0.0.0 e.pt05c.cn
+:: e.pt05c.cn
 0.0.0.0 e.puooi.com
 :: e.puooi.com
 0.0.0.0 e.qiaoyuwang.com
@@ -29347,6 +29355,8 @@
 :: e.vpmjg.cn
 0.0.0.0 e.w6o2c.cn
 :: e.w6o2c.cn
+0.0.0.0 e.wc59b.cn
+:: e.wc59b.cn
 0.0.0.0 e.wcenr.com
 :: e.wcenr.com
 0.0.0.0 e.wduis.com
@@ -37313,6 +37323,8 @@
 :: ip.hivps.xyz
 0.0.0.0 ip2.pxene.com
 :: ip2.pxene.com
+0.0.0.0 ipa.elev.io
+:: ipa.elev.io
 0.0.0.0 ipapi.tmbi.com
 :: ipapi.tmbi.com
 0.0.0.0 ipc.chtah.com
@@ -38905,6 +38917,8 @@
 :: kkcs.uniza.sk
 0.0.0.0 kkd47eh4hdjshb5t.angortra.at
 :: kkd47eh4hdjshb5t.angortra.at
+0.0.0.0 kkdm.dhgdp.cn
+:: kkdm.dhgdp.cn
 0.0.0.0 kkl.org.ru
 :: kkl.org.ru
 0.0.0.0 kklmqzti.medicalcaremart.ru
@@ -39187,8 +39201,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -40889,6 +40901,8 @@
 :: m.08i94.com
 0.0.0.0 m.0cec5.com
 :: m.0cec5.com
+0.0.0.0 m.0vj6i.cn
+:: m.0vj6i.cn
 0.0.0.0 m.0wnz6g.cn
 :: m.0wnz6g.cn
 0.0.0.0 m.107279.com
@@ -40949,6 +40963,10 @@
 :: m.640640.com
 0.0.0.0 m.649649.com
 :: m.649649.com
+0.0.0.0 m.65r3g.cn
+:: m.65r3g.cn
+0.0.0.0 m.6gv4d.cn
+:: m.6gv4d.cn
 0.0.0.0 m.6i9th.cn
 :: m.6i9th.cn
 0.0.0.0 m.6z1gf.cn
@@ -40965,8 +40983,14 @@
 :: m.7nej2.com
 0.0.0.0 m.7wx8f.cn
 :: m.7wx8f.cn
+0.0.0.0 m.80o4j.cn
+:: m.80o4j.cn
 0.0.0.0 m.937920.com
 :: m.937920.com
+0.0.0.0 m.95z3a.cn
+:: m.95z3a.cn
+0.0.0.0 m.97tuk.cn
+:: m.97tuk.cn
 0.0.0.0 m.980he.cn
 :: m.980he.cn
 0.0.0.0 m.98tpof.cn
@@ -41353,6 +41377,8 @@
 :: m.njiet.com
 0.0.0.0 m.nouaa.com
 :: m.nouaa.com
+0.0.0.0 m.nq37f.cn
+:: m.nq37f.cn
 0.0.0.0 m.nqut.cn
 :: m.nqut.cn
 0.0.0.0 m.o4hpc.cn
@@ -41385,6 +41411,8 @@
 :: m.ppaie.com
 0.0.0.0 m.pquea.com
 :: m.pquea.com
+0.0.0.0 m.pt05c.cn
+:: m.pt05c.cn
 0.0.0.0 m.puooi.com
 :: m.puooi.com
 0.0.0.0 m.qbenu.com
@@ -41487,6 +41515,8 @@
 :: m.tv12h.cn
 0.0.0.0 m.usersonline.com
 :: m.usersonline.com
+0.0.0.0 m.v76rk.cn
+:: m.v76rk.cn
 0.0.0.0 m.vaxyz.com
 :: m.vaxyz.com
 0.0.0.0 m.vbinr.com
@@ -41519,6 +41549,8 @@
 :: m.wbaoz.com
 0.0.0.0 m.wbeiz.com
 :: m.wbeiz.com
+0.0.0.0 m.wc59b.cn
+:: m.wc59b.cn
 0.0.0.0 m.wcenr.com
 :: m.wcenr.com
 0.0.0.0 m.wduis.com
@@ -49991,6 +50023,8 @@
 :: photo.maimi88.cn
 0.0.0.0 photo.majiang188.cn
 :: photo.majiang188.cn
+0.0.0.0 photo.njlymyd.cn
+:: photo.njlymyd.cn
 0.0.0.0 photo.ofsja.cn
 :: photo.ofsja.cn
 0.0.0.0 photo.rdguj.cn
@@ -50553,6 +50587,8 @@
 :: pks-setiabudi.or.id
 0.0.0.0 pksun1.publikompass.it
 :: pksun1.publikompass.it
+0.0.0.0 pl-pubimgs.placester.net
+:: pl-pubimgs.placester.net
 0.0.0.0 pl.allsports4free.club
 :: pl.allsports4free.club
 0.0.0.0 pl.coral-club.com
@@ -58897,6 +58933,8 @@
 :: ssl.ymapp.com
 0.0.0.0 ssl.youkag.com
 :: ssl.youkag.com
+0.0.0.0 ssl2.dottexpress.com
+:: ssl2.dottexpress.com
 0.0.0.0 sslhostinger-1tk.pe.hu
 :: sslhostinger-1tk.pe.hu
 0.0.0.0 sslproxy-prod.adobedtm.com
@@ -70303,8 +70341,6 @@
 :: www.arrietayasociados.es
 0.0.0.0 www.arrotin.net
 :: www.arrotin.net
-0.0.0.0 www.artandevent.pl
-:: www.artandevent.pl
 0.0.0.0 www.artisticasrl.com
 :: www.artisticasrl.com
 0.0.0.0 www.artistsagainstwar.it
@@ -72467,6 +72503,8 @@
 :: www.isfilebest.com
 0.0.0.0 www.isikpandizot.com
 :: www.isikpandizot.com
+0.0.0.0 www.isitone.com
+:: www.isitone.com
 0.0.0.0 www.isleofwightcomputerrepairs.talktalk.net
 :: www.isleofwightcomputerrepairs.talktalk.net
 0.0.0.0 www.isobaresumrzh.download
@@ -72999,8 +73037,6 @@
 :: www.locatorprotocol.com
 0.0.0.0 www.locgest.com
 :: www.locgest.com
-0.0.0.0 www.log-in-verlag.de
-:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -75903,8 +75939,6 @@
 :: www.zarobek4u.com
 0.0.0.0 www.zarobicpieniadze.com
 :: www.zarobicpieniadze.com
-0.0.0.0 www.zarobicprzezinternet.com
-:: www.zarobicprzezinternet.com
 0.0.0.0 www.zatzy.com
 :: www.zatzy.com
 0.0.0.0 www.zbippirad.info
