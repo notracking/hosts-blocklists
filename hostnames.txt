@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Jun 6 05:45:53 CEST 2019
+# Last update: Fri Jun 7 06:54:59 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 38866
+# Number of unique hostnames: 38876
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -969,6 +969,8 @@
 :: 4c92j5.cz.cc
 0.0.0.0 4gezz.win.adsservingtwig.xyz
 :: 4gezz.win.adsservingtwig.xyz
+0.0.0.0 4gf.9tkl2d.cn
+:: 4gf.9tkl2d.cn
 0.0.0.0 4kqd3hmqgptupi3p.0vgu64.top
 :: 4kqd3hmqgptupi3p.0vgu64.top
 0.0.0.0 4kqd3hmqgptupi3p.143h2a.top
@@ -19487,6 +19489,8 @@
 :: boo.samara24.ru
 0.0.0.0 boogu.barginginfrance.net
 :: boogu.barginginfrance.net
+0.0.0.0 book.114la.cn
+:: book.114la.cn
 0.0.0.0 bookcornerltd.000webhostapp.com
 :: bookcornerltd.000webhostapp.com
 0.0.0.0 bookforall1.bookforall.ru
@@ -22831,8 +22835,6 @@
 :: click.spiritemail.info
 0.0.0.0 click.stat.hao.360.cn
 :: click.stat.hao.360.cn
-0.0.0.0 click.suning.cn
-:: click.suning.cn
 0.0.0.0 click.supfast.net
 :: click.supfast.net
 0.0.0.0 click.tanx.com
@@ -27609,8 +27611,6 @@
 :: dfyhnddsalog.7m.pl
 0.0.0.0 dfzenk6ej1plw.cloudfront.net
 :: dfzenk6ej1plw.cloudfront.net
-0.0.0.0 dg.egjq.com.cn
-:: dg.egjq.com.cn
 0.0.0.0 dg.gamebuffet.mobi
 :: dg.gamebuffet.mobi
 0.0.0.0 dg5thrrj8f.sm1qrqaeri.madpendesign.com.au
@@ -29135,8 +29135,8 @@
 :: e.5qk4xi.cn
 0.0.0.0 e.60sk.ru
 :: e.60sk.ru
-0.0.0.0 e.6yw7j.cn
-:: e.6yw7j.cn
+0.0.0.0 e.6g53b.cn
+:: e.6g53b.cn
 0.0.0.0 e.7clink.com
 :: e.7clink.com
 0.0.0.0 e.7hd2ma.cn
@@ -29149,6 +29149,8 @@
 :: e.80o4j.cn
 0.0.0.0 e.82uxa.cn
 :: e.82uxa.cn
+0.0.0.0 e.89bia.cn
+:: e.89bia.cn
 0.0.0.0 e.91.com
 :: e.91.com
 0.0.0.0 e.95z3a.cn
@@ -29773,6 +29775,8 @@
 :: eland.doublemax.net
 0.0.0.0 elbcradio.tcalr.org
 :: elbcradio.tcalr.org
+0.0.0.0 electricfence.levsantronic.ro
+:: electricfence.levsantronic.ro
 0.0.0.0 electro.demos.su
 :: electro.demos.su
 0.0.0.0 electrohemostasis.makemoneywithmegan.net
@@ -39201,6 +39205,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -40095,6 +40101,8 @@
 :: lm.visualware.com
 0.0.0.0 lm.xiashu.la
 :: lm.xiashu.la
+0.0.0.0 lm1.wzpcw.com
+:: lm1.wzpcw.com
 0.0.0.0 lm5.spyc.biz
 :: lm5.spyc.biz
 0.0.0.0 lm6recxr-site.gtempurl.com
@@ -40897,6 +40905,8 @@
 :: m.017cm2.cn
 0.0.0.0 m.072va.cn
 :: m.072va.cn
+0.0.0.0 m.07seb.cn
+:: m.07seb.cn
 0.0.0.0 m.08i94.com
 :: m.08i94.com
 0.0.0.0 m.0cec5.com
@@ -40919,6 +40929,8 @@
 :: m.1919388.net
 0.0.0.0 m.1j5wc.cn
 :: m.1j5wc.cn
+0.0.0.0 m.1qp9k.cn
+:: m.1qp9k.cn
 0.0.0.0 m.1x3td.cn
 :: m.1x3td.cn
 0.0.0.0 m.1yjlm.com
@@ -40959,12 +40971,16 @@
 :: m.5h9gdb.cn
 0.0.0.0 m.5vst8h.cn
 :: m.5vst8h.cn
+0.0.0.0 m.61lvi.cn
+:: m.61lvi.cn
 0.0.0.0 m.640640.com
 :: m.640640.com
 0.0.0.0 m.649649.com
 :: m.649649.com
 0.0.0.0 m.65r3g.cn
 :: m.65r3g.cn
+0.0.0.0 m.6g53b.cn
+:: m.6g53b.cn
 0.0.0.0 m.6gv4d.cn
 :: m.6gv4d.cn
 0.0.0.0 m.6i9th.cn
@@ -40985,6 +41001,8 @@
 :: m.7wx8f.cn
 0.0.0.0 m.80o4j.cn
 :: m.80o4j.cn
+0.0.0.0 m.89bia.cn
+:: m.89bia.cn
 0.0.0.0 m.937920.com
 :: m.937920.com
 0.0.0.0 m.95z3a.cn
@@ -41369,6 +41387,8 @@
 :: m.mw31pe.cn
 0.0.0.0 m.mxguan.com
 :: m.mxguan.com
+0.0.0.0 m.n83v0h.cn
+:: m.n83v0h.cn
 0.0.0.0 m.nchet.com
 :: m.nchet.com
 0.0.0.0 m.nejup.com
@@ -50181,8 +50201,6 @@
 :: pic2.onetad.com
 0.0.0.0 pic2016.5442.com
 :: pic2016.5442.com
-0.0.0.0 pic2016.ytqmx.com
-:: pic2016.ytqmx.com
 0.0.0.0 pic3.onetad.com
 :: pic3.onetad.com
 0.0.0.0 pic8.onetad.com
@@ -65933,6 +65951,8 @@
 :: url.jiemengle.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
+0.0.0.0 urladyms.newlogiq.com
+:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -71681,6 +71701,8 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
+0.0.0.0 www.fishingtackleindia.com
+:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fjlqqc.com
@@ -73037,6 +73059,8 @@
 :: www.locatorprotocol.com
 0.0.0.0 www.locgest.com
 :: www.locgest.com
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -75423,8 +75447,6 @@
 :: www.v90327ux.beget.tech
 0.0.0.0 www.vakantiehuisjeameland.nl
 :: www.vakantiehuisjeameland.nl
-0.0.0.0 www.valerypro.com
-:: www.valerypro.com
 0.0.0.0 www.valhallarisingthemovie.co.uk
 :: www.valhallarisingthemovie.co.uk
 0.0.0.0 www.validatedsite.com
@@ -76715,8 +76737,6 @@
 :: xmr.mining.be
 0.0.0.0 xn----8sblgmbj1a1bk8l.xn----161-4vemb6cjl7anbaea3afninj.xn--p1ai
 :: xn----8sblgmbj1a1bk8l.xn----161-4vemb6cjl7anbaea3afninj.xn--p1ai
-0.0.0.0 xn--as-wqa.org.pl
-:: xn--as-wqa.org.pl
 0.0.0.0 xn--d1abj0abs9d.in.ua
 :: xn--d1abj0abs9d.in.ua
 0.0.0.0 xn--e1aaajzchnkg.ru.com
