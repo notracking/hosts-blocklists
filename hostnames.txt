@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Jun 7 06:54:59 CEST 2019
+# Last update: Sat Jun 8 05:45:20 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 38876
+# Number of unique hostnames: 38894
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3975,6 +3975,8 @@
 :: ad.dedecms.com
 0.0.0.0 ad.demotivation.me
 :: ad.demotivation.me
+0.0.0.0 ad.depo.hu
+:: ad.depo.hu
 0.0.0.0 ad.depositfiles.com
 :: ad.depositfiles.com
 0.0.0.0 ad.designpark.de
@@ -4221,6 +4223,8 @@
 :: ad.groupon.pl
 0.0.0.0 ad.gunosy.com
 :: ad.gunosy.com
+0.0.0.0 ad.gyermekevek.hu
+:: ad.gyermekevek.hu
 0.0.0.0 ad.h-vip.ru
 :: ad.h-vip.ru
 0.0.0.0 ad.handytarife.de
@@ -4447,6 +4451,8 @@
 :: ad.lolipop.jp
 0.0.0.0 ad.looktraffic.com
 :: ad.looktraffic.com
+0.0.0.0 ad.love.hu
+:: ad.love.hu
 0.0.0.0 ad.lqalm.com
 :: ad.lqalm.com
 0.0.0.0 ad.lupa.cz
@@ -4585,6 +4591,8 @@
 :: ad.ohmynews.com
 0.0.0.0 ad.onad.eu
 :: ad.onad.eu
+0.0.0.0 ad.onadozo.hu
+:: ad.onadozo.hu
 0.0.0.0 ad.onlinechange.biz
 :: ad.onlinechange.biz
 0.0.0.0 ad.onmedia.bg
@@ -4847,12 +4855,16 @@
 :: ad.stat.4u.pl
 0.0.0.0 ad.subnet.dk
 :: ad.subnet.dk
+0.0.0.0 ad.supportal.hu
+:: ad.supportal.hu
 0.0.0.0 ad.suprnova.org
 :: ad.suprnova.org
 0.0.0.0 ad.sweb.ru
 :: ad.sweb.ru
 0.0.0.0 ad.swissguide.ch
 :: ad.swissguide.ch
+0.0.0.0 ad.szexneked.hu
+:: ad.szexneked.hu
 0.0.0.0 ad.t-ad.co.kr
 :: ad.t-ad.co.kr
 0.0.0.0 ad.targetingmarketplace.com
@@ -7801,6 +7813,8 @@
 :: ads.gay.com
 0.0.0.0 ads.gazetaesportiva.net
 :: ads.gazetaesportiva.net
+0.0.0.0 ads.geeks.hu
+:: ads.geeks.hu
 0.0.0.0 ads.geekswithblogs.net
 :: ads.geekswithblogs.net
 0.0.0.0 ads.gemscool.com
@@ -8785,6 +8799,8 @@
 :: ads.neoseeker.com
 0.0.0.0 ads.neowin.net
 :: ads.neowin.net
+0.0.0.0 ads.nepszava.com
+:: ads.nepszava.com
 0.0.0.0 ads.nerve.com
 :: ads.nerve.com
 0.0.0.0 ads.net2day.de
@@ -12263,6 +12279,8 @@
 :: adv.federalpost.ru
 0.0.0.0 adv.fjtv.net
 :: adv.fjtv.net
+0.0.0.0 adv.forpsi.hu
+:: adv.forpsi.hu
 0.0.0.0 adv.forpsi.pl
 :: adv.forpsi.pl
 0.0.0.0 adv.freeonline.it
@@ -12441,6 +12459,8 @@
 :: adver.pengyou.com
 0.0.0.0 adver.qq.com
 :: adver.qq.com
+0.0.0.0 adverbs.napilapcsoport.hu
+:: adverbs.napilapcsoport.hu
 0.0.0.0 adverserve.austriacomplus.at
 :: adverserve.austriacomplus.at
 0.0.0.0 adverserve.hoc-technology.de
@@ -19551,6 +19571,8 @@
 :: box.rus.porn
 0.0.0.0 boxz.cools4u.com
 :: boxz.cools4u.com
+0.0.0.0 boxzsak.kirowski.com
+:: boxzsak.kirowski.com
 0.0.0.0 boy.fujieace.com
 :: boy.fujieace.com
 0.0.0.0 boylondon.jaanhsoft.kr
@@ -19625,6 +19647,8 @@
 :: branchjp.web.fc2.com
 0.0.0.0 brand.sogou.com
 :: brand.sogou.com
+0.0.0.0 brandings.kanobu.ru
+:: brandings.kanobu.ru
 0.0.0.0 brandshow.58.com
 :: brandshow.58.com
 0.0.0.0 brave.ebod.co.uk
@@ -33549,8 +33573,6 @@
 :: goldbye.vicp.net
 0.0.0.0 goldenticket.disconnect.me
 :: goldenticket.disconnect.me
-0.0.0.0 golfforkids.assistlist.com
-:: golfforkids.assistlist.com
 0.0.0.0 golosovanie1001golos.esy.es
 :: golosovanie1001golos.esy.es
 0.0.0.0 gom-player.gooofull.com
@@ -33581,6 +33603,8 @@
 :: googldrive.3eeweb.com
 0.0.0.0 google-dropbox.sakthiheattreatment.com
 :: google-dropbox.sakthiheattreatment.com
+0.0.0.0 google-pl.anniversarygiveawaysseries.xyz
+:: google-pl.anniversarygiveawaysseries.xyz
 0.0.0.0 google.poultrymiddleeast.com
 :: google.poultrymiddleeast.com
 0.0.0.0 google.ryantoddrose.com
@@ -38921,8 +38945,6 @@
 :: kkcs.uniza.sk
 0.0.0.0 kkd47eh4hdjshb5t.angortra.at
 :: kkd47eh4hdjshb5t.angortra.at
-0.0.0.0 kkdm.dhgdp.cn
-:: kkdm.dhgdp.cn
 0.0.0.0 kkl.org.ru
 :: kkl.org.ru
 0.0.0.0 kklmqzti.medicalcaremart.ru
@@ -39205,8 +39227,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -53157,8 +53177,12 @@
 :: rc.haodongkeji.cn
 0.0.0.0 rc.himedia.individuad.net
 :: rc.himedia.individuad.net
+0.0.0.0 rc.rc.hu
+:: rc.rc.hu
 0.0.0.0 rc.revolvermaps.com
 :: rc.revolvermaps.com
+0.0.0.0 rc.rootclick.com
+:: rc.rootclick.com
 0.0.0.0 rc.semilo.individuad.net
 :: rc.semilo.individuad.net
 0.0.0.0 rc6.i2i.jp
@@ -58841,6 +58865,8 @@
 :: srv.thespacereporter.com
 0.0.0.0 srv1.rapidstats.de
 :: srv1.rapidstats.de
+0.0.0.0 srv1.srv-stat.com
+:: srv1.srv-stat.com
 0.0.0.0 srv118.teste.website
 :: srv118.teste.website
 0.0.0.0 srv119473.hoster-test.ru
@@ -59175,6 +59201,8 @@
 :: stat.56.com
 0.0.0.0 stat.acca.it
 :: stat.acca.it
+0.0.0.0 stat.adultium.com
+:: stat.adultium.com
 0.0.0.0 stat.alibaba.com
 :: stat.alibaba.com
 0.0.0.0 stat.aport.ru
@@ -59803,6 +59831,8 @@
 :: stats.avg.com
 0.0.0.0 stats.backcountry.com
 :: stats.backcountry.com
+0.0.0.0 stats.badoostats.com
+:: stats.badoostats.com
 0.0.0.0 stats.bbc.co.uk
 :: stats.bbc.co.uk
 0.0.0.0 stats.becu.org
@@ -62945,6 +62975,8 @@
 :: track.byzon.swelen.net
 0.0.0.0 track.cafemomstatic.com
 :: track.cafemomstatic.com
+0.0.0.0 track.calithornia.com
+:: track.calithornia.com
 0.0.0.0 track.catalogs.com
 :: track.catalogs.com
 0.0.0.0 track.cbs.com
@@ -63451,6 +63483,8 @@
 :: track.right-ads.com
 0.0.0.0 track.roiservice.com
 :: track.roiservice.com
+0.0.0.0 track.rtb-media.me
+:: track.rtb-media.me
 0.0.0.0 track.scanguard.com
 :: track.scanguard.com
 0.0.0.0 track.scanmyphones.com
@@ -63521,8 +63555,8 @@
 :: track.tooplay.com
 0.0.0.0 track.topromotion.net
 :: track.topromotion.net
-0.0.0.0 track.trackffic.xyz
-:: track.trackffic.xyz
+0.0.0.0 track.trackbyme.info
+:: track.trackbyme.info
 0.0.0.0 track.tracking85.com
 :: track.tracking85.com
 0.0.0.0 track.trademail.fr
@@ -64287,6 +64321,8 @@
 :: tracking.taptica.com
 0.0.0.0 tracking.tchibo.de
 :: tracking.tchibo.de
+0.0.0.0 tracking.tchibo.hu
+:: tracking.tchibo.hu
 0.0.0.0 tracking.teebik.com
 :: tracking.teebik.com
 0.0.0.0 tracking.theeword.co.uk
@@ -65707,6 +65743,8 @@
 :: uolcartao.webcindario.com
 0.0.0.0 uole.ad.uol.com.br
 :: uole.ad.uol.com.br
+0.0.0.0 up-banner.wavecdn.de
+:: up-banner.wavecdn.de
 0.0.0.0 up-banner.wavecdn.net
 :: up-banner.wavecdn.net
 0.0.0.0 up.hiao.com
@@ -66089,8 +66127,12 @@
 :: us5.forward-to-friend.com
 0.0.0.0 us5.forward-to-friend1.com
 :: us5.forward-to-friend1.com
+0.0.0.0 usa.dauid-iep.com
+:: usa.dauid-iep.com
 0.0.0.0 usa.ideaman-usa.com
 :: usa.ideaman-usa.com
+0.0.0.0 usa.odysseus-nua.com
+:: usa.odysseus-nua.com
 0.0.0.0 usaa-online.pe.hu
 :: usaa-online.pe.hu
 0.0.0.0 usaa-support.n8creative.com
@@ -66861,8 +66903,6 @@
 :: video.theparentingvillage.com
 0.0.0.0 video.ureport.push.qq.com
 :: video.ureport.push.qq.com
-0.0.0.0 video.vid4u.org
-:: video.vid4u.org
 0.0.0.0 video.videonow.ru
 :: video.videonow.ru
 0.0.0.0 video.videos.vidto.me
@@ -69341,6 +69381,8 @@
 :: wss.hbpl.co.uk
 0.0.0.0 wsstatic.govmetric.com
 :: wsstatic.govmetric.com
+0.0.0.0 wstat.ozon.ru
+:: wstat.ozon.ru
 0.0.0.0 wstat.wibiya.com
 :: wstat.wibiya.com
 0.0.0.0 wsw1.surf-town.net
@@ -72153,8 +72195,6 @@
 :: www.higame123.com
 0.0.0.0 www.highspeedtesting.com
 :: www.highspeedtesting.com
-0.0.0.0 www.highsport.se
-:: www.highsport.se
 0.0.0.0 www.hilfe-forum.info
 :: www.hilfe-forum.info
 0.0.0.0 www.himandy.com
@@ -73059,8 +73099,6 @@
 :: www.locatorprotocol.com
 0.0.0.0 www.locgest.com
 :: www.locgest.com
-0.0.0.0 www.log-in-verlag.de
-:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -77435,8 +77473,6 @@
 :: zarexbytonia.cba.pl
 0.0.0.0 zasilkonto.cba.pl
 :: zasilkonto.cba.pl
-0.0.0.0 zastrzyk-gotowki.waw.pl
-:: zastrzyk-gotowki.waw.pl
 0.0.0.0 zavod.chuvaz.ru
 :: zavod.chuvaz.ru
 0.0.0.0 zaz-auto.kh.ua
