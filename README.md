@@ -89,6 +89,13 @@ addn-hosts=/path/to/hostnames.txt
  - https://osint.bambenekconsulting.com/feeds/c2-dommasterlist-high.txt
  - https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
  - http://security-research.dyndns.org/pub/malware-feeds/ponmocup-infected-domains-shadowserver.csv
+ - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersDnsmasq.conf
+ - https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
+ - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
+ - https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/gamefake.txt
+ - https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/mobile.txt
+ - https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+ - https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/basic/common.txt
  - a large set of custom entries
   
 **Adblock Plus lists** (only full hostname, non-3rd party filters)
