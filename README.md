@@ -126,3 +126,6 @@ addn-hosts=/path/to/hostnames.txt
  - https://filters.adtidy.org/extension/chromium/filters/7.txt
  - https://filters.adtidy.org/extension/chromium/filters/9.txt
  - https://filters.adtidy.org/extension/chromium/filters/13.txt
+ - https://easylist-downloads.adblockplus.org/Liste_AR.txt
+ - https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt
+ - https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
