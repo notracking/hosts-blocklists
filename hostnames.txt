@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Jun 15 05:47:38 CEST 2019
+# Last update: Sun Jun 16 05:54:20 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 40340
+# Number of unique hostnames: 40343
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -16413,6 +16413,8 @@
 :: asset-1.tenderapp.com
 0.0.0.0 asset-2.tenderapp.com
 :: asset-2.tenderapp.com
+0.0.0.0 asset.firmlink.eu
+:: asset.firmlink.eu
 0.0.0.0 asset.ind.in
 :: asset.ind.in
 0.0.0.0 asset.tabloidbintang.com
@@ -16523,6 +16525,8 @@
 :: at.netster.com
 0.0.0.0 at.ontargetjobs.com
 :: at.ontargetjobs.com
+0.0.0.0 at1.doubanio.com
+:: at1.doubanio.com
 0.0.0.0 atansawerlpos3434.000webhostapp.com
 :: atansawerlpos3434.000webhostapp.com
 0.0.0.0 atanx.alicdn.com
@@ -75639,6 +75643,8 @@
 :: www.locgest.com
 0.0.0.0 www.lockview.cn
 :: www.lockview.cn
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
