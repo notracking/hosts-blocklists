@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Jun 20 05:48:55 CEST 2019
+# Last update: Fri Jun 21 06:45:53 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 40081
+# Number of unique hostnames: 40113
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -701,6 +701,8 @@
 :: 28.securefinds2.com
 0.0.0.0 283.laobanfa.com
 :: 283.laobanfa.com
+0.0.0.0 2837c085a88c1ba307d4594a.cloudhosting.rsaweb.co.za
+:: 2837c085a88c1ba307d4594a.cloudhosting.rsaweb.co.za
 0.0.0.0 290684.en.world-stone.com
 :: 290684.en.world-stone.com
 0.0.0.0 296f4h3wluqxmie0yqbk8n.littlematchagirl.com.au
@@ -5547,6 +5549,8 @@
 :: adbuyer3.lycos.com
 0.0.0.0 adc-admin.azet.sk
 :: adc-admin.azet.sk
+0.0.0.0 adc.163.com
+:: adc.163.com
 0.0.0.0 adc.aavalue.com
 :: adc.aavalue.com
 0.0.0.0 adc.tripple.at
@@ -6579,8 +6583,6 @@
 :: ads.advanceweb.com
 0.0.0.0 ads.advolume.com
 :: ads.advolume.com
-0.0.0.0 ads.adxadserv.com
-:: ads.adxadserv.com
 0.0.0.0 ads.adxpose.mpire.akadns.net
 :: ads.adxpose.mpire.akadns.net
 0.0.0.0 ads.afa.net
@@ -17283,6 +17285,8 @@
 :: baiduwapjs1.chinaiiss.com
 0.0.0.0 baifen.music.baidu.com
 :: baifen.music.baidu.com
+0.0.0.0 baike.163.com
+:: baike.163.com
 0.0.0.0 bajasae.grupos.usb.ve
 :: bajasae.grupos.usb.ve
 0.0.0.0 bajkowestokrotki.cba.pl
@@ -19969,8 +19973,6 @@
 :: brokeneagledlc.goblogz.net
 0.0.0.0 broker.adobe.com
 :: broker.adobe.com
-0.0.0.0 browncustomsoftware.net.au
-:: browncustomsoftware.net.au
 0.0.0.0 browser.events.data.microsoft.com
 :: browser.events.data.microsoft.com
 0.0.0.0 browser.pipe.aria.microsoft.com
@@ -20939,6 +20941,10 @@
 :: caf230cs.beget.tech
 0.0.0.0 cafile2.fgppchg.fgpp.com
 :: cafile2.fgppchg.fgpp.com
+0.0.0.0 cai.163.com
+:: cai.163.com
+0.0.0.0 caipiao.163.com
+:: caipiao.163.com
 0.0.0.0 caixa.consulteeagendeinativosliberados.com
 :: caixa.consulteeagendeinativosliberados.com
 0.0.0.0 caixa.inativosativosparasaque.com
@@ -23617,6 +23623,8 @@
 :: cls.mireyn.ru
 0.0.0.0 cls.vrvm.com
 :: cls.vrvm.com
+0.0.0.0 club.163.com
+:: club.163.com
 0.0.0.0 club.manhua.163.com
 :: club.manhua.163.com
 0.0.0.0 club.yuedu.163.com
@@ -28305,6 +28313,8 @@
 :: digdug.logs.roku.com
 0.0.0.0 digg.analytics.live.com
 :: digg.analytics.live.com
+0.0.0.0 digi.163.com
+:: digi.163.com
 0.0.0.0 digi.ad.asap-asp.net
 :: digi.ad.asap-asp.net
 0.0.0.0 digi.adhostcenter.com
@@ -29457,6 +29467,8 @@
 :: dssja7qsifeak.cloudfront.net
 0.0.0.0 dstatic.aceadsys.net
 :: dstatic.aceadsys.net
+0.0.0.0 dt.163.com
+:: dt.163.com
 0.0.0.0 dt.sellpoint.net
 :: dt.sellpoint.net
 0.0.0.0 dt.videohub2.tv
@@ -31493,6 +31505,8 @@
 :: f9ezxc.wm.warmglow.org
 0.0.0.0 f9sk9y3mkq.bradul.creatory.org
 :: f9sk9y3mkq.bradul.creatory.org
+0.0.0.0 fa.163.com
+:: fa.163.com
 0.0.0.0 faaceboook-com.000webhostapp.com
 :: faaceboook-com.000webhostapp.com
 0.0.0.0 faaceboookloogiin.altervista.org
@@ -33219,6 +33233,8 @@
 :: fzprivate.000webhostapp.com
 0.0.0.0 fzz.cloud.1234507.com
 :: fzz.cloud.1234507.com
+0.0.0.0 g.163.com
+:: g.163.com
 0.0.0.0 g.3lian.com
 :: g.3lian.com
 0.0.0.0 g.51network.com
@@ -33931,6 +33947,8 @@
 :: getdatas.olferleonardo.com
 0.0.0.0 getfiles.chelae.com
 :: getfiles.chelae.com
+0.0.0.0 getnewsoft.bestfreesitetocontent.info
+:: getnewsoft.bestfreesitetocontent.info
 0.0.0.0 getout.besaba.com
 :: getout.besaba.com
 0.0.0.0 getpaidtosurfthenetmoney.homestead.com
@@ -36793,6 +36811,8 @@
 :: idservicetelsmsmmssfr.000webhostapp.com
 0.0.0.0 idstore2k18.000webhostapp.com
 :: idstore2k18.000webhostapp.com
+0.0.0.0 idv.163.com
+:: idv.163.com
 0.0.0.0 idx4.matomo.cloud
 :: idx4.matomo.cloud
 0.0.0.0 iebar.baidu.com
@@ -42367,8 +42387,6 @@
 :: m.fu64b.cn
 0.0.0.0 m.future888.net
 :: m.future888.net
-0.0.0.0 m.fuwosi.cn
-:: m.fuwosi.cn
 0.0.0.0 m.game.weibo.cn
 :: m.game.weibo.cn
 0.0.0.0 m.gameyun907.net
@@ -44109,6 +44127,8 @@
 :: messages-your-rec0very.atspace.cc
 0.0.0.0 messagia.adcentric.proximi-t.com
 :: messagia.adcentric.proximi-t.com
+0.0.0.0 messaging.metrics.icloud.com
+:: messaging.metrics.icloud.com
 0.0.0.0 messagingsourcing.000webhostapp.com
 :: messagingsourcing.000webhostapp.com
 0.0.0.0 messagorangconsult.000webhostapp.com
@@ -45307,6 +45327,8 @@
 :: mob2-uu.dev.webapp.163.com
 0.0.0.0 moba-admin.tongren.163.com
 :: moba-admin.tongren.163.com
+0.0.0.0 moba.163.com
+:: moba.163.com
 0.0.0.0 moba.tongren.163.com
 :: moba.tongren.163.com
 0.0.0.0 mobad.ijinshan.com
@@ -51241,6 +51263,8 @@
 :: pepelacer.computingservices123.com
 0.0.0.0 peps20years.afg.vn
 :: peps20years.afg.vn
+0.0.0.0 pepsi2009.163.com
+:: pepsi2009.163.com
 0.0.0.0 perceibe.50webs.com
 :: perceibe.50webs.com
 0.0.0.0 peregrine.igg.biz
@@ -51541,6 +51565,8 @@
 :: pi-chin-cha.webcindario.com
 0.0.0.0 pi.safer-networking.ie
 :: pi.safer-networking.ie
+0.0.0.0 piao.163.com
+:: piao.163.com
 0.0.0.0 pic.0597kk.com
 :: pic.0597kk.com
 0.0.0.0 pic.14bobo.com
@@ -52991,6 +53017,8 @@
 :: pro-bou.enterprisegrowth.co.za
 0.0.0.0 pro-upgrade.000webhostapp.com
 :: pro-upgrade.000webhostapp.com
+0.0.0.0 pro.163.com
+:: pro.163.com
 0.0.0.0 pro.baidu.com
 :: pro.baidu.com
 0.0.0.0 pro.clanweb.cz
@@ -54165,6 +54193,8 @@
 :: qhl.bealge.sogou.com
 0.0.0.0 qi.163.com
 :: qi.163.com
+0.0.0.0 qian.163.com
+:: qian.163.com
 0.0.0.0 qianclick.baidu.com
 :: qianclick.baidu.com
 0.0.0.0 qihbmpizoeaiwdxbtpbs.littlematchagirl.com.au
@@ -55345,6 +55375,8 @@
 :: renew-appleid-appservice-recovry-wmiid2017-billingexp.case4001.pw
 0.0.0.0 renewchurch.org.au
 :: renewchurch.org.au
+0.0.0.0 renjian.163.com
+:: renjian.163.com
 0.0.0.0 reno.onsale.com
 :: reno.onsale.com
 0.0.0.0 reno.onsale.nl
@@ -57265,6 +57297,8 @@
 :: sc22206764gb1.cobrowse.oraclecloud.com
 0.0.0.0 sc23269568hms1.cobrowse.oraclecloud.com
 :: sc23269568hms1.cobrowse.oraclecloud.com
+0.0.0.0 sc24194128hms1.cobrowse.oraclecloud.com
+:: sc24194128hms1.cobrowse.oraclecloud.com
 0.0.0.0 sc25236956us1.cobrowse.oraclecloud.com
 :: sc25236956us1.cobrowse.oraclecloud.com
 0.0.0.0 sc25708701llms1.cobrowse.oraclecloud.com
@@ -57615,6 +57649,8 @@
 :: scurespge.000webhostapp.com
 0.0.0.0 scureweb2app.a-s-s-tgroup.com
 :: scureweb2app.a-s-s-tgroup.com
+0.0.0.0 sd.163.com
+:: sd.163.com
 0.0.0.0 sd.kk3g.net
 :: sd.kk3g.net
 0.0.0.0 sd1kalirejokudus.sch.id
@@ -57849,6 +57885,8 @@
 :: seansimmonssss.000webhostapp.com
 0.0.0.0 search-phentermine.hpage.net
 :: search-phentermine.hpage.net
+0.0.0.0 search.163.com
+:: search.163.com
 0.0.0.0 search.a-vega.ru
 :: search.a-vega.ru
 0.0.0.0 search.buzzdock.com
@@ -59285,6 +59323,8 @@
 :: shoppstop.comood.opsource.net
 0.0.0.0 shopriteco.besaba.com
 :: shopriteco.besaba.com
+0.0.0.0 shouji.163.com
+:: shouji.163.com
 0.0.0.0 shouji.yd126.com
 :: shouji.yd126.com
 0.0.0.0 shovi.frost-electric-supply.com
@@ -60459,6 +60499,8 @@
 :: srepdata.usatoday.com
 0.0.0.0 srilaini1helprecoveryii.000webhostapp.com
 :: srilaini1helprecoveryii.000webhostapp.com
+0.0.0.0 srisaranankara.sch.lk
+:: srisaranankara.sch.lk
 0.0.0.0 srpze.saqibsiddiqui.com
 :: srpze.saqibsiddiqui.com
 0.0.0.0 srutebmduoh.myfw.us
@@ -61079,8 +61121,6 @@
 :: static.ad.libimseti.cz
 0.0.0.0 static.adfclick1.com
 :: static.adfclick1.com
-0.0.0.0 static.adxadserv.com
-:: static.adxadserv.com
 0.0.0.0 static.adziff.com
 :: static.adziff.com
 0.0.0.0 static.aff-landing-tmp.foxtab.com
@@ -62187,6 +62227,8 @@
 :: stmbconstructionchaletsbois.matomo.cloud
 0.0.0.0 sto3.spotify.com
 :: sto3.spotify.com
+0.0.0.0 stock.163.com
+:: stock.163.com
 0.0.0.0 stock.daydreamfuze.com
 :: stock.daydreamfuze.com
 0.0.0.0 stocker.bonnint.net
@@ -62617,6 +62659,8 @@
 :: suuporrt53.confrim-fanpage111.cf
 0.0.0.0 suvset.sohu.com
 :: suvset.sohu.com
+0.0.0.0 sv.163.com
+:: sv.163.com
 0.0.0.0 sv1.eyeonmusica.it
 :: sv1.eyeonmusica.it
 0.0.0.0 svc026.wic011v.server-web.com
@@ -66241,6 +66285,8 @@
 :: transportlivraisonsuiviconnecter.fr.fo
 0.0.0.0 travel-insurance-quotes.beesearch.info
 :: travel-insurance-quotes.beesearch.info
+0.0.0.0 travel.163.com
+:: travel.163.com
 0.0.0.0 travel.netster.com
 :: travel.netster.com
 0.0.0.0 travel.tile.appex.bing.com
@@ -66317,6 +66363,8 @@
 :: trinity.platform.intuit.com
 0.0.0.0 trion.od.ua
 :: trion.od.ua
+0.0.0.0 trip.163.com
+:: trip.163.com
 0.0.0.0 trip.buson.in
 :: trip.buson.in
 0.0.0.0 trip.teleskip.org
@@ -66647,6 +66695,8 @@
 :: tx.micro.net.pk
 0.0.0.0 tx.tongren.163.com
 :: tx.tongren.163.com
+0.0.0.0 tx2.163.com
+:: tx2.163.com
 0.0.0.0 tx2.cbg.163.com
 :: tx2.cbg.163.com
 0.0.0.0 tx3.163.com
@@ -66701,6 +66751,8 @@
 :: u-porn.mp1.mobi
 0.0.0.0 u-x.jd.com
 :: u-x.jd.com
+0.0.0.0 u.163.com
+:: u.163.com
 0.0.0.0 u.63kc.com
 :: u.63kc.com
 0.0.0.0 u.api.look.360.cn
@@ -67555,6 +67607,8 @@
 :: update-apple.com.betawihosting.net
 0.0.0.0 update-csc.apps-true-login.com
 :: update-csc.apps-true-login.com
+0.0.0.0 update-flash.s0l8ybzj9u.top
+:: update-flash.s0l8ybzj9u.top
 0.0.0.0 update-infored.jalotuvua.com
 :: update-infored.jalotuvua.com
 0.0.0.0 update-now-chase.com.usahabaru.web.id
@@ -67749,6 +67803,8 @@
 :: url.jiemengle.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
+0.0.0.0 urladyms.newlogiq.com
+:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -68827,6 +68883,8 @@
 :: vipaul.wpdevcloud.com
 0.0.0.0 vipdn123.blackapplehost.com
 :: vipdn123.blackapplehost.com
+0.0.0.0 vipmail.163.com
+:: vipmail.163.com
 0.0.0.0 vipminisowt.esy.es
 :: vipminisowt.esy.es
 0.0.0.0 vipsecure-protect.000webhostapp.com
@@ -70089,6 +70147,8 @@
 :: weblog.strawberrynet.com
 0.0.0.0 weblogger-dynamic-lb.playdom.com
 :: weblogger-dynamic-lb.playdom.com
+0.0.0.0 webmail.chukai.co.th
+:: webmail.chukai.co.th
 0.0.0.0 webmail.process-digital.com
 :: webmail.process-digital.com
 0.0.0.0 webmailserveurmailings01.000webhostapp.com
@@ -73709,6 +73769,8 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
+0.0.0.0 www.fishingtackleindia.com
+:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -73971,8 +74033,6 @@
 :: www.gloomky.com
 0.0.0.0 www.glosowanie.ujm.pl
 :: www.glosowanie.ujm.pl
-0.0.0.0 www.glutax-ori.com
-:: www.glutax-ori.com
 0.0.0.0 www.glxgroup.com
 :: www.glxgroup.com
 0.0.0.0 www.gmcjjh.org
@@ -77663,6 +77723,8 @@
 :: www.unitedmall.com
 0.0.0.0 www.unmutedbeauty.com
 :: www.unmutedbeauty.com
+0.0.0.0 www.update-flash.s0l8ybzj9u.top
+:: www.update-flash.s0l8ybzj9u.top
 0.0.0.0 www.updatenewversion.thewebsitetofindplayersbest.info
 :: www.updatenewversion.thewebsitetofindplayersbest.info
 0.0.0.0 www.updatesoftwaresend.com
@@ -79991,6 +80053,8 @@
 :: zmienkolory.blogspot.com
 0.0.0.0 zminer.zaloapp.com
 :: zminer.zaloapp.com
+0.0.0.0 zmq.163.com
+:: zmq.163.com
 0.0.0.0 zmq.cbg.163.com
 :: zmq.cbg.163.com
 0.0.0.0 znaptag-us.s3.amazonaws.com
