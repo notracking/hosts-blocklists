@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Jun 21 06:45:53 CEST 2019
+# Last update: Sat Jun 22 05:43:01 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 40113
+# Number of unique hostnames: 40138
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -527,6 +527,8 @@
 :: 2.21shebao.com
 0.0.0.0 2.5aigushi.com
 :: 2.5aigushi.com
+0.0.0.0 2.92caijing.com
+:: 2.92caijing.com
 0.0.0.0 2.aili.com
 :: 2.aili.com
 0.0.0.0 2.bashenghuo.com
@@ -2959,6 +2961,8 @@
 :: a1.mingyihui.net
 0.0.0.0 a1.peoplecdn.cn
 :: a1.peoplecdn.cn
+0.0.0.0 a1.qizhihaotian.com
+:: a1.qizhihaotian.com
 0.0.0.0 a1.qqjay.com
 :: a1.qqjay.com
 0.0.0.0 a1.qqtn.com
@@ -16431,6 +16435,8 @@
 :: at.ontargetjobs.com
 0.0.0.0 at1.doubanio.com
 :: at1.doubanio.com
+0.0.0.0 at2.doubanio.com
+:: at2.doubanio.com
 0.0.0.0 atansawerlpos3434.000webhostapp.com
 :: atansawerlpos3434.000webhostapp.com
 0.0.0.0 atanx.alicdn.com
@@ -20885,6 +20891,8 @@
 :: cache.adfeedstrk.com
 0.0.0.0 cache.ads.kartu.lt
 :: cache.ads.kartu.lt
+0.0.0.0 cache.api-zdj.com
+:: cache.api-zdj.com
 0.0.0.0 cache.daredorm.com
 :: cache.daredorm.com
 0.0.0.0 cache.datamart.windows.com
@@ -24047,12 +24055,16 @@
 :: colispostale.pagesperso-orange.fr
 0.0.0.0 collect-test.arabam.com
 :: collect-test.arabam.com
+0.0.0.0 collect.albacross.com
+:: collect.albacross.com
 0.0.0.0 collect.groupme.com
 :: collect.groupme.com
 0.0.0.0 collect.m-pathy.com
 :: collect.m-pathy.com
 0.0.0.0 collect.rewardstyle.com
 :: collect.rewardstyle.com
+0.0.0.0 collect.zoho.com
+:: collect.zoho.com
 0.0.0.0 collection.acromas.com
 :: collection.acromas.com
 0.0.0.0 collector-axa.cloud.ca.com
@@ -26739,6 +26751,8 @@
 :: d39hdzmeufnl50.cloudfront.net
 0.0.0.0 d39iocnrk5rxnb.cloudfront.net
 :: d39iocnrk5rxnb.cloudfront.net
+0.0.0.0 d39vf9bwtb4sua.cloudfront.net
+:: d39vf9bwtb4sua.cloudfront.net
 0.0.0.0 d39xqloz8t5a6x.cloudfront.net
 :: d39xqloz8t5a6x.cloudfront.net
 0.0.0.0 d3a152d8cojds7.cloudfront.net
@@ -27897,6 +27911,8 @@
 :: demo.vertexinfo.in
 0.0.0.0 demo.website.pl
 :: demo.website.pl
+0.0.0.0 demo.xinqcr.com
+:: demo.xinqcr.com
 0.0.0.0 demo5.ikantam.com
 :: demo5.ikantam.com
 0.0.0.0 demon1.linksummary.com
@@ -28607,6 +28623,8 @@
 :: dlldlldll.sytes.net
 0.0.0.0 dload.ipbill.com
 :: dload.ipbill.com
+0.0.0.0 dlres.ind9ed.com
+:: dlres.ind9ed.com
 0.0.0.0 dlupv9uqtjlie.cloudfront.net
 :: dlupv9uqtjlie.cloudfront.net
 0.0.0.0 dlv.hooniad.com
@@ -29469,8 +29487,6 @@
 :: dstatic.aceadsys.net
 0.0.0.0 dt.163.com
 :: dt.163.com
-0.0.0.0 dt.sellpoint.net
-:: dt.sellpoint.net
 0.0.0.0 dt.videohub2.tv
 :: dt.videohub2.tv
 0.0.0.0 dt2.163.com
@@ -29791,6 +29807,8 @@
 :: e.1919388.net
 0.0.0.0 e.1i94f.cn
 :: e.1i94f.cn
+0.0.0.0 e.1q89b.cn
+:: e.1q89b.cn
 0.0.0.0 e.1zq4lj.cn
 :: e.1zq4lj.cn
 0.0.0.0 e.21lxb.cn
@@ -29811,6 +29829,8 @@
 :: e.4x58a.cn
 0.0.0.0 e.50j33.cn
 :: e.50j33.cn
+0.0.0.0 e.51t4d.cn
+:: e.51t4d.cn
 0.0.0.0 e.51xmgys.com
 :: e.51xmgys.com
 0.0.0.0 e.53trya.cn
@@ -29827,6 +29847,8 @@
 :: e.60sk.ru
 0.0.0.0 e.6g53b.cn
 :: e.6g53b.cn
+0.0.0.0 e.73z9p.cn
+:: e.73z9p.cn
 0.0.0.0 e.7clink.com
 :: e.7clink.com
 0.0.0.0 e.7g4ic.cn
@@ -29845,6 +29867,8 @@
 :: e.89bia.cn
 0.0.0.0 e.91.com
 :: e.91.com
+0.0.0.0 e.958so.cn
+:: e.958so.cn
 0.0.0.0 e.95z3a.cn
 :: e.95z3a.cn
 0.0.0.0 e.980he.cn
@@ -29887,6 +29911,8 @@
 :: e.duomeng.org
 0.0.0.0 e.ejuen.com
 :: e.ejuen.com
+0.0.0.0 e.eoeoev.cn
+:: e.eoeoev.cn
 0.0.0.0 e.fbaix.com
 :: e.fbaix.com
 0.0.0.0 e.fdp29b.cn
@@ -30401,6 +30427,8 @@
 :: eegad.freeservers.com
 0.0.0.0 eekro.cruisingsmallship.com
 :: eekro.cruisingsmallship.com
+0.0.0.0 eer.zhthf.com
+:: eer.zhthf.com
 0.0.0.0 eeroo.frost-electric-supply.com
 :: eeroo.frost-electric-supply.com
 0.0.0.0 eetho.cruisingsmallship.com
@@ -32805,6 +32833,8 @@
 :: fozhu.rrsdl.com
 0.0.0.0 fp-analytics.hotstar.com
 :: fp-analytics.hotstar.com
+0.0.0.0 fp-it.fengkongcloud.com
+:: fp-it.fengkongcloud.com
 0.0.0.0 fp.jj59.com
 :: fp.jj59.com
 0.0.0.0 fp.kakaku.com
@@ -40133,6 +40163,8 @@
 :: konto1.cal24.pl
 0.0.0.0 konym7.wm.warmglow.org
 :: konym7.wm.warmglow.org
+0.0.0.0 kop.whwlldjeasd.kuaizq.com
+:: kop.whwlldjeasd.kuaizq.com
 0.0.0.0 kor.nkhumanrights.or.kr
 :: kor.nkhumanrights.or.kr
 0.0.0.0 korogmu0.beget.tech
@@ -40501,6 +40533,8 @@
 :: lannuairex.free.fr
 0.0.0.0 lanzar.publicidadweb.com
 :: lanzar.publicidadweb.com
+0.0.0.0 lap-click.tr.line.me
+:: lap-click.tr.line.me
 0.0.0.0 lap.reklam.hu
 :: lap.reklam.hu
 0.0.0.0 larg1.free.fr
@@ -42065,8 +42099,12 @@
 :: m.1j5wc.cn
 0.0.0.0 m.1p04f.cn
 :: m.1p04f.cn
+0.0.0.0 m.1q89b.cn
+:: m.1q89b.cn
 0.0.0.0 m.1qp9k.cn
 :: m.1qp9k.cn
+0.0.0.0 m.1sur6d.cn
+:: m.1sur6d.cn
 0.0.0.0 m.1x3td.cn
 :: m.1x3td.cn
 0.0.0.0 m.1yjlm.com
@@ -42099,12 +42137,16 @@
 :: m.479db.cn
 0.0.0.0 m.495495.com
 :: m.495495.com
+0.0.0.0 m.4joon8.cn
+:: m.4joon8.cn
 0.0.0.0 m.4qonm.cn
 :: m.4qonm.cn
 0.0.0.0 m.4x58a.cn
 :: m.4x58a.cn
 0.0.0.0 m.50j33.cn
 :: m.50j33.cn
+0.0.0.0 m.51t4d.cn
+:: m.51t4d.cn
 0.0.0.0 m.51xmgys.com
 :: m.51xmgys.com
 0.0.0.0 m.52j72s.com
@@ -42131,6 +42173,8 @@
 :: m.649649.com
 0.0.0.0 m.65r3g.cn
 :: m.65r3g.cn
+0.0.0.0 m.69o1c.cn
+:: m.69o1c.cn
 0.0.0.0 m.6g53b.cn
 :: m.6g53b.cn
 0.0.0.0 m.6gv4d.cn
@@ -42141,6 +42185,8 @@
 :: m.6z1gf.cn
 0.0.0.0 m.7180443.com
 :: m.7180443.com
+0.0.0.0 m.73z9p.cn
+:: m.73z9p.cn
 0.0.0.0 m.77vcd.com
 :: m.77vcd.com
 0.0.0.0 m.7g4ic.cn
@@ -42299,6 +42345,8 @@
 :: m.dbiei.com
 0.0.0.0 m.ddanf.com
 :: m.ddanf.com
+0.0.0.0 m.ddttssz.cn
+:: m.ddttssz.cn
 0.0.0.0 m.dfanf.com
 :: m.dfanf.com
 0.0.0.0 m.dgouf.com
@@ -42325,6 +42373,8 @@
 :: m.eliuy.com
 0.0.0.0 m.enrogwm.cn
 :: m.enrogwm.cn
+0.0.0.0 m.eoeoev.cn
+:: m.eoeoev.cn
 0.0.0.0 m.epoch168.com
 :: m.epoch168.com
 0.0.0.0 m.exactag.com
@@ -44819,6 +44869,8 @@
 :: mh.163.com
 0.0.0.0 mh.ogercron.com
 :: mh.ogercron.com
+0.0.0.0 mh1.zhengdongwuye.cn
+:: mh1.zhengdongwuye.cn
 0.0.0.0 mhcontrat.50webs.com
 :: mhcontrat.50webs.com
 0.0.0.0 mhd.1391.com
@@ -57215,8 +57267,6 @@
 :: saytospf.beget.tech
 0.0.0.0 sb-11037.fastdl-server.biz
 :: sb-11037.fastdl-server.biz
-0.0.0.0 sb.sellpoint.net
-:: sb.sellpoint.net
 0.0.0.0 sb.vevo.com
 :: sb.vevo.com
 0.0.0.0 sb1.realtrackerbe.com
@@ -59883,6 +59933,8 @@
 :: smetrics.hbogo.com
 0.0.0.0 smetrics.hbonow.com
 :: smetrics.hbonow.com
+0.0.0.0 smetrics.lowes.com
+:: smetrics.lowes.com
 0.0.0.0 smetrics.marriott.com
 :: smetrics.marriott.com
 0.0.0.0 smetrics.mcafee.com
@@ -60705,6 +60757,8 @@
 :: sssvd.china.com
 0.0.0.0 sstats.adobe.com
 :: sstats.adobe.com
+0.0.0.0 sstats.bbt.com
+:: sstats.bbt.com
 0.0.0.0 sstats.economist.com
 :: sstats.economist.com
 0.0.0.0 sstats.kroger.com
@@ -72037,8 +72091,6 @@
 :: www.affiliate.net
 0.0.0.0 www.affiliateshowcase.com
 :: www.affiliateshowcase.com
-0.0.0.0 www.afternic.com
-:: www.afternic.com
 0.0.0.0 www.agataszupke.pl
 :: www.agataszupke.pl
 0.0.0.0 www.agentsplanet.com
@@ -73077,8 +73129,6 @@
 :: www.crackserver.com
 0.0.0.0 www.crazywinnings.com
 :: www.crazywinnings.com
-0.0.0.0 www.creatingyourfreedom.com
-:: www.creatingyourfreedom.com
 0.0.0.0 www.creativ-art1.com
 :: www.creativ-art1.com
 0.0.0.0 www.creatorcommunity.zmags.com
@@ -74921,8 +74971,6 @@
 :: www.kitchentablegang.org
 0.0.0.0 www.kjhkgh.skroc.pl
 :: www.kjhkgh.skroc.pl
-0.0.0.0 www.kkdsdlc.com
-:: www.kkdsdlc.com
 0.0.0.0 www.klikdirect.com
 :: www.klikdirect.com
 0.0.0.0 www.klikijuz.com
@@ -75013,6 +75061,8 @@
 :: www.kuku-yuan.blog.163.com
 0.0.0.0 www.kuldkaru.ee
 :: www.kuldkaru.ee
+0.0.0.0 www.kunjia.org
+:: www.kunjia.org
 0.0.0.0 www.kurtkiwyprzedaz.pl
 :: www.kurtkiwyprzedaz.pl
 0.0.0.0 www.kurulumtr.com
