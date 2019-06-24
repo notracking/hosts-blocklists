@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Jun 23 05:54:02 CEST 2019
+# Last update: Mon Jun 24 05:45:31 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 40149
+# Number of unique hostnames: 40144
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -16333,6 +16333,8 @@
 :: asset.tabloidbintang.com
 0.0.0.0 asset.wetransfer.net.debrawhitingfoundation.org
 :: asset.wetransfer.net.debrawhitingfoundation.org
+0.0.0.0 assets-momentum.akamaized.net
+:: assets-momentum.akamaized.net
 0.0.0.0 assets-polarb-com.a.ssl.fastly.net
 :: assets-polarb-com.a.ssl.fastly.net
 0.0.0.0 assets.2343sdxs.com
@@ -19495,6 +19497,8 @@
 :: blogads.ebanner.nl
 0.0.0.0 bloggers.fuckyoucash.com
 :: bloggers.fuckyoucash.com
+0.0.0.0 blogmason.mixh.jp
+:: blogmason.mixh.jp
 0.0.0.0 blogroll.livedoor.net
 :: blogroll.livedoor.net
 0.0.0.0 blogs.itsynergy.co
@@ -27945,8 +27949,6 @@
 :: deniserichards.1stok.com
 0.0.0.0 densest-mistakes.000webhostapp.com
 :: densest-mistakes.000webhostapp.com
-0.0.0.0 dentmobile29.testact.a2hosted.com
-:: dentmobile29.testact.a2hosted.com
 0.0.0.0 denuelsksa2323.000webhostapp.com
 :: denuelsksa2323.000webhostapp.com
 0.0.0.0 denver.staging.sdx.xfinity.com
@@ -30345,8 +30347,6 @@
 :: ecomcbjs.jomodns.com
 0.0.0.0 ecommerce-app.zmags.com
 :: ecommerce-app.zmags.com
-0.0.0.0 ecommercefajeza.web.id
-:: ecommercefajeza.web.id
 0.0.0.0 ecommstats.s3.amazonaws.com
 :: ecommstats.s3.amazonaws.com
 0.0.0.0 econda.web.de
@@ -38709,8 +38709,6 @@
 :: j.faacliltate.com
 0.0.0.0 j.hbwcl.com
 :: j.hbwcl.com
-0.0.0.0 j.hongyangpai.com
-:: j.hongyangpai.com
 0.0.0.0 j.imdb.cn
 :: j.imdb.cn
 0.0.0.0 j.pioneeringad.com
@@ -40321,6 +40319,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -46383,8 +46383,6 @@
 :: nadjibsoft.blogspot.com
 0.0.0.0 nagarkusumbihsn.edu.bd
 :: nagarkusumbihsn.edu.bd
-0.0.0.0 najlepsiebyvanie.webmerc.eu
-:: najlepsiebyvanie.webmerc.eu
 0.0.0.0 najprzydatniejsze.blogspot.com
 :: najprzydatniejsze.blogspot.com
 0.0.0.0 namadol.x.fc2.com
@@ -51835,8 +51833,6 @@
 :: pitbull-video.ujm.pl
 0.0.0.0 pitbull.ek1.pl
 :: pitbull.ek1.pl
-0.0.0.0 pitouki.free.fr
-:: pitouki.free.fr
 0.0.0.0 piu.lostfilm.tv
 :: piu.lostfilm.tv
 0.0.0.0 pivecino.webcindario.com
@@ -62305,8 +62301,6 @@
 :: stocks-analytics-events.news.apple-dns.net
 0.0.0.0 stopmeagency.free.fr
 :: stopmeagency.free.fr
-0.0.0.0 storage.alfaeducation.mk
-:: storage.alfaeducation.mk
 0.0.0.0 storage.bulletproofserving.com
 :: storage.bulletproofserving.com
 0.0.0.0 storage.psstgccint.com
@@ -68195,8 +68189,6 @@
 :: usp1.baidu.com
 0.0.0.0 usr.dropkickmedia.com
 :: usr.dropkickmedia.com
-0.0.0.0 uss.ac.th
-:: uss.ac.th
 0.0.0.0 ustaw--tlo-fb.blogspot.com
 :: ustaw--tlo-fb.blogspot.com
 0.0.0.0 usterkiwloclawek.za.pl
@@ -71173,8 +71165,6 @@
 :: wpcdn1.herokuapp.com
 0.0.0.0 wpconte.heliohost.org
 :: wpconte.heliohost.org
-0.0.0.0 wpdemo.wctravel.com.au
-:: wpdemo.wctravel.com.au
 0.0.0.0 wpk.edu.hk
 :: wpk.edu.hk
 0.0.0.0 wpkcuewcemh.fgppchg.fgpp.com
@@ -76819,6 +76809,8 @@
 :: www.scotiaonline.scotiabank.salferreras.com
 0.0.0.0 www.scoutvda.it
 :: www.scoutvda.it
+0.0.0.0 www.sdfbd.org
+:: www.sdfbd.org
 0.0.0.0 www.sdkconfig.ad.intl.xiaomi.com
 :: www.sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 www.sdlpgift.com
@@ -79565,8 +79557,6 @@
 :: yeah.qq.com
 0.0.0.0 yeas.yahoo.co.jp
 :: yeas.yahoo.co.jp
-0.0.0.0 yee.js.cn
-:: yee.js.cn
 0.0.0.0 yee0uexvl6fdfivlrbmr.mbservicesyorkshire.co.uk
 :: yee0uexvl6fdfivlrbmr.mbservicesyorkshire.co.uk
 0.0.0.0 yejfidkdks.ddns.info
