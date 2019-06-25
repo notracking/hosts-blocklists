@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Jun 24 05:45:31 CEST 2019
+# Last update: Tue Jun 25 05:50:45 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 40144
+# Number of unique hostnames: 40155
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -703,8 +703,6 @@
 :: 28.securefinds2.com
 0.0.0.0 283.laobanfa.com
 :: 283.laobanfa.com
-0.0.0.0 2837c085a88c1ba307d4594a.cloudhosting.rsaweb.co.za
-:: 2837c085a88c1ba307d4594a.cloudhosting.rsaweb.co.za
 0.0.0.0 290684.en.world-stone.com
 :: 290684.en.world-stone.com
 0.0.0.0 296f4h3wluqxmie0yqbk8n.littlematchagirl.com.au
@@ -4115,6 +4113,8 @@
 :: ad.ecplaza.net
 0.0.0.0 ad.edision-nord.it
 :: ad.edision-nord.it
+0.0.0.0 ad.edugram.com
+:: ad.edugram.com
 0.0.0.0 ad.eglenced.com
 :: ad.eglenced.com
 0.0.0.0 ad.egloos.com
@@ -27663,6 +27663,8 @@
 :: ddd.gouwuke.cn
 0.0.0.0 ddd.haodizhi666.com
 :: ddd.haodizhi666.com
+0.0.0.0 ddf.shumayin.com
+:: ddf.shumayin.com
 0.0.0.0 ddfnmo6ev4fd.cloudfront.net
 :: ddfnmo6ev4fd.cloudfront.net
 0.0.0.0 ddkbyyg.qhigh.com
@@ -29811,6 +29813,8 @@
 :: e.0wnz6g.cn
 0.0.0.0 e.16qijf.cn
 :: e.16qijf.cn
+0.0.0.0 e.17w3a.cn
+:: e.17w3a.cn
 0.0.0.0 e.1919388.net
 :: e.1919388.net
 0.0.0.0 e.1i94f.cn
@@ -29821,6 +29825,8 @@
 :: e.1zq4lj.cn
 0.0.0.0 e.21lxb.cn
 :: e.21lxb.cn
+0.0.0.0 e.2j75d.cn
+:: e.2j75d.cn
 0.0.0.0 e.2t4um.cn
 :: e.2t4um.cn
 0.0.0.0 e.35rqb.cn
@@ -29855,6 +29861,8 @@
 :: e.60sk.ru
 0.0.0.0 e.6g53b.cn
 :: e.6g53b.cn
+0.0.0.0 e.6w23i.cn
+:: e.6w23i.cn
 0.0.0.0 e.73z9p.cn
 :: e.73z9p.cn
 0.0.0.0 e.7clink.com
@@ -30015,6 +30023,8 @@
 :: e.oyrim.com
 0.0.0.0 e.ozwqxi.cn
 :: e.ozwqxi.cn
+0.0.0.0 e.p98ytk.cn
+:: e.p98ytk.cn
 0.0.0.0 e.poonscn.com
 :: e.poonscn.com
 0.0.0.0 e.ppaie.com
@@ -41243,6 +41253,8 @@
 :: lm.visualware.com
 0.0.0.0 lm.xiashu.la
 :: lm.xiashu.la
+0.0.0.0 lm1.tuliu.com
+:: lm1.tuliu.com
 0.0.0.0 lm1.wzpcw.com
 :: lm1.wzpcw.com
 0.0.0.0 lm5.spyc.biz
@@ -42097,6 +42109,8 @@
 :: m.16qijf.cn
 0.0.0.0 m.1768.com
 :: m.1768.com
+0.0.0.0 m.17w3a.cn
+:: m.17w3a.cn
 0.0.0.0 m.181mob.com
 :: m.181mob.com
 0.0.0.0 m.1919388.net
@@ -42123,6 +42137,8 @@
 :: m.24ihe.cn
 0.0.0.0 m.24pga.cn
 :: m.24pga.cn
+0.0.0.0 m.2j75d.cn
+:: m.2j75d.cn
 0.0.0.0 m.34uvn.cn
 :: m.34uvn.cn
 0.0.0.0 m.35rqb.cn
@@ -42189,12 +42205,16 @@
 :: m.6gv4d.cn
 0.0.0.0 m.6i9th.cn
 :: m.6i9th.cn
+0.0.0.0 m.6w23i.cn
+:: m.6w23i.cn
 0.0.0.0 m.6z1gf.cn
 :: m.6z1gf.cn
 0.0.0.0 m.7180443.com
 :: m.7180443.com
 0.0.0.0 m.73z9p.cn
 :: m.73z9p.cn
+0.0.0.0 m.74n3a.cn
+:: m.74n3a.cn
 0.0.0.0 m.77vcd.com
 :: m.77vcd.com
 0.0.0.0 m.7g4ic.cn
@@ -42329,6 +42349,8 @@
 :: m.chqdz9.com
 0.0.0.0 m.cioysg.com
 :: m.cioysg.com
+0.0.0.0 m.cjjcby.cn
+:: m.cjjcby.cn
 0.0.0.0 m.ckaim.com
 :: m.ckaim.com
 0.0.0.0 m.clkservice.youdao.com
@@ -42513,6 +42535,8 @@
 :: m.hyzui.com
 0.0.0.0 m.hzuic.com
 :: m.hzuic.com
+0.0.0.0 m.i810c.cn
+:: m.i810c.cn
 0.0.0.0 m.iduob.com
 :: m.iduob.com
 0.0.0.0 m.ilancc.com
@@ -42565,6 +42589,8 @@
 :: m.kklomez.cn
 0.0.0.0 m.kubiqq.com
 :: m.kubiqq.com
+0.0.0.0 m.l620e.cn
+:: m.l620e.cn
 0.0.0.0 m.lab-mills.com
 :: m.lab-mills.com
 0.0.0.0 m.laigame7.net
@@ -42589,6 +42615,8 @@
 :: m.loldlxmy.com
 0.0.0.0 m.lu.sogou.com
 :: m.lu.sogou.com
+0.0.0.0 m.lws48e.cn
+:: m.lws48e.cn
 0.0.0.0 m.maila88.com
 :: m.maila88.com
 0.0.0.0 m.maopuzw.com
@@ -50045,8 +50073,6 @@
 :: p27dokhpz2n7nvgr.1vjnyh.top
 0.0.0.0 p27dokhpz2n7nvgr.1wmvk2.top
 :: p27dokhpz2n7nvgr.1wmvk2.top
-0.0.0.0 p2p.huya.com
-:: p2p.huya.com
 0.0.0.0 p2pmid.baofeng.com
 :: p2pmid.baofeng.com
 0.0.0.0 p2sdmkj6t.bkt.clouddn.com
@@ -67865,8 +67891,6 @@
 :: url.jiemengle.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
-0.0.0.0 urladyms.newlogiq.com
-:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -73827,8 +73851,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
