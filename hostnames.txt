@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Jun 25 05:50:45 CEST 2019
+# Last update: Wed Jun 26 05:41:46 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 40155
+# Number of unique hostnames: 40176
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -18911,6 +18911,8 @@
 :: beacon-17-537698933.us-east-1.elb.amazonaws.com
 0.0.0.0 beacon-all.walmart.com.akadns.net
 :: beacon-all.walmart.com.akadns.net
+0.0.0.0 beacon-v2.helpscout.net
+:: beacon-v2.helpscout.net
 0.0.0.0 beacon.a.triptease.io
 :: beacon.a.triptease.io
 0.0.0.0 beacon.ads.scanapps.com
@@ -18995,6 +18997,8 @@
 :: beacon.wikia-services.com
 0.0.0.0 beacon2.indieclicktv.com
 :: beacon2.indieclicktv.com
+0.0.0.0 beaconapi.helpscout.net
+:: beaconapi.helpscout.net
 0.0.0.0 beaconin2.notinote.me
 :: beaconin2.notinote.me
 0.0.0.0 beacons.brandads.net
@@ -23335,6 +23339,8 @@
 :: clickcdn.xda-developers.com
 0.0.0.0 clickdeskvisitors.appspot.com
 :: clickdeskvisitors.appspot.com
+0.0.0.0 clickerheroestracker.azurewebsites.net
+:: clickerheroestracker.azurewebsites.net
 0.0.0.0 clickhere.egroups.com
 :: clickhere.egroups.com
 0.0.0.0 clickit.go2net.com
@@ -31095,6 +31101,8 @@
 :: etissalat.ultimatefreehost.com
 0.0.0.0 etissialat.bugs3.com
 :: etissialat.bugs3.com
+0.0.0.0 etitrack.azurewebsites.net
+:: etitrack.azurewebsites.net
 0.0.0.0 etl.xlmc.sandai.net
 :: etl.xlmc.sandai.net
 0.0.0.0 etl.xlmc.sec.miui.com
@@ -33471,8 +33479,6 @@
 :: galaxyattack-de0bd.firebaseio.com
 0.0.0.0 galent1.000webhostapp.com
 :: galent1.000webhostapp.com
-0.0.0.0 galifeu-kolsmmrwoytjfvofzfg.stackpathdns.com
-:: galifeu-kolsmmrwoytjfvofzfg.stackpathdns.com
 0.0.0.0 galkavk.esy.es
 :: galkavk.esy.es
 0.0.0.0 gall.dcinside.com
@@ -38421,6 +38427,8 @@
 :: iphoneunlocker.org.uk
 0.0.0.0 ipic.staticsdo.com
 :: ipic.staticsdo.com
+0.0.0.0 ipl-easytracker.azurewebsites.net
+:: ipl-easytracker.azurewebsites.net
 0.0.0.0 ipl.t-liga.ru
 :: ipl.t-liga.ru
 0.0.0.0 iplay.163.com
@@ -45301,6 +45309,8 @@
 :: mklik.gazeta.pl
 0.0.0.0 mkt.publico.pt
 :: mkt.publico.pt
+0.0.0.0 mktg.helpscout.net
+:: mktg.helpscout.net
 0.0.0.0 mktg.marktplaats.nl
 :: mktg.marktplaats.nl
 0.0.0.0 mkto-pages.power.com
@@ -51847,6 +51857,36 @@
 :: pipedream.wistia.com
 0.0.0.0 pipki.r.worldssl.net
 :: pipki.r.worldssl.net
+0.0.0.0 piplbot-169-48-66-82.pipl.com
+:: piplbot-169-48-66-82.pipl.com
+0.0.0.0 piplbot-169-48-66-83.pipl.com
+:: piplbot-169-48-66-83.pipl.com
+0.0.0.0 piplbot-169-48-66-85.pipl.com
+:: piplbot-169-48-66-85.pipl.com
+0.0.0.0 piplbot-169-48-66-89.pipl.com
+:: piplbot-169-48-66-89.pipl.com
+0.0.0.0 piplbot-169-48-66-90.pipl.com
+:: piplbot-169-48-66-90.pipl.com
+0.0.0.0 piplbot-169-48-66-91.pipl.com
+:: piplbot-169-48-66-91.pipl.com
+0.0.0.0 piplbot-169-48-66-92.pipl.com
+:: piplbot-169-48-66-92.pipl.com
+0.0.0.0 piplbot-169-48-66-93.pipl.com
+:: piplbot-169-48-66-93.pipl.com
+0.0.0.0 piplbot-169-48-66-94.pipl.com
+:: piplbot-169-48-66-94.pipl.com
+0.0.0.0 piplbot-169-60-128-101.pipl.com
+:: piplbot-169-60-128-101.pipl.com
+0.0.0.0 piplbot-169-60-128-104.pipl.com
+:: piplbot-169-60-128-104.pipl.com
+0.0.0.0 piplbot-169-60-128-106.pipl.com
+:: piplbot-169-60-128-106.pipl.com
+0.0.0.0 piplbot-169-60-128-121.pipl.com
+:: piplbot-169-60-128-121.pipl.com
+0.0.0.0 piplbot-169-60-128-125.pipl.com
+:: piplbot-169-60-128-125.pipl.com
+0.0.0.0 piplbot-169-60-128-99.pipl.com
+:: piplbot-169-60-128-99.pipl.com
 0.0.0.0 pirateruncomptegratuit.freehacks.pw
 :: pirateruncomptegratuit.freehacks.pw
 0.0.0.0 pishgaman.sahraco.com
@@ -52355,6 +52395,8 @@
 :: plx.gameblog.fr
 0.0.0.0 plx.porndig.com
 :: plx.porndig.com
+0.0.0.0 plx.pornototale.com
+:: plx.pornototale.com
 0.0.0.0 plz.jandan.net
 :: plz.jandan.net
 0.0.0.0 pm.aty.sohu.com
@@ -67891,6 +67933,8 @@
 :: url.jiemengle.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
+0.0.0.0 urladyms.newlogiq.com
+:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -68205,8 +68249,6 @@
 :: usmatch-com.weebly.com
 0.0.0.0 usmsad.tom.com
 :: usmsad.tom.com
-0.0.0.0 usnai.restoremystuff.com
-:: usnai.restoremystuff.com
 0.0.0.0 usnujqkjzzu.netflix004.otzo.com
 :: usnujqkjzzu.netflix004.otzo.com
 0.0.0.0 usp1.baidu.com
@@ -73851,6 +73893,8 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
+0.0.0.0 www.fishingtackleindia.com
+:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -75279,8 +75323,6 @@
 :: www.locgest.com
 0.0.0.0 www.lockview.cn
 :: www.lockview.cn
-0.0.0.0 www.log-in-verlag.de
-:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
