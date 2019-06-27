@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Jun 26 05:41:46 CEST 2019
+# Last update: Thu Jun 27 05:49:42 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 40176
+# Number of unique hostnames: 40207
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3253,6 +3253,8 @@
 :: abc.yuedea.com
 0.0.0.0 abc.zhiyaspa.com
 :: abc.zhiyaspa.com
+0.0.0.0 abc.zuiairead.com
+:: abc.zuiairead.com
 0.0.0.0 abc1.yszyz.com
 :: abc1.yszyz.com
 0.0.0.0 abcbureautique.abc.perso.neuf.fr
@@ -15787,6 +15789,8 @@
 :: apple.com-scan.live
 0.0.0.0 apple.com-security-desktop-antimalware-support.download
 :: apple.com-security-desktop-antimalware-support.download
+0.0.0.0 apple.com-shield-device.live
+:: apple.com-shield-device.live
 0.0.0.0 apple.com-speed-macos.live
 :: apple.com-speed-macos.live
 0.0.0.0 apple.com-speedup-macbook.live
@@ -16563,6 +16567,8 @@
 :: audio2.spotify.com
 0.0.0.0 audioz.matomo.cloud
 :: audioz.matomo.cloud
+0.0.0.0 audit.aaa.mgtv.com
+:: audit.aaa.mgtv.com
 0.0.0.0 audit.webinform.hu
 :: audit.webinform.hu
 0.0.0.0 auditdelivery.000webhostapp.com
@@ -19991,6 +19997,8 @@
 :: brokeneagledlc.goblogz.net
 0.0.0.0 broker.adobe.com
 :: broker.adobe.com
+0.0.0.0 browncustomsoftware.net.au
+:: browncustomsoftware.net.au
 0.0.0.0 browser.events.data.microsoft.com
 :: browser.events.data.microsoft.com
 0.0.0.0 browser.pipe.aria.microsoft.com
@@ -21311,6 +21319,8 @@
 :: ccomglobal.net.in
 0.0.0.0 ccstatic.highwebmedia.com
 :: ccstatic.highwebmedia.com
+0.0.0.0 ccv.ybt999.com
+:: ccv.ybt999.com
 0.0.0.0 ccvncn.greatriverohio.com
 :: ccvncn.greatriverohio.com
 0.0.0.0 ccvoices.000webhostapp.com
@@ -23655,8 +23665,6 @@
 :: clubdo.free.fr
 0.0.0.0 clubpenguin.haxdo.com
 :: clubpenguin.haxdo.com
-0.0.0.0 clubshop.boeckman.net
-:: clubshop.boeckman.net
 0.0.0.0 clumsyninjahack.goblogz.net
 :: clumsyninjahack.goblogz.net
 0.0.0.0 cluster.adultworld.com
@@ -29859,6 +29867,8 @@
 :: e.598md.cn
 0.0.0.0 e.5h9gdb.cn
 :: e.5h9gdb.cn
+0.0.0.0 e.5n8iug.cn
+:: e.5n8iug.cn
 0.0.0.0 e.5pzs0o.cn
 :: e.5pzs0o.cn
 0.0.0.0 e.5qk4xi.cn
@@ -29887,6 +29897,8 @@
 :: e.82uxa.cn
 0.0.0.0 e.89bia.cn
 :: e.89bia.cn
+0.0.0.0 e.8of9hd.cn
+:: e.8of9hd.cn
 0.0.0.0 e.91.com
 :: e.91.com
 0.0.0.0 e.958so.cn
@@ -30041,6 +30053,8 @@
 :: e.puooi.com
 0.0.0.0 e.q047i.cn
 :: e.q047i.cn
+0.0.0.0 e.q671e.cn
+:: e.q671e.cn
 0.0.0.0 e.qiaoyuwang.com
 :: e.qiaoyuwang.com
 0.0.0.0 e.qiyunmuye.com
@@ -30443,6 +30457,8 @@
 :: ee93d0dc.ngrok.io
 0.0.0.0 eecky.butlerelectricsupply.com
 :: eecky.butlerelectricsupply.com
+0.0.0.0 eed.ntjrh.com
+:: eed.ntjrh.com
 0.0.0.0 eeewwwwwwee.jvp.lk
 :: eeewwwwwwee.jvp.lk
 0.0.0.0 eegad.freeservers.com
@@ -33479,6 +33495,8 @@
 :: galaxyattack-de0bd.firebaseio.com
 0.0.0.0 galent1.000webhostapp.com
 :: galent1.000webhostapp.com
+0.0.0.0 galifeu-kolsmmrwoytjfvofzfg.stackpathdns.com
+:: galifeu-kolsmmrwoytjfvofzfg.stackpathdns.com
 0.0.0.0 galkavk.esy.es
 :: galkavk.esy.es
 0.0.0.0 gall.dcinside.com
@@ -40721,6 +40739,8 @@
 :: leadtracking.plumvoice.com
 0.0.0.0 leahram.daimlercruiz.ml
 :: leahram.daimlercruiz.ml
+0.0.0.0 learn2upgrade.find4bettervideoing.info
+:: learn2upgrade.find4bettervideoing.info
 0.0.0.0 learning.ipeary.com
 :: learning.ipeary.com
 0.0.0.0 learning.worldjumprope.org
@@ -41429,6 +41449,8 @@
 :: log.ekitan.com
 0.0.0.0 log.espn.com
 :: log.espn.com
+0.0.0.0 log.event.hunantv.com
+:: log.event.hunantv.com
 0.0.0.0 log.fc.yahoo.com
 :: log.fc.yahoo.com
 0.0.0.0 log.formr.io
@@ -41517,6 +41539,8 @@
 :: log.sina.cn
 0.0.0.0 log.snapdeal.com
 :: log.snapdeal.com
+0.0.0.0 log.so.hunantv.com
+:: log.so.hunantv.com
 0.0.0.0 log.spotify.com
 :: log.spotify.com
 0.0.0.0 log.stat.kugou.com
@@ -42193,6 +42217,8 @@
 :: m.5d63b.cn
 0.0.0.0 m.5h9gdb.cn
 :: m.5h9gdb.cn
+0.0.0.0 m.5n8iug.cn
+:: m.5n8iug.cn
 0.0.0.0 m.5pzs0o.cn
 :: m.5pzs0o.cn
 0.0.0.0 m.5vst8h.cn
@@ -42223,8 +42249,12 @@
 :: m.73z9p.cn
 0.0.0.0 m.74n3a.cn
 :: m.74n3a.cn
+0.0.0.0 m.75l3g.cn
+:: m.75l3g.cn
 0.0.0.0 m.77vcd.com
 :: m.77vcd.com
+0.0.0.0 m.78o5a.cn
+:: m.78o5a.cn
 0.0.0.0 m.7g4ic.cn
 :: m.7g4ic.cn
 0.0.0.0 m.7hd2ma.cn
@@ -42239,8 +42269,14 @@
 :: m.80o4j.cn
 0.0.0.0 m.89bia.cn
 :: m.89bia.cn
+0.0.0.0 m.8b7zja.cn
+:: m.8b7zja.cn
+0.0.0.0 m.8of9hd.cn
+:: m.8of9hd.cn
 0.0.0.0 m.937920.com
 :: m.937920.com
+0.0.0.0 m.958so.cn
+:: m.958so.cn
 0.0.0.0 m.95z3a.cn
 :: m.95z3a.cn
 0.0.0.0 m.96y5h.cn
@@ -42399,6 +42435,8 @@
 :: m.duias.com
 0.0.0.0 m.e2n8vc.cn
 :: m.e2n8vc.cn
+0.0.0.0 m.e9wm6a.cn
+:: m.e9wm6a.cn
 0.0.0.0 m.easypatent.net
 :: m.easypatent.net
 0.0.0.0 m.ecenf.com
@@ -42631,6 +42669,8 @@
 :: m.maopuzw.com
 0.0.0.0 m.matdm.com
 :: m.matdm.com
+0.0.0.0 m.mcnnic.com
+:: m.mcnnic.com
 0.0.0.0 m.mffcf.cn
 :: m.mffcf.cn
 0.0.0.0 m.miaoxinqipei.com
@@ -42711,6 +42751,8 @@
 :: m.puooi.com
 0.0.0.0 m.q047i.cn
 :: m.q047i.cn
+0.0.0.0 m.q671e.cn
+:: m.q671e.cn
 0.0.0.0 m.qbenu.com
 :: m.qbenu.com
 0.0.0.0 m.qcw.com
@@ -42765,6 +42807,8 @@
 :: m.sfouh.com
 0.0.0.0 m.sfp61.cn
 :: m.sfp61.cn
+0.0.0.0 m.sfscooter.cn
+:: m.sfscooter.cn
 0.0.0.0 m.sharpmobilemarketing.onlinetrafficresults.com
 :: m.sharpmobilemarketing.onlinetrafficresults.com
 0.0.0.0 m.shopathome.com
@@ -42881,6 +42925,8 @@
 :: m.wshufa.com
 0.0.0.0 m.wuqutu.com
 :: m.wuqutu.com
+0.0.0.0 m.x316f.cn
+:: m.x316f.cn
 0.0.0.0 m.x78tg.cn
 :: m.x78tg.cn
 0.0.0.0 m.xcams.com
@@ -44965,6 +45011,8 @@
 :: microreporting.metronews.ru
 0.0.0.0 microreporting.publimetro.cl
 :: microreporting.publimetro.cl
+0.0.0.0 microservice.hapyak.com
+:: microservice.hapyak.com
 0.0.0.0 microsoft-office-36563.webnode.com
 :: microsoft-office-36563.webnode.com
 0.0.0.0 microsoft.com-it2-dye1.premi-fedelta-degli-utenti.us
@@ -45481,6 +45529,8 @@
 :: mobile.aws.weather.com
 0.0.0.0 mobile.banzai.it
 :: mobile.banzai.it
+0.0.0.0 mobile.beliar.ru
+:: mobile.beliar.ru
 0.0.0.0 mobile.bet.pt
 :: mobile.bet.pt
 0.0.0.0 mobile.bet365.com
@@ -47131,6 +47181,8 @@
 :: niveahie.beget.tech
 0.0.0.0 nj1-api.sail-personalize.com
 :: nj1-api.sail-personalize.com
+0.0.0.0 njd.tzxianghao.cn
+:: njd.tzxianghao.cn
 0.0.0.0 njs.imagicskin.com
 :: njs.imagicskin.com
 0.0.0.0 njtgsd.attackthethrone.com
@@ -52599,8 +52651,6 @@
 :: png.lu.sogoucdn.com
 0.0.0.0 pnmgghschool.edu.bd
 :: pnmgghschool.edu.bd
-0.0.0.0 pntc.ac.th
-:: pntc.ac.th
 0.0.0.0 po.fyybox.com
 :: po.fyybox.com
 0.0.0.0 po.spynets.ru
@@ -52665,8 +52715,6 @@
 :: polemic-prisms.000webhostapp.com
 0.0.0.0 police-fbi.securityservice.review
 :: police-fbi.securityservice.review
-0.0.0.0 police.moraga.ca.us
-:: police.moraga.ca.us
 0.0.0.0 police11.provenprotection.net
 :: police11.provenprotection.net
 0.0.0.0 policy.bigfishgames.com
@@ -54369,8 +54417,12 @@
 :: qpxxhyzwae.ce.ms
 0.0.0.0 qpyosxkmcc.yi.org
 :: qpyosxkmcc.yi.org
+0.0.0.0 qqa.miaozhu823.com
+:: qqa.miaozhu823.com
 0.0.0.0 qqlogo.qq.com
 :: qqlogo.qq.com
+0.0.0.0 qqs.glpen08.com
+:: qqs.glpen08.com
 0.0.0.0 qqshow2-item.qq.com
 :: qqshow2-item.qq.com
 0.0.0.0 qqxxlwnzmp.bradul.creatory.org
@@ -72261,6 +72313,8 @@
 :: www.alrpost69.com
 0.0.0.0 www.aluguerdiadema.com
 :: www.aluguerdiadema.com
+0.0.0.0 www.am0624.com
+:: www.am0624.com
 0.0.0.0 www.amazing-opportunities.info
 :: www.amazing-opportunities.info
 0.0.0.0 www.amberlf.cn
@@ -72395,6 +72449,8 @@
 :: www.apple.com-scan-mac.live
 0.0.0.0 www.apple.com-scan.live
 :: www.apple.com-scan.live
+0.0.0.0 www.apple.com-shield-device.live
+:: www.apple.com-shield-device.live
 0.0.0.0 www.apple.com-speed-macbook.live
 :: www.apple.com-speed-macbook.live
 0.0.0.0 www.apple.com-speed-macos.live
@@ -75217,6 +75273,8 @@
 :: www.leaderspost.com
 0.0.0.0 www.leadgreed.com
 :: www.leadgreed.com
+0.0.0.0 www.learn2upgrade.find4bettervideoing.info
+:: www.learn2upgrade.find4bettervideoing.info
 0.0.0.0 www.leeringsmxcgbra.download
 :: www.leeringsmxcgbra.download
 0.0.0.0 www.legalizacja.5v.pl
@@ -75323,6 +75381,8 @@
 :: www.locgest.com
 0.0.0.0 www.lockview.cn
 :: www.lockview.cn
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -79073,6 +79133,8 @@
 :: xaca15.earth.northerndishedends.co.uk
 0.0.0.0 xads.100links.com
 :: xads.100links.com
+0.0.0.0 xafuetguv.ddns.net
+:: xafuetguv.ddns.net
 0.0.0.0 xahj1kcx8txp89ibvsjj.alfacomercial.com.br
 :: xahj1kcx8txp89ibvsjj.alfacomercial.com.br
 0.0.0.0 xamateurpornlic.www1.biz
