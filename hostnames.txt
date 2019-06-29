@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Jun 28 06:48:55 CEST 2019
+# Last update: Sat Jun 29 05:45:29 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 40249
+# Number of unique hostnames: 40256
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2419,6 +2419,8 @@
 :: 9hrds.wolfcrap.at
 0.0.0.0 9jqpm2.wm.warmglow.org
 :: 9jqpm2.wm.warmglow.org
+0.0.0.0 9lks.piratebayproxies.cc
+:: 9lks.piratebayproxies.cc
 0.0.0.0 9nlblwte8sgt4bm3dcny.maherstcottage.com.au
 :: 9nlblwte8sgt4bm3dcny.maherstcottage.com.au
 0.0.0.0 9oxigfyv1n.bradul.creatory.org
@@ -3315,6 +3317,8 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
+0.0.0.0 abusalewm.exceltoner.com
+:: abusalewm.exceltoner.com
 0.0.0.0 ac.86huoche.com
 :: ac.86huoche.com
 0.0.0.0 ac.ajur.info
@@ -16029,6 +16033,8 @@
 :: aqcyua.est.northerndishedends.com
 0.0.0.0 aqua.dmm.co.jp
 :: aqua.dmm.co.jp
+0.0.0.0 aquafit.sklep.pl
+:: aquafit.sklep.pl
 0.0.0.0 aquarius-heel.000webhostapp.com
 :: aquarius-heel.000webhostapp.com
 0.0.0.0 aquavista.org.nz
@@ -23631,6 +23637,8 @@
 :: cloud.pdf.sukunstays.com
 0.0.0.0 cloud.vip.163.com
 :: cloud.vip.163.com
+0.0.0.0 cloud.xenoris.fr
+:: cloud.xenoris.fr
 0.0.0.0 cloud.zyiis.net
 :: cloud.zyiis.net
 0.0.0.0 cloud02.conquistasc.com
@@ -43405,6 +43413,8 @@
 :: malajsie.webzdarma.cz
 0.0.0.0 malampanjang88.000webhostapp.com
 :: malampanjang88.000webhostapp.com
+0.0.0.0 malamut.revolverindy.com
+:: malamut.revolverindy.com
 0.0.0.0 malathris.cz.cc
 :: malathris.cz.cc
 0.0.0.0 maldenvr.beget.tech
@@ -64151,6 +64161,8 @@
 :: test.sexeanonyme.com
 0.0.0.0 test.sies.uz
 :: test.sies.uz
+0.0.0.0 test.ss1.eu
+:: test.ss1.eu
 0.0.0.0 test.surepush.cn
 :: test.surepush.cn
 0.0.0.0 test.verox.dk
@@ -68063,8 +68075,6 @@
 :: url.jiemengle.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
-0.0.0.0 urladyms.newlogiq.com
-:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -70935,6 +70945,8 @@
 :: widgets.mozo.com.au
 0.0.0.0 widgets.mywai.de
 :: widgets.mywai.de
+0.0.0.0 widgets.prisjakt.nu
+:: widgets.prisjakt.nu
 0.0.0.0 widgets.privateproperty.com.ng
 :: widgets.privateproperty.com.ng
 0.0.0.0 widgets.progrids.com
@@ -72569,6 +72581,8 @@
 :: www.aptrafficnetwork.com
 0.0.0.0 www.aquacell.pl
 :: www.aquacell.pl
+0.0.0.0 www.aquafit.sklep.pl
+:: www.aquafit.sklep.pl
 0.0.0.0 www.arbeitssuche-web.de
 :: www.arbeitssuche-web.de
 0.0.0.0 www.arboretum.hu
@@ -74029,8 +74043,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -75623,8 +75635,6 @@
 :: www.mb89-live.com
 0.0.0.0 www.mbai.cn
 :: www.mbai.cn
-0.0.0.0 www.mbeccarini.com
-:: www.mbeccarini.com
 0.0.0.0 www.mcsqd.com
 :: www.mcsqd.com
 0.0.0.0 www.mcwhorterdesign.com
@@ -77333,6 +77343,8 @@
 :: www.spywaresnooper.com
 0.0.0.0 www.srhuafeng.com
 :: www.srhuafeng.com
+0.0.0.0 www.sri.cmu.ac.th
+:: www.sri.cmu.ac.th
 0.0.0.0 www.srld.com
 :: www.srld.com
 0.0.0.0 www.srn.net.in
@@ -77729,6 +77741,8 @@
 :: www.tigipro.pl
 0.0.0.0 www.timefor.com
 :: www.timefor.com
+0.0.0.0 www.timelessimagesmi.com
+:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tinayr.go.ro
