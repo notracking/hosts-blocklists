@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Jun 30 05:48:32 CEST 2019
+# Last update: Mon Jul 1 05:48:43 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 40257
+# Number of unique hostnames: 40279
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -393,6 +393,8 @@
 :: 123.163.com
 0.0.0.0 123.8w8w8w.com.cn
 :: 123.8w8w8w.com.cn
+0.0.0.0 123.ydylwang.net
+:: 123.ydylwang.net
 0.0.0.0 123boy.free.fr
 :: 123boy.free.fr
 0.0.0.0 123branlemoi.free.fr
@@ -2927,6 +2929,8 @@
 :: a1.16700.net
 0.0.0.0 a1.7down.com
 :: a1.7down.com
+0.0.0.0 a1.99933.cn
+:: a1.99933.cn
 0.0.0.0 a1.99966.cn
 :: a1.99966.cn
 0.0.0.0 a1.adstore.jp
@@ -2963,8 +2967,6 @@
 :: a1.mingyihui.net
 0.0.0.0 a1.peoplecdn.cn
 :: a1.peoplecdn.cn
-0.0.0.0 a1.qizhihaotian.com
-:: a1.qizhihaotian.com
 0.0.0.0 a1.qqjay.com
 :: a1.qqjay.com
 0.0.0.0 a1.qqtn.com
@@ -3185,6 +3187,8 @@
 :: ab-reference-id-number-8697.epkphotography.com
 0.0.0.0 ab.adrevivify.com
 :: ab.adrevivify.com
+0.0.0.0 ab.cnbanbao.com
+:: ab.cnbanbao.com
 0.0.0.0 ab.gaoguang.com
 :: ab.gaoguang.com
 0.0.0.0 ab.hysdknb.com
@@ -3317,6 +3321,8 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
+0.0.0.0 abusalewm.exceltoner.com
+:: abusalewm.exceltoner.com
 0.0.0.0 ac.86huoche.com
 :: ac.86huoche.com
 0.0.0.0 ac.ajur.info
@@ -15147,6 +15153,8 @@
 :: api.dianru.com
 0.0.0.0 api.doumob.com
 :: api.doumob.com
+0.0.0.0 api.e-cg.cn
+:: api.e-cg.cn
 0.0.0.0 api.elasticemail.com
 :: api.elasticemail.com
 0.0.0.0 api.eqmob.com
@@ -19517,8 +19525,6 @@
 :: blogads.ebanner.nl
 0.0.0.0 bloggers.fuckyoucash.com
 :: bloggers.fuckyoucash.com
-0.0.0.0 blogmason.mixh.jp
-:: blogmason.mixh.jp
 0.0.0.0 blogroll.livedoor.net
 :: blogroll.livedoor.net
 0.0.0.0 blogs.itsynergy.co
@@ -21159,8 +21165,6 @@
 :: carec.000webhostapp.com
 0.0.0.0 careers.canwestad.net
 :: careers.canwestad.net
-0.0.0.0 careers.matrix-global.net
-:: careers.matrix-global.net
 0.0.0.0 carelife.koborezakura.com
 :: carelife.koborezakura.com
 0.0.0.0 carisoprodol.polybuild.ru
@@ -27211,8 +27215,6 @@
 :: daast.digitalbox.ru
 0.0.0.0 dabiank.netsons.org
 :: dabiank.netsons.org
-0.0.0.0 dac-website.000webhostapp.com
-:: dac-website.000webhostapp.com
 0.0.0.0 dachbud.slask.pl
 :: dachbud.slask.pl
 0.0.0.0 dadossolicitado-antendimento.sad879.mobi
@@ -29869,12 +29871,16 @@
 :: e.1i94f.cn
 0.0.0.0 e.1q89b.cn
 :: e.1q89b.cn
+0.0.0.0 e.1r8th.cn
+:: e.1r8th.cn
 0.0.0.0 e.1zq4lj.cn
 :: e.1zq4lj.cn
 0.0.0.0 e.21lxb.cn
 :: e.21lxb.cn
 0.0.0.0 e.2j75d.cn
 :: e.2j75d.cn
+0.0.0.0 e.2n5kmg.cn
+:: e.2n5kmg.cn
 0.0.0.0 e.2t4um.cn
 :: e.2t4um.cn
 0.0.0.0 e.35rqb.cn
@@ -29897,6 +29903,8 @@
 :: e.51xmgys.com
 0.0.0.0 e.53trya.cn
 :: e.53trya.cn
+0.0.0.0 e.53y8t.cn
+:: e.53y8t.cn
 0.0.0.0 e.598md.cn
 :: e.598md.cn
 0.0.0.0 e.5h9gdb.cn
@@ -29937,6 +29945,8 @@
 :: e.91.com
 0.0.0.0 e.95z3a.cn
 :: e.95z3a.cn
+0.0.0.0 e.967nd.cn
+:: e.967nd.cn
 0.0.0.0 e.980he.cn
 :: e.980he.cn
 0.0.0.0 e.9mf0a.cn
@@ -31559,6 +31569,8 @@
 :: f05098.privacy4browsers.com
 0.0.0.0 f1.06ps.com
 :: f1.06ps.com
+0.0.0.0 f1.ichong123.com
+:: f1.ichong123.com
 0.0.0.0 f1.ilivlite.com
 :: f1.ilivlite.com
 0.0.0.0 f1.lutouwang.net
@@ -33451,6 +33463,8 @@
 :: g.yccdn.com
 0.0.0.0 g.zhgdhe.com
 :: g.zhgdhe.com
+0.0.0.0 g.zhoukaika.com
+:: g.zhoukaika.com
 0.0.0.0 g00gledrivedevelopment-edouardmalingue-com.aceleradoradeempresas.com
 :: g00gledrivedevelopment-edouardmalingue-com.aceleradoradeempresas.com
 0.0.0.0 g1-globo.com-b4.info
@@ -39207,8 +39221,6 @@
 :: jobs.nuwerk.monsterboard.nl
 0.0.0.0 jochuwz50k.zl9ep5zzxe.madpendesign.com.au
 :: jochuwz50k.zl9ep5zzxe.madpendesign.com.au
-0.0.0.0 joeing.duckdns.org
-:: joeing.duckdns.org
 0.0.0.0 joejdbjrmrkklfnmf.usr.me
 :: joejdbjrmrkklfnmf.usr.me
 0.0.0.0 jogjadebatingforum.or.id
@@ -39355,6 +39367,8 @@
 :: js.5iydz.com
 0.0.0.0 js.5xml.com
 :: js.5xml.com
+0.0.0.0 js.8o9o.com
+:: js.8o9o.com
 0.0.0.0 js.9669.cn
 :: js.9669.cn
 0.0.0.0 js.9ads.net
@@ -39451,6 +39465,8 @@
 :: js.mobojoy.baidu.com
 0.0.0.0 js.mumayi.net
 :: js.mumayi.net
+0.0.0.0 js.mzxxiend.com
+:: js.mzxxiend.com
 0.0.0.0 js.newrutor.eu.org
 :: js.newrutor.eu.org
 0.0.0.0 js.nrcdn.com
@@ -39491,8 +39507,6 @@
 :: js.stats.de
 0.0.0.0 js.stormcontainertag.com
 :: js.stormcontainertag.com
-0.0.0.0 js.stripe.com
-:: js.stripe.com
 0.0.0.0 js.stroeermediabrands.de
 :: js.stroeermediabrands.de
 0.0.0.0 js.theprimead.co.kr
@@ -40511,6 +40525,8 @@
 :: l.yidianzixun.com
 0.0.0.0 l0-secure.videohub.tv
 :: l0-secure.videohub.tv
+0.0.0.0 l00tfiilues.lepfj.site
+:: l00tfiilues.lepfj.site
 0.0.0.0 l0ohpwfz-site.atempurl.com
 :: l0ohpwfz-site.atempurl.com
 0.0.0.0 l1.soarfi.cn
@@ -42181,6 +42197,8 @@
 :: m.08jq9b.cn
 0.0.0.0 m.0cec5.com
 :: m.0cec5.com
+0.0.0.0 m.0o8iuh.cn
+:: m.0o8iuh.cn
 0.0.0.0 m.0vj6i.cn
 :: m.0vj6i.cn
 0.0.0.0 m.0wnz6g.cn
@@ -42211,6 +42229,8 @@
 :: m.1q89b.cn
 0.0.0.0 m.1qp9k.cn
 :: m.1qp9k.cn
+0.0.0.0 m.1r8th.cn
+:: m.1r8th.cn
 0.0.0.0 m.1sur6d.cn
 :: m.1sur6d.cn
 0.0.0.0 m.1x3td.cn
@@ -42263,6 +42283,8 @@
 :: m.52j72s.com
 0.0.0.0 m.53trya.cn
 :: m.53trya.cn
+0.0.0.0 m.53y8t.cn
+:: m.53y8t.cn
 0.0.0.0 m.551144.com
 :: m.551144.com
 0.0.0.0 m.598md.cn
@@ -42331,6 +42353,8 @@
 :: m.937920.com
 0.0.0.0 m.95z3a.cn
 :: m.95z3a.cn
+0.0.0.0 m.967nd.cn
+:: m.967nd.cn
 0.0.0.0 m.96y5h.cn
 :: m.96y5h.cn
 0.0.0.0 m.97tuk.cn
@@ -42371,6 +42395,8 @@
 :: m.ajiuc.com
 0.0.0.0 m.ajxqiongbg.com
 :: m.ajxqiongbg.com
+0.0.0.0 m.amhmhg.cn
+:: m.amhmhg.cn
 0.0.0.0 m.analytics.126.net
 :: m.analytics.126.net
 0.0.0.0 m.anyfiles.ovh
@@ -42421,6 +42447,8 @@
 :: m.besthairsaloncolumbia.com
 0.0.0.0 m.bgaix.com
 :: m.bgaix.com
+0.0.0.0 m.bififd.cn
+:: m.bififd.cn
 0.0.0.0 m.biquge5200.cc
 :: m.biquge5200.cc
 0.0.0.0 m.bkuax.com
@@ -42497,6 +42525,8 @@
 :: m.efeir.com
 0.0.0.0 m.efeiy.com
 :: m.efeiy.com
+0.0.0.0 m.eglglh.cn
+:: m.eglglh.cn
 0.0.0.0 m.eliuy.com
 :: m.eliuy.com
 0.0.0.0 m.enrogwm.cn
@@ -43057,6 +43087,8 @@
 :: m1.27com.com
 0.0.0.0 m1.51kaowang.com
 :: m1.51kaowang.com
+0.0.0.0 m1.81312.com
+:: m1.81312.com
 0.0.0.0 m1.asklib.com
 :: m1.asklib.com
 0.0.0.0 m1.bitequan.net.cn
@@ -43065,6 +43097,8 @@
 :: m1.darfd.com
 0.0.0.0 m1.daumcdn.net
 :: m1.daumcdn.net
+0.0.0.0 m1.dxsbb.com
+:: m1.dxsbb.com
 0.0.0.0 m1.jintang114.org
 :: m1.jintang114.org
 0.0.0.0 m1.kuanff.com
@@ -45333,8 +45367,6 @@
 :: mipichincha10.webcindario.com
 0.0.0.0 mipichinchaa.webcindario.com
 :: mipichinchaa.webcindario.com
-0.0.0.0 miplusmutiaraislam.sch.id
-:: miplusmutiaraislam.sch.id
 0.0.0.0 mipoly.edu.in
 :: mipoly.edu.in
 0.0.0.0 mipsa.ciae.ac.cn
@@ -47127,8 +47159,6 @@
 :: nfdnserror9.wo.com.cn
 0.0.0.0 nfm.optdiv.net
 :: nfm.optdiv.net
-0.0.0.0 nforsdt.org.np
-:: nforsdt.org.np
 0.0.0.0 nfs.visits.lt
 :: nfs.visits.lt
 0.0.0.0 ng.mybc.com
@@ -47817,6 +47847,8 @@
 :: o.sa.aol.com
 0.0.0.0 o.ss2.us
 :: o.ss2.us
+0.0.0.0 o.su9orw.cn
+:: o.su9orw.cn
 0.0.0.0 o.swisscom.ch
 :: o.swisscom.ch
 0.0.0.0 o.web-pr8swork134.compact.view-scr.f-use-dbx.talrak.co.in
@@ -54221,6 +54253,8 @@
 :: pv.focus.cn
 0.0.0.0 pv.hd.sohu.com
 :: pv.hd.sohu.com
+0.0.0.0 pv.ldlwdsx.com
+:: pv.ldlwdsx.com
 0.0.0.0 pv.sogou.com
 :: pv.sogou.com
 0.0.0.0 pv.sohu.com
@@ -55715,6 +55749,8 @@
 :: res.lazyswipe.com
 0.0.0.0 res.teleskip.net
 :: res.teleskip.net
+0.0.0.0 res.ymxiaopin.com
+:: res.ymxiaopin.com
 0.0.0.0 research.de.com
 :: research.de.com
 0.0.0.0 research.ifmo.ru
@@ -55817,6 +55853,8 @@
 :: revokocha.000webhostapp.com
 0.0.0.0 reward-zone.treatmentthrone.xyz
 :: reward-zone.treatmentthrone.xyz
+0.0.0.0 reward5363.hardmonday53.agency
+:: reward5363.hardmonday53.agency
 0.0.0.0 rewdedaa.gratisdejtingsajter.com
 :: rewdedaa.gratisdejtingsajter.com
 0.0.0.0 rewoza.smartsme.tv
@@ -56675,6 +56713,8 @@
 :: s1.dapenti.com
 0.0.0.0 s1.dugoogle.com
 :: s1.dugoogle.com
+0.0.0.0 s1.ei16h.cn
+:: s1.ei16h.cn
 0.0.0.0 s1.eyeonmusica.it
 :: s1.eyeonmusica.it
 0.0.0.0 s1.fahosting.com
@@ -59453,8 +59493,6 @@
 :: shantia.cba.pl
 0.0.0.0 shantuan.meyouandtlc.com
 :: shantuan.meyouandtlc.com
-0.0.0.0 shapeshifters.net.nz
-:: shapeshifters.net.nz
 0.0.0.0 share.9cdn.net
 :: share.9cdn.net
 0.0.0.0 share.baidu.com
@@ -71715,6 +71753,8 @@
 :: wwa.wipe.de
 0.0.0.0 wwcc.grimcomp.com.au
 :: wwcc.grimcomp.com.au
+0.0.0.0 wwe.leetieniu.com
+:: wwe.leetieniu.com
 0.0.0.0 wwe2k14superstarsdlc.goblogz.net
 :: wwe2k14superstarsdlc.goblogz.net
 0.0.0.0 wwelasmd.forumflorestal.pt
@@ -72349,8 +72389,6 @@
 :: www.aktion-zukunft-gestalten.info
 0.0.0.0 www.aktualizacjafacebooka.blogspot.com
 :: www.aktualizacjafacebooka.blogspot.com
-0.0.0.0 www.al-hasany.com
-:: www.al-hasany.com
 0.0.0.0 www.alanmorgan.plus.com
 :: www.alanmorgan.plus.com
 0.0.0.0 www.alarif.org
@@ -75305,6 +75343,8 @@
 :: www.kxmav2.com
 0.0.0.0 www.kyani.com
 :: www.kyani.com
+0.0.0.0 www.l00tfiilues.lepfj.site
+:: www.l00tfiilues.lepfj.site
 0.0.0.0 www.lacqueyiiwkr.download
 :: www.lacqueyiiwkr.download
 0.0.0.0 www.lacrisalide.net
@@ -75477,6 +75517,8 @@
 :: www.locgest.com
 0.0.0.0 www.lockview.cn
 :: www.lockview.cn
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -77127,8 +77169,6 @@
 :: www.shinilchurch.net
 0.0.0.0 www.shitvideos.com
 :: www.shitvideos.com
-0.0.0.0 www.shivartatoo.com
-:: www.shivartatoo.com
 0.0.0.0 www.shockcounter.com
 :: www.shockcounter.com
 0.0.0.0 www.shop.dr-rath.com
@@ -77745,6 +77785,8 @@
 :: www.tigipro.pl
 0.0.0.0 www.timefor.com
 :: www.timefor.com
+0.0.0.0 www.timelessimagesmi.com
+:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tinayr.go.ro
@@ -79369,6 +79411,8 @@
 :: xls.go.sohu.com
 0.0.0.0 xls.suxun368.cc
 :: xls.suxun368.cc
+0.0.0.0 xls.yeschool.info
+:: xls.yeschool.info
 0.0.0.0 xlsmoyvwt.ivydancefloors.com
 :: xlsmoyvwt.ivydancefloors.com
 0.0.0.0 xmhjpqyesu.kbogghjvnt.madpendesign.com.au
