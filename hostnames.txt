@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Jul 1 05:48:43 CEST 2019
+# Last update: Tue Jul 2 05:50:00 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 40279
+# Number of unique hostnames: 40280
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -14519,6 +14519,8 @@
 :: analytics.leadlifesolutions.net
 0.0.0.0 analytics.levelaccess.net
 :: analytics.levelaccess.net
+0.0.0.0 analytics.leviton.com
+:: analytics.leviton.com
 0.0.0.0 analytics.live-panorama.com
 :: analytics.live-panorama.com
 0.0.0.0 analytics.live.com
@@ -26025,6 +26027,8 @@
 :: d19182vyfoustz.cloudfront.net
 0.0.0.0 d19972r8wdpby8.cloudfront.net
 :: d19972r8wdpby8.cloudfront.net
+0.0.0.0 d19f0dp1dh77jq.cloudfront.net
+:: d19f0dp1dh77jq.cloudfront.net
 0.0.0.0 d19uh5b0umbjrr.cloudfront.net
 :: d19uh5b0umbjrr.cloudfront.net
 0.0.0.0 d1a6pzosbglc5p.cloudfront.net
@@ -28265,6 +28269,8 @@
 :: df666.pzhttaax.cn
 0.0.0.0 df888.eastday.com
 :: df888.eastday.com
+0.0.0.0 dfapvmql-q.global.ssl.fastly.net
+:: dfapvmql-q.global.ssl.fastly.net
 0.0.0.0 dfc1.benbaisteel.com
 :: dfc1.benbaisteel.com
 0.0.0.0 dfck9uqiatqhh.cloudfront.net
@@ -30589,6 +30595,8 @@
 :: ekey.163.com
 0.0.0.0 ekjvvhofu8.axfxrs1vvx.madpendesign.com.au
 :: ekjvvhofu8.axfxrs1vvx.madpendesign.com.au
+0.0.0.0 eknil.toncinema.online
+:: eknil.toncinema.online
 0.0.0.0 ekotrade.linuxpl.info
 :: ekotrade.linuxpl.info
 0.0.0.0 ekuserennto.web.fc2.com
@@ -32553,8 +32561,6 @@
 :: figgy.sanhok.pf.triptease.io
 0.0.0.0 filament-stats.herokuapp.com
 :: filament-stats.herokuapp.com
-0.0.0.0 file-cdn.beeketing.com
-:: file-cdn.beeketing.com
 0.0.0.0 file.bmob.cn
 :: file.bmob.cn
 0.0.0.0 file.cbs.co.kr
@@ -58051,8 +58057,6 @@
 :: sditazzahra.sch.id
 0.0.0.0 sdjfnsdkjfnsdkjfnksdjvnsdvsdsvd.000webhostapp.com
 :: sdjfnsdkjfnsdkjfnksdjvnsdvsdsvd.000webhostapp.com
-0.0.0.0 sdk-cdn.beeketing.com
-:: sdk-cdn.beeketing.com
 0.0.0.0 sdk-configuration.gimbal.com
 :: sdk-configuration.gimbal.com
 0.0.0.0 sdk.adtiming.com
@@ -58061,8 +58065,6 @@
 :: sdk.api.gamex.mobile.youku.com
 0.0.0.0 sdk.appadhoc.com
 :: sdk.appadhoc.com
-0.0.0.0 sdk.beeketing.com
-:: sdk.beeketing.com
 0.0.0.0 sdk.cdnmaster.com
 :: sdk.cdnmaster.com
 0.0.0.0 sdk.cmgame.com
@@ -59423,6 +59425,8 @@
 :: sgp.o2o.api.xiaomi.com
 0.0.0.0 sgpes.trt11.jus.br
 :: sgpes.trt11.jus.br
+0.0.0.0 sgphctileh-a.akamaihd.net
+:: sgphctileh-a.akamaihd.net
 0.0.0.0 sgqcvfjvr.onet.pl
 :: sgqcvfjvr.onet.pl
 0.0.0.0 sgs.us.com
@@ -64981,6 +64985,8 @@
 :: trace.rtbasia.com
 0.0.0.0 trace.ynet.com
 :: trace.ynet.com
+0.0.0.0 traces.sr.roku.com
+:: traces.sr.roku.com
 0.0.0.0 track-apmebf.cj.akadns.net
 :: track-apmebf.cj.akadns.net
 0.0.0.0 track.007cpa.com
@@ -71261,6 +71267,8 @@
 :: wksjn8.broz.northerndishedends.co
 0.0.0.0 wktkwkbaaan.web.fc2.com
 :: wktkwkbaaan.web.fc2.com
+0.0.0.0 wkxppshj-qx.global.ssl.fastly.net
+:: wkxppshj-qx.global.ssl.fastly.net
 0.0.0.0 wl.51taifu.com
 :: wl.51taifu.com
 0.0.0.0 wl.duoshitong.com
@@ -72087,8 +72095,6 @@
 :: www.act.poznan.pl
 0.0.0.0 www.actiagroup.com
 :: www.actiagroup.com
-0.0.0.0 www.actiogen.com
-:: www.actiogen.com
 0.0.0.0 www.action.ientry.net
 :: www.action.ientry.net
 0.0.0.0 www.activedriver.com
@@ -73529,6 +73535,8 @@
 :: www.ddiopoola.top
 0.0.0.0 www.df9jw.homepage.t-online.de
 :: www.df9jw.homepage.t-online.de
+0.0.0.0 www.dfapvmql-q.global.ssl.fastly.net
+:: www.dfapvmql-q.global.ssl.fastly.net
 0.0.0.0 www.dgfggy.com
 :: www.dgfggy.com
 0.0.0.0 www.dia-traffic.com
@@ -73759,8 +73767,6 @@
 :: www.elc.tomsk.ru
 0.0.0.0 www.elded.eu
 :: www.elded.eu
-0.0.0.0 www.elektrostar.com.pl
-:: www.elektrostar.com.pl
 0.0.0.0 www.elemntindexer.com
 :: www.elemntindexer.com
 0.0.0.0 www.elisaart.it
@@ -75113,8 +75119,6 @@
 :: www.jshosting.st
 0.0.0.0 www.jshosting.tr
 :: www.jshosting.tr
-0.0.0.0 www.jtcomms.com
-:: www.jtcomms.com
 0.0.0.0 www.judo-hattingen.de
 :: www.judo-hattingen.de
 0.0.0.0 www.juiceplus.com
@@ -77327,8 +77331,6 @@
 :: www.sopot24.ru
 0.0.0.0 www.soresinafranco.it
 :: www.soresinafranco.it
-0.0.0.0 www.sos-info-migrator.pl
-:: www.sos-info-migrator.pl
 0.0.0.0 www.souid.com
 :: www.souid.com
 0.0.0.0 www.soundstation.dk
@@ -78415,6 +78417,8 @@
 :: www.witnatura.pl
 0.0.0.0 www.wixed.wix.com
 :: www.wixed.wix.com
+0.0.0.0 www.wkxppshj-qx.global.ssl.fastly.net
+:: www.wkxppshj-qx.global.ssl.fastly.net
 0.0.0.0 www.womenbaby.com
 :: www.womenbaby.com
 0.0.0.0 www.wonderwhistle.co.uk
@@ -78465,8 +78469,6 @@
 :: www.wyjazd24.pl
 0.0.0.0 www.wykreslanka.com.pl
 :: www.wykreslanka.com.pl
-0.0.0.0 www.wylogujsiezmatrixa.pl
-:: www.wylogujsiezmatrixa.pl
 0.0.0.0 www.wypad3k0.blogspot.com
 :: www.wypad3k0.blogspot.com
 0.0.0.0 www.wyroki.eu
