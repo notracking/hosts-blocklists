@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Jul 3 05:49:27 CEST 2019
+# Last update: Thu Jul 4 05:50:47 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 40912
+# Number of unique hostnames: 40936
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3329,8 +3329,6 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
-0.0.0.0 abusalewm.exceltoner.com
-:: abusalewm.exceltoner.com
 0.0.0.0 ac.86huoche.com
 :: ac.86huoche.com
 0.0.0.0 ac.ajur.info
@@ -9237,6 +9235,8 @@
 :: ads.pimdesign.org
 0.0.0.0 ads.pinger.com
 :: ads.pinger.com
+0.0.0.0 ads.pinterest.com
+:: ads.pinterest.com
 0.0.0.0 ads.piramit.net
 :: ads.piramit.net
 0.0.0.0 ads.pirateden.com
@@ -19551,6 +19551,8 @@
 :: blink.refersion.com
 0.0.0.0 blitearagon.000webhostapp.com
 :: blitearagon.000webhostapp.com
+0.0.0.0 block-test.developerdan.com
+:: block-test.developerdan.com
 0.0.0.0 block.mediavenus.biz
 :: block.mediavenus.biz
 0.0.0.0 blockchain.info.datasellnow.com
@@ -21361,6 +21363,8 @@
 :: cashad2.xd.gd
 0.0.0.0 cashery.matomo.cloud
 :: cashery.matomo.cloud
+0.0.0.0 casino-ad-mediation.me2zengame.com
+:: casino-ad-mediation.me2zengame.com
 0.0.0.0 casino-gambling-online.searchservice.info
 :: casino-gambling-online.searchservice.info
 0.0.0.0 casino-online.100gal.net
@@ -26899,6 +26903,8 @@
 :: d31807xkria1x4.cloudfront.net
 0.0.0.0 d31bfnnwekbny6.cloudfront.net
 :: d31bfnnwekbny6.cloudfront.net
+0.0.0.0 d31mxuhvwrofft.cloudfront.net
+:: d31mxuhvwrofft.cloudfront.net
 0.0.0.0 d31nb97nd8ha11.cloudfront.net
 :: d31nb97nd8ha11.cloudfront.net
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
@@ -27481,6 +27487,8 @@
 :: dal.d.la
 0.0.0.0 dal9hkyfi0m0n.cloudfront.net
 :: dal9hkyfi0m0n.cloudfront.net
+0.0.0.0 dalj98ktasppa.cloudfront.net
+:: dalj98ktasppa.cloudfront.net
 0.0.0.0 dam.corel.com
 :: dam.corel.com
 0.0.0.0 dam.zhqryw.cn
@@ -31719,6 +31727,8 @@
 :: example.xerxies.net
 0.0.0.0 excellent.michaelanthonyrobinson.com
 :: excellent.michaelanthonyrobinson.com
+0.0.0.0 excess.duolingo.com
+:: excess.duolingo.com
 0.0.0.0 exchange.face2trade.com
 :: exchange.face2trade.com
 0.0.0.0 exchange.huntseek.net
@@ -41045,6 +41055,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -41173,6 +41185,8 @@
 :: l00tfiilues.lepfj.site
 0.0.0.0 l0ohpwfz-site.atempurl.com
 :: l0ohpwfz-site.atempurl.com
+0.0.0.0 l1.britannica.com
+:: l1.britannica.com
 0.0.0.0 l1.soarfi.cn
 :: l1.soarfi.cn
 0.0.0.0 l123d.feustude.at
@@ -41603,6 +41617,36 @@
 :: lhitlbtc.hosstinger.info
 0.0.0.0 lhqtz6bs-site.1tempurl.com
 :: lhqtz6bs-site.1tempurl.com
+0.0.0.0 li.alibris.com
+:: li.alibris.com
+0.0.0.0 li.azstarnet.com
+:: li.azstarnet.com
+0.0.0.0 li.dailycaller.com
+:: li.dailycaller.com
+0.0.0.0 li.gatehousemedia.com
+:: li.gatehousemedia.com
+0.0.0.0 li.gq.com
+:: li.gq.com
+0.0.0.0 li.hearstmags.com
+:: li.hearstmags.com
+0.0.0.0 li.livingsocial.com
+:: li.livingsocial.com
+0.0.0.0 li.mw.drhinternet.net
+:: li.mw.drhinternet.net
+0.0.0.0 li.onetravel.com
+:: li.onetravel.com
+0.0.0.0 li.patheos.com
+:: li.patheos.com
+0.0.0.0 li.pmc.com
+:: li.pmc.com
+0.0.0.0 li.purch.com
+:: li.purch.com
+0.0.0.0 li.realtor.com
+:: li.realtor.com
+0.0.0.0 li.walmart.com
+:: li.walmart.com
+0.0.0.0 li.ziffimages.com
+:: li.ziffimages.com
 0.0.0.0 liarsbar.karoo.net
 :: liarsbar.karoo.net
 0.0.0.0 liassic-doorknobs.000webhostapp.com
@@ -42541,6 +42585,8 @@
 :: logs.thebloggernetwork.com
 0.0.0.0 logs.www.eresmas.com
 :: logs.www.eresmas.com
+0.0.0.0 logs1.smithsonian.museum
+:: logs1.smithsonian.museum
 0.0.0.0 logstat.caixin.com
 :: logstat.caixin.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
@@ -53327,6 +53373,8 @@
 :: play1.videos.videos.vidto.me
 0.0.0.0 play1.videos.vidto.me
 :: play1.videos.vidto.me
+0.0.0.0 play6932.fuckingmonday113.agency
+:: play6932.fuckingmonday113.agency
 0.0.0.0 playe.vidto.se
 :: playe.vidto.se
 0.0.0.0 player.glomex.com
@@ -74067,6 +74115,8 @@
 :: www.blizzard-wow-sa-us-battle.com
 0.0.0.0 www.blizzzrd-net.com
 :: www.blizzzrd-net.com
+0.0.0.0 www.block-test.developerdan.com
+:: www.block-test.developerdan.com
 0.0.0.0 www.blockchained.pa
 :: www.blockchained.pa
 0.0.0.0 www.blog.jacekpaciorek.pl
@@ -76703,6 +76753,8 @@
 :: www.locgest.com
 0.0.0.0 www.lockview.cn
 :: www.lockview.cn
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -78967,8 +79019,6 @@
 :: www.tigipro.pl
 0.0.0.0 www.timefor.com
 :: www.timefor.com
-0.0.0.0 www.timelessimagesmi.com
-:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tinayr.go.ro
@@ -80455,8 +80505,6 @@
 :: xads.100links.com
 0.0.0.0 xafhg78939.i.lithium.com
 :: xafhg78939.i.lithium.com
-0.0.0.0 xafuetguv.ddns.net
-:: xafuetguv.ddns.net
 0.0.0.0 xahj1kcx8txp89ibvsjj.alfacomercial.com.br
 :: xahj1kcx8txp89ibvsjj.alfacomercial.com.br
 0.0.0.0 xamateurpornlic.www1.biz
