@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Jul 4 05:50:47 CEST 2019
+# Last update: Fri Jul 5 06:53:11 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 40936
+# Number of unique hostnames: 40944
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2689,6 +2689,8 @@
 :: a.kerg.net
 0.0.0.0 a.kickassunblock.net
 :: a.kickassunblock.net
+0.0.0.0 a.kidstaff.net
+:: a.kidstaff.net
 0.0.0.0 a.kik.bg
 :: a.kik.bg
 0.0.0.0 a.killergram-girls.com
@@ -3329,6 +3331,8 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
+0.0.0.0 abusalewm.exceltoner.com
+:: abusalewm.exceltoner.com
 0.0.0.0 ac.86huoche.com
 :: ac.86huoche.com
 0.0.0.0 ac.ajur.info
@@ -6437,6 +6441,8 @@
 :: ads-fa.spotify.com
 0.0.0.0 ads-fr.spray.net
 :: ads-fr.spray.net
+0.0.0.0 ads-game-187f4.firebaseapp.com
+:: ads-game-187f4.firebaseapp.com
 0.0.0.0 ads-hl.noktamedya.com.tr
 :: ads-hl.noktamedya.com.tr
 0.0.0.0 ads-kurir.providus.rs
@@ -14739,6 +14745,8 @@
 :: analytics.traidnt.net
 0.0.0.0 analytics.traviangames.com
 :: analytics.traviangames.com
+0.0.0.0 analytics.tresensa.com
+:: analytics.tresensa.com
 0.0.0.0 analytics.tribeca.vidavee.com
 :: analytics.tribeca.vidavee.com
 0.0.0.0 analytics.trutv.com
@@ -29013,6 +29021,8 @@
 :: dmp.gravity4.com
 0.0.0.0 dmp.kejet.net
 :: dmp.kejet.net
+0.0.0.0 dmp.mall.tv
+:: dmp.mall.tv
 0.0.0.0 dmp.vihub.ru
 :: dmp.vihub.ru
 0.0.0.0 dmpbmzbmtr8c40a.jonesnewsletter.com
@@ -62805,6 +62815,8 @@
 :: statis.mobile.youku.com
 0.0.0.0 statis.push.netease.com
 :: statis.push.netease.com
+0.0.0.0 statistic.ads24h.net
+:: statistic.ads24h.net
 0.0.0.0 statistic.imgpay.ru
 :: statistic.imgpay.ru
 0.0.0.0 statistic.qzone.qq.com
@@ -68529,6 +68541,8 @@
 :: uniib84584.i.lithium.com
 0.0.0.0 unilog.wostore.cn
 :: unilog.wostore.cn
+0.0.0.0 unimet.tmhandel.com
+:: unimet.tmhandel.com
 0.0.0.0 unins.5b55.com
 :: unins.5b55.com
 0.0.0.0 union.56.com
@@ -75799,8 +75813,6 @@
 :: www.higame123.com
 0.0.0.0 www.highspeedtesting.com
 :: www.highspeedtesting.com
-0.0.0.0 www.highsport.se
-:: www.highsport.se
 0.0.0.0 www.hilfe-forum.info
 :: www.hilfe-forum.info
 0.0.0.0 www.himandy.com
@@ -77635,6 +77647,8 @@
 :: www.pececitos.com
 0.0.0.0 www.pee-pantie.com
 :: www.pee-pantie.com
+0.0.0.0 www.pentahealthinstitute.com
+:: www.pentahealthinstitute.com
 0.0.0.0 www.perfectgirls.net
 :: www.perfectgirls.net
 0.0.0.0 www.peritiassicurativi.org
@@ -79019,6 +79033,8 @@
 :: www.tigipro.pl
 0.0.0.0 www.timefor.com
 :: www.timefor.com
+0.0.0.0 www.timelessimagesmi.com
+:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tinayr.go.ro
