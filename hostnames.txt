@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Jul 5 06:53:11 CEST 2019
+# Last update: Sat Jul 6 05:54:25 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 40944
+# Number of unique hostnames: 40947
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3331,8 +3331,6 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
-0.0.0.0 abusalewm.exceltoner.com
-:: abusalewm.exceltoner.com
 0.0.0.0 ac.86huoche.com
 :: ac.86huoche.com
 0.0.0.0 ac.ajur.info
@@ -3509,6 +3507,8 @@
 :: accounts.craigslist.org.svrrc.com
 0.0.0.0 accounts.google.c0m.juhaszpiroska.hu
 :: accounts.google.c0m.juhaszpiroska.hu
+0.0.0.0 accounts.nvgs.nvidia.com
+:: accounts.nvgs.nvidia.com
 0.0.0.0 accounts.renewal-user.com
 :: accounts.renewal-user.com
 0.0.0.0 accountsmages.dotcloudapp.com
@@ -14367,8 +14367,6 @@
 :: analytics-eu.clickdimensions.com
 0.0.0.0 analytics-events.inshorts.com
 :: analytics-events.inshorts.com
-0.0.0.0 analytics-ingress-global.bitmovin.com
-:: analytics-ingress-global.bitmovin.com
 0.0.0.0 analytics-prod-ingress.bricknet.com
 :: analytics-prod-ingress.bricknet.com
 0.0.0.0 analytics-production.hapyak.com
@@ -16439,6 +16437,8 @@
 :: assets.ipcdigital.co.uk
 0.0.0.0 assets.kuhlmann-software.at
 :: assets.kuhlmann-software.at
+0.0.0.0 assets.nvidiagrid.net
+:: assets.nvidiagrid.net
 0.0.0.0 assets.olark.com
 :: assets.olark.com
 0.0.0.0 assets.oomz.de
@@ -17051,6 +17051,8 @@
 :: b.bm324.com
 0.0.0.0 b.books555.com
 :: b.books555.com
+0.0.0.0 b.boyfriendtv.com
+:: b.boyfriendtv.com
 0.0.0.0 b.bshare.cn
 :: b.bshare.cn
 0.0.0.0 b.c8.net.ua
@@ -17145,6 +17147,8 @@
 :: b.porncity.nl
 0.0.0.0 b.porncity.org
 :: b.porncity.org
+0.0.0.0 b.pornoxo.com
+:: b.pornoxo.com
 0.0.0.0 b.portalnet.cl
 :: b.portalnet.cl
 0.0.0.0 b.positive-technology.co.uk
@@ -20127,8 +20131,6 @@
 :: britneyspears.ca.tt
 0.0.0.0 britneyspears.website.pl
 :: britneyspears.website.pl
-0.0.0.0 britts.oharvest.net
-:: britts.oharvest.net
 0.0.0.0 briut.fruitfuldemo.com
 :: briut.fruitfuldemo.com
 0.0.0.0 brkos.borec.cz
@@ -23099,6 +23101,8 @@
 :: cibcupdates.bombas-calor.pt
 0.0.0.0 cibcvery.info.cibc.pl
 :: cibcvery.info.cibc.pl
+0.0.0.0 ciber1250.gleeze.com
+:: ciber1250.gleeze.com
 0.0.0.0 ciccc.goeoffice.com
 :: ciccc.goeoffice.com
 0.0.0.0 cidyweb.free.fr
@@ -37791,6 +37795,8 @@
 :: images.newsx.cc
 0.0.0.0 images.niux88.com
 :: images.niux88.com
+0.0.0.0 images.nvidiagrid.net
+:: images.nvidiagrid.net
 0.0.0.0 images.nytimes.com
 :: images.nytimes.com
 0.0.0.0 images.onhealth.com
@@ -41065,8 +41071,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -44261,6 +44265,8 @@
 :: mang3rs0lustionpp.myrevospecton.com
 0.0.0.0 mangashow.matomo.cloud
 :: mangashow.matomo.cloud
+0.0.0.0 mangavf.azurewebsites.net
+:: mangavf.azurewebsites.net
 0.0.0.0 mangler1.generals.ea.com
 :: mangler1.generals.ea.com
 0.0.0.0 mangler10.generals.ea.com
@@ -45165,6 +45171,10 @@
 :: metric.inetcore.com
 0.0.0.0 metric.infoworld.com
 :: metric.infoworld.com
+0.0.0.0 metric.ipv6test.com
+:: metric.ipv6test.com
+0.0.0.0 metric.ipv6test.net
+:: metric.ipv6test.net
 0.0.0.0 metric.kirklands.com
 :: metric.kirklands.com
 0.0.0.0 metric.kleientertainment.com
@@ -55235,8 +55245,6 @@
 :: pwp.netcabo.pt
 0.0.0.0 pwwvpuwvwpiftlbcn1uh.littlematchagirl.com.au
 :: pwwvpuwvwpiftlbcn1uh.littlematchagirl.com.au
-0.0.0.0 px.adhigh.net
-:: px.adhigh.net
 0.0.0.0 px.ads.linkedin.com
 :: px.ads.linkedin.com
 0.0.0.0 px.boundhub.com
@@ -56035,6 +56043,8 @@
 :: rdqhxwijvyjsvulmghtq.ahdaaf.org
 0.0.0.0 rdraff.com-app1.site
 :: rdraff.com-app1.site
+0.0.0.0 rds-assets.nvidia.com
+:: rds-assets.nvidia.com
 0.0.0.0 rdstat.tanx.com
 :: rdstat.tanx.com
 0.0.0.0 rdx.autohome.com.cn
@@ -60279,6 +60289,8 @@
 :: services.brightline.tv
 0.0.0.0 services.coem.awem.com
 :: services.coem.awem.com
+0.0.0.0 services.gfe.nvidia.com
+:: services.gfe.nvidia.com
 0.0.0.0 services.hearstmags.com
 :: services.hearstmags.com
 0.0.0.0 services.mailermailer.com
@@ -62815,8 +62827,6 @@
 :: statis.mobile.youku.com
 0.0.0.0 statis.push.netease.com
 :: statis.push.netease.com
-0.0.0.0 statistic.ads24h.net
-:: statistic.ads24h.net
 0.0.0.0 statistic.imgpay.ru
 :: statistic.imgpay.ru
 0.0.0.0 statistic.qzone.qq.com
@@ -74645,8 +74655,6 @@
 :: www.crackserver.com
 0.0.0.0 www.crazywinnings.com
 :: www.crazywinnings.com
-0.0.0.0 www.creativ-art1.com
-:: www.creativ-art1.com
 0.0.0.0 www.creatorcommunity.zmags.com
 :: www.creatorcommunity.zmags.com
 0.0.0.0 www.credit-dreams.com
@@ -75813,6 +75821,8 @@
 :: www.higame123.com
 0.0.0.0 www.highspeedtesting.com
 :: www.highspeedtesting.com
+0.0.0.0 www.highsport.se
+:: www.highsport.se
 0.0.0.0 www.hilfe-forum.info
 :: www.hilfe-forum.info
 0.0.0.0 www.himandy.com
@@ -76627,8 +76637,6 @@
 :: www.laomaotao.net
 0.0.0.0 www.laoqu123.com
 :: www.laoqu123.com
-0.0.0.0 www.larcheedmonton.org
-:: www.larcheedmonton.org
 0.0.0.0 www.lartsev.com
 :: www.lartsev.com
 0.0.0.0 www.lasvegasymca.org
@@ -79033,8 +79041,6 @@
 :: www.tigipro.pl
 0.0.0.0 www.timefor.com
 :: www.timefor.com
-0.0.0.0 www.timelessimagesmi.com
-:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tinayr.go.ro
