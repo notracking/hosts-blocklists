@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Jul 6 05:54:25 CEST 2019
+# Last update: Sun Jul 7 05:47:47 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 40947
+# Number of unique hostnames: 40975
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3331,6 +3331,8 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
+0.0.0.0 abusalewm.exceltoner.com
+:: abusalewm.exceltoner.com
 0.0.0.0 ac.86huoche.com
 :: ac.86huoche.com
 0.0.0.0 ac.ajur.info
@@ -13617,6 +13619,8 @@
 :: aider-res.meizu.com
 0.0.0.0 aifnndnc.altervista.org
 :: aifnndnc.altervista.org
+0.0.0.0 ailegro.pl.ua
+:: ailegro.pl.ua
 0.0.0.0 aim-charts.pf.aol.com
 :: aim-charts.pf.aol.com
 0.0.0.0 aim.yoyi.com.cn
@@ -15711,6 +15715,8 @@
 :: app.waps.cn
 0.0.0.0 app.wumii.com
 :: app.wumii.com
+0.0.0.0 app.xixiashengdian.com
+:: app.xixiashengdian.com
 0.0.0.0 app.xizi.com
 :: app.xizi.com
 0.0.0.0 app.xyjqy.com
@@ -16147,6 +16153,8 @@
 :: ard.yahoo.co.jp
 0.0.0.0 ardisetiawan.web.id
 :: ardisetiawan.web.id
+0.0.0.0 area.baomihua.com
+:: area.baomihua.com
 0.0.0.0 arena.altitudeplatform.com
 :: arena.altitudeplatform.com
 0.0.0.0 arftrunk-am.lithium.com
@@ -30241,12 +30249,18 @@
 :: e.ejuen.com
 0.0.0.0 e.eoeoev.cn
 :: e.eoeoev.cn
+0.0.0.0 e.eozozw.cn
+:: e.eozozw.cn
 0.0.0.0 e.fbaix.com
 :: e.fbaix.com
 0.0.0.0 e.fdp29b.cn
 :: e.fdp29b.cn
+0.0.0.0 e.figigl.cn
+:: e.figigl.cn
 0.0.0.0 e.fimky.com
 :: e.fimky.com
+0.0.0.0 e.fipipo.cn
+:: e.fipipo.cn
 0.0.0.0 e.freewebhostingarea.com
 :: e.freewebhostingarea.com
 0.0.0.0 e.future888.net
@@ -30309,6 +30323,8 @@
 :: e.kzwsh.cn
 0.0.0.0 e.lancedu.com
 :: e.lancedu.com
+0.0.0.0 e.m8l0ka.cn
+:: e.m8l0ka.cn
 0.0.0.0 e.miaoxinqipei.com
 :: e.miaoxinqipei.com
 0.0.0.0 e.mqgpo.com
@@ -30931,8 +30947,6 @@
 :: elb.qublixaws.com
 0.0.0.0 elbcradio.tcalr.org
 :: elbcradio.tcalr.org
-0.0.0.0 electricfence.levsantronic.ro
-:: electricfence.levsantronic.ro
 0.0.0.0 electro.demos.su
 :: electro.demos.su
 0.0.0.0 electrohemostasis.makemoneywithmegan.net
@@ -33633,6 +33647,8 @@
 :: fu.golikeus.net
 0.0.0.0 fugger.ipage.com
 :: fugger.ipage.com
+0.0.0.0 fuk.xckxjtbg.com
+:: fuk.xckxjtbg.com
 0.0.0.0 fukiw75442.i.lithium.com
 :: fukiw75442.i.lithium.com
 0.0.0.0 fukiw75442.lithium.com
@@ -33855,6 +33871,8 @@
 :: g.x.evolife.cn
 0.0.0.0 g.yccdn.com
 :: g.yccdn.com
+0.0.0.0 g.zhangaiwan.com
+:: g.zhangaiwan.com
 0.0.0.0 g.zhgdhe.com
 :: g.zhgdhe.com
 0.0.0.0 g.zhoukaika.com
@@ -34555,6 +34573,8 @@
 :: gg.getbs.com
 0.0.0.0 gg.google.com
 :: gg.google.com
+0.0.0.0 gg.gsdlcn.com
+:: gg.gsdlcn.com
 0.0.0.0 gg.gw032.com
 :: gg.gw032.com
 0.0.0.0 gg.haianw.com
@@ -37731,8 +37751,6 @@
 :: images.adultplex.com
 0.0.0.0 images.adviews.de
 :: images.adviews.de
-0.0.0.0 images.affiliator.com
-:: images.affiliator.com
 0.0.0.0 images.bluetime.com
 :: images.bluetime.com
 0.0.0.0 images.bnmq.com
@@ -41071,6 +41089,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -42997,6 +43017,8 @@
 :: m.3r76q.cn
 0.0.0.0 m.3t48d.cn
 :: m.3t48d.cn
+0.0.0.0 m.3tx8zr.cn
+:: m.3tx8zr.cn
 0.0.0.0 m.408uo.cn
 :: m.408uo.cn
 0.0.0.0 m.41fsxa.cn
@@ -43199,6 +43221,8 @@
 :: m.bfhfhk.cn
 0.0.0.0 m.bgaix.com
 :: m.bgaix.com
+0.0.0.0 m.bgkgko.cn
+:: m.bgkgko.cn
 0.0.0.0 m.bhkhkm.cn
 :: m.bhkhkm.cn
 0.0.0.0 m.bififd.cn
@@ -43237,6 +43261,8 @@
 :: m.clkservice.youdao.com
 0.0.0.0 m.cocounion.com
 :: m.cocounion.com
+0.0.0.0 m.color6.cn
+:: m.color6.cn
 0.0.0.0 m.convertkit.com
 :: m.convertkit.com
 0.0.0.0 m.cudaojia.com
@@ -43289,6 +43315,8 @@
 :: m.enrogwm.cn
 0.0.0.0 m.eoeoev.cn
 :: m.eoeoev.cn
+0.0.0.0 m.eozozw.cn
+:: m.eozozw.cn
 0.0.0.0 m.epoch168.com
 :: m.epoch168.com
 0.0.0.0 m.exactag.com
@@ -43341,6 +43369,8 @@
 :: m.figuren-spiele.de
 0.0.0.0 m.fimky.com
 :: m.fimky.com
+0.0.0.0 m.fipipo.cn
+:: m.fipipo.cn
 0.0.0.0 m.fnwnwi.cn
 :: m.fnwnwi.cn
 0.0.0.0 m.frfykc.cn
@@ -43501,6 +43531,10 @@
 :: m.lu.sogou.com
 0.0.0.0 m.lws48e.cn
 :: m.lws48e.cn
+0.0.0.0 m.ly0p9e.cn
+:: m.ly0p9e.cn
+0.0.0.0 m.m8l0ka.cn
+:: m.m8l0ka.cn
 0.0.0.0 m.maila88.com
 :: m.maila88.com
 0.0.0.0 m.maopuzw.com
@@ -43607,6 +43641,8 @@
 :: m.qjah62.com
 0.0.0.0 m.qlr0d.cn
 :: m.qlr0d.cn
+0.0.0.0 m.qu79j.cn
+:: m.qu79j.cn
 0.0.0.0 m.qulishi.com
 :: m.qulishi.com
 0.0.0.0 m.qusub.com
@@ -46347,6 +46383,8 @@
 :: mo.res.wpscdn.cn
 0.0.0.0 mo.spaces.ru
 :: mo.spaces.ru
+0.0.0.0 mo.wajsa.com
+:: mo.wajsa.com
 0.0.0.0 mo5kx7liz2z7mtr8jdb4.littlematchagirl.com.au
 :: mo5kx7liz2z7mtr8jdb4.littlematchagirl.com.au
 0.0.0.0 mob-uu.dev.webapp.163.com
@@ -47111,6 +47149,8 @@
 :: mxcdn1.now.sh
 0.0.0.0 mxcdn2.now.sh
 :: mxcdn2.now.sh
+0.0.0.0 mxm.plipala.com
+:: mxm.plipala.com
 0.0.0.0 mxmodd.mxmfb.com
 :: mxmodd.mxmfb.com
 0.0.0.0 mxpez29397.i.lithium.com
@@ -50701,6 +50741,8 @@
 :: oxen.hillcountrytexas.com
 0.0.0.0 oxn.gerkon.eu
 :: oxn.gerkon.eu
+0.0.0.0 oxo.jilinfurong.com
+:: oxo.jilinfurong.com
 0.0.0.0 oxs1.selsin.net
 :: oxs1.selsin.net
 0.0.0.0 oxsferxtehxkuzaxdloa.littlematchagirl.com.au
@@ -52637,6 +52679,8 @@
 :: photo.yishuhuanbao.cn
 0.0.0.0 photo.yqydjr.cn
 :: photo.yqydjr.cn
+0.0.0.0 photo.yxslt.cn
+:: photo.yxslt.cn
 0.0.0.0 photook.vxm.pl
 :: photook.vxm.pl
 0.0.0.0 photos-bazaar-use1.nexus.bazaarvoice.com
@@ -57545,6 +57589,8 @@
 :: s.cdn.u17t.com
 0.0.0.0 s.cimg.163.com
 :: s.cimg.163.com
+0.0.0.0 s.ciouwap.com
+:: s.ciouwap.com
 0.0.0.0 s.click.aliexpress.com
 :: s.click.aliexpress.com
 0.0.0.0 s.click.taobao.com
@@ -61893,8 +61939,6 @@
 :: srepdata.usatoday.com
 0.0.0.0 srilaini1helprecoveryii.000webhostapp.com
 :: srilaini1helprecoveryii.000webhostapp.com
-0.0.0.0 srisaranankara.sch.lk
-:: srisaranankara.sch.lk
 0.0.0.0 srpze.saqibsiddiqui.com
 :: srpze.saqibsiddiqui.com
 0.0.0.0 srutebmduoh.myfw.us
@@ -73633,6 +73677,8 @@
 :: www.aia-autodifesa.com
 0.0.0.0 www.aihuishou.com
 :: www.aihuishou.com
+0.0.0.0 www.ailegro.pl.ua
+:: www.ailegro.pl.ua
 0.0.0.0 www.airadmins.com
 :: www.airadmins.com
 0.0.0.0 www.airbornehydrography.com
@@ -73651,6 +73697,8 @@
 :: www.aktion-zukunft-gestalten.info
 0.0.0.0 www.aktualizacjafacebooka.blogspot.com
 :: www.aktualizacjafacebooka.blogspot.com
+0.0.0.0 www.al-hasany.com
+:: www.al-hasany.com
 0.0.0.0 www.alanmorgan.plus.com
 :: www.alanmorgan.plus.com
 0.0.0.0 www.alarif.org
@@ -74655,6 +74703,8 @@
 :: www.crackserver.com
 0.0.0.0 www.crazywinnings.com
 :: www.crazywinnings.com
+0.0.0.0 www.creativ-art1.com
+:: www.creativ-art1.com
 0.0.0.0 www.creatorcommunity.zmags.com
 :: www.creatorcommunity.zmags.com
 0.0.0.0 www.credit-dreams.com
@@ -75793,8 +75843,6 @@
 :: www.herinvest.be
 0.0.0.0 www.herity.org
 :: www.herity.org
-0.0.0.0 www.heroichosting.sstechvn.com
-:: www.heroichosting.sstechvn.com
 0.0.0.0 www.heusmarketing.nl
 :: www.heusmarketing.nl
 0.0.0.0 www.hey.lt
@@ -76495,6 +76543,8 @@
 :: www.kishazy.hu
 0.0.0.0 www.kitchentablegang.org
 :: www.kitchentablegang.org
+0.0.0.0 www.kj1p.com
+:: www.kj1p.com
 0.0.0.0 www.kjhkgh.skroc.pl
 :: www.kjhkgh.skroc.pl
 0.0.0.0 www.klikdirect.com
@@ -76637,6 +76687,8 @@
 :: www.laomaotao.net
 0.0.0.0 www.laoqu123.com
 :: www.laoqu123.com
+0.0.0.0 www.larcheedmonton.org
+:: www.larcheedmonton.org
 0.0.0.0 www.lartsev.com
 :: www.lartsev.com
 0.0.0.0 www.lasvegasymca.org
@@ -78187,8 +78239,6 @@
 :: www.riverparkbaseball.org
 0.0.0.0 www.riverwalktrader.co.za
 :: www.riverwalktrader.co.za
-0.0.0.0 www.robertogori.it
-:: www.robertogori.it
 0.0.0.0 www.roboclean-poland.com
 :: www.roboclean-poland.com
 0.0.0.0 www.rocchienoteca.it
@@ -79041,6 +79091,8 @@
 :: www.tigipro.pl
 0.0.0.0 www.timefor.com
 :: www.timefor.com
+0.0.0.0 www.timelessimagesmi.com
+:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tinayr.go.ro
@@ -79259,6 +79311,8 @@
 :: www.tz-dsp.com
 0.0.0.0 www.u1trkqf.com
 :: www.u1trkqf.com
+0.0.0.0 www.u5i7k.cn
+:: www.u5i7k.cn
 0.0.0.0 www.uasm.de
 :: www.uasm.de
 0.0.0.0 www.ucc.wix.com
@@ -81617,6 +81671,8 @@
 :: zfds1.tianya999.com
 0.0.0.0 zfemj.player.limpi.tv
 :: zfemj.player.limpi.tv
+0.0.0.0 zfgn.hyxsoft.com
+:: zfgn.hyxsoft.com
 0.0.0.0 zfhg.digitaldesire.com
 :: zfhg.digitaldesire.com
 0.0.0.0 zfsieblmrnb4ppfgthlv.littlematchagirl.com.au
