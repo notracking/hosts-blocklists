@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Jul 8 12:50:45 CEST 2019
+# Last update: Tue Jul 9 09:12:10 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 40968
+# Number of unique hostnames: 40978
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2939,6 +2939,8 @@
 :: a1.aluntan.com
 0.0.0.0 a1.bookapka.com
 :: a1.bookapka.com
+0.0.0.0 a1.booksamillion.com
+:: a1.booksamillion.com
 0.0.0.0 a1.chajiaotong.com
 :: a1.chajiaotong.com
 0.0.0.0 a1.dnbizcdn.com
@@ -14623,6 +14625,8 @@
 :: analytics.ooyala.com
 0.0.0.0 analytics.openload.co
 :: analytics.openload.co
+0.0.0.0 analytics.ovh.com
+:: analytics.ovh.com
 0.0.0.0 analytics.paddle.com
 :: analytics.paddle.com
 0.0.0.0 analytics.phando.com
@@ -24833,8 +24837,6 @@
 :: corto.www.wp.pl
 0.0.0.0 corusads.dserv.ca
 :: corusads.dserv.ca
-0.0.0.0 cosale.peluqueriacaninamorocha.cl
-:: cosale.peluqueriacaninamorocha.cl
 0.0.0.0 cosmeticscentre.uk.com
 :: cosmeticscentre.uk.com
 0.0.0.0 cosmos.felago.es
@@ -31657,6 +31659,8 @@
 :: events.gfe.nvidia.com
 0.0.0.0 events.iap.unity3d.com
 :: events.iap.unity3d.com
+0.0.0.0 events.intuit.launchdarkly.com
+:: events.intuit.launchdarkly.com
 0.0.0.0 events.jotform.com
 :: events.jotform.com
 0.0.0.0 events.lbesecapi.com
@@ -33009,6 +33013,8 @@
 :: finaledithon.web.fc2.com
 0.0.0.0 finance.b3p.cn
 :: finance.b3p.cn
+0.0.0.0 financialprofileorchestration.api.intuit.com
+:: financialprofileorchestration.api.intuit.com
 0.0.0.0 financialprovider-logos.platform.intuit.com
 :: financialprovider-logos.platform.intuit.com
 0.0.0.0 findapps.in.net
@@ -33215,6 +33221,8 @@
 :: fone.fdti.in
 0.0.0.0 fone.joreynolds.com
 :: fone.joreynolds.com
+0.0.0.0 font-vmg.s3.amazonaws.com
+:: font-vmg.s3.amazonaws.com
 0.0.0.0 foo.cosmocode.de
 :: foo.cosmocode.de
 0.0.0.0 food.epicurious.com
@@ -44197,6 +44205,8 @@
 :: mailsrv02.macau.ctm.net
 0.0.0.0 mailsvra.macau.ctm.net
 :: mailsvra.macau.ctm.net
+0.0.0.0 mailtracking.gitter.im
+:: mailtracking.gitter.im
 0.0.0.0 main.abqjournal.netdna-cdn.com
 :: main.abqjournal.netdna-cdn.com
 0.0.0.0 main.omeda.com
@@ -44229,6 +44239,8 @@
 :: malajsie.webzdarma.cz
 0.0.0.0 malampanjang88.000webhostapp.com
 :: malampanjang88.000webhostapp.com
+0.0.0.0 malamut.revolverindy.com
+:: malamut.revolverindy.com
 0.0.0.0 malathris.cz.cc
 :: malathris.cz.cc
 0.0.0.0 maldenvr.beget.tech
@@ -60065,6 +60077,8 @@
 :: sentry-web-lb-160711358.us-east-1.elb.amazonaws.com
 0.0.0.0 sentry.gitlab.net
 :: sentry.gitlab.net
+0.0.0.0 sentry.postmanlabs.com
+:: sentry.postmanlabs.com
 0.0.0.0 sentry.spot.im
 :: sentry.spot.im
 0.0.0.0 senzai.nobu-naga.net
@@ -60323,6 +60337,8 @@
 :: services.brightline.tv
 0.0.0.0 services.coem.awem.com
 :: services.coem.awem.com
+0.0.0.0 services.fandom.com
+:: services.fandom.com
 0.0.0.0 services.gfe.nvidia.com
 :: services.gfe.nvidia.com
 0.0.0.0 services.hearstmags.com
@@ -61711,6 +61727,8 @@
 :: specialsections.siteseer.ca
 0.0.0.0 speed.lstat.youku.com
 :: speed.lstat.youku.com
+0.0.0.0 speed.nocookie.net
+:: speed.nocookie.net
 0.0.0.0 speedtrap.shopdirect.com
 :: speedtrap.shopdirect.com
 0.0.0.0 speedypc.revenuewire.net
@@ -70711,6 +70729,8 @@
 :: vm.newupbusiness2.pw
 0.0.0.0 vm261523.had.su
 :: vm261523.had.su
+0.0.0.0 vmg-us.s3.amazonaws.com
+:: vmg-us.s3.amazonaws.com
 0.0.0.0 vmindhls.tc.qq.com
 :: vmindhls.tc.qq.com
 0.0.0.0 vml1.s3.amazonaws.com
@@ -73655,8 +73675,6 @@
 :: www.agridiving.net
 0.0.0.0 www.agriturismoigirasoli.it
 :: www.agriturismoigirasoli.it
-0.0.0.0 www.agriturismolapiana.net
-:: www.agriturismolapiana.net
 0.0.0.0 www.aheol.com
 :: www.aheol.com
 0.0.0.0 www.aia-autodifesa.com
@@ -75429,6 +75447,8 @@
 :: www.folkjuannepiu.it
 0.0.0.0 www.fonsatti.it
 :: www.fonsatti.it
+0.0.0.0 www.font-vmg.s3.amazonaws.com
+:: www.font-vmg.s3.amazonaws.com
 0.0.0.0 www.foolalexas.top
 :: www.foolalexas.top
 0.0.0.0 www.forboringbusinesses.com
@@ -79203,8 +79223,6 @@
 :: www.trafix.ro
 0.0.0.0 www.trannys.us
 :: www.trannys.us
-0.0.0.0 www.trapallan.com
-:: www.trapallan.com
 0.0.0.0 www.trauchgauer-weihnachtsmarkt.de
 :: www.trauchgauer-weihnachtsmarkt.de
 0.0.0.0 www.trendsonline.biz
@@ -79271,6 +79289,8 @@
 :: www.tutop.com
 0.0.0.0 www.tuttosessogratis.org
 :: www.tuttosessogratis.org
+0.0.0.0 www.tvblanket.com
+:: www.tvblanket.com
 0.0.0.0 www.tvmds.tvpassport.com
 :: www.tvmds.tvpassport.com
 0.0.0.0 www.tvnews.or.kr
