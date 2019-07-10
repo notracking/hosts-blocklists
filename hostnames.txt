@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Jul 9 12:43:00 CEST 2019
+# Last update: Wed Jul 10 12:24:55 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 40976
+# Number of unique hostnames: 40970
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3331,8 +3331,6 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
-0.0.0.0 abusalewm.exceltoner.com
-:: abusalewm.exceltoner.com
 0.0.0.0 ac.86huoche.com
 :: ac.86huoche.com
 0.0.0.0 ac.ajur.info
@@ -35129,8 +35127,6 @@
 :: grant.rpof.org
 0.0.0.0 granturismo.console2pc.info
 :: granturismo.console2pc.info
-0.0.0.0 graph.accountkit.com
-:: graph.accountkit.com
 0.0.0.0 graphic.recommend-it.com
 :: graphic.recommend-it.com
 0.0.0.0 graphics.cams.com
@@ -39563,8 +39559,6 @@
 :: jb.mnkan.com
 0.0.0.0 jb.revolvermaps.com
 :: jb.revolvermaps.com
-0.0.0.0 jb3photography.thegalaxyweb.com
-:: jb3photography.thegalaxyweb.com
 0.0.0.0 jc.buerchaoshi.com
 :: jc.buerchaoshi.com
 0.0.0.0 jc.jtydbz.com
@@ -47911,6 +47905,8 @@
 :: newsfeed-sync.spot.im
 0.0.0.0 newsgolf.50webs.com
 :: newsgolf.50webs.com
+0.0.0.0 newsharecounts.s3-us-west-2.amazonaws.com
+:: newsharecounts.s3-us-west-2.amazonaws.com
 0.0.0.0 newsite.ahlgrens.se
 :: newsite.ahlgrens.se
 0.0.0.0 newsletter.cps01.net
@@ -48669,8 +48665,6 @@
 :: nxa-ls.s3.amazonaws.com
 0.0.0.0 nxads.internet.com
 :: nxads.internet.com
-0.0.0.0 nxd.lostrabbitmedia.com
-:: nxd.lostrabbitmedia.com
 0.0.0.0 nxkl36xz.apps.lair.io
 :: nxkl36xz.apps.lair.io
 0.0.0.0 nxs.kidcolez.cn
@@ -56113,6 +56107,8 @@
 :: re.taotaosou.com
 0.0.0.0 re.try9.com
 :: re.try9.com
+0.0.0.0 reach-api.beachfrontreach.com
+:: reach-api.beachfrontreach.com
 0.0.0.0 reactivate.netflix.com.usermanagement.key.19735731.reactivatenetfix.com
 :: reactivate.netflix.com.usermanagement.key.19735731.reactivatenetfix.com
 0.0.0.0 reactivate.netflix.com.usermanagement.key.19735732.reactivatenetfix.com
@@ -66227,6 +66223,8 @@
 :: track.barcoo.com
 0.0.0.0 track.bcvcmedia.com
 :: track.bcvcmedia.com
+0.0.0.0 track.beachfrontreach.com
+:: track.beachfrontreach.com
 0.0.0.0 track.beginb.net
 :: track.beginb.net
 0.0.0.0 track.bloglog.com
@@ -70195,6 +70193,8 @@
 :: vert349.wixsite.com
 0.0.0.0 vertical-stats.huffpost.com
 :: vertical-stats.huffpost.com
+0.0.0.0 verzeroli.outbreakm3dia.com
+:: verzeroli.outbreakm3dia.com
 0.0.0.0 veterans-cms.purplebug.net
 :: veterans-cms.purplebug.net
 0.0.0.0 veterans-cms.pvbproperties.com.ph
@@ -73661,8 +73661,6 @@
 :: www.agentsplanet.com
 0.0.0.0 www.agenziasanremo.com
 :: www.agenziasanremo.com
-0.0.0.0 www.agliran.co.il
-:: www.agliran.co.il
 0.0.0.0 www.agrant.cn
 :: www.agrant.cn
 0.0.0.0 www.agrantsem.com
@@ -74705,8 +74703,6 @@
 :: www.crackserver.com
 0.0.0.0 www.crazywinnings.com
 :: www.crazywinnings.com
-0.0.0.0 www.creativ-art1.com
-:: www.creativ-art1.com
 0.0.0.0 www.creatorcommunity.zmags.com
 :: www.creatorcommunity.zmags.com
 0.0.0.0 www.credit-dreams.com
@@ -75721,8 +75717,6 @@
 :: www.gran.mari-el.ru
 0.0.0.0 www.granmarquise.com.br
 :: www.granmarquise.com.br
-0.0.0.0 www.graph.accountkit.com
-:: www.graph.accountkit.com
 0.0.0.0 www.gratis-counter-gratis.de
 :: www.gratis-counter-gratis.de
 0.0.0.0 www.gratis-toplist.de
@@ -76111,6 +76105,8 @@
 :: www.iiewl.com
 0.0.0.0 www.ijacko.net
 :: www.ijacko.net
+0.0.0.0 www.ijerd.com
+:: www.ijerd.com
 0.0.0.0 www.ilgm-deals.com
 :: www.ilgm-deals.com
 0.0.0.0 www.ilnostroorto.com
@@ -77033,8 +77029,6 @@
 :: www.megagiftcity.com
 0.0.0.0 www.megagratis.de
 :: www.megagratis.de
-0.0.0.0 www.meganiusy.com
-:: www.meganiusy.com
 0.0.0.0 www.megaone.com
 :: www.megaone.com
 0.0.0.0 www.meinebranche24.de
@@ -77487,8 +77481,6 @@
 :: www.odbierz-paysafecard.ujm.pl
 0.0.0.0 www.odbierzdarmowedoladowanie.wordpress.com
 :: www.odbierzdarmowedoladowanie.wordpress.com
-0.0.0.0 www.odkrywamyzakryte.com
-:: www.odkrywamyzakryte.com
 0.0.0.0 www.odzyskajsnapy.blogspot.com
 :: www.odzyskajsnapy.blogspot.com
 0.0.0.0 www.offerent.com
@@ -79091,8 +79083,6 @@
 :: www.tigipro.pl
 0.0.0.0 www.timefor.com
 :: www.timefor.com
-0.0.0.0 www.timelessimagesmi.com
-:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tinayr.go.ro
@@ -79717,8 +79707,6 @@
 :: www.witchlab.com
 0.0.0.0 www.witkey.com
 :: www.witkey.com
-0.0.0.0 www.witnatura.pl
-:: www.witnatura.pl
 0.0.0.0 www.wixed.wix.com
 :: www.wixed.wix.com
 0.0.0.0 www.wkxppshj-qx.global.ssl.fastly.net
