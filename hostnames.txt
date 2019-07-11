@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Jul 10 12:24:55 CEST 2019
+# Last update: Thu Jul 11 08:54:53 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 40970
+# Number of unique hostnames: 41028
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3169,6 +3169,8 @@
 :: aads.treehugger.com
 0.0.0.0 aagaou.wm.warmglow.org
 :: aagaou.wm.warmglow.org
+0.0.0.0 aaguides.superawesome.com
+:: aaguides.superawesome.com
 0.0.0.0 aagw.sdo.com
 :: aagw.sdo.com
 0.0.0.0 aakmanggalajogja.web.id
@@ -3331,6 +3333,8 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
+0.0.0.0 abusalewm.exceltoner.com
+:: abusalewm.exceltoner.com
 0.0.0.0 ac.86huoche.com
 :: ac.86huoche.com
 0.0.0.0 ac.ajur.info
@@ -5803,6 +5807,8 @@
 :: adfu.slashdot.org
 0.0.0.0 adg.bzgint.com
 :: adg.bzgint.com
+0.0.0.0 adgallery.superawesome.com
+:: adgallery.superawesome.com
 0.0.0.0 adgallery.whitehousedrugpolicy.gov
 :: adgallery.whitehousedrugpolicy.gov
 0.0.0.0 adgeo.163.com
@@ -6373,6 +6379,8 @@
 :: adq.nextag.com
 0.0.0.0 adr.alltorrents.net
 :: adr.alltorrents.net
+0.0.0.0 adr.superawesome.tv
+:: adr.superawesome.tv
 0.0.0.0 adrates.theglobeandmail.com
 :: adrates.theglobeandmail.com
 0.0.0.0 adrcn.ma.163.com
@@ -6849,6 +6857,8 @@
 :: ads.berlinonline.de
 0.0.0.0 ads.berrynet.com
 :: ads.berrynet.com
+0.0.0.0 ads.beta.dashboard.superawesome.tv
+:: ads.beta.dashboard.superawesome.tv
 0.0.0.0 ads.beta.itravel2000.com
 :: ads.beta.itravel2000.com
 0.0.0.0 ads.betanews.com
@@ -7323,6 +7333,8 @@
 :: ads.darikweb.com
 0.0.0.0 ads.darkhardware.com
 :: ads.darkhardware.com
+0.0.0.0 ads.dashboard.superawesome.tv
+:: ads.dashboard.superawesome.tv
 0.0.0.0 ads.data.pplive.com
 :: ads.data.pplive.com
 0.0.0.0 ads.databrainz.com
@@ -7375,6 +7387,8 @@
 :: ads.desmoinesregister.com
 0.0.0.0 ads.detelefoongids.nl
 :: ads.detelefoongids.nl
+0.0.0.0 ads.dev.superawesome.tv
+:: ads.dev.superawesome.tv
 0.0.0.0 ads.developershed.com
 :: ads.developershed.com
 0.0.0.0 ads.deviantart.com
@@ -9767,6 +9781,10 @@
 :: ads.sritis.net
 0.0.0.0 ads.stackoverflow.com
 :: ads.stackoverflow.com
+0.0.0.0 ads.staging.beta.dashboard.superawesome.tv
+:: ads.staging.beta.dashboard.superawesome.tv
+0.0.0.0 ads.staging.superawesome.tv
+:: ads.staging.superawesome.tv
 0.0.0.0 ads.standartnews.com
 :: ads.standartnews.com
 0.0.0.0 ads.starbanner.com
@@ -9825,6 +9843,8 @@
 :: ads.sunjournal.com
 0.0.0.0 ads.suomiautomaatti.com
 :: ads.suomiautomaatti.com
+0.0.0.0 ads.superawesome.tv
+:: ads.superawesome.tv
 0.0.0.0 ads.superonline.com
 :: ads.superonline.com
 0.0.0.0 ads.supfast.net
@@ -12663,10 +12683,14 @@
 :: advertiser.cyberghostvpn.com
 0.0.0.0 advertiser.lifestyleadnetwork.com
 :: advertiser.lifestyleadnetwork.com
+0.0.0.0 advertiser.superawesome.tv
+:: advertiser.superawesome.tv
 0.0.0.0 advertiserconnection.azurewebsites.net
 :: advertiserconnection.azurewebsites.net
 0.0.0.0 advertisers.federatedmedia.net
 :: advertisers.federatedmedia.net
+0.0.0.0 advertisers.superawesome.tv
+:: advertisers.superawesome.tv
 0.0.0.0 advertising.adsoundmedia.com
 :: advertising.adsoundmedia.com
 0.0.0.0 advertising.amazon.co.uk
@@ -12741,6 +12765,8 @@
 :: advertising.seenews.com
 0.0.0.0 advertising.spreadomat.net
 :: advertising.spreadomat.net
+0.0.0.0 advertising.superawesome.tv
+:: advertising.superawesome.tv
 0.0.0.0 advertising.thediabetesnetwork.com
 :: advertising.thediabetesnetwork.com
 0.0.0.0 advertising.wellpack.fr
@@ -14767,6 +14793,8 @@
 :: analytics.us.algolia.com
 0.0.0.0 analytics.us.archive.org
 :: analytics.us.archive.org
+0.0.0.0 analytics.usage.riverbed.com
+:: analytics.usage.riverbed.com
 0.0.0.0 analytics.usdm.net
 :: analytics.usdm.net
 0.0.0.0 analytics.vast.com
@@ -15165,6 +15193,8 @@
 :: api.citygridmedia.com
 0.0.0.0 api.ciuvo.com
 :: api.ciuvo.com
+0.0.0.0 api.classifier.superawesome.tv
+:: api.classifier.superawesome.tv
 0.0.0.0 api.cloudmobi.net
 :: api.cloudmobi.net
 0.0.0.0 api.cmt.mob.com
@@ -15191,6 +15221,8 @@
 :: api.d.xiaomi.com
 0.0.0.0 api.danmu.tv.sohu.com
 :: api.danmu.tv.sohu.com
+0.0.0.0 api.dashboard.superawesome.tv
+:: api.dashboard.superawesome.tv
 0.0.0.0 api.data-monitor.info
 :: api.data-monitor.info
 0.0.0.0 api.datasteam.io
@@ -17411,8 +17443,6 @@
 :: baiduwapjs1.chinaiiss.com
 0.0.0.0 baifen.music.baidu.com
 :: baifen.music.baidu.com
-0.0.0.0 baigachahs.edu.bd
-:: baigachahs.edu.bd
 0.0.0.0 baike.163.com
 :: baike.163.com
 0.0.0.0 bajasae.grupos.usb.ve
@@ -20153,6 +20183,14 @@
 :: brokeneagledlc.goblogz.net
 0.0.0.0 broker.adobe.com
 :: broker.adobe.com
+0.0.0.0 broker.classifier.dev.superawesome.tv
+:: broker.classifier.dev.superawesome.tv
+0.0.0.0 broker.classifier.superawesome.tv
+:: broker.classifier.superawesome.tv
+0.0.0.0 broker.cloud.staging.superawesome.tv
+:: broker.cloud.staging.superawesome.tv
+0.0.0.0 broker.cloud.superawesome.tv
+:: broker.cloud.superawesome.tv
 0.0.0.0 browncustomsoftware.net.au
 :: browncustomsoftware.net.au
 0.0.0.0 browser.events.data.microsoft.com
@@ -21201,6 +21239,10 @@
 :: campaignkit.radiusnetworks.com
 0.0.0.0 campaigns.all-media-services.info
 :: campaigns.all-media-services.info
+0.0.0.0 campaigns.beta.dashboard.superawesome.tv
+:: campaigns.beta.dashboard.superawesome.tv
+0.0.0.0 campaigns.dashboard.superawesome.tv
+:: campaigns.dashboard.superawesome.tv
 0.0.0.0 campaigns.emailserviceprovider.net
 :: campaigns.emailserviceprovider.net
 0.0.0.0 campaigns.f2.com.au
@@ -21209,6 +21251,8 @@
 :: campaigns.gobankingrates.com
 0.0.0.0 campaigns.rioseo.com
 :: campaigns.rioseo.com
+0.0.0.0 campaigns.staging.dashboard.superawesome.tv
+:: campaigns.staging.dashboard.superawesome.tv
 0.0.0.0 campaigns.zappybaby.be
 :: campaigns.zappybaby.be
 0.0.0.0 campamento.queenscamp.com
@@ -21821,8 +21865,6 @@
 :: cdn.g.promosrv.com
 0.0.0.0 cdn.gameadvert.com
 :: cdn.gameadvert.com
-0.0.0.0 cdn.geni.us
-:: cdn.geni.us
 0.0.0.0 cdn.getshogun.com
 :: cdn.getshogun.com
 0.0.0.0 cdn.getsmartcontent.com
@@ -23273,6 +23315,8 @@
 :: classifieds.krify.com
 0.0.0.0 classifieds.manchesteronline.co.uk
 :: classifieds.manchesteronline.co.uk
+0.0.0.0 classifier.superawesome.tv
+:: classifier.superawesome.tv
 0.0.0.0 clc.wanmancn.com
 :: clc.wanmancn.com
 0.0.0.0 clck.vipoffersclub.site
@@ -23723,6 +23767,8 @@
 :: clients1.google.com
 0.0.0.0 clientstream.intuit.launchdarkly.com
 :: clientstream.intuit.launchdarkly.com
+0.0.0.0 clientstream.launchdarkly.com
+:: clientstream.launchdarkly.com
 0.0.0.0 clinic.gov.ua
 :: clinic.gov.ua
 0.0.0.0 clink.nifty.com
@@ -24677,6 +24723,8 @@
 :: contentclick.akamaized.net
 0.0.0.0 contentserv.brandaffinity.net
 :: contentserv.brandaffinity.net
+0.0.0.0 context-matching.dashboard.superawesome.tv
+:: context-matching.dashboard.superawesome.tv
 0.0.0.0 context.adontext.com
 :: context.adontext.com
 0.0.0.0 context.adshadow.net
@@ -24743,6 +24791,8 @@
 :: cookies.cmpnet.com
 0.0.0.0 cookies.reedbusiness.nl
 :: cookies.reedbusiness.nl
+0.0.0.0 cookiesuksouth.blob.core.windows.net
+:: cookiesuksouth.blob.core.windows.net
 0.0.0.0 cookiesync-mynativeplatform-347915877.us-east-1.elb.amazonaws.com
 :: cookiesync-mynativeplatform-347915877.us-east-1.elb.amazonaws.com
 0.0.0.0 cookiex.ngd.yahoo.com
@@ -26369,6 +26419,8 @@
 :: d1ledzqk4xkhp4.cloudfront.net
 0.0.0.0 d1lm7kd3bd3yo9.cloudfront.net
 :: d1lm7kd3bd3yo9.cloudfront.net
+0.0.0.0 d1lu3pmaz2ilpx.cloudfront.net
+:: d1lu3pmaz2ilpx.cloudfront.net
 0.0.0.0 d1lxhc4jvstzrp.cloudfront.net
 :: d1lxhc4jvstzrp.cloudfront.net
 0.0.0.0 d1mbgf0ge24riu.cloudfront.net
@@ -26707,6 +26759,8 @@
 :: d2hiddpkp3wlza.cloudfront.net
 0.0.0.0 d2ho1n52p59mwv.cloudfront.net
 :: d2ho1n52p59mwv.cloudfront.net
+0.0.0.0 d2hrivdxn8ekm8.cloudfront.net
+:: d2hrivdxn8ekm8.cloudfront.net
 0.0.0.0 d2i54aseqwhx68.cloudfront.net
 :: d2i54aseqwhx68.cloudfront.net
 0.0.0.0 d2i5pngfrazn5t.cloudfront.net
@@ -26937,6 +26991,8 @@
 :: d32z5ni8t5127x.cloudfront.net
 0.0.0.0 d32zx4lhje2crr.cloudfront.net
 :: d32zx4lhje2crr.cloudfront.net
+0.0.0.0 d330aiyvva2oww.cloudfront.net
+:: d330aiyvva2oww.cloudfront.net
 0.0.0.0 d33dsfwui17p31.cloudfront.net
 :: d33dsfwui17p31.cloudfront.net
 0.0.0.0 d33f10u0pfpplc.cloudfront.net
@@ -27621,6 +27677,8 @@
 :: data.doodlemobile.com
 0.0.0.0 data.econa.com
 :: data.econa.com
+0.0.0.0 data.emb-api.com
+:: data.emb-api.com
 0.0.0.0 data.emimino.cz
 :: data.emimino.cz
 0.0.0.0 data.gametree.tw
@@ -28781,6 +28839,8 @@
 :: djdj.k7physio.com
 0.0.0.0 djlf5xdlz7m8m.cloudfront.net
 :: djlf5xdlz7m8m.cloudfront.net
+0.0.0.0 djnf6e5yyirys.cloudfront.net
+:: djnf6e5yyirys.cloudfront.net
 0.0.0.0 djr4k68f8n55o.cloudfront.net
 :: djr4k68f8n55o.cloudfront.net
 0.0.0.0 djs.baomihua.com
@@ -29911,6 +29971,8 @@
 :: dvjwpnb8dzwvfmu1hbua.maherstcottage.com.au
 0.0.0.0 dvnafl0qtqz9k.cloudfront.net
 :: dvnafl0qtqz9k.cloudfront.net
+0.0.0.0 dvqigh9b7wa32.cloudfront.net
+:: dvqigh9b7wa32.cloudfront.net
 0.0.0.0 dvs.china.com
 :: dvs.china.com
 0.0.0.0 dvsend.china.com
@@ -31539,6 +31601,8 @@
 :: eu-v10.events.data.microsoft.com
 0.0.0.0 eu-v20.events.data.microsoft.com
 :: eu-v20.events.data.microsoft.com
+0.0.0.0 eu-west-1-ads.staging.superawesome.tv
+:: eu-west-1-ads.staging.superawesome.tv
 0.0.0.0 eu.link.decideinteractive.com
 :: eu.link.decideinteractive.com
 0.0.0.0 eu.nimpool.io
@@ -31661,8 +31725,14 @@
 :: events.intuit.launchdarkly.com
 0.0.0.0 events.jotform.com
 :: events.jotform.com
+0.0.0.0 events.kws.staging.superawesome.tv
+:: events.kws.staging.superawesome.tv
+0.0.0.0 events.kws.superawesome.tv
+:: events.kws.superawesome.tv
 0.0.0.0 events.lbesecapi.com
 :: events.lbesecapi.com
+0.0.0.0 events.mapbox.com
+:: events.mapbox.com
 0.0.0.0 events.olark.com
 :: events.olark.com
 0.0.0.0 events.realgravity.com
@@ -33231,6 +33301,12 @@
 :: for.ideaman-usa.com
 0.0.0.0 forad1.weimeicun.com
 :: forad1.weimeicun.com
+0.0.0.0 forecast.dashboard.superawesome.tv
+:: forecast.dashboard.superawesome.tv
+0.0.0.0 forecast.superawesome.tv
+:: forecast.superawesome.tv
+0.0.0.0 forecasting-api.dashboard.superawesome.tv
+:: forecasting-api.dashboard.superawesome.tv
 0.0.0.0 foreveryoung.gz01.bdysite.com
 :: foreveryoung.gz01.bdysite.com
 0.0.0.0 forex-trading-benefits.blogspot.com
@@ -34041,6 +34117,8 @@
 :: ganymed.beeppool.org
 0.0.0.0 gao.ynet.com
 :: gao.ynet.com
+0.0.0.0 gapi.learnwithhomer.com
+:: gapi.learnwithhomer.com
 0.0.0.0 gardinotec.ind.br
 :: gardinotec.ind.br
 0.0.0.0 garo903.web.fc2.com
@@ -35147,6 +35225,8 @@
 :: graphics7.nytimes.com
 0.0.0.0 graphics8.nytimes.m7z.net
 :: graphics8.nytimes.m7z.net
+0.0.0.0 graphql.dashboard.superawesome.tv
+:: graphql.dashboard.superawesome.tv
 0.0.0.0 gratis.sms.senden.sms13.de
 :: gratis.sms.senden.sms13.de
 0.0.0.0 gravitron.chron.com
@@ -36879,6 +36959,8 @@
 :: httpring.qq.com
 0.0.0.0 https.www.paypal.com.nl.c91e7f018a4ea68d6864a7d21f663c9a.alert-21nna.be
 :: https.www.paypal.com.nl.c91e7f018a4ea68d6864a7d21f663c9a.alert-21nna.be
+0.0.0.0 httpsads.superawesome.tv
+:: httpsads.superawesome.tv
 0.0.0.0 hu.xbhy.com
 :: hu.xbhy.com
 0.0.0.0 hu587tiugi.vv.cc
@@ -37549,10 +37631,6 @@
 :: ih.constantcontacts.com
 0.0.0.0 ih.f2.constantcontact.com
 :: ih.f2.constantcontact.com
-0.0.0.0 ih2.gamecopyworld.com
-:: ih2.gamecopyworld.com
-0.0.0.0 ih4.gamecopyworld.com
-:: ih4.gamecopyworld.com
 0.0.0.0 ih71248.myihor.ru
 :: ih71248.myihor.ru
 0.0.0.0 ih722375.myihor.ru
@@ -38947,6 +39025,8 @@
 :: invenio.sgn.com
 0.0.0.0 invention.festinolente.cl
 :: invention.festinolente.cl
+0.0.0.0 inventory.dashboard.superawesome.tv
+:: inventory.dashboard.superawesome.tv
 0.0.0.0 investors.healthysmileclub.com
 :: investors.healthysmileclub.com
 0.0.0.0 invitation-new-drive-share-clear.bottlerockethq.com
@@ -40485,8 +40565,6 @@
 :: karinschacht.addr.com
 0.0.0.0 karisaba.dousetsu.com
 :: karisaba.dousetsu.com
-0.0.0.0 karkhandaddm.edu.bd
-:: karkhandaddm.edu.bd
 0.0.0.0 karliny9.bget.ru
 :: karliny9.bget.ru
 0.0.0.0 karma.mdpcdn.com
@@ -42891,10 +42969,6 @@
 :: lvuuhq1x-site.1tempurl.com
 0.0.0.0 lw1.cdmediaworld.com
 :: lw1.cdmediaworld.com
-0.0.0.0 lw1.gamecopyworld.com
-:: lw1.gamecopyworld.com
-0.0.0.0 lw2.gamecopyworld.com
-:: lw2.gamecopyworld.com
 0.0.0.0 lwjttqlniekv.lookin.at
 :: lwjttqlniekv.lookin.at
 0.0.0.0 lwwzoi3m-site.1tempurl.com
@@ -44449,6 +44523,8 @@
 :: marketing.prominnov.com
 0.0.0.0 marketing.reachforce.com
 :: marketing.reachforce.com
+0.0.0.0 marketing.superawesome.com
+:: marketing.superawesome.com
 0.0.0.0 marketing.tealium.com
 :: marketing.tealium.com
 0.0.0.0 marketing.vistaprint.com
@@ -47549,8 +47625,6 @@
 :: ncs.eadaily.com
 0.0.0.0 ncsqb.saqibsiddiqui.com
 :: ncsqb.saqibsiddiqui.com
-0.0.0.0 nd1.gamecopyworld.com
-:: nd1.gamecopyworld.com
 0.0.0.0 nd11mx1-a-fixed.sancharnet.in
 :: nd11mx1-a-fixed.sancharnet.in
 0.0.0.0 ndfx.iron-robot.com
@@ -47793,6 +47867,10 @@
 :: newads.bangbros.com
 0.0.0.0 newads.cmpnet.com
 :: newads.cmpnet.com
+0.0.0.0 newads.staging.superawesome.tv
+:: newads.staging.superawesome.tv
+0.0.0.0 newads.superawesome.tv
+:: newads.superawesome.tv
 0.0.0.0 newads.ueba.com.br
 :: newads.ueba.com.br
 0.0.0.0 newadserver.interfree.it
@@ -48081,6 +48159,8 @@
 :: niadsrv.news.com.au
 0.0.0.0 niagara.vn.ua
 :: niagara.vn.ua
+0.0.0.0 niantic-events.kws.superawesome.tv
+:: niantic-events.kws.superawesome.tv
 0.0.0.0 nice.kuaizq.com
 :: nice.kuaizq.com
 0.0.0.0 nicealerts.youbora.com
@@ -48351,6 +48431,8 @@
 :: nouvelobs.s3-website-eu-west-1.amazonaws.com
 0.0.0.0 nova.dice.net
 :: nova.dice.net
+0.0.0.0 novatracking.superawesome.com
+:: novatracking.superawesome.com
 0.0.0.0 novelsns.html5.qq.com
 :: novelsns.html5.qq.com
 0.0.0.0 novem.onet.pl
@@ -48665,6 +48747,8 @@
 :: nxa-ls.s3.amazonaws.com
 0.0.0.0 nxads.internet.com
 :: nxads.internet.com
+0.0.0.0 nxd.lostrabbitmedia.com
+:: nxd.lostrabbitmedia.com
 0.0.0.0 nxkl36xz.apps.lair.io
 :: nxkl36xz.apps.lair.io
 0.0.0.0 nxs.kidcolez.cn
@@ -53317,6 +53401,8 @@
 :: pl5225.bntags.com
 0.0.0.0 pl5411.bntags.com
 :: pl5411.bntags.com
+0.0.0.0 placement-links.dashboard.superawesome.tv
+:: placement-links.dashboard.superawesome.tv
 0.0.0.0 places.aviasales.ru
 :: places.aviasales.ru
 0.0.0.0 plafam.org.ve
@@ -54883,8 +54969,6 @@
 :: pt.clickdata.37wan.com
 0.0.0.0 pt.crossmediaservices.com
 :: pt.crossmediaservices.com
-0.0.0.0 pt.friendbuy.com
-:: pt.friendbuy.com
 0.0.0.0 pt.ranking.gemius.com
 :: pt.ranking.gemius.com
 0.0.0.0 pt5.titans-gel.net
@@ -56725,6 +56809,8 @@
 :: reporting.wilkinsonplus.com
 0.0.0.0 reports.amonetize.com
 :: reports.amonetize.com
+0.0.0.0 reports.dashboard.superawesome.tv
+:: reports.dashboard.superawesome.tv
 0.0.0.0 reports.pagesuite-professional.co.uk
 :: reports.pagesuite-professional.co.uk
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
@@ -60597,6 +60683,8 @@
 :: share.loginradius.com
 0.0.0.0 share.pluso.ru
 :: share.pluso.ru
+0.0.0.0 share.riverbed.com
+:: share.riverbed.com
 0.0.0.0 share7.xii.jp
 :: share7.xii.jp
 0.0.0.0 shared.9msn.com.au
@@ -61435,6 +61523,8 @@
 :: sn80012897z.esy.es
 0.0.0.0 snap.cba.pl
 :: snap.cba.pl
+0.0.0.0 snap.events.mapbox.com
+:: snap.events.mapbox.com
 0.0.0.0 snap.licdn.com
 :: snap.licdn.com
 0.0.0.0 snapabug.appspot.com
@@ -62251,10 +62341,18 @@
 :: staging-api.spot.im
 0.0.0.0 staging.50onred.com
 :: staging.50onred.com
+0.0.0.0 staging.ads.superawesome.tv
+:: staging.ads.superawesome.tv
 0.0.0.0 staging.analytics.cohesionapps.com
 :: staging.analytics.cohesionapps.com
 0.0.0.0 staging.app-analytics.snapchat.com
 :: staging.app-analytics.snapchat.com
+0.0.0.0 staging.beta.ads.superawesome.tv
+:: staging.beta.ads.superawesome.tv
+0.0.0.0 staging.beta.dashboard.superawesome.tv
+:: staging.beta.dashboard.superawesome.tv
+0.0.0.0 staging.dashboard.superawesome.tv
+:: staging.dashboard.superawesome.tv
 0.0.0.0 staging.elemental-id.com
 :: staging.elemental-id.com
 0.0.0.0 staging.pixel.printsites.net
@@ -64139,6 +64237,10 @@
 :: swa.gtimg.com
 0.0.0.0 swa.metro.co.uk
 :: swa.metro.co.uk
+0.0.0.0 swapit.beta.dashboard.superawesome.tv
+:: swapit.beta.dashboard.superawesome.tv
+0.0.0.0 swapit.dashboard.superawesome.tv
+:: swapit.dashboard.superawesome.tv
 0.0.0.0 swappdl.duoyi.com
 :: swappdl.duoyi.com
 0.0.0.0 swattradingco.name.qa
@@ -65219,6 +65321,8 @@
 :: telemetry.soundcloud.com
 0.0.0.0 telemetry.urs.microsoft.com
 :: telemetry.urs.microsoft.com
+0.0.0.0 telemetryservice.firstpartyapps.oaspapps.com
+:: telemetryservice.firstpartyapps.oaspapps.com
 0.0.0.0 television-netfl-auth.wearenutz.net
 :: television-netfl-auth.wearenutz.net
 0.0.0.0 telkom.response.lithium.com
@@ -69345,6 +69449,8 @@
 :: urlserverappstoreca.selfip.com
 0.0.0.0 us-central1-narvar-data-lake.cloudfunctions.net
 :: us-central1-narvar-data-lake.cloudfunctions.net
+0.0.0.0 us-east-1-ads.superawesome.tv
+:: us-east-1-ads.superawesome.tv
 0.0.0.0 us-east-1.dc.ads.linkedin.com
 :: us-east-1.dc.ads.linkedin.com
 0.0.0.0 us-east-1.profile-api.ads.linkedin.com
@@ -69557,6 +69663,8 @@
 :: usads.imdb.com
 0.0.0.0 usads.imdb.nl
 :: usads.imdb.nl
+0.0.0.0 usage.riverbed.com
+:: usage.riverbed.com
 0.0.0.0 usao.77gog.com
 :: usao.77gog.com
 0.0.0.0 usarmy.vo.llnwd.net
@@ -74513,6 +74621,8 @@
 :: www.clap4ya.com
 0.0.0.0 www.clarium.global.ssl.fastly.net
 :: www.clarium.global.ssl.fastly.net
+0.0.0.0 www.classifier.superawesome.tv
+:: www.classifier.superawesome.tv
 0.0.0.0 www.clear-request.com
 :: www.clear-request.com
 0.0.0.0 www.clearalgorithm.com
@@ -74703,6 +74813,8 @@
 :: www.crackserver.com
 0.0.0.0 www.crazywinnings.com
 :: www.crazywinnings.com
+0.0.0.0 www.creativ-art1.com
+:: www.creativ-art1.com
 0.0.0.0 www.creatorcommunity.zmags.com
 :: www.creatorcommunity.zmags.com
 0.0.0.0 www.credit-dreams.com
@@ -76823,8 +76935,6 @@
 :: www.locgest.com
 0.0.0.0 www.lockview.cn
 :: www.lockview.cn
-0.0.0.0 www.log-in-verlag.de
-:: www.log-in-verlag.de
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
@@ -79083,6 +79193,8 @@
 :: www.tigipro.pl
 0.0.0.0 www.timefor.com
 :: www.timefor.com
+0.0.0.0 www.timelessimagesmi.com
+:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tinayr.go.ro
@@ -79373,6 +79485,8 @@
 :: www.usa.odysseus-nua.com
 0.0.0.0 www.usaenterprise.com
 :: www.usaenterprise.com
+0.0.0.0 www.usage.riverbed.com
+:: www.usage.riverbed.com
 0.0.0.0 www.usaphotocopyservice.com
 :: www.usaphotocopyservice.com
 0.0.0.0 www.usenetjunction.com
@@ -79847,6 +79961,8 @@
 :: www.xzegarsmiercix.prv.pl
 0.0.0.0 www.y4681.6128786.com
 :: www.y4681.6128786.com
+0.0.0.0 www.yacht-market.eu
+:: www.yacht-market.eu
 0.0.0.0 www.yasnogorie.tora.ru
 :: www.yasnogorie.tora.ru
 0.0.0.0 www.yc1234.com
