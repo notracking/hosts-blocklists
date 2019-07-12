@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Jul 11 08:54:53 CEST 2019
+# Last update: Fri Jul 12 08:44:35 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41028
+# Number of unique hostnames: 41052
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -15225,8 +15225,6 @@
 :: api.dashboard.superawesome.tv
 0.0.0.0 api.data-monitor.info
 :: api.data-monitor.info
-0.0.0.0 api.datasteam.io
-:: api.datasteam.io
 0.0.0.0 api.dewmobile.net
 :: api.dewmobile.net
 0.0.0.0 api.dianru.com
@@ -17363,6 +17361,8 @@
 :: babs.tv2.dk
 0.0.0.0 babsy.foreverhorny.com
 :: babsy.foreverhorny.com
+0.0.0.0 baby.163.com
+:: baby.163.com
 0.0.0.0 baby.dorki.info
 :: baby.dorki.info
 0.0.0.0 baby.py.shangdu.com
@@ -24433,6 +24433,8 @@
 :: comment.tie.163.com
 0.0.0.0 commerce-api.sprinklr.com
 :: commerce-api.sprinklr.com
+0.0.0.0 commerce.adobedtm.com
+:: commerce.adobedtm.com
 0.0.0.0 commerce.cimedia.net
 :: commerce.cimedia.net
 0.0.0.0 commerce.www.ibm.com
@@ -28773,12 +28775,16 @@
 :: discover.haroldwheen.com.au
 0.0.0.0 discover.hawkesburyshow.com.au
 :: discover.hawkesburyshow.com.au
+0.0.0.0 discovery.163.com
+:: discovery.163.com
 0.0.0.0 discovery.response.lithium.com
 :: discovery.response.lithium.com
 0.0.0.0 discovery.uu.dev.webapp.163.com
 :: discovery.uu.dev.webapp.163.com
 0.0.0.0 discuz.gtimg.cn
 :: discuz.gtimg.cn
+0.0.0.0 disney.my.sentry.io
+:: disney.my.sentry.io
 0.0.0.0 dispatcher.mobile.uu.163.com
 :: dispatcher.mobile.uu.163.com
 0.0.0.0 dispatcher.upmc.uc.cn
@@ -30847,6 +30853,8 @@
 :: eds.ca.matchbox.maruhub.com
 0.0.0.0 eds.study.163.com
 :: eds.study.163.com
+0.0.0.0 edu.163.com
+:: edu.163.com
 0.0.0.0 eduad.baidu.com
 :: eduad.baidu.com
 0.0.0.0 eduambiental.cm-porto.pt
@@ -33083,8 +33091,6 @@
 :: finance.b3p.cn
 0.0.0.0 financialprofileorchestration.api.intuit.com
 :: financialprofileorchestration.api.intuit.com
-0.0.0.0 financialprovider-logos.platform.intuit.com
-:: financialprovider-logos.platform.intuit.com
 0.0.0.0 findapps.in.net
 :: findapps.in.net
 0.0.0.0 finder.cox.net
@@ -35049,6 +35055,8 @@
 :: gom-player.gooofull.com
 0.0.0.0 gomovies.track.clicksure.com
 :: gomovies.track.clicksure.com
+0.0.0.0 gongyi.163.com
+:: gongyi.163.com
 0.0.0.0 gonjiri64.web.fc2.com
 :: gonjiri64.web.fc2.com
 0.0.0.0 gonow003.000webhostapp.com
@@ -35819,6 +35827,8 @@
 :: hd.serial.h2g.pl
 0.0.0.0 hd.tianyu.163.com
 :: hd.tianyu.163.com
+0.0.0.0 hd.tym.163.com
+:: hd.tym.163.com
 0.0.0.0 hd.ylddq.com
 :: hd.ylddq.com
 0.0.0.0 hda.maxli.cn
@@ -37051,6 +37061,8 @@
 :: hxueu.code.weddingeeos.com
 0.0.0.0 hy-brasil.mhwang.com
 :: hy-brasil.mhwang.com
+0.0.0.0 hy.163.com
+:: hy.163.com
 0.0.0.0 hy.cbg.163.com
 :: hy.cbg.163.com
 0.0.0.0 hy.huangye88.net
@@ -39131,6 +39143,8 @@
 :: ipl.t-liga.ru
 0.0.0.0 iplay.163.com
 :: iplay.163.com
+0.0.0.0 iplocation.zoho.com
+:: iplocation.zoho.com
 0.0.0.0 ipm-provider.ff.avast.com
 :: ipm-provider.ff.avast.com
 0.0.0.0 ipm.atm.cp31.ott.cibntv.net
@@ -39787,6 +39801,8 @@
 :: ji.revolvermaps.com
 0.0.0.0 jian18.mumu01.com
 :: jian18.mumu01.com
+0.0.0.0 jiankang.163.com
+:: jiankang.163.com
 0.0.0.0 jiaoben.eastday.com
 :: jiaoben.eastday.com
 0.0.0.0 jiaoben.ganji.cn
@@ -40387,6 +40403,8 @@
 :: just-for-style.omur71.ru
 0.0.0.0 just.getreleasemaster.com
 :: just.getreleasemaster.com
+0.0.0.0 justdance.163.com
+:: justdance.163.com
 0.0.0.0 justin48.000webhostapp.com
 :: justin48.000webhostapp.com
 0.0.0.0 justinbieber.reviewbuckz.com
@@ -40749,6 +40767,8 @@
 :: kid.multidirectionalcardio.com
 0.0.0.0 kid.phxsports.org
 :: kid.phxsports.org
+0.0.0.0 kids.163.com
+:: kids.163.com
 0.0.0.0 kids.nt.am
 :: kids.nt.am
 0.0.0.0 kievelectric.kiev.ua
@@ -40923,6 +40943,8 @@
 :: kniga.tora.ru
 0.0.0.0 knight.economist.com
 :: knight.economist.com
+0.0.0.0 knivesout.163.com
+:: knivesout.163.com
 0.0.0.0 knochem.samsu.ru
 :: knochem.samsu.ru
 0.0.0.0 known.counsellor.gov.cn
@@ -42027,6 +42049,8 @@
 :: liuaghv.000webhostapp.com
 0.0.0.0 liuz112.ddns.net
 :: liuz112.ddns.net
+0.0.0.0 live.163.com
+:: live.163.com
 0.0.0.0 live.4480.org
 :: live.4480.org
 0.0.0.0 live.direct.ly
@@ -42385,8 +42409,6 @@
 :: log.kuwo.cn
 0.0.0.0 log.liusha.info
 :: log.liusha.info
-0.0.0.0 log.logrocket.io
-:: log.logrocket.io
 0.0.0.0 log.ltype.baofeng.com
 :: log.ltype.baofeng.com
 0.0.0.0 log.m.sm.cn
@@ -43979,6 +44001,8 @@
 :: m12-25.163.com
 0.0.0.0 m13-130.163.com
 :: m13-130.163.com
+0.0.0.0 m13-205.163.com
+:: m13-205.163.com
 0.0.0.0 m1ikumoumist.web.fc2.com
 :: m1ikumoumist.web.fc2.com
 0.0.0.0 m1v62r.moro.pershoreprivatehire.co.uk
@@ -44733,6 +44757,8 @@
 :: mbs.youjizzlive.com
 0.0.0.0 mc-siderail.spot.im
 :: mc-siderail.spot.im
+0.0.0.0 mc.163.com
+:: mc.163.com
 0.0.0.0 mc.corel.com
 :: mc.corel.com
 0.0.0.0 mc.dailymotion.com
@@ -46913,6 +46939,8 @@
 :: mpsjn.nexterp.in
 0.0.0.0 mpsschool.edu.bd
 :: mpsschool.edu.bd
+0.0.0.0 mpush.163.com
+:: mpush.163.com
 0.0.0.0 mpv.sandai.net
 :: mpv.sandai.net
 0.0.0.0 mqbdledibcehvaflxwgs.ahdaaf.org
@@ -48627,6 +48655,8 @@
 :: nsclick.baidu.com
 0.0.0.0 nsclickvideo.baidu.com
 :: nsclickvideo.baidu.com
+0.0.0.0 nsg.symantec.com
+:: nsg.symantec.com
 0.0.0.0 nsm.dell.com
 :: nsm.dell.com
 0.0.0.0 nsm.shinobi.jp
@@ -55571,6 +55601,8 @@
 :: qiye11.ejunshi.net
 0.0.0.0 qiyeb.iaskbus.com
 :: qiyeb.iaskbus.com
+0.0.0.0 qiyu.163.com
+:: qiyu.163.com
 0.0.0.0 qjfcdn1220.0101122.com
 :: qjfcdn1220.0101122.com
 0.0.0.0 qjjwn9lbjd0exgoy8wsw.bosch-web-marketing.co.uk
@@ -60803,6 +60835,8 @@
 :: shoppstop.comood.opsource.net
 0.0.0.0 shopriteco.besaba.com
 :: shopriteco.besaba.com
+0.0.0.0 shoucang.163.com
+:: shoucang.163.com
 0.0.0.0 shouji.163.com
 :: shouji.163.com
 0.0.0.0 shouji.yd126.com
@@ -62031,6 +62065,8 @@
 :: srepdata.usatoday.com
 0.0.0.0 srilaini1helprecoveryii.000webhostapp.com
 :: srilaini1helprecoveryii.000webhostapp.com
+0.0.0.0 srisaranankara.sch.lk
+:: srisaranankara.sch.lk
 0.0.0.0 srpze.saqibsiddiqui.com
 :: srpze.saqibsiddiqui.com
 0.0.0.0 srutebmduoh.myfw.us
@@ -75953,6 +75989,8 @@
 :: www.herinvest.be
 0.0.0.0 www.herity.org
 :: www.herity.org
+0.0.0.0 www.heroichosting.sstechvn.com
+:: www.heroichosting.sstechvn.com
 0.0.0.0 www.heusmarketing.nl
 :: www.heusmarketing.nl
 0.0.0.0 www.hey.lt
@@ -78095,6 +78133,8 @@
 :: www.promumedical.com
 0.0.0.0 www.propan.ru
 :: www.propan.ru
+0.0.0.0 www.prophet.heise.de
+:: www.prophet.heise.de
 0.0.0.0 www.prosex.com
 :: www.prosex.com
 0.0.0.0 www.prosoftware-de.info
@@ -79235,8 +79275,6 @@
 :: www.top25.ro
 0.0.0.0 www.top66.com
 :: www.top66.com
-0.0.0.0 www.topanswertips.info
-:: www.topanswertips.info
 0.0.0.0 www.topblogging.com
 :: www.topblogging.com
 0.0.0.0 www.topblogs.com.ph
@@ -81049,6 +81087,8 @@
 :: xwdaeptepjvgyzig8bba.businessrulesanalysis.com
 0.0.0.0 xwne.wcdn.co.il
 :: xwne.wcdn.co.il
+0.0.0.0 xxd.163.com
+:: xxd.163.com
 0.0.0.0 xxgoe.saqibsiddiqui.com
 :: xxgoe.saqibsiddiqui.com
 0.0.0.0 xxi.ss.la
@@ -81063,6 +81103,8 @@
 :: xxx18.ucoz.com
 0.0.0.0 xxxa.aikeapp.com
 :: xxxa.aikeapp.com
+0.0.0.0 xy-cache.163.com
+:: xy-cache.163.com
 0.0.0.0 xy-log2.tagtic.cn
 :: xy-log2.tagtic.cn
 0.0.0.0 xy.shijialianzuishuai.com
@@ -81135,6 +81177,8 @@
 :: y.zp22.cn
 0.0.0.0 y1.spreton.com
 :: y1.spreton.com
+0.0.0.0 y3.163.com
+:: y3.163.com
 0.0.0.0 y3.ifengimg.com
 :: y3.ifengimg.com
 0.0.0.0 y4681.6128786.com
@@ -81307,6 +81351,8 @@
 :: yfxpcode.m.gxwztv.com
 0.0.0.0 yggithuq.utawebhost.at
 :: yggithuq.utawebhost.at
+0.0.0.0 yh2.163.com
+:: yh2.163.com
 0.0.0.0 yhfjp26839.lithium.com
 :: yhfjp26839.lithium.com
 0.0.0.0 yhinas.hanagumori.com
@@ -81565,6 +81611,10 @@
 :: yys.cbg.163.com
 0.0.0.0 yys.tongren.163.com
 :: yys.tongren.163.com
+0.0.0.0 yyscafe.163.com
+:: yyscafe.163.com
+0.0.0.0 yysshop.163.com
+:: yysshop.163.com
 0.0.0.0 z.adcpm.com
 :: z.adcpm.com
 0.0.0.0 z.ceotrk.com
@@ -81951,8 +82001,6 @@
 :: zsn5qtrgfpu4tmpg.onion.gq
 0.0.0.0 zsn5qtrgfpu4tmpg.onion.lt
 :: zsn5qtrgfpu4tmpg.onion.lt
-0.0.0.0 zsn5qtrgfpu4tmpg.tor2web.fi
-:: zsn5qtrgfpu4tmpg.tor2web.fi
 0.0.0.0 zsn5qtrgfpu4tmpg.tor2web.org
 :: zsn5qtrgfpu4tmpg.tor2web.org
 0.0.0.0 zsnbystre.republika.pl
