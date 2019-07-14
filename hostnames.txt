@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Jul 13 08:43:40 CEST 2019
+# Last update: Sun Jul 14 08:51:04 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41052
+# Number of unique hostnames: 41062
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -14561,6 +14561,8 @@
 :: analytics.ihgip.net
 0.0.0.0 analytics.industriemagazin.net
 :: analytics.industriemagazin.net
+0.0.0.0 analytics.inform.com
+:: analytics.inform.com
 0.0.0.0 analytics.informationweek.com
 :: analytics.informationweek.com
 0.0.0.0 analytics.ip-profis.de
@@ -15885,6 +15887,8 @@
 :: apple.com-security-desktop-antimalware-support.download
 0.0.0.0 apple.com-shield-device.live
 :: apple.com-shield-device.live
+0.0.0.0 apple.com-shield.live
+:: apple.com-shield.live
 0.0.0.0 apple.com-speed-macos.live
 :: apple.com-speed-macos.live
 0.0.0.0 apple.com-speedup-macbook.live
@@ -26303,6 +26307,8 @@
 :: d1auwh1li83eb9.cloudfront.net
 0.0.0.0 d1az0m14mjvs40.cloudfront.net
 :: d1az0m14mjvs40.cloudfront.net
+0.0.0.0 d1b0fk9ns6n0w9.cloudfront.net
+:: d1b0fk9ns6n0w9.cloudfront.net
 0.0.0.0 d1bevsqehy4npt.cloudfront.net
 :: d1bevsqehy4npt.cloudfront.net
 0.0.0.0 d1boik8k1ctool.cloudfront.net
@@ -38179,6 +38185,8 @@
 :: img.soulmate.com
 0.0.0.0 img.stamps.com
 :: img.stamps.com
+0.0.0.0 img.sunmediaads.com
+:: img.sunmediaads.com
 0.0.0.0 img.supfast.net
 :: img.supfast.net
 0.0.0.0 img.szm.sk
@@ -41183,8 +41191,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -49333,14 +49339,8 @@
 :: oascentral.sina.com
 0.0.0.0 oascentral.sina.com.hk
 :: oascentral.sina.com.hk
-0.0.0.0 oascentral.southjerseylocalnews.com
-:: oascentral.southjerseylocalnews.com
 0.0.0.0 oascentral.sparknotes.com
 :: oascentral.sparknotes.com
-0.0.0.0 oascentral.spineuniverse.com
-:: oascentral.spineuniverse.com
-0.0.0.0 oascentral.sportsfanlive.com
-:: oascentral.sportsfanlive.com
 0.0.0.0 oascentral.stackmag.com
 :: oascentral.stackmag.com
 0.0.0.0 oascentral.stansberryresearch.com
@@ -53285,6 +53285,8 @@
 :: pixel.perceptlink.com
 0.0.0.0 pixel.printsites.net
 :: pixel.printsites.net
+0.0.0.0 pixel.programmatictrader.com
+:: pixel.programmatictrader.com
 0.0.0.0 pixel.prosieben.de
 :: pixel.prosieben.de
 0.0.0.0 pixel.realtor.com
@@ -53533,6 +53535,8 @@
 :: play.stat.miraben.pw
 0.0.0.0 play.strdef.world
 :: play.strdef.world
+0.0.0.0 play.sunmediaads.com
+:: play.sunmediaads.com
 0.0.0.0 play.vb.wearesaudis.net
 :: play.vb.wearesaudis.net
 0.0.0.0 play.videos.videos.vidto.me
@@ -62067,8 +62071,6 @@
 :: srepdata.usatoday.com
 0.0.0.0 srilaini1helprecoveryii.000webhostapp.com
 :: srilaini1helprecoveryii.000webhostapp.com
-0.0.0.0 srisaranankara.sch.lk
-:: srisaranankara.sch.lk
 0.0.0.0 srpze.saqibsiddiqui.com
 :: srpze.saqibsiddiqui.com
 0.0.0.0 srutebmduoh.myfw.us
@@ -66917,6 +66919,8 @@
 :: track.sohu.com
 0.0.0.0 track.spankadoo.pl
 :: track.spankadoo.pl
+0.0.0.0 track.special-promotions.online
+:: track.special-promotions.online
 0.0.0.0 track.specialdailydeals4u.com
 :: track.specialdailydeals4u.com
 0.0.0.0 track.spiceworks.com
@@ -69351,6 +69355,8 @@
 :: updateboaconfirm.webcindario.com
 0.0.0.0 updated.rbktechnology.ie
 :: updated.rbktechnology.ie
+0.0.0.0 updatedentalcollege.edu.bd
+:: updatedentalcollege.edu.bd
 0.0.0.0 updatefbs-1bfc.at.ua
 :: updatefbs-1bfc.at.ua
 0.0.0.0 updatefbs-1lpu.at.ua
@@ -69479,6 +69485,8 @@
 :: url.jiemengle.com
 0.0.0.0 url.tudown.com
 :: url.tudown.com
+0.0.0.0 urladyms.newlogiq.com
+:: urladyms.newlogiq.com
 0.0.0.0 urlcheck.hulu.com
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
@@ -69573,6 +69581,8 @@
 :: us.q1.yimg.com
 0.0.0.0 us.r1.yimg.com
 :: us.r1.yimg.com
+0.0.0.0 us.rewardearners.com
+:: us.rewardearners.com
 0.0.0.0 us.s1.yimg.com
 :: us.s1.yimg.com
 0.0.0.0 us.t1.yimg.com
@@ -72499,6 +72509,8 @@
 :: win.enterfree.club
 0.0.0.0 win.gdt.qq.com
 :: win.gdt.qq.com
+0.0.0.0 winappcenter.total-secure.info
+:: winappcenter.total-secure.info
 0.0.0.0 wincon32.in.net
 :: wincon32.in.net
 0.0.0.0 window.nixnet.cz
@@ -73815,6 +73827,8 @@
 :: www.agridiving.net
 0.0.0.0 www.agriturismoigirasoli.it
 :: www.agriturismoigirasoli.it
+0.0.0.0 www.agriturismolapiana.net
+:: www.agriturismolapiana.net
 0.0.0.0 www.aheol.com
 :: www.aheol.com
 0.0.0.0 www.aia-autodifesa.com
@@ -74035,6 +74049,8 @@
 :: www.apple.com-scan.live
 0.0.0.0 www.apple.com-shield-device.live
 :: www.apple.com-shield-device.live
+0.0.0.0 www.apple.com-shield.live
+:: www.apple.com-shield.live
 0.0.0.0 www.apple.com-speed-macbook.live
 :: www.apple.com-speed-macbook.live
 0.0.0.0 www.apple.com-speed-macos.live
@@ -75539,6 +75555,8 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
+0.0.0.0 www.fishingtackleindia.com
+:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -78353,6 +78371,8 @@
 :: www.revisitors.com
 0.0.0.0 www.rgadvert.com
 :: www.rgadvert.com
+0.0.0.0 www.rgjassociation.info
+:: www.rgjassociation.info
 0.0.0.0 www.rgtalp14.it
 :: www.rgtalp14.it
 0.0.0.0 www.rhydel.site
