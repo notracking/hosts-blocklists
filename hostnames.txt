@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Jul 15 08:40:43 CEST 2019
+# Last update: Tue Jul 16 08:40:49 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41062
+# Number of unique hostnames: 41058
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -5027,6 +5027,8 @@
 :: ad.valuecalling.com
 0.0.0.0 ad.vcm.jp
 :: ad.vcm.jp
+0.0.0.0 ad.velomania.ru
+:: ad.velomania.ru
 0.0.0.0 ad.vidaroo.com
 :: ad.vidaroo.com
 0.0.0.0 ad.videokit.org
@@ -41191,8 +41193,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -45227,8 +45227,6 @@
 :: meravshlez.000webhostapp.com
 0.0.0.0 mercad0liv.sslblindado.com
 :: mercad0liv.sslblindado.com
-0.0.0.0 mercadolivre.krovatka.net
-:: mercadolivre.krovatka.net
 0.0.0.0 mercedes-vitoin.423.com1.ru
 :: mercedes-vitoin.423.com1.ru
 0.0.0.0 mercedwebml090.000webhostapp.com
@@ -52699,8 +52697,6 @@
 :: phase21zone.heteml.net
 0.0.0.0 phatthalung.go.th
 :: phatthalung.go.th
-0.0.0.0 phayamengrai.chiangrai.doae.go.th
-:: phayamengrai.chiangrai.doae.go.th
 0.0.0.0 phentermine-buy-online.hitslog.net
 :: phentermine-buy-online.hitslog.net
 0.0.0.0 phentermine-online.iscool.nl
@@ -53599,8 +53595,6 @@
 :: pls.webtype.com
 0.0.0.0 plsderk.ddns.me.uk
 :: plsderk.ddns.me.uk
-0.0.0.0 plsh.parklogic.com
-:: plsh.parklogic.com
 0.0.0.0 plsifreeskox.esy.es
 :: plsifreeskox.esy.es
 0.0.0.0 plt.data.pplive.com
@@ -70413,6 +70407,8 @@
 :: vice-ads-cdn.vice.com
 0.0.0.0 vice-ads.s3.amazonaws.com
 :: vice-ads.s3.amazonaws.com
+0.0.0.0 vice-publishers-cdn.vice.com
+:: vice-publishers-cdn.vice.com
 0.0.0.0 vicodin-store.shengen.ru
 :: vicodin-store.shengen.ru
 0.0.0.0 vicodin.t-amo.net
@@ -73251,8 +73247,6 @@
 :: www.010cs.com
 0.0.0.0 www.02level.tk
 :: www.02level.tk
-0.0.0.0 www.02seo.com
-:: www.02seo.com
 0.0.0.0 www.050media.nl
 :: www.050media.nl
 0.0.0.0 www.0898tz.com
@@ -75555,8 +75549,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
