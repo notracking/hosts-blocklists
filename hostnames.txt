@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Jul 16 08:40:49 CEST 2019
+# Last update: Wed Jul 17 08:44:20 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41058
+# Number of unique hostnames: 41060
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -21739,8 +21739,6 @@
 :: cdn.bestreviews.com
 0.0.0.0 cdn.bestssaker.com
 :: cdn.bestssaker.com
-0.0.0.0 cdn.bibblio.org
-:: cdn.bibblio.org
 0.0.0.0 cdn.braun634.com
 :: cdn.braun634.com
 0.0.0.0 cdn.brcdn.com
@@ -22537,8 +22535,6 @@
 :: centrica.usertracking.com
 0.0.0.0 centro.pixel.ad
 :: centro.pixel.ad
-0.0.0.0 centrum-bezpiecznej-pozyczki.waw.pl
-:: centrum-bezpiecznej-pozyczki.waw.pl
 0.0.0.0 centurylaw.vyudu.tech
 :: centurylaw.vyudu.tech
 0.0.0.0 ceo.efa-light.com
@@ -26657,6 +26653,8 @@
 :: d26dzd2k67we08.cloudfront.net
 0.0.0.0 d26j9bp9bq4uhd.cloudfront.net
 :: d26j9bp9bq4uhd.cloudfront.net
+0.0.0.0 d26opx5dl8t69i.cloudfront.net
+:: d26opx5dl8t69i.cloudfront.net
 0.0.0.0 d26r15y2ken1t9.cloudfront.net
 :: d26r15y2ken1t9.cloudfront.net
 0.0.0.0 d26us1doo6mh7f.cloudfront.net
@@ -33101,6 +33099,8 @@
 :: finance.b3p.cn
 0.0.0.0 financialprofileorchestration.api.intuit.com
 :: financialprofileorchestration.api.intuit.com
+0.0.0.0 financialprovider-logos.platform.intuit.com
+:: financialprovider-logos.platform.intuit.com
 0.0.0.0 findapps.in.net
 :: findapps.in.net
 0.0.0.0 finder.cox.net
@@ -38143,6 +38143,8 @@
 :: img.linkstorm.net
 0.0.0.0 img.ma.social-touch.com
 :: img.ma.social-touch.com
+0.0.0.0 img.mailinblue.com
+:: img.mailinblue.com
 0.0.0.0 img.meipic.net
 :: img.meipic.net
 0.0.0.0 img.mplx.akadns.net
@@ -41193,6 +41195,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -45111,6 +45115,8 @@
 :: medicaldiaspora.or.tz
 0.0.0.0 medigrsvjof.altervista.org
 :: medigrsvjof.altervista.org
+0.0.0.0 medios.in.net
+:: medios.in.net
 0.0.0.0 medium.ethereumfoundation.top
 :: medium.ethereumfoundation.top
 0.0.0.0 medium.getethernow.top
@@ -74587,8 +74593,6 @@
 :: www.cellularbeton.it
 0.0.0.0 www.centralsignnew.com
 :: www.centralsignnew.com
-0.0.0.0 www.centrum-bezpiecznej-pozyczki.waw.pl
-:: www.centrum-bezpiecznej-pozyczki.waw.pl
 0.0.0.0 www.centrum-kredytowe.net
 :: www.centrum-kredytowe.net
 0.0.0.0 www.cerquasas.it
@@ -75057,8 +75061,6 @@
 :: www.disquesanciens.com
 0.0.0.0 www.div.show
 :: www.div.show
-0.0.0.0 www.dl-server.com
-:: www.dl-server.com
 0.0.0.0 www.dlamure.com
 :: www.dlamure.com
 0.0.0.0 www.dllfilestab.com
@@ -75721,8 +75723,6 @@
 :: www.gebrvanorsouw.nl
 0.0.0.0 www.gelios.msk.ru
 :: www.gelios.msk.ru
-0.0.0.0 www.gelkayano.pl
-:: www.gelkayano.pl
 0.0.0.0 www.gemius.com
 :: www.gemius.com
 0.0.0.0 www.generatorkodow.hpu.pl
@@ -77177,6 +77177,8 @@
 :: www.medical-research-books.com
 0.0.0.0 www.mediolina.org
 :: www.mediolina.org
+0.0.0.0 www.medios.in.net
+:: www.medios.in.net
 0.0.0.0 www.medsimages.com
 :: www.medsimages.com
 0.0.0.0 www.megachiny.eu
@@ -81821,6 +81823,8 @@
 :: zen.nbci.com
 0.0.0.0 zencart.alpm.gogzmermedia.com
 :: zencart.alpm.gogzmermedia.com
+0.0.0.0 zerodayv3startedexploitpcwithexcelgreat.duckdns.org
+:: zerodayv3startedexploitpcwithexcelgreat.duckdns.org
 0.0.0.0 zetes.vdsinside.com
 :: zetes.vdsinside.com
 0.0.0.0 zeulo.anime-extremo.com
