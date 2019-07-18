@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Jul 17 08:44:20 CEST 2019
+# Last update: Thu Jul 18 08:38:03 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41060
+# Number of unique hostnames: 41063
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -969,8 +969,6 @@
 :: 418e158b80bc0381719c-c51e63b7e27054c59548bc9120302775.r53.cf2.rackcdn.com
 0.0.0.0 41907.gwtoys.cn
 :: 41907.gwtoys.cn
-0.0.0.0 4225.zhuolingxiu.com
-:: 4225.zhuolingxiu.com
 0.0.0.0 433348--gast-angabe-account.vorkehrung-sicherheitssystem.ml
 :: 433348--gast-angabe-account.vorkehrung-sicherheitssystem.ml
 0.0.0.0 434bom.wm.warmglow.org
@@ -7745,6 +7743,8 @@
 :: ads.filez.com
 0.0.0.0 ads.filez.nl
 :: ads.filez.nl
+0.0.0.0 ads.filezilla-project.org
+:: ads.filezilla-project.org
 0.0.0.0 ads.filmup.com
 :: ads.filmup.com
 0.0.0.0 ads.finance.yahoo.com
@@ -23309,8 +23309,6 @@
 :: clashofclans.hackfbgames.com
 0.0.0.0 clashofclans.htlwlnk.com
 :: clashofclans.htlwlnk.com
-0.0.0.0 classemgmt.testbada.com
-:: classemgmt.testbada.com
 0.0.0.0 classic.bannerbank.hu
 :: classic.bannerbank.hu
 0.0.0.0 classifieds.atspace.com
@@ -27207,6 +27205,8 @@
 :: d3l320urli0p1u.cloudfront.net
 0.0.0.0 d3l3lkinz3f56t.cloudfront.net
 :: d3l3lkinz3f56t.cloudfront.net
+0.0.0.0 d3l4p0goxhm61a.cloudfront.net
+:: d3l4p0goxhm61a.cloudfront.net
 0.0.0.0 d3l4qa0kmel7is.cloudfront.net
 :: d3l4qa0kmel7is.cloudfront.net
 0.0.0.0 d3laygk9zni6hc.cloudfront.net
@@ -27305,6 +27305,8 @@
 :: d3qxwzhswv93jk.cloudfront.net
 0.0.0.0 d3qyjzkrkuj7me.cloudfront.net
 :: d3qyjzkrkuj7me.cloudfront.net
+0.0.0.0 d3r6awv9ysiyn4.cloudfront.net
+:: d3r6awv9ysiyn4.cloudfront.net
 0.0.0.0 d3rm04c4p9a75q.cloudfront.net
 :: d3rm04c4p9a75q.cloudfront.net
 0.0.0.0 d3rmeear8e0ybo.cloudfront.net
@@ -31731,6 +31733,8 @@
 :: events.bouncex.net
 0.0.0.0 events.data.microsoft.com
 :: events.data.microsoft.com
+0.0.0.0 events.deskapi.com
+:: events.deskapi.com
 0.0.0.0 events.fgol.mobi
 :: events.fgol.mobi
 0.0.0.0 events.gfe.nvidia.com
@@ -41195,8 +41199,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -42555,6 +42557,8 @@
 :: logger-prod-us-east-1-vpc-alb-1251201355.us-east-1.elb.amazonaws.com
 0.0.0.0 logger.cloudmobi.net
 :: logger.cloudmobi.net
+0.0.0.0 logger.dailymotion.com
+:: logger.dailymotion.com
 0.0.0.0 logger.ivi.ru
 :: logger.ivi.ru
 0.0.0.0 logger.ntracecloud.com
@@ -52509,8 +52513,6 @@
 :: pebble-adhese.gva.be
 0.0.0.0 pebble-adhese.hbvl.be
 :: pebble-adhese.hbvl.be
-0.0.0.0 pebed.dm-event.net
-:: pebed.dm-event.net
 0.0.0.0 pebed.dm.gg
 :: pebed.dm.gg
 0.0.0.0 pednanet.servicos.ws
@@ -64761,8 +64763,6 @@
 :: t2.a.market.xiaomi.com
 0.0.0.0 t2.hulu.com
 :: t2.hulu.com
-0.0.0.0 t2.huluim.com
-:: t2.huluim.com
 0.0.0.0 t2.vbxx.net
 :: t2.vbxx.net
 0.0.0.0 t2.wshufa.com
@@ -74925,6 +74925,8 @@
 :: www.czas-na-fb.blogspot.com
 0.0.0.0 www.czzcjlb.com
 :: www.czzcjlb.com
+0.0.0.0 www.d3r6awv9ysiyn4.cloudfront.net
+:: www.d3r6awv9ysiyn4.cloudfront.net
 0.0.0.0 www.d77777777.com
 :: www.d77777777.com
 0.0.0.0 www.daddyimawhore.com
@@ -75551,6 +75553,8 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
+0.0.0.0 www.fishingtackleindia.com
+:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -82017,6 +82021,8 @@
 :: zsn5qtrgfpu4tmpg.onion.gq
 0.0.0.0 zsn5qtrgfpu4tmpg.onion.lt
 :: zsn5qtrgfpu4tmpg.onion.lt
+0.0.0.0 zsn5qtrgfpu4tmpg.tor2web.fi
+:: zsn5qtrgfpu4tmpg.tor2web.fi
 0.0.0.0 zsn5qtrgfpu4tmpg.tor2web.org
 :: zsn5qtrgfpu4tmpg.tor2web.org
 0.0.0.0 zsnbystre.republika.pl
