@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Jul 18 08:38:03 CEST 2019
+# Last update: Fri Jul 19 08:40:31 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41063
+# Number of unique hostnames: 41173
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -45,6 +45,8 @@
 :: 001547.000webhostapp.com
 0.0.0.0 00capital0neservice.000webhostapp.com
 :: 00capital0neservice.000webhostapp.com
+0.0.0.0 01.loggly.com
+:: 01.loggly.com
 0.0.0.0 01.static.xsf.ximxim.com
 :: 01.static.xsf.ximxim.com
 0.0.0.0 0124498474f7c13ac9a2-6b191446002b31342189d56cabcf5227.r11.cf2.rackcdn.com
@@ -609,6 +611,8 @@
 :: 2345apicode.dftoutiao.com
 0.0.0.0 2346ytrew3.from-mn.com
 :: 2346ytrew3.from-mn.com
+0.0.0.0 23snaps.loggly.com
+:: 23snaps.loggly.com
 0.0.0.0 24200.h5ixp.com
 :: 24200.h5ixp.com
 0.0.0.0 24200.luvbr.com
@@ -2137,6 +2141,8 @@
 :: 6607129fd4ee493fbcb7f8f4d3e0f606.s3.amazonaws.com
 0.0.0.0 662bd114b7c9.onceedge.ru
 :: 662bd114b7c9.onceedge.ru
+0.0.0.0 672346634-pwpartners.logs-01.loggly.com
+:: 672346634-pwpartners.logs-01.loggly.com
 0.0.0.0 67511.prohoster.biz
 :: 67511.prohoster.biz
 0.0.0.0 67529.prohoster.biz
@@ -3229,6 +3235,8 @@
 :: abandonment.saas.seewhy.com
 0.0.0.0 abandonrom.tagalaxy.net
 :: abandonrom.tagalaxy.net
+0.0.0.0 abbmarine.loggly.com
+:: abbmarine.loggly.com
 0.0.0.0 abbott.vo.llnwd.net
 :: abbott.vo.llnwd.net
 0.0.0.0 abbp1.science.
@@ -3647,6 +3655,8 @@
 :: activeqq.3g.qq.com
 0.0.0.0 activetracker.activehotels.com
 :: activetracker.activehotels.com
+0.0.0.0 activetrail.loggly.com
+:: activetrail.loggly.com
 0.0.0.0 activities.alibaba.com
 :: activities.alibaba.com
 0.0.0.0 activities.chase0nline.argo-abs.com.au
@@ -6411,6 +6421,10 @@
 :: adres.myaora.net
 0.0.0.0 adrevenue.findwhat.com
 :: adrevenue.findwhat.com
+0.0.0.0 adrian.domanski.loggly.com
+:: adrian.domanski.loggly.com
+0.0.0.0 adrian.loggly.com
+:: adrian.loggly.com
 0.0.0.0 adrianalima.sexybabesx.com
 :: adrianalima.sexybabesx.com
 0.0.0.0 adrianogoldschmied.ingest.reporting.creator-prod.zmags.com
@@ -14073,6 +14087,8 @@
 :: ama.daten-sicherheitsdienst.net
 0.0.0.0 ama.daten-ueberpruefungsservice.net
 :: ama.daten-ueberpruefungsservice.net
+0.0.0.0 ama.loggly.com
+:: ama.loggly.com
 0.0.0.0 amaacc67.beget.tech
 :: amaacc67.beget.tech
 0.0.0.0 amae.zjcapital.cn
@@ -14321,6 +14337,8 @@
 :: amv186.internetdsl.tpnet.pl
 0.0.0.0 amvgvvyasde.myfw.us
 :: amvgvvyasde.myfw.us
+0.0.0.0 amwayindia.loggly.com
+:: amwayindia.loggly.com
 0.0.0.0 amz.steamprices.com
 :: amz.steamprices.com
 0.0.0.0 amzn.trendhure.com
@@ -15689,6 +15707,8 @@
 :: app.juwang.com
 0.0.0.0 app.ksent.net
 :: app.ksent.net
+0.0.0.0 app.loggly.com
+:: app.loggly.com
 0.0.0.0 app.logs-facebook.com
 :: app.logs-facebook.com
 0.0.0.0 app.lz55.cn
@@ -16617,6 +16637,8 @@
 :: atlas.services.ou.edu
 0.0.0.0 atlas.verification.login.54a54a.ceneba.com
 :: atlas.verification.login.54a54a.ceneba.com
+0.0.0.0 atlasv2.loggly.com
+:: atlasv2.loggly.com
 0.0.0.0 atm.punchbox.org
 :: atm.punchbox.org
 0.0.0.0 atm.youku.com
@@ -17407,6 +17429,8 @@
 :: badv.wp.pl
 0.0.0.0 baer-afc2.homepage.t-online.de
 :: baer-afc2.homepage.t-online.de
+0.0.0.0 baesystems.loggly.com
+:: baesystems.loggly.com
 0.0.0.0 bafhe51937.i.lithium.com
 :: bafhe51937.i.lithium.com
 0.0.0.0 bag.mobile.system.video.sms13.de
@@ -17469,6 +17493,8 @@
 :: balanced.gtsadsdistributed.com
 0.0.0.0 balancer.devtodev.com
 :: balancer.devtodev.com
+0.0.0.0 balda.loggly.com
+:: balda.loggly.com
 0.0.0.0 baldwinhistory.portalstream.net
 :: baldwinhistory.portalstream.net
 0.0.0.0 baliakandidm.edu.bd
@@ -19051,6 +19077,8 @@
 :: bds.soarfi.cn
 0.0.0.0 bdsearch.2345.com
 :: bdsearch.2345.com
+0.0.0.0 bdsmart.loggly.com
+:: bdsmart.loggly.com
 0.0.0.0 bdsp.x.jd.com
 :: bdsp.x.jd.com
 0.0.0.0 bdtv.tianlangkm.com
@@ -19309,10 +19337,14 @@
 :: beta.spb0.ru
 0.0.0.0 beta.stats.logalty.com
 :: beta.stats.logalty.com
+0.0.0.0 beta01.loggly.com
+:: beta01.loggly.com
 0.0.0.0 beta1.blindpigsrock.com
 :: beta1.blindpigsrock.com
 0.0.0.0 beta2.pagie.net
 :: beta2.pagie.net
+0.0.0.0 betatest.loggly.com
+:: betatest.loggly.com
 0.0.0.0 betterperformance.goldenopps.info
 :: betterperformance.goldenopps.info
 0.0.0.0 bettina-mikulle.homepage.t-online.de
@@ -19701,6 +19733,8 @@
 :: blu.mobileads.msn.com
 0.0.0.0 blue.sexer.com
 :: blue.sexer.com
+0.0.0.0 blue10.loggly.com
+:: blue10.loggly.com
 0.0.0.0 bluepierrotnodanoni.web.fc2.com
 :: bluepierrotnodanoni.web.fc2.com
 0.0.0.0 bluewin3625.weebly.com
@@ -23119,6 +23153,8 @@
 :: chrabv.kozer.2ndincome4u.org.uk
 0.0.0.0 chrissyelder63.wixsite.com
 :: chrissyelder63.wixsite.com
+0.0.0.0 christest.loggly.com
+:: christest.loggly.com
 0.0.0.0 christianchapman.nothingbut.football
 :: christianchapman.nothingbut.football
 0.0.0.0 chronopost.fr.cpl-livration.com
@@ -23195,6 +23231,8 @@
 :: cioapatx.beget.tech
 0.0.0.0 cipaassessoria.net.br
 :: cipaassessoria.net.br
+0.0.0.0 cipreporting.loggly.com
+:: cipreporting.loggly.com
 0.0.0.0 cira.login.cqr.ssl.igotmyloverback.com
 :: cira.login.cqr.ssl.igotmyloverback.com
 0.0.0.0 cirad.or.id
@@ -24231,6 +24269,8 @@
 :: coads.akipress.org
 0.0.0.0 coaha.frenchgerlemanelectric.com
 :: coaha.frenchgerlemanelectric.com
+0.0.0.0 coatue.loggly.com
+:: coatue.loggly.com
 0.0.0.0 cobradvh.beget.tech
 :: cobradvh.beget.tech
 0.0.0.0 cobrands.mailermailer.com
@@ -24497,6 +24537,8 @@
 :: computershopper.zdnet.com
 0.0.0.0 comradl3.beget.tech
 :: comradl3.beget.tech
+0.0.0.0 comte.loggly.com
+:: comte.loggly.com
 0.0.0.0 comune.sanpietroaltanagro.sa.it
 :: comune.sanpietroaltanagro.sa.it
 0.0.0.0 comunidad.lasexta.com
@@ -25631,6 +25673,8 @@
 :: crxart.go.ro
 0.0.0.0 cryptown.netlify.com
 :: cryptown.netlify.com
+0.0.0.0 crystalcode.loggly.com
+:: crystalcode.loggly.com
 0.0.0.0 cryweb.github.io
 :: cryweb.github.io
 0.0.0.0 crywebber.github.io
@@ -26051,6 +26095,8 @@
 :: d.afftrx.com
 0.0.0.0 d.annarbor.com
 :: d.annarbor.com
+0.0.0.0 d.beigedi.com
+:: d.beigedi.com
 0.0.0.0 d.billyaffcontent.com
 :: d.billyaffcontent.com
 0.0.0.0 d.businessinsider.com
@@ -27795,6 +27841,8 @@
 :: davideperrotta.ilbello.com
 0.0.0.0 davidrichardson277.000webhostapp.com
 :: davidrichardson277.000webhostapp.com
+0.0.0.0 davin.loggly.com
+:: davin.loggly.com
 0.0.0.0 davinci.snssdk.com
 :: davinci.snssdk.com
 0.0.0.0 dawnsworld.mysticalgateway.com
@@ -28205,6 +28253,8 @@
 :: delivery.yourfuckbook.com
 0.0.0.0 delivery04.dhe.ibm.com
 :: delivery04.dhe.ibm.com
+0.0.0.0 dellone.loggly.com
+:: dellone.loggly.com
 0.0.0.0 delmal.enigma.revenuewire.net
 :: delmal.enigma.revenuewire.net
 0.0.0.0 delta-a1.tucows.com
@@ -28315,6 +28365,8 @@
 :: derangedadage91wis.files.wordpress.com
 0.0.0.0 dercaktgexxus.cloudfront.net
 :: dercaktgexxus.cloudfront.net
+0.0.0.0 dericon.loggly.com
+:: dericon.loggly.com
 0.0.0.0 derogative-relocati.000webhostapp.com
 :: derogative-relocati.000webhostapp.com
 0.0.0.0 deroutinizue.matinkimiaco.com
@@ -29927,6 +29979,8 @@
 :: dualstack.cloudinary.com
 0.0.0.0 dualstack.us-eu.brightcove.map.fastly.net
 :: dualstack.us-eu.brightcove.map.fastly.net
+0.0.0.0 duanemorris.loggly.com
+:: duanemorris.loggly.com
 0.0.0.0 dub.mobileads.msn.com
 :: dub.mobileads.msn.com
 0.0.0.0 dubstep.onedumb.com
@@ -31003,6 +31057,8 @@
 :: ekgav24373.lithium.com
 0.0.0.0 ekjvvhofu8.axfxrs1vvx.madpendesign.com.au
 :: ekjvvhofu8.axfxrs1vvx.madpendesign.com.au
+0.0.0.0 ekmtestloggly.loggly.com
+:: ekmtestloggly.loggly.com
 0.0.0.0 eknil.toncinema.online
 :: eknil.toncinema.online
 0.0.0.0 ekotrade.linuxpl.info
@@ -31013,6 +31069,8 @@
 :: el.woolik.com
 0.0.0.0 el2.convertkit.com
 :: el2.convertkit.com
+0.0.0.0 elafris.loggly.com
+:: elafris.loggly.com
 0.0.0.0 eland.doublemax.net
 :: eland.doublemax.net
 0.0.0.0 elb.qublixaws.com
@@ -31655,6 +31713,8 @@
 :: euhighschool.edu.bd
 0.0.0.0 euib.iewical.eu
 :: euib.iewical.eu
+0.0.0.0 eule.loggly.com
+:: eule.loggly.com
 0.0.0.0 eum.concursolutions.com
 :: eum.concursolutions.com
 0.0.0.0 eumi.doomby.com
@@ -31835,6 +31895,8 @@
 :: exad.mmo1vn.com
 0.0.0.0 exalted-averages.000webhostapp.com
 :: exalted-averages.000webhostapp.com
+0.0.0.0 example.loggly.com
+:: example.loggly.com
 0.0.0.0 example.xerxies.net
 :: example.xerxies.net
 0.0.0.0 excellent.michaelanthonyrobinson.com
@@ -31859,6 +31921,8 @@
 :: exclusivo.internet.pt
 0.0.0.0 exec.osp.ru
 :: exec.osp.ru
+0.0.0.0 executech.loggly.com
+:: executech.loggly.com
 0.0.0.0 exhhy82953.i.lithium.com
 :: exhhy82953.i.lithium.com
 0.0.0.0 exhhy82953.lithium.com
@@ -33213,6 +33277,8 @@
 :: flex.comonwealthplc.com
 0.0.0.0 flex.msn.com
 :: flex.msn.com
+0.0.0.0 flickfury.loggly.com
+:: flickfury.loggly.com
 0.0.0.0 flirt.youjizz.com
 :: flirt.youjizz.com
 0.0.0.0 flixgen.5gbfree.com
@@ -33313,6 +33379,8 @@
 :: font-vmg.s3.amazonaws.com
 0.0.0.0 foo.cosmocode.de
 :: foo.cosmocode.de
+0.0.0.0 foo.loggly.com
+:: foo.loggly.com
 0.0.0.0 food.epicurious.com
 :: food.epicurious.com
 0.0.0.0 foodanddrink.tile.appex.bing.com
@@ -34109,6 +34177,8 @@
 :: gameofwar.hackfree.us
 0.0.0.0 games.superappbox.com
 :: games.superappbox.com
+0.0.0.0 gamestop.loggly.com
+:: gamestop.loggly.com
 0.0.0.0 gamestop.survey.marketforce.com
 :: gamestop.survey.marketforce.com
 0.0.0.0 gamlen000.000webhostapp.com
@@ -34393,6 +34463,10 @@
 :: gen-hydrocodone.polybuild.ru
 0.0.0.0 gen.alicdn.com
 :: gen.alicdn.com
+0.0.0.0 gen1.loggly.com
+:: gen1.loggly.com
+0.0.0.0 gen2.loggly.com
+:: gen2.loggly.com
 0.0.0.0 general-fb-security10000.000webhostapp.com
 :: general-fb-security10000.000webhostapp.com
 0.0.0.0 general1245.pe.hu
@@ -35645,6 +35719,10 @@
 :: habija0t.beget.tech
 0.0.0.0 hacca.kitunebi.com
 :: hacca.kitunebi.com
+0.0.0.0 hachdev.loggly.com
+:: hachdev.loggly.com
+0.0.0.0 hachfusion.loggly.com
+:: hachfusion.loggly.com
 0.0.0.0 hackidomsp.blogspot.com
 :: hackidomsp.blogspot.com
 0.0.0.0 hacking.mysteria.cz
@@ -36989,6 +37067,10 @@
 :: hu587tiugi.vv.cc
 0.0.0.0 huangye.miui.com
 :: huangye.miui.com
+0.0.0.0 huawei01.loggly.com
+:: huawei01.loggly.com
+0.0.0.0 huawei123.loggly.com
+:: huawei123.loggly.com
 0.0.0.0 hub.adlpartner.com
 :: hub.adlpartner.com
 0.0.0.0 hubxt.redtube.com
@@ -39239,6 +39321,8 @@
 :: iq.mobilix.mobi
 0.0.0.0 iqj-registry-l.100webspace.net
 :: iqj-registry-l.100webspace.net
+0.0.0.0 iqmetrix.loggly.com
+:: iqmetrix.loggly.com
 0.0.0.0 iqtestuj.glt.pl
 :: iqtestuj.glt.pl
 0.0.0.0 iqwifsunu.yi.org
@@ -39945,6 +40029,8 @@
 :: joaubemm.beget.tech
 0.0.0.0 jobfeeds.coroflot.com
 :: jobfeeds.coroflot.com
+0.0.0.0 jobintegration.loggly.com
+:: jobintegration.loggly.com
 0.0.0.0 jobs.nuwerk.monsterboard.nl
 :: jobs.nuwerk.monsterboard.nl
 0.0.0.0 jobvite.i.lithium.com
@@ -40711,6 +40797,8 @@
 :: kenix.debugnet.com
 0.0.0.0 kenmollens.hackerz5.com
 :: kenmollens.hackerz5.com
+0.0.0.0 kennyhee.loggly.com
+:: kennyhee.loggly.com
 0.0.0.0 ker.pic2pic.site
 :: ker.pic2pic.site
 0.0.0.0 ker.www.wp.pl
@@ -40789,6 +40877,8 @@
 :: kids.nt.am
 0.0.0.0 kievelectric.kiev.ua
 :: kievelectric.kiev.ua
+0.0.0.0 kigo.loggly.com
+:: kigo.loggly.com
 0.0.0.0 kijods.000webhostapp.com
 :: kijods.000webhostapp.com
 0.0.0.0 kikilll0009.000webhostapp.com
@@ -41199,6 +41289,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -42325,6 +42417,8 @@
 :: log-dmp.suishenyun.cn
 0.0.0.0 log-in.pavypal-acc.com.3-24021994.com
 :: log-in.pavypal-acc.com.3-24021994.com
+0.0.0.0 log-management.loggly.com
+:: log-management.loggly.com
 0.0.0.0 log-upgrade-helpdata-isetting-data-us.akunnet.com
 :: log-upgrade-helpdata-isetting-data-us.akunnet.com
 0.0.0.0 log.120ask.com
@@ -42533,6 +42627,8 @@
 :: log999.goo.ne.jp
 0.0.0.0 logcollector.viewster.com
 :: logcollector.viewster.com
+0.0.0.0 logdog.loggly.com
+:: logdog.loggly.com
 0.0.0.0 logger-01.vty.dailymotion.com
 :: logger-01.vty.dailymotion.com
 0.0.0.0 logger-02.vty.dailymotion.com
@@ -42687,6 +42783,12 @@
 :: logping.exblog.jp
 0.0.0.0 logs-01.loggly.com
 :: logs-01.loggly.com
+0.0.0.0 logs-02.loggly.com
+:: logs-02.loggly.com
+0.0.0.0 logs-dedicated-01.loggly.com
+:: logs-dedicated-01.loggly.com
+0.0.0.0 logs-test256.loggly.com
+:: logs-test256.loggly.com
 0.0.0.0 logs.51cto.com
 :: logs.51cto.com
 0.0.0.0 logs.cnfol.com
@@ -42813,6 +42915,8 @@
 :: lotdjfubxczwvr.skalmus.com
 0.0.0.0 lottery.kuaiya.cn
 :: lottery.kuaiya.cn
+0.0.0.0 loudfront.loggly.com
+:: loudfront.loggly.com
 0.0.0.0 louisbu8.beget.tech
 :: louisbu8.beget.tech
 0.0.0.0 louisvil.app.ur.gcion.com
@@ -42997,6 +43101,8 @@
 :: luu.lightquartrate.com
 0.0.0.0 lv.myapks.com
 :: lv.myapks.com
+0.0.0.0 lvdigital.loggly.com
+:: lvdigital.loggly.com
 0.0.0.0 lvps212-67-205-60.vps.webfusion.co.uk
 :: lvps212-67-205-60.vps.webfusion.co.uk
 0.0.0.0 lvr.samacomplus.com
@@ -44339,6 +44445,8 @@
 :: makeitandshakeit.webcindario.com
 0.0.0.0 makemoneyonline.2yu.in
 :: makemoneyonline.2yu.in
+0.0.0.0 maker.loggly.com
+:: maker.loggly.com
 0.0.0.0 maklarhuset.olympus.nu
 :: maklarhuset.olympus.nu
 0.0.0.0 malacca.inveno.com
@@ -44371,6 +44479,8 @@
 :: mamahd.matomo.cloud
 0.0.0.0 mamatiencoid.masterweb.id
 :: mamatiencoid.masterweb.id
+0.0.0.0 mamidala.loggly.com
+:: mamidala.loggly.com
 0.0.0.0 mamka.aviasales.ru
 :: mamka.aviasales.ru
 0.0.0.0 mamma.mbcelebrancy.com.au
@@ -44691,6 +44801,8 @@
 :: mautic.eto-cms.ru
 0.0.0.0 max.i12.de
 :: max.i12.de
+0.0.0.0 max.loggly.com
+:: max.loggly.com
 0.0.0.0 maxads.ruralpress.com
 :: maxads.ruralpress.com
 0.0.0.0 maxadserver.corusradionetwork.com
@@ -46099,6 +46211,8 @@
 :: milkbook.matomo.cloud
 0.0.0.0 mill.miltontech.co.uk
 :: mill.miltontech.co.uk
+0.0.0.0 millicom.loggly.com
+:: millicom.loggly.com
 0.0.0.0 million.francite.com
 :: million.francite.com
 0.0.0.0 milochka.greatnow.com
@@ -47329,6 +47443,8 @@
 :: mycignasc87162296us1.cobrowse.oraclecloud.com
 0.0.0.0 mycircle.editeurjavascript.com
 :: mycircle.editeurjavascript.com
+0.0.0.0 mycompany.loggly.com
+:: mycompany.loggly.com
 0.0.0.0 mycounter.tinycounter.com
 :: mycounter.tinycounter.com
 0.0.0.0 mydaddy.b0x.com
@@ -47665,6 +47781,8 @@
 :: nclog.mars.baofeng.net
 0.0.0.0 nclog.pad.baofeng.net
 :: nclog.pad.baofeng.net
+0.0.0.0 ncrnss.loggly.com
+:: ncrnss.loggly.com
 0.0.0.0 ncs.eadaily.com
 :: ncs.eadaily.com
 0.0.0.0 ncsqb.saqibsiddiqui.com
@@ -48221,6 +48339,8 @@
 :: nickvero.3x.ro
 0.0.0.0 nicoad.nicovideo.jp
 :: nicoad.nicovideo.jp
+0.0.0.0 nicolascousin.loggly.com
+:: nicolascousin.loggly.com
 0.0.0.0 nie.163.com
 :: nie.163.com
 0.0.0.0 nieuw.melpa.nl
@@ -48717,6 +48837,8 @@
 :: nub9r.maisonx.com
 0.0.0.0 nucia.biz.ly
 :: nucia.biz.ly
+0.0.0.0 nucode.loggly.com
+:: nucode.loggly.com
 0.0.0.0 nude.screensaver.sms13.de
 :: nude.screensaver.sms13.de
 0.0.0.0 nuestraskejas.50webs.com
@@ -48747,6 +48869,8 @@
 :: nurturenow.lookbookhq.com
 0.0.0.0 nuru.viadiarte.com
 :: nuru.viadiarte.com
+0.0.0.0 nutreco.loggly.com
+:: nutreco.loggly.com
 0.0.0.0 nuwerk.monsterboard.nl
 :: nuwerk.monsterboard.nl
 0.0.0.0 nv.ad.naver.com
@@ -49535,6 +49659,8 @@
 :: odngnjsjkv.epac.to
 0.0.0.0 odnoklassniki.borec.cz
 :: odnoklassniki.borec.cz
+0.0.0.0 odysol.loggly.com
+:: odysol.loggly.com
 0.0.0.0 odzyskajsnapy.blogspot.com
 :: odzyskajsnapy.blogspot.com
 0.0.0.0 oehknf74ohqlfnpq9rhfgcq93g.hateflux.com
@@ -49645,6 +49771,8 @@
 :: ogjby.tyjcva.gq
 0.0.0.0 oglasi.slo-tech.com
 :: oglasi.slo-tech.com
+0.0.0.0 ogs-01.loggly.com
+:: ogs-01.loggly.com
 0.0.0.0 ohcaz36659.i.lithium.com
 :: ohcaz36659.i.lithium.com
 0.0.0.0 ohfaxtzzgetrberhiwjp.ahdaaf.org
@@ -49897,6 +50025,8 @@
 :: omzdt01123.lithium.com
 0.0.0.0 on-js.herokuapp.com
 :: on-js.herokuapp.com
+0.0.0.0 on.loggly.com
+:: on.loggly.com
 0.0.0.0 on.matomo.cloud
 :: on.matomo.cloud
 0.0.0.0 onai.16mb.com
@@ -50933,6 +51063,8 @@
 :: p.m5bn.com
 0.0.0.0 p.milliyet.com.tr
 :: p.milliyet.com.tr
+0.0.0.0 p.niudashu.com
+:: p.niudashu.com
 0.0.0.0 p.nude-moon.com
 :: p.nude-moon.com
 0.0.0.0 p.pagesjaunes.fr
@@ -51467,6 +51599,8 @@
 :: pakiety-pokemon-go.blogspot.com
 0.0.0.0 palatej9.beget.tech
 :: palatej9.beget.tech
+0.0.0.0 palettegear.loggly.com
+:: palettegear.loggly.com
 0.0.0.0 pallotyni.ryn.pl
 :: pallotyni.ryn.pl
 0.0.0.0 pallranch.000webhostapp.com
@@ -51889,6 +52023,8 @@
 :: paymeiva8989.webcindario.com
 0.0.0.0 payment.fa.163.com
 :: payment.fa.163.com
+0.0.0.0 paymentspring.loggly.com
+:: paymentspring.loggly.com
 0.0.0.0 payp.al-zone.com
 :: payp.al-zone.com
 0.0.0.0 paypal-account.ogspy.net
@@ -55963,6 +56099,8 @@
 :: rad.msn.com
 0.0.0.0 radar.cedexis.swiftserve.com
 :: radar.cedexis.swiftserve.com
+0.0.0.0 radario.loggly.com
+:: radario.loggly.com
 0.0.0.0 radfgerbs.ddns.me.uk
 :: radfgerbs.ddns.me.uk
 0.0.0.0 radio-online-gratis-roma-e-milano.theworkpc.com
@@ -55977,6 +56115,8 @@
 :: rads.stackoverflow.com
 0.0.0.0 rafaga7v.beget.tech
 :: rafaga7v.beget.tech
+0.0.0.0 rahmat.loggly.com
+:: rahmat.loggly.com
 0.0.0.0 rainb00-scama.revupnet.com
 :: rainb00-scama.revupnet.com
 0.0.0.0 rainbowcolours.me.uk
@@ -56953,6 +57093,8 @@
 :: return.domainnamesales.com
 0.0.0.0 return.uk.domainnamesales.com
 :: return.uk.domainnamesales.com
+0.0.0.0 reuveny.loggly.com
+:: reuveny.loggly.com
 0.0.0.0 rev.avsforum.com
 :: rev.avsforum.com
 0.0.0.0 rev.economicfigures.com
@@ -56963,6 +57105,8 @@
 :: rev.pornxs.com
 0.0.0.0 revboostprocdnadsprod.azureedge.net
 :: revboostprocdnadsprod.azureedge.net
+0.0.0.0 revcontent.loggly.com
+:: revcontent.loggly.com
 0.0.0.0 revealads.appspot.com
 :: revealads.appspot.com
 0.0.0.0 revenue.ie.clxros.tax
@@ -60911,6 +61055,8 @@
 :: shutdown.cgffood.vn
 0.0.0.0 shuttle.bayescom.com
 :: shuttle.bayescom.com
+0.0.0.0 shyxqz75.loggly.com
+:: shyxqz75.loggly.com
 0.0.0.0 shzyjbr.wtdtjs.rocks
 :: shzyjbr.wtdtjs.rocks
 0.0.0.0 si.homestore.com
@@ -61257,6 +61403,8 @@
 :: sky.kies.co.kr
 0.0.0.0 sky.response.lithium.com
 :: sky.response.lithium.com
+0.0.0.0 skykick.loggly.com
+:: skykick.loggly.com
 0.0.0.0 skynowtv.response.lithium.com
 :: skynowtv.response.lithium.com
 0.0.0.0 skype.dw.land.to
@@ -61361,6 +61509,8 @@
 :: smartbase.cdnservices.net
 0.0.0.0 smartbrowse.netster.com
 :: smartbrowse.netster.com
+0.0.0.0 smartcare.loggly.com
+:: smartcare.loggly.com
 0.0.0.0 smarthome.quangcaosangtao.vn
 :: smarthome.quangcaosangtao.vn
 0.0.0.0 smarticon.geotrust.com
@@ -61573,6 +61723,8 @@
 :: snap.licdn.com
 0.0.0.0 snapabug.appspot.com
 :: snapabug.appspot.com
+0.0.0.0 snapav.loggly.com
+:: snapav.loggly.com
 0.0.0.0 snapchat-save.blogspot.com
 :: snapchat-save.blogspot.com
 0.0.0.0 snaps.vidiemi.com
@@ -61703,6 +61855,8 @@
 :: solhp2012.web.fc2.com
 0.0.0.0 solo4sse.beget.tech
 :: solo4sse.beget.tech
+0.0.0.0 solusarc.loggly.com
+:: solusarc.loggly.com
 0.0.0.0 soluser2.cybercity.dk
 :: soluser2.cybercity.dk
 0.0.0.0 solutional-paces.000webhostapp.com
@@ -63707,6 +63861,8 @@
 :: status.convertkit.com
 0.0.0.0 status.kino-dom.org
 :: status.kino-dom.org
+0.0.0.0 status.loggly.com
+:: status.loggly.com
 0.0.0.0 status.spot.im
 :: status.spot.im
 0.0.0.0 status.wpm.neustar.biz
@@ -63755,6 +63911,8 @@
 :: stegnjaic.50webs.com
 0.0.0.0 stellarlumens09.000webhostapp.com
 :: stellarlumens09.000webhostapp.com
+0.0.0.0 stenlund.loggly.com
+:: stenlund.loggly.com
 0.0.0.0 stenplus.onewaywinner.com
 :: stenplus.onewaywinner.com
 0.0.0.0 step.doctortoken.co.in
@@ -64197,6 +64355,8 @@
 :: suregodlvme.coxslot.com
 0.0.0.0 suresafe1.adsovo.com
 :: suresafe1.adsovo.com
+0.0.0.0 sureshwipro.loggly.com
+:: sureshwipro.loggly.com
 0.0.0.0 surfer1900.kozow.com
 :: surfer1900.kozow.com
 0.0.0.0 surfeurdor.free.fr
@@ -64245,6 +64405,8 @@
 :: sussi.cressoft.com.pk
 0.0.0.0 sutalarisafijuddindakhilmadrasha.edu.bd
 :: sutalarisafijuddindakhilmadrasha.edu.bd
+0.0.0.0 suthida.loggly.com
+:: suthida.loggly.com
 0.0.0.0 sutra.newzfind.com
 :: sutra.newzfind.com
 0.0.0.0 suuporrt53.confrim-fanpage111.cf
@@ -64311,6 +64473,8 @@
 :: swimsolution.ap-reklama.cz
 0.0.0.0 swingersphotos.pythonanywhere.com
 :: swingersphotos.pythonanywhere.com
+0.0.0.0 swipestox.loggly.com
+:: swipestox.loggly.com
 0.0.0.0 swirliest-taxi.000webhostapp.com
 :: swirliest-taxi.000webhostapp.com
 0.0.0.0 swisscom.com-messages1.co
@@ -64417,6 +64581,8 @@
 :: sylw6szk8w3tokaomfdl.alfacomercial.com.br
 0.0.0.0 symantec.my-place.us
 :: symantec.my-place.us
+0.0.0.0 symbic.loggly.com
+:: symbic.loggly.com
 0.0.0.0 syn.verticalacuity.com
 :: syn.verticalacuity.com
 0.0.0.0 synad2.nuffnang.com.cn
@@ -64919,6 +65085,8 @@
 :: tahit.wastech2016.in
 0.0.0.0 taig-nc.blogspot.com
 :: taig-nc.blogspot.com
+0.0.0.0 tail.loggly.com
+:: tail.loggly.com
 0.0.0.0 tajs.qq.com
 :: tajs.qq.com
 0.0.0.0 take.virtualheromessages.com
@@ -64985,6 +65153,8 @@
 :: target.smi2.net
 0.0.0.0 targeting.adwebster.com
 :: targeting.adwebster.com
+0.0.0.0 tarneeb.loggly.com
+:: tarneeb.loggly.com
 0.0.0.0 tartis78tscolla.rr.nu
 :: tartis78tscolla.rr.nu
 0.0.0.0 tas-ba.toboads.com
@@ -65227,6 +65397,8 @@
 :: te.wsls.com
 0.0.0.0 te54.i.ng
 :: te54.i.ng
+0.0.0.0 tea.pornolomka.sex
+:: tea.pornolomka.sex
 0.0.0.0 teachscape.vo.llnwd.net
 :: teachscape.vo.llnwd.net
 0.0.0.0 tealium.hs.llnwd.net
@@ -65969,6 +66141,8 @@
 :: tnofr44384.lithium.com
 0.0.0.0 tns.simba.taobao.com
 :: tns.simba.taobao.com
+0.0.0.0 to.loggly.com
+:: to.loggly.com
 0.0.0.0 toad.wix.com
 :: toad.wix.com
 0.0.0.0 toads.osdn.com
@@ -67883,6 +68057,8 @@
 :: trafficads.s3-website-us-west-1.amazonaws.com
 0.0.0.0 trafficclub-nde.netdna-ssl.com
 :: trafficclub-nde.netdna-ssl.com
+0.0.0.0 traffichaus.loggly.com
+:: traffichaus.loggly.com
 0.0.0.0 trafficjunky.xtube.com
 :: trafficjunky.xtube.com
 0.0.0.0 trafficshaping.dsp.mp.microsoft.com
@@ -67943,6 +68119,8 @@
 :: travis.bosscasinos.com
 0.0.0.0 trax.gamespot.com
 :: trax.gamespot.com
+0.0.0.0 trax.loggly.com
+:: trax.loggly.com
 0.0.0.0 trax.prostrax.com
 :: trax.prostrax.com
 0.0.0.0 tray-e-ex.tekblue.net
@@ -68011,6 +68189,8 @@
 :: trip.teleskip.org
 0.0.0.0 trisavog.client.jp
 :: trisavog.client.jp
+0.0.0.0 trisolute.loggly.com
+:: trisolute.loggly.com
 0.0.0.0 triumphedger.000webhostapp.com
 :: triumphedger.000webhostapp.com
 0.0.0.0 trk.1cpa.ru
@@ -68095,6 +68275,8 @@
 :: troopersiccy.bravejournal.com
 0.0.0.0 trouble.cachetinvestments.com
 :: trouble.cachetinvestments.com
+0.0.0.0 trovimap.loggly.com
+:: trovimap.loggly.com
 0.0.0.0 trs.webprospector.de
 :: trs.webprospector.de
 0.0.0.0 trtlu.ddns.info
@@ -68115,6 +68297,8 @@
 :: truma.pitchonlev.org.il
 0.0.0.0 trust.extremereach.io
 :: trust.extremereach.io
+0.0.0.0 trustamerica.loggly.com
+:: trustamerica.loggly.com
 0.0.0.0 trustclick.ne.jp
 :: trustclick.ne.jp
 0.0.0.0 trustpassbuyer.wp.lc
@@ -68167,6 +68351,8 @@
 :: tshb.i.lithium.com
 0.0.0.0 tshb.lithium.com
 :: tshb.lithium.com
+0.0.0.0 tshr20140816.loggly.com
+:: tshr20140816.loggly.com
 0.0.0.0 tsm.25u.com
 :: tsm.25u.com
 0.0.0.0 tsms-ad.tsms.com
@@ -68263,6 +68449,8 @@
 :: turystyka.cal.pl
 0.0.0.0 tutomogiya.web.fc2.com
 :: tutomogiya.web.fc2.com
+0.0.0.0 tux.loggly.com
+:: tux.loggly.com
 0.0.0.0 tv.code.jjyx.com
 :: tv.code.jjyx.com
 0.0.0.0 tv.sohu.com
@@ -68341,6 +68529,8 @@
 :: twoytuswrks.000webhostapp.com
 0.0.0.0 twsc57349362us3.cobrowse.oraclecloud.com
 :: twsc57349362us3.cobrowse.oraclecloud.com
+0.0.0.0 tww.loggly.com
+:: tww.loggly.com
 0.0.0.0 twzvq79624.i.lithium.com
 :: twzvq79624.i.lithium.com
 0.0.0.0 twzvq79624.lithium.com
@@ -70697,6 +70887,8 @@
 :: vivakuwait.response.lithium.com
 0.0.0.0 vividena.yukihotaru.com
 :: vividena.yukihotaru.com
+0.0.0.0 vivintsolar.loggly.com
+:: vivintsolar.loggly.com
 0.0.0.0 vivo.mobile.uu.163.com
 :: vivo.mobile.uu.163.com
 0.0.0.0 vivre.matomo.cloud
@@ -72369,6 +72561,8 @@
 :: whvf2gm5n.homepage.t-online.de
 0.0.0.0 why.laurita.info
 :: why.laurita.info
+0.0.0.0 wiadomosci.ct8.pl
+:: wiadomosci.ct8.pl
 0.0.0.0 wibiya-actions.conduit-data.com
 :: wibiya-actions.conduit-data.com
 0.0.0.0 wibiya-june-new-log.conduit-data.com
@@ -73243,6 +73437,8 @@
 :: www-googletagmanager.l.google.com
 0.0.0.0 www-hellobank-fr.toulone0.beget.tech
 :: www-hellobank-fr.toulone0.beget.tech
+0.0.0.0 www-staging.loggly.com
+:: www-staging.loggly.com
 0.0.0.0 www-tb7c.pr0gramm.com
 :: www-tb7c.pr0gramm.com
 0.0.0.0 www.001edizioni.com
@@ -76987,16 +77183,28 @@
 :: www.lockview.cn
 0.0.0.0 www.log-in-verlag.de
 :: www.log-in-verlag.de
+0.0.0.0 www.log-management.loggly.com
+:: www.log-management.loggly.com
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
 0.0.0.0 www.loggerx.com
 :: www.loggerx.com
 0.0.0.0 www.logging.to
 :: www.logging.to
+0.0.0.0 www.loggly.com
+:: www.loggly.com
 0.0.0.0 www.login-accounte.com
 :: www.login-accounte.com
 0.0.0.0 www.logopaedie-tisch.homepage.t-online.de
 :: www.logopaedie-tisch.homepage.t-online.de
+0.0.0.0 www.logs-01.loggly.com
+:: www.logs-01.loggly.com
+0.0.0.0 www.logs-dedicated-01.loggly.com
+:: www.logs-dedicated-01.loggly.com
+0.0.0.0 www.logs-test256.loggly.com
+:: www.logs-test256.loggly.com
+0.0.0.0 www.logs.loggly.com
+:: www.logs.loggly.com
 0.0.0.0 www.lomalindasda.org
 :: www.lomalindasda.org
 0.0.0.0 www.lonelycheatingwives.com
@@ -79075,6 +79283,8 @@
 :: www.tag4arm.com
 0.0.0.0 www.taichang.co.kr
 :: www.taichang.co.kr
+0.0.0.0 www.tail.loggly.com
+:: www.tail.loggly.com
 0.0.0.0 www.talentbroker.net
 :: www.talentbroker.net
 0.0.0.0 www.talentpal.in
@@ -79845,6 +80055,8 @@
 :: www.whitesports.co.kr
 0.0.0.0 www.whizstats.com
 :: www.whizstats.com
+0.0.0.0 www.wiadomosci.ct8.pl
+:: www.wiadomosci.ct8.pl
 0.0.0.0 www.widebanner.com
 :: www.widebanner.com
 0.0.0.0 www.wiecznieczwarty.com.pl
@@ -79921,6 +80133,8 @@
 :: www.www.diptanuinfo.co.cc
 0.0.0.0 www.www.tvpassport.com
 :: www.www.tvpassport.com
+0.0.0.0 www.www2.loggly.com
+:: www.www2.loggly.com
 0.0.0.0 www.wwwoldnavy.com
 :: www.wwwoldnavy.com
 0.0.0.0 www.wwwsexmovies.com
@@ -80263,6 +80477,8 @@
 :: www2.kampanyatakip.net
 0.0.0.0 www2.kiehls.com
 :: www2.kiehls.com
+0.0.0.0 www2.loggly.com
+:: www2.loggly.com
 0.0.0.0 www2.movpod.in
 :: www2.movpod.in
 0.0.0.0 www2.myishop.co.uk
@@ -80951,6 +81167,8 @@
 :: xmr.mining.be
 0.0.0.0 xn----8sblgmbj1a1bk8l.xn----161-4vemb6cjl7anbaea3afninj.xn--p1ai
 :: xn----8sblgmbj1a1bk8l.xn----161-4vemb6cjl7anbaea3afninj.xn--p1ai
+0.0.0.0 xn----zhcacijd9b3bc0gfihh.loggly.com
+:: xn----zhcacijd9b3bc0gfihh.loggly.com
 0.0.0.0 xn--d1abj0abs9d.in.ua
 :: xn--d1abj0abs9d.in.ua
 0.0.0.0 xn--e1aaajzchnkg.ru.com
@@ -81073,6 +81291,8 @@
 :: xslt.alexa.com
 0.0.0.0 xsltcache.alexa.com
 :: xsltcache.alexa.com
+0.0.0.0 xsolla.loggly.com
+:: xsolla.loggly.com
 0.0.0.0 xsqqjqagwt.xwnbkeotz9.roanokekappas.com
 :: xsqqjqagwt.xwnbkeotz9.roanokekappas.com
 0.0.0.0 xsso.tracking.photoyee.com
