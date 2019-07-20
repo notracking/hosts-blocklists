@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Jul 19 08:40:31 CEST 2019
+# Last update: Sat Jul 20 08:42:07 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41173
+# Number of unique hostnames: 41213
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -15481,6 +15481,8 @@
 :: api.worldsense.com
 0.0.0.0 api.xdirectx.com
 :: api.xdirectx.com
+0.0.0.0 api.xiaohuxi.cn
+:: api.xiaohuxi.cn
 0.0.0.0 api.xk.miui.com
 :: api.xk.miui.com
 0.0.0.0 api.y.igexin.com
@@ -16159,6 +16161,8 @@
 :: aquavista.org.nz
 0.0.0.0 aquiwef22.esy.es
 :: aquiwef22.esy.es
+0.0.0.0 ar.fuxunb.com
+:: ar.fuxunb.com
 0.0.0.0 ar.mytrack.pro
 :: ar.mytrack.pro
 0.0.0.0 arabian-horse-highlights.homepage.t-online.de
@@ -24199,6 +24203,8 @@
 :: cniwo66329.i.lithium.com
 0.0.0.0 cniwo66329.lithium.com
 :: cniwo66329.lithium.com
+0.0.0.0 cnm.xlcktv.com
+:: cnm.xlcktv.com
 0.0.0.0 cnn.dyn.cnn.com
 :: cnn.dyn.cnn.com
 0.0.0.0 cnstats.cdev.eu
@@ -26663,6 +26669,8 @@
 :: d23p9gffjvre9v.cloudfront.net
 0.0.0.0 d23rdjhd16xqjq.cloudfront.net
 :: d23rdjhd16xqjq.cloudfront.net
+0.0.0.0 d2405b0jymm2dk.cloudfront.net
+:: d2405b0jymm2dk.cloudfront.net
 0.0.0.0 d240937yockcdo.cloudfront.net
 :: d240937yockcdo.cloudfront.net
 0.0.0.0 d24a1q42xt7oz9.cloudfront.net
@@ -28651,6 +28659,8 @@
 :: dfzenk6ej1plw.cloudfront.net
 0.0.0.0 dg.gamebuffet.mobi
 :: dg.gamebuffet.mobi
+0.0.0.0 dg.ghosttty.cn
+:: dg.ghosttty.cn
 0.0.0.0 dg.k.jd.com
 :: dg.k.jd.com
 0.0.0.0 dg5thrrj8f.sm1qrqaeri.madpendesign.com.au
@@ -30241,10 +30251,14 @@
 :: e.05yzt.cn
 0.0.0.0 e.0wnz6g.cn
 :: e.0wnz6g.cn
+0.0.0.0 e.131pu.cn
+:: e.131pu.cn
 0.0.0.0 e.16qijf.cn
 :: e.16qijf.cn
 0.0.0.0 e.17w3a.cn
 :: e.17w3a.cn
+0.0.0.0 e.183pu.cn
+:: e.183pu.cn
 0.0.0.0 e.1919388.net
 :: e.1919388.net
 0.0.0.0 e.1i94f.cn
@@ -30351,6 +30365,8 @@
 :: e.baidu.com
 0.0.0.0 e.banmamedia.com
 :: e.banmamedia.com
+0.0.0.0 e.bgj582.cn
+:: e.bgj582.cn
 0.0.0.0 e.bsnnk.com
 :: e.bsnnk.com
 0.0.0.0 e.cbeif.com
@@ -30387,6 +30403,8 @@
 :: e.fimky.com
 0.0.0.0 e.freewebhostingarea.com
 :: e.freewebhostingarea.com
+0.0.0.0 e.fsdlu.cn
+:: e.fsdlu.cn
 0.0.0.0 e.future888.net
 :: e.future888.net
 0.0.0.0 e.gglay.com
@@ -30433,6 +30451,8 @@
 :: e.jltdbyq.com
 0.0.0.0 e.joyxv.com
 :: e.joyxv.com
+0.0.0.0 e.jvvyc.cn
+:: e.jvvyc.cn
 0.0.0.0 e.jzvog.cn
 :: e.jzvog.cn
 0.0.0.0 e.kde.cz
@@ -30551,6 +30571,8 @@
 :: e.vpeny.com
 0.0.0.0 e.vpmjg.cn
 :: e.vpmjg.cn
+0.0.0.0 e.w5xj9.cn
+:: e.w5xj9.cn
 0.0.0.0 e.w6o2c.cn
 :: e.w6o2c.cn
 0.0.0.0 e.wc59b.cn
@@ -37215,6 +37237,8 @@
 :: hzmwxlmu.yi.org
 0.0.0.0 hzptm5cmvg.ua3opqyvf2.madpendesign.com.au
 :: hzptm5cmvg.ua3opqyvf2.madpendesign.com.au
+0.0.0.0 hzyd.cdn.bcebos.com
+:: hzyd.cdn.bcebos.com
 0.0.0.0 i-bl6p-cor001.api.p001.1drv.com
 :: i-bl6p-cor001.api.p001.1drv.com
 0.0.0.0 i-bl6p-cor002.api.p001.1drv.com
@@ -40027,6 +40051,8 @@
 :: joao.cuccfree.com
 0.0.0.0 joaubemm.beget.tech
 :: joaubemm.beget.tech
+0.0.0.0 job.510mall.com
+:: job.510mall.com
 0.0.0.0 jobfeeds.coroflot.com
 :: jobfeeds.coroflot.com
 0.0.0.0 jobintegration.loggly.com
@@ -40303,6 +40329,8 @@
 :: js.sddan.com
 0.0.0.0 js.selectornews.com
 :: js.selectornews.com
+0.0.0.0 js.sghjtc.xyz
+:: js.sghjtc.xyz
 0.0.0.0 js.shangxueba.com
 :: js.shangxueba.com
 0.0.0.0 js.smartredirect.de
@@ -40363,6 +40391,8 @@
 :: js11.clickzzs.nl
 0.0.0.0 js2.keywordsconnect.com
 :: js2.keywordsconnect.com
+0.0.0.0 js2.vgetv.xyz
+:: js2.vgetv.xyz
 0.0.0.0 js34dc10.gamooga.com
 :: js34dc10.gamooga.com
 0.0.0.0 js4.eastmoney.com
@@ -40981,6 +41011,8 @@
 :: kkd47eh4hdjshb5t.angortra.at
 0.0.0.0 kkf.sxdxsfw.com
 :: kkf.sxdxsfw.com
+0.0.0.0 kkk.lichaoliang.com
+:: kkk.lichaoliang.com
 0.0.0.0 kkl.org.ru
 :: kkl.org.ru
 0.0.0.0 kklmqzti.medicalcaremart.ru
@@ -43155,6 +43187,8 @@
 :: m-vk.urmas.tk
 0.0.0.0 m.017cm2.cn
 :: m.017cm2.cn
+0.0.0.0 m.030ha.cn
+:: m.030ha.cn
 0.0.0.0 m.05yzt.cn
 :: m.05yzt.cn
 0.0.0.0 m.072va.cn
@@ -43175,18 +43209,24 @@
 :: m.0wnz6g.cn
 0.0.0.0 m.107279.com
 :: m.107279.com
+0.0.0.0 m.131pu.cn
+:: m.131pu.cn
 0.0.0.0 m.163.com
 :: m.163.com
 0.0.0.0 m.168ey.com
 :: m.168ey.com
 0.0.0.0 m.16qijf.cn
 :: m.16qijf.cn
+0.0.0.0 m.175pu.cn
+:: m.175pu.cn
 0.0.0.0 m.1768.com
 :: m.1768.com
 0.0.0.0 m.17w3a.cn
 :: m.17w3a.cn
 0.0.0.0 m.181mob.com
 :: m.181mob.com
+0.0.0.0 m.183pu.cn
+:: m.183pu.cn
 0.0.0.0 m.1919388.net
 :: m.1919388.net
 0.0.0.0 m.1i94f.cn
@@ -43433,6 +43473,8 @@
 :: m.bfhfhk.cn
 0.0.0.0 m.bgaix.com
 :: m.bgaix.com
+0.0.0.0 m.bgj582.cn
+:: m.bgj582.cn
 0.0.0.0 m.bgkgko.cn
 :: m.bgkgko.cn
 0.0.0.0 m.bhkhkm.cn
@@ -43443,6 +43485,8 @@
 :: m.biquge5200.cc
 0.0.0.0 m.bkuax.com
 :: m.bkuax.com
+0.0.0.0 m.bs641.cn
+:: m.bs641.cn
 0.0.0.0 m.bsnnk.com
 :: m.bsnnk.com
 0.0.0.0 m.carbide-good.com
@@ -43577,6 +43621,8 @@
 :: m.fenrs.com
 0.0.0.0 m.fhxsw.org
 :: m.fhxsw.org
+0.0.0.0 m.figigl.cn
+:: m.figigl.cn
 0.0.0.0 m.figuren-spiele.de
 :: m.figuren-spiele.de
 0.0.0.0 m.fimky.com
@@ -43585,6 +43631,8 @@
 :: m.fnwnwi.cn
 0.0.0.0 m.frfykc.cn
 :: m.frfykc.cn
+0.0.0.0 m.fsdlu.cn
+:: m.fsdlu.cn
 0.0.0.0 m.fsouo.com
 :: m.fsouo.com
 0.0.0.0 m.fu64b.cn
@@ -43603,6 +43651,8 @@
 :: m.gcaih.com
 0.0.0.0 m.gdzyo.cn
 :: m.gdzyo.cn
+0.0.0.0 m.gexings.com
+:: m.gexings.com
 0.0.0.0 m.gglay.com
 :: m.gglay.com
 0.0.0.0 m.gift.163.com
@@ -43643,6 +43693,8 @@
 :: m.hellomingpian.com
 0.0.0.0 m.hhllyt.com
 :: m.hhllyt.com
+0.0.0.0 m.hm146.cn
+:: m.hm146.cn
 0.0.0.0 m.hpfjy.com
 :: m.hpfjy.com
 0.0.0.0 m.hrjjs.cn
@@ -43685,6 +43737,8 @@
 :: m.izaos.com
 0.0.0.0 m.jc9388.com
 :: m.jc9388.com
+0.0.0.0 m.jdhq188.cn
+:: m.jdhq188.cn
 0.0.0.0 m.jganv.com
 :: m.jganv.com
 0.0.0.0 m.jhcgood.com
@@ -43765,6 +43819,8 @@
 :: m.mirmay.com
 0.0.0.0 m.miupp.com
 :: m.miupp.com
+0.0.0.0 m.mlabf.cn
+:: m.mlabf.cn
 0.0.0.0 m.mobilerevenu.com
 :: m.mobilerevenu.com
 0.0.0.0 m.monteschiavo.com
@@ -44059,12 +44115,16 @@
 :: m.yiere.com
 0.0.0.0 m.yingchengtou.com
 :: m.yingchengtou.com
+0.0.0.0 m.yizhijin.cn
+:: m.yizhijin.cn
 0.0.0.0 m.yjias.com
 :: m.yjias.com
 0.0.0.0 m.yooli.com
 :: m.yooli.com
 0.0.0.0 m.yoyi.com.cn
 :: m.yoyi.com.cn
+0.0.0.0 m.yplzarxt.cn
+:: m.yplzarxt.cn
 0.0.0.0 m.yuandajiayuan.com
 :: m.yuandajiayuan.com
 0.0.0.0 m.yunshengyy.com
@@ -44745,8 +44805,6 @@
 :: match.c8.net.ua
 0.0.0.0 match.doko.jp
 :: match.doko.jp
-0.0.0.0 match.mynewmatchpictureprofile.com
-:: match.mynewmatchpictureprofile.com
 0.0.0.0 match.p4p.1688.com
 :: match.p4p.1688.com
 0.0.0.0 match.seesaa.jp
@@ -45185,6 +45243,8 @@
 :: mediaadv.mediaon.it
 0.0.0.0 mediablazegroup.matomo.cloud
 :: mediablazegroup.matomo.cloud
+0.0.0.0 mediaexpres.in.net
+:: mediaexpres.in.net
 0.0.0.0 mediafire.makemydownload.com
 :: mediafire.makemydownload.com
 0.0.0.0 mediakit.theonion.com
@@ -52885,6 +52945,8 @@
 :: photo.163.com
 0.0.0.0 photo.789ble.cn
 :: photo.789ble.cn
+0.0.0.0 photo.941ziyuan.cn
+:: photo.941ziyuan.cn
 0.0.0.0 photo.backerbiotech.cn
 :: photo.backerbiotech.cn
 0.0.0.0 photo.bjdfhy.cn
@@ -61841,6 +61903,8 @@
 :: software.xoomcounter.com
 0.0.0.0 softwareupdate.thebestevercentralsystoupdate.stream
 :: softwareupdate.thebestevercentralsystoupdate.stream
+0.0.0.0 sohu.husenfood.com
+:: sohu.husenfood.com
 0.0.0.0 sohu.wrating.com
 :: sohu.wrating.com
 0.0.0.0 sokarajatengah.or.id
@@ -62229,6 +62293,8 @@
 :: srepdata.usatoday.com
 0.0.0.0 srilaini1helprecoveryii.000webhostapp.com
 :: srilaini1helprecoveryii.000webhostapp.com
+0.0.0.0 srisaranankara.sch.lk
+:: srisaranankara.sch.lk
 0.0.0.0 srpze.saqibsiddiqui.com
 :: srpze.saqibsiddiqui.com
 0.0.0.0 srutebmduoh.myfw.us
@@ -63117,6 +63183,8 @@
 :: static.xpct.de
 0.0.0.0 static.youappi.com
 :: static.youappi.com
+0.0.0.0 static.zctx8.com
+:: static.zctx8.com
 0.0.0.0 static.zotabox.com
 :: static.zotabox.com
 0.0.0.0 static1.baifendian.com
@@ -64887,6 +64955,8 @@
 :: t.svtrd.com
 0.0.0.0 t.trafficninjas.co
 :: t.trafficninjas.co
+0.0.0.0 t.tttmedd.com
+:: t.tttmedd.com
 0.0.0.0 t.ujian.cc
 :: t.ujian.cc
 0.0.0.0 t.upajs.co
@@ -65675,8 +65745,6 @@
 :: test.sexeanonyme.com
 0.0.0.0 test.sies.uz
 :: test.sies.uz
-0.0.0.0 test.ss1.eu
-:: test.ss1.eu
 0.0.0.0 test.surepush.cn
 :: test.surepush.cn
 0.0.0.0 test.verox.dk
@@ -68829,6 +68897,8 @@
 :: uj5nj.onanwhit.com
 0.0.0.0 ujikogt.000webhostapp.com
 :: ujikogt.000webhostapp.com
+0.0.0.0 ujm.snackmachinery.cn
+:: ujm.snackmachinery.cn
 0.0.0.0 ujvilagtudat.blogspot.hu
 :: ujvilagtudat.blogspot.hu
 0.0.0.0 uk-apple-update.godsrestorationministries.org
@@ -74425,6 +74495,8 @@
 :: www.baiduccdn.org
 0.0.0.0 www.baiducdn.org
 :: www.baiducdn.org
+0.0.0.0 www.baidujs.vip
+:: www.baidujs.vip
 0.0.0.0 www.baiduzhidahao.cc
 :: www.baiduzhidahao.cc
 0.0.0.0 www.baifendian.com
@@ -75499,6 +75571,8 @@
 :: www.equipe4.net
 0.0.0.0 www.erasmusensemble.org
 :: www.erasmusensemble.org
+0.0.0.0 www.ere3j2e001.com
+:: www.ere3j2e001.com
 0.0.0.0 www.ergopro.pl
 :: www.ergopro.pl
 0.0.0.0 www.ergotherapie-schleswig.de
@@ -77009,6 +77083,8 @@
 :: www.kyani.com
 0.0.0.0 www.l00tfiilues.lepfj.site
 :: www.l00tfiilues.lepfj.site
+0.0.0.0 www.la61d.cn
+:: www.la61d.cn
 0.0.0.0 www.lacqueyiiwkr.download
 :: www.lacqueyiiwkr.download
 0.0.0.0 www.lacrisalide.net
@@ -77373,6 +77449,8 @@
 :: www.media-motor.com
 0.0.0.0 www.media2.travelzoo.com
 :: www.media2.travelzoo.com
+0.0.0.0 www.mediaexpres.in.net
+:: www.mediaexpres.in.net
 0.0.0.0 www.mediahighway.net
 :: www.mediahighway.net
 0.0.0.0 www.mediamarkt.pl.dailyoffer.top
@@ -79063,8 +79141,6 @@
 :: www.spywaresnooper.com
 0.0.0.0 www.srhuafeng.com
 :: www.srhuafeng.com
-0.0.0.0 www.sri.cmu.ac.th
-:: www.sri.cmu.ac.th
 0.0.0.0 www.srld.com
 :: www.srld.com
 0.0.0.0 www.srn.net.in
@@ -81109,6 +81185,8 @@
 :: xls.czliangsheng.cn
 0.0.0.0 xls.go.sohu.com
 :: xls.go.sohu.com
+0.0.0.0 xls.ilovechenyuqian.xyz
+:: xls.ilovechenyuqian.xyz
 0.0.0.0 xls.suxun368.cc
 :: xls.suxun368.cc
 0.0.0.0 xls.yeschool.info
@@ -82147,6 +82225,8 @@
 :: zlalictr.cz.cc
 0.0.0.0 zlsw.nnjxqd.com
 :: zlsw.nnjxqd.com
+0.0.0.0 zly.dlhxgg.com
+:: zly.dlhxgg.com
 0.0.0.0 zm.cbg.163.com
 :: zm.cbg.163.com
 0.0.0.0 zm.shzgjx88.com
