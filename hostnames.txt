@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Jul 20 08:42:07 CEST 2019
+# Last update: Sun Jul 21 08:41:32 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41213
+# Number of unique hostnames: 41210
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3791,6 +3791,8 @@
 :: ad.91s.com
 0.0.0.0 ad.980x.com
 :: ad.980x.com
+0.0.0.0 ad.9animes.ru
+:: ad.9animes.ru
 0.0.0.0 ad.9tv.co.il
 :: ad.9tv.co.il
 0.0.0.0 ad.abcnews.com
@@ -20857,6 +20859,8 @@
 :: c.ns.inbox.lv
 0.0.0.0 c.ns8d.com
 :: c.ns8d.com
+0.0.0.0 c.okmgy.cn
+:: c.okmgy.cn
 0.0.0.0 c.orange.fr
 :: c.orange.fr
 0.0.0.0 c.p-advg.com
@@ -34811,8 +34815,6 @@
 :: ggdata1.cnr.cn
 0.0.0.0 ggdm1.nhaidu.net
 :: ggdm1.nhaidu.net
-0.0.0.0 ggg.xiangjiao.xxx
-:: ggg.xiangjiao.xxx
 0.0.0.0 ggg.zj.com
 :: ggg.zj.com
 0.0.0.0 gghzskncx3.harrisdentalsolutions.com
@@ -40291,8 +40293,6 @@
 :: js.iodo.com
 0.0.0.0 js.keywordsconnect.com
 :: js.keywordsconnect.com
-0.0.0.0 js.krutor.org.pl
-:: js.krutor.org.pl
 0.0.0.0 js.kt250.com
 :: js.kt250.com
 0.0.0.0 js.libertysurf.fr
@@ -57999,6 +57999,8 @@
 :: s.ndemiccreations.com
 0.0.0.0 s.o-clk.com
 :: s.o-clk.com
+0.0.0.0 s.okmgy.cn
+:: s.okmgy.cn
 0.0.0.0 s.oroll.com
 :: s.oroll.com
 0.0.0.0 s.p.youku.com
@@ -58061,6 +58063,8 @@
 :: s.yanpoly.com
 0.0.0.0 s.yidianzixun.com
 :: s.yidianzixun.com
+0.0.0.0 s.yjkyj.cn
+:: s.yjkyj.cn
 0.0.0.0 s.youzhuanhua.com
 :: s.youzhuanhua.com
 0.0.0.0 s.zampdsp.com
@@ -76161,8 +76165,6 @@
 :: www.greatwinner.com
 0.0.0.0 www.greendak.com
 :: www.greendak.com
-0.0.0.0 www.greenfieldadvisorsltd.com
-:: www.greenfieldadvisorsltd.com
 0.0.0.0 www.greenindex.dynamic-dns.net
 :: www.greenindex.dynamic-dns.net
 0.0.0.0 www.greensustainabilitycoach.com
@@ -79141,6 +79143,8 @@
 :: www.spywaresnooper.com
 0.0.0.0 www.srhuafeng.com
 :: www.srhuafeng.com
+0.0.0.0 www.sri.cmu.ac.th
+:: www.sri.cmu.ac.th
 0.0.0.0 www.srld.com
 :: www.srld.com
 0.0.0.0 www.srn.net.in
@@ -80199,16 +80203,6 @@
 :: www.ww-tv.net
 0.0.0.0 www.wwkiosk.com
 :: www.wwkiosk.com
-0.0.0.0 www.www.api.ad.intl.xiaomi.com
-:: www.www.api.ad.intl.xiaomi.com
-0.0.0.0 www.www.axiatraders.com
-:: www.www.axiatraders.com
-0.0.0.0 www.www.chacomedia.com
-:: www.www.chacomedia.com
-0.0.0.0 www.www.diptanuinfo.co.cc
-:: www.www.diptanuinfo.co.cc
-0.0.0.0 www.www.tvpassport.com
-:: www.www.tvpassport.com
 0.0.0.0 www.www2.loggly.com
 :: www.www2.loggly.com
 0.0.0.0 www.wwwoldnavy.com
