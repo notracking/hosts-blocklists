@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Jul 21 08:41:32 CEST 2019
+# Last update: Mon Jul 22 08:41:08 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41210
+# Number of unique hostnames: 41201
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2453,6 +2453,8 @@
 :: a-m-s.poco.cn
 0.0.0.0 a.0day.kiev.ua
 :: a.0day.kiev.ua
+0.0.0.0 a.19869.com
+:: a.19869.com
 0.0.0.0 a.198banjia.com
 :: a.198banjia.com
 0.0.0.0 a.1nimo.com
@@ -17075,6 +17077,8 @@
 :: azqev28564.i.lithium.com
 0.0.0.0 azz.badazz.org
 :: azz.badazz.org
+0.0.0.0 b.19869.com
+:: b.19869.com
 0.0.0.0 b.1istochnik.ru
 :: b.1istochnik.ru
 0.0.0.0 b.1s2.in.ua
@@ -20091,8 +20095,6 @@
 :: boxzsak.kirowski.com
 0.0.0.0 boy.fujieace.com
 :: boy.fujieace.com
-0.0.0.0 boylondon.jaanhsoft.kr
-:: boylondon.jaanhsoft.kr
 0.0.0.0 bozhou.gov.cn
 :: bozhou.gov.cn
 0.0.0.0 bp.jxxsn.cn
@@ -23197,8 +23199,6 @@
 :: cibcupdates.bombas-calor.pt
 0.0.0.0 cibcvery.info.cibc.pl
 :: cibcvery.info.cibc.pl
-0.0.0.0 ciber1250.gleeze.com
-:: ciber1250.gleeze.com
 0.0.0.0 ciccc.goeoffice.com
 :: ciccc.goeoffice.com
 0.0.0.0 cidyweb.free.fr
@@ -30261,8 +30261,6 @@
 :: e.16qijf.cn
 0.0.0.0 e.17w3a.cn
 :: e.17w3a.cn
-0.0.0.0 e.183pu.cn
-:: e.183pu.cn
 0.0.0.0 e.1919388.net
 :: e.1919388.net
 0.0.0.0 e.1i94f.cn
@@ -38255,8 +38253,6 @@
 :: img.linkstorm.net
 0.0.0.0 img.ma.social-touch.com
 :: img.ma.social-touch.com
-0.0.0.0 img.mailinblue.com
-:: img.mailinblue.com
 0.0.0.0 img.meipic.net
 :: img.meipic.net
 0.0.0.0 img.mplx.akadns.net
@@ -40117,8 +40113,6 @@
 :: jotkzathku5uzxyzfv56.maherstcottage.com.au
 0.0.0.0 jounkh.5gbfree.com
 :: jounkh.5gbfree.com
-0.0.0.0 journal.jltl.org
-:: journal.jltl.org
 0.0.0.0 journalism.uk.smarttargetting.com
 :: journalism.uk.smarttargetting.com
 0.0.0.0 jovan.soldatovic.org
@@ -41493,8 +41487,6 @@
 :: labo.univ-ouargla.dz
 0.0.0.0 labs.natpal.com
 :: labs.natpal.com
-0.0.0.0 labs.omahsoftware.com
-:: labs.omahsoftware.com
 0.0.0.0 labs.tealium.com
 :: labs.tealium.com
 0.0.0.0 labunam.unam.mx
@@ -43225,8 +43217,6 @@
 :: m.17w3a.cn
 0.0.0.0 m.181mob.com
 :: m.181mob.com
-0.0.0.0 m.183pu.cn
-:: m.183pu.cn
 0.0.0.0 m.1919388.net
 :: m.1919388.net
 0.0.0.0 m.1i94f.cn
@@ -44115,8 +44105,6 @@
 :: m.yiere.com
 0.0.0.0 m.yingchengtou.com
 :: m.yingchengtou.com
-0.0.0.0 m.yizhijin.cn
-:: m.yizhijin.cn
 0.0.0.0 m.yjias.com
 :: m.yjias.com
 0.0.0.0 m.yooli.com
@@ -45409,6 +45397,8 @@
 :: meravshlez.000webhostapp.com
 0.0.0.0 mercad0liv.sslblindado.com
 :: mercad0liv.sslblindado.com
+0.0.0.0 mercadolivre.krovatka.net
+:: mercadolivre.krovatka.net
 0.0.0.0 mercedes-vitoin.423.com1.ru
 :: mercedes-vitoin.423.com1.ru
 0.0.0.0 mercedwebml090.000webhostapp.com
@@ -52901,6 +52891,8 @@
 :: phase21zone.heteml.net
 0.0.0.0 phatthalung.go.th
 :: phatthalung.go.th
+0.0.0.0 phayamengrai.chiangrai.doae.go.th
+:: phayamengrai.chiangrai.doae.go.th
 0.0.0.0 phentermine-buy-online.hitslog.net
 :: phentermine-buy-online.hitslog.net
 0.0.0.0 phentermine-online.iscool.nl
@@ -53195,8 +53187,6 @@
 :: pigra.csheaven.com
 0.0.0.0 pigredoben12.sytes.net
 :: pigredoben12.sytes.net
-0.0.0.0 piidpel.kemendesa.go.id
-:: piidpel.kemendesa.go.id
 0.0.0.0 pila-dziedzictwo-2017-online.5v.pl
 :: pila-dziedzictwo-2017-online.5v.pl
 0.0.0.0 pilkanozna.yolasite.com
@@ -62297,8 +62287,6 @@
 :: srepdata.usatoday.com
 0.0.0.0 srilaini1helprecoveryii.000webhostapp.com
 :: srilaini1helprecoveryii.000webhostapp.com
-0.0.0.0 srisaranankara.sch.lk
-:: srisaranankara.sch.lk
 0.0.0.0 srpze.saqibsiddiqui.com
 :: srpze.saqibsiddiqui.com
 0.0.0.0 srutebmduoh.myfw.us
@@ -70159,6 +70147,8 @@
 :: uu.zeverdg.com
 0.0.0.0 uuidapi.yunos.com
 :: uuidapi.yunos.com
+0.0.0.0 uuvm.pornpics.com
+:: uuvm.pornpics.com
 0.0.0.0 uv.terra.com.br
 :: uv.terra.com.br
 0.0.0.0 uveous-surveys.000webhostapp.com
@@ -75827,8 +75817,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -76301,8 +76289,6 @@
 :: www.higame123.com
 0.0.0.0 www.highspeedtesting.com
 :: www.highspeedtesting.com
-0.0.0.0 www.highsport.se
-:: www.highsport.se
 0.0.0.0 www.hilfe-forum.info
 :: www.hilfe-forum.info
 0.0.0.0 www.himandy.com
@@ -76441,8 +76427,6 @@
 :: www.hugedomains.com
 0.0.0.0 www.hunpingou.com
 :: www.hunpingou.com
-0.0.0.0 www.huntingcargos.com
-:: www.huntingcargos.com
 0.0.0.0 www.huren-verzeichnis.is4all.de
 :: www.huren-verzeichnis.is4all.de
 0.0.0.0 www.hvmalumni.org
@@ -79143,8 +79127,6 @@
 :: www.spywaresnooper.com
 0.0.0.0 www.srhuafeng.com
 :: www.srhuafeng.com
-0.0.0.0 www.sri.cmu.ac.th
-:: www.sri.cmu.ac.th
 0.0.0.0 www.srld.com
 :: www.srld.com
 0.0.0.0 www.srn.net.in
@@ -79497,6 +79479,8 @@
 :: www.thehitman.com
 0.0.0.0 www.thelifeisbinary.netlify.com
 :: www.thelifeisbinary.netlify.com
+0.0.0.0 www.thepasobueno.com
+:: www.thepasobueno.com
 0.0.0.0 www.thephoneguy.talktalk.net
 :: www.thephoneguy.talktalk.net
 0.0.0.0 www.theprofitsmaker.net
@@ -82119,8 +82103,6 @@
 :: zen.nbci.com
 0.0.0.0 zencart.alpm.gogzmermedia.com
 :: zencart.alpm.gogzmermedia.com
-0.0.0.0 zerodayv3startedexploitpcwithexcelgreat.duckdns.org
-:: zerodayv3startedexploitpcwithexcelgreat.duckdns.org
 0.0.0.0 zetes.vdsinside.com
 :: zetes.vdsinside.com
 0.0.0.0 zeulo.anime-extremo.com
