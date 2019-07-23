@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Jul 22 08:41:08 CEST 2019
+# Last update: Tue Jul 23 08:44:18 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41201
+# Number of unique hostnames: 41205
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -7157,6 +7157,8 @@
 :: ads.citenkomedia.com
 0.0.0.0 ads.city24.ee
 :: ads.city24.ee
+0.0.0.0 ads.citymagazine.si
+:: ads.citymagazine.si
 0.0.0.0 ads.clamav.net
 :: ads.clamav.net
 0.0.0.0 ads.clara.net
@@ -7867,8 +7869,6 @@
 :: ads.freeonlinegames.com
 0.0.0.0 ads.freepbx.org
 :: ads.freepbx.org
-0.0.0.0 ads.freewheel.tv
-:: ads.freewheel.tv
 0.0.0.0 ads.fresh.bg
 :: ads.fresh.bg
 0.0.0.0 ads.freshmeat.net
@@ -9911,8 +9911,6 @@
 :: ads.taiphanmem.org
 0.0.0.0 ads.talkingpointsmemo.com
 :: ads.talkingpointsmemo.com
-0.0.0.0 ads.tapdaq.com
-:: ads.tapdaq.com
 0.0.0.0 ads.taptapnetworks.com
 :: ads.taptapnetworks.com
 0.0.0.0 ads.tapzin.com
@@ -9989,8 +9987,6 @@
 :: ads.theindependent.com
 0.0.0.0 ads.themes.org
 :: ads.themes.org
-0.0.0.0 ads.themoneytizer.com
-:: ads.themoneytizer.com
 0.0.0.0 ads.theolympian.com
 :: ads.theolympian.com
 0.0.0.0 ads.theporndb.com
@@ -14701,6 +14697,8 @@
 :: analytics.popsci.com
 0.0.0.0 analytics.posttv.com
 :: analytics.posttv.com
+0.0.0.0 analytics.primorske.si
+:: analytics.primorske.si
 0.0.0.0 analytics.prx.org
 :: analytics.prx.org
 0.0.0.0 analytics.publitas.com
@@ -49819,6 +49817,8 @@
 :: ogilvy.ngadcenter.net
 0.0.0.0 ogjby.tyjcva.gq
 :: ogjby.tyjcva.gq
+0.0.0.0 ogl.primorske.si
+:: ogl.primorske.si
 0.0.0.0 oglasi.slo-tech.com
 :: oglasi.slo-tech.com
 0.0.0.0 ogs-01.loggly.com
@@ -53445,6 +53445,8 @@
 :: pixel.getchute.com
 0.0.0.0 pixel.getpaidfordata.com
 :: pixel.getpaidfordata.com
+0.0.0.0 pixel.getshogun.com
+:: pixel.getshogun.com
 0.0.0.0 pixel.gfycat.com
 :: pixel.gfycat.com
 0.0.0.0 pixel.honestjohn.co.uk
@@ -53489,6 +53491,8 @@
 :: pixel.rubiconproject.net
 0.0.0.0 pixel.rubiconproject.net.akadns.net
 :: pixel.rubiconproject.net.akadns.net
+0.0.0.0 pixel.runative-syndicate.com
+:: pixel.runative-syndicate.com
 0.0.0.0 pixel.serviceleverage.com
 :: pixel.serviceleverage.com
 0.0.0.0 pixel.shodan.me
@@ -65681,8 +65685,6 @@
 :: test--na--iq.blogspot.com
 0.0.0.0 test-ads.asap-asp.net
 :: test-ads.asap-asp.net
-0.0.0.0 test-ads.tapdaq.com
-:: test-ads.tapdaq.com
 0.0.0.0 test-awem-com.s3-website-us-east-1.amazonaws.com
 :: test-awem-com.s3-website-us-east-1.amazonaws.com
 0.0.0.0 test-script.dotmetrics.net
@@ -67139,6 +67141,8 @@
 :: track.scrillaspace.com
 0.0.0.0 track.searchignite.com
 :: track.searchignite.com
+0.0.0.0 track.send-crm.pro
+:: track.send-crm.pro
 0.0.0.0 track.seorate.ru
 :: track.seorate.ru
 0.0.0.0 track.sexchangegirl.com
@@ -75817,6 +75821,8 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
+0.0.0.0 www.fishingtackleindia.com
+:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -76289,6 +76295,8 @@
 :: www.higame123.com
 0.0.0.0 www.highspeedtesting.com
 :: www.highspeedtesting.com
+0.0.0.0 www.highsport.se
+:: www.highsport.se
 0.0.0.0 www.hilfe-forum.info
 :: www.hilfe-forum.info
 0.0.0.0 www.himandy.com
@@ -78811,8 +78819,6 @@
 :: www.scotiaonline.scotiabank.salferreras.com
 0.0.0.0 www.scoutvda.it
 :: www.scoutvda.it
-0.0.0.0 www.sdfbd.org
-:: www.sdfbd.org
 0.0.0.0 www.sdkconfig.ad.intl.xiaomi.com
 :: www.sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 www.sdlpgift.com
@@ -79127,6 +79133,8 @@
 :: www.spywaresnooper.com
 0.0.0.0 www.srhuafeng.com
 :: www.srhuafeng.com
+0.0.0.0 www.sri.cmu.ac.th
+:: www.sri.cmu.ac.th
 0.0.0.0 www.srld.com
 :: www.srld.com
 0.0.0.0 www.srn.net.in
