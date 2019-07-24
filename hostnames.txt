@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Jul 23 08:44:18 CEST 2019
+# Last update: Wed Jul 24 08:39:49 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41205
+# Number of unique hostnames: 41258
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -755,6 +755,8 @@
 :: 2ymh2gnnbg6pgq2r.gremsot.pl
 0.0.0.0 2ymh2gnnbg6pgq2r.winregion.tw
 :: 2ymh2gnnbg6pgq2r.winregion.tw
+0.0.0.0 2zdwtosi.pchelpbuddy.fun
+:: 2zdwtosi.pchelpbuddy.fun
 0.0.0.0 3.163.com
 :: 3.163.com
 0.0.0.0 3.aqa.rs
@@ -3295,6 +3297,8 @@
 :: abdoufes.webstarterz.com
 0.0.0.0 abds.pingpingw.com
 :: abds.pingpingw.com
+0.0.0.0 abeagle-public.buzzfeed.com
+:: abeagle-public.buzzfeed.com
 0.0.0.0 abin123123.000webhostapp.com
 :: abin123123.000webhostapp.com
 0.0.0.0 abingmanayon.us.kzpcmad.tk
@@ -15069,6 +15073,18 @@
 :: aoooccc.lizhuizhui.cn
 0.0.0.0 aouthusr.890m.com
 :: aouthusr.890m.com
+0.0.0.0 ap-southeast-2-capture.lift.acquia.com
+:: ap-southeast-2-capture.lift.acquia.com
+0.0.0.0 ap-southeast-2-decisionapi.lift.acquia.com
+:: ap-southeast-2-decisionapi.lift.acquia.com
+0.0.0.0 ap-southeast-2-prod-tc.lift.acquia.com
+:: ap-southeast-2-prod-tc.lift.acquia.com
+0.0.0.0 ap-southeast-2-prod-tw.lift.acquia.com
+:: ap-southeast-2-prod-tw.lift.acquia.com
+0.0.0.0 ap-southeast-2-production-tc.lift.acquia.com
+:: ap-southeast-2-production-tc.lift.acquia.com
+0.0.0.0 ap-southeast-2-widget.lift.acquia.com
+:: ap-southeast-2-widget.lift.acquia.com
 0.0.0.0 ap.delfi.ee
 :: ap.delfi.ee
 0.0.0.0 ap.ksrong.com
@@ -15139,6 +15155,8 @@
 :: api-shoulei-ssl.xunlei.com
 0.0.0.0 api-telemetry.servers.getgo.com
 :: api-telemetry.servers.getgo.com
+0.0.0.0 api-us1.lift.acquia.com
+:: api-us1.lift.acquia.com
 0.0.0.0 api.2easydroid.com
 :: api.2easydroid.com
 0.0.0.0 api.7segments.com
@@ -15537,6 +15555,8 @@
 :: apibrowsesmartne-a.akamaihd.net
 0.0.0.0 apiderpelu.000webhostapp.com
 :: apiderpelu.000webhostapp.com
+0.0.0.0 apidoc.dev.lift.acquia.com
+:: apidoc.dev.lift.acquia.com
 0.0.0.0 apikozakanet-a.akamaihd.net
 :: apikozakanet-a.akamaihd.net
 0.0.0.0 apiproxy.accengage.com
@@ -16695,6 +16715,8 @@
 :: atyss.barginginfrance.net
 0.0.0.0 au-01.adtomafusion.com
 :: au-01.adtomafusion.com
+0.0.0.0 au-integration.citrusad.com
+:: au-integration.citrusad.com
 0.0.0.0 au-live.inside-graph.com
 :: au-live.inside-graph.com
 0.0.0.0 au.track.decideinteractive.com
@@ -20383,6 +20405,8 @@
 :: bugsense.appspot.com
 0.0.0.0 builder.extensionfactory.com
 :: builder.extensionfactory.com
+0.0.0.0 builder.lift.acquia.com
+:: builder.lift.acquia.com
 0.0.0.0 building.msu.ac.th
 :: building.msu.ac.th
 0.0.0.0 builds.cngkitwala.com
@@ -22833,6 +22857,8 @@
 :: ch3302-e.1drv.com
 0.0.0.0 chalcographic-mover.000webhostapp.com
 :: chalcographic-mover.000webhostapp.com
+0.0.0.0 champions-cdn.lift.acquia.com
+:: champions-cdn.lift.acquia.com
 0.0.0.0 chanalytics.merchantadvantage.com
 :: chanalytics.merchantadvantage.com
 0.0.0.0 chance.adsensor.org
@@ -23767,6 +23793,8 @@
 :: client.everlinks.net
 0.0.0.0 client.midosoo.com
 :: client.midosoo.com
+0.0.0.0 client.penguware.xyz
+:: client.penguware.xyz
 0.0.0.0 client.rave-api.com
 :: client.rave-api.com
 0.0.0.0 client.roiadtracker.com
@@ -24783,6 +24811,8 @@
 :: context.adontext.com
 0.0.0.0 context.adshadow.net
 :: context.adshadow.net
+0.0.0.0 context.bestbuy.com
+:: context.bestbuy.com
 0.0.0.0 context.hotline.ua
 :: context.hotline.ua
 0.0.0.0 context2.adontext.com
@@ -28469,6 +28499,8 @@
 :: dev.chambredhotebressuire.com
 0.0.0.0 dev.comstockcompanies.com
 :: dev.comstockcompanies.com
+0.0.0.0 dev.context.bestbuy.com
+:: dev.context.bestbuy.com
 0.0.0.0 dev.dawnbreaker.com
 :: dev.dawnbreaker.com
 0.0.0.0 dev.dc.letv.com
@@ -28493,6 +28525,8 @@
 :: dev.jwpltx.com
 0.0.0.0 dev.karma.mdpcdn.com
 :: dev.karma.mdpcdn.com
+0.0.0.0 dev.lift.acquia.com
+:: dev.lift.acquia.com
 0.0.0.0 dev.log.getadblock.com
 :: dev.log.getadblock.com
 0.0.0.0 dev.maruemoinschere.fr
@@ -31693,6 +31727,30 @@
 :: etui.fs.ml.com
 0.0.0.0 eu-ad.sam4m.com
 :: eu-ad.sam4m.com
+0.0.0.0 eu-central-1-api.lift.acquia.com
+:: eu-central-1-api.lift.acquia.com
+0.0.0.0 eu-central-1-capture.lift.acquia.com
+:: eu-central-1-capture.lift.acquia.com
+0.0.0.0 eu-central-1-decision.lift.acquia.com
+:: eu-central-1-decision.lift.acquia.com
+0.0.0.0 eu-central-1-decisionapi.lift.acquia.com
+:: eu-central-1-decisionapi.lift.acquia.com
+0.0.0.0 eu-central-1-prod-tc.lift.acquia.com
+:: eu-central-1-prod-tc.lift.acquia.com
+0.0.0.0 eu-central-1-prod-tw.lift.acquia.com
+:: eu-central-1-prod-tw.lift.acquia.com
+0.0.0.0 eu-central-1-production-tc.lift.acquia.com
+:: eu-central-1-production-tc.lift.acquia.com
+0.0.0.0 eu-central-1-production-tw.lift.acquia.com
+:: eu-central-1-production-tw.lift.acquia.com
+0.0.0.0 eu-central-1-production-web-tc.lift.acquia.com
+:: eu-central-1-production-web-tc.lift.acquia.com
+0.0.0.0 eu-central-1-production-web-tw.lift.acquia.com
+:: eu-central-1-production-web-tw.lift.acquia.com
+0.0.0.0 eu-central-1-widget.lift.acquia.com
+:: eu-central-1-widget.lift.acquia.com
+0.0.0.0 eu-central-1.lift.acquia.com
+:: eu-central-1.lift.acquia.com
 0.0.0.0 eu-ma.sam4m.com
 :: eu-ma.sam4m.com
 0.0.0.0 eu-v10.events.data.microsoft.com
@@ -35079,6 +35137,8 @@
 :: go.searchlock.com
 0.0.0.0 go.securelinktrack.com
 :: go.securelinktrack.com
+0.0.0.0 go.sexu.tv
+:: go.sexu.tv
 0.0.0.0 go.spaceshipads.com
 :: go.spaceshipads.com
 0.0.0.0 go.tealium.com
@@ -36115,6 +36175,8 @@
 :: hf.themafia.info
 0.0.0.0 hfacbook.000webhostapp.com
 :: hfacbook.000webhostapp.com
+0.0.0.0 hfgfz.hunteraustin.pw
+:: hfgfz.hunteraustin.pw
 0.0.0.0 hfghgfh.5gbfree.com
 :: hfghgfh.5gbfree.com
 0.0.0.0 hfjhsnksnkw.000webhostapp.com
@@ -36151,6 +36213,8 @@
 :: hi.163.com
 0.0.0.0 hi.pacehillel.org
 :: hi.pacehillel.org
+0.0.0.0 hi.xiunm.com
+:: hi.xiunm.com
 0.0.0.0 hi8.ss.la
 :: hi8.ss.la
 0.0.0.0 hiad.myweb.hinet.net
@@ -41963,6 +42027,12 @@
 :: lifescience.sysu.edu.cn
 0.0.0.0 lifeserv.myarena.ru
 :: lifeserv.myarena.ru
+0.0.0.0 lift.acquia.com
+:: lift.acquia.com
+0.0.0.0 lift3assets.dev.lift.acquia.com
+:: lift3assets.dev.lift.acquia.com
+0.0.0.0 lift3assets.lift.acquia.com
+:: lift3assets.lift.acquia.com
 0.0.0.0 lig.liberation.fr
 :: lig.liberation.fr
 0.0.0.0 lightboxanalytics-53675.onmodulus.net
@@ -46969,6 +47039,10 @@
 :: monitor.uu.qq.com
 0.0.0.0 monitor.wpm.neustar.biz
 :: monitor.wpm.neustar.biz
+0.0.0.0 monitoring.context.bestbuy.com
+:: monitoring.context.bestbuy.com
+0.0.0.0 monitoring.pl.context.bestbuy.com
+:: monitoring.pl.context.bestbuy.com
 0.0.0.0 monkeeboy.matomo.cloud
 :: monkeeboy.matomo.cloud
 0.0.0.0 monkeeey.web.fc2.com
@@ -53585,6 +53659,8 @@
 :: pl.allsports4free.club
 0.0.0.0 pl.allsports4u.club
 :: pl.allsports4u.club
+0.0.0.0 pl.context.bestbuy.com
+:: pl.context.bestbuy.com
 0.0.0.0 pl.coral-club.com
 :: pl.coral-club.com
 0.0.0.0 pl.cp12.wasu.tv
@@ -54643,6 +54719,8 @@
 :: production-adserver-666328397.us-east-1.elb.amazonaws.com
 0.0.0.0 production-analytics-collector-592917094.us-east-1.elb.amazonaws.com
 :: production-analytics-collector-592917094.us-east-1.elb.amazonaws.com
+0.0.0.0 production-cdn.lift.acquia.com
+:: production-cdn.lift.acquia.com
 0.0.0.0 production-eqbc.lvp.llnw.net
 :: production-eqbc.lvp.llnw.net
 0.0.0.0 production-mcs.lvp.llnw.net
@@ -55693,6 +55771,8 @@
 :: q7wg99.kal.wkcengland.com
 0.0.0.0 q993210v.bget.ru
 :: q993210v.bget.ru
+0.0.0.0 qa-cdn.lift.acquia.com
+:: qa-cdn.lift.acquia.com
 0.0.0.0 qa-smartplugin.youbora.com
 :: qa-smartplugin.youbora.com
 0.0.0.0 qa.bouncex.net
@@ -56655,6 +56735,8 @@
 :: recoverycheck.000webhostapp.com
 0.0.0.0 recoverycheck96.000webhostapp.com
 :: recoverycheck96.000webhostapp.com
+0.0.0.0 recsys-api.buzzfeed.com
+:: recsys-api.buzzfeed.com
 0.0.0.0 rect.b2bpersonals.net
 :: rect.b2bpersonals.net
 0.0.0.0 recv-vd.gridsumdissector.cn
@@ -69751,6 +69833,32 @@
 :: us-central1-narvar-data-lake.cloudfunctions.net
 0.0.0.0 us-east-1-ads.superawesome.tv
 :: us-east-1-ads.superawesome.tv
+0.0.0.0 us-east-1-capture.lift.acquia.com
+:: us-east-1-capture.lift.acquia.com
+0.0.0.0 us-east-1-decision.lift.acquia.com
+:: us-east-1-decision.lift.acquia.com
+0.0.0.0 us-east-1-decisionapi.lift.acquia.com
+:: us-east-1-decisionapi.lift.acquia.com
+0.0.0.0 us-east-1-demo-decisionapi.lift.acquia.com
+:: us-east-1-demo-decisionapi.lift.acquia.com
+0.0.0.0 us-east-1-prod-tc.lift.acquia.com
+:: us-east-1-prod-tc.lift.acquia.com
+0.0.0.0 us-east-1-prod-tw.lift.acquia.com
+:: us-east-1-prod-tw.lift.acquia.com
+0.0.0.0 us-east-1-production-tc.lift.acquia.com
+:: us-east-1-production-tc.lift.acquia.com
+0.0.0.0 us-east-1-production-tw.lift.acquia.com
+:: us-east-1-production-tw.lift.acquia.com
+0.0.0.0 us-east-1-production-web-tc.lift.acquia.com
+:: us-east-1-production-web-tc.lift.acquia.com
+0.0.0.0 us-east-1-production-web-tw.lift.acquia.com
+:: us-east-1-production-web-tw.lift.acquia.com
+0.0.0.0 us-east-1-production-webserver-tc.lift.acquia.com
+:: us-east-1-production-webserver-tc.lift.acquia.com
+0.0.0.0 us-east-1-production-webserver-tw.lift.acquia.com
+:: us-east-1-production-webserver-tw.lift.acquia.com
+0.0.0.0 us-east-1-widget.lift.acquia.com
+:: us-east-1-widget.lift.acquia.com
 0.0.0.0 us-east-1.dc.ads.linkedin.com
 :: us-east-1.dc.ads.linkedin.com
 0.0.0.0 us-east-1.profile-api.ads.linkedin.com
@@ -77251,8 +77359,6 @@
 :: www.locgest.com
 0.0.0.0 www.lockview.cn
 :: www.lockview.cn
-0.0.0.0 www.log-in-verlag.de
-:: www.log-in-verlag.de
 0.0.0.0 www.log-management.loggly.com
 :: www.log-management.loggly.com
 0.0.0.0 www.log.getadblock.com
@@ -78819,6 +78925,8 @@
 :: www.scotiaonline.scotiabank.salferreras.com
 0.0.0.0 www.scoutvda.it
 :: www.scoutvda.it
+0.0.0.0 www.sdfbd.org
+:: www.sdfbd.org
 0.0.0.0 www.sdkconfig.ad.intl.xiaomi.com
 :: www.sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 www.sdlpgift.com
@@ -79789,8 +79897,6 @@
 :: www.uniqueinternettexasholdempoker.com
 0.0.0.0 www.unitedmall.com
 :: www.unitedmall.com
-0.0.0.0 www.unmutedbeauty.com
-:: www.unmutedbeauty.com
 0.0.0.0 www.update-flash.s0l8ybzj9u.top
 :: www.update-flash.s0l8ybzj9u.top
 0.0.0.0 www.updatenewversion.thewebsitetofindplayersbest.info
