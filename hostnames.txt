@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Jul 24 08:39:49 CEST 2019
+# Last update: Thu Jul 25 08:40:38 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41258
+# Number of unique hostnames: 41263
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -785,6 +785,8 @@
 :: 312.1d27c9b8fb.com
 0.0.0.0 3156134f8e48ae44ed28-38da2900bbdae8fa89f59b25983869fe.ssl.cf2.rackcdn.com
 :: 3156134f8e48ae44ed28-38da2900bbdae8fa89f59b25983869fe.ssl.cf2.rackcdn.com
+0.0.0.0 32.huanqiu.com
+:: 32.huanqiu.com
 0.0.0.0 321.jintang114.org
 :: 321.jintang114.org
 0.0.0.0 32e1dff65ea4eb3627ed-f1ecc94c86a56d3e42e512fcfd192886.r6.cf1.rackcdn.com
@@ -36893,6 +36895,8 @@
 :: hometown.aol.com
 0.0.0.0 homeway.altervista.org
 :: homeway.altervista.org
+0.0.0.0 homizuxu.myhostpoint.ch
+:: homizuxu.myhostpoint.ch
 0.0.0.0 hondafuerza.dhdinc.info
 :: hondafuerza.dhdinc.info
 0.0.0.0 honey.briefly.ru
@@ -44897,6 +44901,8 @@
 :: matichprofilesphotos.16mb.com
 0.0.0.0 matisport.strefa.pl
 :: matisport.strefa.pl
+0.0.0.0 matomo.activate.cz
+:: matomo.activate.cz
 0.0.0.0 matrix.eu.sk
 :: matrix.eu.sk
 0.0.0.0 matrix.mediavantage.de
@@ -66589,6 +66595,8 @@
 :: tr.interlake.net
 0.0.0.0 tr.mobiadserv.com
 :: tr.mobiadserv.com
+0.0.0.0 tr.networx.com
+:: tr.networx.com
 0.0.0.0 tr.newsletter.capdecision.fr
 :: tr.newsletter.capdecision.fr
 0.0.0.0 tr.p.360.cn
@@ -77359,6 +77367,8 @@
 :: www.locgest.com
 0.0.0.0 www.lockview.cn
 :: www.lockview.cn
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.log-management.loggly.com
 :: www.log-management.loggly.com
 0.0.0.0 www.log.getadblock.com
