@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Jul 25 08:40:38 CEST 2019
+# Last update: Fri Jul 26 08:43:30 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41263
+# Number of unique hostnames: 41268
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -14721,6 +14721,8 @@
 :: analytics.revee.com
 0.0.0.0 analytics.reyrey.net
 :: analytics.reyrey.net
+0.0.0.0 analytics.robinhood.com
+:: analytics.robinhood.com
 0.0.0.0 analytics.rogersmedia.com
 :: analytics.rogersmedia.com
 0.0.0.0 analytics.samba.tv
@@ -15879,6 +15881,8 @@
 :: appieid.m-code.id
 0.0.0.0 appilpeid.aspple.com.recover-apps.info
 :: appilpeid.aspple.com.recover-apps.info
+0.0.0.0 appimg.0575bbs.com
+:: appimg.0575bbs.com
 0.0.0.0 applab-sdk.amazon.com
 :: applab-sdk.amazon.com
 0.0.0.0 apple-icloud-id-security-information-restore-onlineprocess.gandharaguides.com
@@ -24613,6 +24617,8 @@
 :: confessati.altervista.org
 0.0.0.0 conffiguration.youthempire.com
 :: conffiguration.youthempire.com
+0.0.0.0 config-partner-platform-client-933515454346.s3.amazonaws.com
+:: config-partner-platform-client-933515454346.s3.amazonaws.com
 0.0.0.0 config.adsage.cn
 :: config.adsage.cn
 0.0.0.0 config.adsage.com
@@ -24805,6 +24811,8 @@
 :: contentcache-a.akamaihd.net
 0.0.0.0 contentclick.akamaized.net
 :: contentclick.akamaized.net
+0.0.0.0 contentpersonalization.api.intuit.com
+:: contentpersonalization.api.intuit.com
 0.0.0.0 contentserv.brandaffinity.net
 :: contentserv.brandaffinity.net
 0.0.0.0 context-matching.dashboard.superawesome.tv
@@ -25705,6 +25713,8 @@
 :: crtv.mate1.com
 0.0.0.0 crucial.i.lithium.com
 :: crucial.i.lithium.com
+0.0.0.0 crumbs.robinhood.com
+:: crumbs.robinhood.com
 0.0.0.0 crux.songline.com
 :: crux.songline.com
 0.0.0.0 crwetnow18.atspace.cc
@@ -40425,8 +40435,6 @@
 :: js.union-wifi.com
 0.0.0.0 js.union.doudouguo.net
 :: js.union.doudouguo.net
-0.0.0.0 js.url1175.info
-:: js.url1175.info
 0.0.0.0 js.vidoza.net
 :: js.vidoza.net
 0.0.0.0 js.vipyy88.com
@@ -44865,6 +44873,8 @@
 :: match.c8.net.ua
 0.0.0.0 match.doko.jp
 :: match.doko.jp
+0.0.0.0 match.mynewmatchpictureprofile.com
+:: match.mynewmatchpictureprofile.com
 0.0.0.0 match.p4p.1688.com
 :: match.p4p.1688.com
 0.0.0.0 match.seesaa.jp
@@ -44979,6 +44989,8 @@
 :: mbd.weathercn.com
 0.0.0.0 mbdlog.iqiyi.com
 :: mbdlog.iqiyi.com
+0.0.0.0 mbfce24rgn65bx3g.je9mlz.com
+:: mbfce24rgn65bx3g.je9mlz.com
 0.0.0.0 mbi3.kuicr.kyoto-u.ac.jp
 :: mbi3.kuicr.kyoto-u.ac.jp
 0.0.0.0 mbiasi93.pe.hu
@@ -45073,6 +45085,8 @@
 :: mdevstat.qqlive.qq.com
 0.0.0.0 mdlbs.motor-talk.de
 :: mdlbs.motor-talk.de
+0.0.0.0 mdn.neowin.net
+:: mdn.neowin.net
 0.0.0.0 mdrecv.app.cntvwb.cn
 :: mdrecv.app.cntvwb.cn
 0.0.0.0 mdt.grandtraversedesign.com
@@ -48573,8 +48587,6 @@
 :: nnmd.000webhostapp.com
 0.0.0.0 nnrtsdf34dsjhb23rsdf.spannflow.com
 :: nnrtsdf34dsjhb23rsdf.spannflow.com
-0.0.0.0 nns.net.au
-:: nns.net.au
 0.0.0.0 nnvbxe.boss.northerndishedends.uk
 :: nnvbxe.boss.northerndishedends.uk
 0.0.0.0 no.counter.mtgnewmedia.se
@@ -82283,8 +82295,6 @@
 :: zhusandyoi.websoft.kz
 0.0.0.0 zhushou.2345.com
 :: zhushou.2345.com
-0.0.0.0 zi.kfqdf.com
-:: zi.kfqdf.com
 0.0.0.0 zia.org.in
 :: zia.org.in
 0.0.0.0 ziahj43622.lithium.com
