@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Jul 26 08:43:30 CEST 2019
+# Last update: Sat Jul 27 08:43:06 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41268
+# Number of unique hostnames: 41270
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -28707,8 +28707,6 @@
 :: dfzenk6ej1plw.cloudfront.net
 0.0.0.0 dg.gamebuffet.mobi
 :: dg.gamebuffet.mobi
-0.0.0.0 dg.ghosttty.cn
-:: dg.ghosttty.cn
 0.0.0.0 dg.k.jd.com
 :: dg.k.jd.com
 0.0.0.0 dg5thrrj8f.sm1qrqaeri.madpendesign.com.au
@@ -31847,6 +31845,8 @@
 :: eveent-wekends.000webhostapp.com
 0.0.0.0 event-coin-claim.000webhostapp.com
 :: event-coin-claim.000webhostapp.com
+0.0.0.0 event-collector.moviesanywhere.com
+:: event-collector.moviesanywhere.com
 0.0.0.0 event.2leva.bg
 :: event.2leva.bg
 0.0.0.0 event.allnews.uodoo.com
@@ -53889,6 +53889,8 @@
 :: pls.webtype.com
 0.0.0.0 plsderk.ddns.me.uk
 :: plsderk.ddns.me.uk
+0.0.0.0 plsh.parklogic.com
+:: plsh.parklogic.com
 0.0.0.0 plsifreeskox.esy.es
 :: plsifreeskox.esy.es
 0.0.0.0 plt.data.pplive.com
@@ -67551,6 +67553,8 @@
 :: tracker.mozo.com.au
 0.0.0.0 tracker.msales.com
 :: tracker.msales.com
+0.0.0.0 tracker.mtrtb.com
+:: tracker.mtrtb.com
 0.0.0.0 tracker.nbcuas.com
 :: tracker.nbcuas.com
 0.0.0.0 tracker.neon-images.com
