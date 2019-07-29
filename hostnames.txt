@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Jul 28 08:46:11 CEST 2019
+# Last update: Mon Jul 29 08:43:19 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41265
+# Number of unique hostnames: 41304
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -21575,6 +21575,8 @@
 :: cc.gofile.io
 0.0.0.0 cc.i.lithium.com
 :: cc.i.lithium.com
+0.0.0.0 cc.klapi.cn
+:: cc.klapi.cn
 0.0.0.0 cc.moquanad.com
 :: cc.moquanad.com
 0.0.0.0 cc.piao.jianzhigg.com
@@ -21635,8 +21637,6 @@
 :: cd23946.tmweb.ru
 0.0.0.0 cd31411.tmweb.ru
 :: cd31411.tmweb.ru
-0.0.0.0 cdentairebeauharnois.infosignuat.com
-:: cdentairebeauharnois.infosignuat.com
 0.0.0.0 cdgame.kgb.pl
 :: cdgame.kgb.pl
 0.0.0.0 cdggua.yi.org
@@ -21729,6 +21729,8 @@
 :: cdn.2xbpub.com
 0.0.0.0 cdn.5bong.com
 :: cdn.5bong.com
+0.0.0.0 cdn.810236.com
+:: cdn.810236.com
 0.0.0.0 cdn.ad.plus
 :: cdn.ad.plus
 0.0.0.0 cdn.adbert.info
@@ -22141,6 +22143,8 @@
 :: cdn.static-cnt.bi
 0.0.0.0 cdn.streambeam.io
 :: cdn.streambeam.io
+0.0.0.0 cdn.surroundtm.com
+:: cdn.surroundtm.com
 0.0.0.0 cdn.syn.verticalacuity.com
 :: cdn.syn.verticalacuity.com
 0.0.0.0 cdn.syndication.twitter.com
@@ -23799,8 +23803,6 @@
 :: client.everlinks.net
 0.0.0.0 client.midosoo.com
 :: client.midosoo.com
-0.0.0.0 client.penguware.xyz
-:: client.penguware.xyz
 0.0.0.0 client.rave-api.com
 :: client.rave-api.com
 0.0.0.0 client.roiadtracker.com
@@ -28433,8 +28435,6 @@
 :: desgao1zt7irn.cloudfront.net
 0.0.0.0 desidating.in.nf
 :: desidating.in.nf
-0.0.0.0 design.bpotech.com.vn
-:: design.bpotech.com.vn
 0.0.0.0 design.mangoxl.com
 :: design.mangoxl.com
 0.0.0.0 designbuildinstall.net.au
@@ -28557,8 +28557,6 @@
 :: dev.orolatina.com
 0.0.0.0 dev.ppe.applicationinsights.microsoft.com
 :: dev.ppe.applicationinsights.microsoft.com
-0.0.0.0 dev.psuade.co.uk
-:: dev.psuade.co.uk
 0.0.0.0 dev.radiance.sky.163.com
 :: dev.radiance.sky.163.com
 0.0.0.0 dev.searchthruster.com
@@ -30455,6 +30453,8 @@
 :: e.gglay.com
 0.0.0.0 e.gjiaj.com
 :: e.gjiaj.com
+0.0.0.0 e.glaef.cn
+:: e.glaef.cn
 0.0.0.0 e.gnfpzc.cn
 :: e.gnfpzc.cn
 0.0.0.0 e.gtrve.cn
@@ -30467,6 +30467,12 @@
 :: e.hdanc.com
 0.0.0.0 e.hellomingpian.com
 :: e.hellomingpian.com
+0.0.0.0 e.hm196.cn
+:: e.hm196.cn
+0.0.0.0 e.hm203.cn
+:: e.hm203.cn
+0.0.0.0 e.hpcat.cn
+:: e.hpcat.cn
 0.0.0.0 e.huaas.com
 :: e.huaas.com
 0.0.0.0 e.huoas.com
@@ -30511,6 +30517,8 @@
 :: e.kzwsh.cn
 0.0.0.0 e.lancedu.com
 :: e.lancedu.com
+0.0.0.0 e.lvsih.cn
+:: e.lvsih.cn
 0.0.0.0 e.m8l0ka.cn
 :: e.m8l0ka.cn
 0.0.0.0 e.miaoxinqipei.com
@@ -33999,6 +34007,8 @@
 :: fxpik38635.i.lithium.com
 0.0.0.0 fych.uranus.sogou.com
 :: fych.uranus.sogou.com
+0.0.0.0 fyq.wlgszt.com
+:: fyq.wlgszt.com
 0.0.0.0 fyrhh23835.i.lithium.com
 :: fyrhh23835.i.lithium.com
 0.0.0.0 fyrhh23835.lithium.com
@@ -35035,6 +35045,8 @@
 :: glovein.says.it
 0.0.0.0 gm.163.com
 :: gm.163.com
+0.0.0.0 gm.uc003.com
+:: gm.uc003.com
 0.0.0.0 gma.gmail-act4024.com
 :: gma.gmail-act4024.com
 0.0.0.0 gmall.qnm.163.com
@@ -36905,8 +36917,6 @@
 :: hometown.aol.com
 0.0.0.0 homeway.altervista.org
 :: homeway.altervista.org
-0.0.0.0 homizuxu.myhostpoint.ch
-:: homizuxu.myhostpoint.ch
 0.0.0.0 hondafuerza.dhdinc.info
 :: hondafuerza.dhdinc.info
 0.0.0.0 honey.briefly.ru
@@ -40457,10 +40467,14 @@
 :: js1.xbaixing.com
 0.0.0.0 js11.clickzzs.nl
 :: js11.clickzzs.nl
+0.0.0.0 js2.battmd168a2.xyz
+:: js2.battmd168a2.xyz
 0.0.0.0 js2.keywordsconnect.com
 :: js2.keywordsconnect.com
 0.0.0.0 js2.vgetv.xyz
 :: js2.vgetv.xyz
+0.0.0.0 js2.vgetv1.xyz
+:: js2.vgetv1.xyz
 0.0.0.0 js34dc10.gamooga.com
 :: js34dc10.gamooga.com
 0.0.0.0 js4.eastmoney.com
@@ -41787,6 +41801,8 @@
 :: ldy.350.com
 0.0.0.0 ldy.adqku.cn
 :: ldy.adqku.cn
+0.0.0.0 ldy.zfdvzp.cn
+:: ldy.zfdvzp.cn
 0.0.0.0 lead.program3.com
 :: lead.program3.com
 0.0.0.0 leaddyno-client-images.s3.amazonaws.com
@@ -42383,6 +42399,8 @@
 :: llaob9vd-site.1tempurl.com
 0.0.0.0 llaredlrgn.angelcities.com
 :: llaredlrgn.angelcities.com
+0.0.0.0 llk.dlingtalk.cn
+:: llk.dlingtalk.cn
 0.0.0.0 llrkgt0gvl.harrisdentalsolutions.com
 :: llrkgt0gvl.harrisdentalsolutions.com
 0.0.0.0 llszw.saqibsiddiqui.com
@@ -43635,6 +43653,8 @@
 :: m.efeiy.com
 0.0.0.0 m.eglglh.cn
 :: m.eglglh.cn
+0.0.0.0 m.ektktg.cn
+:: m.ektktg.cn
 0.0.0.0 m.eliuy.com
 :: m.eliuy.com
 0.0.0.0 m.enrogwm.cn
@@ -43683,6 +43703,8 @@
 :: m.facebook.com.solutions-hub.com
 0.0.0.0 m.fbaix.com
 :: m.fbaix.com
+0.0.0.0 m.fca305.cn
+:: m.fca305.cn
 0.0.0.0 m.feirs.com
 :: m.feirs.com
 0.0.0.0 m.fengwanwl.com
@@ -43697,6 +43719,8 @@
 :: m.figuren-spiele.de
 0.0.0.0 m.fimky.com
 :: m.fimky.com
+0.0.0.0 m.fnlve.cn
+:: m.fnlve.cn
 0.0.0.0 m.fnwnwi.cn
 :: m.fnwnwi.cn
 0.0.0.0 m.frfykc.cn
@@ -43717,6 +43741,10 @@
 :: m.ganrs.com
 0.0.0.0 m.gbaog.com
 :: m.gbaog.com
+0.0.0.0 m.gbe665.cn
+:: m.gbe665.cn
+0.0.0.0 m.gbf199.cn
+:: m.gbf199.cn
 0.0.0.0 m.gcaih.com
 :: m.gcaih.com
 0.0.0.0 m.gdzyo.cn
@@ -43729,6 +43757,8 @@
 :: m.gift.163.com
 0.0.0.0 m.gjiaj.com
 :: m.gjiaj.com
+0.0.0.0 m.glaef.cn
+:: m.glaef.cn
 0.0.0.0 m.gnfpzc.cn
 :: m.gnfpzc.cn
 0.0.0.0 m.gtuoj.com
@@ -43765,6 +43795,12 @@
 :: m.hhllyt.com
 0.0.0.0 m.hm146.cn
 :: m.hm146.cn
+0.0.0.0 m.hm196.cn
+:: m.hm196.cn
+0.0.0.0 m.hm203.cn
+:: m.hm203.cn
+0.0.0.0 m.hpcat.cn
+:: m.hpcat.cn
 0.0.0.0 m.hpfjy.com
 :: m.hpfjy.com
 0.0.0.0 m.hrjjs.cn
@@ -43863,6 +43899,8 @@
 :: m.loldlxmy.com
 0.0.0.0 m.lu.sogou.com
 :: m.lu.sogou.com
+0.0.0.0 m.lvsih.cn
+:: m.lvsih.cn
 0.0.0.0 m.lws48e.cn
 :: m.lws48e.cn
 0.0.0.0 m.ly0p9e.cn
@@ -44099,6 +44137,8 @@
 :: m.w6o2c.cn
 0.0.0.0 m.w720p.cn
 :: m.w720p.cn
+0.0.0.0 m.w7xj7.cn
+:: m.w7xj7.cn
 0.0.0.0 m.wankz.com
 :: m.wankz.com
 0.0.0.0 m.wbaie.com
@@ -44193,8 +44233,12 @@
 :: m.yoyi.com.cn
 0.0.0.0 m.yplzarxt.cn
 :: m.yplzarxt.cn
+0.0.0.0 m.yqbyiw86.cn
+:: m.yqbyiw86.cn
 0.0.0.0 m.yuandajiayuan.com
 :: m.yuandajiayuan.com
+0.0.0.0 m.yubanfen.cn
+:: m.yubanfen.cn
 0.0.0.0 m.yunshengyy.com
 :: m.yunshengyy.com
 0.0.0.0 m.yyfymj.com
@@ -52969,6 +53013,8 @@
 :: pgdt.gtimg.cn
 0.0.0.0 pgdt.ugdtimg.com
 :: pgdt.ugdtimg.com
+0.0.0.0 pgg.huabojnxdd.com
+:: pgg.huabojnxdd.com
 0.0.0.0 pharirgatic.hotmail.ru
 :: pharirgatic.hotmail.ru
 0.0.0.0 pharmacy-canada.forsearch.net
@@ -53027,6 +53073,8 @@
 :: phorm.web.tr
 0.0.0.0 photo.163.com
 :: photo.163.com
+0.0.0.0 photo.188kc.cn
+:: photo.188kc.cn
 0.0.0.0 photo.789ble.cn
 :: photo.789ble.cn
 0.0.0.0 photo.941ziyuan.cn
@@ -53073,6 +53121,8 @@
 :: photo.ybaobei.cn
 0.0.0.0 photo.yishuhuanbao.cn
 :: photo.yishuhuanbao.cn
+0.0.0.0 photo.ypkjq.cn
+:: photo.ypkjq.cn
 0.0.0.0 photo.yqydjr.cn
 :: photo.yqydjr.cn
 0.0.0.0 photo.yxslt.cn
@@ -54079,6 +54129,8 @@
 :: pmenboeqhyrpvomq.y7fjr4.bid
 0.0.0.0 pmenboeqhyrpvomq.yw4629.top
 :: pmenboeqhyrpvomq.yw4629.top
+0.0.0.0 pmh.souid.com
+:: pmh.souid.com
 0.0.0.0 pmir.3g.qq.com
 :: pmir.3g.qq.com
 0.0.0.0 pmlingua.strefa.pl
@@ -61939,6 +61991,8 @@
 :: soceron.org.br
 0.0.0.0 social-connect.spot.im
 :: social-connect.spot.im
+0.0.0.0 social.die-lehrstelle.ch
+:: social.die-lehrstelle.ch
 0.0.0.0 social.msgplus.net
 :: social.msgplus.net
 0.0.0.0 socialize.eu1.gigya.com
@@ -62473,6 +62527,8 @@
 :: ssgg.chazidian.com
 0.0.0.0 ssgsna7n.beget.tech
 :: ssgsna7n.beget.tech
+0.0.0.0 ssh.mi61l.cn
+:: ssh.mi61l.cn
 0.0.0.0 sshhsvv.beckmenlaw.info
 :: sshhsvv.beckmenlaw.info
 0.0.0.0 ssknbvc.beckmanlawfirm.org
@@ -62491,6 +62547,8 @@
 :: ssl-static.vinsight.de
 0.0.0.0 ssl-stats.wordpress.com
 :: ssl-stats.wordpress.com
+0.0.0.0 ssl.51lhcx.com
+:: ssl.51lhcx.com
 0.0.0.0 ssl.amazon-id-15982.de-customercenter-verifikation.info
 :: ssl.amazon-id-15982.de-customercenter-verifikation.info
 0.0.0.0 ssl.amazon-id-17982.de-customercenter-verifikation.info
@@ -64155,6 +64213,8 @@
 :: stocks-analytics-events.news.apple-dns.net
 0.0.0.0 stopmeagency.free.fr
 :: stopmeagency.free.fr
+0.0.0.0 storage.29293.com
+:: storage.29293.com
 0.0.0.0 storage.bulletproofserving.com
 :: storage.bulletproofserving.com
 0.0.0.0 storage.psstgccint.com
@@ -64815,6 +64875,8 @@
 :: syndication1.viraladnetwork.net
 0.0.0.0 synthes.vo.llnwd.net
 :: synthes.vo.llnwd.net
+0.0.0.0 syp.shcfpx.com
+:: syp.shcfpx.com
 0.0.0.0 sypi.gpshopper.com
 :: sypi.gpshopper.com
 0.0.0.0 syrena.gminanekla.pl
@@ -68849,6 +68911,8 @@
 :: u64895004ikkff.000webhostapp.com
 0.0.0.0 u6543ewfgh.dyndns-work.com
 :: u6543ewfgh.dyndns-work.com
+0.0.0.0 u700222964.hostingerapp.com
+:: u700222964.hostingerapp.com
 0.0.0.0 u715381.sendgrid.org
 :: u715381.sendgrid.org
 0.0.0.0 u73801620533084.s.push-21.cdnsun.com
@@ -74319,6 +74383,8 @@
 :: www.amelander.nl
 0.0.0.0 www.amisbusiness.com
 :: www.amisbusiness.com
+0.0.0.0 www.amort.cn
+:: www.amort.cn
 0.0.0.0 www.amway.com
 :: www.amway.com
 0.0.0.0 www.amway.pl
@@ -74729,6 +74795,8 @@
 :: www.bitspresentdownload.com
 0.0.0.0 www.bitupont.hu
 :: www.bitupont.hu
+0.0.0.0 www.bjhdrx.com
+:: www.bjhdrx.com
 0.0.0.0 www.bjvideos.com
 :: www.bjvideos.com
 0.0.0.0 www.bkdg.net
@@ -77071,6 +77139,8 @@
 :: www.keyofhealth.com
 0.0.0.0 www.keywordsinc.com
 :: www.keywordsinc.com
+0.0.0.0 www.khlgauqt2000.com
+:: www.khlgauqt2000.com
 0.0.0.0 www.khutbahleqzaer.download
 :: www.khutbahleqzaer.download
 0.0.0.0 www.kiaokuayoutui.com
@@ -78613,6 +78683,8 @@
 :: www.qchannel03.cn
 0.0.0.0 www.qchannel04.cn
 :: www.qchannel04.cn
+0.0.0.0 www.qcoldtui1999.com
+:: www.qcoldtui1999.com
 0.0.0.0 www.qhdast.com
 :: www.qhdast.com
 0.0.0.0 www.qianshengqian.com
@@ -79171,6 +79243,8 @@
 :: www.snuggharbor.net
 0.0.0.0 www.snvl-ptrc.go.ro
 :: www.snvl-ptrc.go.ro
+0.0.0.0 www.snyowx29.com
+:: www.snyowx29.com
 0.0.0.0 www.sociallypublish.com
 :: www.sociallypublish.com
 0.0.0.0 www.socialmediaplanner.com.au
@@ -79833,6 +79907,8 @@
 :: www.tucows.com
 0.0.0.0 www.tui1999.com
 :: www.tui1999.com
+0.0.0.0 www.tuigang1999.com
+:: www.tuigang1999.com
 0.0.0.0 www.tuituigui19999.com
 :: www.tuituigui19999.com
 0.0.0.0 www.tujidao.com
@@ -80035,6 +80111,8 @@
 :: www.viagra-home.com
 0.0.0.0 www.victory.com.pl
 :: www.victory.com.pl
+0.0.0.0 www.victory1999.com
+:: www.victory1999.com
 0.0.0.0 www.vidcampaign.com
 :: www.vidcampaign.com
 0.0.0.0 www.video-perc.net
