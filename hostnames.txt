@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Jul 31 08:44:14 CEST 2019
+# Last update: Thu Aug 1 08:42:48 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41315
+# Number of unique hostnames: 41321
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3345,6 +3345,8 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
+0.0.0.0 abusalewm.exceltoner.com
+:: abusalewm.exceltoner.com
 0.0.0.0 ac.86huoche.com
 :: ac.86huoche.com
 0.0.0.0 ac.ajur.info
@@ -15793,8 +15795,6 @@
 :: app.waps.cn
 0.0.0.0 app.wumii.com
 :: app.wumii.com
-0.0.0.0 app.xixiashengdian.com
-:: app.xixiashengdian.com
 0.0.0.0 app.xizi.com
 :: app.xizi.com
 0.0.0.0 app.xyjqy.com
@@ -23085,6 +23085,8 @@
 :: checkingforumdocusign.000webhostapp.com
 0.0.0.0 checkingfree.thebig-centeralplacecontentprepared.review
 :: checkingfree.thebig-centeralplacecontentprepared.review
+0.0.0.0 checkip.justwatch.com
+:: checkip.justwatch.com
 0.0.0.0 checkit.x10.bz
 :: checkit.x10.bz
 0.0.0.0 checkofficeracct48.000webhostapp.com
@@ -24613,6 +24615,8 @@
 :: confessati.altervista.org
 0.0.0.0 conffiguration.youthempire.com
 :: conffiguration.youthempire.com
+0.0.0.0 confiant-integrations.global.ssl.fastly.net
+:: confiant-integrations.global.ssl.fastly.net
 0.0.0.0 config-partner-platform-client-933515454346.s3.amazonaws.com
 :: config-partner-platform-client-933515454346.s3.amazonaws.com
 0.0.0.0 config.adsage.cn
@@ -41409,6 +41413,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -47637,6 +47643,8 @@
 :: myap.liveperson.com
 0.0.0.0 myashot.txxx.com
 :: myashot.txxx.com
+0.0.0.0 mybbc-analytics.files.bbci.co.uk
+:: mybbc-analytics.files.bbci.co.uk
 0.0.0.0 mychannelvip2.netscape.com
 :: mychannelvip2.netscape.com
 0.0.0.0 mycignasc87162296us1.cobrowse.oraclecloud.com
@@ -53361,6 +53369,8 @@
 :: pin.163.com
 0.0.0.0 pinchy.pf.triptease.io
 :: pinchy.pf.triptease.io
+0.0.0.0 ping-dot-acp-magento.appspot.com
+:: ping-dot-acp-magento.appspot.com
 0.0.0.0 ping-origin-dev.jwpltx.com
 :: ping-origin-dev.jwpltx.com
 0.0.0.0 ping-origin-prd.jwpltx.com
@@ -54659,8 +54669,6 @@
 :: prerol.tut.by
 0.0.0.0 prerollads.ign.com
 :: prerollads.ign.com
-0.0.0.0 pres.serverhome.com
-:: pres.serverhome.com
 0.0.0.0 prescription-drugs.easy-find.net
 :: prescription-drugs.easy-find.net
 0.0.0.0 prescription-drugs.shengen.ru
@@ -76039,6 +76047,8 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
+0.0.0.0 www.fishingtackleindia.com
+:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -76299,6 +76309,8 @@
 :: www.gloomky.com
 0.0.0.0 www.glosowanie.ujm.pl
 :: www.glosowanie.ujm.pl
+0.0.0.0 www.glutax-ori.com
+:: www.glutax-ori.com
 0.0.0.0 www.glxgroup.com
 :: www.glxgroup.com
 0.0.0.0 www.gmcjjh.org
@@ -76617,8 +76629,6 @@
 :: www.hostingcloud.trade
 0.0.0.0 www.hostingcloud.win
 :: www.hostingcloud.win
-0.0.0.0 www.hostpix.de
-:: www.hostpix.de
 0.0.0.0 www.hot-software.net
 :: www.hot-software.net
 0.0.0.0 www.hotcry.com
@@ -79753,6 +79763,8 @@
 :: www.tigipro.pl
 0.0.0.0 www.timefor.com
 :: www.timefor.com
+0.0.0.0 www.timelessimagesmi.com
+:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tinayr.go.ro
