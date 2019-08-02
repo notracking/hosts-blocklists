@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Aug 1 08:42:48 CEST 2019
+# Last update: Fri Aug 2 08:42:01 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41321
+# Number of unique hostnames: 41344
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2455,6 +2455,8 @@
 :: a-m-s.poco.cn
 0.0.0.0 a.0day.kiev.ua
 :: a.0day.kiev.ua
+0.0.0.0 a.163.com
+:: a.163.com
 0.0.0.0 a.19869.com
 :: a.19869.com
 0.0.0.0 a.198banjia.com
@@ -3345,8 +3347,6 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
-0.0.0.0 abusalewm.exceltoner.com
-:: abusalewm.exceltoner.com
 0.0.0.0 ac.86huoche.com
 :: ac.86huoche.com
 0.0.0.0 ac.ajur.info
@@ -5765,6 +5765,8 @@
 :: adelogs.adobe.com
 0.0.0.0 adelogs.wip4.adobe.com
 :: adelogs.wip4.adobe.com
+0.0.0.0 aden.baidu.com
+:: aden.baidu.com
 0.0.0.0 adengine.rt.ru
 :: adengine.rt.ru
 0.0.0.0 adengine.theglobe.net
@@ -6637,8 +6639,6 @@
 :: ads.adultswim.com
 0.0.0.0 ads.advance.de
 :: ads.advance.de
-0.0.0.0 ads.advance.net
-:: ads.advance.net
 0.0.0.0 ads.advance.uk.com
 :: ads.advance.uk.com
 0.0.0.0 ads.advanceweb.com
@@ -10429,8 +10429,6 @@
 :: ads.webmd.com
 0.0.0.0 ads.webme.com
 :: ads.webme.com
-0.0.0.0 ads.webnet.advance.net
-:: ads.webnet.advance.net
 0.0.0.0 ads.websearch.com
 :: ads.websearch.com
 0.0.0.0 ads.webshots.com
@@ -10617,8 +10615,6 @@
 :: ads05.freecity.de
 0.0.0.0 ads1.advance.de
 :: ads1.advance.de
-0.0.0.0 ads1.advance.net
-:: ads1.advance.net
 0.0.0.0 ads1.ami-admin.com
 :: ads1.ami-admin.com
 0.0.0.0 ads1.beta.lt
@@ -10701,14 +10697,10 @@
 :: ads10.gladen.bg
 0.0.0.0 ads13000.cpmoz.com
 :: ads13000.cpmoz.com
-0.0.0.0 ads16.advance.net
-:: ads16.advance.net
 0.0.0.0 ads1a.depositfiles.com
 :: ads1a.depositfiles.com
 0.0.0.0 ads2.advance.de
 :: ads2.advance.de
-0.0.0.0 ads2.advance.net
-:: ads2.advance.net
 0.0.0.0 ads2.backads.com
 :: ads2.backads.com
 0.0.0.0 ads2.blastro.com
@@ -10841,8 +10833,6 @@
 :: ads2004.treiberupdate.de
 0.0.0.0 ads3.advance.de
 :: ads3.advance.de
-0.0.0.0 ads3.advance.net
-:: ads3.advance.net
 0.0.0.0 ads3.bangkokpost.co.th
 :: ads3.bangkokpost.co.th
 0.0.0.0 ads3.blastro.com
@@ -10883,8 +10873,6 @@
 :: ads3.zenotecnico.com
 0.0.0.0 ads4.advance.de
 :: ads4.advance.de
-0.0.0.0 ads4.advance.net
-:: ads4.advance.net
 0.0.0.0 ads4.canoe.ca
 :: ads4.canoe.ca
 0.0.0.0 ads4.condenet.com
@@ -10907,8 +10895,6 @@
 :: ads4.zdnet.org
 0.0.0.0 ads4.zenotecnico.com
 :: ads4.zenotecnico.com
-0.0.0.0 ads5.advance.net
-:: ads5.advance.net
 0.0.0.0 ads5.canoe.ca
 :: ads5.canoe.ca
 0.0.0.0 ads5.fxdepo.com
@@ -10927,12 +10913,8 @@
 :: ads5.virtual-nights.com
 0.0.0.0 ads5.virtumundo.com
 :: ads5.virtumundo.com
-0.0.0.0 ads6.advance.net
-:: ads6.advance.net
 0.0.0.0 ads6.gamecity.net
 :: ads6.gamecity.net
-0.0.0.0 ads7.advance.net
-:: ads7.advance.net
 0.0.0.0 ads7.c.no1.asap-asp.net
 :: ads7.c.no1.asap-asp.net
 0.0.0.0 ads7.gamecity.net
@@ -17493,6 +17475,10 @@
 :: baidu1.codejie.net
 0.0.0.0 baidu1.weather.com.cn
 :: baidu1.weather.com.cn
+0.0.0.0 baidua1.cardbaobao.com
+:: baidua1.cardbaobao.com
+0.0.0.0 baidua2.cardbaobao.com
+:: baidua2.cardbaobao.com
 0.0.0.0 baiduada.babihu.com
 :: baiduada.babihu.com
 0.0.0.0 baidujs.cnys.com
@@ -21259,6 +21245,8 @@
 :: cakes4allfamiliyes.for-the.biz
 0.0.0.0 cal.meizu.com
 :: cal.meizu.com
+0.0.0.0 caldav.163.com
+:: caldav.163.com
 0.0.0.0 calendar.protofilm.com
 :: calendar.protofilm.com
 0.0.0.0 calendar.zakcomputer.com
@@ -22021,8 +22009,6 @@
 :: cdn.lookbookhq.com
 0.0.0.0 cdn.lu.sogoucdn.com
 :: cdn.lu.sogoucdn.com
-0.0.0.0 cdn.luckyorange.net
-:: cdn.luckyorange.net
 0.0.0.0 cdn.m.okdd.net
 :: cdn.m.okdd.net
 0.0.0.0 cdn.mahmukhach.info
@@ -22751,6 +22737,8 @@
 :: cf.37cs.com
 0.0.0.0 cf.iadsdk.apple.com
 :: cf.iadsdk.apple.com
+0.0.0.0 cf.zaiyunli.cn
+:: cf.zaiyunli.cn
 0.0.0.0 cf1c0.thisav.com
 :: cf1c0.thisav.com
 0.0.0.0 cfcd.duckdns.org
@@ -22779,6 +22767,8 @@
 :: cfsparts.declare-enlignes.com
 0.0.0.0 cfstrpostfiscal-001-site1.etempurl.com
 :: cfstrpostfiscal-001-site1.etempurl.com
+0.0.0.0 cfyuanji.blog.163.com
+:: cfyuanji.blog.163.com
 0.0.0.0 cg-global.maxymiser.com
 :: cg-global.maxymiser.com
 0.0.0.0 cg.163.com
@@ -22807,6 +22797,8 @@
 :: cgi.netscape.com
 0.0.0.0 cgi.sexswap2.com
 :: cgi.sexswap2.com
+0.0.0.0 cgi.vod.cc.163.com
+:: cgi.vod.cc.163.com
 0.0.0.0 cgi.zdnet.com
 :: cgi.zdnet.com
 0.0.0.0 cgi1.entrypoint.com
@@ -25743,8 +25735,6 @@
 :: cs.exposedontape.com
 0.0.0.0 cs.iadsdk.apple.com
 :: cs.iadsdk.apple.com
-0.0.0.0 cs.luckyorange.net
-:: cs.luckyorange.net
 0.0.0.0 cs.montrealplus.ca
 :: cs.montrealplus.ca
 0.0.0.0 cs.nailrr.com
@@ -26289,6 +26279,8 @@
 :: d1054130-28095.cp.blacknight.com
 0.0.0.0 d10hxp21ljytsr.cloudfront.net
 :: d10hxp21ljytsr.cloudfront.net
+0.0.0.0 d10lpsik1i8c69.cloudfront.net
+:: d10lpsik1i8c69.cloudfront.net
 0.0.0.0 d10lumateci472.cloudfront.net
 :: d10lumateci472.cloudfront.net
 0.0.0.0 d10psrq44igbex.cloudfront.net
@@ -27437,6 +27429,8 @@
 :: d3t9nyds4ufoqz.cloudfront.net
 0.0.0.0 d3tdefw8pwfkbk.cloudfront.net
 :: d3tdefw8pwfkbk.cloudfront.net
+0.0.0.0 d3tglifpd8whs6.cloudfront.net
+:: d3tglifpd8whs6.cloudfront.net
 0.0.0.0 d3tivku5hdr7jk.cloudfront.net
 :: d3tivku5hdr7jk.cloudfront.net
 0.0.0.0 d3u5zn5k9864p0.cloudfront.net
@@ -27959,8 +27953,6 @@
 :: dbs.autolatest.ro
 0.0.0.0 dbtctep.gov.in
 :: dbtctep.gov.in
-0.0.0.0 dc-c76c38e89345.luckyorange.net
-:: dc-c76c38e89345.luckyorange.net
 0.0.0.0 dc-dce01ef0e534.hotbest-apps.com
 :: dc-dce01ef0e534.hotbest-apps.com
 0.0.0.0 dc.ads.linkedin.com
@@ -29407,6 +29399,8 @@
 :: donefe.000webhostapp.com
 0.0.0.0 dongguklee.wo.to
 :: dongguklee.wo.to
+0.0.0.0 dongjian.163.com
+:: dongjian.163.com
 0.0.0.0 donieyuhuu05.getenjoyment.net
 :: donieyuhuu05.getenjoyment.net
 0.0.0.0 donlopsmagazinidetriot.000webhostapp.com
@@ -30297,6 +30291,8 @@
 :: e.0wnz6g.cn
 0.0.0.0 e.131pu.cn
 :: e.131pu.cn
+0.0.0.0 e.163.com
+:: e.163.com
 0.0.0.0 e.16qijf.cn
 :: e.16qijf.cn
 0.0.0.0 e.17w3a.cn
@@ -30457,6 +30453,8 @@
 :: e.glaef.cn
 0.0.0.0 e.gnfpzc.cn
 :: e.gnfpzc.cn
+0.0.0.0 e.gomev.cn
+:: e.gomev.cn
 0.0.0.0 e.gtrve.cn
 :: e.gtrve.cn
 0.0.0.0 e.gtuoj.com
@@ -30609,6 +30607,8 @@
 :: e.thanksearch.com
 0.0.0.0 e.tiantianedu.net
 :: e.tiantianedu.net
+0.0.0.0 e.tingniubi.cn
+:: e.tingniubi.cn
 0.0.0.0 e.tspric.cn
 :: e.tspric.cn
 0.0.0.0 e.tuoaa.com
@@ -30629,6 +30629,8 @@
 :: e.vpeny.com
 0.0.0.0 e.vpmjg.cn
 :: e.vpmjg.cn
+0.0.0.0 e.vvme9.cn
+:: e.vvme9.cn
 0.0.0.0 e.w5xj9.cn
 :: e.w5xj9.cn
 0.0.0.0 e.w6o2c.cn
@@ -33433,6 +33435,8 @@
 :: fm.erp.appinsg.com
 0.0.0.0 fm.p0y.cn
 :: fm.p0y.cn
+0.0.0.0 fm163.163.com
+:: fm163.163.com
 0.0.0.0 fmads.osdn.com
 :: fmads.osdn.com
 0.0.0.0 fmg.aty.sohu.com
@@ -33529,8 +33533,6 @@
 :: forum.adult-torrent.com
 0.0.0.0 forum.animeallday.cba.pl
 :: forum.animeallday.cba.pl
-0.0.0.0 forum.auto.am
-:: forum.auto.am
 0.0.0.0 forum.dwnld.net.ua
 :: forum.dwnld.net.ua
 0.0.0.0 forum.like108.com
@@ -34615,8 +34617,6 @@
 :: geo.interia.pl
 0.0.0.0 geo.jetpackdigital.com
 :: geo.jetpackdigital.com
-0.0.0.0 geo.luckyorange.net
-:: geo.luckyorange.net
 0.0.0.0 geo.metronews.ca
 :: geo.metronews.ca
 0.0.0.0 geo.mozilla.org
@@ -34689,8 +34689,6 @@
 :: geoip.ifunny.co
 0.0.0.0 geoip.infra-team.com
 :: geoip.infra-team.com
-0.0.0.0 geoip.luckyorange.net
-:: geoip.luckyorange.net
 0.0.0.0 geoip.p24.hu
 :: geoip.p24.hu
 0.0.0.0 geoip.securitetotale.com
@@ -35031,6 +35029,8 @@
 :: global-metrics.experian.com
 0.0.0.0 global-promotions.internationalredirects.com
 :: global-promotions.internationalredirects.com
+0.0.0.0 global.163.com
+:: global.163.com
 0.0.0.0 global.americanexpress.com.harryhartmann.com.br
 :: global.americanexpress.com.harryhartmann.com.br
 0.0.0.0 global.ekmpinpoint.com
@@ -35891,6 +35891,8 @@
 :: hansrane.000webhostapp.com
 0.0.0.0 hanzele.wpdevcloud.com
 :: hanzele.wpdevcloud.com
+0.0.0.0 hao.163.com
+:: hao.163.com
 0.0.0.0 hao.315hyw.com
 :: hao.315hyw.com
 0.0.0.0 hao.360hyzj.com
@@ -37355,6 +37357,8 @@
 :: i-sn2-cor002.api.p001.1drv.com
 0.0.0.0 i-sn3p-cor001.api.p001.1drv.com
 :: i-sn3p-cor001.api.p001.1drv.com
+0.0.0.0 i.163.com
+:: i.163.com
 0.0.0.0 i.1cat.com
 :: i.1cat.com
 0.0.0.0 i.1o26.com
@@ -39713,6 +39717,8 @@
 :: j.biquge520.cc
 0.0.0.0 j.chaorenjiaoshi.com
 :: j.chaorenjiaoshi.com
+0.0.0.0 j.credit.wwz114.cn
+:: j.credit.wwz114.cn
 0.0.0.0 j.diangon.com
 :: j.diangon.com
 0.0.0.0 j.dipowang.cn
@@ -40391,6 +40397,8 @@
 :: js.lieqitianxia.cn
 0.0.0.0 js.livehelper.com
 :: js.livehelper.com
+0.0.0.0 js.lmggdka.cn
+:: js.lmggdka.cn
 0.0.0.0 js.mnkan.com
 :: js.mnkan.com
 0.0.0.0 js.mobojoy.baidu.com
@@ -40477,6 +40485,8 @@
 :: js1.xbaixing.com
 0.0.0.0 js11.clickzzs.nl
 :: js11.clickzzs.nl
+0.0.0.0 js2.battmd168a1.xyz
+:: js2.battmd168a1.xyz
 0.0.0.0 js2.battmd168a2.xyz
 :: js2.battmd168a2.xyz
 0.0.0.0 js2.keywordsconnect.com
@@ -40983,6 +40993,8 @@
 :: khaolak.alltimestube.com
 0.0.0.0 khav.rico.free.fr
 :: khav.rico.free.fr
+0.0.0.0 khg.xinrongblg.com
+:: khg.xinrongblg.com
 0.0.0.0 khmdurdmadrasha.edu.bd
 :: khmdurdmadrasha.edu.bd
 0.0.0.0 kiahs.edu.bd
@@ -41849,6 +41861,10 @@
 :: legal-recovery-check-acct.esy.es
 0.0.0.0 legalizacja.5v.pl
 :: legalizacja.5v.pl
+0.0.0.0 legalniewsieci.net.cn
+:: legalniewsieci.net.cn
+0.0.0.0 legalniewsieci.org.cn
+:: legalniewsieci.org.cn
 0.0.0.0 legend.ac.cn
 :: legend.ac.cn
 0.0.0.0 legionstudio.tora.ru
@@ -43571,6 +43587,8 @@
 :: m.bfhfhk.cn
 0.0.0.0 m.bgaix.com
 :: m.bgaix.com
+0.0.0.0 m.bgj113.cn
+:: m.bgj113.cn
 0.0.0.0 m.bgj582.cn
 :: m.bgj582.cn
 0.0.0.0 m.bgj673.cn
@@ -43721,6 +43739,8 @@
 :: m.fbaix.com
 0.0.0.0 m.fca305.cn
 :: m.fca305.cn
+0.0.0.0 m.fca553.cn
+:: m.fca553.cn
 0.0.0.0 m.feirs.com
 :: m.feirs.com
 0.0.0.0 m.fengwanwl.com
@@ -43749,6 +43769,8 @@
 :: m.fu64b.cn
 0.0.0.0 m.future888.net
 :: m.future888.net
+0.0.0.0 m.g1ao7q.cn
+:: m.g1ao7q.cn
 0.0.0.0 m.game.weibo.cn
 :: m.game.weibo.cn
 0.0.0.0 m.gameyun907.net
@@ -43777,6 +43799,8 @@
 :: m.glaef.cn
 0.0.0.0 m.gnfpzc.cn
 :: m.gnfpzc.cn
+0.0.0.0 m.gomev.cn
+:: m.gomev.cn
 0.0.0.0 m.gtuoj.com
 :: m.gtuoj.com
 0.0.0.0 m.guanren11.com
@@ -43835,6 +43859,8 @@
 :: m.hzuic.com
 0.0.0.0 m.i810c.cn
 :: m.i810c.cn
+0.0.0.0 m.ib345.cn
+:: m.ib345.cn
 0.0.0.0 m.iduob.com
 :: m.iduob.com
 0.0.0.0 m.ilancc.com
@@ -43903,6 +43929,8 @@
 :: m.laxienian888.com
 0.0.0.0 m.le78p.cn
 :: m.le78p.cn
+0.0.0.0 m.lengyamei.cn
+:: m.lengyamei.cn
 0.0.0.0 m.lf20pa.cn
 :: m.lf20pa.cn
 0.0.0.0 m.lisla.cn
@@ -44153,6 +44181,8 @@
 :: m.vpeny.com
 0.0.0.0 m.vpmjg.cn
 :: m.vpmjg.cn
+0.0.0.0 m.vvme9.cn
+:: m.vvme9.cn
 0.0.0.0 m.w6o2c.cn
 :: m.w6o2c.cn
 0.0.0.0 m.w720p.cn
@@ -44219,6 +44249,8 @@
 :: m.xsk5j.cn
 0.0.0.0 m.xsm98e.cn
 :: m.xsm98e.cn
+0.0.0.0 m.xuanlimin.top
+:: m.xuanlimin.top
 0.0.0.0 m.xvideos.fr
 :: m.xvideos.fr
 0.0.0.0 m.xyk.163.com
@@ -45059,8 +45091,6 @@
 :: mbi3.kuicr.kyoto-u.ac.jp
 0.0.0.0 mbiasi93.pe.hu
 :: mbiasi93.pe.hu
-0.0.0.0 mbid.advance.net
-:: mbid.advance.net
 0.0.0.0 mbiologi.fst.unair.ac.id
 :: mbiologi.fst.unair.ac.id
 0.0.0.0 mbiurorachunkowe.republika.pl
@@ -46815,6 +46845,8 @@
 :: mo5kx7liz2z7mtr8jdb4.littlematchagirl.com.au
 0.0.0.0 mob-uu.dev.webapp.163.com
 :: mob-uu.dev.webapp.163.com
+0.0.0.0 mob.kaipirinhaloka.xyz
+:: mob.kaipirinhaloka.xyz
 0.0.0.0 mob10.cqjktj.com
 :: mob10.cqjktj.com
 0.0.0.0 mob2-uu.dev.webapp.163.com
@@ -53371,6 +53403,18 @@
 :: pinchy.pf.triptease.io
 0.0.0.0 ping-dot-acp-magento.appspot.com
 :: ping-dot-acp-magento.appspot.com
+0.0.0.0 ping-external-origin-dev.jwpltx.com
+:: ping-external-origin-dev.jwpltx.com
+0.0.0.0 ping-external-origin-prd.jwpltx.com
+:: ping-external-origin-prd.jwpltx.com
+0.0.0.0 ping-external-origin-stg.jwpltx.com
+:: ping-external-origin-stg.jwpltx.com
+0.0.0.0 ping-meta-origin-dev.jwpltx.com
+:: ping-meta-origin-dev.jwpltx.com
+0.0.0.0 ping-meta-origin-prd.jwpltx.com
+:: ping-meta-origin-prd.jwpltx.com
+0.0.0.0 ping-meta-origin-stg.jwpltx.com
+:: ping-meta-origin-stg.jwpltx.com
 0.0.0.0 ping-origin-dev.jwpltx.com
 :: ping-origin-dev.jwpltx.com
 0.0.0.0 ping-origin-prd.jwpltx.com
@@ -53387,8 +53431,6 @@
 :: ping.dozuki.com
 0.0.0.0 ping.getadblock.com
 :: ping.getadblock.com
-0.0.0.0 ping.luckyorange.net
-:: ping.luckyorange.net
 0.0.0.0 ping.pinyin.sogou.com
 :: ping.pinyin.sogou.com
 0.0.0.0 ping.weiduofan.com
@@ -54197,8 +54239,6 @@
 :: png.lu.sogoucdn.com
 0.0.0.0 pnmgghschool.edu.bd
 :: pnmgghschool.edu.bd
-0.0.0.0 pntc.ac.th
-:: pntc.ac.th
 0.0.0.0 po.fyybox.com
 :: po.fyybox.com
 0.0.0.0 po.spynets.ru
@@ -54509,6 +54549,8 @@
 :: pp-ger-de.germanger-verifyanfrage.ru
 0.0.0.0 pp-secured.ssl.ssl-pp-secure.com
 :: pp-secured.ssl.ssl-pp-secure.com
+0.0.0.0 pp.163.com
+:: pp.163.com
 0.0.0.0 pp.free.fr
 :: pp.free.fr
 0.0.0.0 pp.nrelate.com
@@ -54669,6 +54711,8 @@
 :: prerol.tut.by
 0.0.0.0 prerollads.ign.com
 :: prerollads.ign.com
+0.0.0.0 pres.serverhome.com
+:: pres.serverhome.com
 0.0.0.0 prescription-drugs.easy-find.net
 :: prescription-drugs.easy-find.net
 0.0.0.0 prescription-drugs.shengen.ru
@@ -55327,6 +55371,8 @@
 :: pscore-beta.pixel.printsites.net
 0.0.0.0 psdev.zmags.com
 :: psdev.zmags.com
+0.0.0.0 psearch.163.com
+:: psearch.163.com
 0.0.0.0 psfq.gou.sogou.com
 :: psfq.gou.sogou.com
 0.0.0.0 psg.i.lithium.com
@@ -56095,6 +56141,8 @@
 :: qw2-we.cashixirbozdur.com
 0.0.0.0 qwapi.apple.com
 :: qwapi.apple.com
+0.0.0.0 qwe.jzpxyd.com
+:: qwe.jzpxyd.com
 0.0.0.0 qwe.severalblueone.ws
 :: qwe.severalblueone.ws
 0.0.0.0 qwe.severalgrayone.ws
@@ -56187,6 +56235,8 @@
 :: r.myadx.net
 0.0.0.0 r.offnews.bg
 :: r.offnews.bg
+0.0.0.0 r.phywi.org
+:: r.phywi.org
 0.0.0.0 r.pixgold.com
 :: r.pixgold.com
 0.0.0.0 r.radikal.ru
@@ -56645,8 +56695,6 @@
 :: realmedia-a592.d4p.net
 0.0.0.0 realmedia-a800.d4p.net
 :: realmedia-a800.d4p.net
-0.0.0.0 realmedia.advance.net
-:: realmedia.advance.net
 0.0.0.0 realmedia.channel4.com
 :: realmedia.channel4.com
 0.0.0.0 realmedia.europeexplorer.com
@@ -60927,8 +60975,6 @@
 :: settings-win.data.microsoft.com
 0.0.0.0 settings.data.glbdns2.microsoft.com
 :: settings.data.glbdns2.microsoft.com
-0.0.0.0 settings.luckyorange.net
-:: settings.luckyorange.net
 0.0.0.0 settingupdate.yourgoodflashupgradingmain.icu
 :: settingupdate.yourgoodflashupgradingmain.icu
 0.0.0.0 setupdate24.readyforucontent.review
@@ -61431,8 +61477,6 @@
 :: signinid-account.com-serviceusers-authenticationid.com
 0.0.0.0 signs-lifes.125mb.com
 :: signs-lifes.125mb.com
-0.0.0.0 signup.advance.net
-:: signup.advance.net
 0.0.0.0 siigkorp.pe.hu
 :: siigkorp.pe.hu
 0.0.0.0 siitess-evenntsclaimnotices.000webhostapp.com
@@ -62723,6 +62767,8 @@
 :: st.magnify.net
 0.0.0.0 st.mirror.co.uk
 :: st.mirror.co.uk
+0.0.0.0 st.music.163.com
+:: st.music.163.com
 0.0.0.0 st.pba.xl.pt
 :: st.pba.xl.pt
 0.0.0.0 st.penis-size.net
@@ -64631,6 +64677,8 @@
 :: survey.proactive.nl
 0.0.0.0 survey.watson.microsoft.com
 :: survey.watson.microsoft.com
+0.0.0.0 survey2.163.com
+:: survey2.163.com
 0.0.0.0 surveycentral.directinsure.info
 :: surveycentral.directinsure.info
 0.0.0.0 surveyclickon.000webhostapp.com
@@ -65571,8 +65619,6 @@
 :: tds60.bestdeals.at
 0.0.0.0 te.about.com
 :: te.about.com
-0.0.0.0 te.advance.net
-:: te.advance.net
 0.0.0.0 te.ap.org
 :: te.ap.org
 0.0.0.0 te.astrology.com
@@ -67713,6 +67759,8 @@
 :: tracker.twenga.pl
 0.0.0.0 tracker.uprinting.com
 :: tracker.uprinting.com
+0.0.0.0 tracker.vgame.us
+:: tracker.vgame.us
 0.0.0.0 tracker.vinsight.de
 :: tracker.vinsight.de
 0.0.0.0 tracker.webstyle.com
@@ -69883,8 +69931,6 @@
 :: upgradeserver.support-customer.ml
 0.0.0.0 upload.kipa.co.il
 :: upload.kipa.co.il
-0.0.0.0 upload.luckyorange.net
-:: upload.luckyorange.net
 0.0.0.0 uploads.tmweb.ru
 :: uploads.tmweb.ru
 0.0.0.0 uplze.code.weddingeeos.com
@@ -73033,8 +73079,6 @@
 :: wisti.adulte3g.com
 0.0.0.0 wit.zzn.com
 :: wit.zzn.com
-0.0.0.0 witchwyd.bestsilvercufflinks.com
-:: witchwyd.bestsilvercufflinks.com
 0.0.0.0 witting-destroyer.000webhostapp.com
 :: witting-destroyer.000webhostapp.com
 0.0.0.0 wixed.wix.com
@@ -73329,6 +73373,8 @@
 :: worldh5.gamehz.cn
 0.0.0.0 wormaldblog.com.au.product.lakesmotorcycleclub.com
 :: wormaldblog.com.au.product.lakesmotorcycleclub.com
+0.0.0.0 wotb.163.com
+:: wotb.163.com
 0.0.0.0 wow.games.info.com
 :: wow.games.info.com
 0.0.0.0 wow.laurita.biz
@@ -76047,8 +76093,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -76629,6 +76673,8 @@
 :: www.hostingcloud.trade
 0.0.0.0 www.hostingcloud.win
 :: www.hostingcloud.win
+0.0.0.0 www.hostpix.de
+:: www.hostpix.de
 0.0.0.0 www.hot-software.net
 :: www.hot-software.net
 0.0.0.0 www.hotcry.com
@@ -77377,6 +77423,10 @@
 :: www.leeringsmxcgbra.download
 0.0.0.0 www.legalizacja.5v.pl
 :: www.legalizacja.5v.pl
+0.0.0.0 www.legalniewsieci.net.cn
+:: www.legalniewsieci.net.cn
+0.0.0.0 www.legalniewsieci.org.cn
+:: www.legalniewsieci.org.cn
 0.0.0.0 www.legatoeweyxn.download
 :: www.legatoeweyxn.download
 0.0.0.0 www.legendsqevxiaxbh.download
@@ -77479,8 +77529,6 @@
 :: www.locgest.com
 0.0.0.0 www.lockview.cn
 :: www.lockview.cn
-0.0.0.0 www.log-in-verlag.de
-:: www.log-in-verlag.de
 0.0.0.0 www.log-management.loggly.com
 :: www.log-management.loggly.com
 0.0.0.0 www.log.getadblock.com
@@ -78083,8 +78131,6 @@
 :: www.nnnwwwe.com
 0.0.0.0 www.noadnetwork.com
 :: www.noadnetwork.com
-0.0.0.0 www.noc.luckyorange.net
-:: www.noc.luckyorange.net
 0.0.0.0 www.noema2k.it
 :: www.noema2k.it
 0.0.0.0 www.nordwest.tora.ru
@@ -79763,8 +79809,6 @@
 :: www.tigipro.pl
 0.0.0.0 www.timefor.com
 :: www.timefor.com
-0.0.0.0 www.timelessimagesmi.com
-:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tinayr.go.ro
@@ -81403,8 +81447,6 @@
 :: xls.czliangsheng.cn
 0.0.0.0 xls.go.sohu.com
 :: xls.go.sohu.com
-0.0.0.0 xls.ilovechenyuqian.xyz
-:: xls.ilovechenyuqian.xyz
 0.0.0.0 xls.suxun368.cc
 :: xls.suxun368.cc
 0.0.0.0 xls.yeschool.info
@@ -81651,6 +81693,8 @@
 :: xy3.163.com
 0.0.0.0 xy3.cbg.163.com
 :: xy3.cbg.163.com
+0.0.0.0 xym.163.com
+:: xym.163.com
 0.0.0.0 xyoizes.inboxread14.review
 :: xyoizes.inboxread14.review
 0.0.0.0 xyoss.g.com.cn
@@ -82113,6 +82157,8 @@
 :: yx1.managershare.com
 0.0.0.0 yxkgtyqmz.myfw.us
 :: yxkgtyqmz.myfw.us
+0.0.0.0 yxl.163.com
+:: yxl.163.com
 0.0.0.0 yxo.warmportrait.com
 :: yxo.warmportrait.com
 0.0.0.0 yxp.163.com
@@ -82149,6 +82195,8 @@
 :: yyscafe.163.com
 0.0.0.0 yysshop.163.com
 :: yysshop.163.com
+0.0.0.0 z.163.com
+:: z.163.com
 0.0.0.0 z.adcpm.com
 :: z.adcpm.com
 0.0.0.0 z.ceotrk.com
@@ -82505,8 +82553,6 @@
 :: zous.szm.sk
 0.0.0.0 zouwie.mlhif.com
 :: zouwie.mlhif.com
-0.0.0.0 zp.programme.tv
-:: zp.programme.tv
 0.0.0.0 zpe.klre.18183.com
 :: zpe.klre.18183.com
 0.0.0.0 zpvdk73697.i.lithium.com
