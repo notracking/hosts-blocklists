@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Aug 2 08:42:01 CEST 2019
+# Last update: Sat Aug 3 08:47:00 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41344
+# Number of unique hostnames: 41352
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -849,6 +849,8 @@
 :: 3c.163.com
 0.0.0.0 3dc265e90c6d9fa3cc0c-3f982316dc17e6e99fe1b47483239d63.r95.cf2.rackcdn.com
 :: 3dc265e90c6d9fa3cc0c-3f982316dc17e6e99fe1b47483239d63.r95.cf2.rackcdn.com
+0.0.0.0 3ddd1ee09cc242c4b169d36f5a2b8b77.apm.us-west1.gcp.cloud.es.io
+:: 3ddd1ee09cc242c4b169d36f5a2b8b77.apm.us-west1.gcp.cloud.es.io
 0.0.0.0 3g.163.com
 :: 3g.163.com
 0.0.0.0 3g.990.net
@@ -3347,6 +3349,8 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
+0.0.0.0 abusalewm.exceltoner.com
+:: abusalewm.exceltoner.com
 0.0.0.0 ac.86huoche.com
 :: ac.86huoche.com
 0.0.0.0 ac.ajur.info
@@ -15565,6 +15569,8 @@
 :: apkquery.ksmobile.net
 0.0.0.0 apm.suning.cn
 :: apm.suning.cn
+0.0.0.0 apm.us-west1.gcp.cloud.es.io
+:: apm.us-west1.gcp.cloud.es.io
 0.0.0.0 apns.ios.ijinshan.com
 :: apns.ios.ijinshan.com
 0.0.0.0 apode.simply-winspace.it
@@ -18651,8 +18657,6 @@
 :: bao.163.com
 0.0.0.0 baoxian.163.com
 :: baoxian.163.com
-0.0.0.0 bappeda.dharmasrayakab.go.id
-:: bappeda.dharmasrayakab.go.id
 0.0.0.0 bappeda.palangkaraya.go.id
 :: bappeda.palangkaraya.go.id
 0.0.0.0 bar.baidu.com
@@ -28619,6 +28623,8 @@
 :: device.zhiliaoapp.com
 0.0.0.0 deviceidshare.twitch.tv
 :: deviceidshare.twitch.tv
+0.0.0.0 deviceinfo.capitalone.com
+:: deviceinfo.capitalone.com
 0.0.0.0 devierdemuur.50webs.com
 :: devierdemuur.50webs.com
 0.0.0.0 devisprox-media.s3-website-eu-west-1.amazonaws.com
@@ -41425,8 +41431,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -54239,6 +54243,8 @@
 :: png.lu.sogoucdn.com
 0.0.0.0 pnmgghschool.edu.bd
 :: pnmgghschool.edu.bd
+0.0.0.0 pntc.ac.th
+:: pntc.ac.th
 0.0.0.0 po.fyybox.com
 :: po.fyybox.com
 0.0.0.0 po.spynets.ru
@@ -54523,6 +54529,8 @@
 :: potato.chottu.net
 0.0.0.0 potd.onlytease.com
 :: potd.onlytease.com
+0.0.0.0 potomac-clickstream.capitalone.com
+:: potomac-clickstream.capitalone.com
 0.0.0.0 pousadapontalparaty.tur.br
 :: pousadapontalparaty.tur.br
 0.0.0.0 poverty.tutoner.tk
@@ -62515,8 +62523,6 @@
 :: srepdata.usatoday.com
 0.0.0.0 srilaini1helprecoveryii.000webhostapp.com
 :: srilaini1helprecoveryii.000webhostapp.com
-0.0.0.0 srisaranankara.sch.lk
-:: srisaranankara.sch.lk
 0.0.0.0 srpze.saqibsiddiqui.com
 :: srpze.saqibsiddiqui.com
 0.0.0.0 srutebmduoh.myfw.us
@@ -74743,6 +74749,8 @@
 :: www.azetapiemonte.it
 0.0.0.0 www.azmsoft.com
 :: www.azmsoft.com
+0.0.0.0 www.azrodandclassic.com
+:: www.azrodandclassic.com
 0.0.0.0 www.b-und-w.de
 :: www.b-und-w.de
 0.0.0.0 www.backlinkcontent.com
@@ -75091,6 +75099,8 @@
 :: www.casinoxo.com
 0.0.0.0 www.catgallery.com
 :: www.catgallery.com
+0.0.0.0 www.caynannews.com
+:: www.caynannews.com
 0.0.0.0 www.cbpassiveincome.com
 :: www.cbpassiveincome.com
 0.0.0.0 www.cbproads.com
@@ -75401,8 +75411,6 @@
 :: www.crackserver.com
 0.0.0.0 www.crazywinnings.com
 :: www.crazywinnings.com
-0.0.0.0 www.creativ-art1.com
-:: www.creativ-art1.com
 0.0.0.0 www.creatorcommunity.zmags.com
 :: www.creatorcommunity.zmags.com
 0.0.0.0 www.credit-dreams.com
@@ -76093,6 +76101,8 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
+0.0.0.0 www.fishingtackleindia.com
+:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -77529,6 +77539,8 @@
 :: www.locgest.com
 0.0.0.0 www.lockview.cn
 :: www.lockview.cn
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.log-management.loggly.com
 :: www.log-management.loggly.com
 0.0.0.0 www.log.getadblock.com
@@ -79809,6 +79821,8 @@
 :: www.tigipro.pl
 0.0.0.0 www.timefor.com
 :: www.timefor.com
+0.0.0.0 www.timelessimagesmi.com
+:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tinayr.go.ro
@@ -80133,6 +80147,8 @@
 :: www.vaccgenocide.wordpress.com
 0.0.0.0 www.vakantiehuisjeameland.nl
 :: www.vakantiehuisjeameland.nl
+0.0.0.0 www.valerypro.com
+:: www.valerypro.com
 0.0.0.0 www.valhallarisingthemovie.co.uk
 :: www.valhallarisingthemovie.co.uk
 0.0.0.0 www.validatedsite.com
