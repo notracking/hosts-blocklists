@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Aug 3 08:47:00 CEST 2019
+# Last update: Sun Aug 4 08:41:03 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41352
+# Number of unique hostnames: 41357
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -37777,6 +37777,10 @@
 :: ieju.zgtwpscw.cn
 0.0.0.0 ieonline.microsoft.com
 :: ieonline.microsoft.com
+0.0.0.0 ieonlinews.microsoft.com
+:: ieonlinews.microsoft.com
+0.0.0.0 ieonlinews.trafficmanager.net
+:: ieonlinews.trafficmanager.net
 0.0.0.0 if.bbanner.it
 :: if.bbanner.it
 0.0.0.0 if.yyjsbz.cn
@@ -41431,6 +41435,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -62073,6 +62079,8 @@
 :: social.die-lehrstelle.ch
 0.0.0.0 social.msgplus.net
 :: social.msgplus.net
+0.0.0.0 socialbump.hekko24.pl
+:: socialbump.hekko24.pl
 0.0.0.0 socialize.eu1.gigya.com
 :: socialize.eu1.gigya.com
 0.0.0.0 socialize.gigya.com
@@ -79333,6 +79341,8 @@
 :: www.snvl-ptrc.go.ro
 0.0.0.0 www.snyowx29.com
 :: www.snyowx29.com
+0.0.0.0 www.socialbump.hekko24.pl
+:: www.socialbump.hekko24.pl
 0.0.0.0 www.sociallypublish.com
 :: www.sociallypublish.com
 0.0.0.0 www.socialmediaplanner.com.au
