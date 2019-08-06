@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Aug 5 08:44:10 CEST 2019
+# Last update: Tue Aug 6 08:47:35 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41350
+# Number of unique hostnames: 41360
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3349,8 +3349,6 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
-0.0.0.0 abusalewm.exceltoner.com
-:: abusalewm.exceltoner.com
 0.0.0.0 ac.86huoche.com
 :: ac.86huoche.com
 0.0.0.0 ac.ajur.info
@@ -21151,6 +21149,8 @@
 :: ca.banmamedia.com
 0.0.0.0 ca.clickinc.com
 :: ca.clickinc.com
+0.0.0.0 ca.cydp5.com
+:: ca.cydp5.com
 0.0.0.0 ca.fp.sandpiper.net
 :: ca.fp.sandpiper.net
 0.0.0.0 ca.fp.sandpiper.nl
@@ -31129,8 +31129,6 @@
 :: ejhxb44622.i.lithium.com
 0.0.0.0 ejpjpxozcgutiht5ew7c.maherstcottage.com.au
 :: ejpjpxozcgutiht5ew7c.maherstcottage.com.au
-0.0.0.0 ejquo23388.i.lithium.com
-:: ejquo23388.i.lithium.com
 0.0.0.0 ejquo23388.lithium.com
 :: ejquo23388.lithium.com
 0.0.0.0 ejzr.golden1.sogou.com
@@ -32281,6 +32279,8 @@
 :: facbook-market-placeitem10937333.000webhostapp.com
 0.0.0.0 faccb00kname.000webhostapp.com
 :: faccb00kname.000webhostapp.com
+0.0.0.0 faccebook.5v.pl
+:: faccebook.5v.pl
 0.0.0.0 faccesbok.000webhostapp.com
 :: faccesbok.000webhostapp.com
 0.0.0.0 face--viewer.blogspot.com
@@ -32303,6 +32303,8 @@
 :: faceb00k0a1b2c3d-0006.000webhostapp.com
 0.0.0.0 facebbokkkkk.000webhostapp.com
 :: facebbokkkkk.000webhostapp.com
+0.0.0.0 facebbook.5v.pl
+:: facebbook.5v.pl
 0.0.0.0 facebok.paikesn.com
 :: facebok.paikesn.com
 0.0.0.0 facebokznajomi.blogspot.com
@@ -32313,12 +32315,18 @@
 :: facebook-color.5v.pl
 0.0.0.0 facebook-com506.webnode.com
 :: facebook-com506.webnode.com
+0.0.0.0 facebook-login.5v.pl
+:: facebook-login.5v.pl
 0.0.0.0 facebook-page1048534.site88.net
 :: facebook-page1048534.site88.net
+0.0.0.0 facebook-profile.5v.pl
+:: facebook-profile.5v.pl
 0.0.0.0 facebook-proxy.hi5.com
 :: facebook-proxy.hi5.com
 0.0.0.0 facebook-repto1040s2.ahlamountada.com
 :: facebook-repto1040s2.ahlamountada.com
+0.0.0.0 facebook.5v.pl
+:: facebook.5v.pl
 0.0.0.0 facebook.activation.inactive-scure.com
 :: facebook.activation.inactive-scure.com
 0.0.0.0 facebook.ali-office.com
@@ -32403,6 +32411,8 @@
 :: facebook1749.webnode.com
 0.0.0.0 facebook1996.webcindario.com
 :: facebook1996.webcindario.com
+0.0.0.0 facebook547341.5v.pl
+:: facebook547341.5v.pl
 0.0.0.0 facebookaplikacje.blogspot.com
 :: facebookaplikacje.blogspot.com
 0.0.0.0 facebookcolors24.blogspot.com
@@ -33535,6 +33545,8 @@
 :: forum.adult-torrent.com
 0.0.0.0 forum.animeallday.cba.pl
 :: forum.animeallday.cba.pl
+0.0.0.0 forum.auto.am
+:: forum.auto.am
 0.0.0.0 forum.dwnld.net.ua
 :: forum.dwnld.net.ua
 0.0.0.0 forum.like108.com
@@ -41431,6 +41443,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -41865,10 +41879,6 @@
 :: legal-recovery-check-acct.esy.es
 0.0.0.0 legalizacja.5v.pl
 :: legalizacja.5v.pl
-0.0.0.0 legalniewsieci.net.cn
-:: legalniewsieci.net.cn
-0.0.0.0 legalniewsieci.org.cn
-:: legalniewsieci.org.cn
 0.0.0.0 legend.ac.cn
 :: legend.ac.cn
 0.0.0.0 legionstudio.tora.ru
@@ -46663,8 +46673,6 @@
 :: mirror10.msgpluslive.net
 0.0.0.0 mirror3.filefacts.com
 :: mirror3.filefacts.com
-0.0.0.0 mirrors.163.com
-:: mirrors.163.com
 0.0.0.0 mirrors.site50.net
 :: mirrors.site50.net
 0.0.0.0 mis.em.nscontext.eu
@@ -48501,6 +48509,8 @@
 :: nfm.optdiv.net
 0.0.0.0 nfs.visits.lt
 :: nfs.visits.lt
+0.0.0.0 ng-vn-notice.gameitop.com
+:: ng-vn-notice.gameitop.com
 0.0.0.0 ng.mybc.com
 :: ng.mybc.com
 0.0.0.0 ng.sympatico.ca
@@ -60633,6 +60643,8 @@
 :: sentrix.wltechnology.com
 0.0.0.0 sentry-web-lb-160711358.us-east-1.elb.amazonaws.com
 :: sentry-web-lb-160711358.us-east-1.elb.amazonaws.com
+0.0.0.0 sentry.dev.geekbot.io
+:: sentry.dev.geekbot.io
 0.0.0.0 sentry.gitlab.net
 :: sentry.gitlab.net
 0.0.0.0 sentry.postmanlabs.com
@@ -62871,8 +62883,6 @@
 :: stan1.adultmoviezone.com
 0.0.0.0 stantonchasedrive.com.ref2343432.merciotanglos.com
 :: stantonchasedrive.com.ref2343432.merciotanglos.com
-0.0.0.0 star.c10r.facebook.com
-:: star.c10r.facebook.com
 0.0.0.0 star.ct8.pl
 :: star.ct8.pl
 0.0.0.0 star.manystars.ru
@@ -65125,8 +65135,6 @@
 :: t.ktxtr.com
 0.0.0.0 t.l.qq.com
 :: t.l.qq.com
-0.0.0.0 t.leady.com
-:: t.leady.com
 0.0.0.0 t.locpub.com
 :: t.locpub.com
 0.0.0.0 t.macadlinkingnow.com
@@ -71089,6 +71097,8 @@
 :: vilaghelyzete.blogspot.com
 0.0.0.0 vilagpolgarok.blogspot.hu
 :: vilagpolgarok.blogspot.hu
+0.0.0.0 vilamax.home.pl
+:: vilamax.home.pl
 0.0.0.0 vimages.videoprofessor.com
 :: vimages.videoprofessor.com
 0.0.0.0 vimg.dwstatic.com
@@ -73085,6 +73095,8 @@
 :: wisti.adulte3g.com
 0.0.0.0 wit.zzn.com
 :: wit.zzn.com
+0.0.0.0 witchwyd.bestsilvercufflinks.com
+:: witchwyd.bestsilvercufflinks.com
 0.0.0.0 witting-destroyer.000webhostapp.com
 :: witting-destroyer.000webhostapp.com
 0.0.0.0 wixed.wix.com
@@ -73419,6 +73431,8 @@
 :: wpkcuewcemh.fgppchg.fgpp.com
 0.0.0.0 wpkoszyk.wp.pl
 :: wpkoszyk.wp.pl
+0.0.0.0 wplogin.5v.pl
+:: wplogin.5v.pl
 0.0.0.0 wpm.neustar.biz
 :: wpm.neustar.biz
 0.0.0.0 wpt-c-dev.zmags.com
@@ -75411,6 +75425,8 @@
 :: www.crackserver.com
 0.0.0.0 www.crazywinnings.com
 :: www.crazywinnings.com
+0.0.0.0 www.creativ-art1.com
+:: www.creativ-art1.com
 0.0.0.0 www.creatorcommunity.zmags.com
 :: www.creatorcommunity.zmags.com
 0.0.0.0 www.credit-dreams.com
@@ -75929,20 +75945,32 @@
 :: www.fabriziolovino.com
 0.0.0.0 www.fabriziorossi.it
 :: www.fabriziorossi.it
+0.0.0.0 www.faccebook.5v.pl
+:: www.faccebook.5v.pl
 0.0.0.0 www.face--viewer.blogspot.com
 :: www.face--viewer.blogspot.com
 0.0.0.0 www.face-vip.ujm.pl
 :: www.face-vip.ujm.pl
 0.0.0.0 www.face2trade.com
 :: www.face2trade.com
+0.0.0.0 www.facebbook.5v.pl
+:: www.facebbook.5v.pl
 0.0.0.0 www.facebok.com.ba
 :: www.facebok.com.ba
 0.0.0.0 www.facebokznajomi.blogspot.com
 :: www.facebokznajomi.blogspot.com
 0.0.0.0 www.facebook-color.5v.pl
 :: www.facebook-color.5v.pl
+0.0.0.0 www.facebook-login.5v.pl
+:: www.facebook-login.5v.pl
+0.0.0.0 www.facebook-profile.5v.pl
+:: www.facebook-profile.5v.pl
+0.0.0.0 www.facebook.5v.pl
+:: www.facebook.5v.pl
 0.0.0.0 www.facebook.realtorarcf.com
 :: www.facebook.realtorarcf.com
+0.0.0.0 www.facebook547341.5v.pl
+:: www.facebook547341.5v.pl
 0.0.0.0 www.facebookaplikacje.blogspot.com
 :: www.facebookaplikacje.blogspot.com
 0.0.0.0 www.facebookcolors24.blogspot.com
@@ -76101,6 +76129,8 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
+0.0.0.0 www.fishingtackleindia.com
+:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -76619,8 +76649,6 @@
 :: www.hobwelt.com
 0.0.0.0 www.hollistersklep.com
 :: www.hollistersklep.com
-0.0.0.0 www.hollisterskleponline.pl
-:: www.hollisterskleponline.pl
 0.0.0.0 www.holzrueckewagen.de
 :: www.holzrueckewagen.de
 0.0.0.0 www.home.ro
@@ -76911,8 +76939,6 @@
 :: www.intellisuggest.com
 0.0.0.0 www.interactivebrands.com
 :: www.interactivebrands.com
-0.0.0.0 www.international-free-bank.com
-:: www.international-free-bank.com
 0.0.0.0 www.internetmedia.com.au
 :: www.internetmedia.com.au
 0.0.0.0 www.internetworks.org
@@ -77427,10 +77453,6 @@
 :: www.leeringsmxcgbra.download
 0.0.0.0 www.legalizacja.5v.pl
 :: www.legalizacja.5v.pl
-0.0.0.0 www.legalniewsieci.net.cn
-:: www.legalniewsieci.net.cn
-0.0.0.0 www.legalniewsieci.org.cn
-:: www.legalniewsieci.org.cn
 0.0.0.0 www.legatoeweyxn.download
 :: www.legatoeweyxn.download
 0.0.0.0 www.legendsqevxiaxbh.download
@@ -77873,8 +77895,6 @@
 :: www.mobilejmp.com
 0.0.0.0 www.mobilelandings.com
 :: www.mobilelandings.com
-0.0.0.0 www.mobiluj.eu
-:: www.mobiluj.eu
 0.0.0.0 www.mobiluj.sk
 :: www.mobiluj.sk
 0.0.0.0 www.mobisex.pieprz.pl
@@ -79817,8 +79837,6 @@
 :: www.tigipro.pl
 0.0.0.0 www.timefor.com
 :: www.timefor.com
-0.0.0.0 www.timelessimagesmi.com
-:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tinayr.go.ro
@@ -80473,6 +80491,8 @@
 :: www.wowjs.1www.cn
 0.0.0.0 www.wpcdn1.herokuapp.com
 :: www.wpcdn1.herokuapp.com
+0.0.0.0 www.wplogin.5v.pl
+:: www.wplogin.5v.pl
 0.0.0.0 www.wrestlingexposed.com
 :: www.wrestlingexposed.com
 0.0.0.0 www.wshufa.com
