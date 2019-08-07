@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Aug 6 08:47:35 CEST 2019
+# Last update: Wed Aug 7 08:44:20 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41360
+# Number of unique hostnames: 41367
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3349,6 +3349,8 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
+0.0.0.0 abusalewm.exceltoner.com
+:: abusalewm.exceltoner.com
 0.0.0.0 ac.86huoche.com
 :: ac.86huoche.com
 0.0.0.0 ac.ajur.info
@@ -15125,6 +15127,8 @@
 :: api-game.meizu.com
 0.0.0.0 api-gdpr.voodoo-tech.io
 :: api-gdpr.voodoo-tech.io
+0.0.0.0 api-gw.spot.im
+:: api-gw.spot.im
 0.0.0.0 api-lb.vungle.akadns.net
 :: api-lb.vungle.akadns.net
 0.0.0.0 api-logger.curejoy.com
@@ -17407,6 +17411,8 @@
 :: babs.tv2.dk
 0.0.0.0 babsy.foreverhorny.com
 :: babsy.foreverhorny.com
+0.0.0.0 babugonjhighschool.edu.bd
+:: babugonjhighschool.edu.bd
 0.0.0.0 baby.163.com
 :: baby.163.com
 0.0.0.0 baby.dorki.info
@@ -19227,10 +19233,20 @@
 :: beacons.brandads.net
 0.0.0.0 beacons.extremereach.io
 :: beacons.extremereach.io
+0.0.0.0 beacons.gvt2.com
+:: beacons.gvt2.com
 0.0.0.0 beacons.helium.com
 :: beacons.helium.com
 0.0.0.0 beacons.hottraffic.nl
 :: beacons.hottraffic.nl
+0.0.0.0 beacons2.gvt2.com
+:: beacons2.gvt2.com
+0.0.0.0 beacons3.gvt2.com
+:: beacons3.gvt2.com
+0.0.0.0 beacons4.gvt2.com
+:: beacons4.gvt2.com
+0.0.0.0 beacons5.gvt2.com
+:: beacons5.gvt2.com
 0.0.0.0 beads.sx.atl.publicus.com
 :: beads.sx.atl.publicus.com
 0.0.0.0 beam.koddi.com
@@ -19529,6 +19545,8 @@
 :: biskot88.000webhostapp.com
 0.0.0.0 bismetrics.experian.com
 :: bismetrics.experian.com
+0.0.0.0 bist.ac.bd
+:: bist.ac.bd
 0.0.0.0 bist.ailsg.com
 :: bist.ailsg.com
 0.0.0.0 bit.ehow.com
@@ -24847,8 +24865,6 @@
 :: conv.youdao.com
 0.0.0.0 conversation-read.spot.im
 :: conversation-read.spot.im
-0.0.0.0 converse.tm-awx.com
-:: converse.tm-awx.com
 0.0.0.0 conversion.adpro.cn
 :: conversion.adpro.cn
 0.0.0.0 convert.reachforce.com
@@ -25643,8 +25659,6 @@
 :: creditmutuel.fr-87.draytongossip.com
 0.0.0.0 creditsoffer.blogspot.com
 :: creditsoffer.blogspot.com
-0.0.0.0 creighton.wenerdhard.com
-:: creighton.wenerdhard.com
 0.0.0.0 creme21new.web-previews.de
 :: creme21new.web-previews.de
 0.0.0.0 crewclothing.ingest.reporting.creator-prod.zmags.com
@@ -30567,8 +30581,6 @@
 :: e.puooi.com
 0.0.0.0 e.q047i.cn
 :: e.q047i.cn
-0.0.0.0 e.q671e.cn
-:: e.q671e.cn
 0.0.0.0 e.qiaoyuwang.com
 :: e.qiaoyuwang.com
 0.0.0.0 e.qiyunmuye.com
@@ -31529,6 +31541,8 @@
 :: erimus.org.au
 0.0.0.0 eritrean111.prohosts.org
 :: eritrean111.prohosts.org
+0.0.0.0 ermao.sikabeila.com
+:: ermao.sikabeila.com
 0.0.0.0 ermt.ikidane.com
 :: ermt.ikidane.com
 0.0.0.0 ernestpapi.free.fr
@@ -32411,8 +32425,6 @@
 :: facebook1749.webnode.com
 0.0.0.0 facebook1996.webcindario.com
 :: facebook1996.webcindario.com
-0.0.0.0 facebook547341.5v.pl
-:: facebook547341.5v.pl
 0.0.0.0 facebookaplikacje.blogspot.com
 :: facebookaplikacje.blogspot.com
 0.0.0.0 facebookcolors24.blogspot.com
@@ -32875,8 +32887,6 @@
 :: felanco.heliohost.org
 0.0.0.0 felitb.rightinthebox.com
 :: felitb.rightinthebox.com
-0.0.0.0 felix.data.tm-awx.com
-:: felix.data.tm-awx.com
 0.0.0.0 feltsz.mystagingwebsite.com
 :: feltsz.mystagingwebsite.com
 0.0.0.0 feminist.org.ua
@@ -41443,8 +41453,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -44059,8 +44067,6 @@
 :: m.puooi.com
 0.0.0.0 m.q047i.cn
 :: m.q047i.cn
-0.0.0.0 m.q671e.cn
-:: m.q671e.cn
 0.0.0.0 m.qbenu.com
 :: m.qbenu.com
 0.0.0.0 m.qcw.com
@@ -44433,8 +44439,6 @@
 :: ma85-r-analytics.akamaized.net
 0.0.0.0 maawikdimuaro.000webhostapp.com
 :: maawikdimuaro.000webhostapp.com
-0.0.0.0 mab.data.tm-awx.com
-:: mab.data.tm-awx.com
 0.0.0.0 mabanques.bnpparibas.simplifiez-vous.net
 :: mabanques.bnpparibas.simplifiez-vous.net
 0.0.0.0 mac-os.apple.com-secured.online
@@ -45733,6 +45737,8 @@
 :: metrics-cbslocal-com.cdn.ampproject.org
 0.0.0.0 metrics-collector-1584522448.us-east-1.elb.amazonaws.com
 :: metrics-collector-1584522448.us-east-1.elb.amazonaws.com
+0.0.0.0 metrics-logger.spot.im
+:: metrics-logger.spot.im
 0.0.0.0 metrics.aarp.org
 :: metrics.aarp.org
 0.0.0.0 metrics.accuweather.com
@@ -53429,6 +53435,8 @@
 :: ping-meta-origin-prd.jwpltx.com
 0.0.0.0 ping-meta-origin-stg.jwpltx.com
 :: ping-meta-origin-stg.jwpltx.com
+0.0.0.0 ping-meta-prd.jwpltx.com
+:: ping-meta-prd.jwpltx.com
 0.0.0.0 ping-origin-dev.jwpltx.com
 :: ping-origin-dev.jwpltx.com
 0.0.0.0 ping-origin-prd.jwpltx.com
@@ -59257,6 +59265,8 @@
 :: sc33829824ca1.cobrowse.oraclecloud.com
 0.0.0.0 sc34689312ca1.cobrowse.oraclecloud.com
 :: sc34689312ca1.cobrowse.oraclecloud.com
+0.0.0.0 sc36259691nz9.cobrowse.oraclecloud.com
+:: sc36259691nz9.cobrowse.oraclecloud.com
 0.0.0.0 sc37472267hms1.cobrowse.oraclecloud.com
 :: sc37472267hms1.cobrowse.oraclecloud.com
 0.0.0.0 sc40562060us1.cobrowse.oraclecloud.com
@@ -62861,6 +62871,8 @@
 :: staging.beta.ads.superawesome.tv
 0.0.0.0 staging.beta.dashboard.superawesome.tv
 :: staging.beta.dashboard.superawesome.tv
+0.0.0.0 staging.convertkit.com
+:: staging.convertkit.com
 0.0.0.0 staging.dashboard.superawesome.tv
 :: staging.dashboard.superawesome.tv
 0.0.0.0 staging.elemental-id.com
@@ -69035,6 +69047,8 @@
 :: ubermensch.altervista.org
 0.0.0.0 ubike.tourstogo.us
 :: ubike.tourstogo.us
+0.0.0.0 ublic.cobrowse.oraclecloud.com
+:: ublic.cobrowse.oraclecloud.com
 0.0.0.0 ubm.fangtoo.com
 :: ubm.fangtoo.com
 0.0.0.0 ubmcmm.baidustatic.com
@@ -69263,8 +69277,6 @@
 :: uniib84584.i.lithium.com
 0.0.0.0 unilog.wostore.cn
 :: unilog.wostore.cn
-0.0.0.0 unimet.tmhandel.com
-:: unimet.tmhandel.com
 0.0.0.0 unins.5b55.com
 :: unins.5b55.com
 0.0.0.0 union.56.com
@@ -73475,6 +73487,8 @@
 :: ws.amazon.com
 0.0.0.0 ws.ksmobile.net
 :: ws.ksmobile.net
+0.0.0.0 ws.osenilo.com
+:: ws.osenilo.com
 0.0.0.0 ws.reachforce.com
 :: ws.reachforce.com
 0.0.0.0 ws.sj.qq.com
@@ -75969,8 +75983,6 @@
 :: www.facebook.5v.pl
 0.0.0.0 www.facebook.realtorarcf.com
 :: www.facebook.realtorarcf.com
-0.0.0.0 www.facebook547341.5v.pl
-:: www.facebook547341.5v.pl
 0.0.0.0 www.facebookaplikacje.blogspot.com
 :: www.facebookaplikacje.blogspot.com
 0.0.0.0 www.facebookcolors24.blogspot.com
@@ -76129,8 +76141,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -76193,6 +76203,8 @@
 :: www.formacionprofesional.webuda.com
 0.0.0.0 www.forum.ithealth.ru
 :: www.forum.ithealth.ru
+0.0.0.0 www.foto-aeree.it
+:: www.foto-aeree.it
 0.0.0.0 www.fotoidea.com
 :: www.fotoidea.com
 0.0.0.0 www.fotolajt.pl
@@ -76487,6 +76499,8 @@
 :: www.grupadsa.pl
 0.0.0.0 www.gryjava.gsm.pl
 :: www.gryjava.gsm.pl
+0.0.0.0 www.gs.wixapps.net
+:: www.gs.wixapps.net
 0.0.0.0 www.gsprzemkow.neostrada.pl
 :: www.gsprzemkow.neostrada.pl
 0.0.0.0 www.gt4ec.net
@@ -79837,6 +79851,8 @@
 :: www.tigipro.pl
 0.0.0.0 www.timefor.com
 :: www.timefor.com
+0.0.0.0 www.timelessimagesmi.com
+:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tinayr.go.ro
@@ -82615,8 +82631,6 @@
 :: zsn5qtrgfpu4tmpg.onion.gq
 0.0.0.0 zsn5qtrgfpu4tmpg.onion.lt
 :: zsn5qtrgfpu4tmpg.onion.lt
-0.0.0.0 zsn5qtrgfpu4tmpg.tor2web.fi
-:: zsn5qtrgfpu4tmpg.tor2web.fi
 0.0.0.0 zsn5qtrgfpu4tmpg.tor2web.org
 :: zsn5qtrgfpu4tmpg.tor2web.org
 0.0.0.0 zsnbystre.republika.pl
