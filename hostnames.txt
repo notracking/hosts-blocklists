@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Aug 7 08:44:20 CEST 2019
+# Last update: Thu Aug 8 08:42:11 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41367
+# Number of unique hostnames: 41386
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -13737,6 +13737,8 @@
 :: ajpeq25582.i.lithium.com
 0.0.0.0 ajpeq25582.lithium.com
 :: ajpeq25582.lithium.com
+0.0.0.0 ak-ads-mds.glomex.com
+:: ak-ads-mds.glomex.com
 0.0.0.0 ak-dynamic-cdn.spot.im
 :: ak-dynamic-cdn.spot.im
 0.0.0.0 ak-events-collector.spot.im
@@ -15059,6 +15061,14 @@
 :: aoooccc.lizhuizhui.cn
 0.0.0.0 aouthusr.890m.com
 :: aouthusr.890m.com
+0.0.0.0 ap-northeast-1.target.aws.amazon.com
+:: ap-northeast-1.target.aws.amazon.com
+0.0.0.0 ap-northeast-2.target.aws.amazon.com
+:: ap-northeast-2.target.aws.amazon.com
+0.0.0.0 ap-south-1.target.aws.amazon.com
+:: ap-south-1.target.aws.amazon.com
+0.0.0.0 ap-southeast-1.target.aws.amazon.com
+:: ap-southeast-1.target.aws.amazon.com
 0.0.0.0 ap-southeast-2-capture.lift.acquia.com
 :: ap-southeast-2-capture.lift.acquia.com
 0.0.0.0 ap-southeast-2-decisionapi.lift.acquia.com
@@ -15071,6 +15081,8 @@
 :: ap-southeast-2-production-tc.lift.acquia.com
 0.0.0.0 ap-southeast-2-widget.lift.acquia.com
 :: ap-southeast-2-widget.lift.acquia.com
+0.0.0.0 ap-southeast-2.target.aws.amazon.com
+:: ap-southeast-2.target.aws.amazon.com
 0.0.0.0 ap.delfi.ee
 :: ap.delfi.ee
 0.0.0.0 ap.ksrong.com
@@ -21157,6 +21169,8 @@
 :: c829aeaf4090c1289783-9ad4110c8011547ec25e241b917b5aab.r35.cf2.rackcdn.com
 0.0.0.0 c8hfxkywb7.ignition3.tv
 :: c8hfxkywb7.ignition3.tv
+0.0.0.0 ca-central-1.target.aws.amazon.com
+:: ca-central-1.target.aws.amazon.com
 0.0.0.0 ca-sas-bahiapromocoesjuninas.esy.es
 :: ca-sas-bahiapromocoesjuninas.esy.es
 0.0.0.0 ca.5173car.com
@@ -25659,6 +25673,8 @@
 :: creditmutuel.fr-87.draytongossip.com
 0.0.0.0 creditsoffer.blogspot.com
 :: creditsoffer.blogspot.com
+0.0.0.0 creighton.wenerdhard.com
+:: creighton.wenerdhard.com
 0.0.0.0 creme21new.web-previews.de
 :: creme21new.web-previews.de
 0.0.0.0 crewclothing.ingest.reporting.creator-prod.zmags.com
@@ -31793,6 +31809,8 @@
 :: eu-central-1-widget.lift.acquia.com
 0.0.0.0 eu-central-1.lift.acquia.com
 :: eu-central-1.lift.acquia.com
+0.0.0.0 eu-central-1.target.aws.amazon.com
+:: eu-central-1.target.aws.amazon.com
 0.0.0.0 eu-ma.sam4m.com
 :: eu-ma.sam4m.com
 0.0.0.0 eu-v10.events.data.microsoft.com
@@ -31801,6 +31819,12 @@
 :: eu-v20.events.data.microsoft.com
 0.0.0.0 eu-west-1-ads.staging.superawesome.tv
 :: eu-west-1-ads.staging.superawesome.tv
+0.0.0.0 eu-west-1.target.aws.amazon.com
+:: eu-west-1.target.aws.amazon.com
+0.0.0.0 eu-west-2.target.aws.amazon.com
+:: eu-west-2.target.aws.amazon.com
+0.0.0.0 eu-west-3.target.aws.amazon.com
+:: eu-west-3.target.aws.amazon.com
 0.0.0.0 eu.link.decideinteractive.com
 :: eu.link.decideinteractive.com
 0.0.0.0 eu.nimpool.io
@@ -45449,6 +45473,8 @@
 :: mediamgr.ugo.com
 0.0.0.0 mediaplanet.azureedge.net
 :: mediaplanet.azureedge.net
+0.0.0.0 mediartvagd.in.net
+:: mediartvagd.in.net
 0.0.0.0 medias.voyages-sncf.com
 :: medias.voyages-sncf.com
 0.0.0.0 mediaserver.bwinpartypartners.com
@@ -50265,8 +50291,6 @@
 :: omnituretrack.local.com
 0.0.0.0 omns.americanexpress.com
 :: omns.americanexpress.com
-0.0.0.0 omonkhegbele.wenerdhard.com
-:: omonkhegbele.wenerdhard.com
 0.0.0.0 ompam01123.lithium.com
 :: ompam01123.lithium.com
 0.0.0.0 omrolsztyn.neostrada.pl
@@ -53985,6 +54009,8 @@
 :: play6932.fuckingmonday113.agency
 0.0.0.0 playe.vidto.se
 :: playe.vidto.se
+0.0.0.0 player-feedback-v1.prod.ds.glomex.cloud
+:: player-feedback-v1.prod.ds.glomex.cloud
 0.0.0.0 player.glomex.com
 :: player.glomex.com
 0.0.0.0 player.h-cdn.com
@@ -54737,8 +54763,6 @@
 :: prerol.tut.by
 0.0.0.0 prerollads.ign.com
 :: prerollads.ign.com
-0.0.0.0 pres.serverhome.com
-:: pres.serverhome.com
 0.0.0.0 prescription-drugs.easy-find.net
 :: prescription-drugs.easy-find.net
 0.0.0.0 prescription-drugs.shengen.ru
@@ -58517,6 +58541,8 @@
 :: s98405.gridserver.com
 0.0.0.0 s98899i3.beget.tech
 :: s98899i3.beget.tech
+0.0.0.0 sa-east-1.target.aws.amazon.com
+:: sa-east-1.target.aws.amazon.com
 0.0.0.0 sa-receiver.sematext.com
 :: sa-receiver.sematext.com
 0.0.0.0 sa.bbc.co.uk
@@ -62053,6 +62079,8 @@
 :: sneckershatch.5gbfree.com
 0.0.0.0 snetwork.web.fc2.com
 :: snetwork.web.fc2.com
+0.0.0.0 snews.serverhome.com
+:: snews.serverhome.com
 0.0.0.0 sngbeizsuselnp2mbwyj.alfacomercial.com.br
 :: sngbeizsuselnp2mbwyj.alfacomercial.com.br
 0.0.0.0 sngmta.qq.com
@@ -65473,6 +65501,8 @@
 :: taptx6.lol.airporttaxipershore.co.uk
 0.0.0.0 tarantula.together.net
 :: tarantula.together.net
+0.0.0.0 target.aws.amazon.com
+:: target.aws.amazon.com
 0.0.0.0 target.e-generator.com
 :: target.e-generator.com
 0.0.0.0 target.mail.ru
@@ -70051,6 +70081,10 @@
 :: us-east-1.dc.ads.linkedin.com
 0.0.0.0 us-east-1.profile-api.ads.linkedin.com
 :: us-east-1.profile-api.ads.linkedin.com
+0.0.0.0 us-east-1.target.aws.amazon.com
+:: us-east-1.target.aws.amazon.com
+0.0.0.0 us-east-2.target.aws.amazon.com
+:: us-east-2.target.aws.amazon.com
 0.0.0.0 us-eu.brightcove.map.fastly.net
 :: us-eu.brightcove.map.fastly.net
 0.0.0.0 us-nj-e10.traffictradinghub.com
@@ -70065,6 +70099,10 @@
 :: us-v10.events.data.microsoft.com
 0.0.0.0 us-v20.events.data.microsoft.com
 :: us-v20.events.data.microsoft.com
+0.0.0.0 us-west-1.target.aws.amazon.com
+:: us-west-1.target.aws.amazon.com
+0.0.0.0 us-west-2.target.aws.amazon.com
+:: us-west-2.target.aws.amazon.com
 0.0.0.0 us.3zs0.date
 :: us.3zs0.date
 0.0.0.0 us.a1.yimg.com
@@ -74091,8 +74129,6 @@
 :: www.abtest.mistat.intl.xiaomi.com
 0.0.0.0 www.abtest.mistat.xiaomi.com
 :: www.abtest.mistat.xiaomi.com
-0.0.0.0 www.aca-uccle.be
-:: www.aca-uccle.be
 0.0.0.0 www.acansorga.it
 :: www.acansorga.it
 0.0.0.0 www.acbp0020171456.page.tl
@@ -75799,8 +75835,6 @@
 :: www.egypt-dream.net
 0.0.0.0 www.eivamos.com
 :: www.eivamos.com
-0.0.0.0 www.ejmii.com
-:: www.ejmii.com
 0.0.0.0 www.ekowen.sk
 :: www.ekowen.sk
 0.0.0.0 www.elc.tomsk.ru
@@ -76141,6 +76175,8 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
+0.0.0.0 www.fishingtackleindia.com
+:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -77769,6 +77805,8 @@
 :: www.mediamax.in.net
 0.0.0.0 www.mediareps.com
 :: www.mediareps.com
+0.0.0.0 www.mediartvagd.in.net
+:: www.mediartvagd.in.net
 0.0.0.0 www.mediatoponline.it
 :: www.mediatoponline.it
 0.0.0.0 www.mediawareonline.it
