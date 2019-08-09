@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Aug 8 08:42:11 CEST 2019
+# Last update: Fri Aug 9 08:41:34 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41386
+# Number of unique hostnames: 41408
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3603,6 +3603,8 @@
 :: acount.alley.ws
 0.0.0.0 acounttcheksinffo.000webhostapp.com
 :: acounttcheksinffo.000webhostapp.com
+0.0.0.0 acquisition-1.americanexpress.com
+:: acquisition-1.americanexpress.com
 0.0.0.0 acquisition-tracker.wix.com
 :: acquisition-tracker.wix.com
 0.0.0.0 acquitted-nulls.000webhostapp.com
@@ -16035,6 +16037,8 @@
 :: appleid.xwkvdxftgd7q8ymwamcxzs3ve2zxlw6x9c2wk83t.info
 0.0.0.0 appleidverification.com.hdmombaca.com.br
 :: appleidverification.com.hdmombaca.com.br
+0.0.0.0 appleimap.vip.163.com
+:: appleimap.vip.163.com
 0.0.0.0 appleld.apple-supports.servicemail-activity.com
 :: appleld.apple-supports.servicemail-activity.com
 0.0.0.0 appleld.apple.com.t5j2kdkc88dd2m423-verif.info
@@ -17513,6 +17517,8 @@
 :: baiduwapjs1.chinaiiss.com
 0.0.0.0 baifen.music.baidu.com
 :: baifen.music.baidu.com
+0.0.0.0 baigachahs.edu.bd
+:: baigachahs.edu.bd
 0.0.0.0 baike.163.com
 :: baike.163.com
 0.0.0.0 bajasae.grupos.usb.ve
@@ -18673,6 +18679,8 @@
 :: bao.163.com
 0.0.0.0 baoxian.163.com
 :: baoxian.163.com
+0.0.0.0 bappeda.dharmasrayakab.go.id
+:: bappeda.dharmasrayakab.go.id
 0.0.0.0 bappeda.palangkaraya.go.id
 :: bappeda.palangkaraya.go.id
 0.0.0.0 bar.baidu.com
@@ -20783,6 +20791,8 @@
 :: c.dk.msn.com
 0.0.0.0 c.dokrmob.com
 :: c.dokrmob.com
+0.0.0.0 c.dun.163.com
+:: c.dun.163.com
 0.0.0.0 c.duomeng.net
 :: c.duomeng.net
 0.0.0.0 c.dynad.net
@@ -24541,6 +24551,8 @@
 :: comment.news.163.com
 0.0.0.0 comment.tie.163.com
 :: comment.tie.163.com
+0.0.0.0 comment.v.163.com
+:: comment.v.163.com
 0.0.0.0 commerce-api.sprinklr.com
 :: commerce-api.sprinklr.com
 0.0.0.0 commerce.adobedtm.com
@@ -25763,6 +25775,8 @@
 :: cs.celebbusters.com
 0.0.0.0 cs.dqwjzm.com
 :: cs.dqwjzm.com
+0.0.0.0 cs.ename.net
+:: cs.ename.net
 0.0.0.0 cs.exitmonitor.com
 :: cs.exitmonitor.com
 0.0.0.0 cs.exposedontape.com
@@ -28745,6 +28759,8 @@
 :: dgkytklfjrqkb.cloudfront.net
 0.0.0.0 dgpp7fq3iorb.cloudfront.net
 :: dgpp7fq3iorb.cloudfront.net
+0.0.0.0 dgw7ae5vrovs7.cloudfront.net
+:: dgw7ae5vrovs7.cloudfront.net
 0.0.0.0 dgy6rx5roq02d.cloudfront.net
 :: dgy6rx5roq02d.cloudfront.net
 0.0.0.0 dh.holaworld.cn
@@ -34335,6 +34351,8 @@
 :: gamedata.box.sk
 0.0.0.0 gameofwar.hackfree.us
 :: gameofwar.hackfree.us
+0.0.0.0 gamer.163.com
+:: gamer.163.com
 0.0.0.0 games.superappbox.com
 :: games.superappbox.com
 0.0.0.0 gamestop.loggly.com
@@ -37729,6 +37747,8 @@
 :: id-orange-auth-userbnsp.000webhostapp.com
 0.0.0.0 id-supp.paymentsrev.srv928.com-paypacc73.com
 :: id-supp.paymentsrev.srv928.com-paypacc73.com
+0.0.0.0 id.163.com
+:: id.163.com
 0.0.0.0 id.allegisgroup.com
 :: id.allegisgroup.com
 0.0.0.0 id.get35.com
@@ -39729,6 +39749,8 @@
 :: iwanad.baidu.com
 0.0.0.0 iwhab.randbinternationaltravel.com
 :: iwhab.randbinternationaltravel.com
+0.0.0.0 iwmap.americanexpress.com
+:: iwmap.americanexpress.com
 0.0.0.0 iws.corel.com
 :: iws.corel.com
 0.0.0.0 iwstat.tudou.com
@@ -40869,6 +40891,8 @@
 :: karinschacht.addr.com
 0.0.0.0 karisaba.dousetsu.com
 :: karisaba.dousetsu.com
+0.0.0.0 karkhandaddm.edu.bd
+:: karkhandaddm.edu.bd
 0.0.0.0 karliny9.bget.ru
 :: karliny9.bget.ru
 0.0.0.0 karma.mdpcdn.com
@@ -41711,6 +41735,8 @@
 :: laneterralever.matomo.cloud
 0.0.0.0 lang.t7114.com
 :: lang.t7114.com
+0.0.0.0 langrensha.163.com
+:: langrensha.163.com
 0.0.0.0 languages-online.org.uk
 :: languages-online.org.uk
 0.0.0.0 lannuairex.free.fr
@@ -44001,6 +44027,8 @@
 :: m.ly0p9e.cn
 0.0.0.0 m.m8l0ka.cn
 :: m.m8l0ka.cn
+0.0.0.0 m.mail.163.com
+:: m.mail.163.com
 0.0.0.0 m.maila88.com
 :: m.maila88.com
 0.0.0.0 m.maopuzw.com
@@ -49103,6 +49131,8 @@
 :: ntera28ctive.rr.nu
 0.0.0.0 ntes-analytics.163.com
 :: ntes-analytics.163.com
+0.0.0.0 ntes53.mail.163.com
+:: ntes53.mail.163.com
 0.0.0.0 ntsal.matomo.cloud
 :: ntsal.matomo.cloud
 0.0.0.0 nttdocomo-service.co19.kr
@@ -49203,8 +49233,6 @@
 :: nxa-ls.s3.amazonaws.com
 0.0.0.0 nxads.internet.com
 :: nxads.internet.com
-0.0.0.0 nxd.lostrabbitmedia.com
-:: nxd.lostrabbitmedia.com
 0.0.0.0 nxkl36xz.apps.lair.io
 :: nxkl36xz.apps.lair.io
 0.0.0.0 nxs.kidcolez.cn
@@ -50291,6 +50319,8 @@
 :: omnituretrack.local.com
 0.0.0.0 omns.americanexpress.com
 :: omns.americanexpress.com
+0.0.0.0 omonkhegbele.wenerdhard.com
+:: omonkhegbele.wenerdhard.com
 0.0.0.0 ompam01123.lithium.com
 :: ompam01123.lithium.com
 0.0.0.0 omrolsztyn.neostrada.pl
@@ -50349,6 +50379,8 @@
 :: onemobile.yahoo.com
 0.0.0.0 onespot-tracking.herokuapp.com
 :: onespot-tracking.herokuapp.com
+0.0.0.0 onexp.americanexpress.com
+:: onexp.americanexpress.com
 0.0.0.0 oniineservice.wellsfargo.com.drkierabuchanan.com.au
 :: oniineservice.wellsfargo.com.drkierabuchanan.com.au
 0.0.0.0 onliagdh.beget.tech
@@ -62477,6 +62509,8 @@
 :: spotxchange-a.akamaihd.net
 0.0.0.0 spoxy.spot.im
 :: spoxy.spot.im
+0.0.0.0 spp.163.com
+:: spp.163.com
 0.0.0.0 spproxy.autobytel.com
 :: spproxy.autobytel.com
 0.0.0.0 spraszyn.home.pl
@@ -65447,6 +65481,8 @@
 :: tail.loggly.com
 0.0.0.0 tajs.qq.com
 :: tajs.qq.com
+0.0.0.0 takafumi_mori.loggly.com
+:: takafumi_mori.loggly.com
 0.0.0.0 take.virtualheromessages.com
 :: take.virtualheromessages.com
 0.0.0.0 take5.real.com
@@ -68931,6 +68967,8 @@
 :: txt.utro.ru
 0.0.0.0 txtad.jijiplayer.com
 :: txtad.jijiplayer.com
+0.0.0.0 ty.163.com
+:: ty.163.com
 0.0.0.0 ty1.263y.com
 :: ty1.263y.com
 0.0.0.0 ty7ezzt5jw.uq1zmgukp5.roanokekappas.com
@@ -74129,6 +74167,8 @@
 :: www.abtest.mistat.intl.xiaomi.com
 0.0.0.0 www.abtest.mistat.xiaomi.com
 :: www.abtest.mistat.xiaomi.com
+0.0.0.0 www.aca-uccle.be
+:: www.aca-uccle.be
 0.0.0.0 www.acansorga.it
 :: www.acansorga.it
 0.0.0.0 www.acbp0020171456.page.tl
@@ -75835,6 +75875,8 @@
 :: www.egypt-dream.net
 0.0.0.0 www.eivamos.com
 :: www.eivamos.com
+0.0.0.0 www.ejmii.com
+:: www.ejmii.com
 0.0.0.0 www.ekowen.sk
 :: www.ekowen.sk
 0.0.0.0 www.elc.tomsk.ru
@@ -78915,8 +78957,6 @@
 :: www.raypath-international.com.pl
 0.0.0.0 www.raypath.eu
 :: www.raypath.eu
-0.0.0.0 www.rbhth.com
-:: www.rbhth.com
 0.0.0.0 www.rdraff.com-app1.site
 :: www.rdraff.com-app1.site
 0.0.0.0 www.real-marketing.com
@@ -80567,8 +80607,6 @@
 :: www.wxbgf.top
 0.0.0.0 www.wyjazd24.pl
 :: www.wyjazd24.pl
-0.0.0.0 www.wykreslanka.com.pl
-:: www.wykreslanka.com.pl
 0.0.0.0 www.wypad3k0.blogspot.com
 :: www.wypad3k0.blogspot.com
 0.0.0.0 www.wyroki.eu
@@ -81789,8 +81827,12 @@
 :: xyq.163.com
 0.0.0.0 xyq.cbg.163.com
 :: xyq.cbg.163.com
+0.0.0.0 xyrjy.blog.163.com
+:: xyrjy.blog.163.com
 0.0.0.0 xyvob56g9siycph9vp0o.littlematchagirl.com.au
 :: xyvob56g9siycph9vp0o.littlematchagirl.com.au
+0.0.0.0 xyw.163.com
+:: xyw.163.com
 0.0.0.0 xyxudubax.angelcities.com
 :: xyxudubax.angelcities.com
 0.0.0.0 xyy.code.weddingeeos.com
@@ -82367,6 +82409,8 @@
 :: zahirx.aeiou.pt
 0.0.0.0 zaingroup-ksa.response.lithium.com
 :: zaingroup-ksa.response.lithium.com
+0.0.0.0 zakka.webapp.163.com
+:: zakka.webapp.163.com
 0.0.0.0 zam.horizonbeverage.org
 :: zam.horizonbeverage.org
 0.0.0.0 zamhuxnh.cz.cc
