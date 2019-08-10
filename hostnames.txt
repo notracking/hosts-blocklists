@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Aug 9 08:41:34 CEST 2019
+# Last update: Sat Aug 10 08:46:52 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41408
+# Number of unique hostnames: 41379
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -355,8 +355,6 @@
 :: 109070-deutschland-gast-angabe-nachweis.sicherheitshilfe-sicherheitssystem.tk
 0.0.0.0 1097834592.rsc.cdn77.org
 :: 1097834592.rsc.cdn77.org
-0.0.0.0 10gb.6ka.info
-:: 10gb.6ka.info
 0.0.0.0 10pg.scl5fyd.info
 :: 10pg.scl5fyd.info
 0.0.0.0 11.gddx1.crsky.com
@@ -9599,6 +9597,8 @@
 :: ads.sagabg.net
 0.0.0.0 ads.samba.tv
 :: ads.samba.tv
+0.0.0.0 ads.samsung.com
+:: ads.samsung.com
 0.0.0.0 ads.sandino.net
 :: ads.sandino.net
 0.0.0.0 ads.sanomalehtimedia.fi
@@ -15937,8 +15937,6 @@
 :: apple.com-scan.live
 0.0.0.0 apple.com-security-desktop-antimalware-support.download
 :: apple.com-security-desktop-antimalware-support.download
-0.0.0.0 apple.com-shield-device.live
-:: apple.com-shield-device.live
 0.0.0.0 apple.com-shield.live
 :: apple.com-shield.live
 0.0.0.0 apple.com-speed-macos.live
@@ -16189,8 +16187,6 @@
 :: aquavista.org.nz
 0.0.0.0 aquiwef22.esy.es
 :: aquiwef22.esy.es
-0.0.0.0 ar.fuxunb.com
-:: ar.fuxunb.com
 0.0.0.0 ar.mytrack.pro
 :: ar.mytrack.pro
 0.0.0.0 arabian-horse-highlights.homepage.t-online.de
@@ -31457,8 +31453,6 @@
 :: engine.tuia.cn
 0.0.0.0 engine.tuicoco.com
 :: engine.tuicoco.com
-0.0.0.0 engine.voodoo-ads.io
-:: engine.voodoo-ads.io
 0.0.0.0 engine.xclaimwords.net
 :: engine.xclaimwords.net
 0.0.0.0 enigman4140.000webhostapp.com
@@ -33337,8 +33331,6 @@
 :: finaledithon.web.fc2.com
 0.0.0.0 finance.b3p.cn
 :: finance.b3p.cn
-0.0.0.0 financialprofileorchestration.api.intuit.com
-:: financialprofileorchestration.api.intuit.com
 0.0.0.0 financialprovider-logos.platform.intuit.com
 :: financialprovider-logos.platform.intuit.com
 0.0.0.0 findapps.in.net
@@ -36093,8 +36085,6 @@
 :: hd.hyp.163.com
 0.0.0.0 hd.jiedaibao.com
 :: hd.jiedaibao.com
-0.0.0.0 hd.serial.h2g.pl
-:: hd.serial.h2g.pl
 0.0.0.0 hd.tianyu.163.com
 :: hd.tianyu.163.com
 0.0.0.0 hd.tym.163.com
@@ -39569,8 +39559,6 @@
 :: isaac-mafi.persiangig.com
 0.0.0.0 isalvador.000webhostapp.com
 :: isalvador.000webhostapp.com
-0.0.0.0 isamuxpompapsc50.6ka.info
-:: isamuxpompapsc50.6ka.info
 0.0.0.0 isb.ens.tn
 :: isb.ens.tn
 0.0.0.0 isearch.shopathome.com
@@ -41501,6 +41489,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -41623,8 +41613,6 @@
 :: l.wix.com
 0.0.0.0 l.yidianzixun.com
 :: l.yidianzixun.com
-0.0.0.0 l00tfiilues.lepfj.site
-:: l00tfiilues.lepfj.site
 0.0.0.0 l0ohpwfz-site.atempurl.com
 :: l0ohpwfz-site.atempurl.com
 0.0.0.0 l1.britannica.com
@@ -41913,8 +41901,6 @@
 :: leadtracking.plumvoice.com
 0.0.0.0 leahram.daimlercruiz.ml
 :: leahram.daimlercruiz.ml
-0.0.0.0 learn2upgrade.find4bettervideoing.info
-:: learn2upgrade.find4bettervideoing.info
 0.0.0.0 learning.ipeary.com
 :: learning.ipeary.com
 0.0.0.0 learning.worldjumprope.org
@@ -44507,8 +44493,6 @@
 :: macaddictads.snv.futurenet.nl
 0.0.0.0 macandwin.theforcontentingvideosystems.icu
 :: macandwin.theforcontentingvideosystems.icu
-0.0.0.0 maccleaner3.r.worldssl.net
-:: maccleaner3.r.worldssl.net
 0.0.0.0 maccms.tan5858.com
 :: maccms.tan5858.com
 0.0.0.0 macdtoha.web.fc2.com
@@ -45289,8 +45273,6 @@
 :: mecod.expresslinkcourier.online
 0.0.0.0 mecz.ujm.pl
 :: mecz.ujm.pl
-0.0.0.0 mecze24.6ka.info
-:: mecze24.6ka.info
 0.0.0.0 med193.earth.northerndishedends.co.uk
 :: med193.earth.northerndishedends.co.uk
 0.0.0.0 medal.blog.csdn.net
@@ -47635,16 +47617,12 @@
 :: museupalaciorionegro.museus.gov.br
 0.0.0.0 mushbillion.000webhostapp.com
 :: mushbillion.000webhostapp.com
-0.0.0.0 music.163.com
-:: music.163.com
 0.0.0.0 music.adcome.cn
 :: music.adcome.cn
 0.0.0.0 music.getyesappz1.com
 :: music.getyesappz1.com
 0.0.0.0 music.hatchfactory.in
 :: music.hatchfactory.in
-0.0.0.0 music.jbl-solo.com
-:: music.jbl-solo.com
 0.0.0.0 music.myappzcenter.com
 :: music.myappzcenter.com
 0.0.0.0 music102.awardspace.com
@@ -53257,8 +53235,6 @@
 :: photo.yqydjr.cn
 0.0.0.0 photo.yxslt.cn
 :: photo.yxslt.cn
-0.0.0.0 photook.vxm.pl
-:: photook.vxm.pl
 0.0.0.0 photos-bazaar-use1.nexus.bazaarvoice.com
 :: photos-bazaar-use1.nexus.bazaarvoice.com
 0.0.0.0 photos-us.bazaarvoice.com
@@ -56733,8 +56709,6 @@
 :: re.taotaosou.com
 0.0.0.0 re.try9.com
 :: re.try9.com
-0.0.0.0 reach-api.beachfrontreach.com
-:: reach-api.beachfrontreach.com
 0.0.0.0 reactivate.netflix.com.usermanagement.key.19735731.reactivatenetfix.com
 :: reactivate.netflix.com.usermanagement.key.19735731.reactivatenetfix.com
 0.0.0.0 reactivate.netflix.com.usermanagement.key.19735732.reactivatenetfix.com
@@ -62857,8 +62831,6 @@
 :: st.magnify.net
 0.0.0.0 st.mirror.co.uk
 :: st.mirror.co.uk
-0.0.0.0 st.music.163.com
-:: st.music.163.com
 0.0.0.0 st.pba.xl.pt
 :: st.pba.xl.pt
 0.0.0.0 st.penis-size.net
@@ -63017,6 +62989,8 @@
 :: stat.clichehosting.de
 0.0.0.0 stat.clickfrog.ru
 :: stat.clickfrog.ru
+0.0.0.0 stat.cludo.com
+:: stat.cludo.com
 0.0.0.0 stat.cncenter.cz
 :: stat.cncenter.cz
 0.0.0.0 stat.cnmo.com
@@ -67473,6 +67447,8 @@
 :: track.searchignite.com
 0.0.0.0 track.send-crm.pro
 :: track.send-crm.pro
+0.0.0.0 track.sendi-eu.pro
+:: track.sendi-eu.pro
 0.0.0.0 track.seorate.ru
 :: track.seorate.ru
 0.0.0.0 track.sexchangegirl.com
@@ -67869,8 +67845,6 @@
 :: tracker2.itzmx.com
 0.0.0.0 trackers.1st-affiliation.fr
 :: trackers.1st-affiliation.fr
-0.0.0.0 trackers.voodoo-analytics.io
-:: trackers.voodoo-analytics.io
 0.0.0.0 trackerstatistik.init-ag.de
 :: trackerstatistik.init-ag.de
 0.0.0.0 trackertec.nznweb.com.br
@@ -69969,8 +69943,6 @@
 :: updateinfoholbsystempage-3070893index8929095009.madiludesigns.com
 0.0.0.0 updatenewversion.freeupgradelive.com
 :: updatenewversion.freeupgradelive.com
-0.0.0.0 updatenewversion.thewebsitetofindplayersbest.info
-:: updatenewversion.thewebsitetofindplayersbest.info
 0.0.0.0 updatenewversion.videoupdatelive.com
 :: updatenewversion.videoupdatelive.com
 0.0.0.0 updates.advert-network.com
@@ -73909,8 +73881,6 @@
 :: www.10086.cn.baidu.cdn.yiwk.com
 0.0.0.0 www.100dof.com
 :: www.100dof.com
-0.0.0.0 www.10gb.6ka.info
-:: www.10gb.6ka.info
 0.0.0.0 www.114so.cn
 :: www.114so.cn
 0.0.0.0 www.13duyfzvxbqncjq1co9whwj.hmip.net
@@ -74647,8 +74617,6 @@
 :: www.api.sec.intl.miui.com
 0.0.0.0 www.api.setting.intl.miui.com
 :: www.api.setting.intl.miui.com
-0.0.0.0 www.apmc.com.hk
-:: www.apmc.com.hk
 0.0.0.0 www.apmmc.it
 :: www.apmmc.it
 0.0.0.0 www.app.convertkit.com
@@ -74691,8 +74659,6 @@
 :: www.apple.com-scan-mac.live
 0.0.0.0 www.apple.com-scan.live
 :: www.apple.com-scan.live
-0.0.0.0 www.apple.com-shield-device.live
-:: www.apple.com-shield-device.live
 0.0.0.0 www.apple.com-shield.live
 :: www.apple.com-shield.live
 0.0.0.0 www.apple.com-speed-macbook.live
@@ -76217,8 +76183,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -76635,8 +76599,6 @@
 :: www.hb.kumma.com
 0.0.0.0 www.hd.dao.163.com
 :: www.hd.dao.163.com
-0.0.0.0 www.hd.serial.h2g.pl
-:: www.hd.serial.h2g.pl
 0.0.0.0 www.hdbrts.co.in
 :: www.hdbrts.co.in
 0.0.0.0 www.hdhkwl.com
@@ -77065,8 +77027,6 @@
 :: www.iranwebads.com
 0.0.0.0 www.isaleapp.com
 :: www.isaleapp.com
-0.0.0.0 www.isamuxpompapsc50.6ka.info
-:: www.isamuxpompapsc50.6ka.info
 0.0.0.0 www.isfilebest.com
 :: www.isfilebest.com
 0.0.0.0 www.isikpandizot.com
@@ -77471,8 +77431,6 @@
 :: www.kxmav2.com
 0.0.0.0 www.kyani.com
 :: www.kyani.com
-0.0.0.0 www.l00tfiilues.lepfj.site
-:: www.l00tfiilues.lepfj.site
 0.0.0.0 www.la61d.cn
 :: www.la61d.cn
 0.0.0.0 www.lacqueyiiwkr.download
@@ -77539,8 +77497,6 @@
 :: www.leaderspost.com
 0.0.0.0 www.leadgreed.com
 :: www.leadgreed.com
-0.0.0.0 www.learn2upgrade.find4bettervideoing.info
-:: www.learn2upgrade.find4bettervideoing.info
 0.0.0.0 www.leeringsmxcgbra.download
 :: www.leeringsmxcgbra.download
 0.0.0.0 www.legalizacja.5v.pl
@@ -77647,8 +77603,6 @@
 :: www.locgest.com
 0.0.0.0 www.lockview.cn
 :: www.lockview.cn
-0.0.0.0 www.log-in-verlag.de
-:: www.log-in-verlag.de
 0.0.0.0 www.log-management.loggly.com
 :: www.log-management.loggly.com
 0.0.0.0 www.log.getadblock.com
@@ -77733,8 +77687,6 @@
 :: www.macaheadapps.com
 0.0.0.0 www.macandwin.theforcontentingvideosystems.icu
 :: www.macandwin.theforcontentingvideosystems.icu
-0.0.0.0 www.maccleaner3.r.worldssl.net
-:: www.maccleaner3.r.worldssl.net
 0.0.0.0 www.macfillerck.com
 :: www.macfillerck.com
 0.0.0.0 www.mackeeperapp.zeobit.com
@@ -77831,8 +77783,6 @@
 :: www.meallservice.it
 0.0.0.0 www.mecz.ujm.pl
 :: www.mecz.ujm.pl
-0.0.0.0 www.mecze24.6ka.info
-:: www.mecze24.6ka.info
 0.0.0.0 www.media-motor.com
 :: www.media-motor.com
 0.0.0.0 www.media2.travelzoo.com
@@ -78555,8 +78505,6 @@
 :: www.perupuntocom.com
 0.0.0.0 www.petpleasers.ca
 :: www.petpleasers.ca
-0.0.0.0 www.petshooop.com
-:: www.petshooop.com
 0.0.0.0 www.pffn.pl.tn
 :: www.pffn.pl.tn
 0.0.0.0 www.pfhsystem.com
@@ -78567,8 +78515,6 @@
 :: www.pgathailand.com
 0.0.0.0 www.pharmaciela.com
 :: www.pharmaciela.com
-0.0.0.0 www.photook.vxm.pl
-:: www.photook.vxm.pl
 0.0.0.0 www.picnic.co
 :: www.picnic.co
 0.0.0.0 www.piconsul.it
@@ -79541,8 +79487,6 @@
 :: www.srox.com
 0.0.0.0 www.ssl.bezpieczne-platnosci.pl
 :: www.ssl.bezpieczne-platnosci.pl
-0.0.0.0 www.ssl.full-secure-payments.online
-:: www.ssl.full-secure-payments.online
 0.0.0.0 www.sspawdzktopodgglada.blogspot.com
 :: www.sspawdzktopodgglada.blogspot.com
 0.0.0.0 www.ssstuitui1999.com
@@ -80191,8 +80135,6 @@
 :: www.unmutedbeauty.com
 0.0.0.0 www.update-flash.s0l8ybzj9u.top
 :: www.update-flash.s0l8ybzj9u.top
-0.0.0.0 www.updatenewversion.thewebsitetofindplayersbest.info
-:: www.updatenewversion.thewebsitetofindplayersbest.info
 0.0.0.0 www.updatesoftwaresend.com
 :: www.updatesoftwaresend.com
 0.0.0.0 www.upgradebasic.com
