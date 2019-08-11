@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Aug 10 08:46:52 CEST 2019
+# Last update: Sun Aug 11 08:47:23 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41379
+# Number of unique hostnames: 41383
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -705,6 +705,8 @@
 :: 28.securefinds2.com
 0.0.0.0 283.laobanfa.com
 :: 283.laobanfa.com
+0.0.0.0 2837c085a88c1ba307d4594a.cloudhosting.rsaweb.co.za
+:: 2837c085a88c1ba307d4594a.cloudhosting.rsaweb.co.za
 0.0.0.0 290684.en.world-stone.com
 :: 290684.en.world-stone.com
 0.0.0.0 296f4h3wluqxmie0yqbk8n.littlematchagirl.com.au
@@ -965,6 +967,8 @@
 :: 404.safedog.cn
 0.0.0.0 404.xxxymovies.com
 :: 404.xxxymovies.com
+0.0.0.0 405459071.student.yru.ac.th
+:: 405459071.student.yru.ac.th
 0.0.0.0 40ed922ac7.000webhostapp.com
 :: 40ed922ac7.000webhostapp.com
 0.0.0.0 40hardcore.galleryprogram.com
@@ -3347,8 +3351,6 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
-0.0.0.0 abusalewm.exceltoner.com
-:: abusalewm.exceltoner.com
 0.0.0.0 ac.86huoche.com
 :: ac.86huoche.com
 0.0.0.0 ac.ajur.info
@@ -16481,6 +16483,8 @@
 :: asphalt8.hackfree.us
 0.0.0.0 aspirin.about-tabs.com
 :: aspirin.about-tabs.com
+0.0.0.0 aspsensewiretransfergoogle.duckdns.org
+:: aspsensewiretransfergoogle.duckdns.org
 0.0.0.0 asr.geilefotzen.at
 :: asr.geilefotzen.at
 0.0.0.0 asrv-a.akamaihd.net
@@ -25001,8 +25005,6 @@
 :: corpomagico.art.br
 0.0.0.0 corptechservices.com.au.onlinesecuredocumentdocumentviewaccount.com.corptachservices.com
 :: corptechservices.com.au.onlinesecuredocumentdocumentviewaccount.com.corptachservices.com
-0.0.0.0 corpweb0.sover.net
-:: corpweb0.sover.net
 0.0.0.0 correcoesb.sslblindado.com
 :: correcoesb.sslblindado.com
 0.0.0.0 correo.masousa.com
@@ -31201,6 +31203,8 @@
 :: elb.qublixaws.com
 0.0.0.0 elbcradio.tcalr.org
 :: elbcradio.tcalr.org
+0.0.0.0 electricfence.levsantronic.ro
+:: electricfence.levsantronic.ro
 0.0.0.0 electro.demos.su
 :: electro.demos.su
 0.0.0.0 electrohemostasis.makemoneywithmegan.net
@@ -31985,6 +31989,8 @@
 :: events.webflowmetrics.com
 0.0.0.0 events.youbora.com
 :: events.youbora.com
+0.0.0.0 eventtracking.hubapi.com
+:: eventtracking.hubapi.com
 0.0.0.0 evepc.163.com
 :: evepc.163.com
 0.0.0.0 ever.ancestrybloodhound.info
@@ -57283,6 +57289,8 @@
 :: renew-appleid-appservice-recovry-wmiid2017-billingexp.case4001.pw
 0.0.0.0 renewchurch.org.au
 :: renewchurch.org.au
+0.0.0.0 renishaht.dsmtp.biz
+:: renishaht.dsmtp.biz
 0.0.0.0 renjian.163.com
 :: renjian.163.com
 0.0.0.0 reno.onsale.com
@@ -57855,8 +57863,6 @@
 :: rr1.outster.com
 0.0.0.0 rranking14.ziyu.net
 :: rranking14.ziyu.net
-0.0.0.0 rrghs.edu.bd
-:: rrghs.edu.bd
 0.0.0.0 rrr.youle55.com
 :: rrr.youle55.com
 0.0.0.0 rrzcp8.v1.163.com
@@ -71175,6 +71181,8 @@
 :: vip.cfcnet.to
 0.0.0.0 vip.clickzzs.nl
 :: vip.clickzzs.nl
+0.0.0.0 vip.liguhyhy.xyz
+:: vip.liguhyhy.xyz
 0.0.0.0 vip.mall044.com
 :: vip.mall044.com
 0.0.0.0 vip.media8.cn
@@ -74617,6 +74625,8 @@
 :: www.api.sec.intl.miui.com
 0.0.0.0 www.api.setting.intl.miui.com
 :: www.api.setting.intl.miui.com
+0.0.0.0 www.apmc.com.hk
+:: www.apmc.com.hk
 0.0.0.0 www.apmmc.it
 :: www.apmmc.it
 0.0.0.0 www.app.convertkit.com
@@ -75481,8 +75491,6 @@
 :: www.crackserver.com
 0.0.0.0 www.crazywinnings.com
 :: www.crazywinnings.com
-0.0.0.0 www.creativ-art1.com
-:: www.creativ-art1.com
 0.0.0.0 www.creatorcommunity.zmags.com
 :: www.creatorcommunity.zmags.com
 0.0.0.0 www.credit-dreams.com
@@ -77603,6 +77611,8 @@
 :: www.locgest.com
 0.0.0.0 www.lockview.cn
 :: www.lockview.cn
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.log-management.loggly.com
 :: www.log-management.loggly.com
 0.0.0.0 www.log.getadblock.com
@@ -79873,8 +79883,6 @@
 :: www.tigipro.pl
 0.0.0.0 www.timefor.com
 :: www.timefor.com
-0.0.0.0 www.timelessimagesmi.com
-:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tinayr.go.ro
