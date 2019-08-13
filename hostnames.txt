@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Aug 12 08:44:06 CEST 2019
+# Last update: Tue Aug 13 08:45:57 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41195
+# Number of unique hostnames: 41205
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -265,6 +265,8 @@
 :: 1.qt86.com
 0.0.0.0 1.quicktrkr.com
 :: 1.quicktrkr.com
+0.0.0.0 1.rr95.com
+:: 1.rr95.com
 0.0.0.0 1.sharkadnetwork.com
 :: 1.sharkadnetwork.com
 0.0.0.0 1.sj33.net
@@ -373,6 +375,8 @@
 :: 1102350s.hol.es
 0.0.0.0 11165583-40348.id2.clickprotects.com
 :: 11165583-40348.id2.clickprotects.com
+0.0.0.0 111g.yiqig.cn
+:: 111g.yiqig.cn
 0.0.0.0 11235813.webzdarma.cz
 :: 11235813.webzdarma.cz
 0.0.0.0 113693url.displayadfeed.com
@@ -387,8 +391,6 @@
 :: 118d654612df63bc8395-aecfeaabe29a34ea9a877711ec6d8aed.r37.cf2.rackcdn.com
 0.0.0.0 119.29.196.104.bc.googleusercontent.com
 :: 119.29.196.104.bc.googleusercontent.com
-0.0.0.0 11g.yiqig.cn
-:: 11g.yiqig.cn
 0.0.0.0 1224.dxsbb.com
 :: 1224.dxsbb.com
 0.0.0.0 123.163.com
@@ -707,8 +709,6 @@
 :: 28.securefinds2.com
 0.0.0.0 283.laobanfa.com
 :: 283.laobanfa.com
-0.0.0.0 2837c085a88c1ba307d4594a.cloudhosting.rsaweb.co.za
-:: 2837c085a88c1ba307d4594a.cloudhosting.rsaweb.co.za
 0.0.0.0 290684.en.world-stone.com
 :: 290684.en.world-stone.com
 0.0.0.0 296f4h3wluqxmie0yqbk8n.littlematchagirl.com.au
@@ -3439,8 +3439,6 @@
 :: accesd.desjard-validation.com
 0.0.0.0 accesd.verification-desj.com
 :: accesd.verification-desj.com
-0.0.0.0 access-prod.apis.anvato.net
-:: access-prod.apis.anvato.net
 0.0.0.0 access.amberathome.com
 :: access.amberathome.com
 0.0.0.0 access.journal.mycom.co.jp
@@ -13683,8 +13681,6 @@
 :: aimnawnt.beget.tech
 0.0.0.0 aimtoday.aol.com
 :: aimtoday.aol.com
-0.0.0.0 ainiyiwannian0.5tps.vip
-:: ainiyiwannian0.5tps.vip
 0.0.0.0 air-plane-ticket.beesearch.info
 :: air-plane-ticket.beesearch.info
 0.0.0.0 air.yoyi.com.cn
@@ -14467,6 +14463,8 @@
 :: analytics.amakings.com
 0.0.0.0 analytics.ambient-platform.com
 :: analytics.ambient-platform.com
+0.0.0.0 analytics.anvato.net
+:: analytics.anvato.net
 0.0.0.0 analytics.any.do
 :: analytics.any.do
 0.0.0.0 analytics.apnewsregistry.com
@@ -14871,6 +14869,8 @@
 :: analytics3.starschina.com
 0.0.0.0 analyticsapi.bsbportal.com
 :: analyticsapi.bsbportal.com
+0.0.0.0 analyticsdcs.ccs.mcafee.com
+:: analyticsdcs.ccs.mcafee.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
 :: analyticsengine.s3.amazonaws.com
 0.0.0.0 analyticsv2.dol.gr
@@ -24483,6 +24483,8 @@
 :: collector-test.staging.mb-internal.com
 0.0.0.0 collector.abc-host.net.au
 :: collector.abc-host.net.au
+0.0.0.0 collector.analytics.anvato.net
+:: collector.analytics.anvato.net
 0.0.0.0 collector.brandify.com
 :: collector.brandify.com
 0.0.0.0 collector.deepmetrix.com
@@ -24673,6 +24675,8 @@
 :: config.adsage.cn
 0.0.0.0 config.adsage.com
 :: config.adsage.com
+0.0.0.0 config.analytics.anvato.net
+:: config.analytics.anvato.net
 0.0.0.0 config.baofeng.net
 :: config.baofeng.net
 0.0.0.0 config.cocounion.com
@@ -28097,8 +28101,6 @@
 :: dcproxy1.thrunet.com
 0.0.0.0 dcs-edge-va6-802167536.us-east-1.elb.amazonaws.com
 :: dcs-edge-va6-802167536.us-east-1.elb.amazonaws.com
-0.0.0.0 dcs-vod.apis.anvato.net
-:: dcs-vod.apis.anvato.net
 0.0.0.0 dcs.netbiscuits.net
 :: dcs.netbiscuits.net
 0.0.0.0 dcs.plussizetech.com
@@ -29391,6 +29393,8 @@
 :: dofeb.frenchgerlemanelectric.com
 0.0.0.0 dog.halfbirthdayproducts.com
 :: dog.halfbirthdayproducts.com
+0.0.0.0 dog1.verystream.com
+:: dog1.verystream.com
 0.0.0.0 dogus-ads-cdn.dygdigital.com
 :: dogus-ads-cdn.dygdigital.com
 0.0.0.0 dohs95d6tfj19.cloudfront.net
@@ -30747,6 +30751,8 @@
 :: e2cb3799.ngrok.io
 0.0.0.0 e2e.mashable.com
 :: e2e.mashable.com
+0.0.0.0 e2e.pcmag.com
+:: e2e.pcmag.com
 0.0.0.0 e32e0c3c972d179cd1d0-1847ac4c91d55b307d162b6d5ad07fe3.r71.cf2.rackcdn.com
 :: e32e0c3c972d179cd1d0-1847ac4c91d55b307d162b6d5ad07fe3.r71.cf2.rackcdn.com
 0.0.0.0 e3yt5.at-band-camp.net
@@ -31415,6 +31421,8 @@
 :: engage.morespeck.com
 0.0.0.0 engage.omaha.com
 :: engage.omaha.com
+0.0.0.0 engage.physicstoday.org
+:: engage.physicstoday.org
 0.0.0.0 engage.speedera.net
 :: engage.speedera.net
 0.0.0.0 engage2.advanstar.com
@@ -32507,6 +32515,8 @@
 :: facemagicbool.000webhostapp.com
 0.0.0.0 facemais.gns1.com
 :: facemais.gns1.com
+0.0.0.0 facemap.foldlife.net
+:: facemap.foldlife.net
 0.0.0.0 facenewod.000webhostapp.com
 :: facenewod.000webhostapp.com
 0.0.0.0 facewatch.borec.cz
@@ -41503,8 +41513,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -46883,6 +46891,8 @@
 :: mmrj.entadsl.com
 0.0.0.0 mms.cnn.com
 :: mms.cnn.com
+0.0.0.0 mms.graziadaily.co.uk
+:: mms.graziadaily.co.uk
 0.0.0.0 mmtccchhhhh.000webhostapp.com
 :: mmtccchhhhh.000webhostapp.com
 0.0.0.0 mmvid.s3.amazonaws.com
@@ -51431,6 +51441,8 @@
 :: p0stepay-p0ste-it-start-lista-m0vimenti-accedi-utent001928.25u.com
 0.0.0.0 p1.assetscdn.stream
 :: p1.assetscdn.stream
+0.0.0.0 p1.zhongyoo.com
+:: p1.zhongyoo.com
 0.0.0.0 p1.zhumengwl.com
 :: p1.zhumengwl.com
 0.0.0.0 p13n-int.herokuapp.com
@@ -58573,6 +58585,8 @@
 :: sa.entireweb.com
 0.0.0.0 sa.seotoaster.com
 :: sa.seotoaster.com
+0.0.0.0 sa.sina.cn
+:: sa.sina.cn
 0.0.0.0 sa.squareup.com
 :: sa.squareup.com
 0.0.0.0 sa.tuisong.baidu.com
@@ -58585,6 +58599,8 @@
 :: sa0.tuisong.baidu.com
 0.0.0.0 sa1.tuisong.baidu.com
 :: sa1.tuisong.baidu.com
+0.0.0.0 sa135.wsbtv.com
+:: sa135.wsbtv.com
 0.0.0.0 sa3.tuisong.baidu.com
 :: sa3.tuisong.baidu.com
 0.0.0.0 saaaaf.goranjakovljevic.com
@@ -62955,6 +62971,8 @@
 :: star.pulseonclick.com
 0.0.0.0 starhub.i.lithium.com
 :: starhub.i.lithium.com
+0.0.0.0 starling.crowdriff.com
+:: starling.crowdriff.com
 0.0.0.0 starlix.ql.st
 :: starlix.ql.st
 0.0.0.0 starpasscodegenerator.goldmovie-trailer.com
@@ -66477,8 +66495,6 @@
 :: tktracker.aotter.net
 0.0.0.0 tkweb.baidu.com
 :: tkweb.baidu.com
-0.0.0.0 tkx.apis.anvato.net
-:: tkx.apis.anvato.net
 0.0.0.0 tl.zcsfs.cn
 :: tl.zcsfs.cn
 0.0.0.0 tlidjenegroup.000webhostapp.com
@@ -72005,8 +72021,6 @@
 :: w20.iit.guru
 0.0.0.0 w2kk31x4j.homepage.t-online.de
 :: w2kk31x4j.homepage.t-online.de
-0.0.0.0 w3.cdn.anvato.net
-:: w3.cdn.anvato.net
 0.0.0.0 w3.netcreations.com
 :: w3.netcreations.com
 0.0.0.0 w3c-jquery.cz.cc
@@ -75829,6 +75843,8 @@
 :: www.end-motorsport.de
 0.0.0.0 www.energetica.it
 :: www.energetica.it
+0.0.0.0 www.engage.physicstoday.org
+:: www.engage.physicstoday.org
 0.0.0.0 www.englishworld.it
 :: www.englishworld.it
 0.0.0.0 www.engware.it
@@ -76557,6 +76573,8 @@
 :: www.higame123.com
 0.0.0.0 www.highspeedtesting.com
 :: www.highspeedtesting.com
+0.0.0.0 www.highsport.se
+:: www.highsport.se
 0.0.0.0 www.hilfe-forum.info
 :: www.hilfe-forum.info
 0.0.0.0 www.himandy.com
@@ -77459,6 +77477,8 @@
 :: www.locgest.com
 0.0.0.0 www.lockview.cn
 :: www.lockview.cn
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.log-management.loggly.com
 :: www.log-management.loggly.com
 0.0.0.0 www.log.getadblock.com
@@ -77835,6 +77855,8 @@
 :: www.mpzw.com
 0.0.0.0 www.mscarsales.co.uk
 :: www.mscarsales.co.uk
+0.0.0.0 www.msftconnecttest.com
+:: www.msftconnecttest.com
 0.0.0.0 www.mshelp247.weebly.com
 :: www.mshelp247.weebly.com
 0.0.0.0 www.msm.mc
@@ -78287,8 +78309,6 @@
 :: www.pffn.pl.tn
 0.0.0.0 www.pfhsystem.com
 :: www.pfhsystem.com
-0.0.0.0 www.pfotenranch.de
-:: www.pfotenranch.de
 0.0.0.0 www.pgathailand.com
 :: www.pgathailand.com
 0.0.0.0 www.pharmaciela.com
@@ -82015,8 +82035,6 @@
 :: zapads.zapak.com
 0.0.0.0 zappadmin.zmags.com
 :: zappadmin.zmags.com
-0.0.0.0 zaquitsha.vetsingreensboro.com
-:: zaquitsha.vetsingreensboro.com
 0.0.0.0 zara.voucher.giftcards-promotion.com
 :: zara.voucher.giftcards-promotion.com
 0.0.0.0 zara.vouchers.fashion-promotions.com
@@ -82287,6 +82305,8 @@
 :: zsn5qtrgfpu4tmpg.onion.gq
 0.0.0.0 zsn5qtrgfpu4tmpg.onion.lt
 :: zsn5qtrgfpu4tmpg.onion.lt
+0.0.0.0 zsn5qtrgfpu4tmpg.tor2web.fi
+:: zsn5qtrgfpu4tmpg.tor2web.fi
 0.0.0.0 zsn5qtrgfpu4tmpg.tor2web.org
 :: zsn5qtrgfpu4tmpg.tor2web.org
 0.0.0.0 zsnbystre.republika.pl
