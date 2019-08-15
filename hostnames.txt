@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Aug 14 08:47:46 CEST 2019
+# Last update: Thu Aug 15 08:43:09 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41240
+# Number of unique hostnames: 41248
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2855,6 +2855,8 @@
 :: a.tiscali.co.uk
 0.0.0.0 a.tiyuxiu.com
 :: a.tiyuxiu.com
+0.0.0.0 a.trend-online.it
+:: a.trend-online.it
 0.0.0.0 a.triptease.io
 :: a.triptease.io
 0.0.0.0 a.ttinline.com
@@ -3229,6 +3231,8 @@
 :: ab.kaskus.us
 0.0.0.0 ab.meishiba.com.cn
 :: ab.meishiba.com.cn
+0.0.0.0 ab.pincai.com
+:: ab.pincai.com
 0.0.0.0 ab.teenx.free.fr
 :: ab.teenx.free.fr
 0.0.0.0 ab.usageload32.com
@@ -19269,6 +19273,8 @@
 :: beacons.brandads.net
 0.0.0.0 beacons.extremereach.io
 :: beacons.extremereach.io
+0.0.0.0 beacons.gcp.gvt2.com
+:: beacons.gcp.gvt2.com
 0.0.0.0 beacons.gvt2.com
 :: beacons.gvt2.com
 0.0.0.0 beacons.helium.com
@@ -33611,6 +33617,8 @@
 :: forms.convertkit.com
 0.0.0.0 forms.earnmydegree.com
 :: forms.earnmydegree.com
+0.0.0.0 forms.net.in
+:: forms.net.in
 0.0.0.0 forms.ontraport.com
 :: forms.ontraport.com
 0.0.0.0 forrentarubacom.domainstel.org
@@ -53047,6 +53055,8 @@
 :: pen.zzn.com
 0.0.0.0 pendencia21.com.sapo.pt
 :: pendencia21.com.sapo.pt
+0.0.0.0 pending-delete.ename.net
+:: pending-delete.ename.net
 0.0.0.0 pending-secure-account-inc.hematech.co.id
 :: pending-secure-account-inc.hematech.co.id
 0.0.0.0 penelo90.beget.tech
@@ -53569,6 +53579,8 @@
 :: ping.xlmc.sandai.net
 0.0.0.0 pingapi.accengage.com
 :: pingapi.accengage.com
+0.0.0.0 pingback.giphy.com
+:: pingback.giphy.com
 0.0.0.0 pingback.issuu.com
 :: pingback.issuu.com
 0.0.0.0 pingback.sogou.com
@@ -62661,6 +62673,8 @@
 :: srepdata.usatoday.com
 0.0.0.0 srilaini1helprecoveryii.000webhostapp.com
 :: srilaini1helprecoveryii.000webhostapp.com
+0.0.0.0 srisaranankara.sch.lk
+:: srisaranankara.sch.lk
 0.0.0.0 srpze.saqibsiddiqui.com
 :: srpze.saqibsiddiqui.com
 0.0.0.0 srutebmduoh.myfw.us
@@ -66129,6 +66143,8 @@
 :: test.surepush.cn
 0.0.0.0 test.verox.dk
 :: test.verox.dk
+0.0.0.0 test.yanying100.com
+:: test.yanying100.com
 0.0.0.0 test1.lmsoft.cz
 :: test1.lmsoft.cz
 0.0.0.0 test2.jessekanclerz.com
@@ -76181,6 +76197,8 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
+0.0.0.0 www.fishingtackleindia.com
+:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -78879,8 +78897,6 @@
 :: www.runnergamesch.com
 0.0.0.0 www.runnergameshk.com
 :: www.runnergameshk.com
-0.0.0.0 www.runningmen-mk.de
-:: www.runningmen-mk.de
 0.0.0.0 www.ruyssinck-demeyer.be
 :: www.ruyssinck-demeyer.be
 0.0.0.0 www.rwpads.net
@@ -79595,6 +79611,8 @@
 :: www.thebigoutdoors.co.uk
 0.0.0.0 www.thecrack.net
 :: www.thecrack.net
+0.0.0.0 www.thedournalist.com
+:: www.thedournalist.com
 0.0.0.0 www.thegaymen.com
 :: www.thegaymen.com
 0.0.0.0 www.thehitman.com
@@ -79733,8 +79751,6 @@
 :: www.tracking.miui.com
 0.0.0.0 www.trackingclick.net
 :: www.trackingclick.net
-0.0.0.0 www.traders-forum.com
-:: www.traders-forum.com
 0.0.0.0 www.tradingtactics.win
 :: www.tradingtactics.win
 0.0.0.0 www.traffe.eu
