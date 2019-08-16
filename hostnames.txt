@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Aug 15 08:43:09 CEST 2019
+# Last update: Fri Aug 16 10:13:36 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41248
+# Number of unique hostnames: 41254
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -15131,6 +15131,8 @@
 :: aparat.ads.saba-e.com
 0.0.0.0 apas.aipai.com
 :: apas.aipai.com
+0.0.0.0 ape-asset-tag.timeinc.com
+:: ape-asset-tag.timeinc.com
 0.0.0.0 apex.matomo.cloud
 :: apex.matomo.cloud
 0.0.0.0 apex.wecleanoklahoma.com
@@ -25799,8 +25801,6 @@
 :: cs.celebbusters.com
 0.0.0.0 cs.dqwjzm.com
 :: cs.dqwjzm.com
-0.0.0.0 cs.ename.net
-:: cs.ename.net
 0.0.0.0 cs.exitmonitor.com
 :: cs.exitmonitor.com
 0.0.0.0 cs.exposedontape.com
@@ -26391,6 +26391,8 @@
 :: d140sbu1b1m3h0.cloudfront.net
 0.0.0.0 d1447tq2m68ekg.cloudfront.net
 :: d1447tq2m68ekg.cloudfront.net
+0.0.0.0 d144jmuhz9kvbq.cloudfront.net
+:: d144jmuhz9kvbq.cloudfront.net
 0.0.0.0 d145tbca0156xf.cloudfront.net
 :: d145tbca0156xf.cloudfront.net
 0.0.0.0 d14nx4uiqzwnqt.cloudfront.net
@@ -26875,6 +26877,8 @@
 :: d2bgg7rjywcwsy.cloudfront.net
 0.0.0.0 d2bnxibecyz4h5.cloudfront.net
 :: d2bnxibecyz4h5.cloudfront.net
+0.0.0.0 d2c4r37pj8idja.cloudfront.net
+:: d2c4r37pj8idja.cloudfront.net
 0.0.0.0 d2c4ylitp1qu24.cloudfront.net
 :: d2c4ylitp1qu24.cloudfront.net
 0.0.0.0 d2cgumzzqhgmdu.cloudfront.net
@@ -26935,6 +26939,8 @@
 :: d2i54aseqwhx68.cloudfront.net
 0.0.0.0 d2i5pngfrazn5t.cloudfront.net
 :: d2i5pngfrazn5t.cloudfront.net
+0.0.0.0 d2ip7iv1l4ergv.cloudfront.net
+:: d2ip7iv1l4ergv.cloudfront.net
 0.0.0.0 d2ipklohrie3lo.cloudfront.net
 :: d2ipklohrie3lo.cloudfront.net
 0.0.0.0 d2is3w689nunba.cloudfront.net
@@ -34811,6 +34817,8 @@
 :: geoloc.appscion.com
 0.0.0.0 geoloc.hurriyet.com.tr
 :: geoloc.hurriyet.com.tr
+0.0.0.0 geolocation-api.invisionapp.com
+:: geolocation-api.invisionapp.com
 0.0.0.0 geolocation.performgroup.com
 :: geolocation.performgroup.com
 0.0.0.0 geolocation.t-online.de
@@ -34905,8 +34913,6 @@
 :: gfdf2df5.webcindario.com
 0.0.0.0 gfe.geforce.com
 :: gfe.geforce.com
-0.0.0.0 gfe.nvidia.com
-:: gfe.nvidia.com
 0.0.0.0 gfkuwflbhsjdabnu4nfukerfqwlfwr4rw.ringbalor.com
 :: gfkuwflbhsjdabnu4nfukerfqwlfwr4rw.ringbalor.com
 0.0.0.0 gfoymnesee.bradul.creatory.org
@@ -35201,8 +35207,6 @@
 :: go.clickhoptk.com
 0.0.0.0 go.clktrkd.com
 :: go.clktrkd.com
-0.0.0.0 go.co-aa831.stream
-:: go.co-aa831.stream
 0.0.0.0 go.conversionmasters.com
 :: go.conversionmasters.com
 0.0.0.0 go.data1rtb.com
@@ -35497,6 +35501,8 @@
 :: gpejc98736.i.lithium.com
 0.0.0.0 gpoint.gpoint.com.gr
 :: gpoint.gpoint.com.gr
+0.0.0.0 gr.invisionapp.com
+:: gr.invisionapp.com
 0.0.0.0 gr.linkwi.se
 :: gr.linkwi.se
 0.0.0.0 grade.market.yandex.ru
@@ -57843,6 +57849,8 @@
 :: roskjws.cz.cc
 0.0.0.0 ross.starvingmillionaire.org
 :: ross.starvingmillionaire.org
+0.0.0.0 rossmannbonyzakupowe.grvdc.eu
+:: rossmannbonyzakupowe.grvdc.eu
 0.0.0.0 rot.rusoul.ru
 :: rot.rusoul.ru
 0.0.0.0 rot2.imoti.net
@@ -62669,6 +62677,8 @@
 :: srd.simba.taobao.com
 0.0.0.0 srepdata.desmoinesregister.com
 :: srepdata.desmoinesregister.com
+0.0.0.0 srepdata.tennessean.com
+:: srepdata.tennessean.com
 0.0.0.0 srepdata.usatoday.com
 :: srepdata.usatoday.com
 0.0.0.0 srilaini1helprecoveryii.000webhostapp.com
@@ -74671,6 +74681,8 @@
 :: www.anywhere.com
 0.0.0.0 www.aombjl099.com
 :: www.aombjl099.com
+0.0.0.0 www.ape-asset-tag.timeinc.com
+:: www.ape-asset-tag.timeinc.com
 0.0.0.0 www.api.ad.intl.xiaomi.com
 :: www.api.ad.intl.xiaomi.com
 0.0.0.0 www.api.ad.snappea.com
@@ -76451,8 +76463,6 @@
 :: www.gnezdodesign.ru
 0.0.0.0 www.gns-consola.com
 :: www.gns-consola.com
-0.0.0.0 www.go.co-aa831.stream
-:: www.go.co-aa831.stream
 0.0.0.0 www.go.data1rtb.com
 :: www.go.data1rtb.com
 0.0.0.0 www.go2clickbank.com
@@ -78817,6 +78827,8 @@
 :: www.reniero.org
 0.0.0.0 www.rep.privatesearch.club
 :: www.rep.privatesearch.club
+0.0.0.0 www.retailproductzone.com
+:: www.retailproductzone.com
 0.0.0.0 www.rethemniotikokarnavali.gr
 :: www.rethemniotikokarnavali.gr
 0.0.0.0 www.rettificabellani.com
@@ -78869,6 +78881,8 @@
 :: www.romanticmaui.net
 0.0.0.0 www.rooversadvocatuur.nl
 :: www.rooversadvocatuur.nl
+0.0.0.0 www.rossmannbonyzakupowe.grvdc.eu
+:: www.rossmannbonyzakupowe.grvdc.eu
 0.0.0.0 www.rossorelli.ru
 :: www.rossorelli.ru
 0.0.0.0 www.rotator.axiatraders.com
@@ -80723,8 +80737,6 @@
 :: www381.ddlczn.com
 0.0.0.0 www4.at.debianbase.de
 :: www4.at.debianbase.de
-0.0.0.0 www4.co-aa198.stream
-:: www4.co-aa198.stream
 0.0.0.0 www4.counter.bloke.com
 :: www4.counter.bloke.com
 0.0.0.0 www4.delta-search.com
