@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Aug 16 10:13:36 CEST 2019
+# Last update: Sat Aug 17 03:01:07 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41254
+# Number of unique hostnames: 41267
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -20693,6 +20693,8 @@
 :: bx6.blrf.net
 0.0.0.0 bxcpzonasqura.ml-agency.net
 :: bxcpzonasqura.ml-agency.net
+0.0.0.0 bxs.bilandgo.com
+:: bxs.bilandgo.com
 0.0.0.0 by.mbai.cn
 :: by.mbai.cn
 0.0.0.0 by3301-a.1drv.com
@@ -21919,6 +21921,8 @@
 :: cdn.crowdtwist.com
 0.0.0.0 cdn.danmu.56.com
 :: cdn.danmu.56.com
+0.0.0.0 cdn.debitcrebit669.com
+:: cdn.debitcrebit669.com
 0.0.0.0 cdn.digitalcity.com
 :: cdn.digitalcity.com
 0.0.0.0 cdn.directtrk.com
@@ -28165,6 +28169,8 @@
 :: ddd.gouwuke.cn
 0.0.0.0 ddd.haodizhi666.com
 :: ddd.haodizhi666.com
+0.0.0.0 dde.jishengjc.com
+:: dde.jishengjc.com
 0.0.0.0 ddf.shumayin.com
 :: ddf.shumayin.com
 0.0.0.0 ddfnmo6ev4fd.cloudfront.net
@@ -28423,8 +28429,6 @@
 :: demo.ithreeweb.com
 0.0.0.0 demo.jointreport-switch.com
 :: demo.jointreport-switch.com
-0.0.0.0 demo.pornuha4you.com
-:: demo.pornuha4you.com
 0.0.0.0 demo.shispare.com
 :: demo.shispare.com
 0.0.0.0 demo.sp-kunde.de
@@ -30699,6 +30703,8 @@
 :: e.u4j1ec.cn
 0.0.0.0 e.us8l5b.cn
 :: e.us8l5b.cn
+0.0.0.0 e.uu0152q.cn
+:: e.uu0152q.cn
 0.0.0.0 e.uw45o.cn
 :: e.uw45o.cn
 0.0.0.0 e.v48bna.cn
@@ -30715,12 +30721,18 @@
 :: e.vpmjg.cn
 0.0.0.0 e.vvme9.cn
 :: e.vvme9.cn
+0.0.0.0 e.w1xj0.cn
+:: e.w1xj0.cn
 0.0.0.0 e.w2xj4.cn
 :: e.w2xj4.cn
+0.0.0.0 e.w5xj4.cn
+:: e.w5xj4.cn
 0.0.0.0 e.w5xj9.cn
 :: e.w5xj9.cn
 0.0.0.0 e.w6o2c.cn
 :: e.w6o2c.cn
+0.0.0.0 e.w6xj6.cn
+:: e.w6xj6.cn
 0.0.0.0 e.wc59b.cn
 :: e.wc59b.cn
 0.0.0.0 e.wcenr.com
@@ -31245,8 +31257,6 @@
 :: elb.qublixaws.com
 0.0.0.0 elbcradio.tcalr.org
 :: elbcradio.tcalr.org
-0.0.0.0 electricfence.levsantronic.ro
-:: electricfence.levsantronic.ro
 0.0.0.0 electro.demos.su
 :: electro.demos.su
 0.0.0.0 electrohemostasis.makemoneywithmegan.net
@@ -38043,6 +38053,8 @@
 :: ikwyd.analytics.sapo.pt
 0.0.0.0 iliilllio00oo0.321.cn
 :: iliilllio00oo0.321.cn
+0.0.0.0 iln.zzjpgqd.com
+:: iln.zzjpgqd.com
 0.0.0.0 ilovesport.kiev.ua
 :: ilovesport.kiev.ua
 0.0.0.0 ilovetosquirt.nichedsites.com
@@ -41551,8 +41563,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -44297,6 +44307,8 @@
 :: m.tv12h.cn
 0.0.0.0 m.usersonline.com
 :: m.usersonline.com
+0.0.0.0 m.uu0152q.cn
+:: m.uu0152q.cn
 0.0.0.0 m.uw45o.cn
 :: m.uw45o.cn
 0.0.0.0 m.v76rk.cn
@@ -44319,10 +44331,16 @@
 :: m.vpmjg.cn
 0.0.0.0 m.vvme9.cn
 :: m.vvme9.cn
+0.0.0.0 m.w1xj0.cn
+:: m.w1xj0.cn
 0.0.0.0 m.w2xj4.cn
 :: m.w2xj4.cn
+0.0.0.0 m.w5xj4.cn
+:: m.w5xj4.cn
 0.0.0.0 m.w6o2c.cn
 :: m.w6o2c.cn
+0.0.0.0 m.w6xj6.cn
+:: m.w6xj6.cn
 0.0.0.0 m.w720p.cn
 :: m.w720p.cn
 0.0.0.0 m.w7xj7.cn
@@ -44363,6 +44381,8 @@
 :: m.wshufa.com
 0.0.0.0 m.wuqutu.com
 :: m.wuqutu.com
+0.0.0.0 m.wxjrd.cn
+:: m.wxjrd.cn
 0.0.0.0 m.x316f.cn
 :: m.x316f.cn
 0.0.0.0 m.x78tg.cn
@@ -44421,6 +44441,8 @@
 :: m.yjias.com
 0.0.0.0 m.yooli.com
 :: m.yooli.com
+0.0.0.0 m.youxiaoliu.cn
+:: m.youxiaoliu.cn
 0.0.0.0 m.yoyi.com.cn
 :: m.yoyi.com.cn
 0.0.0.0 m.yplzarxt.cn
@@ -46971,8 +46993,12 @@
 :: mntr.static.ciuvo.com
 0.0.0.0 mo.atm.youku.com
 :: mo.atm.youku.com
+0.0.0.0 mo.dfnbyn.top
+:: mo.dfnbyn.top
 0.0.0.0 mo.freeindoapp.com
 :: mo.freeindoapp.com
+0.0.0.0 mo.gsasqa.cn
+:: mo.gsasqa.cn
 0.0.0.0 mo.haloapps.cn
 :: mo.haloapps.cn
 0.0.0.0 mo.res.wpscdn.cn
@@ -46981,6 +47007,8 @@
 :: mo.spaces.ru
 0.0.0.0 mo.wajsa.com
 :: mo.wajsa.com
+0.0.0.0 mo.zdceaa.cn
+:: mo.zdceaa.cn
 0.0.0.0 mo5kx7liz2z7mtr8jdb4.littlematchagirl.com.au
 :: mo5kx7liz2z7mtr8jdb4.littlematchagirl.com.au
 0.0.0.0 mob-uu.dev.webapp.163.com
@@ -53311,6 +53339,8 @@
 :: photo.rdguj.cn
 0.0.0.0 photo.shyexiang.cn
 :: photo.shyexiang.cn
+0.0.0.0 photo.tycwpx.cn
+:: photo.tycwpx.cn
 0.0.0.0 photo.video.gay.free.fr
 :: photo.video.gay.free.fr
 0.0.0.0 photo.welldex.cn
@@ -61371,6 +61401,8 @@
 :: shiwan.dl.gxpan.cn
 0.0.0.0 shizuoka.ssvf.mbsrv.jp
 :: shizuoka.ssvf.mbsrv.jp
+0.0.0.0 shj.tjawst.com
+:: shj.tjawst.com
 0.0.0.0 shlyunko.zyr.su
 :: shlyunko.zyr.su
 0.0.0.0 shoal.grahanusareadymix.com
@@ -62683,8 +62715,6 @@
 :: srepdata.usatoday.com
 0.0.0.0 srilaini1helprecoveryii.000webhostapp.com
 :: srilaini1helprecoveryii.000webhostapp.com
-0.0.0.0 srisaranankara.sch.lk
-:: srisaranankara.sch.lk
 0.0.0.0 srpze.saqibsiddiqui.com
 :: srpze.saqibsiddiqui.com
 0.0.0.0 srutebmduoh.myfw.us
@@ -72373,10 +72403,6 @@
 :: weanswer.matomo.cloud
 0.0.0.0 web-ccfr.tsinghua.edu.cn
 :: web-ccfr.tsinghua.edu.cn
-0.0.0.0 web-disp.titan.mgtv.com
-:: web-disp.titan.mgtv.com
-0.0.0.0 web-disp1.titan.mgtv.com
-:: web-disp1.titan.mgtv.com
 0.0.0.0 web-frontend-dot-sc-analytics.appspot.com
 :: web-frontend-dot-sc-analytics.appspot.com
 0.0.0.0 web-hosting.hitslog.net
@@ -73773,6 +73799,8 @@
 :: wsc.ehost-services.com
 0.0.0.0 wsc1.surf-town.net
 :: wsc1.surf-town.net
+0.0.0.0 wsd.guonongllc.com
+:: wsd.guonongllc.com
 0.0.0.0 wsdm.edu.bd
 :: wsdm.edu.bd
 0.0.0.0 wsey.000webhostapp.com
@@ -80533,8 +80561,6 @@
 :: www.zoeblitzer-natursteine.de
 0.0.0.0 www.zoominnovate.online
 :: www.zoominnovate.online
-0.0.0.0 www.zscio.com
-:: www.zscio.com
 0.0.0.0 www.zshacker.com
 :: www.zshacker.com
 0.0.0.0 www.zvideo.at
