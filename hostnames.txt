@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Aug 17 03:01:07 CEST 2019
+# Last update: Sun Aug 18 08:50:20 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41267
+# Number of unique hostnames: 41276
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -26801,6 +26801,8 @@
 :: d258hxk86e2ixw.cloudfront.net
 0.0.0.0 d258j801nsw1p7.cloudfront.net
 :: d258j801nsw1p7.cloudfront.net
+0.0.0.0 d25dfknw9ghxs6.cloudfront.net
+:: d25dfknw9ghxs6.cloudfront.net
 0.0.0.0 d25dm6si79ycpo.cloudfront.net
 :: d25dm6si79ycpo.cloudfront.net
 0.0.0.0 d25ruj6ht8bs1.cloudfront.net
@@ -26961,6 +26963,8 @@
 :: d2k8yz7zlc0yyi.cloudfront.net
 0.0.0.0 d2kbaqwa2nt57l.cloudfront.net
 :: d2kbaqwa2nt57l.cloudfront.net
+0.0.0.0 d2kr2fnkbj2h4c.cloudfront.net
+:: d2kr2fnkbj2h4c.cloudfront.net
 0.0.0.0 d2kz60b0gq4lg.cloudfront.net
 :: d2kz60b0gq4lg.cloudfront.net
 0.0.0.0 d2l29aklexcvhg.cloudfront.net
@@ -30731,6 +30735,8 @@
 :: e.w5xj9.cn
 0.0.0.0 e.w6o2c.cn
 :: e.w6o2c.cn
+0.0.0.0 e.w6xj4.cn
+:: e.w6xj4.cn
 0.0.0.0 e.w6xj6.cn
 :: e.w6xj6.cn
 0.0.0.0 e.wc59b.cn
@@ -41317,6 +41323,8 @@
 :: kn.ylrca.cn
 0.0.0.0 kn.zzdahan.com
 :: kn.zzdahan.com
+0.0.0.0 knb.hlgmsy.com
+:: knb.hlgmsy.com
 0.0.0.0 knewline.in.net
 :: knewline.in.net
 0.0.0.0 kniga.tora.ru
@@ -41563,6 +41571,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -43911,6 +43921,8 @@
 :: m.gameyun907.net
 0.0.0.0 m.ganrs.com
 :: m.ganrs.com
+0.0.0.0 m.gaodianfl.com
+:: m.gaodianfl.com
 0.0.0.0 m.gbaog.com
 :: m.gbaog.com
 0.0.0.0 m.gbe665.cn
@@ -44005,6 +44017,8 @@
 :: m.inqra.cn
 0.0.0.0 m.invitation.cantonfair.org.cn
 :: m.invitation.cantonfair.org.cn
+0.0.0.0 m.io019p.cn
+:: m.io019p.cn
 0.0.0.0 m.iorgb.com
 :: m.iorgb.com
 0.0.0.0 m.iqasgw.com
@@ -47009,6 +47023,8 @@
 :: mo.wajsa.com
 0.0.0.0 mo.zdceaa.cn
 :: mo.zdceaa.cn
+0.0.0.0 mo.zsyse.top
+:: mo.zsyse.top
 0.0.0.0 mo5kx7liz2z7mtr8jdb4.littlematchagirl.com.au
 :: mo5kx7liz2z7mtr8jdb4.littlematchagirl.com.au
 0.0.0.0 mob-uu.dev.webapp.163.com
@@ -53089,8 +53105,6 @@
 :: pen.zzn.com
 0.0.0.0 pendencia21.com.sapo.pt
 :: pendencia21.com.sapo.pt
-0.0.0.0 pending-delete.ename.net
-:: pending-delete.ename.net
 0.0.0.0 pending-secure-account-inc.hematech.co.id
 :: pending-secure-account-inc.hematech.co.id
 0.0.0.0 penelo90.beget.tech
@@ -57967,6 +57981,10 @@
 :: rplog.baidu.com
 0.0.0.0 rpm.newrelisc.com
 :: rpm.newrelisc.com
+0.0.0.0 rps-p2.rockpapershotgun.com
+:: rps-p2.rockpapershotgun.com
+0.0.0.0 rps-uk.rockpapershotgun.com
+:: rps-uk.rockpapershotgun.com
 0.0.0.0 rpt.anchorfree.net
 :: rpt.anchorfree.net
 0.0.0.0 rpt.footlocker.com
@@ -64621,8 +64639,6 @@
 :: sub.beirinckx.be
 0.0.0.0 sub.powerapple.com
 :: sub.powerapple.com
-0.0.0.0 sub.topber.com
-:: sub.topber.com
 0.0.0.0 sub.vavm.org
 :: sub.vavm.org
 0.0.0.0 subacute-terminatio.000webhostapp.com
@@ -70197,6 +70213,8 @@
 :: urlcheck.hulu.com
 0.0.0.0 urlserverappstoreca.selfip.com
 :: urlserverappstoreca.selfip.com
+0.0.0.0 urs.zdnet.com
+:: urs.zdnet.com
 0.0.0.0 us-central1-narvar-data-lake.cloudfunctions.net
 :: us-central1-narvar-data-lake.cloudfunctions.net
 0.0.0.0 us-east-1-ads.superawesome.tv
@@ -72211,6 +72229,8 @@
 :: wake.greatchittorgarh.com
 0.0.0.0 walec.ovh.org
 :: walec.ovh.org
+0.0.0.0 wall.vgr.com
+:: wall.vgr.com
 0.0.0.0 walla.yad2.co.il
 :: walla.yad2.co.il
 0.0.0.0 wallet.advcash.com
@@ -77593,8 +77613,6 @@
 :: www.locgest.com
 0.0.0.0 www.lockview.cn
 :: www.lockview.cn
-0.0.0.0 www.log-in-verlag.de
-:: www.log-in-verlag.de
 0.0.0.0 www.log-management.loggly.com
 :: www.log-management.loggly.com
 0.0.0.0 www.log.getadblock.com
