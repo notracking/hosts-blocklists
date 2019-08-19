@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Aug 18 08:50:20 CEST 2019
+# Last update: Mon Aug 19 08:45:59 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41276
+# Number of unique hostnames: 41264
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -709,6 +709,8 @@
 :: 28.securefinds2.com
 0.0.0.0 283.laobanfa.com
 :: 283.laobanfa.com
+0.0.0.0 2837c085a88c1ba307d4594a.cloudhosting.rsaweb.co.za
+:: 2837c085a88c1ba307d4594a.cloudhosting.rsaweb.co.za
 0.0.0.0 290684.en.world-stone.com
 :: 290684.en.world-stone.com
 0.0.0.0 296f4h3wluqxmie0yqbk8n.littlematchagirl.com.au
@@ -13575,8 +13577,6 @@
 :: ahmadmustaqim.staff.unja.ac.id
 0.0.0.0 ahmadsitompul75.000webhostapp.com
 :: ahmadsitompul75.000webhostapp.com
-0.0.0.0 ahmed.ipeary.com
-:: ahmed.ipeary.com
 0.0.0.0 ahmkfi.best.volyn.ua
 :: ahmkfi.best.volyn.ua
 0.0.0.0 ahomedia.zxfactory.nl
@@ -16499,8 +16499,6 @@
 :: asphalt8.hackfree.us
 0.0.0.0 aspirin.about-tabs.com
 :: aspirin.about-tabs.com
-0.0.0.0 aspsensewiretransfergoogle.duckdns.org
-:: aspsensewiretransfergoogle.duckdns.org
 0.0.0.0 asr.geilefotzen.at
 :: asr.geilefotzen.at
 0.0.0.0 asrv-a.akamaihd.net
@@ -29429,8 +29427,6 @@
 :: dojx47ab4dyxi.cloudfront.net
 0.0.0.0 doktester.orgfree.com
 :: doktester.orgfree.com
-0.0.0.0 dokucenter.optitime.de
-:: dokucenter.optitime.de
 0.0.0.0 dokzl8xhmt1x7.cloudfront.net
 :: dokzl8xhmt1x7.cloudfront.net
 0.0.0.0 dol.deliver.ifeng.com
@@ -41119,8 +41115,6 @@
 :: kfc.i.illuminationes.com
 0.0.0.0 kfewaz.zh1155.com
 :: kfewaz.zh1155.com
-0.0.0.0 kfu.digimarkting.com
-:: kfu.digimarkting.com
 0.0.0.0 kfxpy69559.i.lithium.com
 :: kfxpy69559.i.lithium.com
 0.0.0.0 kgmobilestat.kugou.com
@@ -41983,8 +41977,6 @@
 :: leadtracking.plumvoice.com
 0.0.0.0 leahram.daimlercruiz.ml
 :: leahram.daimlercruiz.ml
-0.0.0.0 learning.ipeary.com
-:: learning.ipeary.com
 0.0.0.0 learning.worldjumprope.org
 :: learning.worldjumprope.org
 0.0.0.0 lectscalimertdr43.land.ru
@@ -47093,8 +47085,6 @@
 :: mobile.aws.weather.com
 0.0.0.0 mobile.banzai.it
 :: mobile.banzai.it
-0.0.0.0 mobile.beliar.ru
-:: mobile.beliar.ru
 0.0.0.0 mobile.bet.pt
 :: mobile.bet.pt
 0.0.0.0 mobile.bet365.com
@@ -59365,8 +59355,6 @@
 :: sbnc.hak.su
 0.0.0.0 sbpb1.qulishi.com
 :: sbpb1.qulishi.com
-0.0.0.0 sbs.ipeary.com
-:: sbs.ipeary.com
 0.0.0.0 sbups6.moro.pershoreprivatehire.co.uk
 :: sbups6.moro.pershoreprivatehire.co.uk
 0.0.0.0 sbx.pagesjaunes.fr
@@ -62273,8 +62261,6 @@
 :: soceron.org.br
 0.0.0.0 social-connect.spot.im
 :: social-connect.spot.im
-0.0.0.0 social.die-lehrstelle.ch
-:: social.die-lehrstelle.ch
 0.0.0.0 social.msgplus.net
 :: social.msgplus.net
 0.0.0.0 socialbump.hekko24.pl
@@ -66169,8 +66155,6 @@
 :: test.audiencesa.gemius.com
 0.0.0.0 test.beejapan.org
 :: test.beejapan.org
-0.0.0.0 test.digimarkting.com
-:: test.digimarkting.com
 0.0.0.0 test.dirktuip.nl
 :: test.dirktuip.nl
 0.0.0.0 test.eduancm.com
@@ -69209,8 +69193,6 @@
 :: u64895004ikkff.000webhostapp.com
 0.0.0.0 u6543ewfgh.dyndns-work.com
 :: u6543ewfgh.dyndns-work.com
-0.0.0.0 u700222964.hostingerapp.com
-:: u700222964.hostingerapp.com
 0.0.0.0 u715381.sendgrid.org
 :: u715381.sendgrid.org
 0.0.0.0 u73801620533084.s.push-21.cdnsun.com
@@ -71317,8 +71299,6 @@
 :: vilaghelyzete.blogspot.com
 0.0.0.0 vilagpolgarok.blogspot.hu
 :: vilagpolgarok.blogspot.hu
-0.0.0.0 vilamax.home.pl
-:: vilamax.home.pl
 0.0.0.0 vimages.videoprofessor.com
 :: vimages.videoprofessor.com
 0.0.0.0 vimg.dwstatic.com
@@ -74643,8 +74623,6 @@
 :: www.algocashmaster.com
 0.0.0.0 www.algocashmaster.net
 :: www.algocashmaster.net
-0.0.0.0 www.alhassanain.com
-:: www.alhassanain.com
 0.0.0.0 www.all-about-mall.com
 :: www.all-about-mall.com
 0.0.0.0 www.alladultdirectories.com
@@ -75641,6 +75619,8 @@
 :: www.cutillas.fr
 0.0.0.0 www.cvent.axiatraders.com
 :: www.cvent.axiatraders.com
+0.0.0.0 www.cvshopfactory.com
+:: www.cvshopfactory.com
 0.0.0.0 www.cwahi.net
 :: www.cwahi.net
 0.0.0.0 www.cws.conviva.com
@@ -77613,6 +77593,8 @@
 :: www.locgest.com
 0.0.0.0 www.lockview.cn
 :: www.lockview.cn
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.log-management.loggly.com
 :: www.log-management.loggly.com
 0.0.0.0 www.log.getadblock.com
@@ -79671,8 +79653,6 @@
 :: www.thebigoutdoors.co.uk
 0.0.0.0 www.thecrack.net
 :: www.thecrack.net
-0.0.0.0 www.thedournalist.com
-:: www.thedournalist.com
 0.0.0.0 www.thegaymen.com
 :: www.thegaymen.com
 0.0.0.0 www.thehitman.com
@@ -79959,8 +79939,6 @@
 :: www.uniqueinternettexasholdempoker.com
 0.0.0.0 www.unitedmall.com
 :: www.unitedmall.com
-0.0.0.0 www.unmutedbeauty.com
-:: www.unmutedbeauty.com
 0.0.0.0 www.update-flash.s0l8ybzj9u.top
 :: www.update-flash.s0l8ybzj9u.top
 0.0.0.0 www.updatesoftwaresend.com
@@ -81089,8 +81067,6 @@
 :: x5.goo.ne.jp
 0.0.0.0 x5.ifdef.jp
 :: x5.ifdef.jp
-0.0.0.0 x5.ipeary.com
-:: x5.ipeary.com
 0.0.0.0 x5.yamanoha.com
 :: x5.yamanoha.com
 0.0.0.0 x5engqblicfklf6x0mf6.littlematchagirl.com.au
