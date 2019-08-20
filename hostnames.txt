@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Aug 19 08:45:59 CEST 2019
+# Last update: Tue Aug 20 08:48:29 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41264
+# Number of unique hostnames: 41289
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -13527,6 +13527,8 @@
 :: agent.tamedia.com.tw
 0.0.0.0 aggiornamento57586546464.altervista.org
 :: aggiornamento57586546464.altervista.org
+0.0.0.0 agility.cnn.com
+:: agility.cnn.com
 0.0.0.0 agl-intl.hotstar.com
 :: agl-intl.hotstar.com
 0.0.0.0 agl.hotstar.com
@@ -14297,6 +14299,8 @@
 :: amosjoe11.000webhostapp.com
 0.0.0.0 amp-error-reporting.appspot.com
 :: amp-error-reporting.appspot.com
+0.0.0.0 amp.akamaized.net
+:: amp.akamaized.net
 0.0.0.0 amp.spot.im
 :: amp.spot.im
 0.0.0.0 ampcid.google.com
@@ -19501,8 +19505,14 @@
 :: bicpzonasequra.vivabcps.tk
 0.0.0.0 bicpzone.wwwsgss2.a2hosted.com
 :: bicpzone.wwwsgss2.a2hosted.com
+0.0.0.0 bid-global.ybp.yahoo.com
+:: bid-global.ybp.yahoo.com
 0.0.0.0 bid.axiatraders.com
 :: bid.axiatraders.com
+0.0.0.0 bid.stg.ybp.yahoo.com
+:: bid.stg.ybp.yahoo.com
+0.0.0.0 bidbarrel.cbsnews.com
+:: bidbarrel.cbsnews.com
 0.0.0.0 bidder.mdspinc.com
 :: bidder.mdspinc.com
 0.0.0.0 bidder.talkingpointsmemo.com
@@ -24917,6 +24927,8 @@
 :: control.smbeat.jp
 0.0.0.0 controlroom.netmining.com
 :: controlroom.netmining.com
+0.0.0.0 conv.log.go.com
+:: conv.log.go.com
 0.0.0.0 conv.youdao.com
 :: conv.youdao.com
 0.0.0.0 conversation-read.spot.im
@@ -28779,8 +28791,6 @@
 :: dfzenk6ej1plw.cloudfront.net
 0.0.0.0 dg.gamebuffet.mobi
 :: dg.gamebuffet.mobi
-0.0.0.0 dg.k.jd.com
-:: dg.k.jd.com
 0.0.0.0 dg5thrrj8f.sm1qrqaeri.madpendesign.com.au
 :: dg5thrrj8f.sm1qrqaeri.madpendesign.com.au
 0.0.0.0 dgenuiservscrow.co.uk.micro36softoutlook17.mainesseproptscrillar.com
@@ -30855,6 +30865,8 @@
 :: eas.almamedia.fi
 0.0.0.0 eas.hitta.se
 :: eas.hitta.se
+0.0.0.0 east-bid.ybp.yahoo.com
+:: east-bid.ybp.yahoo.com
 0.0.0.0 eastmead1.ipower.com
 :: eastmead1.ipower.com
 0.0.0.0 eastwood.prognet.com
@@ -39625,6 +39637,8 @@
 :: irudhkunrlfu25fhkaqw34blr5qlby4tgq43t.orrisbirth.com
 0.0.0.0 is-tracking-pixel-api-prod.appspot.com
 :: is-tracking-pixel-api-prod.appspot.com
+0.0.0.0 is.snssdk.com
+:: is.snssdk.com
 0.0.0.0 is2.websearch.com
 :: is2.websearch.com
 0.0.0.0 isaac-mafi.persiangig.com
@@ -43017,6 +43031,8 @@
 :: login.paypal.update.scre-chkot.com
 0.0.0.0 login.secure.text.wfmobile.site
 :: login.secure.text.wfmobile.site
+0.0.0.0 login.sina.com.cn
+:: login.sina.com.cn
 0.0.0.0 login.wellsfargo.online.validate.data.docrenewx.com
 :: login.wellsfargo.online.validate.data.docrenewx.com
 0.0.0.0 login8568956285478458956895685000848545.tunisia-today.org
@@ -54391,8 +54407,12 @@
 :: pmloa40p.beget.tech
 0.0.0.0 pmm.people.com.cn
 :: pmm.people.com.cn
+0.0.0.0 pmo127b62.hz1cname.17uhui.net
+:: pmo127b62.hz1cname.17uhui.net
 0.0.0.0 pmp.adinall.com
 :: pmp.adinall.com
+0.0.0.0 pmp.ybp.yahoo.com
+:: pmp.ybp.yahoo.com
 0.0.0.0 pmptrack-autohome.gentags.net
 :: pmptrack-autohome.gentags.net
 0.0.0.0 pmptrack-letv.gentags.net
@@ -54811,8 +54831,20 @@
 :: pqycp74285.i.lithium.com
 0.0.0.0 pqycp74285.lithium.com
 :: pqycp74285.lithium.com
+0.0.0.0 pr-apac.ybp.yahoo.com
+:: pr-apac.ybp.yahoo.com
+0.0.0.0 pr-bh-bucket.ybp.yahoo.com
+:: pr-bh-bucket.ybp.yahoo.com
 0.0.0.0 pr-bh.ybp.yahoo.com
 :: pr-bh.ybp.yahoo.com
+0.0.0.0 pr-bucket.ybp.yahoo.com
+:: pr-bucket.ybp.yahoo.com
+0.0.0.0 pr-emea.ybp.yahoo.com
+:: pr-emea.ybp.yahoo.com
+0.0.0.0 pr-preprod-2.ybp.yahoo.com
+:: pr-preprod-2.ybp.yahoo.com
+0.0.0.0 pr-preprod.ybp.yahoo.com
+:: pr-preprod.ybp.yahoo.com
 0.0.0.0 pr-static.empflix.com
 :: pr-static.empflix.com
 0.0.0.0 pr-static.tnaflix.com
@@ -54835,6 +54867,8 @@
 :: pr.realvu.net
 0.0.0.0 pr.rusmed.ru
 :: pr.rusmed.ru
+0.0.0.0 pr.stg.ybp.yahoo.com
+:: pr.stg.ybp.yahoo.com
 0.0.0.0 pr.wikiwiki.jp
 :: pr.wikiwiki.jp
 0.0.0.0 pr.ybp.yahoo.com
@@ -62049,6 +62083,8 @@
 :: smetrics.ctv.ca
 0.0.0.0 smetrics.delta.com
 :: smetrics.delta.com
+0.0.0.0 smetrics.dickssportinggoods.com
+:: smetrics.dickssportinggoods.com
 0.0.0.0 smetrics.fedex.com
 :: smetrics.fedex.com
 0.0.0.0 smetrics.fifa.com
@@ -64429,6 +64465,8 @@
 :: stf.terra.com.br
 0.0.0.0 stfe.latestly.com
 :: stfe.latestly.com
+0.0.0.0 stg-api.ybp.yahoo.com
+:: stg-api.ybp.yahoo.com
 0.0.0.0 stg.jwpltx.com
 :: stg.jwpltx.com
 0.0.0.0 stg.wp.pl
@@ -64943,6 +64981,8 @@
 :: sw.interpolls.com
 0.0.0.0 sw.mobile.sogou.com
 :: sw.mobile.sogou.com
+0.0.0.0 sw88.go.com
+:: sw88.go.com
 0.0.0.0 swa.gtimg.com
 :: swa.gtimg.com
 0.0.0.0 swa.metro.co.uk
@@ -65499,6 +65539,8 @@
 :: tag.cdnmaster.cn
 0.0.0.0 tag.datariver.ru
 :: tag.datariver.ru
+0.0.0.0 tag.dickssportinggoods.com
+:: tag.dickssportinggoods.com
 0.0.0.0 tag.digitaltarget.ru
 :: tag.digitaltarget.ru
 0.0.0.0 tag.email-attitude.com
@@ -65909,6 +65951,8 @@
 :: tea.pornolomka.sex
 0.0.0.0 teachscape.vo.llnwd.net
 :: teachscape.vo.llnwd.net
+0.0.0.0 tealium.cbsnews.com
+:: tealium.cbsnews.com
 0.0.0.0 tealium.hs.llnwd.net
 :: tealium.hs.llnwd.net
 0.0.0.0 team.klookva.com.ua
@@ -73109,6 +73153,8 @@
 :: whn.star-media.cn
 0.0.0.0 who.knows.com
 :: who.knows.com
+0.0.0.0 whoami.akamai.net
+:: whoami.akamai.net
 0.0.0.0 wholefoods.ingest.reporting.creator-prod.zmags.com
 :: wholefoods.ingest.reporting.creator-prod.zmags.com
 0.0.0.0 whoson.smcorp.com
@@ -74559,6 +74605,8 @@
 :: www.agentsplanet.com
 0.0.0.0 www.agenziasanremo.com
 :: www.agenziasanremo.com
+0.0.0.0 www.agility.cnn.com
+:: www.agility.cnn.com
 0.0.0.0 www.agrant.cn
 :: www.agrant.cn
 0.0.0.0 www.agrantsem.com
@@ -74805,8 +74853,6 @@
 :: www.applicationwiki.com
 0.0.0.0 www.applog.camera360.com
 :: www.applog.camera360.com
-0.0.0.0 www.apponic.com
-:: www.apponic.com
 0.0.0.0 www.appoutpost.com
 :: www.appoutpost.com
 0.0.0.0 www.apps.id.net
@@ -77599,6 +77645,8 @@
 :: www.log-management.loggly.com
 0.0.0.0 www.log.getadblock.com
 :: www.log.getadblock.com
+0.0.0.0 www.log.go.com
+:: www.log.go.com
 0.0.0.0 www.loggerx.com
 :: www.loggerx.com
 0.0.0.0 www.logging.to
@@ -81701,6 +81749,8 @@
 :: ybinst9.ec.yimg.com
 0.0.0.0 yboys66435.i.lithium.com
 :: yboys66435.i.lithium.com
+0.0.0.0 ybp.yahoo.com
+:: ybp.yahoo.com
 0.0.0.0 ybveoy.est.northerndishedends.com
 :: ybveoy.est.northerndishedends.com
 0.0.0.0 yc-ads.s3.amazonaws.com
