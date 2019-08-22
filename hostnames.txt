@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Aug 21 08:47:41 CEST 2019
+# Last update: Thu Aug 22 08:47:58 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41289
+# Number of unique hostnames: 41290
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -38961,6 +38961,8 @@
 :: info.howto-news.info
 0.0.0.0 info.iciba.com
 :: info.iciba.com
+0.0.0.0 info.inamo.ru
+:: info.inamo.ru
 0.0.0.0 info.instantmixcup.com
 :: info.instantmixcup.com
 0.0.0.0 info.ipkvko.kz
