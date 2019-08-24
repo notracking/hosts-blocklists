@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Aug 23 08:46:31 CEST 2019
+# Last update: Sat Aug 24 08:45:41 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41295
+# Number of unique hostnames: 41302
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -14623,6 +14623,12 @@
 :: analytics.lk.api.ditto.com
 0.0.0.0 analytics.loop-cloud.de
 :: analytics.loop-cloud.de
+0.0.0.0 analytics.lucidchart.com
+:: analytics.lucidchart.com
+0.0.0.0 analytics.lucidchart.eu
+:: analytics.lucidchart.eu
+0.0.0.0 analytics.lucidpress.com
+:: analytics.lucidpress.com
 0.0.0.0 analytics.magelan.it
 :: analytics.magelan.it
 0.0.0.0 analytics.mail-corp.com
@@ -14701,6 +14707,10 @@
 :: analytics.popsci.com
 0.0.0.0 analytics.posttv.com
 :: analytics.posttv.com
+0.0.0.0 analytics.preprodchart.com
+:: analytics.preprodchart.com
+0.0.0.0 analytics.preprodpress.com
+:: analytics.preprodpress.com
 0.0.0.0 analytics.primorske.si
 :: analytics.primorske.si
 0.0.0.0 analytics.prx.org
@@ -26711,6 +26721,8 @@
 :: d1uydqzj7b9nt9.cloudfront.net
 0.0.0.0 d1v6js7bjzmhoa.cloudfront.net
 :: d1v6js7bjzmhoa.cloudfront.net
+0.0.0.0 d1v99qnc7usc0g.cloudfront.net
+:: d1v99qnc7usc0g.cloudfront.net
 0.0.0.0 d1v9u0bgi1uimx.cloudfront.net
 :: d1v9u0bgi1uimx.cloudfront.net
 0.0.0.0 d1vbm0eveofcle.cloudfront.net
@@ -35727,6 +35739,8 @@
 :: guannan.3322.net
 0.0.0.0 guard.w.cp.163.com
 :: guard.w.cp.163.com
+0.0.0.0 guce.huffpost.com
+:: guce.huffpost.com
 0.0.0.0 guerria-skateboard-tommy.tabrays.com
 :: guerria-skateboard-tommy.tabrays.com
 0.0.0.0 guess.h.qhimg.com
@@ -63065,6 +63079,8 @@
 :: stage.diabetes.bayer.in
 0.0.0.0 stage.edilnord.it
 :: stage.edilnord.it
+0.0.0.0 stage.guce.huffpost.com
+:: stage.guce.huffpost.com
 0.0.0.0 stage1.afghancuisine.com.au
 :: stage1.afghancuisine.com.au
 0.0.0.0 staging-api.spot.im
@@ -65197,8 +65213,6 @@
 :: synthes.vo.llnwd.net
 0.0.0.0 syp.shcfpx.com
 :: syp.shcfpx.com
-0.0.0.0 sypi.gpshopper.com
-:: sypi.gpshopper.com
 0.0.0.0 syrena.gminanekla.pl
 :: syrena.gminanekla.pl
 0.0.0.0 sys.osttirol-online.at
@@ -68855,6 +68869,8 @@
 :: truehits3.gits.net.th
 0.0.0.0 truma.pitchonlev.org.il
 :: truma.pitchonlev.org.il
+0.0.0.0 trunk.guce.huffpost.com
+:: trunk.guce.huffpost.com
 0.0.0.0 trust.extremereach.io
 :: trust.extremereach.io
 0.0.0.0 trustamerica.loggly.com
@@ -76293,8 +76309,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -78029,8 +78043,6 @@
 :: www.mpzw.com
 0.0.0.0 www.mscarsales.co.uk
 :: www.mscarsales.co.uk
-0.0.0.0 www.msftconnecttest.com
-:: www.msftconnecttest.com
 0.0.0.0 www.mshelp247.weebly.com
 :: www.mshelp247.weebly.com
 0.0.0.0 www.msm.mc
@@ -79085,6 +79097,8 @@
 :: www.scotiaonline.scotiabank.salferreras.com
 0.0.0.0 www.scoutvda.it
 :: www.scoutvda.it
+0.0.0.0 www.sdfbd.org
+:: www.sdfbd.org
 0.0.0.0 www.sdkconfig.ad.intl.xiaomi.com
 :: www.sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 www.sdlpgift.com
