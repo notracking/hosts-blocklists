@@ -78,7 +78,6 @@ addn-hosts=/path/to/hostnames.txt
  - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
  - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts
  - https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
- - https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
  - http://www.urlvir.com/export-hosts/
  - https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/.dev-tools/output/domains/ACTIVE/list
  - https://malc0de.com/bl/BOOT
