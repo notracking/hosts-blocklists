@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Aug 24 08:45:41 CEST 2019
+# Last update: Sun Aug 25 08:47:28 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41302
+# Number of unique hostnames: 41333
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -229,6 +229,8 @@
 :: 1.hysou.com
 0.0.0.0 1.i1766.com
 :: 1.i1766.com
+0.0.0.0 1.ideng.com
+:: 1.ideng.com
 0.0.0.0 1.im.cz
 :: 1.im.cz
 0.0.0.0 1.jacago.com
@@ -13085,6 +13087,8 @@
 :: aff.tagcdn.com
 0.0.0.0 aff.tamvakti.com
 :: aff.tamvakti.com
+0.0.0.0 aff.trackinglibrary.prodperfect.com
+:: aff.trackinglibrary.prodperfect.com
 0.0.0.0 aff.trafficjmp.com
 :: aff.trafficjmp.com
 0.0.0.0 aff.utrader.com
@@ -19391,6 +19395,8 @@
 :: berufe.web.fc2.com
 0.0.0.0 besc.baidustatic.com
 :: besc.baidustatic.com
+0.0.0.0 bespokepost.trackinglibrary.prodperfect.com
+:: bespokepost.trackinglibrary.prodperfect.com
 0.0.0.0 best.aliexpress.com
 :: best.aliexpress.com
 0.0.0.0 best.netease.com
@@ -20475,6 +20481,10 @@
 :: builder.lift.acquia.com
 0.0.0.0 building.msu.ac.th
 :: building.msu.ac.th
+0.0.0.0 buildium.trackinglibrary.prodperfect.com
+:: buildium.trackinglibrary.prodperfect.com
+0.0.0.0 buildout.trackinglibrary.prodperfect.com
+:: buildout.trackinglibrary.prodperfect.com
 0.0.0.0 builds.cngkitwala.com
 :: builds.cngkitwala.com
 0.0.0.0 bukneyerte.000webhostapp.com
@@ -21339,6 +21349,8 @@
 :: calendar.protofilm.com
 0.0.0.0 calendar.zakcomputer.com
 :: calendar.zakcomputer.com
+0.0.0.0 calendly.trackinglibrary.prodperfect.com
+:: calendly.trackinglibrary.prodperfect.com
 0.0.0.0 calimboersrs.16mb.com
 :: calimboersrs.16mb.com
 0.0.0.0 call.i-kiddi.co.uk
@@ -23871,6 +23883,8 @@
 :: client-dmp.suishenyun.cn
 0.0.0.0 client-event-reporter.twitch.tv
 :: client-event-reporter.twitch.tv
+0.0.0.0 client-events.bookbub.com
+:: client-events.bookbub.com
 0.0.0.0 client.88tours.com
 :: client.88tours.com
 0.0.0.0 client.cobrowser.net
@@ -29513,6 +29527,8 @@
 :: doo6pwib3qngu.cloudfront.net
 0.0.0.0 door.jessami.com
 :: door.jessami.com
+0.0.0.0 door.trackinglibrary.prodperfect.com
+:: door.trackinglibrary.prodperfect.com
 0.0.0.0 doppler.hulu.com
 :: doppler.hulu.com
 0.0.0.0 dopsxf4b.beget.tech
@@ -31865,6 +31881,8 @@
 :: etsqb54992.i.lithium.com
 0.0.0.0 etsuse-cure.000webhostapp.com
 :: etsuse-cure.000webhostapp.com
+0.0.0.0 etsy.trackinglibrary.prodperfect.com
+:: etsy.trackinglibrary.prodperfect.com
 0.0.0.0 ett.swpu.edu.cn
 :: ett.swpu.edu.cn
 0.0.0.0 etui.fs.ml.com
@@ -33051,6 +33069,8 @@
 :: fff.dailymail.co.uk
 0.0.0.0 fffyfyfyfhuhjn.000webhostapp.com
 :: fffyfyfyfhuhjn.000webhostapp.com
+0.0.0.0 ffn.trackinglibrary.prodperfect.com
+:: ffn.trackinglibrary.prodperfect.com
 0.0.0.0 ffoqr3ug7m726zou.04hyxg.top
 :: ffoqr3ug7m726zou.04hyxg.top
 0.0.0.0 ffoqr3ug7m726zou.0v7hry.bid
@@ -35519,6 +35539,8 @@
 :: govahoyuge.itup.pw
 0.0.0.0 govk.000webhostapp.com
 :: govk.000webhostapp.com
+0.0.0.0 govx.trackinglibrary.prodperfect.com
+:: govx.trackinglibrary.prodperfect.com
 0.0.0.0 gozovipsite.50webs.com
 :: gozovipsite.50webs.com
 0.0.0.0 gp.dejanews.com
@@ -40793,6 +40815,8 @@
 :: jur.unn.ac.ru
 0.0.0.0 juridicoee.sslblindado.com
 :: juridicoee.sslblindado.com
+0.0.0.0 jusbrasil.trackinglibrary.prodperfect.com
+:: jusbrasil.trackinglibrary.prodperfect.com
 0.0.0.0 just-for-style.omur71.ru
 :: just-for-style.omur71.ru
 0.0.0.0 just.getreleasemaster.com
@@ -42695,6 +42719,8 @@
 :: lobster.unionpeer.com
 0.0.0.0 loc1.hitsprocessor.com
 :: loc1.hitsprocessor.com
+0.0.0.0 locai-solutions.trackinglibrary.prodperfect.com
+:: locai-solutions.trackinglibrary.prodperfect.com
 0.0.0.0 local.ads.nwsource.com
 :: local.ads.nwsource.com
 0.0.0.0 local.promoisland.net
@@ -45697,6 +45723,8 @@
 :: mein.monster.de
 0.0.0.0 meincheck.de-informationallekunden.eu
 :: meincheck.de-informationallekunden.eu
+0.0.0.0 meitre.trackinglibrary.prodperfect.com
+:: meitre.trackinglibrary.prodperfect.com
 0.0.0.0 meitubeauty.meitudata.com
 :: meitubeauty.meitudata.com
 0.0.0.0 meletes.web.auth.gr
@@ -47323,6 +47351,8 @@
 :: moncompte.ameli.fr.freepac8.beget.tech
 0.0.0.0 mond.50webs.com
 :: mond.50webs.com
+0.0.0.0 mondayvc.trackinglibrary.prodperfect.com
+:: mondayvc.trackinglibrary.prodperfect.com
 0.0.0.0 monde-pub.sdv.fr
 :: monde-pub.sdv.fr
 0.0.0.0 mondoads.s3.amazonaws.com
@@ -48265,6 +48295,8 @@
 :: nefib.tourstogo.us
 0.0.0.0 negocim.matomo.cloud
 :: negocim.matomo.cloud
+0.0.0.0 negotiatus.trackinglibrary.prodperfect.com
+:: negotiatus.trackinglibrary.prodperfect.com
 0.0.0.0 negozio.m2.valueserver.jp
 :: negozio.m2.valueserver.jp
 0.0.0.0 nehvc5m3fs57dyrz.onion.link
@@ -53129,6 +53161,8 @@
 :: penfactory.matomo.cloud
 0.0.0.0 penitent-navies.000webhostapp.com
 :: penitent-navies.000webhostapp.com
+0.0.0.0 penrose-hill.trackinglibrary.prodperfect.com
+:: penrose-hill.trackinglibrary.prodperfect.com
 0.0.0.0 pensele.paladin-global.net
 :: pensele.paladin-global.net
 0.0.0.0 peoplegraph.firstpartyapps.oaspapps.com
@@ -59315,6 +59349,8 @@
 :: sardahcollege.edu.bd
 0.0.0.0 sardarpatelcollege.ac.in
 :: sardarpatelcollege.ac.in
+0.0.0.0 sarwa.trackinglibrary.prodperfect.com
+:: sarwa.trackinglibrary.prodperfect.com
 0.0.0.0 sas.decisionnews.com
 :: sas.decisionnews.com
 0.0.0.0 sasakangok.000webhostapp.com
@@ -59635,6 +59671,8 @@
 :: scee.i.lithium.com
 0.0.0.0 scene.vip.xunlei.com
 :: scene.vip.xunlei.com
+0.0.0.0 scentbird.trackinglibrary.prodperfect.com
+:: scentbird.trackinglibrary.prodperfect.com
 0.0.0.0 scfksihyg.legacyminerals.net
 :: scfksihyg.legacyminerals.net
 0.0.0.0 scgg.denisehowells.com.au
@@ -60047,6 +60085,8 @@
 :: seal.verisign.com
 0.0.0.0 sealionnn.web.fc2.com
 :: sealionnn.web.fc2.com
+0.0.0.0 seamlessdocs.trackinglibrary.prodperfect.com
+:: seamlessdocs.trackinglibrary.prodperfect.com
 0.0.0.0 seansimmonssss.000webhostapp.com
 :: seansimmonssss.000webhostapp.com
 0.0.0.0 search-phentermine.hpage.net
@@ -62769,8 +62809,6 @@
 :: srepdata.usatoday.com
 0.0.0.0 srilaini1helprecoveryii.000webhostapp.com
 :: srilaini1helprecoveryii.000webhostapp.com
-0.0.0.0 srisaranankara.sch.lk
-:: srisaranankara.sch.lk
 0.0.0.0 srpze.saqibsiddiqui.com
 :: srpze.saqibsiddiqui.com
 0.0.0.0 srutebmduoh.myfw.us
@@ -64521,6 +64559,8 @@
 :: still.zzn.com
 0.0.0.0 stir.semilo.com
 :: stir.semilo.com
+0.0.0.0 stitch.trackinglibrary.prodperfect.com
+:: stitch.trackinglibrary.prodperfect.com
 0.0.0.0 stivencardenas1208.000webhostapp.com
 :: stivencardenas1208.000webhostapp.com
 0.0.0.0 stjjp.msn.com
@@ -64649,6 +64689,8 @@
 :: studcat.infra.systems
 0.0.0.0 students.igg.biz
 :: students.igg.biz
+0.0.0.0 studiesweekly.trackinglibrary.prodperfect.com
+:: studiesweekly.trackinglibrary.prodperfect.com
 0.0.0.0 studiotosi.claimadv.it
 :: studiotosi.claimadv.it
 0.0.0.0 study.163.com
@@ -65307,6 +65349,8 @@
 :: t.blog.livedoor.jp
 0.0.0.0 t.blogreaderproject.com
 :: t.blogreaderproject.com
+0.0.0.0 t.bookbub.com
+:: t.bookbub.com
 0.0.0.0 t.chengadx.com
 :: t.chengadx.com
 0.0.0.0 t.cnscore.com
@@ -65985,6 +66029,8 @@
 :: teamok.000webhostapp.com
 0.0.0.0 teamsupport.serverlux.me
 :: teamsupport.serverlux.me
+0.0.0.0 teamup.trackinglibrary.prodperfect.com
+:: teamup.trackinglibrary.prodperfect.com
 0.0.0.0 teatrdomowy.republika.pl
 :: teatrdomowy.republika.pl
 0.0.0.0 tec.sarl.tk
@@ -66375,6 +66421,8 @@
 :: tharcons.000webhostapp.com
 0.0.0.0 thb-berlin.homepage.t-online.de
 :: thb-berlin.homepage.t-online.de
+0.0.0.0 the-mom-project.trackinglibrary.prodperfect.com
+:: the-mom-project.trackinglibrary.prodperfect.com
 0.0.0.0 the.schuetttrucking.com
 :: the.schuetttrucking.com
 0.0.0.0 the.tracking.city
@@ -68563,6 +68611,8 @@
 :: trackingapi.cloudapp.net
 0.0.0.0 trackingdev.nixxie.com
 :: trackingdev.nixxie.com
+0.0.0.0 trackinglibrary.prodperfect.com
+:: trackinglibrary.prodperfect.com
 0.0.0.0 trackit.skyhighctr.com
 :: trackit.skyhighctr.com
 0.0.0.0 trackit.vicotech.com
@@ -68751,6 +68801,8 @@
 :: triggers.wfxtriggers.com
 0.0.0.0 triggers1.wfxtriggers.com
 :: triggers1.wfxtriggers.com
+0.0.0.0 trilogy.trackinglibrary.prodperfect.com
+:: trilogy.trackinglibrary.prodperfect.com
 0.0.0.0 trinity.platform.intuit.com
 :: trinity.platform.intuit.com
 0.0.0.0 trion.od.ua
@@ -69025,6 +69077,8 @@
 :: turystyka.cal.pl
 0.0.0.0 tutomogiya.web.fc2.com
 :: tutomogiya.web.fc2.com
+0.0.0.0 tutorme.trackinglibrary.prodperfect.com
+:: tutorme.trackinglibrary.prodperfect.com
 0.0.0.0 tux.loggly.com
 :: tux.loggly.com
 0.0.0.0 tv.code.jjyx.com
@@ -70609,6 +70663,8 @@
 :: users173.lolipop.jp
 0.0.0.0 usersessionadctivetokenguartedgrantedversionrenewbrowser0319.oxmomrzatami.com
 :: usersessionadctivetokenguartedgrantedversionrenewbrowser0319.oxmomrzatami.com
+0.0.0.0 usertesting.trackinglibrary.prodperfect.com
+:: usertesting.trackinglibrary.prodperfect.com
 0.0.0.0 userwebassistance.000webhostapp.com
 :: userwebassistance.000webhostapp.com
 0.0.0.0 usgjo92645.i.lithium.com
@@ -71409,6 +71465,8 @@
 :: vipminisowt.esy.es
 0.0.0.0 vipsecure-protect.000webhostapp.com
 :: vipsecure-protect.000webhostapp.com
+0.0.0.0 viral-launch.trackinglibrary.prodperfect.com
+:: viral-launch.trackinglibrary.prodperfect.com
 0.0.0.0 viral.vidhd.fun
 :: viral.vidhd.fun
 0.0.0.0 virgin.i.lithium.com
@@ -75197,8 +75255,6 @@
 :: www.bravenetmedianetwork.com
 0.0.0.0 www.breastfeedme.com
 :: www.breastfeedme.com
-0.0.0.0 www.briarhurst.org
-:: www.briarhurst.org
 0.0.0.0 www.brightadnetwork.com
 :: www.brightadnetwork.com
 0.0.0.0 www.brokertech.net
@@ -76309,6 +76365,8 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
+0.0.0.0 www.fishingtackleindia.com
+:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -79725,6 +79783,8 @@
 :: www.thebigoutdoors.co.uk
 0.0.0.0 www.thecrack.net
 :: www.thecrack.net
+0.0.0.0 www.thedournalist.com
+:: www.thedournalist.com
 0.0.0.0 www.thegaymen.com
 :: www.thegaymen.com
 0.0.0.0 www.thehitman.com
@@ -80011,6 +80071,8 @@
 :: www.uniqueinternettexasholdempoker.com
 0.0.0.0 www.unitedmall.com
 :: www.unitedmall.com
+0.0.0.0 www.unmutedbeauty.com
+:: www.unmutedbeauty.com
 0.0.0.0 www.update-flash.s0l8ybzj9u.top
 :: www.update-flash.s0l8ybzj9u.top
 0.0.0.0 www.updatesoftwaresend.com
