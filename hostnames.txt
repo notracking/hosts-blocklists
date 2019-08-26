@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Aug 25 08:47:28 CEST 2019
+# Last update: Mon Aug 26 09:00:41 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41333
+# Number of unique hostnames: 41352
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -13755,6 +13755,8 @@
 :: ajpeq25582.lithium.com
 0.0.0.0 ak-ads-mds.glomex.com
 :: ak-ads-mds.glomex.com
+0.0.0.0 ak-amp.spot.im
+:: ak-amp.spot.im
 0.0.0.0 ak-dynamic-cdn.spot.im
 :: ak-dynamic-cdn.spot.im
 0.0.0.0 ak-events-collector.spot.im
@@ -14031,6 +14033,8 @@
 :: alpinejb.blogspot.com
 0.0.0.0 alpinista.szczecin.pl
 :: alpinista.szczecin.pl
+0.0.0.0 alpremiumsc75501493us2.cobrowse.oraclecloud.com
+:: alpremiumsc75501493us2.cobrowse.oraclecloud.com
 0.0.0.0 alpventures.bravejournal.com
 :: alpventures.bravejournal.com
 0.0.0.0 alrafidain.n-idea.us
@@ -15765,6 +15769,8 @@
 :: app.juwang.com
 0.0.0.0 app.ksent.net
 :: app.ksent.net
+0.0.0.0 app.lift.acquia.com
+:: app.lift.acquia.com
 0.0.0.0 app.loggly.com
 :: app.loggly.com
 0.0.0.0 app.logs-facebook.com
@@ -17011,8 +17017,6 @@
 :: axad.shinobi.jp
 0.0.0.0 axd.cpapush.com
 :: axd.cpapush.com
-0.0.0.0 axionapp.mon-application.com
-:: axionapp.mon-application.com
 0.0.0.0 axislogger.appspot.com
 :: axislogger.appspot.com
 0.0.0.0 axpoium.echange.su
@@ -17765,6 +17769,8 @@
 :: bankofameriica.com.bartystrading.co.uk
 0.0.0.0 bankofireland.boi.online365.spring.sessionstarted.login.boi.ie.ireland.bank.secure.connection.365.secure.ssl.44999039sslsonnect3000199.arsade.com
 :: bankofireland.boi.online365.spring.sessionstarted.login.boi.ie.ireland.bank.secure.connection.365.secure.ssl.44999039sslsonnect3000199.arsade.com
+0.0.0.0 bankofmarinsc63323940us1.cobrowse.oraclecloud.com
+:: bankofmarinsc63323940us1.cobrowse.oraclecloud.com
 0.0.0.0 bankwest.response.lithium.com
 :: bankwest.response.lithium.com
 0.0.0.0 banlv.baidu.com
@@ -18875,6 +18881,12 @@
 :: bbs.163.com
 0.0.0.0 bbs.bjchun.com
 :: bbs.bjchun.com
+0.0.0.0 bbs.d.163.com
+:: bbs.d.163.com
+0.0.0.0 bbs.mumu.163.com
+:: bbs.mumu.163.com
+0.0.0.0 bbs.play.163.com
+:: bbs.play.163.com
 0.0.0.0 bbs.search.nkwwnx.com
 :: bbs.search.nkwwnx.com
 0.0.0.0 bbs.tiens.net.cn
@@ -24863,6 +24875,8 @@
 :: consulteplat-001-site1.btempurl.com
 0.0.0.0 consumentenupdate.vernieuwingonline.nl
 :: consumentenupdate.vernieuwingonline.nl
+0.0.0.0 consumersccusc92212829us1.cobrowse.oraclecloud.com
+:: consumersccusc92212829us1.cobrowse.oraclecloud.com
 0.0.0.0 contact-support.mnacircle.com
 :: contact-support.mnacircle.com
 0.0.0.0 contactresolved.summaryhelpserv.com
@@ -28699,6 +28713,10 @@
 :: dev2.bullseyesaloon.com
 0.0.0.0 dev2.cbg.163.com
 :: dev2.cbg.163.com
+0.0.0.0 dev3.cbg.163.com
+:: dev3.cbg.163.com
+0.0.0.0 dev4.cbg.163.com
+:: dev4.cbg.163.com
 0.0.0.0 devel0per11.regisconfrim.cf
 :: devel0per11.regisconfrim.cf
 0.0.0.0 develop.tech.163.com
@@ -29113,6 +29131,8 @@
 :: dkvdivdj.altervista.org
 0.0.0.0 dkwm.suwan.co.id
 :: dkwm.suwan.co.id
+0.0.0.0 dl.163.com
+:: dl.163.com
 0.0.0.0 dl.2345.com
 :: dl.2345.com
 0.0.0.0 dl.52zy.com
@@ -34529,6 +34549,8 @@
 :: gay.sicfreehost.com
 0.0.0.0 gazzz.survey7.adsservingtwig.xyz
 :: gazzz.survey7.adsservingtwig.xyz
+0.0.0.0 gb.corp.163.com
+:: gb.corp.163.com
 0.0.0.0 gb.it1352.com
 :: gb.it1352.com
 0.0.0.0 gb.rio-mz.de
@@ -35089,8 +35111,6 @@
 :: ghjz5n.moro.pershoreprivatehire.co.uk
 0.0.0.0 gho.ysbjgjwh.com
 :: gho.ysbjgjwh.com
-0.0.0.0 ghwls44.gabia.io
-:: ghwls44.gabia.io
 0.0.0.0 ghyt654erwrw.gets-it.net
 :: ghyt654erwrw.gets-it.net
 0.0.0.0 gi.sfr.fr
@@ -37305,6 +37325,8 @@
 :: ht.xtube.com
 0.0.0.0 ht.youporn.com
 :: ht.youporn.com
+0.0.0.0 ht0077788.blog.163.com
+:: ht0077788.blog.163.com
 0.0.0.0 htcpi66732.i.lithium.com
 :: htcpi66732.i.lithium.com
 0.0.0.0 htcpi66732.lithium.com
@@ -37425,6 +37447,8 @@
 :: hwt.player888.cn
 0.0.0.0 hwusdi.000webhostapp.com
 :: hwusdi.000webhostapp.com
+0.0.0.0 hwwebmail.mail.163.com
+:: hwwebmail.mail.163.com
 0.0.0.0 hx.hexun.com
 :: hx.hexun.com
 0.0.0.0 hxfu.nz53h.cn
@@ -40761,6 +40785,8 @@
 :: jtybjnukjmui.webcindario.com
 0.0.0.0 ju.taobao.com
 :: ju.taobao.com
+0.0.0.0 jubao.163.com
+:: jubao.163.com
 0.0.0.0 judithrust.5gbfree.com
 :: judithrust.5gbfree.com
 0.0.0.0 judo.salon.com
@@ -43451,6 +43477,8 @@
 :: lwztritpzuvl.myfw.us
 0.0.0.0 lx-upload-log.yidianzixun.com
 :: lx-upload-log.yidianzixun.com
+0.0.0.0 lx.163.com
+:: lx.163.com
 0.0.0.0 lxhsf.saqibsiddiqui.com
 :: lxhsf.saqibsiddiqui.com
 0.0.0.0 lxoilbm4-site.1tempurl.com
@@ -44567,6 +44595,8 @@
 :: m13-130.163.com
 0.0.0.0 m13-205.163.com
 :: m13-205.163.com
+0.0.0.0 m13-207.163.com
+:: m13-207.163.com
 0.0.0.0 m1ikumoumist.web.fc2.com
 :: m1ikumoumist.web.fc2.com
 0.0.0.0 m1v62r.moro.pershoreprivatehire.co.uk
@@ -44779,6 +44809,8 @@
 :: mail.myiris.com
 0.0.0.0 mail.pmo.ac.cn
 :: mail.pmo.ac.cn
+0.0.0.0 mail.qiye.163.com
+:: mail.qiye.163.com
 0.0.0.0 mail.radar.imgsmail.ru
 :: mail.radar.imgsmail.ru
 0.0.0.0 mail.siom.ac.cn
@@ -48961,6 +48993,8 @@
 :: nonsi.csheaven.com
 0.0.0.0 nonsoagali2.000webhostapp.com
 :: nonsoagali2.000webhostapp.com
+0.0.0.0 nonwaf.vungle.akadns.net
+:: nonwaf.vungle.akadns.net
 0.0.0.0 nop.xpanama.net
 :: nop.xpanama.net
 0.0.0.0 nopdmjg.ddns.info
@@ -53045,8 +53079,6 @@
 :: pdf.adoppe.account.pateloptics.com
 0.0.0.0 pdf.forbes.com
 :: pdf.forbes.com
-0.0.0.0 pdfgrennland.ddns.net
-:: pdfgrennland.ddns.net
 0.0.0.0 pdflinkss.000webhostapp.com
 :: pdflinkss.000webhostapp.com
 0.0.0.0 pdfolineviews.000webhostapp.com
@@ -54451,8 +54483,6 @@
 :: pmloa40p.beget.tech
 0.0.0.0 pmm.people.com.cn
 :: pmm.people.com.cn
-0.0.0.0 pmo127b62.hz1cname.17uhui.net
-:: pmo127b62.hz1cname.17uhui.net
 0.0.0.0 pmp.adinall.com
 :: pmp.adinall.com
 0.0.0.0 pmp.ybp.yahoo.com
@@ -54631,6 +54661,8 @@
 :: pophenk4.beget.tech
 0.0.0.0 popit.mediumpimpin.com
 :: popit.mediumpimpin.com
+0.0.0.0 poplar.geek.163.com
+:: poplar.geek.163.com
 0.0.0.0 popme.163.com
 :: popme.163.com
 0.0.0.0 popo98.000webhostapp.com
@@ -56311,6 +56343,8 @@
 :: qn.bejson.com
 0.0.0.0 qn.cbg.163.com
 :: qn.cbg.163.com
+0.0.0.0 qn2.163.com
+:: qn2.163.com
 0.0.0.0 qnm.cbg.163.com
 :: qnm.cbg.163.com
 0.0.0.0 qorrs.saqibsiddiqui.com
@@ -59231,8 +59265,6 @@
 :: sallowish-beams.000webhostapp.com
 0.0.0.0 salman.or.id
 :: salman.or.id
-0.0.0.0 salon.bio.poitou.free.fr
-:: salon.bio.poitou.free.fr
 0.0.0.0 saloongkum.lpru.ac.th
 :: saloongkum.lpru.ac.th
 0.0.0.0 sam-sdelai.blogspot.com
@@ -59491,6 +59523,8 @@
 :: sc1784323llms1.cobrowse.oraclecloud.com
 0.0.0.0 sc17864323llms1.cobrowse.oraclecloud.com
 :: sc17864323llms1.cobrowse.oraclecloud.com
+0.0.0.0 sc17864323us1.cobrowse.oraclecloud.com
+:: sc17864323us1.cobrowse.oraclecloud.com
 0.0.0.0 sc22206764gb1.cobrowse.oraclecloud.com
 :: sc22206764gb1.cobrowse.oraclecloud.com
 0.0.0.0 sc23269568hms1.cobrowse.oraclecloud.com
@@ -59623,10 +59657,14 @@
 :: sc88651734gb1.cobrowse.oraclecloud.com
 0.0.0.0 sc89648805hms1.cobrowse.oraclecloud.com
 :: sc89648805hms1.cobrowse.oraclecloud.com
+0.0.0.0 sc90329283us1.cobrowse.oraclecloud.com
+:: sc90329283us1.cobrowse.oraclecloud.com
 0.0.0.0 sc90329283us14.cobrowse.oraclecloud.com
 :: sc90329283us14.cobrowse.oraclecloud.com
 0.0.0.0 sc90361918llms1.cobrowse.oraclecloud.com
 :: sc90361918llms1.cobrowse.oraclecloud.com
+0.0.0.0 sc90611789llms1.cobrowse.oraclecloud.com
+:: sc90611789llms1.cobrowse.oraclecloud.com
 0.0.0.0 sc91537202us1.cobrowse.oraclecloud.com
 :: sc91537202us1.cobrowse.oraclecloud.com
 0.0.0.0 sc91967456us1.cobrowse.oraclecloud.com
@@ -62787,6 +62825,8 @@
 :: squashier-automobil.000webhostapp.com
 0.0.0.0 sqwed.371dk.com
 :: sqwed.371dk.com
+0.0.0.0 sr.163.com
+:: sr.163.com
 0.0.0.0 sr6oes.first.pershoretaxi.co.uk
 :: sr6oes.first.pershoretaxi.co.uk
 0.0.0.0 sragpl7u1o.pnbqhiloi5.madpendesign.com.au
@@ -64741,6 +64781,8 @@
 :: subdo.tumejortorrent.com
 0.0.0.0 subdomain.chase-reg.net16.net
 :: subdomain.chase-reg.net16.net
+0.0.0.0 subdomain.loggly.com
+:: subdomain.loggly.com
 0.0.0.0 sube.online-halkbankasi-tr.com
 :: sube.online-halkbankasi-tr.com
 0.0.0.0 subito.paneaserver.net
@@ -65055,6 +65097,8 @@
 :: swappdl.duoyi.com
 0.0.0.0 swattradingco.name.qa
 :: swattradingco.name.qa
+0.0.0.0 swdevopsit.loggly.com
+:: swdevopsit.loggly.com
 0.0.0.0 swebanalytics.eniro.se
 :: swebanalytics.eniro.se
 0.0.0.0 sweepstakes.about.com
@@ -66403,8 +66447,6 @@
 :: tg.m.37.com
 0.0.0.0 tg.mybb.ru
 :: tg.mybb.ru
-0.0.0.0 tg.qilashou.com
-:: tg.qilashou.com
 0.0.0.0 tgketjijyryo.ivydancefloors.com
 :: tgketjijyryo.ivydancefloors.com
 0.0.0.0 tgp.pornsponsors.com
@@ -66543,6 +66585,8 @@
 :: tianyu.163.com
 0.0.0.0 tianyu.cbg.163.com
 :: tianyu.cbg.163.com
+0.0.0.0 tianyu.gm.163.com
+:: tianyu.gm.163.com
 0.0.0.0 tiaradewi827.000webhostapp.com
 :: tiaradewi827.000webhostapp.com
 0.0.0.0 ticket20.tripod.com
@@ -69311,8 +69355,6 @@
 :: u64895004ikkff.000webhostapp.com
 0.0.0.0 u6543ewfgh.dyndns-work.com
 :: u6543ewfgh.dyndns-work.com
-0.0.0.0 u700222964.hostingerapp.com
-:: u700222964.hostingerapp.com
 0.0.0.0 u715381.sendgrid.org
 :: u715381.sendgrid.org
 0.0.0.0 u73801620533084.s.push-21.cdnsun.com
@@ -73421,8 +73463,6 @@
 :: wisepush.video.baidu.com
 0.0.0.0 wisnoelkoidsd232.000webhostapp.com
 :: wisnoelkoidsd232.000webhostapp.com
-0.0.0.0 wispy-saiki-208s.namaste.jp
-:: wispy-saiki-208s.namaste.jp
 0.0.0.0 wisti.adulte3g.com
 :: wisti.adulte3g.com
 0.0.0.0 wit.zzn.com
@@ -75315,6 +75355,8 @@
 :: www.bxgjiage.com
 0.0.0.0 www.bytove.jadro.szm.com
 :: www.bytove.jadro.szm.com
+0.0.0.0 www.c.la1-c2-phx.salesforceliveagent.com
+:: www.c.la1-c2-phx.salesforceliveagent.com
 0.0.0.0 www.c77777777.com
 :: www.c77777777.com
 0.0.0.0 www.c7e935.netlify.com
@@ -77719,8 +77761,6 @@
 :: www.locgest.com
 0.0.0.0 www.lockview.cn
 :: www.lockview.cn
-0.0.0.0 www.log-in-verlag.de
-:: www.log-in-verlag.de
 0.0.0.0 www.log-management.loggly.com
 :: www.log-management.loggly.com
 0.0.0.0 www.log.getadblock.com
@@ -81543,6 +81583,8 @@
 :: xq3t5nnfx5.6xbacvl5jj.madpendesign.com.au
 0.0.0.0 xqdwe8nfs8mnatbeeif4.businessrulesanalysis.com
 :: xqdwe8nfs8mnatbeeif4.businessrulesanalysis.com
+0.0.0.0 xqn.163.com
+:: xqn.163.com
 0.0.0.0 xqnef94594.i.lithium.com
 :: xqnef94594.i.lithium.com
 0.0.0.0 xqnef94594.lithium.com
@@ -82365,10 +82407,6 @@
 :: zen.nbci.com
 0.0.0.0 zencart.alpm.gogzmermedia.com
 :: zencart.alpm.gogzmermedia.com
-0.0.0.0 zerosugaraddonexploit.duckdns.org
-:: zerosugaraddonexploit.duckdns.org
-0.0.0.0 zerozerozeronullexploit.duckdns.org
-:: zerozerozeronullexploit.duckdns.org
 0.0.0.0 zetes.vdsinside.com
 :: zetes.vdsinside.com
 0.0.0.0 zeulo.anime-extremo.com
