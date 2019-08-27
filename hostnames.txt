@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Aug 26 09:00:41 CEST 2019
+# Last update: Tue Aug 27 09:06:19 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41352
+# Number of unique hostnames: 41354
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -14849,6 +14849,8 @@
 :: analytics.usdm.net
 0.0.0.0 analytics.vast.com
 :: analytics.vast.com
+0.0.0.0 analytics.vcdevhub.com
+:: analytics.vcdevhub.com
 0.0.0.0 analytics.verizonenterprise.com
 :: analytics.verizonenterprise.com
 0.0.0.0 analytics.vodafone.co.uk
@@ -23351,6 +23353,8 @@
 :: cielopromocoes.hol.es
 0.0.0.0 cielosempredapremiospravc.cq14619.tmweb.ru
 :: cielosempredapremiospravc.cq14619.tmweb.ru
+0.0.0.0 ciencecom.salesloftlinks.com
+:: ciencecom.salesloftlinks.com
 0.0.0.0 cientifica.uem.mz
 :: cientifica.uem.mz
 0.0.0.0 cieslakwz.cba.pl
@@ -28751,6 +28755,8 @@
 :: device.find.fd17.info
 0.0.0.0 device.zhiliaoapp.com
 :: device.zhiliaoapp.com
+0.0.0.0 deviceatlasdc.appspot.com
+:: deviceatlasdc.appspot.com
 0.0.0.0 deviceidshare.twitch.tv
 :: deviceidshare.twitch.tv
 0.0.0.0 deviceinfo.capitalone.com
@@ -35185,6 +35191,8 @@
 :: gjsqbsqawb.myfw.us
 0.0.0.0 gjtikylryey.000webhostapp.com
 :: gjtikylryey.000webhostapp.com
+0.0.0.0 gk1.zjbiz.net
+:: gk1.zjbiz.net
 0.0.0.0 gk4aiims.000webhostapp.com
 :: gk4aiims.000webhostapp.com
 0.0.0.0 gkfjn63798.i.lithium.com
@@ -39535,6 +39543,8 @@
 :: ip2.i.lithium.com
 0.0.0.0 ip2.pxene.com
 :: ip2.pxene.com
+0.0.0.0 ip2location.wmgartistservices.com
+:: ip2location.wmgartistservices.com
 0.0.0.0 ipa.elev.io
 :: ipa.elev.io
 0.0.0.0 ipapi.tmbi.com
@@ -45257,6 +45267,8 @@
 :: matisport.strefa.pl
 0.0.0.0 matomo.activate.cz
 :: matomo.activate.cz
+0.0.0.0 matomo.saotn.org
+:: matomo.saotn.org
 0.0.0.0 matrix.eu.sk
 :: matrix.eu.sk
 0.0.0.0 matrix.mediavantage.de
@@ -59781,8 +59793,6 @@
 :: scottishlykoerste.mlmhypnosis.com
 0.0.0.0 scounter.rambler.ru
 :: scounter.rambler.ru
-0.0.0.0 scout-cdn.salesloft.com
-:: scout-cdn.salesloft.com
 0.0.0.0 scout.haymarketmedia.com
 :: scout.haymarketmedia.com
 0.0.0.0 scout.rollcall.com
@@ -62691,6 +62701,8 @@
 :: sponsor.boardhost.com
 0.0.0.0 sponsor.imperiapost.it
 :: sponsor.imperiapost.it
+0.0.0.0 sponsor.segmentfault.com
+:: sponsor.segmentfault.com
 0.0.0.0 sponsoredlinks.nationalgeographic.com
 :: sponsoredlinks.nationalgeographic.com
 0.0.0.0 sponsors.behance.com
@@ -64509,8 +64521,6 @@
 :: stcollection.moneysupermarket.com
 0.0.0.0 std.o.webmd.com
 :: std.o.webmd.com
-0.0.0.0 steam-keys.ezar.ru
-:: steam-keys.ezar.ru
 0.0.0.0 steam.fasting.tk
 :: steam.fasting.tk
 0.0.0.0 steam.myago.tk
@@ -71257,8 +71267,6 @@
 :: verzeroli.outbreakm3dia.com
 0.0.0.0 veterans-cms.purplebug.net
 :: veterans-cms.purplebug.net
-0.0.0.0 veterans-cms.pvbproperties.com.ph
-:: veterans-cms.pvbproperties.com.ph
 0.0.0.0 vewrb.italisumo.at
 :: vewrb.italisumo.at
 0.0.0.0 vex.analytics.wildtangent.com
@@ -72603,8 +72611,6 @@
 :: web.kuaisouwifi.com
 0.0.0.0 web.m182.vhostgo.com
 :: web.m182.vhostgo.com
-0.0.0.0 web.mxradon.com
-:: web.mxradon.com
 0.0.0.0 web.n2s.co.kr
 :: web.n2s.co.kr
 0.0.0.0 web.nyc.ads.juno.co
@@ -76817,8 +76823,6 @@
 :: www.hejlchen.blog.163.com
 0.0.0.0 www.heliometernxwpu.download
 :: www.heliometernxwpu.download
-0.0.0.0 www.helpinict.co.uk
-:: www.helpinict.co.uk
 0.0.0.0 www.hengjia8.com
 :: www.hengjia8.com
 0.0.0.0 www.hentaigratuit.com
@@ -77761,6 +77765,8 @@
 :: www.locgest.com
 0.0.0.0 www.lockview.cn
 :: www.lockview.cn
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.log-management.loggly.com
 :: www.log-management.loggly.com
 0.0.0.0 www.log.getadblock.com
@@ -79823,8 +79829,6 @@
 :: www.thebigoutdoors.co.uk
 0.0.0.0 www.thecrack.net
 :: www.thecrack.net
-0.0.0.0 www.thedournalist.com
-:: www.thedournalist.com
 0.0.0.0 www.thegaymen.com
 :: www.thegaymen.com
 0.0.0.0 www.thehitman.com
@@ -79855,8 +79859,6 @@
 :: www.thetraderinpajamas.com
 0.0.0.0 www.thewaycloud.com
 :: www.thewaycloud.com
-0.0.0.0 www.threshold-online.co.uk
-:: www.threshold-online.co.uk
 0.0.0.0 www.thztv.net
 :: www.thztv.net
 0.0.0.0 www.tiande.wroclaw.pl
@@ -81713,6 +81715,8 @@
 :: xyq.cbg.163.com
 0.0.0.0 xyrjy.blog.163.com
 :: xyrjy.blog.163.com
+0.0.0.0 xyskyewhitedevilexploitgreat.duckdns.org
+:: xyskyewhitedevilexploitgreat.duckdns.org
 0.0.0.0 xyvob56g9siycph9vp0o.littlematchagirl.com.au
 :: xyvob56g9siycph9vp0o.littlematchagirl.com.au
 0.0.0.0 xyw.163.com
