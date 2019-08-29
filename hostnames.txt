@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Aug 28 08:56:59 CEST 2019
+# Last update: Thu Aug 29 08:51:21 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41391
+# Number of unique hostnames: 41407
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -13719,6 +13719,8 @@
 :: airdropboxfile.carlaalegre.com
 0.0.0.0 airfind.nmv21jjpsr4e4kyh1t.netdna-cdn.com
 :: airfind.nmv21jjpsr4e4kyh1t.netdna-cdn.com
+0.0.0.0 airfoundation.org.pk
+:: airfoundation.org.pk
 0.0.0.0 airlab.163.com
 :: airlab.163.com
 0.0.0.0 airline-ticket.gloses.net
@@ -14679,6 +14681,8 @@
 :: analytics.nascar.com
 0.0.0.0 analytics.newsvine.com
 :: analytics.newsvine.com
+0.0.0.0 analytics.nike.com
+:: analytics.nike.com
 0.0.0.0 analytics.nionex.net
 :: analytics.nionex.net
 0.0.0.0 analytics.nznweb.com.br
@@ -17469,8 +17473,6 @@
 :: babs.tv2.dk
 0.0.0.0 babsy.foreverhorny.com
 :: babsy.foreverhorny.com
-0.0.0.0 babugonjhighschool.edu.bd
-:: babugonjhighschool.edu.bd
 0.0.0.0 baby.163.com
 :: baby.163.com
 0.0.0.0 baby.dorki.info
@@ -17559,8 +17561,6 @@
 :: baiduwapjs1.chinaiiss.com
 0.0.0.0 baifen.music.baidu.com
 :: baifen.music.baidu.com
-0.0.0.0 baigachahs.edu.bd
-:: baigachahs.edu.bd
 0.0.0.0 baike.163.com
 :: baike.163.com
 0.0.0.0 bajasae.grupos.usb.ve
@@ -19627,8 +19627,6 @@
 :: biskot88.000webhostapp.com
 0.0.0.0 bismetrics.experian.com
 :: bismetrics.experian.com
-0.0.0.0 bist.ac.bd
-:: bist.ac.bd
 0.0.0.0 bist.ailsg.com
 :: bist.ailsg.com
 0.0.0.0 bit.ehow.com
@@ -19761,6 +19759,8 @@
 :: block-test.developerdan.com
 0.0.0.0 block.mediavenus.biz
 :: block.mediavenus.biz
+0.0.0.0 block.s2block.com
+:: block.s2block.com
 0.0.0.0 blockchain.info.datasellnow.com
 :: blockchain.info.datasellnow.com
 0.0.0.0 blockedfbservice.16mb.com
@@ -21307,6 +21307,8 @@
 :: cache.realitykings.com
 0.0.0.0 cache.scbih.com
 :: cache.scbih.com
+0.0.0.0 cache.search-api.fie.future.net.uk
+:: cache.search-api.fie.future.net.uk
 0.0.0.0 cache.worldfriends.tv
 :: cache.worldfriends.tv
 0.0.0.0 cache.xw126.com
@@ -24577,6 +24579,8 @@
 :: collector.viki.io
 0.0.0.0 collector.wasu.cn
 :: collector.wasu.cn
+0.0.0.0 collinsserver.duckdns.org
+:: collinsserver.duckdns.org
 0.0.0.0 colo.cachefly.net
 :: colo.cachefly.net
 0.0.0.0 colors-app.blogspot.com
@@ -27893,8 +27897,6 @@
 :: dasproject.homepage.t-online.de
 0.0.0.0 dat.gtags.net
 :: dat.gtags.net
-0.0.0.0 dat.itsup.com
-:: dat.itsup.com
 0.0.0.0 data-collection.nikedev.com
 :: data-collection.nikedev.com
 0.0.0.0 data-news.cdn.cootekservice.com
@@ -28699,6 +28701,8 @@
 :: dev.splio.fr
 0.0.0.0 dev.suetables.com
 :: dev.suetables.com
+0.0.0.0 dev.telemetry.ros.rockstargames.com
+:: dev.telemetry.ros.rockstargames.com
 0.0.0.0 dev.tg.wan.360.cn
 :: dev.tg.wan.360.cn
 0.0.0.0 dev.tg.youxi.com
@@ -31061,6 +31065,8 @@
 :: ebp.renren.com
 0.0.0.0 ebuty.net.pl
 :: ebuty.net.pl
+0.0.0.0 ebuty.org.pl
+:: ebuty.org.pl
 0.0.0.0 ec.kejet.net
 :: ec.kejet.net
 0.0.0.0 ec01c392919812c4f818-79afe539d963810002081e6e2a51e67e.ssl.cf2.rackcdn.com
@@ -31625,6 +31631,8 @@
 :: enterprise.telesat.com.co
 0.0.0.0 entesharat.torbath.ac.ir
 :: entesharat.torbath.ac.ir
+0.0.0.0 entitlements.jwplayer.com
+:: entitlements.jwplayer.com
 0.0.0.0 entoblo.viploadmarket.ru
 :: entoblo.viploadmarket.ru
 0.0.0.0 entrecard.s3.amazonaws.com
@@ -41067,8 +41075,6 @@
 :: karinschacht.addr.com
 0.0.0.0 karisaba.dousetsu.com
 :: karisaba.dousetsu.com
-0.0.0.0 karkhandaddm.edu.bd
-:: karkhandaddm.edu.bd
 0.0.0.0 karliny9.bget.ru
 :: karliny9.bget.ru
 0.0.0.0 karma.mdpcdn.com
@@ -43533,6 +43539,8 @@
 :: lylog.1391.com
 0.0.0.0 lynx.cjestel.net
 :: lynx.cjestel.net
+0.0.0.0 lyz.radio366.com
+:: lyz.radio366.com
 0.0.0.0 lz.chaelc.com
 :: lz.chaelc.com
 0.0.0.0 lzjue8dkseu.cedricchenevert.com
@@ -45273,8 +45281,6 @@
 :: match.c8.net.ua
 0.0.0.0 match.doko.jp
 :: match.doko.jp
-0.0.0.0 match.mynewmatchpictureprofile.com
-:: match.mynewmatchpictureprofile.com
 0.0.0.0 match.p4p.1688.com
 :: match.p4p.1688.com
 0.0.0.0 match.seesaa.jp
@@ -56787,6 +56793,8 @@
 :: ramenman.okoshi-yasu.com
 0.0.0.0 ramos.readytogo.gr
 :: ramos.readytogo.gr
+0.0.0.0 ramp.purch.com
+:: ramp.purch.com
 0.0.0.0 rampurhs66.edu.bd
 :: rampurhs66.edu.bd
 0.0.0.0 ramy124.awesomefactorydeals.com
@@ -57647,6 +57655,8 @@
 :: reports.amonetize.com
 0.0.0.0 reports.dashboard.superawesome.tv
 :: reports.dashboard.superawesome.tv
+0.0.0.0 reports.fanplayr.com
+:: reports.fanplayr.com
 0.0.0.0 reports.pagesuite-professional.co.uk
 :: reports.pagesuite-professional.co.uk
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
@@ -60199,6 +60209,8 @@
 :: seamlessdocs.trackinglibrary.prodperfect.com
 0.0.0.0 seansimmonssss.000webhostapp.com
 :: seansimmonssss.000webhostapp.com
+0.0.0.0 search-api.fie.future.net.uk
+:: search-api.fie.future.net.uk
 0.0.0.0 search-phentermine.hpage.net
 :: search-phentermine.hpage.net
 0.0.0.0 search.163.com
@@ -62159,6 +62171,8 @@
 :: smart.besonders.ru
 0.0.0.0 smart.brvaffs.com
 :: smart.brvaffs.com
+0.0.0.0 smart.fanplayr.com
+:: smart.fanplayr.com
 0.0.0.0 smart.hola.com
 :: smart.hola.com
 0.0.0.0 smart.idmnet.pl
@@ -63233,6 +63247,8 @@
 :: stage.edilnord.it
 0.0.0.0 stage.guce.huffpost.com
 :: stage.guce.huffpost.com
+0.0.0.0 stage.search-api.fie.future.net.uk
+:: stage.search-api.fie.future.net.uk
 0.0.0.0 stage1.afghancuisine.com.au
 :: stage1.afghancuisine.com.au
 0.0.0.0 staging-api.spot.im
@@ -65339,6 +65355,8 @@
 :: syndicate.payloadz.com
 0.0.0.0 syndicate.powerofads.com
 :: syndicate.powerofads.com
+0.0.0.0 syndicate.purch.com
+:: syndicate.purch.com
 0.0.0.0 syndicated.mondominishows.com
 :: syndicated.mondominishows.com
 0.0.0.0 syndication.adlandmark.com
@@ -66257,6 +66275,8 @@
 :: telemetry.nvidia.com
 0.0.0.0 telemetry.remoteapp.windowsazure.com
 :: telemetry.remoteapp.windowsazure.com
+0.0.0.0 telemetry.ros.rockstargames.com
+:: telemetry.ros.rockstargames.com
 0.0.0.0 telemetry.servers.getgo.com
 :: telemetry.servers.getgo.com
 0.0.0.0 telemetry.sonarsource.com
@@ -67215,6 +67235,8 @@
 :: traces.sr.roku.com
 0.0.0.0 track-apmebf.cj.akadns.net
 :: track-apmebf.cj.akadns.net
+0.0.0.0 track-dinos.fanplayr.com
+:: track-dinos.fanplayr.com
 0.0.0.0 track.007cpa.com
 :: track.007cpa.com
 0.0.0.0 track.12trackway.com
@@ -67323,6 +67345,8 @@
 :: track.clicksure.com
 0.0.0.0 track.cliqrr.com
 :: track.cliqrr.com
+0.0.0.0 track.cm-contact.pro
+:: track.cm-contact.pro
 0.0.0.0 track.collegeboard.com
 :: track.collegeboard.com
 0.0.0.0 track.construclique.com
@@ -67471,6 +67495,8 @@
 :: track.lmsadvlc.ru
 0.0.0.0 track.m1-eu.pro
 :: track.m1-eu.pro
+0.0.0.0 track.m1europe.pro
+:: track.m1europe.pro
 0.0.0.0 track.mailvalue.net
 :: track.mailvalue.net
 0.0.0.0 track.make-a-site.net
@@ -68071,6 +68097,8 @@
 :: tracker.eton-events.com
 0.0.0.0 tracker.euroweb.net
 :: tracker.euroweb.net
+0.0.0.0 tracker.fanplayr.com
+:: tracker.fanplayr.com
 0.0.0.0 tracker.financialcontent.com
 :: tracker.financialcontent.com
 0.0.0.0 tracker.freecharge.in
@@ -73429,6 +73457,8 @@
 :: widgets.digitalmediacommunications.com
 0.0.0.0 widgets.fccinteractive.com
 :: widgets.fccinteractive.com
+0.0.0.0 widgets.future-fie.co.uk
+:: widgets.future-fie.co.uk
 0.0.0.0 widgets.goldankauf123.de
 :: widgets.goldankauf123.de
 0.0.0.0 widgets.markosweb.com
@@ -75461,6 +75491,8 @@
 :: www.camelu.com
 0.0.0.0 www.camko-motor.com
 :: www.camko-motor.com
+0.0.0.0 www.camsoda1.com
+:: www.camsoda1.com
 0.0.0.0 www.canadasmedicine.com
 :: www.canadasmedicine.com
 0.0.0.0 www.canadianrugs.com
@@ -75593,8 +75625,6 @@
 :: www.chocolaterie-servant.com
 0.0.0.0 www.choice.md
 :: www.choice.md
-0.0.0.0 www.christinepowers.us
-:: www.christinepowers.us
 0.0.0.0 www.chromefastl.top
 :: www.chromefastl.top
 0.0.0.0 www.chromehakc.top
@@ -76129,6 +76159,8 @@
 :: www.ebusiness-articles.com
 0.0.0.0 www.ebuty.net.pl
 :: www.ebuty.net.pl
+0.0.0.0 www.ebuty.org.pl
+:: www.ebuty.org.pl
 0.0.0.0 www.echoesofpinkfloyd.be
 :: www.echoesofpinkfloyd.be
 0.0.0.0 www.eclean.or.kr
@@ -76481,8 +76513,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -77515,6 +77545,8 @@
 :: www.kampongsnylsyoa.download
 0.0.0.0 www.kamsinseuexlw.download
 :: www.kamsinseuexlw.download
+0.0.0.0 www.kan-therm.ru
+:: www.kan-therm.ru
 0.0.0.0 www.kanshuapp.com
 :: www.kanshuapp.com
 0.0.0.0 www.karakulszmlyttq.download
