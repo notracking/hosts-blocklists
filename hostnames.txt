@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Aug 29 08:51:21 CEST 2019
+# Last update: Fri Aug 30 08:56:12 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41407
+# Number of unique hostnames: 41403
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -20509,8 +20509,6 @@
 :: bulksms.teamserv.com.eg
 0.0.0.0 bullybarricade.consultitdata.com
 :: bullybarricade.consultitdata.com
-0.0.0.0 bulma-api.youbora.com
-:: bulma-api.youbora.com
 0.0.0.0 bumerang.hurriyet.com.tr
 :: bumerang.hurriyet.com.tr
 0.0.0.0 bumerangshowsites.hurriyet.com.tr
@@ -21573,6 +21571,8 @@
 :: cartetitolari.montepaschi.online
 0.0.0.0 cartetitolari.mps.it.mewdoku.com
 :: cartetitolari.mps.it.mewdoku.com
+0.0.0.0 carvana.trackinglibrary.prodperfect.com
+:: carvana.trackinglibrary.prodperfect.com
 0.0.0.0 casadecoinnet.in.net
 :: casadecoinnet.in.net
 0.0.0.0 casagreens.org.in
@@ -23533,8 +23533,6 @@
 :: cleaningservices.kiev.ua
 0.0.0.0 cleveland.sla.org
 :: cleveland.sla.org
-0.0.0.0 clevelreports.youbora.com
-:: clevelreports.youbora.com
 0.0.0.0 clexchange.usww.com
 :: clexchange.usww.com
 0.0.0.0 clexchange.usww.net
@@ -24755,6 +24753,8 @@
 :: config.getmyip.com
 0.0.0.0 config.kuyun.com
 :: config.kuyun.com
+0.0.0.0 config.mail.163.com
+:: config.mail.163.com
 0.0.0.0 config.mobile.wxbug.com
 :: config.mobile.wxbug.com
 0.0.0.0 config.mobisage.cn
@@ -29219,6 +29219,8 @@
 :: dl01.socdn.com
 0.0.0.0 dl1d2m8ri9v3j.cloudfront.net
 :: dl1d2m8ri9v3j.cloudfront.net
+0.0.0.0 dl2.reg.163.com
+:: dl2.reg.163.com
 0.0.0.0 dl392qndlveq0.cloudfront.net
 :: dl392qndlveq0.cloudfront.net
 0.0.0.0 dl5v5atodo7gn.cloudfront.net
@@ -30171,6 +30173,8 @@
 :: du8783wkf05yr.cloudfront.net
 0.0.0.0 dual-purpose-cane.000webhostapp.com
 :: dual-purpose-cane.000webhostapp.com
+0.0.0.0 dualstack-web-cache.nie.163.com
+:: dualstack-web-cache.nie.163.com
 0.0.0.0 dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
 :: dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 dualstack.brightcove.map.fastly.net
@@ -31645,6 +31649,8 @@
 :: entry.adsage.com
 0.0.0.0 entry.baidu.com
 :: entry.baidu.com
+0.0.0.0 entry.mail.163.com
+:: entry.mail.163.com
 0.0.0.0 entry12-bk-mfug-ufj-ssl-salam.grittygirls.org
 :: entry12-bk-mfug-ufj-ssl-salam.grittygirls.org
 0.0.0.0 entryhit.wp.pl
@@ -32133,8 +32139,6 @@
 :: events.walla.co.il
 0.0.0.0 events.webflowmetrics.com
 :: events.webflowmetrics.com
-0.0.0.0 events.youbora.com
-:: events.youbora.com
 0.0.0.0 eventtracking.hubapi.com
 :: eventtracking.hubapi.com
 0.0.0.0 evepc.163.com
@@ -32437,6 +32441,8 @@
 :: f3.p0y.com
 0.0.0.0 f3.souid.com
 :: f3.souid.com
+0.0.0.0 f3y7d1n9z753.blog.163.com
+:: f3y7d1n9z753.blog.163.com
 0.0.0.0 f4.p0y.com
 :: f4.p0y.com
 0.0.0.0 f4ds4g6253dh737d648h7j6489.000webhostapp.com
@@ -33553,6 +33559,8 @@
 :: fizjoterapia.5v.pl
 0.0.0.0 fj.hmtcn.com
 :: fj.hmtcn.com
+0.0.0.0 fj.news.163.com
+:: fj.news.163.com
 0.0.0.0 fjf38x.boss.northerndishedends.uk
 :: fjf38x.boss.northerndishedends.uk
 0.0.0.0 fjfhfghufd.000webhostapp.com
@@ -33569,6 +33577,8 @@
 :: fkooaee.angelcities.com
 0.0.0.0 fl.milesplit.com
 :: fl.milesplit.com
+0.0.0.0 fl.reg.163.com
+:: fl.reg.163.com
 0.0.0.0 flagship.asp-host.co.uk
 :: flagship.asp-host.co.uk
 0.0.0.0 flare.nowupdflash.bid
@@ -35941,8 +35951,6 @@
 :: gyodundena.hotmail.ru
 0.0.0.0 gz.hxdaka.com
 :: gz.hxdaka.com
-0.0.0.0 gzip-smartplugin.youbora.com
-:: gzip-smartplugin.youbora.com
 0.0.0.0 gzm.xzbu.com
 :: gzm.xzbu.com
 0.0.0.0 gzqroju.cinci.rr.com
@@ -37887,6 +37895,8 @@
 :: icon.cnmo.com
 0.0.0.0 icons.mydrivers.com
 :: icons.mydrivers.com
+0.0.0.0 icphz.qiye.163.com
+:: icphz.qiye.163.com
 0.0.0.0 icscards.3d-rekeningnl.info
 :: icscards.3d-rekeningnl.info
 0.0.0.0 icscards.sslverificatienl-klantenservice.pro
@@ -41231,6 +41241,8 @@
 :: keyword.daumdn.com
 0.0.0.0 keyword.netscape.com
 :: keyword.netscape.com
+0.0.0.0 kf.163.com
+:: kf.163.com
 0.0.0.0 kfc.i.illuminationes.com
 :: kfc.i.illuminationes.com
 0.0.0.0 kfewaz.zh1155.com
@@ -41265,6 +41277,8 @@
 :: kids.163.com
 0.0.0.0 kids.nt.am
 :: kids.nt.am
+0.0.0.0 kiepscy.evai.pl
+:: kiepscy.evai.pl
 0.0.0.0 kievelectric.kiev.ua
 :: kievelectric.kiev.ua
 0.0.0.0 kigo.loggly.com
@@ -44883,6 +44897,8 @@
 :: mail.tropmet.res.in
 0.0.0.0 mail.tsinghua.edu.cn
 :: mail.tsinghua.edu.cn
+0.0.0.0 mail.ym.163.com
+:: mail.ym.163.com
 0.0.0.0 mail.zzu.edu.cn
 :: mail.zzu.edu.cn
 0.0.0.0 mail1.371.net
@@ -47129,6 +47145,8 @@
 :: mmonius4spz75qszqq0s.littlematchagirl.com.au
 0.0.0.0 mmrj.entadsl.com
 :: mmrj.entadsl.com
+0.0.0.0 mms.amc.com
+:: mms.amc.com
 0.0.0.0 mms.cnn.com
 :: mms.cnn.com
 0.0.0.0 mms.graziadaily.co.uk
@@ -47939,8 +47957,14 @@
 :: mws.adsage.com
 0.0.0.0 mwxya.dobeat.top
 :: mwxya.dobeat.top
+0.0.0.0 mx.mail.ym.163.com
+:: mx.mail.ym.163.com
+0.0.0.0 mx.ym.163.com
+:: mx.ym.163.com
 0.0.0.0 mx1.freemail.ne.jp
 :: mx1.freemail.ne.jp
+0.0.0.0 mx2.qiye.163.com
+:: mx2.qiye.163.com
 0.0.0.0 mx5.lockview.cn
 :: mx5.lockview.cn
 0.0.0.0 mxcdn1.now.sh
@@ -48317,10 +48341,6 @@
 :: nb.myspace.com
 0.0.0.0 nb.netbreak.com.au
 :: nb.netbreak.com.au
-0.0.0.0 nb1-wdc.youbora.com
-:: nb1-wdc.youbora.com
-0.0.0.0 nb2-wdc.youbora.com
-:: nb2-wdc.youbora.com
 0.0.0.0 nba.emohe.com
 :: nba.emohe.com
 0.0.0.0 nbc.interpolls.com
@@ -48905,8 +48925,6 @@
 :: niantic-events.kws.superawesome.tv
 0.0.0.0 nice.kuaizq.com
 :: nice.kuaizq.com
-0.0.0.0 nicealerts.youbora.com
-:: nicealerts.youbora.com
 0.0.0.0 nicheshopping.wizncali.com
 :: nicheshopping.wizncali.com
 0.0.0.0 nichudousoukai.web.fc2.com
@@ -48997,8 +49015,6 @@
 :: nlccrunsemmvbbv.cinci.rr.com
 0.0.0.0 nlconsulateorlandoorg.siteprotect.net
 :: nlconsulateorlandoorg.siteprotect.net
-0.0.0.0 nlfgv03-008-4.youbora.com
-:: nlfgv03-008-4.youbora.com
 0.0.0.0 nlog.baidu.com
 :: nlog.baidu.com
 0.0.0.0 nlog.droid4x.cn
@@ -49231,18 +49247,6 @@
 :: nqqa19hwez.bradul.creatory.org
 0.0.0.0 nqs.nice264.com
 :: nqs.nice264.com
-0.0.0.0 nqs1-wdc.youbora.com
-:: nqs1-wdc.youbora.com
-0.0.0.0 nqs2-wdc.youbora.com
-:: nqs2-wdc.youbora.com
-0.0.0.0 nqs3-wdc.youbora.com
-:: nqs3-wdc.youbora.com
-0.0.0.0 nqs4-wdc.youbora.com
-:: nqs4-wdc.youbora.com
-0.0.0.0 nqs5-wdc.youbora.com
-:: nqs5-wdc.youbora.com
-0.0.0.0 nqs6-wdc.youbora.com
-:: nqs6-wdc.youbora.com
 0.0.0.0 nrads.1host.co.il
 :: nrads.1host.co.il
 0.0.0.0 nro.gov.sd
@@ -53071,8 +53075,6 @@
 :: pc.videoclick.baidu.com
 0.0.0.0 pc.yingshi.tcclick.1kxun.mobi
 :: pc.yingshi.tcclick.1kxun.mobi
-0.0.0.0 pc.youbora.com
-:: pc.youbora.com
 0.0.0.0 pc1.da.mgtv.com
 :: pc1.da.mgtv.com
 0.0.0.0 pc4maintainance.theperfectupdate.org
@@ -54375,8 +54377,6 @@
 :: plugin.mobopay.baidu.com
 0.0.0.0 plugins.mixi.jp
 :: plugins.mixi.jp
-0.0.0.0 plugins.youbora.com
-:: plugins.youbora.com
 0.0.0.0 pluginx.perfectgonzo.com
 :: pluginx.perfectgonzo.com
 0.0.0.0 plurilogic.matomo.cloud
@@ -55045,8 +55045,6 @@
 :: prd.jwpltx.com
 0.0.0.0 prd.ping-origin-prd.jwpltx.com
 :: prd.ping-origin-prd.jwpltx.com
-0.0.0.0 pre.smartplugin.youbora.com
-:: pre.smartplugin.youbora.com
 0.0.0.0 pre.uumobile.uu.163.com
 :: pre.uumobile.uu.163.com
 0.0.0.0 prebid.adnxs.co
@@ -56289,8 +56287,6 @@
 :: q993210v.bget.ru
 0.0.0.0 qa-cdn.lift.acquia.com
 :: qa-cdn.lift.acquia.com
-0.0.0.0 qa-smartplugin.youbora.com
-:: qa-smartplugin.youbora.com
 0.0.0.0 qa.bouncex.net
 :: qa.bouncex.net
 0.0.0.0 qa.stats.webs.com
@@ -56923,8 +56919,6 @@
 :: rc.rootclick.com
 0.0.0.0 rc.semilo.individuad.net
 :: rc.semilo.individuad.net
-0.0.0.0 rc.youbora.com
-:: rc.youbora.com
 0.0.0.0 rc6.i2i.jp
 :: rc6.i2i.jp
 0.0.0.0 rcarpe95.beget.tech
@@ -57661,8 +57655,6 @@
 :: reports.pagesuite-professional.co.uk
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
 :: reports.wes.df.telemetry.microsoft.com
-0.0.0.0 reports.youbora.com
-:: reports.youbora.com
 0.0.0.0 reportwebmaster.000webhostapp.com
 :: reportwebmaster.000webhostapp.com
 0.0.0.0 reportyouraccountissues.000webhostapp.com
@@ -62211,14 +62203,8 @@
 :: smartlinks-e2e.intuit.com
 0.0.0.0 smartlinks.intuit.com
 :: smartlinks.intuit.com
-0.0.0.0 smartplugin.youbora.com
-:: smartplugin.youbora.com
-0.0.0.0 smartreports.youbora.com
-:: smartreports.youbora.com
 0.0.0.0 smartshare.lgtvsdp.com
 :: smartshare.lgtvsdp.com
-0.0.0.0 smartswitch.youbora.com
-:: smartswitch.youbora.com
 0.0.0.0 smarttracks2.smarttracks.net
 :: smarttracks2.smarttracks.net
 0.0.0.0 smarttrain.edu.vn
@@ -62395,6 +62381,8 @@
 :: smtp.potinsnews.com
 0.0.0.0 smtp2.lithium.com
 :: smtp2.lithium.com
+0.0.0.0 smtphz.qiye.163.com
+:: smtphz.qiye.163.com
 0.0.0.0 smubatik1-slo.sch.id
 :: smubatik1-slo.sch.id
 0.0.0.0 smy.iheart.com
@@ -63285,6 +63273,8 @@
 :: stair.registrydomainservices.com
 0.0.0.0 stalworth-perforati.000webhostapp.com
 :: stalworth-perforati.000webhostapp.com
+0.0.0.0 stamp.mail.163.com
+:: stamp.mail.163.com
 0.0.0.0 stan1.adultmoviezone.com
 :: stan1.adultmoviezone.com
 0.0.0.0 stantonchasedrive.com.ref2343432.merciotanglos.com
@@ -69457,6 +69447,8 @@
 :: u64895004ikkff.000webhostapp.com
 0.0.0.0 u6543ewfgh.dyndns-work.com
 :: u6543ewfgh.dyndns-work.com
+0.0.0.0 u700222964.hostingerapp.com
+:: u700222964.hostingerapp.com
 0.0.0.0 u715381.sendgrid.org
 :: u715381.sendgrid.org
 0.0.0.0 u73801620533084.s.push-21.cdnsun.com
@@ -71227,8 +71219,6 @@
 :: vecinoonline.webcindario.com
 0.0.0.0 veevu.tourstogo.us
 :: veevu.tourstogo.us
-0.0.0.0 vegetapi-rc.youbora.com
-:: vegetapi-rc.youbora.com
 0.0.0.0 vegostoko.spaappointments.biz
 :: vegostoko.spaappointments.biz
 0.0.0.0 veksi.barginginfrance.net
@@ -73321,8 +73311,6 @@
 :: wf.1nv-acc.online
 0.0.0.0 wf1.vagos.es
 :: wf1.vagos.es
-0.0.0.0 wfgv096.youbora.com
-:: wfgv096.youbora.com
 0.0.0.0 wfoto.front.ru
 :: wfoto.front.ru
 0.0.0.0 wfwf1011.warabuki.net
@@ -76513,6 +76501,8 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
+0.0.0.0 www.fishingtackleindia.com
+:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -77591,6 +77581,8 @@
 :: www.kickassratios.com
 0.0.0.0 www.kidsangel.com
 :: www.kidsangel.com
+0.0.0.0 www.kiepscy.evai.pl
+:: www.kiepscy.evai.pl
 0.0.0.0 www.kiler.org
 :: www.kiler.org
 0.0.0.0 www.kilovoltsqychaubi.download
@@ -80189,8 +80181,6 @@
 :: www.uasm.de
 0.0.0.0 www.ucc.wix.com
 :: www.ucc.wix.com
-0.0.0.0 www.ucsmqq.site
-:: www.ucsmqq.site
 0.0.0.0 www.ugripe.com
 :: www.ugripe.com
 0.0.0.0 www.ujian.cc
@@ -81801,6 +81791,8 @@
 :: xy-log2.tagtic.cn
 0.0.0.0 xy.shijialianzuishuai.com
 :: xy.shijialianzuishuai.com
+0.0.0.0 xy2-ios2.cbg.163.com
+:: xy2-ios2.cbg.163.com
 0.0.0.0 xy2.163.com
 :: xy2.163.com
 0.0.0.0 xy2.cbg.163.com
