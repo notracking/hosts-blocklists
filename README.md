@@ -15,6 +15,9 @@ It's important to use both `domains.txt` and `hostnames.txt` simultaniously in d
  - Blocks malware servers
  - Blocks webminers
 
+# Donations
+Donations are welcome and will be used to pay for our dedicated server hosting bills: [donate with Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VPTVYWY3B7XWG&source=url) ❤️
+
 # How to install
 ## Default dnsmasq setup
  - Download the following two files (or use a daily cronjob to do it automatically)
