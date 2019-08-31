@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Aug 30 08:56:12 CEST 2019
+# Last update: Sat Aug 31 09:24:08 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41403
+# Number of unique hostnames: 41406
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3065,8 +3065,6 @@
 :: a2132959.0lx.net
 0.0.0.0 a248.e.akamai.net
 :: a248.e.akamai.net
-0.0.0.0 a2plvcpnl14118.atendclients.com
-:: a2plvcpnl14118.atendclients.com
 0.0.0.0 a2shd.realshieldlinked.com
 :: a2shd.realshieldlinked.com
 0.0.0.0 a3.ikafan.com
@@ -21979,8 +21977,6 @@
 :: cdn.download.sweetpacks.com
 0.0.0.0 cdn.downloaddabs.com
 :: cdn.downloaddabs.com
-0.0.0.0 cdn.downloatransfer.com
-:: cdn.downloatransfer.com
 0.0.0.0 cdn.dpdownload.com
 :: cdn.dpdownload.com
 0.0.0.0 cdn.dragonstatic.com
@@ -36211,6 +36207,8 @@
 :: hb-redlink-com-ar.servicesar.com
 0.0.0.0 hb.afl.rakuten.co.jp
 :: hb.afl.rakuten.co.jp
+0.0.0.0 hb.brainlyads.com
+:: hb.brainlyads.com
 0.0.0.0 hb.gammaplatform.com
 :: hb.gammaplatform.com
 0.0.0.0 hb.kumma.com
@@ -41701,6 +41699,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -47243,8 +47243,6 @@
 :: mobile-free-fr.freenayq.beget.tech
 0.0.0.0 mobile-free.globaldataince.com
 :: mobile-free.globaldataince.com
-0.0.0.0 mobile-free.instantformulaire.com
-:: mobile-free.instantformulaire.com
 0.0.0.0 mobile-free.kofoed-fr.com
 :: mobile-free.kofoed-fr.com
 0.0.0.0 mobile-free.metulwx.com
@@ -47263,6 +47261,8 @@
 :: mobile.aws.weather.com
 0.0.0.0 mobile.banzai.it
 :: mobile.banzai.it
+0.0.0.0 mobile.beliar.ru
+:: mobile.beliar.ru
 0.0.0.0 mobile.bet.pt
 :: mobile.bet.pt
 0.0.0.0 mobile.bet365.com
@@ -51359,8 +51359,6 @@
 :: outils.yesmessenger.com
 0.0.0.0 outlet.bgschool.bg
 :: outlet.bgschool.bg
-0.0.0.0 outlook.gymzone.org
-:: outlook.gymzone.org
 0.0.0.0 outlook.office.com.02a48ow3a.zohaibdesigners.tk
 :: outlook.office.com.02a48ow3a.zohaibdesigners.tk
 0.0.0.0 outlookoffice.wixsite.com
@@ -57631,6 +57629,8 @@
 :: report-metrics.essentials3.net
 0.0.0.0 report.appmetrica.yandex.net
 :: report.appmetrica.yandex.net
+0.0.0.0 report.hb.brainlyads.com
+:: report.hb.brainlyads.com
 0.0.0.0 report.mitsubishicars.com
 :: report.mitsubishicars.com
 0.0.0.0 report.qq.com
@@ -62925,6 +62925,8 @@
 :: srepdata.usatoday.com
 0.0.0.0 srilaini1helprecoveryii.000webhostapp.com
 :: srilaini1helprecoveryii.000webhostapp.com
+0.0.0.0 srisaranankara.sch.lk
+:: srisaranankara.sch.lk
 0.0.0.0 srpze.saqibsiddiqui.com
 :: srpze.saqibsiddiqui.com
 0.0.0.0 srutebmduoh.myfw.us
@@ -75063,6 +75065,8 @@
 :: www.applicationinsights.microsoft.com
 0.0.0.0 www.applicationsdeliveryupdate.com
 :: www.applicationsdeliveryupdate.com
+0.0.0.0 www.applicationunificationcontroller.com
+:: www.applicationunificationcontroller.com
 0.0.0.0 www.applicationwiki.com
 :: www.applicationwiki.com
 0.0.0.0 www.applog.camera360.com
@@ -75387,6 +75391,8 @@
 :: www.bravenetmedianetwork.com
 0.0.0.0 www.breastfeedme.com
 :: www.breastfeedme.com
+0.0.0.0 www.briarhurst.org
+:: www.briarhurst.org
 0.0.0.0 www.brightadnetwork.com
 :: www.brightadnetwork.com
 0.0.0.0 www.brokertech.net
