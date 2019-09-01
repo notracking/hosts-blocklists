@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Aug 31 09:24:08 CEST 2019
+# Last update: Sun Sep 1 09:13:26 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41406
+# Number of unique hostnames: 41420
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -16593,6 +16593,8 @@
 :: associazionelaterra.000webhostapp.com
 0.0.0.0 assoleste.org.br
 :: assoleste.org.br
+0.0.0.0 assp.sohu.com
+:: assp.sohu.com
 0.0.0.0 assueameli.beget.tech
 :: assueameli.beget.tech
 0.0.0.0 assumption.bm23.com
@@ -30565,6 +30567,8 @@
 :: e.by29s.cn
 0.0.0.0 e.cbeif.com
 :: e.cbeif.com
+0.0.0.0 e.cj59c.cn
+:: e.cj59c.cn
 0.0.0.0 e.cuomm.com
 :: e.cuomm.com
 0.0.0.0 e.cx016d.cn
@@ -30575,6 +30579,8 @@
 :: e.danrs.com
 0.0.0.0 e.deimm.com
 :: e.deimm.com
+0.0.0.0 e.dh19y.cn
+:: e.dh19y.cn
 0.0.0.0 e.digitalnectar.co.uk
 :: e.digitalnectar.co.uk
 0.0.0.0 e.diupp.com
@@ -30623,8 +30629,6 @@
 :: e.gtuoj.com
 0.0.0.0 e.gxjfh.com
 :: e.gxjfh.com
-0.0.0.0 e.hc29x.cn
-:: e.hc29x.cn
 0.0.0.0 e.hdanc.com
 :: e.hdanc.com
 0.0.0.0 e.hellomingpian.com
@@ -30865,6 +30869,8 @@
 :: e.yycqc.com
 0.0.0.0 e.zg-api.com
 :: e.zg-api.com
+0.0.0.0 e.zg39b.cn
+:: e.zg39b.cn
 0.0.0.0 e.zvfuka.cn
 :: e.zvfuka.cn
 0.0.0.0 e2.molbuk.ua
@@ -33821,6 +33827,8 @@
 :: fpb.kuhou.com
 0.0.0.0 fpb.mn586.com
 :: fpb.mn586.com
+0.0.0.0 fpb.sohu.com
+:: fpb.sohu.com
 0.0.0.0 fpb1.apple886.com
 :: fpb1.apple886.com
 0.0.0.0 fpb1.gxfin.com
@@ -43947,6 +43955,8 @@
 :: m.dfanf.com
 0.0.0.0 m.dgouf.com
 :: m.dgouf.com
+0.0.0.0 m.dh19y.cn
+:: m.dh19y.cn
 0.0.0.0 m.djunf.com
 :: m.djunf.com
 0.0.0.0 m.dkd21.cn
@@ -44317,6 +44327,8 @@
 :: m.ogeigs.com
 0.0.0.0 m.oipeirates.online
 :: m.oipeirates.online
+0.0.0.0 m.omztf.cn
+:: m.omztf.cn
 0.0.0.0 m.openv.tv
 :: m.openv.tv
 0.0.0.0 m.oyrim.com
@@ -44543,6 +44555,8 @@
 :: m.wuqutu.com
 0.0.0.0 m.wxjrd.cn
 :: m.wxjrd.cn
+0.0.0.0 m.x2e8id.cn
+:: m.x2e8id.cn
 0.0.0.0 m.x316f.cn
 :: m.x316f.cn
 0.0.0.0 m.x78tg.cn
@@ -44627,6 +44641,8 @@
 :: m.zbied.com
 0.0.0.0 m.zeiaa.com
 :: m.zeiaa.com
+0.0.0.0 m.zg39b.cn
+:: m.zg39b.cn
 0.0.0.0 m.zq4ka.cn
 :: m.zq4ka.cn
 0.0.0.0 m.zvfuka.cn
@@ -47173,6 +47189,8 @@
 :: mo.drzd9.cn
 0.0.0.0 mo.freeindoapp.com
 :: mo.freeindoapp.com
+0.0.0.0 mo.grqf.com.cn
+:: mo.grqf.com.cn
 0.0.0.0 mo.gsasqa.cn
 :: mo.gsasqa.cn
 0.0.0.0 mo.haloapps.cn
@@ -47181,6 +47199,8 @@
 :: mo.oneshouyou.cn
 0.0.0.0 mo.qb138.cn
 :: mo.qb138.cn
+0.0.0.0 mo.qitouch.cn
+:: mo.qitouch.cn
 0.0.0.0 mo.res.wpscdn.cn
 :: mo.res.wpscdn.cn
 0.0.0.0 mo.shekuang.top
@@ -56431,6 +56451,8 @@
 :: qosp.msg.71.am
 0.0.0.0 qp97se4uxsi1qbd5llp1.viomil.ro
 :: qp97se4uxsi1qbd5llp1.viomil.ro
+0.0.0.0 qpb.sohu.com
+:: qpb.sohu.com
 0.0.0.0 qpodgladacz.glt.pl
 :: qpodgladacz.glt.pl
 0.0.0.0 qpxxhyzwae.ce.ms
@@ -62061,6 +62083,8 @@
 :: skgroup.kiev.ua
 0.0.0.0 skinsycs.89.pl
 :: skinsycs.89.pl
+0.0.0.0 skl.zhazhiwei.com
+:: skl.zhazhiwei.com
 0.0.0.0 sklep.ekoenergia24.eu
 :: sklep.ekoenergia24.eu
 0.0.0.0 sklep466452.shoparena.pl
@@ -65179,6 +65203,8 @@
 :: swattradingco.name.qa
 0.0.0.0 swdevopsit.loggly.com
 :: swdevopsit.loggly.com
+0.0.0.0 swe.shylsp.com
+:: swe.shylsp.com
 0.0.0.0 swebanalytics.eniro.se
 :: swebanalytics.eniro.se
 0.0.0.0 sweepstakes.about.com
@@ -71375,6 +71401,8 @@
 :: vg.aty.sohu.com
 0.0.0.0 vgbp.mzran.com.cn
 :: vgbp.mzran.com.cn
+0.0.0.0 vgf.zuihuixuan.com
+:: vgf.zuihuixuan.com
 0.0.0.0 vgtre.000webhostapp.com
 :: vgtre.000webhostapp.com
 0.0.0.0 vhec.jhjhyn.cn
