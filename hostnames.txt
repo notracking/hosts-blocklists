@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Sep 1 09:13:26 CEST 2019
+# Last update: Mon Sep 2 09:13:38 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41420
+# Number of unique hostnames: 41427
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -15979,6 +15979,8 @@
 :: apple.com-security-desktop-antimalware-support.download
 0.0.0.0 apple.com-shield.live
 :: apple.com-shield.live
+0.0.0.0 apple.com-shields-guard.live
+:: apple.com-shields-guard.live
 0.0.0.0 apple.com-speed-macos.live
 :: apple.com-speed-macos.live
 0.0.0.0 apple.com-speedup-macbook.live
@@ -30649,6 +30651,8 @@
 :: e.hzuic.com
 0.0.0.0 e.iduob.com
 :: e.iduob.com
+0.0.0.0 e.ik20nd.cn
+:: e.ik20nd.cn
 0.0.0.0 e.invodo.com
 :: e.invodo.com
 0.0.0.0 e.ituiy.com
@@ -35899,8 +35903,6 @@
 :: gviailawmc.yi.org
 0.0.0.0 gvppjnjv.net.in
 :: gvppjnjv.net.in
-0.0.0.0 gw-openx.cloudapp.net
-:: gw-openx.cloudapp.net
 0.0.0.0 gw.api.163.com
 :: gw.api.163.com
 0.0.0.0 gw1.surf-town.net
@@ -39497,8 +39499,6 @@
 :: intext.intextdirect.com
 0.0.0.0 intext.lookit.cz
 :: intext.lookit.cz
-0.0.0.0 intimerrance.jepose.com
-:: intimerrance.jepose.com
 0.0.0.0 intljs.rmtag.com
 :: intljs.rmtag.com
 0.0.0.0 intranet.grupojarbet.com
@@ -44163,6 +44163,8 @@
 :: m.ib345.cn
 0.0.0.0 m.iduob.com
 :: m.iduob.com
+0.0.0.0 m.ik20nd.cn
+:: m.ik20nd.cn
 0.0.0.0 m.ilancc.com
 :: m.ilancc.com
 0.0.0.0 m.inqra.cn
@@ -64615,6 +64617,8 @@
 :: stcollection.moneysupermarket.com
 0.0.0.0 std.o.webmd.com
 :: std.o.webmd.com
+0.0.0.0 steam-keys.ezar.ru
+:: steam-keys.ezar.ru
 0.0.0.0 steam.fasting.tk
 :: steam.fasting.tk
 0.0.0.0 steam.myago.tk
@@ -69475,8 +69479,6 @@
 :: u64895004ikkff.000webhostapp.com
 0.0.0.0 u6543ewfgh.dyndns-work.com
 :: u6543ewfgh.dyndns-work.com
-0.0.0.0 u700222964.hostingerapp.com
-:: u700222964.hostingerapp.com
 0.0.0.0 u715381.sendgrid.org
 :: u715381.sendgrid.org
 0.0.0.0 u73801620533084.s.push-21.cdnsun.com
@@ -72499,6 +72501,8 @@
 :: wake.greatchittorgarh.com
 0.0.0.0 walec.ovh.org
 :: walec.ovh.org
+0.0.0.0 walkonwheels.net.au
+:: walkonwheels.net.au
 0.0.0.0 wall.vgr.com
 :: wall.vgr.com
 0.0.0.0 walla.yad2.co.il
@@ -74305,6 +74309,8 @@
 :: www.010cs.com
 0.0.0.0 www.02level.tk
 :: www.02level.tk
+0.0.0.0 www.02seo.com
+:: www.02seo.com
 0.0.0.0 www.050media.nl
 :: www.050media.nl
 0.0.0.0 www.0898tz.com
@@ -74807,6 +74813,8 @@
 :: www.advancesrl.eu
 0.0.0.0 www.advanpromo.com
 :: www.advanpromo.com
+0.0.0.0 www.adventa.info
+:: www.adventa.info
 0.0.0.0 www.adventertainment.it
 :: www.adventertainment.it
 0.0.0.0 www.adverteasy.fr
@@ -75071,6 +75079,8 @@
 :: www.apple.com-scan.live
 0.0.0.0 www.apple.com-shield.live
 :: www.apple.com-shield.live
+0.0.0.0 www.apple.com-shields-guard.live
+:: www.apple.com-shields-guard.live
 0.0.0.0 www.apple.com-speed-macbook.live
 :: www.apple.com-speed-macbook.live
 0.0.0.0 www.apple.com-speed-macos.live
@@ -76945,6 +76955,8 @@
 :: www.hejlchen.blog.163.com
 0.0.0.0 www.heliometernxwpu.download
 :: www.heliometernxwpu.download
+0.0.0.0 www.helpinict.co.uk
+:: www.helpinict.co.uk
 0.0.0.0 www.hengjia8.com
 :: www.hengjia8.com
 0.0.0.0 www.hentaigratuit.com
@@ -79957,6 +79969,8 @@
 :: www.thebigoutdoors.co.uk
 0.0.0.0 www.thecrack.net
 :: www.thecrack.net
+0.0.0.0 www.thedournalist.com
+:: www.thedournalist.com
 0.0.0.0 www.thegaymen.com
 :: www.thegaymen.com
 0.0.0.0 www.thehitman.com
@@ -79987,6 +80001,8 @@
 :: www.thetraderinpajamas.com
 0.0.0.0 www.thewaycloud.com
 :: www.thewaycloud.com
+0.0.0.0 www.threshold-online.co.uk
+:: www.threshold-online.co.uk
 0.0.0.0 www.thztv.net
 :: www.thztv.net
 0.0.0.0 www.tiande.wroclaw.pl
@@ -81847,8 +81863,6 @@
 :: xyq.cbg.163.com
 0.0.0.0 xyrjy.blog.163.com
 :: xyrjy.blog.163.com
-0.0.0.0 xyskyewhitedevilexploitgreat.duckdns.org
-:: xyskyewhitedevilexploitgreat.duckdns.org
 0.0.0.0 xyvob56g9siycph9vp0o.littlematchagirl.com.au
 :: xyvob56g9siycph9vp0o.littlematchagirl.com.au
 0.0.0.0 xyw.163.com
