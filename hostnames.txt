@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Sep 3 09:12:34 CEST 2019
+# Last update: Wed Sep 4 09:12:14 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41423
+# Number of unique hostnames: 41427
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -19629,6 +19629,8 @@
 :: biskot88.000webhostapp.com
 0.0.0.0 bismetrics.experian.com
 :: bismetrics.experian.com
+0.0.0.0 bist.ac.bd
+:: bist.ac.bd
 0.0.0.0 bist.ailsg.com
 :: bist.ailsg.com
 0.0.0.0 bit.ehow.com
@@ -28695,8 +28697,6 @@
 :: dev.splio.fr
 0.0.0.0 dev.suetables.com
 :: dev.suetables.com
-0.0.0.0 dev.telemetry.ros.rockstargames.com
-:: dev.telemetry.ros.rockstargames.com
 0.0.0.0 dev.tg.wan.360.cn
 :: dev.tg.wan.360.cn
 0.0.0.0 dev.tg.youxi.com
@@ -30879,6 +30879,12 @@
 :: e2e.mashable.com
 0.0.0.0 e2e.pcmag.com
 :: e2e.pcmag.com
+0.0.0.0 e2rs-beta.pinpoint.us-east-1.amazonaws.com
+:: e2rs-beta.pinpoint.us-east-1.amazonaws.com
+0.0.0.0 e2rs-gamma.pinpoint.us-east-1.amazonaws.com
+:: e2rs-gamma.pinpoint.us-east-1.amazonaws.com
+0.0.0.0 e2rs-prod.pinpoint.us-east-1.amazonaws.com
+:: e2rs-prod.pinpoint.us-east-1.amazonaws.com
 0.0.0.0 e32e0c3c972d179cd1d0-1847ac4c91d55b307d162b6d5ad07fe3.r71.cf2.rackcdn.com
 :: e32e0c3c972d179cd1d0-1847ac4c91d55b307d162b6d5ad07fe3.r71.cf2.rackcdn.com
 0.0.0.0 e3yt5.at-band-camp.net
@@ -31347,6 +31353,8 @@
 :: elb.qublixaws.com
 0.0.0.0 elbcradio.tcalr.org
 :: elbcradio.tcalr.org
+0.0.0.0 electricfence.levsantronic.ro
+:: electricfence.levsantronic.ro
 0.0.0.0 electro.demos.su
 :: electro.demos.su
 0.0.0.0 electrohemostasis.makemoneywithmegan.net
@@ -38733,8 +38741,6 @@
 :: img1.webring.com
 0.0.0.0 img1.ysts8.com
 :: img1.ysts8.com
-0.0.0.0 img1.zergnet.com
-:: img1.zergnet.com
 0.0.0.0 img100-321.xvideos.com
 :: img100-321.xvideos.com
 0.0.0.0 img16.diyifanwen.com
@@ -38755,8 +38761,6 @@
 :: img2.pengfu.net
 0.0.0.0 img2.titan007.com
 :: img2.titan007.com
-0.0.0.0 img2.zergnet.com
-:: img2.zergnet.com
 0.0.0.0 img3.126.net
 :: img3.126.net
 0.0.0.0 img3.fy1g.com
@@ -38769,10 +38773,6 @@
 :: img3.giardinelli.com.edgesuite.net
 0.0.0.0 img3.km.com
 :: img3.km.com
-0.0.0.0 img3.zergnet.com
-:: img3.zergnet.com
-0.0.0.0 img4.zergnet.com
-:: img4.zergnet.com
 0.0.0.0 img7.1133.cc
 :: img7.1133.cc
 0.0.0.0 img9.1133.cc
@@ -39457,6 +39457,8 @@
 :: intermrkts.vo.llnwd.net
 0.0.0.0 internal.fuckyoucash.com
 :: internal.fuckyoucash.com
+0.0.0.0 internal.prod.sms-voice.pinpoint.us-east-1.amazonaws.com
+:: internal.prod.sms-voice.pinpoint.us-east-1.amazonaws.com
 0.0.0.0 internal.qtube.com
 :: internal.qtube.com
 0.0.0.0 internalads.gammae.com
@@ -41699,8 +41701,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -41721,6 +41721,8 @@
 :: kursdollara.f-noks.info
 0.0.0.0 kursuskomputer.web.id
 :: kursuskomputer.web.id
+0.0.0.0 kusumo.web.id
+:: kusumo.web.id
 0.0.0.0 kuteshop.kienbientech.com
 :: kuteshop.kienbientech.com
 0.0.0.0 kuvpfx.est.northerndishedends.com
@@ -42505,8 +42507,6 @@
 :: linktracker.tripod.com
 0.0.0.0 linkverficiation.000webhostapp.com
 :: linkverficiation.000webhostapp.com
-0.0.0.0 linux.esfelgueiras.org
-:: linux.esfelgueiras.org
 0.0.0.0 linuxjournal.matomo.cloud
 :: linuxjournal.matomo.cloud
 0.0.0.0 linxijb.weebly.com
@@ -52519,6 +52519,10 @@
 :: party-vqgdyvoycc.now.sh
 0.0.0.0 parvati.net.in
 :: parvati.net.in
+0.0.0.0 pas-beta.pinpoint.us-east-1.amazonaws.com
+:: pas-beta.pinpoint.us-east-1.amazonaws.com
+0.0.0.0 pas-gamma.pinpoint.us-east-1.amazonaws.com
+:: pas-gamma.pinpoint.us-east-1.amazonaws.com
 0.0.0.0 pas.private4.com
 :: pas.private4.com
 0.0.0.0 pasaz.goryonline.com
@@ -53827,6 +53831,8 @@
 :: pingwin.net.ua
 0.0.0.0 pink.habralab.ru
 :: pink.habralab.ru
+0.0.0.0 pinpoint.us-east-1.amazonaws.com
+:: pinpoint.us-east-1.amazonaws.com
 0.0.0.0 pipedream.wistia.com
 :: pipedream.wistia.com
 0.0.0.0 pipki.r.worldssl.net
@@ -55233,6 +55239,8 @@
 :: prod.ping-origin-prd.jwpltx.com
 0.0.0.0 prod.pixel.printsites.net
 :: prod.pixel.printsites.net
+0.0.0.0 prod.sms-voice.pinpoint.us-east-1.amazonaws.com
+:: prod.sms-voice.pinpoint.us-east-1.amazonaws.com
 0.0.0.0 prod.sonobi-go.map.fastly.net
 :: prod.sonobi-go.map.fastly.net
 0.0.0.0 prod.spotify.map.fastlylb.net
@@ -61021,6 +61029,12 @@
 :: semart.ugm.ac.id
 0.0.0.0 semblueinc.viewmyplans.com
 :: semblueinc.viewmyplans.com
+0.0.0.0 send-beta.pinpoint.us-east-1.amazonaws.com
+:: send-beta.pinpoint.us-east-1.amazonaws.com
+0.0.0.0 send-gamma.pinpoint.us-east-1.amazonaws.com
+:: send-gamma.pinpoint.us-east-1.amazonaws.com
+0.0.0.0 send-prod.pinpoint.us-east-1.amazonaws.com
+:: send-prod.pinpoint.us-east-1.amazonaws.com
 0.0.0.0 senior78custome.rr.nu
 :: senior78custome.rr.nu
 0.0.0.0 senliheavenly.web.fc2.com
@@ -62373,6 +62387,8 @@
 :: smpn9cilacap.sch.id
 0.0.0.0 smr.so-net.ne.jp
 :: smr.so-net.ne.jp
+0.0.0.0 sms-voice.pinpoint.us-east-1.amazonaws.com
+:: sms-voice.pinpoint.us-east-1.amazonaws.com
 0.0.0.0 sms.otair.com
 :: sms.otair.com
 0.0.0.0 smsboxinfoserveursillimite.esy.es
@@ -62943,8 +62959,6 @@
 :: srepdata.usatoday.com
 0.0.0.0 srilaini1helprecoveryii.000webhostapp.com
 :: srilaini1helprecoveryii.000webhostapp.com
-0.0.0.0 srisaranankara.sch.lk
-:: srisaranankara.sch.lk
 0.0.0.0 srpze.saqibsiddiqui.com
 :: srpze.saqibsiddiqui.com
 0.0.0.0 srutebmduoh.myfw.us
@@ -66289,8 +66303,6 @@
 :: telemetry.nvidia.com
 0.0.0.0 telemetry.remoteapp.windowsazure.com
 :: telemetry.remoteapp.windowsazure.com
-0.0.0.0 telemetry.ros.rockstargames.com
-:: telemetry.ros.rockstargames.com
 0.0.0.0 telemetry.servers.getgo.com
 :: telemetry.servers.getgo.com
 0.0.0.0 telemetry.sonarsource.com
@@ -80373,8 +80385,6 @@
 :: www.videoonline.net
 0.0.0.0 www.videostan.ru
 :: www.videostan.ru
-0.0.0.0 www.vidvanern.se
-:: www.vidvanern.se
 0.0.0.0 www.viewdocsonline.com
 :: www.viewdocsonline.com
 0.0.0.0 www.viewerfb.glt.pl
@@ -80833,8 +80843,6 @@
 :: www.zenemuzeum.go.ro
 0.0.0.0 www.zeptolab.com
 :: www.zeptolab.com
-0.0.0.0 www.zergnet.com
-:: www.zergnet.com
 0.0.0.0 www.zeus.ad.intl.xiaomi.com
 :: www.zeus.ad.intl.xiaomi.com
 0.0.0.0 www.zfn5wua2d1.online
