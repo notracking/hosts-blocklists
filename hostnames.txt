@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Sep 4 09:12:14 CEST 2019
+# Last update: Thu Sep 5 09:06:28 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41427
+# Number of unique hostnames: 41431
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3359,8 +3359,6 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
-0.0.0.0 abusalewm.exceltoner.com
-:: abusalewm.exceltoner.com
 0.0.0.0 ac.86huoche.com
 :: ac.86huoche.com
 0.0.0.0 ac.ajur.info
@@ -19543,6 +19541,8 @@
 :: bid.axiatraders.com
 0.0.0.0 bid.stg.ybp.yahoo.com
 :: bid.stg.ybp.yahoo.com
+0.0.0.0 bid.underdog.media
+:: bid.underdog.media
 0.0.0.0 bidbarrel.cbsnews.com
 :: bidbarrel.cbsnews.com
 0.0.0.0 bidder.mdspinc.com
@@ -41701,6 +41701,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -41853,6 +41855,8 @@
 :: l8evfmnc-site.atempurl.com
 0.0.0.0 l9bdhcgihw.neihanw.com
 :: l9bdhcgihw.neihanw.com
+0.0.0.0 l9bjkkhaycw6f8f4.soundcloud.com
+:: l9bjkkhaycw6f8f4.soundcloud.com
 0.0.0.0 l9btssax-site.etempurl.com
 :: l9btssax-site.etempurl.com
 0.0.0.0 l9d07d7d.justinstalledpanel.com
@@ -49291,8 +49295,6 @@
 :: ns1.bankrate.com
 0.0.0.0 ns1.datapipe.net
 :: ns1.datapipe.net
-0.0.0.0 ns1.dnsfor10.com
-:: ns1.dnsfor10.com
 0.0.0.0 ns1.dnsfor9.com
 :: ns1.dnsfor9.com
 0.0.0.0 ns1.iad.cimedia.net
@@ -58369,6 +58371,8 @@
 :: rumahhufazh.or.id
 0.0.0.0 rumahmakannusantara.biz.id
 :: rumahmakannusantara.biz.id
+0.0.0.0 rumcdn.geoedge.be
+:: rumcdn.geoedge.be
 0.0.0.0 rumcollector-lb-304223083.us-east-1.elb.amazonaws.com
 :: rumcollector-lb-304223083.us-east-1.elb.amazonaws.com
 0.0.0.0 rumog.frost-electric-supply.com
@@ -64529,6 +64533,8 @@
 :: stats.yellowphoenix18.de
 0.0.0.0 stats.yourminis.com
 :: stats.yourminis.com
+0.0.0.0 stats.yudu.com
+:: stats.yudu.com
 0.0.0.0 stats.zmags.com
 :: stats.zmags.com
 0.0.0.0 stats.zotabox.com
@@ -68751,6 +68757,8 @@
 :: tracking.voltagesearch.com
 0.0.0.0 tracking.waterfrontmedia.com
 :: tracking.waterfrontmedia.com
+0.0.0.0 tracking.wealthyboost.com
+:: tracking.wealthyboost.com
 0.0.0.0 tracking.websitealive.com
 :: tracking.websitealive.com
 0.0.0.0 tracking.weiboniu.com
@@ -80017,8 +80025,6 @@
 :: www.tiergestuetzt.de
 0.0.0.0 www.timefor.com
 :: www.timefor.com
-0.0.0.0 www.timelessimagesmi.com
-:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tinayr.go.ro
@@ -80385,6 +80391,8 @@
 :: www.videoonline.net
 0.0.0.0 www.videostan.ru
 :: www.videostan.ru
+0.0.0.0 www.vidvanern.se
+:: www.vidvanern.se
 0.0.0.0 www.viewdocsonline.com
 :: www.viewdocsonline.com
 0.0.0.0 www.viewerfb.glt.pl
