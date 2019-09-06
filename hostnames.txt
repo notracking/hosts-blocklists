@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Sep 5 09:06:28 CEST 2019
+# Last update: Fri Sep 6 09:12:19 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41431
+# Number of unique hostnames: 41468
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3359,6 +3359,8 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
+0.0.0.0 abusalewm.exceltoner.com
+:: abusalewm.exceltoner.com
 0.0.0.0 ac.86huoche.com
 :: ac.86huoche.com
 0.0.0.0 ac.ajur.info
@@ -6065,6 +6067,8 @@
 :: adm.10jqka.com.cn
 0.0.0.0 adm.265g.com
 :: adm.265g.com
+0.0.0.0 adm.52swine.com
+:: adm.52swine.com
 0.0.0.0 adm.6park.com
 :: adm.6park.com
 0.0.0.0 adm.86wan.com
@@ -15481,6 +15485,8 @@
 :: api.ssp.zxrtb.com
 0.0.0.0 api.stats.appa.pe
 :: api.stats.appa.pe
+0.0.0.0 api.systempartnerski.pl
+:: api.systempartnerski.pl
 0.0.0.0 api.t.163.com
 :: api.t.163.com
 0.0.0.0 api.taps.io
@@ -15799,8 +15805,6 @@
 :: app.onlinecustomer-home-service.app.update.ten-four.com
 0.0.0.0 app.pho8.com
 :: app.pho8.com
-0.0.0.0 app.pr0gramm.com
-:: app.pr0gramm.com
 0.0.0.0 app.reflectivedata.com
 :: app.reflectivedata.com
 0.0.0.0 app.roximity.com
@@ -21953,6 +21957,8 @@
 :: cdn.cms.neatcontent.com
 0.0.0.0 cdn.comparemetrics.com
 :: cdn.comparemetrics.com
+0.0.0.0 cdn.comperia.pl
+:: cdn.comperia.pl
 0.0.0.0 cdn.complexmedianetwork.com
 :: cdn.complexmedianetwork.com
 0.0.0.0 cdn.constafun.com
@@ -28237,6 +28243,8 @@
 :: ddkbyyg.qhigh.com
 0.0.0.0 ddkkrrla.m.qxs.la
 :: ddkkrrla.m.qxs.la
+0.0.0.0 ddl.163.com
+:: ddl.163.com
 0.0.0.0 ddnsovyzykmw08f8uivc.alfacomercial.com.br
 :: ddnsovyzykmw08f8uivc.alfacomercial.com.br
 0.0.0.0 ddos.93se.com
@@ -33737,6 +33745,8 @@
 :: foreveryoung.gz01.bdysite.com
 0.0.0.0 forex-trading-benefits.blogspot.com
 :: forex-trading-benefits.blogspot.com
+0.0.0.0 forge.sentry.io
+:: forge.sentry.io
 0.0.0.0 form.doctortoken.in
 :: form.doctortoken.in
 0.0.0.0 forms.convertkit.com
@@ -34509,6 +34519,8 @@
 :: gameanalisys.appcpi.net
 0.0.0.0 gamebox.kugou.com
 :: gamebox.kugou.com
+0.0.0.0 gamebox.webapp.163.com
+:: gamebox.webapp.163.com
 0.0.0.0 gamecenter.iqiyi.com
 :: gamecenter.iqiyi.com
 0.0.0.0 gamecracks.getinformationabout.com
@@ -42589,6 +42601,8 @@
 :: live.prismamediadigital.com
 0.0.0.0 live.rads.msn.com
 :: live.rads.msn.com
+0.0.0.0 live.sentry.io
+:: live.sentry.io
 0.0.0.0 live.sex-explorer.com
 :: live.sex-explorer.com
 0.0.0.0 live.tvpot.daum.net
@@ -44721,6 +44735,8 @@
 :: m4.media-box.co
 0.0.0.0 m4.webstats.motigo.com
 :: m4.webstats.motigo.com
+0.0.0.0 m48.mm.mail.163.com
+:: m48.mm.mail.163.com
 0.0.0.0 m5.webstats.motigo.com
 :: m5.webstats.motigo.com
 0.0.0.0 m6.webstats.motigo.com
@@ -46801,6 +46817,8 @@
 :: mimg.163.com
 0.0.0.0 mimg.7791.com.cn
 :: mimg.7791.com.cn
+0.0.0.0 mimgcache.mail.163.com
+:: mimgcache.mail.163.com
 0.0.0.0 mimiyi.blog.163.com
 :: mimiyi.blog.163.com
 0.0.0.0 min.imageflux.cf
@@ -48197,6 +48215,8 @@
 :: n.popclck.org
 0.0.0.0 n.radikal.ru
 :: n.radikal.ru
+0.0.0.0 n.serialeonline.pl
+:: n.serialeonline.pl
 0.0.0.0 n.targetdtracker.com
 :: n.targetdtracker.com
 0.0.0.0 n.vipadvert.net
@@ -54939,6 +54959,8 @@
 :: pp.163.com
 0.0.0.0 pp.free.fr
 :: pp.free.fr
+0.0.0.0 pp.funhub.pl
+:: pp.funhub.pl
 0.0.0.0 pp.nrelate.com
 :: pp.nrelate.com
 0.0.0.0 pp.pplproblems.com
@@ -57421,6 +57443,8 @@
 :: reg.nie.163.com
 0.0.0.0 reg.ops.bouncex.net
 :: reg.ops.bouncex.net
+0.0.0.0 reg.vip.163.com
+:: reg.vip.163.com
 0.0.0.0 reg11ster088.fanspage-confrim3.ml
 :: reg11ster088.fanspage-confrim3.ml
 0.0.0.0 regcure.software-com.com
@@ -58699,16 +58723,34 @@
 :: s.zlongad.com
 0.0.0.0 s01.delivery.addynamo.com
 :: s01.delivery.addynamo.com
+0.0.0.0 s01.hostcontent.li
+:: s01.hostcontent.li
 0.0.0.0 s01.vidtod.me
 :: s01.vidtod.me
 0.0.0.0 s01.vidtodo.pro
 :: s01.vidtodo.pro
+0.0.0.0 s02.hostcontent.li
+:: s02.hostcontent.li
 0.0.0.0 s02.optimix.asia
 :: s02.optimix.asia
 0.0.0.0 s02.vidtod.me
 :: s02.vidtod.me
+0.0.0.0 s03.hostcontent.li
+:: s03.hostcontent.li
 0.0.0.0 s03.optimix.asia
 :: s03.optimix.asia
+0.0.0.0 s04.hostcontent.li
+:: s04.hostcontent.li
+0.0.0.0 s05.hostcontent.li
+:: s05.hostcontent.li
+0.0.0.0 s06.hostcontent.li
+:: s06.hostcontent.li
+0.0.0.0 s07.hostcontent.li
+:: s07.hostcontent.li
+0.0.0.0 s08.hostcontent.li
+:: s08.hostcontent.li
+0.0.0.0 s09.hostcontent.li
+:: s09.hostcontent.li
 0.0.0.0 s0c572u6iu4x3b05rdso.alfacomercial.com.br
 :: s0c572u6iu4x3b05rdso.alfacomercial.com.br
 0.0.0.0 s0e3nwd7mhf45sghuds3.businessrulesanalysis.com
@@ -58777,8 +58819,18 @@
 :: s1.wan1979.com
 0.0.0.0 s1.wesiedu.com
 :: s1.wesiedu.com
+0.0.0.0 s10.hostcontent.li
+:: s10.hostcontent.li
+0.0.0.0 s100.hostcontent.li
+:: s100.hostcontent.li
+0.0.0.0 s11.hostcontent.li
+:: s11.hostcontent.li
+0.0.0.0 s12.hostcontent.li
+:: s12.hostcontent.li
 0.0.0.0 s12an3.boss.northerndishedends.uk
 :: s12an3.boss.northerndishedends.uk
+0.0.0.0 s13.hostcontent.li
+:: s13.hostcontent.li
 0.0.0.0 s133d7.virtualxs.com
 :: s133d7.virtualxs.com
 0.0.0.0 s1magnettvcom.maynemyltf.netdna-cdn.com
@@ -61369,6 +61421,8 @@
 :: servserv.generals.ea.com
 0.0.0.0 servt.playbuzz.co
 :: servt.playbuzz.co
+0.0.0.0 serwer1566493.home.pl
+:: serwer1566493.home.pl
 0.0.0.0 serwer1819004.home.pl
 :: serwer1819004.home.pl
 0.0.0.0 serwer1827616.home.pl
@@ -62141,6 +62195,8 @@
 :: slanted.excelonlinereader.services
 0.0.0.0 slap.alliancekl.com
 :: slap.alliancekl.com
+0.0.0.0 slapintins.publicvm.com
+:: slapintins.publicvm.com
 0.0.0.0 slate-ad-scripts.s3.amazonaws.com
 :: slate-ad-scripts.s3.amazonaws.com
 0.0.0.0 slava.nsknet.ru
@@ -63337,6 +63393,8 @@
 :: stars.manystars.ru
 0.0.0.0 start.outster.com
 :: start.outster.com
+0.0.0.0 start.sentry.io
+:: start.sentry.io
 0.0.0.0 startup.oupeng.com
 :: startup.oupeng.com
 0.0.0.0 stast2.gq.com
@@ -64617,6 +64675,8 @@
 :: status.kino-dom.org
 0.0.0.0 status.loggly.com
 :: status.loggly.com
+0.0.0.0 status.sentry.io
+:: status.sentry.io
 0.0.0.0 status.spot.im
 :: status.spot.im
 0.0.0.0 status.wpm.neustar.biz
@@ -71001,6 +71061,8 @@
 :: v.velaro.com
 0.0.0.0 v.vomedia.tv
 :: v.vomedia.tv
+0.0.0.0 v.wpimg.pl
+:: v.wpimg.pl
 0.0.0.0 v0.stat.ku6.com
 :: v0.stat.ku6.com
 0.0.0.0 v1-feed.idreamsky.com
@@ -73429,6 +73491,8 @@
 :: wibiya-actions.conduit-data.com
 0.0.0.0 wibiya-june-new-log.conduit-data.com
 :: wibiya-june-new-log.conduit-data.com
+0.0.0.0 widget.aftermarket.pl
+:: widget.aftermarket.pl
 0.0.0.0 widget.apptap.com
 :: widget.apptap.com
 0.0.0.0 widget.breakingburner.com
@@ -75667,8 +75731,6 @@
 :: www.chipo.republika.pl
 0.0.0.0 www.chocolaterie-servant.com
 :: www.chocolaterie-servant.com
-0.0.0.0 www.choice.md
-:: www.choice.md
 0.0.0.0 www.chromefastl.top
 :: www.chromefastl.top
 0.0.0.0 www.chromehakc.top
@@ -75797,6 +75859,8 @@
 :: www.commissionempire.com
 0.0.0.0 www.comp-u-geek.net
 :: www.comp-u-geek.net
+0.0.0.0 www.comperialead.pl
+:: www.comperialead.pl
 0.0.0.0 www.compland.ee
 :: www.compland.ee
 0.0.0.0 www.compsec.co.nz
@@ -76227,6 +76291,8 @@
 :: www.egypt-dream.net
 0.0.0.0 www.eivamos.com
 :: www.eivamos.com
+0.0.0.0 www.ejmii.com
+:: www.ejmii.com
 0.0.0.0 www.ekowen.sk
 :: www.ekowen.sk
 0.0.0.0 www.elc.tomsk.ru
@@ -77079,10 +77145,16 @@
 :: www.hostadserver.com
 0.0.0.0 www.hostal3soles.com
 :: www.hostal3soles.com
+0.0.0.0 www.hostcontent.li
+:: www.hostcontent.li
 0.0.0.0 www.hostedbanners.com
 :: www.hostedbanners.com
+0.0.0.0 www.hostingcloud.ac
+:: www.hostingcloud.ac
 0.0.0.0 www.hostingcloud.bi
 :: www.hostingcloud.bi
+0.0.0.0 www.hostingcloud.li
+:: www.hostingcloud.li
 0.0.0.0 www.hostingcloud.live
 :: www.hostingcloud.live
 0.0.0.0 www.hostingcloud.pa
@@ -77643,8 +77715,6 @@
 :: www.kiler.org
 0.0.0.0 www.kilovoltsqychaubi.download
 :: www.kilovoltsqychaubi.download
-0.0.0.0 www.kimabites.com
-:: www.kimabites.com
 0.0.0.0 www.kingdomfestival.cm
 :: www.kingdomfestival.cm
 0.0.0.0 www.kinomarathon.ru
@@ -78449,8 +78519,6 @@
 :: www.nieli.de
 0.0.0.0 www.nikawilliam.net
 :: www.nikawilliam.net
-0.0.0.0 www.nikey.cn
-:: www.nikey.cn
 0.0.0.0 www.nine2rack.in
 :: www.nine2rack.in
 0.0.0.0 www.ninjadollars.com
@@ -79399,6 +79467,8 @@
 :: www.segredodemarketing.com
 0.0.0.0 www.sentry.gitlab.net
 :: www.sentry.gitlab.net
+0.0.0.0 www.sentry.io
+:: www.sentry.io
 0.0.0.0 www.seo-portal.ro
 :: www.seo-portal.ro
 0.0.0.0 www.ser-tech.com.ar
@@ -79767,8 +79837,6 @@
 :: www.subscribe.livingsocial.com
 0.0.0.0 www.successgroupiitjee.com
 :: www.successgroupiitjee.com
-0.0.0.0 www.successinteaching.info
-:: www.successinteaching.info
 0.0.0.0 www.suckpenis.com
 :: www.suckpenis.com
 0.0.0.0 www.suczki-mlode.blogspot.com
@@ -80025,6 +80093,8 @@
 :: www.tiergestuetzt.de
 0.0.0.0 www.timefor.com
 :: www.timefor.com
+0.0.0.0 www.timelessimagesmi.com
+:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tinayr.go.ro
@@ -80615,8 +80685,6 @@
 :: www.wiseoldmule.com
 0.0.0.0 www.witchlab.com
 :: www.witchlab.com
-0.0.0.0 www.witkey.com
-:: www.witkey.com
 0.0.0.0 www.wixed.wix.com
 :: www.wixed.wix.com
 0.0.0.0 www.wkxppshj-qx.global.ssl.fastly.net
@@ -82367,6 +82435,8 @@
 :: yyscafe.163.com
 0.0.0.0 yysshop.163.com
 :: yysshop.163.com
+0.0.0.0 yyzz860627.blog.163.com
+:: yyzz860627.blog.163.com
 0.0.0.0 z.163.com
 :: z.163.com
 0.0.0.0 z.adcpm.com
@@ -82515,6 +82585,8 @@
 :: zc.163.com
 0.0.0.0 zc.adpush.cn
 :: zc.adpush.cn
+0.0.0.0 zc.reg.163.com
+:: zc.reg.163.com
 0.0.0.0 zc1.delta-boa.com
 :: zc1.delta-boa.com
 0.0.0.0 zc2.quebec-bin.com
@@ -82739,6 +82811,8 @@
 :: zqruajfsgir.myfw.us
 0.0.0.0 zrh.bewilderinglyalbumin.com
 :: zrh.bewilderinglyalbumin.com
+0.0.0.0 zrqx8939.blog.163.com
+:: zrqx8939.blog.163.com
 0.0.0.0 zrrat.31772.club
 :: zrrat.31772.club
 0.0.0.0 zrzmnetjk96nb68nauyd.littlematchagirl.com.au
