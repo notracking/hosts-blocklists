@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Sep 6 09:12:19 CEST 2019
+# Last update: Sat Sep 7 13:45:08 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41468
+# Number of unique hostnames: 41497
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -543,6 +543,8 @@
 :: 2.beeg.com
 0.0.0.0 2.chipde.damoh.schneevonmorgen.com
 :: 2.chipde.damoh.schneevonmorgen.com
+0.0.0.0 2.haoxue360.com
+:: 2.haoxue360.com
 0.0.0.0 2.heiyange.com
 :: 2.heiyange.com
 0.0.0.0 2.kaktakkk.ru
@@ -6547,6 +6549,8 @@
 :: ads.211.ru
 0.0.0.0 ads.24.com
 :: ads.24.com
+0.0.0.0 ads.248am.com
+:: ads.248am.com
 0.0.0.0 ads.359group.com
 :: ads.359group.com
 0.0.0.0 ads.3bay.bg
@@ -15731,6 +15735,8 @@
 :: app.adblockhyper.us
 0.0.0.0 app.aplus.pptv.com
 :: app.aplus.pptv.com
+0.0.0.0 app.backinstock.org
+:: app.backinstock.org
 0.0.0.0 app.beanstalkdata.com
 :: app.beanstalkdata.com
 0.0.0.0 app.blz.163.com
@@ -16469,6 +16475,8 @@
 :: asd.ssmobi.top
 0.0.0.0 asd.yhzbjz.com
 :: asd.yhzbjz.com
+0.0.0.0 asd.zuhaowan8.com
+:: asd.zuhaowan8.com
 0.0.0.0 asd2.projectfreetv.so
 :: asd2.projectfreetv.so
 0.0.0.0 asd5211.f3322.net
@@ -20835,6 +20843,8 @@
 :: c.biz.weibo.com
 0.0.0.0 c.bizjournals.com
 :: c.bizjournals.com
+0.0.0.0 c.booksir.com.cn
+:: c.booksir.com.cn
 0.0.0.0 c.br.msn.com
 :: c.br.msn.com
 0.0.0.0 c.bxb.oupeng.com
@@ -26011,6 +26021,8 @@
 :: ct8.shinobi.jp
 0.0.0.0 ct9.shinobi.jp
 :: ct9.shinobi.jp
+0.0.0.0 ctb.hextom.com
+:: ctb.hextom.com
 0.0.0.0 ctc.amateurpages.com
 :: ctc.amateurpages.com
 0.0.0.0 ctc.amateurpie.com
@@ -30697,6 +30709,8 @@
 :: e.lvsih.cn
 0.0.0.0 e.m8l0ka.cn
 :: e.m8l0ka.cn
+0.0.0.0 e.mh89w.cn
+:: e.mh89w.cn
 0.0.0.0 e.miaoxinqipei.com
 :: e.miaoxinqipei.com
 0.0.0.0 e.mrsasharingspace.com
@@ -30713,6 +30727,8 @@
 :: e.nejup.com
 0.0.0.0 e.njiet.com
 :: e.njiet.com
+0.0.0.0 e.nmsxi.cn
+:: e.nmsxi.cn
 0.0.0.0 e.o5vm6c.cn
 :: e.o5vm6c.cn
 0.0.0.0 e.ofuda.cc
@@ -31099,6 +31115,8 @@
 :: ecadutaro.yadozalamom.pw
 0.0.0.0 ecard.163.com
 :: ecard.163.com
+0.0.0.0 ecb.hextom.com
+:: ecb.hextom.com
 0.0.0.0 eccrine-mind.000webhostapp.com
 :: eccrine-mind.000webhostapp.com
 0.0.0.0 ece5stats1.theglobeandmail.com
@@ -34091,6 +34109,8 @@
 :: fs10.fusestats.com
 0.0.0.0 fsb-russia.dtdns.net
 :: fsb-russia.dtdns.net
+0.0.0.0 fsb.hextom.com
+:: fsb.hextom.com
 0.0.0.0 fsecured.i.lithium.com
 :: fsecured.i.lithium.com
 0.0.0.0 fsecured.lithium.com
@@ -38715,6 +38735,8 @@
 :: img.yqgytx.com
 0.0.0.0 img.yuyue007.cn
 :: img.yuyue007.cn
+0.0.0.0 img.zeruinong.com
+:: img.zeruinong.com
 0.0.0.0 img.zuowen8.com
 :: img.zuowen8.com
 0.0.0.0 img.zuoyebang.cc
@@ -38987,6 +39009,8 @@
 :: inc-apple-id-887698123-verification2016-ios.productostrazzo.com
 0.0.0.0 inc-wccustomer.euweb.cz
 :: inc-wccustomer.euweb.cz
+0.0.0.0 incartupsell-oihcsf0gzy.netdna-ssl.com
+:: incartupsell-oihcsf0gzy.netdna-ssl.com
 0.0.0.0 inclockswitchswdes.000webhostapp.com
 :: inclockswitchswdes.000webhostapp.com
 0.0.0.0 include.service.eassy-field-follow.com
@@ -40695,6 +40719,8 @@
 :: js.ruiwen.com
 0.0.0.0 js.rutor.net.pl
 :: js.rutor.net.pl
+0.0.0.0 js.safe524.xyz
+:: js.safe524.xyz
 0.0.0.0 js.saiqizhi.com
 :: js.saiqizhi.com
 0.0.0.0 js.sanwen.net
@@ -43461,6 +43487,8 @@
 :: ls.webmd.com
 0.0.0.0 ls3ocnra-site.1tempurl.com
 :: ls3ocnra-site.1tempurl.com
+0.0.0.0 lsc.hextom.com
+:: lsc.hextom.com
 0.0.0.0 lsi.lithium.com
 :: lsi.lithium.com
 0.0.0.0 lslmetrics.djlmgdigital.com
@@ -44171,6 +44199,8 @@
 :: m.i810c.cn
 0.0.0.0 m.ib345.cn
 :: m.ib345.cn
+0.0.0.0 m.icoc2018.cn
+:: m.icoc2018.cn
 0.0.0.0 m.iduob.com
 :: m.iduob.com
 0.0.0.0 m.ik20nd.cn
@@ -44283,6 +44313,8 @@
 :: m.mcnnic.com
 0.0.0.0 m.mffcf.cn
 :: m.mffcf.cn
+0.0.0.0 m.mh89w.cn
+:: m.mh89w.cn
 0.0.0.0 m.miaoxinqipei.com
 :: m.miaoxinqipei.com
 0.0.0.0 m.mimzw.com
@@ -44323,6 +44355,8 @@
 :: m.nimenzaina.cn
 0.0.0.0 m.njiet.com
 :: m.njiet.com
+0.0.0.0 m.nmsxi.cn
+:: m.nmsxi.cn
 0.0.0.0 m.nouaa.com
 :: m.nouaa.com
 0.0.0.0 m.nqut.cn
@@ -44381,6 +44415,8 @@
 :: m.qj10b.cn
 0.0.0.0 m.qjah62.com
 :: m.qjah62.com
+0.0.0.0 m.qldua.cn
+:: m.qldua.cn
 0.0.0.0 m.qlr0d.cn
 :: m.qlr0d.cn
 0.0.0.0 m.qu79j.cn
@@ -45485,6 +45521,8 @@
 :: mcc.chinauma.net
 0.0.0.0 mcc.godaddy.com
 :: mcc.godaddy.com
+0.0.0.0 mcc.hextom.com
+:: mcc.hextom.com
 0.0.0.0 mccafee-orientador.com-br.site
 :: mccafee-orientador.com-br.site
 0.0.0.0 mcd-su-2.mos.ru
@@ -47109,6 +47147,8 @@
 :: mldtdbsoko.myfw.us
 0.0.0.0 mldy.huaxiays.cn
 :: mldy.huaxiays.cn
+0.0.0.0 mldy.rsgbt.cn
+:: mldy.rsgbt.cn
 0.0.0.0 mldy.xdaay.cn
 :: mldy.xdaay.cn
 0.0.0.0 mldy.xiexiangzi.cn
@@ -47199,6 +47239,8 @@
 :: mntr.static.ciuvo.com
 0.0.0.0 mo.atm.youku.com
 :: mo.atm.youku.com
+0.0.0.0 mo.bsxr.com.cn
+:: mo.bsxr.com.cn
 0.0.0.0 mo.dfnbyn.top
 :: mo.dfnbyn.top
 0.0.0.0 mo.drzd9.cn
@@ -47219,6 +47261,8 @@
 :: mo.qitouch.cn
 0.0.0.0 mo.res.wpscdn.cn
 :: mo.res.wpscdn.cn
+0.0.0.0 mo.rltk.com.cn
+:: mo.rltk.com.cn
 0.0.0.0 mo.shekuang.top
 :: mo.shekuang.top
 0.0.0.0 mo.shezhuang.top
@@ -56335,6 +56379,8 @@
 :: qa.bouncex.net
 0.0.0.0 qa.stats.webs.com
 :: qa.stats.webs.com
+0.0.0.0 qab.hextom.com
+:: qab.hextom.com
 0.0.0.0 qacupuzute.angelcities.com
 :: qacupuzute.angelcities.com
 0.0.0.0 qarve56223.i.lithium.com
@@ -56485,6 +56531,8 @@
 :: qpxxhyzwae.ce.ms
 0.0.0.0 qpyosxkmcc.yi.org
 :: qpyosxkmcc.yi.org
+0.0.0.0 qq.hixili.top
+:: qq.hixili.top
 0.0.0.0 qqa.miaozhu823.com
 :: qqa.miaozhu823.com
 0.0.0.0 qqlogo.qq.com
@@ -58673,6 +58721,8 @@
 :: s.sh.qihoo.com
 0.0.0.0 s.spot.im
 :: s.spot.im
+0.0.0.0 s.ssggba.top
+:: s.ssggba.top
 0.0.0.0 s.statistici.ro
 :: s.statistici.ro
 0.0.0.0 s.stats.wordpress.com
@@ -62721,6 +62771,8 @@
 :: soul.doctortoken.co.in
 0.0.0.0 soundwave.mobile.yahoo.com
 :: soundwave.mobile.yahoo.com
+0.0.0.0 sources.wangqipu.com
+:: sources.wangqipu.com
 0.0.0.0 sourcescdn.xiaobingw.cn
 :: sourcescdn.xiaobingw.cn
 0.0.0.0 southpointrs.edu.np
@@ -62851,6 +62903,8 @@
 :: splitter.ndsplitter.com
 0.0.0.0 spm.efa-light.com
 :: spm.efa-light.com
+0.0.0.0 spm.hextom.com
+:: spm.hextom.com
 0.0.0.0 sponge.creditkarma.com
 :: sponge.creditkarma.com
 0.0.0.0 sponrol.chrzanowskiart.pl
@@ -70819,6 +70873,8 @@
 :: usarmy.vo.llnwd.net
 0.0.0.0 usatoday.app.ur.gcion.com
 :: usatoday.app.ur.gcion.com
+0.0.0.0 usb.hextom.com
+:: usb.hextom.com
 0.0.0.0 usb001.fgppchg.fgpp.com
 :: usb001.fgppchg.fgpp.com
 0.0.0.0 usb002.fgppchg.fgpp.com
@@ -70839,6 +70895,8 @@
 :: use.convertglobal.com
 0.0.0.0 usedalerts0main171f34ew.000webhostapp.com
 :: usedalerts0main171f34ew.000webhostapp.com
+0.0.0.0 usejj.makepolo.net
+:: usejj.makepolo.net
 0.0.0.0 usenet.raidrush.org
 :: usenet.raidrush.org
 0.0.0.0 user-agent-tracker.herokuapp.com
@@ -76621,8 +76679,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -79837,6 +79893,8 @@
 :: www.subscribe.livingsocial.com
 0.0.0.0 www.successgroupiitjee.com
 :: www.successgroupiitjee.com
+0.0.0.0 www.successinteaching.info
+:: www.successinteaching.info
 0.0.0.0 www.suckpenis.com
 :: www.suckpenis.com
 0.0.0.0 www.suczki-mlode.blogspot.com
