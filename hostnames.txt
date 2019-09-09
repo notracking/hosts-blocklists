@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Sep 8 09:06:37 CEST 2019
+# Last update: Mon Sep 9 08:50:41 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41496
+# Number of unique hostnames: 41493
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -24593,8 +24593,6 @@
 :: collector.viki.io
 0.0.0.0 collector.wasu.cn
 :: collector.wasu.cn
-0.0.0.0 collinsserver.duckdns.org
-:: collinsserver.duckdns.org
 0.0.0.0 colo.cachefly.net
 :: colo.cachefly.net
 0.0.0.0 colors-app.blogspot.com
@@ -41737,6 +41735,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -76675,8 +76675,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -79785,8 +79783,6 @@
 :: www.spywaresnooper.com
 0.0.0.0 www.srhuafeng.com
 :: www.srhuafeng.com
-0.0.0.0 www.sri.cmu.ac.th
-:: www.sri.cmu.ac.th
 0.0.0.0 www.srld.com
 :: www.srld.com
 0.0.0.0 www.srn.net.in
@@ -82589,8 +82585,6 @@
 :: zamiana-koloru.blogspot.com
 0.0.0.0 zamora.axiatraders.com
 :: zamora.axiatraders.com
-0.0.0.0 zanga.bounceme.net
-:: zanga.bounceme.net
 0.0.0.0 zap352660-1.plesk05.zap-webspace.com
 :: zap352660-1.plesk05.zap-webspace.com
 0.0.0.0 zap354764-1.plesk05.zap-webspace.com
