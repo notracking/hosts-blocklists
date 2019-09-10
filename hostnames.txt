@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Sep 9 08:50:41 CEST 2019
+# Last update: Tue Sep 10 08:53:28 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 41493
+# Number of unique hostnames: 41511
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -4823,8 +4823,6 @@
 :: ad.rambler.ru
 0.0.0.0 ad.rbbtoday.com
 :: ad.rbbtoday.com
-0.0.0.0 ad.reachlocal.com
-:: ad.reachlocal.com
 0.0.0.0 ad.reachppc.com
 :: ad.reachppc.com
 0.0.0.0 ad.realist.gen.tr
@@ -9683,6 +9681,8 @@
 :: ads.sextip.de
 0.0.0.0 ads.sf.net
 :: ads.sf.net
+0.0.0.0 ads.sfo2.cdn.digitaloceanspaces.com
+:: ads.sfo2.cdn.digitaloceanspaces.com
 0.0.0.0 ads.sfomedia.com
 :: ads.sfomedia.com
 0.0.0.0 ads.sfusion.com
@@ -15165,6 +15165,8 @@
 :: apex.matomo.cloud
 0.0.0.0 apex.wecleanoklahoma.com
 :: apex.wecleanoklahoma.com
+0.0.0.0 apgb2b-reachcodeandproxy.gannettdigital.com
+:: apgb2b-reachcodeandproxy.gannettdigital.com
 0.0.0.0 aphrodisia01.free.fr
 :: aphrodisia01.free.fr
 0.0.0.0 aphrodite.railsplayground.net
@@ -21527,6 +21529,8 @@
 :: capitale-one-bank-login-secured.edukasys.com
 0.0.0.0 capitalone.com.eastvalleynd.com
 :: capitalone.com.eastvalleynd.com
+0.0.0.0 capture-api.reachlocalservices.com
+:: capture-api.reachlocalservices.com
 0.0.0.0 car-donation.shengen.ru
 :: car-donation.shengen.ru
 0.0.0.0 car-insurance.inshurance-from.com
@@ -22283,8 +22287,6 @@
 :: cdn.threadloom.com
 0.0.0.0 cdn.tianmidian.com
 :: cdn.tianmidian.com
-0.0.0.0 cdn.tradelab.fr
-:: cdn.tradelab.fr
 0.0.0.0 cdn.trafficexchangelist.com
 :: cdn.trafficexchangelist.com
 0.0.0.0 cdn.tuto4pc.com
@@ -23017,6 +23019,8 @@
 :: chart.advinion.com
 0.0.0.0 chartaca.com.s3.amazonaws.com
 :: chartaca.com.s3.amazonaws.com
+0.0.0.0 charter.tag.brandcdn.com
+:: charter.tag.brandcdn.com
 0.0.0.0 chas.vammatat.com
 :: chas.vammatat.com
 0.0.0.0 chase-banking-service.theimblueprint.com
@@ -24853,6 +24857,8 @@
 :: connect.maxymiser.com
 0.0.0.0 connect.ok.ru
 :: connect.ok.ru
+0.0.0.0 connect.podium.com
+:: connect.podium.com
 0.0.0.0 connect.quoka.de
 :: connect.quoka.de
 0.0.0.0 connect.scroll.com
@@ -26441,6 +26447,8 @@
 :: d11lt3e1lizkg0.cloudfront.net
 0.0.0.0 d11w14257901lw.cloudfront.net
 :: d11w14257901lw.cloudfront.net
+0.0.0.0 d11x7a53l5pste.cloudfront.net
+:: d11x7a53l5pste.cloudfront.net
 0.0.0.0 d12ulf131zb0yj.cloudfront.net
 :: d12ulf131zb0yj.cloudfront.net
 0.0.0.0 d134s3bx3cib14.cloudfront.net
@@ -31377,14 +31385,14 @@
 :: elb.qublixaws.com
 0.0.0.0 elbcradio.tcalr.org
 :: elbcradio.tcalr.org
-0.0.0.0 electricfence.levsantronic.ro
-:: electricfence.levsantronic.ro
 0.0.0.0 electro.demos.su
 :: electro.demos.su
 0.0.0.0 electrohemostasis.makemoneywithmegan.net
 :: electrohemostasis.makemoneywithmegan.net
 0.0.0.0 eleksanyi.home.ro
 :: eleksanyi.home.ro
+0.0.0.0 elektromax.in.net
+:: elektromax.in.net
 0.0.0.0 eleven.anotherpieceofpeace.com
 :: eleven.anotherpieceofpeace.com
 0.0.0.0 elew72isst.rr.nu
@@ -32027,6 +32035,8 @@
 :: eu.nimpool.io
 0.0.0.0 eu.sushipool.com
 :: eu.sushipool.com
+0.0.0.0 eu.thinkingchat.com
+:: eu.thinkingchat.com
 0.0.0.0 eu.track.digitaladsystems.com
 :: eu.track.digitaladsystems.com
 0.0.0.0 eu.vortex-win.data.microsft.com
@@ -34201,6 +34211,8 @@
 :: fun.ynet.com
 0.0.0.0 functionary-coders.000webhostapp.com
 :: functionary-coders.000webhostapp.com
+0.0.0.0 fundingchoices.google.com
+:: fundingchoices.google.com
 0.0.0.0 fundingchoicesmessages.google.com
 :: fundingchoicesmessages.google.com
 0.0.0.0 funkucck.bluerobot.cl
@@ -41145,6 +41157,8 @@
 :: katiagirl.free.fr
 0.0.0.0 katjimej.blog.fc2.com
 :: katjimej.blog.fc2.com
+0.0.0.0 katr.b-cdn.net
+:: katr.b-cdn.net
 0.0.0.0 kaviar-dreams.be.tc
 :: kaviar-dreams.be.tc
 0.0.0.0 kawalpilkadabot.getacipta.co.id
@@ -54763,10 +54777,16 @@
 :: polycom.i.lithium.com
 0.0.0.0 pomfjaunvb.scrapper-site.net
 :: pomfjaunvb.scrapper-site.net
+0.0.0.0 pong.gannettdigital.com
+:: pong.gannettdigital.com
 0.0.0.0 pong.netcaptor.com
 :: pong.netcaptor.com
+0.0.0.0 pong.production.gannettdigital.com
+:: pong.production.gannettdigital.com
 0.0.0.0 pong.prognet.com
 :: pong.prognet.com
+0.0.0.0 pong2.production.gannettdigital.com
+:: pong2.production.gannettdigital.com
 0.0.0.0 pontofrio.ofertasdodia.ml
 :: pontofrio.ofertasdodia.ml
 0.0.0.0 pool.distilled.ie
@@ -57119,6 +57139,8 @@
 :: re.taotaosou.com
 0.0.0.0 re.try9.com
 :: re.try9.com
+0.0.0.0 reachlocal.thinkingchat.com
+:: reachlocal.thinkingchat.com
 0.0.0.0 reactivate.netflix.com.usermanagement.key.19735731.reactivatenetfix.com
 :: reactivate.netflix.com.usermanagement.key.19735731.reactivatenetfix.com
 0.0.0.0 reactivate.netflix.com.usermanagement.key.19735732.reactivatenetfix.com
@@ -57837,6 +57859,8 @@
 :: retail.renodio.com
 0.0.0.0 retro-7-3.cz.cc
 :: retro-7-3.cz.cc
+0.0.0.0 retrortv.in.net
+:: retrortv.in.net
 0.0.0.0 return.bs.domainnamesales.com
 :: return.bs.domainnamesales.com
 0.0.0.0 return.domainnamesales.com
@@ -58277,6 +58301,8 @@
 :: rr1.outster.com
 0.0.0.0 rranking14.ziyu.net
 :: rranking14.ziyu.net
+0.0.0.0 rrghs.edu.bd
+:: rrghs.edu.bd
 0.0.0.0 rrr.youle55.com
 :: rrr.youle55.com
 0.0.0.0 rrzcp8.v1.163.com
@@ -58439,8 +58465,6 @@
 :: rumahhufazh.or.id
 0.0.0.0 rumahmakannusantara.biz.id
 :: rumahmakannusantara.biz.id
-0.0.0.0 rumcdn.geoedge.be
-:: rumcdn.geoedge.be
 0.0.0.0 rumcollector-lb-304223083.us-east-1.elb.amazonaws.com
 :: rumcollector-lb-304223083.us-east-1.elb.amazonaws.com
 0.0.0.0 rumog.frost-electric-supply.com
@@ -63067,6 +63091,8 @@
 :: srepdata.usatoday.com
 0.0.0.0 srilaini1helprecoveryii.000webhostapp.com
 :: srilaini1helprecoveryii.000webhostapp.com
+0.0.0.0 srisaranankara.sch.lk
+:: srisaranankara.sch.lk
 0.0.0.0 srpze.saqibsiddiqui.com
 :: srpze.saqibsiddiqui.com
 0.0.0.0 srutebmduoh.myfw.us
@@ -64613,6 +64639,8 @@
 :: stats.webstarts.com
 0.0.0.0 stats.welt.de
 :: stats.welt.de
+0.0.0.0 stats.westworldmedia.com
+:: stats.westworldmedia.com
 0.0.0.0 stats.whatsapp.com
 :: stats.whatsapp.com
 0.0.0.0 stats.wired.com
@@ -65871,6 +65899,8 @@
 :: tag.adtrendmedia.net
 0.0.0.0 tag.bouncex.net
 :: tag.bouncex.net
+0.0.0.0 tag.brandcdn.com
+:: tag.brandcdn.com
 0.0.0.0 tag.cdnmaster.cn
 :: tag.cdnmaster.cn
 0.0.0.0 tag.datariver.ru
@@ -76353,6 +76383,8 @@
 :: www.elc.tomsk.ru
 0.0.0.0 www.elded.eu
 :: www.elded.eu
+0.0.0.0 www.elektromax.in.net
+:: www.elektromax.in.net
 0.0.0.0 www.elemntindexer.com
 :: www.elemntindexer.com
 0.0.0.0 www.elisaart.it
@@ -77347,6 +77379,8 @@
 :: www.ifileyou.com
 0.0.0.0 www.ifjcpbcontessas.review
 :: www.ifjcpbcontessas.review
+0.0.0.0 www.ifs-b.org
+:: www.ifs-b.org
 0.0.0.0 www.ifsmarketing.com
 :: www.ifsmarketing.com
 0.0.0.0 www.igain-mail.co.uk
@@ -79305,6 +79339,8 @@
 :: www.retailproductzone.com
 0.0.0.0 www.rethemniotikokarnavali.gr
 :: www.rethemniotikokarnavali.gr
+0.0.0.0 www.retrortv.in.net
+:: www.retrortv.in.net
 0.0.0.0 www.rettificabellani.com
 :: www.rettificabellani.com
 0.0.0.0 www.revisitors.com
@@ -79783,6 +79819,8 @@
 :: www.spywaresnooper.com
 0.0.0.0 www.srhuafeng.com
 :: www.srhuafeng.com
+0.0.0.0 www.sri.cmu.ac.th
+:: www.sri.cmu.ac.th
 0.0.0.0 www.srld.com
 :: www.srld.com
 0.0.0.0 www.srn.net.in
@@ -80487,8 +80525,6 @@
 :: www.vertourmer.com
 0.0.0.0 www.verypositiveus.com
 :: www.verypositiveus.com
-0.0.0.0 www.vfbhermsdorf.de
-:: www.vfbhermsdorf.de
 0.0.0.0 www.via22.net
 :: www.via22.net
 0.0.0.0 www.via99.org
