@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Sep 12 08:54:45 CEST 2019
+# Last update: Fri Sep 13 08:52:26 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 40919
+# Number of unique hostnames: 40932
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -5829,6 +5829,8 @@
 :: adfarm.mplx.akadns.net
 0.0.0.0 adfarm.mserve.ca
 :: adfarm.mserve.ca
+0.0.0.0 adfdsaf.ow.truesteamachievements.com
+:: adfdsaf.ow.truesteamachievements.com
 0.0.0.0 adfiles.o2.pl.sds.o2.pl
 :: adfiles.o2.pl.sds.o2.pl
 0.0.0.0 adfiles.pitchforkmedia.com
@@ -10601,6 +10603,8 @@
 :: ads.yimg.com.edgesuite.net
 0.0.0.0 ads.ynot.com
 :: ads.ynot.com
+0.0.0.0 ads.yotpo.com
+:: ads.yotpo.com
 0.0.0.0 ads.youporn.com
 :: ads.youporn.com
 0.0.0.0 ads.yourfreedvds.com
@@ -13525,8 +13529,6 @@
 :: ag.travelocity.com.edgesuite.net
 0.0.0.0 aga.adsv-cuisines.com
 :: aga.adsv-cuisines.com
-0.0.0.0 agandreeva.at.tut.by
-:: agandreeva.at.tut.by
 0.0.0.0 agareload.netne.net
 :: agareload.netne.net
 0.0.0.0 agd.p.360.cn
@@ -20787,6 +20789,8 @@
 :: bxs.bilandgo.com
 0.0.0.0 by.mbai.cn
 :: by.mbai.cn
+0.0.0.0 by.uservoice.com
+:: by.uservoice.com
 0.0.0.0 by3301-a.1drv.com
 :: by3301-a.1drv.com
 0.0.0.0 by3301-c.1drv.com
@@ -24287,6 +24291,8 @@
 :: cmop.mgtv.com
 0.0.0.0 cmp.entertainmentcrave.com
 :: cmp.entertainmentcrave.com
+0.0.0.0 cmp.network-n.com
+:: cmp.network-n.com
 0.0.0.0 cmp.vidcoin.com
 :: cmp.vidcoin.com
 0.0.0.0 cmplay.did.ijinshan.com
@@ -26037,8 +26043,6 @@
 :: css.bloggerads.net
 0.0.0.0 css.juqingba.cn
 :: css.juqingba.cn
-0.0.0.0 css888.bceapp.com
-:: css888.bceapp.com
 0.0.0.0 cssrd.org.lb
 :: cssrd.org.lb
 0.0.0.0 cst.innogames.de
@@ -28661,6 +28665,8 @@
 :: desktop.spotify.com
 0.0.0.0 deskwww.s3.amazonaws.com
 :: deskwww.s3.amazonaws.com
+0.0.0.0 destination.yotpo.com
+:: destination.yotpo.com
 0.0.0.0 desv383oqqc0.cloudfront.net
 :: desv383oqqc0.cloudfront.net
 0.0.0.0 det8214mmc717.cloudfront.net
@@ -31521,6 +31527,8 @@
 :: emailer.net.au
 0.0.0.0 emailmarketingguide.wix.com
 :: emailmarketingguide.wix.com
+0.0.0.0 emails.yotpo.com
+:: emails.yotpo.com
 0.0.0.0 emancipatory-casts.000webhostapp.com
 :: emancipatory-casts.000webhostapp.com
 0.0.0.0 emanuelecatracchia.altervista.org
@@ -34225,6 +34233,8 @@
 :: fsst.worldlinkup.org
 0.0.0.0 fsuseaad1.blob.core.windows.net
 :: fsuseaad1.blob.core.windows.net
+0.0.0.0 fsvqpmkr.ow.truesteamachievements.com
+:: fsvqpmkr.ow.truesteamachievements.com
 0.0.0.0 ft-snappy-02-debate.herokuapp.com
 :: ft-snappy-02-debate.herokuapp.com
 0.0.0.0 ft.moad.cn
@@ -34549,6 +34559,8 @@
 :: g9voihkevb.bradul.creatory.org
 0.0.0.0 ga.canoe.ca
 :: ga.canoe.ca
+0.0.0.0 ga.gfycat.com
+:: ga.gfycat.com
 0.0.0.0 ga.ipinfo.io
 :: ga.ipinfo.io
 0.0.0.0 ga.webdigi.co.uk
@@ -35167,6 +35179,8 @@
 :: gfdf2df5.webcindario.com
 0.0.0.0 gfe.geforce.com
 :: gfe.geforce.com
+0.0.0.0 gfeed.yotpo.com
+:: gfeed.yotpo.com
 0.0.0.0 gfkuwflbhsjdabnu4nfukerfqwlfwr4rw.ringbalor.com
 :: gfkuwflbhsjdabnu4nfukerfqwlfwr4rw.ringbalor.com
 0.0.0.0 gfoymnesee.bradul.creatory.org
@@ -36599,6 +36613,8 @@
 :: hgdhdfjfg.000webhostapp.com
 0.0.0.0 hgopu.saqibsiddiqui.com
 :: hgopu.saqibsiddiqui.com
+0.0.0.0 hgtbatiy.ow.truesteamachievements.com
+:: hgtbatiy.ow.truesteamachievements.com
 0.0.0.0 hh.jiankang.com
 :: hh.jiankang.com
 0.0.0.0 hhhc2occ.apps.lair.io
@@ -46505,6 +46521,8 @@
 :: metrics.wpm.neustar.biz
 0.0.0.0 metrics.yellowpages.com
 :: metrics.yellowpages.com
+0.0.0.0 metrics.yotpo.com
+:: metrics.yotpo.com
 0.0.0.0 metrics.yousendit.com
 :: metrics.yousendit.com
 0.0.0.0 metrics.zales.com
@@ -46957,6 +46975,8 @@
 :: mkey.163.com
 0.0.0.0 mklik.gazeta.pl
 :: mklik.gazeta.pl
+0.0.0.0 mkt.bectero.com
+:: mkt.bectero.com
 0.0.0.0 mkt.publico.pt
 :: mkt.publico.pt
 0.0.0.0 mktg.helpscout.net
@@ -51177,6 +51197,8 @@
 :: ow.s1.shuhuangge.org
 0.0.0.0 ow.s2.shuhuangge.org
 :: ow.s2.shuhuangge.org
+0.0.0.0 ow.truesteamachievements.com
+:: ow.truesteamachievements.com
 0.0.0.0 owabgxis.wp.pl
 :: owabgxis.wp.pl
 0.0.0.0 owaexcessacct.000webhostapp.com
@@ -63607,6 +63629,8 @@
 :: stage.accounts.performgroup.com
 0.0.0.0 stage.broder.com
 :: stage.broder.com
+0.0.0.0 stage.cmp.network-n.com
+:: stage.cmp.network-n.com
 0.0.0.0 stage.cp2.performgroup.com
 :: stage.cp2.performgroup.com
 0.0.0.0 stage.dqm.performgroup.com
@@ -73597,6 +73621,8 @@
 :: widget.weibo.com
 0.0.0.0 widget.yavli.com
 :: widget.yavli.com
+0.0.0.0 widget.yotpo.com
+:: widget.yotpo.com
 0.0.0.0 widgetcf.adviceiq.com
 :: widgetcf.adviceiq.com
 0.0.0.0 widgethost.barnebys.com
