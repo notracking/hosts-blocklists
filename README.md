@@ -16,7 +16,7 @@ It's important to use both `domains.txt` and `hostnames.txt` simultaniously in d
  - Blocks webminers
 
 ## Donations
-Donations are welcome and will be used to pay for our dedicated server hosting bills: [donate with Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VPTVYWY3B7XWG&source=url) ❤️
+Donations are welcome and will be used to pay for our dedicated server hosting bills: ❤️ [donate with Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VPTVYWY3B7XWG&source=url) ❤️
 
 # How to install
 ## Default dnsmasq setup
@@ -31,6 +31,13 @@ conf-file=/path/to/domains.txt
 addn-hosts=/path/to/hostnames.txt
 ```
  - Restart dnsmasq (reload will **not** update list changes) `sudo service dnsmasq restart`
+
+## DNS over HTTPS (DOH)
+DNS over HTTPS will prevent clients in your network from using the default local DNS services. Mozilla Firefox has a feature to disable DOH network wide for all clients as described [here](https://support.mozilla.org/en-US/kb/configuring-networks-disable-dns-over-https).
+ - Add the following line to your dnsmasq.conf to disable DOH on all local clients
+ ```
+ address=/use-application-dns.net/
+ ```
 
 ## For a Pi-hole setup
 Because Pi-hole does not fully support loading of dnsmasq domain filters ([details here](https://github.com/pi-hole/pi-hole/blob/1e87850952b6d886674b487f57e47fae1c20dc8a/gravity.sh#L338)), you should add your own `.conf` file in `/etc/dnsmasq.d/`. This way you can still use our blocklists with Pi-hole, but updating has to be done by an external daily cronjob. It's also recommended to remove all default Pi-hole lists, since these are already included in our list in a more efficient manner.
