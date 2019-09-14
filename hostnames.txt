@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Sep 14 08:50:30 CEST 2019
+# Last update: Sun Sep 15 01:54:34 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 42118
+# Number of unique hostnames: 42117
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -23219,6 +23219,8 @@
 :: chechla.cnixon.com
 0.0.0.0 check-ethpayments1.kissr.com
 :: check-ethpayments1.kissr.com
+0.0.0.0 check-your-info.mixh.jp
+:: check-your-info.mixh.jp
 0.0.0.0 check.autentificationpage.cf
 :: check.autentificationpage.cf
 0.0.0.0 check.browser.cruxinfra.com
@@ -43497,8 +43499,6 @@
 :: lokum1985.republika.pl
 0.0.0.0 lol.bash.org.ru
 :: lol.bash.org.ru
-0.0.0.0 lol.mta-resource.ru
-:: lol.mta-resource.ru
 0.0.0.0 lola-app-db.nh-serv.co.uk
 :: lola-app-db.nh-serv.co.uk
 0.0.0.0 lolhack.softwareuninstallerdownload.com
@@ -64339,8 +64339,6 @@
 :: ssl.bezpieczne-platnosci.pl
 0.0.0.0 ssl.bmo-onlineverification.com
 :: ssl.bmo-onlineverification.com
-0.0.0.0 ssl.di9qu.com.cn
-:: ssl.di9qu.com.cn
 0.0.0.0 ssl.eroscomix.com
 :: ssl.eroscomix.com
 0.0.0.0 ssl.full-secure-payments.online
