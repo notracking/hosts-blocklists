@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Sep 15 01:54:34 CEST 2019
+# Last update: Mon Sep 16 08:48:19 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 42117
+# Number of unique hostnames: 42121
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -14385,6 +14385,8 @@
 :: amzn.trendhure.com
 0.0.0.0 an-retargeting.awsotherlevels.com
 :: an-retargeting.awsotherlevels.com
+0.0.0.0 an.biocoop.cn
+:: an.biocoop.cn
 0.0.0.0 an.blogis.org
 :: an.blogis.org
 0.0.0.0 an.facebook.com
@@ -16457,6 +16459,8 @@
 :: as.wiley.com
 0.0.0.0 as.wkcr.cz
 :: as.wkcr.cz
+0.0.0.0 as01.dotabuff.com
+:: as01.dotabuff.com
 0.0.0.0 as1.abigames.com.vn
 :: as1.abigames.com.vn
 0.0.0.0 as1.advfn.com
@@ -23219,8 +23223,6 @@
 :: chechla.cnixon.com
 0.0.0.0 check-ethpayments1.kissr.com
 :: check-ethpayments1.kissr.com
-0.0.0.0 check-your-info.mixh.jp
-:: check-your-info.mixh.jp
 0.0.0.0 check.autentificationpage.cf
 :: check.autentificationpage.cf
 0.0.0.0 check.browser.cruxinfra.com
@@ -30115,6 +30117,10 @@
 :: drug-testing.shengen.ru
 0.0.0.0 drugdetox.shengen.ru
 :: drugdetox.shengen.ru
+0.0.0.0 druic.mytxt.cc
+:: druic.mytxt.cc
+0.0.0.0 druis.mytxt.cc
+:: druis.mytxt.cc
 0.0.0.0 druming.free.fr
 :: druming.free.fr
 0.0.0.0 drunkenboyz.za.pl
@@ -30763,6 +30769,8 @@
 :: e.hpcat.cn
 0.0.0.0 e.huaas.com
 :: e.huaas.com
+0.0.0.0 e.hun3f.cn
+:: e.hun3f.cn
 0.0.0.0 e.huoas.com
 :: e.huoas.com
 0.0.0.0 e.hyzui.com
@@ -31491,6 +31499,8 @@
 :: elb.qublixaws.com
 0.0.0.0 elbcradio.tcalr.org
 :: elbcradio.tcalr.org
+0.0.0.0 electricfence.levsantronic.ro
+:: electricfence.levsantronic.ro
 0.0.0.0 electro.demos.su
 :: electro.demos.su
 0.0.0.0 electrohemostasis.makemoneywithmegan.net
@@ -44375,6 +44385,8 @@
 :: m.huanyuexpress.com
 0.0.0.0 m.huataioilmachine.com
 :: m.huataioilmachine.com
+0.0.0.0 m.hun3f.cn
+:: m.hun3f.cn
 0.0.0.0 m.huyulh.com
 :: m.huyulh.com
 0.0.0.0 m.hvjxf.cn
@@ -44877,6 +44889,8 @@
 :: m.zeiaa.com
 0.0.0.0 m.zg39b.cn
 :: m.zg39b.cn
+0.0.0.0 m.zhipianwu.com
+:: m.zhipianwu.com
 0.0.0.0 m.zq4ka.cn
 :: m.zq4ka.cn
 0.0.0.0 m.zvfuka.cn
@@ -46009,8 +46023,6 @@
 :: mediamarket.in.ua
 0.0.0.0 mediamarkt.pl.dailyoffer.top
 :: mediamarkt.pl.dailyoffer.top
-0.0.0.0 mediamax.in.net
-:: mediamax.in.net
 0.0.0.0 mediametrics.mpsa.com
 :: mediametrics.mpsa.com
 0.0.0.0 mediamgr.ugo.com
@@ -46889,8 +46901,6 @@
 :: mfeed.newzfind.com
 0.0.0.0 mfgwxkwkbpo8jljnskn7.mbservicesyorkshire.co.uk
 :: mfgwxkwkbpo8jljnskn7.mbservicesyorkshire.co.uk
-0.0.0.0 mfm.video.qq.com
-:: mfm.video.qq.com
 0.0.0.0 mfp.deliver.ifeng.com
 :: mfp.deliver.ifeng.com
 0.0.0.0 mfwut99843.lithium.com
@@ -47353,6 +47363,8 @@
 :: mldy.huaxiays.cn
 0.0.0.0 mldy.rsgbt.cn
 :: mldy.rsgbt.cn
+0.0.0.0 mldy.wttpgq.cn
+:: mldy.wttpgq.cn
 0.0.0.0 mldy.xdaay.cn
 :: mldy.xdaay.cn
 0.0.0.0 mldy.xiexiangzi.cn
@@ -48237,6 +48249,8 @@
 :: mvchallenges.s3-website-eu-west-1.amazonaws.com
 0.0.0.0 mvduk.kiev.ua
 :: mvduk.kiev.ua
+0.0.0.0 mvo.ythbr.xyz
+:: mvo.ythbr.xyz
 0.0.0.0 mvs.mediavantage.de
 :: mvs.mediavantage.de
 0.0.0.0 mwps.onplanet.com
@@ -62789,8 +62803,6 @@
 :: sh218956.website.pl
 0.0.0.0 sh219671.website.pl
 :: sh219671.website.pl
-0.0.0.0 sh3.ivanovo.by
-:: sh3.ivanovo.by
 0.0.0.0 sh996.dftoutiao.com
 :: sh996.dftoutiao.com
 0.0.0.0 shadyacresminis.bravepages.com
@@ -79449,8 +79461,6 @@
 :: www.mediahighway.net
 0.0.0.0 www.mediamarkt.pl.dailyoffer.top
 :: www.mediamarkt.pl.dailyoffer.top
-0.0.0.0 www.mediamax.in.net
-:: www.mediamax.in.net
 0.0.0.0 www.mediareps.com
 :: www.mediareps.com
 0.0.0.0 www.mediartvagd.in.net
@@ -84213,8 +84223,6 @@
 :: zyban.about-tabs.com
 0.0.0.0 zymo.mps.weibo.com
 :: zymo.mps.weibo.com
-0.0.0.0 zyncxxcciidiiudfisuifsiufusdfisdisifidfisuifisfisifisu.warzonedns.com
-:: zyncxxcciidiiudfisuifsiufusdfisdisifidfisuifisfisifisu.warzonedns.com
 0.0.0.0 zyngapoker.hackfree.us
 :: zyngapoker.hackfree.us
 0.0.0.0 zyprexa.about-tabs.com
