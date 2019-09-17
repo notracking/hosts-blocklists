@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Sep 16 08:48:19 CEST 2019
+# Last update: Tue Sep 17 08:57:11 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 42121
+# Number of unique hostnames: 42147
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3157,6 +3157,8 @@
 :: a98dc034c7781a941eba-bac02262202668bbe918ea9fb5289cd2.r58.cf2.rackcdn.com
 0.0.0.0 a9shd.realshieldlinked.com
 :: a9shd.realshieldlinked.com
+0.0.0.0 aa.geo.yahoo.com
+:: aa.geo.yahoo.com
 0.0.0.0 aa.gushiwen.org
 :: aa.gushiwen.org
 0.0.0.0 aa.jiangzi.com
@@ -16637,6 +16639,12 @@
 :: assets.wetransfer.net.debrawhitingfoundation.com
 0.0.0.0 assets.wetransfer.net.debrawhitingfoundation.org
 :: assets.wetransfer.net.debrawhitingfoundation.org
+0.0.0.0 assignmentsvc.au.experimentation.intuit.com
+:: assignmentsvc.au.experimentation.intuit.com
+0.0.0.0 assignmentsvc.ca.experimentation.intuit.com
+:: assignmentsvc.ca.experimentation.intuit.com
+0.0.0.0 assignmentsvc.us.experimentation.intuit.com
+:: assignmentsvc.us.experimentation.intuit.com
 0.0.0.0 assistance-free.fr-post.com
 :: assistance-free.fr-post.com
 0.0.0.0 assistenza.agrelliebasta.it
@@ -16819,6 +16827,8 @@
 :: au-integration.citrusad.com
 0.0.0.0 au-live.inside-graph.com
 :: au-live.inside-graph.com
+0.0.0.0 au.edge.experimentation.intuit.com
+:: au.edge.experimentation.intuit.com
 0.0.0.0 au.track.decideinteractive.com
 :: au.track.decideinteractive.com
 0.0.0.0 aubentonia.measurelighter.ru
@@ -16917,6 +16927,8 @@
 :: auto.allewagen.de
 0.0.0.0 auto.mehan-pardazesh.ir
 :: auto.mehan-pardazesh.ir
+0.0.0.0 auto.update.jaredhall.com
+:: auto.update.jaredhall.com
 0.0.0.0 autoblog.org.ua
 :: autoblog.org.ua
 0.0.0.0 autodesk.i.lithium.com
@@ -20295,6 +20307,8 @@
 :: bqwsa.igg.biz
 0.0.0.0 br.blackfling.com
 :: br.blackfling.com
+0.0.0.0 br.edge.experimentation.intuit.com
+:: br.edge.experimentation.intuit.com
 0.0.0.0 br.fling.com
 :: br.fling.com
 0.0.0.0 br.kcdn.kz
@@ -21327,6 +21341,8 @@
 :: ca.clickinc.com
 0.0.0.0 ca.cydp5.com
 :: ca.cydp5.com
+0.0.0.0 ca.edge.experimentation.intuit.com
+:: ca.edge.experimentation.intuit.com
 0.0.0.0 ca.fp.sandpiper.net
 :: ca.fp.sandpiper.net
 0.0.0.0 ca.fp.sandpiper.nl
@@ -24835,6 +24851,8 @@
 :: config.baofeng.net
 0.0.0.0 config.cocounion.com
 :: config.cocounion.com
+0.0.0.0 config.experimentation.intuit.com
+:: config.experimentation.intuit.com
 0.0.0.0 config.getmyip.com
 :: config.getmyip.com
 0.0.0.0 config.kuyun.com
@@ -25295,6 +25313,8 @@
 :: count.yandeg.ru
 0.0.0.0 count.yourmusic.cc
 :: count.yourmusic.cc
+0.0.0.0 count.zcominc.com
+:: count.zcominc.com
 0.0.0.0 count1.compteur.fr
 :: count1.compteur.fr
 0.0.0.0 count5.pconline.com.cn
@@ -25667,6 +25687,8 @@
 :: cpc4-bsfd8-2-0-cust595.5-3.cable.virginm.net
 0.0.0.0 cpcn.000webhostapp.com
 :: cpcn.000webhostapp.com
+0.0.0.0 cplog.flashget.com
+:: cplog.flashget.com
 0.0.0.0 cpm.adspine.com
 :: cpm.adspine.com
 0.0.0.0 cpm.amateurcommunity.com
@@ -28033,6 +28055,8 @@
 :: data.emimino.cz
 0.0.0.0 data.gametree.tw
 :: data.gametree.tw
+0.0.0.0 data.geo.yahoo.com
+:: data.geo.yahoo.com
 0.0.0.0 data.imakenews.com
 :: data.imakenews.com
 0.0.0.0 data.initialcontroledge.info
@@ -31317,6 +31341,8 @@
 :: edge.bayanazdirandamla.com
 0.0.0.0 edge.bredg.com
 :: edge.bredg.com
+0.0.0.0 edge.experimentation.intuit.com
+:: edge.experimentation.intuit.com
 0.0.0.0 edge.jeetyetmedia.com
 :: edge.jeetyetmedia.com
 0.0.0.0 edge.mb.gammae.com
@@ -32153,6 +32179,8 @@
 :: eu-west-2.target.aws.amazon.com
 0.0.0.0 eu-west-3.target.aws.amazon.com
 :: eu-west-3.target.aws.amazon.com
+0.0.0.0 eu.geo.yahoo.com
+:: eu.geo.yahoo.com
 0.0.0.0 eu.link.decideinteractive.com
 :: eu.link.decideinteractive.com
 0.0.0.0 eu.nimpool.io
@@ -32439,6 +32467,8 @@
 :: expbl2ro.xbox.com
 0.0.0.0 expedia.response.lithium.com
 :: expedia.response.lithium.com
+0.0.0.0 experimentation.intuit.com
+:: experimentation.intuit.com
 0.0.0.0 expertcom.hekko24.pl
 :: expertcom.hekko24.pl
 0.0.0.0 explorenow.altervista.org
@@ -34723,6 +34753,8 @@
 :: ganjituiguang.ganji.com
 0.0.0.0 gannett.gcion.com
 :: gannett.gcion.com
+0.0.0.0 ganon.yahoo.com
+:: ganon.yahoo.com
 0.0.0.0 ganti-warna0.myz.info
 :: ganti-warna0.myz.info
 0.0.0.0 ganttexcel.matomo.cloud
@@ -37635,6 +37667,8 @@
 :: huawei123.loggly.com
 0.0.0.0 hub.adlpartner.com
 :: hub.adlpartner.com
+0.0.0.0 hubspot.my.salesforce.com
+:: hubspot.my.salesforce.com
 0.0.0.0 hubxt.redtube.com
 :: hubxt.redtube.com
 0.0.0.0 hubxt.tube8.com
@@ -39145,6 +39179,8 @@
 :: imvu.haxdo.com
 0.0.0.0 imx.comedycentral.com
 :: imx.comedycentral.com
+0.0.0.0 in.edge.experimentation.intuit.com
+:: in.edge.experimentation.intuit.com
 0.0.0.0 in.ff5.com
 :: in.ff5.com
 0.0.0.0 in.in-houseexpo.com
@@ -39159,8 +39195,12 @@
 :: in.mydirtyhobby.com
 0.0.0.0 in.mydirtyhobby.de
 :: in.mydirtyhobby.de
+0.0.0.0 in.ord.geo.yahoo.com
+:: in.ord.geo.yahoo.com
 0.0.0.0 in.player.h-cdn.com
 :: in.player.h-cdn.com
+0.0.0.0 in.rsel.geo.yahoo.com
+:: in.rsel.geo.yahoo.com
 0.0.0.0 in.webapp.163.com
 :: in.webapp.163.com
 0.0.0.0 in.yimg.com
@@ -41179,8 +41219,6 @@
 :: jzrvquay.angelcities.com
 0.0.0.0 jztuo99249.lithium.com
 :: jztuo99249.lithium.com
-0.0.0.0 k.16vcd.com
-:: k.16vcd.com
 0.0.0.0 k.bnuni.com
 :: k.bnuni.com
 0.0.0.0 k.cao86789.cn
@@ -41921,8 +41959,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -42307,6 +42343,8 @@
 :: lcs.naver.com
 0.0.0.0 lcs.naver.jp
 :: lcs.naver.jp
+0.0.0.0 lct.salesforce.com
+:: lct.salesforce.com
 0.0.0.0 lcye5vup-site.btempurl.com
 :: lcye5vup-site.btempurl.com
 0.0.0.0 ld.kuaigames.com
@@ -49871,8 +49909,6 @@
 :: o.phb123.com
 0.0.0.0 o.sa.aol.com
 :: o.sa.aol.com
-0.0.0.0 o.ss2.us
-:: o.ss2.us
 0.0.0.0 o.su9orw.cn
 :: o.su9orw.cn
 0.0.0.0 o.swisscom.ch
@@ -50939,6 +50975,10 @@
 :: omt.honda.com
 0.0.0.0 omt.shinobi.jp
 :: omt.shinobi.jp
+0.0.0.0 omtr1.partners.salesforce.com
+:: omtr1.partners.salesforce.com
+0.0.0.0 omtr2.partners.salesforce.com
+:: omtr2.partners.salesforce.com
 0.0.0.0 omucwhzljevthqe98trp.viomil.ro
 :: omucwhzljevthqe98trp.viomil.ro
 0.0.0.0 omunegru.3x.ro
@@ -51207,6 +51247,8 @@
 :: open-api.spot.im
 0.0.0.0 open-hive-server-1.pp.ua
 :: open-hive-server-1.pp.ua
+0.0.0.0 open-pixon.ads-pixiv.net
+:: open-pixon.ads-pixiv.net
 0.0.0.0 open-x.technic3d.de
 :: open-x.technic3d.de
 0.0.0.0 open.163.com
@@ -52807,6 +52849,8 @@
 :: partners.realgirlsmedia.com
 0.0.0.0 partners.rochen.com
 :: partners.rochen.com
+0.0.0.0 partners.salesforce.com
+:: partners.salesforce.com
 0.0.0.0 partners.sportingbet.com.au
 :: partners.sportingbet.com.au
 0.0.0.0 partners.sprintrade.com
@@ -54457,6 +54501,8 @@
 :: pixiedust.buzzfeed.com
 0.0.0.0 pixiu.shangshufang.ksosoft.com
 :: pixiu.shangshufang.ksosoft.com
+0.0.0.0 pixon.ads-pixiv.net
+:: pixon.ads-pixiv.net
 0.0.0.0 pj.santadernetibempresa.com
 :: pj.santadernetibempresa.com
 0.0.0.0 pj.santadernetpj.com
@@ -57505,6 +57551,8 @@
 :: recommendation.citrix.com
 0.0.0.0 recommendation.spot.im
 :: recommendation.spot.im
+0.0.0.0 recommendations.letslinc.com
+:: recommendations.letslinc.com
 0.0.0.0 recommenderprodwestus.cloudapp.net
 :: recommenderprodwestus.cloudapp.net
 0.0.0.0 reconfim-accountinfolog.000webhostapp.com
@@ -58449,8 +58497,6 @@
 :: roroororor.skyleague2018.net
 0.0.0.0 rose.ixbt.com
 :: rose.ixbt.com
-0.0.0.0 rose.kuro-tejina.com
-:: rose.kuro-tejina.com
 0.0.0.0 roseemariepatterson.uk.to
 :: roseemariepatterson.uk.to
 0.0.0.0 rosivani.go.ro
@@ -64635,6 +64681,8 @@
 :: starpasscodegenerator.goldmovie-trailer.com
 0.0.0.0 stars.manystars.ru
 :: stars.manystars.ru
+0.0.0.0 start.favbook.net
+:: start.favbook.net
 0.0.0.0 start.outster.com
 :: start.outster.com
 0.0.0.0 start.sentry.io
@@ -64711,6 +64759,8 @@
 :: stat.ekologia.pl
 0.0.0.0 stat.fengniao.com
 :: stat.fengniao.com
+0.0.0.0 stat.flashget.com
+:: stat.flashget.com
 0.0.0.0 stat.freetool.it
 :: stat.freetool.it
 0.0.0.0 stat.funshion.net
@@ -66327,6 +66377,8 @@
 :: supersonicads-a.akamaihd.net
 0.0.0.0 superstar.pt.163.com
 :: superstar.pt.163.com
+0.0.0.0 supertracker.flashget.com
+:: supertracker.flashget.com
 0.0.0.0 supervisor.ext-twitch.tv
 :: supervisor.ext-twitch.tv
 0.0.0.0 superwebnet2018-com.umbler.net
@@ -67073,6 +67125,8 @@
 :: tadayou.soragoto.net
 0.0.0.0 tag-manager.teladoc.com
 :: tag-manager.teladoc.com
+0.0.0.0 tag-store.ads-pixiv.net
+:: tag-store.ads-pixiv.net
 0.0.0.0 tag.120ask.com
 :: tag.120ask.com
 0.0.0.0 tag.163.com
@@ -70981,6 +71035,8 @@
 :: uk.activeshopper.com
 0.0.0.0 uk.ads.hexus.net
 :: uk.ads.hexus.net
+0.0.0.0 uk.edge.experimentation.intuit.com
+:: uk.edge.experimentation.intuit.com
 0.0.0.0 uk.fc.yahoo.com
 :: uk.fc.yahoo.com
 0.0.0.0 uk.i1.yimg.com
@@ -72045,8 +72101,6 @@
 :: usaa.com-inet-truememberent-iscaddetour.horvat-htz.hr
 0.0.0.0 usaa.com-inet-truememberent-iscaddetour.myproofs.com.au
 :: usaa.com-inet-truememberent-iscaddetour.myproofs.com.au
-0.0.0.0 usaa.com-inet-truememberent-iscaddetour.nationalsecurityforce.com.au
-:: usaa.com-inet-truememberent-iscaddetour.nationalsecurityforce.com.au
 0.0.0.0 usaa.com-inet-truememberent-iscaddetour.newchapterpsychology.com.au
 :: usaa.com-inet-truememberent-iscaddetour.newchapterpsychology.com.au
 0.0.0.0 usaa.com-sec-inet-auth-logon-ent-logon-logon-redirectjsp.chrischadwick.com.au
@@ -78689,8 +78743,6 @@
 :: www.instantdownloaderpro.com
 0.0.0.0 www.instanterzxjgftfip.download
 :: www.instanterzxjgftfip.download
-0.0.0.0 www.insuf.cn
-:: www.insuf.cn
 0.0.0.0 www.intangiblegrnokiq.download
 :: www.intangiblegrnokiq.download
 0.0.0.0 www.intelligentkid.com
@@ -81059,6 +81111,8 @@
 :: www.starstream.com
 0.0.0.0 www.start-page.org
 :: www.start-page.org
+0.0.0.0 www.start.favbook.net
+:: www.start.favbook.net
 0.0.0.0 www.statcount.com
 :: www.statcount.com
 0.0.0.0 www.static-02.flu.cc
@@ -81751,8 +81805,6 @@
 :: www.viagra-home.com
 0.0.0.0 www.victory.com.pl
 :: www.victory.com.pl
-0.0.0.0 www.victory1999.com
-:: www.victory1999.com
 0.0.0.0 www.vidcampaign.com
 :: www.vidcampaign.com
 0.0.0.0 www.video-perc.net
