@@ -96,7 +96,6 @@ addn-hosts=/path/to/hostnames.txt
  - https://data.netlab.360.com/feeds/dga/fobber.txt
  - https://data.netlab.360.com/feeds/dga/ccleaner.txt
  - https://osint.bambenekconsulting.com/feeds/c2-dommasterlist-high.txt
- - https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
  - http://security-research.dyndns.org/pub/malware-feeds/ponmocup-infected-domains-shadowserver.csv
  - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersDnsmasq.conf
  - https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
