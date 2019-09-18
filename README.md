@@ -63,7 +63,6 @@ addn-hosts=/path/to/hostnames.txt
  - http://pgl.yoyo.org/as/serverlist.php?hostformat=hosts
  - https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
  - https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt
- - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
  - http://malwaredomains.lehigh.edu/files/BOOT
  - http://malwaredomains.lehigh.edu/files/immortal_domains.txt
  - https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt `Excluding legit license servers`
@@ -98,7 +97,6 @@ addn-hosts=/path/to/hostnames.txt
  - https://osint.bambenekconsulting.com/feeds/c2-dommasterlist-high.txt
  - http://security-research.dyndns.org/pub/malware-feeds/ponmocup-infected-domains-shadowserver.csv
  - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersDnsmasq.conf
- - https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
  - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
  - https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/gamefake.txt
  - https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/mobile.txt
