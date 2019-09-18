@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Sep 17 08:57:11 CEST 2019
+# Last update: Wed Sep 18 08:56:31 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 42147
+# Number of unique hostnames: 42158
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -289,6 +289,8 @@
 :: 1.ufc123.com
 0.0.0.0 1.up.qingdaonews.com
 :: 1.up.qingdaonews.com
+0.0.0.0 1.v-x.com.cn
+:: 1.v-x.com.cn
 0.0.0.0 1.vsimg.com
 :: 1.vsimg.com
 0.0.0.0 1.wenzhangba.cn
@@ -313,6 +315,8 @@
 :: 1.yac8.net
 0.0.0.0 1.yuexw.com
 :: 1.yuexw.com
+0.0.0.0 1.yxzw.com.cn
+:: 1.yxzw.com.cn
 0.0.0.0 1.zhev.com.cn
 :: 1.zhev.com.cn
 0.0.0.0 1.zhuangxiu567.com
@@ -2813,6 +2817,8 @@
 :: a.rad.msn.com
 0.0.0.0 a.remarketstats.com
 :: a.remarketstats.com
+0.0.0.0 a.rensheng5.com
+:: a.rensheng5.com
 0.0.0.0 a.rvttrack.com
 :: a.rvttrack.com
 0.0.0.0 a.sakh.com
@@ -2943,6 +2949,8 @@
 :: a.zencdn.net
 0.0.0.0 a.zoot.ro
 :: a.zoot.ro
+0.0.0.0 a.zuowenxuan.cn
+:: a.zuowenxuan.cn
 0.0.0.0 a0.raidrush.org
 :: a0.raidrush.org
 0.0.0.0 a04296f070c0146f314d-0dcad72565cb350972beb3666a86f246.r50.cf5.rackcdn.com
@@ -2993,6 +3001,8 @@
 :: a1.mingyihui.net
 0.0.0.0 a1.peoplecdn.cn
 :: a1.peoplecdn.cn
+0.0.0.0 a1.q6u.com
+:: a1.q6u.com
 0.0.0.0 a1.qqjay.com
 :: a1.qqjay.com
 0.0.0.0 a1.qqtn.com
@@ -3365,8 +3375,6 @@
 :: abtesting.intuit.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
-0.0.0.0 abusalewm.exceltoner.com
-:: abusalewm.exceltoner.com
 0.0.0.0 ac.86huoche.com
 :: ac.86huoche.com
 0.0.0.0 ac.ajur.info
@@ -18791,8 +18799,6 @@
 :: bao.163.com
 0.0.0.0 baoxian.163.com
 :: baoxian.163.com
-0.0.0.0 bappeda.dharmasrayakab.go.id
-:: bappeda.dharmasrayakab.go.id
 0.0.0.0 bappeda.palangkaraya.go.id
 :: bappeda.palangkaraya.go.id
 0.0.0.0 bar.baidu.com
@@ -19873,6 +19879,8 @@
 :: blog.kovida.in
 0.0.0.0 blog.mediumpromo.top
 :: blog.mediumpromo.top
+0.0.0.0 blog.medkad.com
+:: blog.medkad.com
 0.0.0.0 blog.ndstudio.xyz
 :: blog.ndstudio.xyz
 0.0.0.0 blog.onadvertise.com
@@ -21607,6 +21615,8 @@
 :: car-sound.go.ro
 0.0.0.0 car-truck.transmissi.other.dll-offer-items.com
 :: car-truck.transmissi.other.dll-offer-items.com
+0.0.0.0 car.qcmrjx.com
+:: car.qcmrjx.com
 0.0.0.0 carambos.esy.es
 :: carambos.esy.es
 0.0.0.0 cardmusical.com.sapo.pt
@@ -21701,8 +21711,6 @@
 :: cassmcdn.000webhostapp.com
 0.0.0.0 cassmcdsa.000webhostapp.com
 :: cassmcdsa.000webhostapp.com
-0.0.0.0 cast-bid27-j.adtdp.com
-:: cast-bid27-j.adtdp.com
 0.0.0.0 casting.openv.com
 :: casting.openv.com
 0.0.0.0 castlecrashers.console2pc.info
@@ -21775,6 +21783,8 @@
 :: cc.sys.intl.xiaomi.com
 0.0.0.0 cc.sys.miui.com
 :: cc.sys.miui.com
+0.0.0.0 cc.xiaodapei.com
+:: cc.xiaodapei.com
 0.0.0.0 cc.xtgreat.com
 :: cc.xtgreat.com
 0.0.0.0 cc.zeit.de
@@ -26407,6 +26417,8 @@
 :: d.delivery47.com
 0.0.0.0 d.delivery51.com
 :: d.delivery51.com
+0.0.0.0 d.dgzj.com
+:: d.dgzj.com
 0.0.0.0 d.elong.cn
 :: d.elong.cn
 0.0.0.0 d.financenewsalert.com
@@ -27873,6 +27885,8 @@
 :: dai18.shangc.net
 0.0.0.0 daikoku.ebis.ne.jp
 :: daikoku.ebis.ne.jp
+0.0.0.0 dail01.wanmeilr.com
+:: dail01.wanmeilr.com
 0.0.0.0 daily.cc.163.com
 :: daily.cc.163.com
 0.0.0.0 dailydeals.amarillo.com
@@ -27901,8 +27915,6 @@
 :: daima.diaoben.net
 0.0.0.0 daima.huoche.net
 :: daima.huoche.net
-0.0.0.0 daima.hydcd.com
-:: daima.hydcd.com
 0.0.0.0 daima.ijq.tv
 :: daima.ijq.tv
 0.0.0.0 daima.jiazhao.com
@@ -37681,6 +37693,8 @@
 :: huelsta.srns.eu
 0.0.0.0 hufimezaj.000webhostapp.com
 :: hufimezaj.000webhostapp.com
+0.0.0.0 huhai.cdwz8.cn
+:: huhai.cdwz8.cn
 0.0.0.0 huichuan.sm.cn
 :: huichuan.sm.cn
 0.0.0.0 huid.ad.360.cn
@@ -38969,6 +38983,8 @@
 :: img1.g.pptv.com
 0.0.0.0 img1.km.com
 :: img1.km.com
+0.0.0.0 img1.leyun365.com
+:: img1.leyun365.com
 0.0.0.0 img1.mini.cache.wps.cn
 :: img1.mini.cache.wps.cn
 0.0.0.0 img1.ncsreporting.com
@@ -41959,6 +41975,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -47599,8 +47617,6 @@
 :: mobile.aws.weather.com
 0.0.0.0 mobile.banzai.it
 :: mobile.banzai.it
-0.0.0.0 mobile.beliar.ru
-:: mobile.beliar.ru
 0.0.0.0 mobile.bet.pt
 :: mobile.bet.pt
 0.0.0.0 mobile.bet365.com
@@ -49061,6 +49077,8 @@
 :: news.iadsdk.apple.com
 0.0.0.0 news.idealmedia.com
 :: news.idealmedia.com
+0.0.0.0 news.jiukang.org
+:: news.jiukang.org
 0.0.0.0 news.l.qq.com
 :: news.l.qq.com
 0.0.0.0 news.movieworld.kz
@@ -58637,8 +58655,6 @@
 :: rs.sinajs.cn
 0.0.0.0 rs1.qq.com
 :: rs1.qq.com
-0.0.0.0 rs1.rensheng5.com
-:: rs1.rensheng5.com
 0.0.0.0 rs108.nsresponse.com
 :: rs108.nsresponse.com
 0.0.0.0 rs2.qq.com
@@ -64353,6 +64369,8 @@
 :: ssads.osdn.com
 0.0.0.0 ssartpia.or.kr
 :: ssartpia.or.kr
+0.0.0.0 ssb.ah499.com
+:: ssb.ah499.com
 0.0.0.0 ssbanners.drgnetwork.com
 :: ssbanners.drgnetwork.com
 0.0.0.0 ssbo98omin.rr.nu
@@ -75851,6 +75869,8 @@
 :: www.4242uuu.com
 0.0.0.0 www.448868.com
 :: www.448868.com
+0.0.0.0 www.4shared.com
+:: www.4shared.com
 0.0.0.0 www.4u-byme.com
 :: www.4u-byme.com
 0.0.0.0 www.4wad.com
@@ -77933,6 +77953,8 @@
 :: www.fidoproblems.com
 0.0.0.0 www.fiduciariobajio.com.mx
 :: www.fiduciariobajio.com.mx
+0.0.0.0 www.fileconvertertab.com
+:: www.fileconvertertab.com
 0.0.0.0 www.filix.it
 :: www.filix.it
 0.0.0.0 www.filmhd.ek1.pl
@@ -81453,8 +81475,6 @@
 :: www.tiergestuetzt.de
 0.0.0.0 www.timefor.com
 :: www.timefor.com
-0.0.0.0 www.timelessimagesmi.com
-:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tinayr.go.ro
@@ -83241,6 +83261,8 @@
 :: xu9emlie5kwnliatsecm.littlematchagirl.com.au
 0.0.0.0 xue.zbyw.cn
 :: xue.zbyw.cn
+0.0.0.0 xuexi.hydcd.com
+:: xuexi.hydcd.com
 0.0.0.0 xuvhyfu1.mvean.ml
 :: xuvhyfu1.mvean.ml
 0.0.0.0 xvrxyzba253.hotmail.ru
