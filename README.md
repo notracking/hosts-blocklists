@@ -102,7 +102,6 @@ addn-hosts=/path/to/hostnames.txt
  - https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/mobile.txt
  - https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
  - https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/basic/common.txt
- - https://theantisocialengineer.com/AntiSocial_Blacklist_Community_V1.txt
  - a large set of custom entries
   
 **Adblock Plus lists** (only full hostname, non-3rd party filters)
