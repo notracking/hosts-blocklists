@@ -135,3 +135,4 @@ addn-hosts=/path/to/hostnames.txt
  - https://easylist-downloads.adblockplus.org/Liste_AR.txt
  - https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt
  - https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
+ - https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt
