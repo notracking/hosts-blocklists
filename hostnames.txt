@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Sep 23 08:27:55 CEST 2019
+# Last update: Tue Sep 24 08:36:00 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 39039
+# Number of unique hostnames: 39046
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -14889,6 +14889,8 @@
 :: anzeigen.bei-uns.de
 0.0.0.0 anzeigen.lr-port.de
 :: anzeigen.lr-port.de
+0.0.0.0 ao-freegeoip.herokuapp.com
+:: ao-freegeoip.herokuapp.com
 0.0.0.0 ao.r7f.ifeng.com
 :: ao.r7f.ifeng.com
 0.0.0.0 aoi.gourisevapeeth.org
@@ -18695,6 +18697,8 @@
 :: bds.hainan.net
 0.0.0.0 bds.soarfi.cn
 :: bds.soarfi.cn
+0.0.0.0 bds.youhouse.vn
+:: bds.youhouse.vn
 0.0.0.0 bdsearch.2345.com
 :: bdsearch.2345.com
 0.0.0.0 bdsp.x.jd.com
@@ -19233,6 +19237,8 @@
 :: blog.koreadaily.com
 0.0.0.0 blog.kovida.in
 :: blog.kovida.in
+0.0.0.0 blog.lalalalala.club
+:: blog.lalalalala.club
 0.0.0.0 blog.mediumpromo.top
 :: blog.mediumpromo.top
 0.0.0.0 blog.medkad.com
@@ -22645,6 +22651,8 @@
 :: cioapatx.beget.tech
 0.0.0.0 cipaassessoria.net.br
 :: cipaassessoria.net.br
+0.0.0.0 ciprs.cusat.ac.in
+:: ciprs.cusat.ac.in
 0.0.0.0 cira.login.cqr.ssl.igotmyloverback.com
 :: cira.login.cqr.ssl.igotmyloverback.com
 0.0.0.0 cirad.or.id
@@ -26767,6 +26775,8 @@
 :: dah0wv79ikn14.cloudfront.net
 0.0.0.0 dai.shuzilm.cn
 :: dai.shuzilm.cn
+0.0.0.0 dai.siyuetian.net
+:: dai.siyuetian.net
 0.0.0.0 dai18.mumu01.com
 :: dai18.mumu01.com
 0.0.0.0 dai18.shangc.net
@@ -38079,8 +38089,6 @@
 :: janganlupabahagia404.000webhostapp.com
 0.0.0.0 janhaintu.igg.biz
 :: janhaintu.igg.biz
-0.0.0.0 janzwolinski.freehost.pl
-:: janzwolinski.freehost.pl
 0.0.0.0 japonte.mccdgm.net
 :: japonte.mccdgm.net
 0.0.0.0 jasapembuatanbillboard.web.id
@@ -39579,6 +39587,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -69177,6 +69187,8 @@
 :: widgets.digitalmediacommunications.com
 0.0.0.0 widgets.fccinteractive.com
 :: widgets.fccinteractive.com
+0.0.0.0 widgets.fie-data.co.uk
+:: widgets.fie-data.co.uk
 0.0.0.0 widgets.goldankauf123.de
 :: widgets.goldankauf123.de
 0.0.0.0 widgets.markosweb.com
@@ -74855,6 +74867,8 @@
 :: www.scoutvda.it
 0.0.0.0 www.scribol.com
 :: www.scribol.com
+0.0.0.0 www.sdfbd.org
+:: www.sdfbd.org
 0.0.0.0 www.sdkconfig.ad.intl.xiaomi.com
 :: www.sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 www.sdlpgift.com
