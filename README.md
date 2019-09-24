@@ -32,11 +32,6 @@ addn-hosts=/path/to/hostnames.txt
 ```
  - Restart dnsmasq (reload will **not** update list changes) `sudo service dnsmasq restart`
 
-## DNS over HTTPS (DOH)
-DNS over HTTPS will prevent clients in your network from using the default local DNS services. Mozilla Firefox has a feature to disable DOH network wide for all clients as described [here](https://support.mozilla.org/en-US/kb/configuring-networks-disable-dns-over-https).
-
-If you use [domains.txt](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt) in your dnsmasq configuration you will have DOH disabled on all clients by default.
-
 ## For a Pi-hole setup
 Because Pi-hole does not fully support loading of dnsmasq domain filters ([details here](https://github.com/pi-hole/pi-hole/blob/1e87850952b6d886674b487f57e47fae1c20dc8a/gravity.sh#L338)), you should add your own `.conf` file in `/etc/dnsmasq.d/`. This way you can still use our blocklists with Pi-hole, but updating has to be done by an external daily cronjob. It's also recommended to remove all default Pi-hole lists, since these are already included in our list in a more efficient manner.
 
@@ -47,6 +42,11 @@ addn-hosts=/path/to/hostnames.txt
 ```
  - (Optional, but recommended) Remove the default Pi-hole lists in `/etc/pihole/adlists.list`
  - Update Pi-hole `pihole -g`
+
+## DNS over HTTPS (DOH)
+DNS over HTTPS will prevent clients in your network from using the default local DNS services. Mozilla Firefox has a feature to disable DOH network wide for all clients as described [here](https://support.mozilla.org/en-US/kb/configuring-networks-disable-dns-over-https).
+
+If you use [domains.txt](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt) in your dnsmasq configuration you will have DOH disabled on all clients by default.
 
 # Sources
 **Domain and hostname lists**
