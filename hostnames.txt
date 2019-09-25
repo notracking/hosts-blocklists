@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Sep 24 08:36:00 CEST 2019
+# Last update: Wed Sep 25 08:45:40 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 39046
+# Number of unique hostnames: 39051
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -6447,6 +6447,8 @@
 :: ads-rdb.sol.no
 0.0.0.0 ads-rouge.haber7.com
 :: ads-rouge.haber7.com
+0.0.0.0 ads-server.hipwee.com
+:: ads-server.hipwee.com
 0.0.0.0 ads-solno.sol.no
 :: ads-solno.sol.no
 0.0.0.0 ads-team-safety.esy.es
@@ -12033,6 +12035,8 @@
 :: adshows.21cn.com
 0.0.0.0 adsim.sabah.com.tr
 :: adsim.sabah.com.tr
+0.0.0.0 adsimg.kompas.com
+:: adsimg.kompas.com
 0.0.0.0 adsimg.t1msn.com.mx
 :: adsimg.t1msn.com.mx
 0.0.0.0 adsin.zhangyoubao.com
@@ -25959,6 +25963,8 @@
 :: d27tpsznug51gz.cloudfront.net
 0.0.0.0 d27uz827y1nafd.cloudfront.net
 :: d27uz827y1nafd.cloudfront.net
+0.0.0.0 d27x580xb9ao1l.cloudfront.net
+:: d27x580xb9ao1l.cloudfront.net
 0.0.0.0 d287x05ve9a63s.cloudfront.net
 :: d287x05ve9a63s.cloudfront.net
 0.0.0.0 d28ethi6slcjbm.cloudfront.net
@@ -38705,6 +38711,8 @@
 :: js.union-wifi.com
 0.0.0.0 js.union.doudouguo.net
 :: js.union.doudouguo.net
+0.0.0.0 js.vidoza.co
+:: js.vidoza.co
 0.0.0.0 js.vidoza.net
 :: js.vidoza.net
 0.0.0.0 js.vipyy88.com
@@ -46031,6 +46039,8 @@
 :: newpictures.com.dropdocs.org
 0.0.0.0 newprose.bravejournal.com
 :: newprose.bravejournal.com
+0.0.0.0 newrevive.detik.com
+:: newrevive.detik.com
 0.0.0.0 newrutor.eu.org
 :: newrutor.eu.org
 0.0.0.0 newrutor.org.pl
