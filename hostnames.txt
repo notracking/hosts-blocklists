@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Sep 25 08:45:40 CEST 2019
+# Last update: Thu Sep 26 08:38:34 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 39051
+# Number of unique hostnames: 39057
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -33223,6 +33223,8 @@
 :: gcirm2.indystar.com
 0.0.0.0 gclavarino.000webhostapp.com
 :: gclavarino.000webhostapp.com
+0.0.0.0 gcm.ksmobile.net
+:: gcm.ksmobile.net
 0.0.0.0 gcontent.services.tvn.pl
 :: gcontent.services.tvn.pl
 0.0.0.0 gcounter.hosting4u.net
@@ -35565,6 +35567,8 @@
 :: hotelimperium.go.ro
 0.0.0.0 hotlinking.dosmil.imap.cc
 :: hotlinking.dosmil.imap.cc
+0.0.0.0 hotmusic.vipereskariot.ru
+:: hotmusic.vipereskariot.ru
 0.0.0.0 hotsex.3hosting.net
 :: hotsex.3hosting.net
 0.0.0.0 hotstar.pubnub.net
@@ -39595,8 +39599,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -56597,6 +56599,18 @@
 :: sdk.e.qq.com
 0.0.0.0 sdk.hockeyapp.net
 :: sdk.hockeyapp.net
+0.0.0.0 sdk.iad-01.braze.com
+:: sdk.iad-01.braze.com
+0.0.0.0 sdk.iad-02.braze.com
+:: sdk.iad-02.braze.com
+0.0.0.0 sdk.iad-03.braze.com
+:: sdk.iad-03.braze.com
+0.0.0.0 sdk.iad-04.braze.com
+:: sdk.iad-04.braze.com
+0.0.0.0 sdk.iad-05.braze.com
+:: sdk.iad-05.braze.com
+0.0.0.0 sdk.iad-06.braze.com
+:: sdk.iad-06.braze.com
 0.0.0.0 sdk.kidoz.net
 :: sdk.kidoz.net
 0.0.0.0 sdk.look.360.cn
@@ -67201,6 +67215,8 @@
 :: verzeroli.outbreakm3dia.com
 0.0.0.0 veterans-cms.purplebug.net
 :: veterans-cms.purplebug.net
+0.0.0.0 veterans-cms.pvbproperties.com.ph
+:: veterans-cms.pvbproperties.com.ph
 0.0.0.0 vewrb.italisumo.at
 :: vewrb.italisumo.at
 0.0.0.0 vex.analytics.wildtangent.com
@@ -69565,8 +69581,6 @@
 :: worden.samenresultaat.nl
 0.0.0.0 wordpress.kikihairandbeauty.co.uk
 :: wordpress.kikihairandbeauty.co.uk
-0.0.0.0 wordpress.pro-tiler.ru
-:: wordpress.pro-tiler.ru
 0.0.0.0 wordpress222.wordpress.com
 :: wordpress222.wordpress.com
 0.0.0.0 wordtheme.000webhostapp.com
@@ -72153,8 +72167,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
