@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Sep 30 08:50:32 CEST 2019
+# Last update: Tue Oct 1 08:52:06 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 39082
+# Number of unique hostnames: 39080
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -50721,8 +50721,6 @@
 :: php.fark.com
 0.0.0.0 php01-30914.php01.systemetit.se
 :: php01-30914.php01.systemetit.se
-0.0.0.0 php2.twinner.com.tw
-:: php2.twinner.com.tw
 0.0.0.0 phpad.cqnews.net
 :: phpad.cqnews.net
 0.0.0.0 phpads.aspeedy.com
@@ -50751,6 +50749,8 @@
 :: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
+0.0.0.0 phuongdanhvonghe.edu.vn
+:: phuongdanhvonghe.edu.vn
 0.0.0.0 phuttha9.beget.tech
 :: phuttha9.beget.tech
 0.0.0.0 pi-chin-cha.webcindario.com
@@ -50957,8 +50957,6 @@
 :: pitbull-video.ujm.pl
 0.0.0.0 pitbull.ek1.pl
 :: pitbull.ek1.pl
-0.0.0.0 piu.lostfilm.tv
-:: piu.lostfilm.tv
 0.0.0.0 pivecino.webcindario.com
 :: pivecino.webcindario.com
 0.0.0.0 pivecino2.webcindario.com
@@ -70727,8 +70725,6 @@
 :: www.api.sec.intl.miui.com
 0.0.0.0 www.api.setting.intl.miui.com
 :: www.api.setting.intl.miui.com
-0.0.0.0 www.apmc.com.hk
-:: www.apmc.com.hk
 0.0.0.0 www.apmmc.it
 :: www.apmmc.it
 0.0.0.0 www.app.storage.yunvm.com
@@ -73537,8 +73533,6 @@
 :: www.locatorprotocol.com
 0.0.0.0 www.locgest.com
 :: www.locgest.com
-0.0.0.0 www.log-in-verlag.de
-:: www.log-in-verlag.de
 0.0.0.0 www.loggerx.com
 :: www.loggerx.com
 0.0.0.0 www.logging.to
@@ -75325,6 +75319,8 @@
 :: www.subscribe.livingsocial.com
 0.0.0.0 www.successgroupiitjee.com
 :: www.successgroupiitjee.com
+0.0.0.0 www.successinteaching.info
+:: www.successinteaching.info
 0.0.0.0 www.suckpenis.com
 :: www.suckpenis.com
 0.0.0.0 www.suczki-mlode.blogspot.com
