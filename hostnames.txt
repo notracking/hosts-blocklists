@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Oct 1 08:52:06 CEST 2019
+# Last update: Wed Oct 2 08:50:45 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 39080
+# Number of unique hostnames: 39087
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3909,6 +3909,8 @@
 :: ad.bharatstudent.com
 0.0.0.0 ad.bilgin.pro
 :: ad.bilgin.pro
+0.0.0.0 ad.bitbay.net
+:: ad.bitbay.net
 0.0.0.0 ad.bizo.com
 :: ad.bizo.com
 0.0.0.0 ad.blackystars.com
@@ -6887,6 +6889,8 @@
 :: ads.bianca.net
 0.0.0.0 ads.bibliacatolica.com.br
 :: ads.bibliacatolica.com.br
+0.0.0.0 ads.bidstreamserver.com
+:: ads.bidstreamserver.com
 0.0.0.0 ads.bigchurch.com
 :: ads.bigchurch.com
 0.0.0.0 ads.bigcitytools.com
@@ -11951,6 +11955,8 @@
 :: adservice.google.ca
 0.0.0.0 adservice.google.co.in
 :: adservice.google.co.in
+0.0.0.0 adservice.google.co.za
+:: adservice.google.co.za
 0.0.0.0 adservice.google.com
 :: adservice.google.com
 0.0.0.0 adservice.google.com.au
@@ -17115,6 +17121,8 @@
 :: baid1.okooo.com
 0.0.0.0 baidu-union-js.chuimg.com
 :: baidu-union-js.chuimg.com
+0.0.0.0 baidu.cmxsw.com
+:: baidu.cmxsw.com
 0.0.0.0 baidu.cybcyw.com
 :: baidu.cybcyw.com
 0.0.0.0 baidu.dengzhoull.com
@@ -21441,6 +21449,8 @@
 :: cdn.mcextjmp.com
 0.0.0.0 cdn.media.amp.avai.com
 :: cdn.media.amp.avai.com
+0.0.0.0 cdn.mediaessence.net
+:: cdn.mediaessence.net
 0.0.0.0 cdn.mega-tags.com
 :: cdn.mega-tags.com
 0.0.0.0 cdn.mercent.com
@@ -25055,6 +25065,8 @@
 :: css.bloggerads.net
 0.0.0.0 css.juqingba.cn
 :: css.juqingba.cn
+0.0.0.0 css888.bceapp.com
+:: css888.bceapp.com
 0.0.0.0 cssrd.org.lb
 :: cssrd.org.lb
 0.0.0.0 cst.innogames.de
@@ -30693,6 +30705,8 @@
 :: euro.mariettataekwondo.com
 0.0.0.0 euroad1.advantage.as
 :: euroad1.advantage.as
+0.0.0.0 euroagd.in.net
+:: euroagd.in.net
 0.0.0.0 europol.europe.eu.france.id647744160-2176514326.h5841.com
 :: europol.europe.eu.france.id647744160-2176514326.h5841.com
 0.0.0.0 europol.europe.eu.id214218540-7444056787.h5841.com
@@ -39459,6 +39473,8 @@
 :: konstantin.freespaces.com
 0.0.0.0 kontil231.000webhostapp.com
 :: kontil231.000webhostapp.com
+0.0.0.0 konto.amronet.pl
+:: konto.amronet.pl
 0.0.0.0 konto1.cal24.pl
 :: konto1.cal24.pl
 0.0.0.0 konym7.wm.warmglow.org
@@ -42705,8 +42721,6 @@
 :: malajsie.webzdarma.cz
 0.0.0.0 malampanjang88.000webhostapp.com
 :: malampanjang88.000webhostapp.com
-0.0.0.0 malamut.revolverindy.com
-:: malamut.revolverindy.com
 0.0.0.0 malathris.cz.cc
 :: malathris.cz.cc
 0.0.0.0 maldenvr.beget.tech
@@ -49709,6 +49723,8 @@
 :: partnersapi.bilio.com
 0.0.0.0 partnerwebsites.mistermedia.nl
 :: partnerwebsites.mistermedia.nl
+0.0.0.0 partnerzyapi.ceneo.pl
+:: partnerzyapi.ceneo.pl
 0.0.0.0 party-nngvitbizn.now.sh
 :: party-nngvitbizn.now.sh
 0.0.0.0 party-vqgdyvoycc.now.sh
@@ -50465,8 +50481,6 @@
 :: peoria33884.cz.cc
 0.0.0.0 pepelacer.computingservices123.com
 :: pepelacer.computingservices123.com
-0.0.0.0 peps20years.afg.vn
-:: peps20years.afg.vn
 0.0.0.0 perceibe.50webs.com
 :: perceibe.50webs.com
 0.0.0.0 peregrine.igg.biz
@@ -50619,6 +50633,8 @@
 :: phoenix-adrunner.mycomputer.nl
 0.0.0.0 phone-calling-card.exnet.su
 :: phone-calling-card.exnet.su
+0.0.0.0 phone.talktalknow.com
+:: phone.talktalknow.com
 0.0.0.0 phonograph2.voxmedia.com
 :: phonograph2.voxmedia.com
 0.0.0.0 phorm.biz.tr
@@ -50721,6 +50737,8 @@
 :: php.fark.com
 0.0.0.0 php01-30914.php01.systemetit.se
 :: php01-30914.php01.systemetit.se
+0.0.0.0 php2.twinner.com.tw
+:: php2.twinner.com.tw
 0.0.0.0 phpad.cqnews.net
 :: phpad.cqnews.net
 0.0.0.0 phpads.aspeedy.com
@@ -51821,8 +51839,6 @@
 :: portkotor.local.bildhosting.me
 0.0.0.0 portnoff.od.ua
 :: portnoff.od.ua
-0.0.0.0 porwanonatalie.org.pl
-:: porwanonatalie.org.pl
 0.0.0.0 pos.baidu.com
 :: pos.baidu.com
 0.0.0.0 posciele.za.pl
@@ -53271,8 +53287,6 @@
 :: qpxxhyzwae.ce.ms
 0.0.0.0 qpyosxkmcc.yi.org
 :: qpyosxkmcc.yi.org
-0.0.0.0 qq.hixili.top
-:: qq.hixili.top
 0.0.0.0 qqa.miaozhu823.com
 :: qqa.miaozhu823.com
 0.0.0.0 qqlogo.qq.com
@@ -56315,8 +56329,6 @@
 :: scanty.colormark.cl
 0.0.0.0 scarlet.spegene.com
 :: scarlet.spegene.com
-0.0.0.0 scaune.qmagazin.ro
-:: scaune.qmagazin.ro
 0.0.0.0 scd.secureintl.com
 :: scd.secureintl.com
 0.0.0.0 scdown.qq.com
@@ -59217,6 +59229,8 @@
 :: srd.simba.taobao.com
 0.0.0.0 srilaini1helprecoveryii.000webhostapp.com
 :: srilaini1helprecoveryii.000webhostapp.com
+0.0.0.0 srisaranankara.sch.lk
+:: srisaranankara.sch.lk
 0.0.0.0 srpze.saqibsiddiqui.com
 :: srpze.saqibsiddiqui.com
 0.0.0.0 srutebmduoh.myfw.us
@@ -62551,6 +62565,8 @@
 :: test.sexeanonyme.com
 0.0.0.0 test.sies.uz
 :: test.sies.uz
+0.0.0.0 test.ss1.eu
+:: test.ss1.eu
 0.0.0.0 test.surepush.cn
 :: test.surepush.cn
 0.0.0.0 test.verox.dk
@@ -68715,8 +68731,6 @@
 :: weblog.strawberrynet.com
 0.0.0.0 weblogger-dynamic-lb.playdom.com
 :: weblogger-dynamic-lb.playdom.com
-0.0.0.0 webmail.chukai.co.th
-:: webmail.chukai.co.th
 0.0.0.0 webmail.process-digital.com
 :: webmail.process-digital.com
 0.0.0.0 webmailserveurmailings01.000webhostapp.com
@@ -70381,6 +70395,8 @@
 :: www.adelixir.com
 0.0.0.0 www.adexchangecloud.com
 :: www.adexchangecloud.com
+0.0.0.0 www.adfreestyle.pl
+:: www.adfreestyle.pl
 0.0.0.0 www.adfunkyserver.com
 :: www.adfunkyserver.com
 0.0.0.0 www.adhexa.com
@@ -70725,6 +70741,8 @@
 :: www.api.sec.intl.miui.com
 0.0.0.0 www.api.setting.intl.miui.com
 :: www.api.setting.intl.miui.com
+0.0.0.0 www.apmc.com.hk
+:: www.apmc.com.hk
 0.0.0.0 www.apmmc.it
 :: www.apmmc.it
 0.0.0.0 www.app.storage.yunvm.com
@@ -71971,6 +71989,8 @@
 :: www.estats4all.com
 0.0.0.0 www.etraffic.com
 :: www.etraffic.com
+0.0.0.0 www.euroagd.in.net
+:: www.euroagd.in.net
 0.0.0.0 www.europegreen.org
 :: www.europegreen.org
 0.0.0.0 www.europerank.com
@@ -73505,8 +73525,6 @@
 :: www.linkz.com
 0.0.0.0 www.lionsclubpaderno.it
 :: www.lionsclubpaderno.it
-0.0.0.0 www.lipika.com
-:: www.lipika.com
 0.0.0.0 www.litra.com.mk
 :: www.litra.com.mk
 0.0.0.0 www.little-help.com
@@ -73533,6 +73551,8 @@
 :: www.locatorprotocol.com
 0.0.0.0 www.locgest.com
 :: www.locgest.com
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.loggerx.com
 :: www.loggerx.com
 0.0.0.0 www.logging.to
@@ -74467,8 +74487,6 @@
 :: www.portaldimensional.com
 0.0.0.0 www.portalenviroment.com
 :: www.portalenviroment.com
-0.0.0.0 www.porwanonatalie.org.pl
-:: www.porwanonatalie.org.pl
 0.0.0.0 www.postmediamontrealgazette2.files.wordpress.com
 :: www.postmediamontrealgazette2.files.wordpress.com
 0.0.0.0 www.postnewsads.com
@@ -75045,8 +75063,6 @@
 :: www.silvotecna.co.cl
 0.0.0.0 www.simons-vakantiehuisje.nl
 :: www.simons-vakantiehuisje.nl
-0.0.0.0 www.simpleaftercare.co.uk
-:: www.simpleaftercare.co.uk
 0.0.0.0 www.simplyhelper.com
 :: www.simplyhelper.com
 0.0.0.0 www.singlesadnetwork.com
@@ -75523,8 +75539,6 @@
 :: www.thebigoutdoors.co.uk
 0.0.0.0 www.thecrack.net
 :: www.thecrack.net
-0.0.0.0 www.thedournalist.com
-:: www.thedournalist.com
 0.0.0.0 www.thegaymen.com
 :: www.thegaymen.com
 0.0.0.0 www.thehitman.com
