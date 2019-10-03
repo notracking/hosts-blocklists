@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Oct 2 08:50:45 CEST 2019
+# Last update: Thu Oct 3 08:36:02 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 39087
+# Number of unique hostnames: 39089
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3685,6 +3685,8 @@
 :: ad-android.51wnl.com
 0.0.0.0 ad-api.cnblogs.com
 :: ad-api.cnblogs.com
+0.0.0.0 ad-api.ehawk.com
+:: ad-api.ehawk.com
 0.0.0.0 ad-beta.flipboard.com
 :: ad-beta.flipboard.com
 0.0.0.0 ad-cache.dopool.com
@@ -13969,8 +13971,6 @@
 :: alpventures.bravejournal.com
 0.0.0.0 alrafidain.n-idea.us
 :: alrafidain.n-idea.us
-0.0.0.0 alruno.home.pl
-:: alruno.home.pl
 0.0.0.0 als.baidu.com
 :: als.baidu.com
 0.0.0.0 alt.24x7loan.com
@@ -16857,6 +16857,8 @@
 :: b.itvnet.lv
 0.0.0.0 b.kino-live2.org
 :: b.kino-live2.org
+0.0.0.0 b.kouke5.com
+:: b.kouke5.com
 0.0.0.0 b.l-a-c.cn
 :: b.l-a-c.cn
 0.0.0.0 b.liquidustv.com
@@ -18397,8 +18399,6 @@
 :: bay.xiawu.com
 0.0.0.0 bayanicgiyimsitesi.somee.com
 :: bayanicgiyimsitesi.somee.com
-0.0.0.0 bazan.home.pl
-:: bazan.home.pl
 0.0.0.0 bazinga.mse.sogou.com
 :: bazinga.mse.sogou.com
 0.0.0.0 bb-pagina-inicial-pbb-liberacao-online.000webhostapp.com
@@ -18999,6 +18999,8 @@
 :: bi.medscape.com
 0.0.0.0 bi.softservers.net
 :: bi.softservers.net
+0.0.0.0 bi.yeshen.com
+:: bi.yeshen.com
 0.0.0.0 bibliomaniacal-cont.000webhostapp.com
 :: bibliomaniacal-cont.000webhostapp.com
 0.0.0.0 bibsarmaaseudussa.theinspiringapp.com
@@ -32343,8 +32345,6 @@
 :: fotouniek.grafi-offshore.com
 0.0.0.0 four999.webredirect.org
 :: four999.webredirect.org
-0.0.0.0 foxdesign.home.pl
-:: foxdesign.home.pl
 0.0.0.0 foxicoadventures.esy.es
 :: foxicoadventures.esy.es
 0.0.0.0 foxs.indowebster.com
@@ -34147,8 +34147,6 @@
 :: groupaccount.000webhostapp.com
 0.0.0.0 groupchatting.netne.net
 :: groupchatting.netne.net
-0.0.0.0 grupa-sprzedazowa.home.pl
-:: grupa-sprzedazowa.home.pl
 0.0.0.0 grupamedialna.hekko24.pl
 :: grupamedialna.hekko24.pl
 0.0.0.0 gryjava.gsm.pl
@@ -34311,6 +34309,8 @@
 :: gwerucity.org.zw
 0.0.0.0 gwqxtlx.tel.lv
 :: gwqxtlx.tel.lv
+0.0.0.0 gwrtdp-tn690bfadt.tclclouds.com
+:: gwrtdp-tn690bfadt.tclclouds.com
 0.0.0.0 gwynethpaltrow.ca.tt
 :: gwynethpaltrow.ca.tt
 0.0.0.0 gx-in-f109.1e100.net
@@ -35523,8 +35523,6 @@
 :: horizon.playboy.com
 0.0.0.0 horizon.sailthru.com
 :: horizon.sailthru.com
-0.0.0.0 horse-sport.home.pl
-:: horse-sport.home.pl
 0.0.0.0 horstherfertarcorde.zzwumwaysl.in
 :: horstherfertarcorde.zzwumwaysl.in
 0.0.0.0 hortensjazfu.ovh.org
@@ -39889,6 +39887,8 @@
 :: latribune.electronicpromotions2015.com
 0.0.0.0 laughing-lichterman-cf5866.netlify.com
 :: laughing-lichterman-cf5866.netlify.com
+0.0.0.0 launcher.us.yeshen.com
+:: launcher.us.yeshen.com
 0.0.0.0 launchermsg.3g.cn
 :: launchermsg.3g.cn
 0.0.0.0 laurahanly.robhanly.com
@@ -42721,6 +42721,8 @@
 :: malajsie.webzdarma.cz
 0.0.0.0 malampanjang88.000webhostapp.com
 :: malampanjang88.000webhostapp.com
+0.0.0.0 malamut.revolverindy.com
+:: malamut.revolverindy.com
 0.0.0.0 malathris.cz.cc
 :: malathris.cz.cc
 0.0.0.0 maldenvr.beget.tech
@@ -44903,6 +44905,8 @@
 :: mobisex.pieprz.pl
 0.0.0.0 mobix.a.bukugames.net
 :: mobix.a.bukugames.net
+0.0.0.0 mobotoolpush.moboapps.io
+:: mobotoolpush.moboapps.io
 0.0.0.0 moc.silk.com
 :: moc.silk.com
 0.0.0.0 mocka.frost-electric-supply.com
@@ -45007,6 +45011,8 @@
 :: monikakarasewicz.bialan.pl
 0.0.0.0 monitor-uu.play.aiseet.atianqi.com
 :: monitor-uu.play.aiseet.atianqi.com
+0.0.0.0 monitor.adcaffe.com
+:: monitor.adcaffe.com
 0.0.0.0 monitor.uu.qq.com
 :: monitor.uu.qq.com
 0.0.0.0 monk.sitescoutadserver.com
@@ -47657,8 +47663,6 @@
 :: oj.likewut.net
 0.0.0.0 ojaideb324105.000webhostapp.com
 :: ojaideb324105.000webhostapp.com
-0.0.0.0 ojcow.home.pl
-:: ojcow.home.pl
 0.0.0.0 ojmekzw4mujvqeju.bioserv.at
 :: ojmekzw4mujvqeju.bioserv.at
 0.0.0.0 ojmekzw4mujvqeju.dreamtest.at
@@ -56743,6 +56747,8 @@
 :: search-phentermine.hpage.net
 0.0.0.0 search.a-vega.ru
 :: search.a-vega.ru
+0.0.0.0 search.adcaffe.com
+:: search.adcaffe.com
 0.0.0.0 search.buzzdock.com
 :: search.buzzdock.com
 0.0.0.0 search.freeonline.com
@@ -57797,12 +57803,6 @@
 :: servt.playbuzz.co
 0.0.0.0 serwer1566493.home.pl
 :: serwer1566493.home.pl
-0.0.0.0 serwer1819004.home.pl
-:: serwer1819004.home.pl
-0.0.0.0 serwer1827616.home.pl
-:: serwer1827616.home.pl
-0.0.0.0 serwer1837541.home.pl
-:: serwer1837541.home.pl
 0.0.0.0 serwis.kb.help
 :: serwis.kb.help
 0.0.0.0 session-tracker.badcreditloans.com
@@ -59413,6 +59413,8 @@
 :: ssp.kss.ksyun.com
 0.0.0.0 ssp.kxly360.com
 :: ssp.kxly360.com
+0.0.0.0 ssp.mediation.trnox.com
+:: ssp.mediation.trnox.com
 0.0.0.0 ssp.sellads.me
 :: ssp.sellads.me
 0.0.0.0 ssp.streamrail.net
@@ -59671,6 +59673,8 @@
 :: stat.kika-backend.com
 0.0.0.0 stat.lianmeng.360.cn
 :: stat.lianmeng.360.cn
+0.0.0.0 stat.m.360.cn
+:: stat.m.360.cn
 0.0.0.0 stat.m.jd.com
 :: stat.m.jd.com
 0.0.0.0 stat.maalaimalar.com
@@ -60179,6 +60183,8 @@
 :: statistik.simaja.de
 0.0.0.0 statm.the-adult-company.com
 :: statm.the-adult-company.com
+0.0.0.0 stats-a.maxthon.com
+:: stats-a.maxthon.com
 0.0.0.0 stats-ec2-46-137-101-227.layar.com
 :: stats-ec2-46-137-101-227.layar.com
 0.0.0.0 stats-newyork1.bloxcms.com
@@ -60969,8 +60975,6 @@
 :: str.eshzdorovo.ru
 0.0.0.0 straighttangerine.cz.cc
 :: straighttangerine.cz.cc
-0.0.0.0 stralfors.home.pl
-:: stralfors.home.pl
 0.0.0.0 strategy.beacon.qq.com
 :: strategy.beacon.qq.com
 0.0.0.0 strategy.lmobi.net
@@ -62319,8 +62323,8 @@
 :: te.wsls.com
 0.0.0.0 te54.i.ng
 :: te54.i.ng
-0.0.0.0 tea.pornolomka.sex
-:: tea.pornolomka.sex
+0.0.0.0 tea.pornolomka.video
+:: tea.pornolomka.video
 0.0.0.0 teachscape.vo.llnwd.net
 :: teachscape.vo.llnwd.net
 0.0.0.0 tealium.hs.llnwd.net
@@ -70783,6 +70787,8 @@
 :: www.apple.com-scan-mac.live
 0.0.0.0 www.apple.com-scan.live
 :: www.apple.com-scan.live
+0.0.0.0 www.apple.com-shield-guard.live
+:: www.apple.com-shield-guard.live
 0.0.0.0 www.apple.com-shield.live
 :: www.apple.com-shield.live
 0.0.0.0 www.apple.com-shields-guard.live
@@ -73525,6 +73531,8 @@
 :: www.linkz.com
 0.0.0.0 www.lionsclubpaderno.it
 :: www.lionsclubpaderno.it
+0.0.0.0 www.lipika.com
+:: www.lipika.com
 0.0.0.0 www.litra.com.mk
 :: www.litra.com.mk
 0.0.0.0 www.little-help.com
@@ -73551,8 +73559,6 @@
 :: www.locatorprotocol.com
 0.0.0.0 www.locgest.com
 :: www.locgest.com
-0.0.0.0 www.log-in-verlag.de
-:: www.log-in-verlag.de
 0.0.0.0 www.loggerx.com
 :: www.loggerx.com
 0.0.0.0 www.logging.to
@@ -77967,8 +77973,6 @@
 :: zhusandyoi.websoft.kz
 0.0.0.0 zhushou.2345.com
 :: zhushou.2345.com
-0.0.0.0 zia.org.in
-:: zia.org.in
 0.0.0.0 ziale.org.zm
 :: ziale.org.zm
 0.0.0.0 zibup.csheaven.com
