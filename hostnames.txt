@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Oct 4 08:31:35 CEST 2019
+# Last update: Sat Oct 5 08:32:08 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 39089
+# Number of unique hostnames: 39109
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -7999,6 +7999,8 @@
 :: ads.gltrkk.com
 0.0.0.0 ads.gmodules.com
 :: ads.gmodules.com
+0.0.0.0 ads.go2reach.com
+:: ads.go2reach.com
 0.0.0.0 ads.god.co.uk
 :: ads.god.co.uk
 0.0.0.0 ads.godlikeproductions.com
@@ -19017,6 +19019,8 @@
 :: bigads.guj.de
 0.0.0.0 bigtits.xxxallaccesspass.com
 :: bigtits.xxxallaccesspass.com
+0.0.0.0 bikelovers.blog.br
+:: bikelovers.blog.br
 0.0.0.0 bikepaintpureworks.web.fc2.com
 :: bikepaintpureworks.web.fc2.com
 0.0.0.0 bikini.fsn.net
@@ -19239,6 +19243,8 @@
 :: blog.infoaxe.com
 0.0.0.0 blog.insite.pt
 :: blog.insite.pt
+0.0.0.0 blog.internationalfertilityacademy.com
+:: blog.internationalfertilityacademy.com
 0.0.0.0 blog.iondaniel.ro
 :: blog.iondaniel.ro
 0.0.0.0 blog.ittune.net
@@ -19251,8 +19257,12 @@
 :: blog.koreadaily.com
 0.0.0.0 blog.kovida.in
 :: blog.kovida.in
+0.0.0.0 blog.lalalalala.club
+:: blog.lalalalala.club
 0.0.0.0 blog.mediumpromo.top
 :: blog.mediumpromo.top
+0.0.0.0 blog.medkad.com
+:: blog.medkad.com
 0.0.0.0 blog.ndstudio.xyz
 :: blog.ndstudio.xyz
 0.0.0.0 blog.onadvertise.com
@@ -21053,6 +21063,8 @@
 :: ccfadv.adv.br
 0.0.0.0 ccjbox.ivyro.net
 :: ccjbox.ivyro.net
+0.0.0.0 cclive.istage.cloud
+:: cclive.istage.cloud
 0.0.0.0 ccola353.000webhostapp.com
 :: ccola353.000webhostapp.com
 0.0.0.0 ccomglobal.net.in
@@ -23335,6 +23347,8 @@
 :: cls.vrvm.com
 0.0.0.0 clubdo.free.fr
 :: clubdo.free.fr
+0.0.0.0 clubedoestudante.net.br
+:: clubedoestudante.net.br
 0.0.0.0 clubpenguin.haxdo.com
 :: clubpenguin.haxdo.com
 0.0.0.0 clubshop.boeckman.net
@@ -25335,6 +25349,8 @@
 :: d.91soyo.com
 0.0.0.0 d.a1comm.co.kr
 :: d.a1comm.co.kr
+0.0.0.0 d.ab126.com
+:: d.ab126.com
 0.0.0.0 d.admx.baixing.com
 :: d.admx.baixing.com
 0.0.0.0 d.ads.readwriteweb.com
@@ -27735,6 +27751,8 @@
 :: devierdemuur.50webs.com
 0.0.0.0 devisprox-media.s3-website-eu-west-1.amazonaws.com
 :: devisprox-media.s3-website-eu-west-1.amazonaws.com
+0.0.0.0 deviwijiyanti.web.id
+:: deviwijiyanti.web.id
 0.0.0.0 devs.data.mob.com
 :: devs.data.mob.com
 0.0.0.0 devv-c0nfr1m.verifikasion1.ga
@@ -31045,8 +31063,6 @@
 :: f2.p0y.cn
 0.0.0.0 f2.p0y.com
 :: f2.p0y.com
-0.0.0.0 f209ihc.yb550.com
-:: f209ihc.yb550.com
 0.0.0.0 f263w7.ndc.northern-dishedends.co.uk
 :: f263w7.ndc.northern-dishedends.co.uk
 0.0.0.0 f3.p0y.com
@@ -32955,8 +32971,6 @@
 :: galaxyattack-de0bd.firebaseio.com
 0.0.0.0 galent1.000webhostapp.com
 :: galent1.000webhostapp.com
-0.0.0.0 galifeu-kolsmmrwoytjfvofzfg.stackpathdns.com
-:: galifeu-kolsmmrwoytjfvofzfg.stackpathdns.com
 0.0.0.0 galkavk.esy.es
 :: galkavk.esy.es
 0.0.0.0 gall.dcinside.com
@@ -34671,8 +34685,6 @@
 :: hdjhsudhe.kuaizhan.com
 0.0.0.0 hdjung.homepage.t-online.de
 :: hdjung.homepage.t-online.de
-0.0.0.0 hdredirect-lb5-1afb6e2973825a56.elb.us-east-1.amazonaws.com
-:: hdredirect-lb5-1afb6e2973825a56.elb.us-east-1.amazonaws.com
 0.0.0.0 hdsrc-a.akamaihd.net
 :: hdsrc-a.akamaihd.net
 0.0.0.0 hdv1sk62nn56gtrozwrc.viomil.ro
@@ -42425,6 +42437,8 @@
 :: m1.daumcdn.net
 0.0.0.0 m1.dxsbb.com
 :: m1.dxsbb.com
+0.0.0.0 m1.extrutor.org
+:: m1.extrutor.org
 0.0.0.0 m1.jintang114.org
 :: m1.jintang114.org
 0.0.0.0 m1.kuanff.com
@@ -47633,6 +47647,8 @@
 :: offline.sanomaservices.nl
 0.0.0.0 offlinehbpl.hbpl.co.uk
 :: offlinehbpl.hbpl.co.uk
+0.0.0.0 offside2.000webhostapp.com
+:: offside2.000webhostapp.com
 0.0.0.0 ofice.idol-s.com
 :: ofice.idol-s.com
 0.0.0.0 ofni.al0ne.info
@@ -48123,6 +48139,8 @@
 :: opec.lflink.com
 0.0.0.0 opehs.tanx.com
 :: opehs.tanx.com
+0.0.0.0 opel.km.ua
+:: opel.km.ua
 0.0.0.0 open-hive-server-1.pp.ua
 :: open-hive-server-1.pp.ua
 0.0.0.0 open-pixon.ads-pixiv.net
@@ -52037,6 +52055,8 @@
 :: pr.zhuaji.org
 0.0.0.0 praga17.energosp.idl.pl
 :: praga17.energosp.idl.pl
+0.0.0.0 pramodkumarsingh.000webhostapp.com
+:: pramodkumarsingh.000webhostapp.com
 0.0.0.0 pranking12.ziyu.net
 :: pranking12.ziyu.net
 0.0.0.0 prcappzone.intel.com
@@ -58799,8 +58819,6 @@
 :: sneckershatch.5gbfree.com
 0.0.0.0 snetwork.web.fc2.com
 :: snetwork.web.fc2.com
-0.0.0.0 snews.serverhome.com
-:: snews.serverhome.com
 0.0.0.0 sngbeizsuselnp2mbwyj.alfacomercial.com.br
 :: sngbeizsuselnp2mbwyj.alfacomercial.com.br
 0.0.0.0 sngmta.qq.com
@@ -62549,6 +62567,8 @@
 :: test.ark.letv.com
 0.0.0.0 test.beejapan.org
 :: test.beejapan.org
+0.0.0.0 test.besstidniki.ru
+:: test.besstidniki.ru
 0.0.0.0 test.dirktuip.nl
 :: test.dirktuip.nl
 0.0.0.0 test.eduancm.com
@@ -71041,6 +71061,8 @@
 :: www.bigsister-puff.cxa.de
 0.0.0.0 www.bigsister.cxa.de
 :: www.bigsister.cxa.de
+0.0.0.0 www.bikelovers.blog.br
+:: www.bikelovers.blog.br
 0.0.0.0 www.bimm.in
 :: www.bimm.in
 0.0.0.0 www.binarysystem4u.com
@@ -71077,8 +71099,14 @@
 :: www.blizzzrd-net.com
 0.0.0.0 www.blockchained.pa
 :: www.blockchained.pa
+0.0.0.0 www.blog.internationalfertilityacademy.com
+:: www.blog.internationalfertilityacademy.com
 0.0.0.0 www.blog.jacekpaciorek.pl
 :: www.blog.jacekpaciorek.pl
+0.0.0.0 www.blog.lalalalala.club
+:: www.blog.lalalalala.club
+0.0.0.0 www.blog.medkad.com
+:: www.blog.medkad.com
 0.0.0.0 www.blogcatalog.com
 :: www.blogcatalog.com
 0.0.0.0 www.blogonur.com
@@ -71289,6 +71317,8 @@
 :: www.cccwwwr.com
 0.0.0.0 www.cclickbank.com
 :: www.cclickbank.com
+0.0.0.0 www.cclive.istage.cloud
+:: www.cclive.istage.cloud
 0.0.0.0 www.ccnprodusenaturiste.home.ro
 :: www.ccnprodusenaturiste.home.ro
 0.0.0.0 www.ccp14.ac.uk
@@ -71421,6 +71451,8 @@
 :: www.clips1000.com
 0.0.0.0 www.closecombat.mynetcologne.de
 :: www.closecombat.mynetcologne.de
+0.0.0.0 www.clubedoestudante.net.br
+:: www.clubedoestudante.net.br
 0.0.0.0 www.cm-analysis.com
 :: www.cm-analysis.com
 0.0.0.0 www.cmg-ingegneria.it
@@ -72219,8 +72251,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -74145,6 +74175,8 @@
 :: www.officinaomc.com
 0.0.0.0 www.offroadhandel.de
 :: www.offroadhandel.de
+0.0.0.0 www.offside2.000webhostapp.com
+:: www.offside2.000webhostapp.com
 0.0.0.0 www.ohimmades.pw
 :: www.ohimmades.pw
 0.0.0.0 www.oiluk.net
@@ -74205,6 +74237,8 @@
 :: www.ooniu.com
 0.0.0.0 www.opal.webserwer.pl
 :: www.opal.webserwer.pl
+0.0.0.0 www.opel.km.ua
+:: www.opel.km.ua
 0.0.0.0 www.opendownload.de
 :: www.opendownload.de
 0.0.0.0 www.openload.de
@@ -74509,6 +74543,8 @@
 :: www.pp9899.com
 0.0.0.0 www.pr-free.de
 :: www.pr-free.de
+0.0.0.0 www.pramodkumarsingh.000webhostapp.com
+:: www.pramodkumarsingh.000webhostapp.com
 0.0.0.0 www.prank.com
 :: www.prank.com
 0.0.0.0 www.prdirectory.biz
@@ -75345,6 +75381,8 @@
 :: www.subscribe.livingsocial.com
 0.0.0.0 www.successgroupiitjee.com
 :: www.successgroupiitjee.com
+0.0.0.0 www.successinteaching.info
+:: www.successinteaching.info
 0.0.0.0 www.suckpenis.com
 :: www.suckpenis.com
 0.0.0.0 www.suczki-mlode.blogspot.com
@@ -76191,6 +76229,8 @@
 :: www.wshufa.com
 0.0.0.0 www.wtcpm.com
 :: www.wtcpm.com
+0.0.0.0 www.wuus.org.cn
+:: www.wuus.org.cn
 0.0.0.0 www.ww-tv.net
 :: www.ww-tv.net
 0.0.0.0 www.wwkiosk.com
