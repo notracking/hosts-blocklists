@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Oct 5 08:32:08 CEST 2019
+# Last update: Sun Oct 6 08:25:59 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 39109
+# Number of unique hostnames: 39113
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2951,6 +2951,8 @@
 :: a1.adstore.jp
 0.0.0.0 a1.aluntan.com
 :: a1.aluntan.com
+0.0.0.0 a1.bestopview.com
+:: a1.bestopview.com
 0.0.0.0 a1.bookapka.com
 :: a1.bookapka.com
 0.0.0.0 a1.chajiaotong.com
@@ -3325,6 +3327,8 @@
 :: abtest.mistat.xiaomi.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
+0.0.0.0 abusalewm.exceltoner.com
+:: abusalewm.exceltoner.com
 0.0.0.0 ac.86huoche.com
 :: ac.86huoche.com
 0.0.0.0 ac.ajur.info
@@ -4481,6 +4485,8 @@
 :: ad.leongaming.com
 0.0.0.0 ad.letsbonus.com
 :: ad.letsbonus.com
+0.0.0.0 ad.lflucky.com
+:: ad.lflucky.com
 0.0.0.0 ad.lgappstv.com
 :: ad.lgappstv.com
 0.0.0.0 ad.libgel.net
@@ -32817,8 +32823,6 @@
 :: g.chuiyao.com
 0.0.0.0 g.click.taobao.com
 :: g.click.taobao.com
-0.0.0.0 g.csdnimg.cn
-:: g.csdnimg.cn
 0.0.0.0 g.d.yoyi.tv
 :: g.d.yoyi.tv
 0.0.0.0 g.daman.cc
@@ -35873,6 +35877,8 @@
 :: i.1cat.com
 0.0.0.0 i.1o26.com
 :: i.1o26.com
+0.0.0.0 i.bestcontentfare.top
+:: i.bestcontentfare.top
 0.0.0.0 i.bigmir.net
 :: i.bigmir.net
 0.0.0.0 i.cdnpark.com
@@ -50791,8 +50797,6 @@
 :: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
-0.0.0.0 phuongdanhvonghe.edu.vn
-:: phuongdanhvonghe.edu.vn
 0.0.0.0 phuttha9.beget.tech
 :: phuttha9.beget.tech
 0.0.0.0 pi-chin-cha.webcindario.com
@@ -53439,6 +53443,8 @@
 :: r.dimkriju.bget.ru
 0.0.0.0 r.dir.bg
 :: r.dir.bg
+0.0.0.0 r.dlandroid.com
+:: r.dlandroid.com
 0.0.0.0 r.dmp.sina.cn
 :: r.dmp.sina.cn
 0.0.0.0 r.dmp.sina.com.cn
@@ -72251,6 +72257,8 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
+0.0.0.0 www.fishingtackleindia.com
+:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -75631,6 +75639,8 @@
 :: www.tiergestuetzt.de
 0.0.0.0 www.timefor.com
 :: www.timefor.com
+0.0.0.0 www.timelessimagesmi.com
+:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tinayr.go.ro
@@ -77959,8 +77969,6 @@
 :: zen.ancestrybloodhound.biz
 0.0.0.0 zen.nbci.com
 :: zen.nbci.com
-0.0.0.0 zencart.alpm.gogzmermedia.com
-:: zencart.alpm.gogzmermedia.com
 0.0.0.0 zetes.vdsinside.com
 :: zetes.vdsinside.com
 0.0.0.0 zeulo.anime-extremo.com
