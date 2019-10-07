@@ -100,6 +100,7 @@ If you use [domains.txt](https://raw.githubusercontent.com/notracking/hosts-bloc
  - https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/mobile.txt
  - https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
  - https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/basic/common.txt
+ - https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
  - a large set of custom entries
   
 **Adblock Plus lists** (only full hostname, non-3rd party filters)
