@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Oct 6 08:25:59 CEST 2019
+# Last update: Mon Oct 7 08:29:40 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 39113
+# Number of unique hostnames: 39225
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -43,6 +43,8 @@
 :: 000tristanprod.free.fr
 0.0.0.0 001547.000webhostapp.com
 :: 001547.000webhostapp.com
+0.0.0.0 0077777700140002.myhomescreen.tv
+:: 0077777700140002.myhomescreen.tv
 0.0.0.0 00capital0neservice.000webhostapp.com
 :: 00capital0neservice.000webhostapp.com
 0.0.0.0 01.static.xsf.ximxim.com
@@ -3231,12 +3233,6 @@
 :: abandonrom.tagalaxy.net
 0.0.0.0 abbott.vo.llnwd.net
 :: abbott.vo.llnwd.net
-0.0.0.0 abbp1.science.
-:: abbp1.science.
-0.0.0.0 abbp1.space.
-:: abbp1.space.
-0.0.0.0 abbp1.website.
-:: abbp1.website.
 0.0.0.0 abbytrus.in.ua
 :: abbytrus.in.ua
 0.0.0.0 abbywintersnudes.thumblogger.com
@@ -5489,6 +5485,10 @@
 :: ad7.tagphi.net
 0.0.0.0 ad8.atlas.cz
 :: ad8.atlas.cz
+0.0.0.0 ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv
+:: ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv
+0.0.0.0 ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv
+:: ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv
 0.0.0.0 ad9.atlas.cz
 :: ad9.atlas.cz
 0.0.0.0 adadmin.house365.com
@@ -12105,8 +12105,6 @@
 :: adsp.xunlei.com
 0.0.0.0 adspace.zaman.com.tr
 :: adspace.zaman.com.tr
-0.0.0.0 adspayformymortgage.win.
-:: adspayformymortgage.win.
 0.0.0.0 adspecs.aol.com
 :: adspecs.aol.com
 0.0.0.0 adspending01.bwnet.com.tw
@@ -14977,12 +14975,18 @@
 :: api-game.meizu.com
 0.0.0.0 api-gdpr.voodoo-tech.io
 :: api-gdpr.voodoo-tech.io
+0.0.0.0 api-hub.samsungyosemite.com
+:: api-hub.samsungyosemite.com
 0.0.0.0 api-lytics.macpaw.com
 :: api-lytics.macpaw.com
+0.0.0.0 api-mf1.meta.ndmdhs.com
+:: api-mf1.meta.ndmdhs.com
 0.0.0.0 api-push.meizu.com
 :: api-push.meizu.com
 0.0.0.0 api-shoulei-ssl.xunlei.com
 :: api-shoulei-ssl.xunlei.com
+0.0.0.0 api-tv.spotify.com
+:: api-tv.spotify.com
 0.0.0.0 api.2easydroid.com
 :: api.2easydroid.com
 0.0.0.0 api.7segments.com
@@ -15091,6 +15095,8 @@
 :: api.dewmobile.net
 0.0.0.0 api.dianru.com
 :: api.dianru.com
+0.0.0.0 api.distribution.hulu.com
+:: api.distribution.hulu.com
 0.0.0.0 api.doumob.com
 :: api.doumob.com
 0.0.0.0 api.e-cg.cn
@@ -15099,6 +15105,8 @@
 :: api.elasticemail.com
 0.0.0.0 api.eqmob.com
 :: api.eqmob.com
+0.0.0.0 api.euro.hismarttv.com
+:: api.euro.hismarttv.com
 0.0.0.0 api.exc.mob.com
 :: api.exc.mob.com
 0.0.0.0 api.flicktweets.com
@@ -15179,6 +15187,8 @@
 :: api.newbelden.com
 0.0.0.0 api.newsfeed.intl.miui.com
 :: api.newsfeed.intl.miui.com
+0.0.0.0 api.nfl.com
+:: api.nfl.com
 0.0.0.0 api.nrelate.com
 :: api.nrelate.com
 0.0.0.0 api.oneaudience.com
@@ -15269,6 +15279,8 @@
 :: api.uniplayad.com
 0.0.0.0 api.uprivaladserver.net
 :: api.uprivaladserver.net
+0.0.0.0 api.us.hismarttv.com
+:: api.us.hismarttv.com
 0.0.0.0 api.usebutton.com
 :: api.usebutton.com
 0.0.0.0 api.useinsider.com
@@ -15909,8 +15921,6 @@
 :: apt.qumi.com
 0.0.0.0 aptitude.newversionupdatefreshand4you.space
 :: aptitude.newversionupdatefreshand4you.space
-0.0.0.0 apu.samsungelectronics.com
-:: apu.samsungelectronics.com
 0.0.0.0 apu04c0.audientia.net
 :: apu04c0.audientia.net
 0.0.0.0 apu0555.audientia.net
@@ -16723,6 +16733,8 @@
 :: az413505.vo.msecnd.net
 0.0.0.0 az416426.vo.msecnd.net
 :: az416426.vo.msecnd.net
+0.0.0.0 az43064.vo.msecnd.net
+:: az43064.vo.msecnd.net
 0.0.0.0 az512334.vo.msecnd.net
 :: az512334.vo.msecnd.net
 0.0.0.0 az598575.vo.msecnd.net
@@ -16959,6 +16971,8 @@
 :: b.wm.co.za
 0.0.0.0 b.xcafe.com
 :: b.xcafe.com
+0.0.0.0 b02.black.ndmdhs.com
+:: b02.black.ndmdhs.com
 0.0.0.0 b0fa.ubilluscapacitacion.com
 :: b0fa.ubilluscapacitacion.com
 0.0.0.0 b1.0430.com
@@ -18637,6 +18651,8 @@
 :: bdcode.youke.com
 0.0.0.0 bdcode1.haodou.com
 :: bdcode1.haodou.com
+0.0.0.0 bdcore-apr-lb.bda.ndmdhs.com
+:: bdcore-apr-lb.bda.ndmdhs.com
 0.0.0.0 bdcqxaadv.freewww.info
 :: bdcqxaadv.freewww.info
 0.0.0.0 bdd.hainan.net
@@ -19671,8 +19687,6 @@
 :: bptpm.sragenkab.go.id
 0.0.0.0 bpts.8111216.cn
 :: bpts.8111216.cn
-0.0.0.0 bpu.samsungelectronics.com
-:: bpu.samsungelectronics.com
 0.0.0.0 bqfqdm96hrbxlo6cc9af.mafe.edu.co
 :: bqfqdm96hrbxlo6cc9af.mafe.edu.co
 0.0.0.0 bqmsp.saqibsiddiqui.com
@@ -19729,6 +19743,8 @@
 :: brandshow.58.com
 0.0.0.0 brave.ebod.co.uk
 :: brave.ebod.co.uk
+0.0.0.0 bravia.dl.playstation.net
+:: bravia.dl.playstation.net
 0.0.0.0 bravo.israelinfo.ru
 :: bravo.israelinfo.ru
 0.0.0.0 bravo.israelweather.co.il
@@ -20743,6 +20759,8 @@
 :: calimboersrs.16mb.com
 0.0.0.0 call.i-kiddi.co.uk
 :: call.i-kiddi.co.uk
+0.0.0.0 call.me.sel.sony.com
+:: call.me.sel.sony.com
 0.0.0.0 callofduty.freegiveaway.us
 :: callofduty.freegiveaway.us
 0.0.0.0 calouskype.over-blog.com
@@ -21775,6 +21793,8 @@
 :: cdneu.filefactscdn.com
 0.0.0.0 cdnimg.liehu.ijinshan.com
 :: cdnimg.liehu.ijinshan.com
+0.0.0.0 cdns-content.dzcdn.net
+:: cdns-content.dzcdn.net
 0.0.0.0 cdns.lodeo.io
 :: cdns.lodeo.io
 0.0.0.0 cdns.mydirtyhobby.com
@@ -22179,6 +22199,8 @@
 :: cerrogrande.oxidocs.com
 0.0.0.0 cerslev.aiwsites.com
 :: cerslev.aiwsites.com
+0.0.0.0 cert-test.sandbox.google.com
+:: cert-test.sandbox.google.com
 0.0.0.0 certified-balances.000webhostapp.com
 :: certified-balances.000webhostapp.com
 0.0.0.0 ceskydomov.alias.ngs.modry.cz
@@ -22683,8 +22705,6 @@
 :: cioapatx.beget.tech
 0.0.0.0 cipaassessoria.net.br
 :: cipaassessoria.net.br
-0.0.0.0 ciprs.cusat.ac.in
-:: ciprs.cusat.ac.in
 0.0.0.0 cira.login.cqr.ssl.igotmyloverback.com
 :: cira.login.cqr.ssl.igotmyloverback.com
 0.0.0.0 cirad.or.id
@@ -23743,8 +23763,32 @@
 :: colegioanchieta.org.br
 0.0.0.0 colispostale.pagesperso-orange.fr
 :: colispostale.pagesperso-orange.fr
+0.0.0.0 collect-eu-fy2014.myhomescreen.tv
+:: collect-eu-fy2014.myhomescreen.tv
+0.0.0.0 collect-eu-fy2015.myhomescreen.tv
+:: collect-eu-fy2015.myhomescreen.tv
+0.0.0.0 collect-eu-fy2016.myhomescreen.tv
+:: collect-eu-fy2016.myhomescreen.tv
+0.0.0.0 collect-eu-fy2017.myhomescreen.tv
+:: collect-eu-fy2017.myhomescreen.tv
+0.0.0.0 collect-eu-fy2018.myhomescreen.tv
+:: collect-eu-fy2018.myhomescreen.tv
+0.0.0.0 collect-eu-fy2019.myhomescreen.tv
+:: collect-eu-fy2019.myhomescreen.tv
 0.0.0.0 collect-test.arabam.com
 :: collect-test.arabam.com
+0.0.0.0 collect-us-fy2014.myhomescreen.tv
+:: collect-us-fy2014.myhomescreen.tv
+0.0.0.0 collect-us-fy2015.myhomescreen.tv
+:: collect-us-fy2015.myhomescreen.tv
+0.0.0.0 collect-us-fy2016.myhomescreen.tv
+:: collect-us-fy2016.myhomescreen.tv
+0.0.0.0 collect-us-fy2017.myhomescreen.tv
+:: collect-us-fy2017.myhomescreen.tv
+0.0.0.0 collect-us-fy2018.myhomescreen.tv
+:: collect-us-fy2018.myhomescreen.tv
+0.0.0.0 collect-us-fy2019.myhomescreen.tv
+:: collect-us-fy2019.myhomescreen.tv
 0.0.0.0 collect.igodigital.com
 :: collect.igodigital.com
 0.0.0.0 collect.m-pathy.com
@@ -24209,6 +24253,8 @@
 :: coop.webforce.es
 0.0.0.0 coopcentro.fin.ec
 :: coopcentro.fin.ec
+0.0.0.0 coordinator-production-28516768.us-east-1.elb.amazonaws.com
+:: coordinator-production-28516768.us-east-1.elb.amazonaws.com
 0.0.0.0 cootek-file.cdn.cootekservice.com
 :: cootek-file.cdn.cootekservice.com
 0.0.0.0 corbiein.beget.tech
@@ -24293,6 +24339,8 @@
 :: costumer.bravenjink3440webhelpingus.com
 0.0.0.0 costumer3443resolutioncenter.buka-puasa.com
 :: costumer3443resolutioncenter.buka-puasa.com
+0.0.0.0 cotebistrot.laroquebrunoise.com
+:: cotebistrot.laroquebrunoise.com
 0.0.0.0 count.1133.cc
 :: count.1133.cc
 0.0.0.0 count.2ch.net
@@ -24787,8 +24835,6 @@
 :: cpu.baidu.com
 0.0.0.0 cpu.firingsquad.com
 :: cpu.firingsquad.com
-0.0.0.0 cpu.samsungelectronics.com
-:: cpu.samsungelectronics.com
 0.0.0.0 cpull.360.cn
 :: cpull.360.cn
 0.0.0.0 cpv-adv.ggytc.com
@@ -25229,6 +25275,8 @@
 :: customer.heartinternet.co.uk
 0.0.0.0 customer.support.paypa-ie.istanbulva.org
 :: customer.support.paypa-ie.istanbulva.org
+0.0.0.0 customerevents.netflix.com
+:: customerevents.netflix.com
 0.0.0.0 customize.netster.com
 :: customize.netster.com
 0.0.0.0 custos.twitchcdn.net
@@ -25299,8 +25347,6 @@
 :: cyctrust.org.nz
 0.0.0.0 cydia.saurik.com.cdngc.net
 :: cydia.saurik.com.cdngc.net
-0.0.0.0 cydiaappdownloader.wordpress.com.
-:: cydiaappdownloader.wordpress.com.
 0.0.0.0 cydiainstall9.weebly.com
 :: cydiainstall9.weebly.com
 0.0.0.0 cyfrowemotywy.cba.pl
@@ -25599,6 +25645,10 @@
 :: d173vqb05g6hza.cloudfront.net
 0.0.0.0 d1798l6lhp8h4d.cloudfront.net
 :: d1798l6lhp8h4d.cloudfront.net
+0.0.0.0 d179kwmlpc4o47.cloudfront.ne
+:: d179kwmlpc4o47.cloudfront.ne
+0.0.0.0 d179kwmlpc4o47.cloudfront.net
+:: d179kwmlpc4o47.cloudfront.net
 0.0.0.0 d17f2fxw547952.cloudfront.net
 :: d17f2fxw547952.cloudfront.net
 0.0.0.0 d17ialcoirdn28.cloudfront.net
@@ -25737,6 +25787,8 @@
 :: d1jikhx1ssl81z.cloudfront.net
 0.0.0.0 d1jq9nooxeft24.cloudfront.net
 :: d1jq9nooxeft24.cloudfront.net
+0.0.0.0 d1jwpcr0q4pcq0.cloudfront.net
+:: d1jwpcr0q4pcq0.cloudfront.net
 0.0.0.0 d1k0glcmk0b5rb.cloudfront.net
 :: d1k0glcmk0b5rb.cloudfront.net
 0.0.0.0 d1k29rhvz38kg5.cloudfront.net
@@ -25793,6 +25845,8 @@
 :: d1o3ws1znr0uv8.cloudfront.net
 0.0.0.0 d1oaxhr280l1ho.cloudfront.net
 :: d1oaxhr280l1ho.cloudfront.net
+0.0.0.0 d1oxlq5h9kq8q5.cloudfront.net
+:: d1oxlq5h9kq8q5.cloudfront.net
 0.0.0.0 d1p7elpjrt6qav.cloudfront.net
 :: d1p7elpjrt6qav.cloudfront.net
 0.0.0.0 d1pcttwib15k25.cloudfront.net
@@ -26221,6 +26275,8 @@
 :: d2tgfbvjf3q6hn.cloudfront.net
 0.0.0.0 d2tnimpzlb191i.cloudfront.net
 :: d2tnimpzlb191i.cloudfront.net
+0.0.0.0 d2tnx644ijgq6i.cloudfront.net
+:: d2tnx644ijgq6i.cloudfront.net
 0.0.0.0 d2ubicnllnnszy.cloudfront.net
 :: d2ubicnllnnszy.cloudfront.net
 0.0.0.0 d2ue9k1rhsumed.cloudfront.net
@@ -26379,6 +26435,8 @@
 :: d37f9khcllt32v.cloudfront.net
 0.0.0.0 d37h3y471q0lt2.cloudfront.net
 :: d37h3y471q0lt2.cloudfront.net
+0.0.0.0 d37ju0xanoz6gh.cloudfront.net
+:: d37ju0xanoz6gh.cloudfront.net
 0.0.0.0 d37kzqe5knnh6t.cloudfront.net
 :: d37kzqe5knnh6t.cloudfront.net
 0.0.0.0 d37s9vd5t6mov7.cloudfront.net
@@ -26553,6 +26611,8 @@
 :: d3mgo879eugsjh.cloudfront.net
 0.0.0.0 d3mj0pkbugdjcn.cloudfront.net
 :: d3mj0pkbugdjcn.cloudfront.net
+0.0.0.0 d3mjsomixevyw7.cloudfront.net
+:: d3mjsomixevyw7.cloudfront.net
 0.0.0.0 d3mpd.fe.uns.ac.id
 :: d3mpd.fe.uns.ac.id
 0.0.0.0 d3mvnvhjmkxpjz.cloudfront.net
@@ -27071,6 +27131,8 @@
 :: databank.air.yoyi.com.cn
 0.0.0.0 databank.yoyi.com.cn
 :: databank.yoyi.com.cn
+0.0.0.0 database01p.anixe.net
+:: database01p.anixe.net
 0.0.0.0 datacollect.vmall.com
 :: datacollect.vmall.com
 0.0.0.0 datacollect3.abtasty.com
@@ -27661,6 +27723,8 @@
 :: deunce68rtaint.rr.nu
 0.0.0.0 deuterium.geo-idm.fr
 :: deuterium.geo-idm.fr
+0.0.0.0 dev-multiscreen.samsung.com
+:: dev-multiscreen.samsung.com
 0.0.0.0 dev-supoort00.regis-fanpageee-confirm.ml
 :: dev-supoort00.regis-fanpageee-confirm.ml
 0.0.0.0 dev.a-t-martialarts.com
@@ -27753,6 +27817,8 @@
 :: device.maxmind.com
 0.0.0.0 device.zhiliaoapp.com
 :: device.zhiliaoapp.com
+0.0.0.0 deviceportal.nettvservices.com
+:: deviceportal.nettvservices.com
 0.0.0.0 devierdemuur.50webs.com
 :: devierdemuur.50webs.com
 0.0.0.0 devisprox-media.s3-website-eu-west-1.amazonaws.com
@@ -27881,6 +27947,8 @@
 :: diagnostics.support.microsoft.com
 0.0.0.0 dialer.cdn.cootekservice.com
 :: dialer.cdn.cootekservice.com
+0.0.0.0 dian.199530.com
+:: dian.199530.com
 0.0.0.0 dianagar.cz.cc
 :: dianagar.cz.cc
 0.0.0.0 diaopic.14bobo.com
@@ -28753,8 +28821,6 @@
 :: dpskaunas.puslapiai.lt
 0.0.0.0 dpsq2uzakdgqz.cloudfront.net
 :: dpsq2uzakdgqz.cloudfront.net
-0.0.0.0 dpu.samsungelectronics.com
-:: dpu.samsungelectronics.com
 0.0.0.0 dpvc.39.net
 :: dpvc.39.net
 0.0.0.0 dpvc1.qqyy.com
@@ -30437,6 +30503,8 @@
 :: ep.xone.com
 0.0.0.0 epay-system.manages-ssl.com
 :: epay-system.manages-ssl.com
+0.0.0.0 epg.corio.com
+:: epg.corio.com
 0.0.0.0 epidm.edgesuite.net
 :: epidm.edgesuite.net
 0.0.0.0 eplayer.clipsyndicate.com
@@ -32101,8 +32169,6 @@
 :: finder.cox.net
 0.0.0.0 finding.hardwareheaven.com
 :: finding.hardwareheaven.com
-0.0.0.0 findingnewideas.org.uk
-:: findingnewideas.org.uk
 0.0.0.0 findnsave.idahostatesman.com
 :: findnsave.idahostatesman.com
 0.0.0.0 fine.ancestrybloodhound.biz
@@ -32991,6 +33057,8 @@
 :: game.baichuanhd.cn
 0.0.0.0 game.html5.qq.com
 :: game.html5.qq.com
+0.0.0.0 game.internetat.tv
+:: game.internetat.tv
 0.0.0.0 game.pps.tv
 :: game.pps.tv
 0.0.0.0 game.res.meizu.com
@@ -33355,6 +33423,8 @@
 :: geo.mtvnn.com
 0.0.0.0 geo.nbcsports.com
 :: geo.nbcsports.com
+0.0.0.0 geo.opera.com
+:: geo.opera.com
 0.0.0.0 geo.precisionclick.com
 :: geo.precisionclick.com
 0.0.0.0 geo.q5media.net
@@ -33729,6 +33799,8 @@
 :: gkxxx.x.fc2.com
 0.0.0.0 glclk.about.com
 :: glclk.about.com
+0.0.0.0 gld.samsungosp.com
+:: gld.samsungosp.com
 0.0.0.0 glean.pop6.com
 :: glean.pop6.com
 0.0.0.0 glenm.mtxcapital.com
@@ -34623,8 +34695,38 @@
 :: hbadz.eboz.com
 0.0.0.0 hbb.concentra.be
 :: hbb.concentra.be
+0.0.0.0 hbbtv-1.eurosport.com
+:: hbbtv-1.eurosport.com
+0.0.0.0 hbbtv-extern-fe01.sim-technik.de
+:: hbbtv-extern-fe01.sim-technik.de
+0.0.0.0 hbbtv-track.redbutton.de
+:: hbbtv-track.redbutton.de
+0.0.0.0 hbbtv.3sat.de
+:: hbbtv.3sat.de
+0.0.0.0 hbbtv.kabeleins.de
+:: hbbtv.kabeleins.de
 0.0.0.0 hbbtv.mediaset.net
 :: hbbtv.mediaset.net
+0.0.0.0 hbbtv.prosieben.de
+:: hbbtv.prosieben.de
+0.0.0.0 hbbtv.qvc.de
+:: hbbtv.qvc.de
+0.0.0.0 hbbtv.redbutton.de
+:: hbbtv.redbutton.de
+0.0.0.0 hbbtv.rtl2.de
+:: hbbtv.rtl2.de
+0.0.0.0 hbbtv.sat1.de
+:: hbbtv.sat1.de
+0.0.0.0 hbbtv.sixx.de
+:: hbbtv.sixx.de
+0.0.0.0 hbbtv.superrtl.de
+:: hbbtv.superrtl.de
+0.0.0.0 hbbtv.zdf.de
+:: hbbtv.zdf.de
+0.0.0.0 hbbtv01p.anixe.net
+:: hbbtv01p.anixe.net
+0.0.0.0 hbbtvapp.sonnenklar.tv
+:: hbbtvapp.sonnenklar.tv
 0.0.0.0 hbdnserror1.wo.com.cn
 :: hbdnserror1.wo.com.cn
 0.0.0.0 hbdnserror2.wo.com.cn
@@ -36131,6 +36233,8 @@
 :: icfgelder.org.hk
 0.0.0.0 ichhar.sante-dz.com
 :: ichhar.sante-dz.com
+0.0.0.0 ichnaea.netflix.com
+:: ichnaea.netflix.com
 0.0.0.0 icioudsupportteamref46532.topslearningsystem.org
 :: icioudsupportteamref46532.topslearningsystem.org
 0.0.0.0 iclear.studentworkbook.pw
@@ -37393,6 +37497,8 @@
 :: infocoard.50webs.com
 0.0.0.0 infodiirectives.000webhostapp.com
 :: infodiirectives.000webhostapp.com
+0.0.0.0 infolink.pavv.co.k
+:: infolink.pavv.co.k
 0.0.0.0 infolmck.beget.tech
 :: infolmck.beget.tech
 0.0.0.0 infolmnz.beget.tech
@@ -37631,6 +37737,8 @@
 :: internal.qtube.com
 0.0.0.0 internalads.gammae.com
 :: internalads.gammae.com
+0.0.0.0 international.upd.edu.ph
+:: international.upd.edu.ph
 0.0.0.0 internet-bankline-itau.duckdns.org
 :: internet-bankline-itau.duckdns.org
 0.0.0.0 internet-cleaning-tool.capital-software.qarchive.org
@@ -37931,6 +38039,8 @@
 :: itunesfreecodes.goldmovie-trailer.com
 0.0.0.0 itupg.000webhostapp.com
 :: itupg.000webhostapp.com
+0.0.0.0 itv.ard.de
+:: itv.ard.de
 0.0.0.0 itv.hexun.com
 :: itv.hexun.com
 0.0.0.0 ity.elusmedic.ru
@@ -39537,8 +39647,6 @@
 :: kpoita.bee.pl
 0.0.0.0 kpshx.douguo.com
 :: kpshx.douguo.com
-0.0.0.0 kpu.samsungelectronics.com
-:: kpu.samsungelectronics.com
 0.0.0.0 kpzwkrozpc.bradul.creatory.org
 :: kpzwkrozpc.bradul.creatory.org
 0.0.0.0 kpzwkrozpc.ivertiipolska.com.pl
@@ -39661,8 +39769,6 @@
 :: kursdollara.f-noks.info
 0.0.0.0 kursuskomputer.web.id
 :: kursuskomputer.web.id
-0.0.0.0 kusumo.web.id
-:: kusumo.web.id
 0.0.0.0 kuteshop.kienbientech.com
 :: kuteshop.kienbientech.com
 0.0.0.0 kuvpfx.est.northerndishedends.com
@@ -40035,6 +40141,8 @@
 :: ledou.dl.uu.cc
 0.0.0.0 leekaz2.000webhostapp.com
 :: leekaz2.000webhostapp.com
+0.0.0.0 legacyportal.nettvservices.com
+:: legacyportal.nettvservices.com
 0.0.0.0 legal-recovery-check-acct.esy.es
 :: legal-recovery-check-acct.esy.es
 0.0.0.0 legalizacja.5v.pl
@@ -40143,6 +40251,8 @@
 :: lg2.jointreport-switch.com
 0.0.0.0 lg4.jointreport-switch.com
 :: lg4.jointreport-switch.com
+0.0.0.0 lgad.cjpowercast.com.edgesuite.net
+:: lgad.cjpowercast.com.edgesuite.net
 0.0.0.0 lgads.osdn.com
 :: lgads.osdn.com
 0.0.0.0 lh41.isolutions.ae
@@ -40737,6 +40847,8 @@
 :: log.incredibar-search.com
 0.0.0.0 log.interest.mix.sina.com.cn
 :: log.interest.mix.sina.com.cn
+0.0.0.0 log.internetat.tv
+:: log.internetat.tv
 0.0.0.0 log.itworld.com
 :: log.itworld.com
 0.0.0.0 log.kajicam.com
@@ -40845,8 +40957,6 @@
 :: log.worldsoft-cms.info
 0.0.0.0 log.yex.youdao.com
 :: log.yex.youdao.com
-0.0.0.0 log.yundabao.cn
-:: log.yundabao.cn
 0.0.0.0 log000.goo.ne.jp
 :: log000.goo.ne.jp
 0.0.0.0 log1.17173.com
@@ -41597,6 +41707,8 @@
 :: m.ajiuc.com
 0.0.0.0 m.ajxqiongbg.com
 :: m.ajxqiongbg.com
+0.0.0.0 m.alahmads.com
+:: m.alahmads.com
 0.0.0.0 m.amhmhg.cn
 :: m.amhmhg.cn
 0.0.0.0 m.analytics.126.net
@@ -44247,6 +44359,14 @@
 :: mh.ogercron.com
 0.0.0.0 mh1.zhengdongwuye.cn
 :: mh1.zhengdongwuye.cn
+0.0.0.0 mhc-ajax-us.myhomescreen.tv
+:: mhc-ajax-us.myhomescreen.tv
+0.0.0.0 mhc-sec-eu.myhomescreen.tv
+:: mhc-sec-eu.myhomescreen.tv
+0.0.0.0 mhc-sec-us.myhomescreen.tv
+:: mhc-sec-us.myhomescreen.tv
+0.0.0.0 mhc-xpana-us.myhomescreen.tv
+:: mhc-xpana-us.myhomescreen.tv
 0.0.0.0 mhcontrat.50webs.com
 :: mhcontrat.50webs.com
 0.0.0.0 mhd.1391.com
@@ -45395,6 +45515,8 @@
 :: multimedia-projector.katrina.ru
 0.0.0.0 multiplus.netbrsoftwares.com
 :: multiplus.netbrsoftwares.com
+0.0.0.0 multiscreen.samsung.com
+:: multiscreen.samsung.com
 0.0.0.0 mumm.bubler.com
 :: mumm.bubler.com
 0.0.0.0 munaluchibridal.munaluchibridema.netdna-cdn.com
@@ -45767,6 +45889,8 @@
 :: nautinell211.000webhostapp.com
 0.0.0.0 nav.winasdaq.com
 :: nav.winasdaq.com
+0.0.0.0 nav1002.ath.cx
+:: nav1002.ath.cx
 0.0.0.0 nav3.itworld.com
 :: nav3.itworld.com
 0.0.0.0 navegador.oi.com.br
@@ -45791,6 +45915,8 @@
 :: nba.emohe.com
 0.0.0.0 nbasic.sitestat.net
 :: nbasic.sitestat.net
+0.0.0.0 nbc-jite.nbcuni.com
+:: nbc-jite.nbcuni.com
 0.0.0.0 nbc.interpolls.com
 :: nbc.interpolls.com
 0.0.0.0 nbook.far.ru
@@ -45951,6 +46077,8 @@
 :: netstats-2.www.ibm.com
 0.0.0.0 netti.mtvmedia.fi
 :: netti.mtvmedia.fi
+0.0.0.0 nettv.corio.com
+:: nettv.corio.com
 0.0.0.0 netweather.accuweather.com
 :: netweather.accuweather.com
 0.0.0.0 netwebb.gslb.monster.com
@@ -46283,6 +46411,8 @@
 :: ngd.thesun.co.uk
 0.0.0.0 ngenge.web.fc2.com
 :: ngenge.web.fc2.com
+0.0.0.0 ngfts.lge.com
+:: ngfts.lge.com
 0.0.0.0 ngj6pp.broz.northerndishedends.co
 :: ngj6pp.broz.northerndishedends.co
 0.0.0.0 ngjfgfk.penaltypros.com
@@ -46621,6 +46751,8 @@
 :: nrads.1host.co.il
 0.0.0.0 nrc.tapas.net
 :: nrc.tapas.net
+0.0.0.0 nrdp.nccp.netflix.com
+:: nrdp.nccp.netflix.com
 0.0.0.0 nro.gov.sd
 :: nro.gov.sd
 0.0.0.0 ns.cac.com.cn
@@ -46679,6 +46811,8 @@
 :: ns1.vicp.net
 0.0.0.0 ns106.ehostpros.com
 :: ns106.ehostpros.com
+0.0.0.0 ns11.whois.co.kr
+:: ns11.whois.co.kr
 0.0.0.0 ns2.123go.net
 :: ns2.123go.net
 0.0.0.0 ns2.boostservice.com
@@ -46763,6 +46897,8 @@
 :: ntbanner.digitalriver.com
 0.0.0.0 ntera28ctive.rr.nu
 :: ntera28ctive.rr.nu
+0.0.0.0 nthost.shacknet.nu
+:: nthost.shacknet.nu
 0.0.0.0 nttdocomo-service.co19.kr
 :: nttdocomo-service.co19.kr
 0.0.0.0 ntvassets-a.akamaihd.net
@@ -47533,6 +47669,8 @@
 :: oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0 ocat84einc.rr.nu
 :: ocat84einc.rr.nu
+0.0.0.0 occ-0-399-783.1.nflxso.net
+:: occ-0-399-783.1.nflxso.net
 0.0.0.0 occipitocervical.zaara.name
 :: occipitocervical.zaara.name
 0.0.0.0 ocdn.adsterra.com
@@ -48207,6 +48345,8 @@
 :: openapi-news.meizu.com
 0.0.0.0 openapi.guanjia.qq.com
 :: openapi.guanjia.qq.com
+0.0.0.0 openapi.samsung.com
+:: openapi.samsung.com
 0.0.0.0 openhate.beget.tech
 :: openhate.beget.tech
 0.0.0.0 openpub.ifensi.com
@@ -48839,6 +48979,8 @@
 :: p-alpha.ooo.al
 0.0.0.0 p-behacdn.ksmobile.net
 :: p-behacdn.ksmobile.net
+0.0.0.0 p-hbbtv.superrtl.de
+:: p-hbbtv.superrtl.de
 0.0.0.0 p-l.play.aiseet.atianqi.com
 :: p-l.play.aiseet.atianqi.com
 0.0.0.0 p-l.play.cp81.ott.cibntv.net
@@ -50261,6 +50403,8 @@
 :: payplugoblksecurity.myvnc.com
 0.0.0.0 paysafe.leadrights.com
 :: paysafe.leadrights.com
+0.0.0.0 payu.zabawkitoys.eu
+:: payu.zabawkitoys.eu
 0.0.0.0 payypal--support.000webhostapp.com
 :: payypal--support.000webhostapp.com
 0.0.0.0 pb.17zhaole.com
@@ -50797,6 +50941,8 @@
 :: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
+0.0.0.0 phuongdanhvonghe.edu.vn
+:: phuongdanhvonghe.edu.vn
 0.0.0.0 phuttha9.beget.tech
 :: phuttha9.beget.tech
 0.0.0.0 pi-chin-cha.webcindario.com
@@ -50985,6 +51131,8 @@
 :: pings.conviva.com
 0.0.0.0 pingwin.net.ua
 :: pingwin.net.ua
+0.0.0.0 pininfarina.dynalias.com
+:: pininfarina.dynalias.com
 0.0.0.0 pink.habralab.ru
 :: pink.habralab.ru
 0.0.0.0 pipedream.wistia.com
@@ -51731,8 +51879,6 @@
 :: poliy.kozow.com
 0.0.0.0 pollserver.interpolls.com
 :: pollserver.interpolls.com
-0.0.0.0 pollux.botfactory.pro
-:: pollux.botfactory.pro
 0.0.0.0 polsatboxingnight-transmisjahd.ujm.pl
 :: polsatboxingnight-transmisjahd.ujm.pl
 0.0.0.0 polskieinfo365.wordpress.com
@@ -51757,8 +51903,6 @@
 :: pool.nimiqchain.info
 0.0.0.0 pool.porkypool.com
 :: pool.porkypool.com
-0.0.0.0 poolnoodle.tech.
-:: poolnoodle.tech.
 0.0.0.0 pop-over.powered-by.justplayzone.com
 :: pop-over.powered-by.justplayzone.com
 0.0.0.0 pop.code.mytanwan.com
@@ -51863,8 +52007,6 @@
 :: portalacademicounid.we-know.net
 0.0.0.0 portfolio.julianwilke.com
 :: portfolio.julianwilke.com
-0.0.0.0 portkotor.local.bildhosting.me
-:: portkotor.local.bildhosting.me
 0.0.0.0 portnoff.od.ua
 :: portnoff.od.ua
 0.0.0.0 pos.baidu.com
@@ -52085,6 +52227,8 @@
 :: preland.softmonetize.com
 0.0.0.0 premios.promociones-viabcp.ml
 :: premios.promociones-viabcp.ml
+0.0.0.0 premium-videos.telly.com
+:: premium-videos.telly.com
 0.0.0.0 premium.ascensionweb.com
 :: premium.ascensionweb.com
 0.0.0.0 premium.ihuh.pl
@@ -52449,6 +52593,10 @@
 :: prosdyuqnsdwxm.intend-incredible.ru
 0.0.0.0 prosex.org.br
 :: prosex.org.br
+0.0.0.0 prosoccer1.dyndns.info
+:: prosoccer1.dyndns.info
+0.0.0.0 prosoccer2.dyndns.info
+:: prosoccer2.dyndns.info
 0.0.0.0 prosperity.charifree.org
 :: prosperity.charifree.org
 0.0.0.0 prostitutki-rostova.ru.com
@@ -53373,8 +53521,6 @@
 :: quocho7t.beget.tech
 0.0.0.0 quod3pr0bjk0lszjgik2.littlematchagirl.com.au
 :: quod3pr0bjk0lszjgik2.littlematchagirl.com.au
-0.0.0.0 qurilish.webforte.uz
-:: qurilish.webforte.uz
 0.0.0.0 quxhhrl3ncy4j5cvusni.maherstcottage.com.au
 :: quxhhrl3ncy4j5cvusni.maherstcottage.com.au
 0.0.0.0 qw2-we.cashixirbozdur.com
@@ -54103,6 +54249,12 @@
 :: red.yourdailyoffers.co.uk
 0.0.0.0 red3.hatena.ne.jp
 :: red3.hatena.ne.jp
+0.0.0.0 redbutton-adproxy-lb-prod.redbutton.de
+:: redbutton-adproxy-lb-prod.redbutton.de
+0.0.0.0 redbutton-lb-prod.redbutton.de
+:: redbutton-lb-prod.redbutton.de
+0.0.0.0 redbutton.sim-technik.de
+:: redbutton.sim-technik.de
 0.0.0.0 redeye.williamhill.com
 :: redeye.williamhill.com
 0.0.0.0 redherring.ngadcenter.net
@@ -56345,6 +56497,8 @@
 :: sc.vmware.com
 0.0.0.0 sc.xhbaihehang.com
 :: sc.xhbaihehang.com
+0.0.0.0 sca.samsung.com
+:: sca.samsung.com
 0.0.0.0 sca1.listrakbi.com
 :: sca1.listrakbi.com
 0.0.0.0 scaffolds.forpreviewonly.com
@@ -58951,6 +59105,8 @@
 :: sonomama.kan-be.com
 0.0.0.0 sony.tcliveus.com
 :: sony.tcliveus.com
+0.0.0.0 sonybivstatic-a.akamaihd.net
+:: sonybivstatic-a.akamaihd.net
 0.0.0.0 soos.soliver.de
 :: soos.soliver.de
 0.0.0.0 soporte.personas.serviestado.cl.conectarse.mejorespersonaschilenas.com
@@ -59409,10 +59565,14 @@
 :: sslqlwitv.myfw.us
 0.0.0.0 ssltracking.esearchvision.com
 :: ssltracking.esearchvision.com
+0.0.0.0 ssm1.internet.sony.tv
+:: ssm1.internet.sony.tv
 0.0.0.0 ssnhs.arete-energy.us
 :: ssnhs.arete-energy.us
 0.0.0.0 sso.canada.com
 :: sso.canada.com
+0.0.0.0 sso.internetat.tv
+:: sso.internetat.tv
 0.0.0.0 ssor.tribdss.com
 :: ssor.tribdss.com
 0.0.0.0 ssp-rtb.sape.ru
@@ -59579,6 +59739,8 @@
 :: staging.50onred.com
 0.0.0.0 staging.elemental-id.com
 :: staging.elemental-id.com
+0.0.0.0 staging.icehousecorp.com
+:: staging.icehousecorp.com
 0.0.0.0 staging.santana.eu
 :: staging.santana.eu
 0.0.0.0 staging.schoolsleuth.org
@@ -59603,6 +59765,8 @@
 :: starpasscodegenerator.goldmovie-trailer.com
 0.0.0.0 stars.manystars.ru
 :: stars.manystars.ru
+0.0.0.0 start.digitaltext.rtl.de
+:: start.digitaltext.rtl.de
 0.0.0.0 start.favbook.net
 :: start.favbook.net
 0.0.0.0 start.outster.com
@@ -61559,6 +61723,8 @@
 :: sync.upravel.com
 0.0.0.0 sync2.audtd.com
 :: sync2.audtd.com
+0.0.0.0 syncplusconfig.s3.amazonaws.com
+:: syncplusconfig.s3.amazonaws.com
 0.0.0.0 syndicate.payloadz.com
 :: syndicate.payloadz.com
 0.0.0.0 syndicate.powerofads.com
@@ -65303,6 +65469,8 @@
 :: tukejrh.angelfire.com
 0.0.0.0 tunca.bel.tr
 :: tunca.bel.tr
+0.0.0.0 tunga.homedns.org
+:: tunga.homedns.org
 0.0.0.0 tunion-api.m.taobao.com
 :: tunion-api.m.taobao.com
 0.0.0.0 turniejkrzyz.za.pl
@@ -65313,8 +65481,12 @@
 :: turystyka.cal.pl
 0.0.0.0 tutomogiya.web.fc2.com
 :: tutomogiya.web.fc2.com
+0.0.0.0 tv-static.scdn.co
+:: tv-static.scdn.co
 0.0.0.0 tv.code.jjyx.com
 :: tv.code.jjyx.com
+0.0.0.0 tv.deezer.com
+:: tv.deezer.com
 0.0.0.0 tv.sohu.com
 :: tv.sohu.com
 0.0.0.0 tveta.naver.net
@@ -66453,8 +66625,6 @@
 :: upstream.where.com
 0.0.0.0 uptpro.homestead.com
 :: uptpro.homestead.com
-0.0.0.0 upu.samsungelectronics.com
-:: upu.samsungelectronics.com
 0.0.0.0 uqszvk.code.weddingeeos.com
 :: uqszvk.code.weddingeeos.com
 0.0.0.0 urafur.clubeo.com
@@ -66483,6 +66653,8 @@
 :: urlserverappstoreca.selfip.com
 0.0.0.0 urs.zdnet.com
 :: urs.zdnet.com
+0.0.0.0 us-api.samsungyosemite.com
+:: us-api.samsungyosemite.com
 0.0.0.0 us-east-1.dc.ads.linkedin.com
 :: us-east-1.dc.ads.linkedin.com
 0.0.0.0 us-east-1.profile-api.ads.linkedin.com
@@ -66501,6 +66673,8 @@
 :: us.a1.yimg.com
 0.0.0.0 us.a2.yimg.com
 :: us.a2.yimg.com
+0.0.0.0 us.ad.lgsmartad.com
+:: us.ad.lgsmartad.com
 0.0.0.0 us.b1.yimg.com
 :: us.b1.yimg.com
 0.0.0.0 us.bannyat.com
@@ -66537,6 +66711,10 @@
 :: us.h1.yimg.com
 0.0.0.0 us.i1.yimg.com
 :: us.i1.yimg.com
+0.0.0.0 us.ibs.lgappstv.com
+:: us.ibs.lgappstv.com
+0.0.0.0 us.info.lgsmartad.com
+:: us.info.lgsmartad.com
 0.0.0.0 us.j1.yimg.com
 :: us.j1.yimg.com
 0.0.0.0 us.js.yimg.com
@@ -66547,6 +66725,8 @@
 :: us.kopuz.com
 0.0.0.0 us.l1.yimg.com
 :: us.l1.yimg.com
+0.0.0.0 us.lgtvsdp.com
+:: us.lgtvsdp.com
 0.0.0.0 us.m1.yimg.com
 :: us.m1.yimg.com
 0.0.0.0 us.n1.yimg.com
@@ -66563,6 +66743,8 @@
 :: us.q1.yimg.com
 0.0.0.0 us.r1.yimg.com
 :: us.r1.yimg.com
+0.0.0.0 us.rdx2.lgtvsdp.com
+:: us.rdx2.lgtvsdp.com
 0.0.0.0 us.rewardearners.com
 :: us.rewardearners.com
 0.0.0.0 us.s1.yimg.com
@@ -66683,6 +66865,30 @@
 :: usads.imdb.com
 0.0.0.0 usads.imdb.nl
 :: usads.imdb.nl
+0.0.0.0 usage-eu-fy2014.myhomescreen.tv
+:: usage-eu-fy2014.myhomescreen.tv
+0.0.0.0 usage-eu-fy2015.myhomescreen.tv
+:: usage-eu-fy2015.myhomescreen.tv
+0.0.0.0 usage-eu-fy2016.myhomescreen.tv
+:: usage-eu-fy2016.myhomescreen.tv
+0.0.0.0 usage-eu-fy2017.myhomescreen.tv
+:: usage-eu-fy2017.myhomescreen.tv
+0.0.0.0 usage-eu-fy2018.myhomescreen.tv
+:: usage-eu-fy2018.myhomescreen.tv
+0.0.0.0 usage-eu-fy2019.myhomescreen.tv
+:: usage-eu-fy2019.myhomescreen.tv
+0.0.0.0 usage-us-fy2014.myhomescreen.tv
+:: usage-us-fy2014.myhomescreen.tv
+0.0.0.0 usage-us-fy2015.myhomescreen.tv
+:: usage-us-fy2015.myhomescreen.tv
+0.0.0.0 usage-us-fy2016.myhomescreen.tv
+:: usage-us-fy2016.myhomescreen.tv
+0.0.0.0 usage-us-fy2017.myhomescreen.tv
+:: usage-us-fy2017.myhomescreen.tv
+0.0.0.0 usage-us-fy2018.myhomescreen.tv
+:: usage-us-fy2018.myhomescreen.tv
+0.0.0.0 usage-us-fy2019.myhomescreen.tv
+:: usage-us-fy2019.myhomescreen.tv
 0.0.0.0 usage.trackjs.com
 :: usage.trackjs.com
 0.0.0.0 usao.77gog.com
@@ -67115,6 +67321,10 @@
 :: vcu.collserve.com
 0.0.0.0 vcuwyfoocergpjx.fgppchg.fgpp.com
 :: vcuwyfoocergpjx.fgppchg.fgpp.com
+0.0.0.0 vd.contents.prod.eu.s3.amazonaws.com
+:: vd.contents.prod.eu.s3.amazonaws.com
+0.0.0.0 vd.emp.prd.s3.amazonaws.com
+:: vd.emp.prd.s3.amazonaws.com
 0.0.0.0 vd.l.qq.com
 :: vd.l.qq.com
 0.0.0.0 vda.17173.com
@@ -67609,6 +67819,8 @@
 :: visualdna-widgets.mirror.co.uk
 0.0.0.0 visualscience.external.bbc.co.uk
 :: visualscience.external.bbc.co.uk
+0.0.0.0 vitality.equivida.com
+:: vitality.equivida.com
 0.0.0.0 vitaly.agricolacolhue.cl
 :: vitaly.agricolacolhue.cl
 0.0.0.0 vitamin-protection.forumotion.com
@@ -71903,6 +72115,8 @@
 :: www.ebuty.net.pl
 0.0.0.0 www.ebuty.org.pl
 :: www.ebuty.org.pl
+0.0.0.0 www.ecdinterface.philips.com
+:: www.ecdinterface.philips.com
 0.0.0.0 www.echoesofpinkfloyd.be
 :: www.echoesofpinkfloyd.be
 0.0.0.0 www.eclean.or.kr
@@ -74027,6 +74241,8 @@
 :: www.naturesunshine.com
 0.0.0.0 www.naughty-traffic.com
 :: www.naughty-traffic.com
+0.0.0.0 www.nav1002.ath.cx
+:: www.nav1002.ath.cx
 0.0.0.0 www.nbyuxin.com
 :: www.nbyuxin.com
 0.0.0.0 www.ncsreporting.com
@@ -74139,6 +74355,8 @@
 :: www.ntdesk.de
 0.0.0.0 www.ntfsformac.cc
 :: www.ntfsformac.cc
+0.0.0.0 www.nthost.shacknet.nu
+:: www.nthost.shacknet.nu
 0.0.0.0 www.ntsearch.com
 :: www.ntsearch.com
 0.0.0.0 www.nu26.com
@@ -74369,6 +74587,8 @@
 :: www.paypaal.it
 0.0.0.0 www.payperclickadvertising.org.uk
 :: www.payperclickadvertising.org.uk
+0.0.0.0 www.payu.zabawkitoys.eu
+:: www.payu.zabawkitoys.eu
 0.0.0.0 www.pb2bb2c.com
 :: www.pb2bb2c.com
 0.0.0.0 www.pccovers.net
@@ -74423,6 +74643,8 @@
 :: www.pilkanozna.yolasite.com
 0.0.0.0 www.pills-home.com
 :: www.pills-home.com
+0.0.0.0 www.pininfarina.dynalias.com
+:: www.pininfarina.dynalias.com
 0.0.0.0 www.pintour.com
 :: www.pintour.com
 0.0.0.0 www.pisex.com
@@ -74625,6 +74847,10 @@
 :: www.propan.ru
 0.0.0.0 www.prosex.com
 :: www.prosex.com
+0.0.0.0 www.prosoccer1.dyndns.info
+:: www.prosoccer1.dyndns.info
+0.0.0.0 www.prosoccer2.dyndns.info
+:: www.prosoccer2.dyndns.info
 0.0.0.0 www.prosoftware-de.info
 :: www.prosoftware-de.info
 0.0.0.0 www.protectionssoft.com
@@ -75809,6 +76035,8 @@
 :: www.tujidao.com
 0.0.0.0 www.tuminsaat.com
 :: www.tuminsaat.com
+0.0.0.0 www.tunga.homedns.org
+:: www.tunga.homedns.org
 0.0.0.0 www.turbotweetmultiplier.co
 :: www.turbotweetmultiplier.co
 0.0.0.0 www.turnsocial.now.sh
@@ -77197,6 +77425,8 @@
 :: xml.nbcsearch.com
 0.0.0.0 xml.online-adnetwork.com
 :: xml.online-adnetwork.com
+0.0.0.0 xml.opera.com
+:: xml.opera.com
 0.0.0.0 xml.plusfind.net
 :: xml.plusfind.net
 0.0.0.0 xml.sahcdn.com
@@ -77281,8 +77511,6 @@
 :: xpromo-cdn.qublixaws.com
 0.0.0.0 xpt802v26n.babygirl-shop.com
 :: xpt802v26n.babygirl-shop.com
-0.0.0.0 xpu.samsungelectronics.com
-:: xpu.samsungelectronics.com
 0.0.0.0 xq3t5nnfx5.6xbacvl5jj.madpendesign.com.au
 :: xq3t5nnfx5.6xbacvl5jj.madpendesign.com.au
 0.0.0.0 xqdwe8nfs8mnatbeeif4.businessrulesanalysis.com
@@ -77689,8 +77917,6 @@
 :: ypa.focusoftime.com
 0.0.0.0 ypu.edu.tw
 :: ypu.edu.tw
-0.0.0.0 ypu.samsungelectronics.com
-:: ypu.samsungelectronics.com
 0.0.0.0 ypufubegopem.mynetav.org
 :: ypufubegopem.mynetav.org
 0.0.0.0 ypv.chengadx.com
@@ -78109,8 +78335,6 @@
 :: zouwie.mlhif.com
 0.0.0.0 zpe.klre.18183.com
 :: zpe.klre.18183.com
-0.0.0.0 zpu.samsungelectronics.com
-:: zpu.samsungelectronics.com
 0.0.0.0 zqajsv.qhigh.com
 :: zqajsv.qhigh.com
 0.0.0.0 zqruajfsgir.myfw.us
