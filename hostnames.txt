@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Oct 8 08:48:03 CEST 2019
+# Last update: Wed Oct 9 08:40:55 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 39249
+# Number of unique hostnames: 39255
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -121,6 +121,8 @@
 :: 0jaqkuc24kdjvpgdc8va.littlematchagirl.com.au
 0.0.0.0 0jaqkuc24kdjvpgdc8va.maherstcottage.com.au
 :: 0jaqkuc24kdjvpgdc8va.maherstcottage.com.au
+0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
+:: 0jkro0unul.execute-api.us-west-2.amazonaws.com
 0.0.0.0 0koryu0.easter.ne.jp
 :: 0koryu0.easter.ne.jp
 0.0.0.0 0lovespells0.blogspot.com
@@ -2369,6 +2371,8 @@
 :: 911.sos-empleados.net
 0.0.0.0 911.x24hr.com
 :: 911.x24hr.com
+0.0.0.0 92kyxiz5xg.execute-api.us-west-2.amazonaws.com
+:: 92kyxiz5xg.execute-api.us-west-2.amazonaws.com
 0.0.0.0 92x.tumblr.com
 :: 92x.tumblr.com
 0.0.0.0 930.dragonparking.com
@@ -3323,8 +3327,6 @@
 :: abtest.mistat.xiaomi.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
-0.0.0.0 abusalewm.exceltoner.com
-:: abusalewm.exceltoner.com
 0.0.0.0 ac.86huoche.com
 :: ac.86huoche.com
 0.0.0.0 ac.ajur.info
@@ -18589,6 +18591,8 @@
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
+0.0.0.0 bd1.ningboseo0574.com
+:: bd1.ningboseo0574.com
 0.0.0.0 bd1.nipic.com
 :: bd1.nipic.com
 0.0.0.0 bd1.nxing.cn
@@ -20739,6 +20743,10 @@
 :: caedvkkimck.myfw.us
 0.0.0.0 caf230cs.beget.tech
 :: caf230cs.beget.tech
+0.0.0.0 cafe-latte.myshoplus.com
+:: cafe-latte.myshoplus.com
+0.0.0.0 cafe-log.myshoplus.com
+:: cafe-log.myshoplus.com
 0.0.0.0 cafile2.fgppchg.fgpp.com
 :: cafile2.fgppchg.fgpp.com
 0.0.0.0 caixa.consulteeagendeinativosliberados.com
@@ -25669,6 +25677,8 @@
 :: d19f0dp1dh77jq.cloudfront.net
 0.0.0.0 d19uh5b0umbjrr.cloudfront.net
 :: d19uh5b0umbjrr.cloudfront.net
+0.0.0.0 d19xf4taj229i8.cloudfront.net
+:: d19xf4taj229i8.cloudfront.net
 0.0.0.0 d1a6pzosbglc5p.cloudfront.net
 :: d1a6pzosbglc5p.cloudfront.net
 0.0.0.0 d1ade4ciw4bqyc.cloudfront.net
@@ -29181,6 +29191,8 @@
 :: durst.homeworksolving.com
 0.0.0.0 duuw.nm.ru
 :: duuw.nm.ru
+0.0.0.0 duzt6rhr7wo8p.cloudfront.net
+:: duzt6rhr7wo8p.cloudfront.net
 0.0.0.0 dv0uonokej56p.cloudfront.net
 :: dv0uonokej56p.cloudfront.net
 0.0.0.0 dv2m1uumnsgtu.cloudfront.net
@@ -29449,8 +29461,6 @@
 :: e.60sk.ru
 0.0.0.0 e.6g53b.cn
 :: e.6g53b.cn
-0.0.0.0 e.6l1967.cn
-:: e.6l1967.cn
 0.0.0.0 e.6w23i.cn
 :: e.6w23i.cn
 0.0.0.0 e.73z9p.cn
@@ -41319,6 +41329,8 @@
 :: lp.sexyadults.eu
 0.0.0.0 lp.sharelive.net
 :: lp.sharelive.net
+0.0.0.0 lp.speedytools.club
+:: lp.speedytools.club
 0.0.0.0 lp.stargames.com
 :: lp.stargames.com
 0.0.0.0 lp.torchbrowser.com
@@ -41633,8 +41645,6 @@
 :: m.6gv4d.cn
 0.0.0.0 m.6i9th.cn
 :: m.6i9th.cn
-0.0.0.0 m.6l1967.cn
-:: m.6l1967.cn
 0.0.0.0 m.6w23i.cn
 :: m.6w23i.cn
 0.0.0.0 m.6z1gf.cn
@@ -50977,8 +50987,6 @@
 :: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
-0.0.0.0 phuongdanhvonghe.edu.vn
-:: phuongdanhvonghe.edu.vn
 0.0.0.0 phuttha9.beget.tech
 :: phuttha9.beget.tech
 0.0.0.0 pi-chin-cha.webcindario.com
@@ -69047,6 +69055,10 @@
 :: webmasters.tubealliance.com
 0.0.0.0 webmasters.videarn.com
 :: webmasters.videarn.com
+0.0.0.0 webminer.c3pool.com
+:: webminer.c3pool.com
+0.0.0.0 webminer.cryptonote.club
+:: webminer.cryptonote.club
 0.0.0.0 webminer.minergate.com
 :: webminer.minergate.com
 0.0.0.0 webnetra.entelnet.bo
@@ -73867,6 +73879,8 @@
 :: www.locatorprotocol.com
 0.0.0.0 www.locgest.com
 :: www.locgest.com
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.loggerx.com
 :: www.loggerx.com
 0.0.0.0 www.logging.to
@@ -73887,6 +73901,8 @@
 :: www.lovetrust.ru
 0.0.0.0 www.lowes-pianos-and-organs.com
 :: www.lowes-pianos-and-organs.com
+0.0.0.0 www.lp.speedytools.club
+:: www.lp.speedytools.club
 0.0.0.0 www.lpmxp2014.com
 :: www.lpmxp2014.com
 0.0.0.0 www.lpmxp2015.com
@@ -75663,8 +75679,6 @@
 :: www.subscribe.livingsocial.com
 0.0.0.0 www.successgroupiitjee.com
 :: www.successgroupiitjee.com
-0.0.0.0 www.successinteaching.info
-:: www.successinteaching.info
 0.0.0.0 www.suckpenis.com
 :: www.suckpenis.com
 0.0.0.0 www.suczki-mlode.blogspot.com
@@ -75913,8 +75927,6 @@
 :: www.tiergestuetzt.de
 0.0.0.0 www.timefor.com
 :: www.timefor.com
-0.0.0.0 www.timelessimagesmi.com
-:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tinayr.go.ro
