@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Oct 9 08:40:55 CEST 2019
+# Last update: Thu Oct 10 08:36:12 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 39255
+# Number of unique hostnames: 39259
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3327,6 +3327,8 @@
 :: abtest.mistat.xiaomi.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
+0.0.0.0 abusalewm.exceltoner.com
+:: abusalewm.exceltoner.com
 0.0.0.0 ac.86huoche.com
 :: ac.86huoche.com
 0.0.0.0 ac.ajur.info
@@ -13925,8 +13927,6 @@
 :: alleron.andree.free.fr
 0.0.0.0 allisto.rusjohn.ru
 :: allisto.rusjohn.ru
-0.0.0.0 allmp3.hostil.pl
-:: allmp3.hostil.pl
 0.0.0.0 allmusic.c0.pl
 :: allmusic.c0.pl
 0.0.0.0 allsex.atspace.com
@@ -34997,6 +34997,8 @@
 :: hidden-master.linezing.com
 0.0.0.0 hidden.gogoceleb.com
 :: hidden.gogoceleb.com
+0.0.0.0 hiepcuong.kovo.vn
+:: hiepcuong.kovo.vn
 0.0.0.0 hieruu.apicultoresweb.com
 :: hieruu.apicultoresweb.com
 0.0.0.0 higher.dwebsi.tk
@@ -41317,6 +41319,8 @@
 :: lp.koramgame.com
 0.0.0.0 lp.longtailvideo.com
 :: lp.longtailvideo.com
+0.0.0.0 lp.macapps-centers.club
+:: lp.macapps-centers.club
 0.0.0.0 lp.maccleanuptools.com
 :: lp.maccleanuptools.com
 0.0.0.0 lp.plan-q-secret.com
@@ -45331,6 +45335,8 @@
 :: mpn-analytics.mokonocdn.com
 0.0.0.0 mpottgov0001-001-site1.1tempurl.com
 :: mpottgov0001-001-site1.1tempurl.com
+0.0.0.0 mps.yuwenba.cn
+:: mps.yuwenba.cn
 0.0.0.0 mpsjn.nexterp.in
 :: mpsjn.nexterp.in
 0.0.0.0 mpsschool.edu.bd
@@ -48315,6 +48321,8 @@
 :: oowhe.frost-electric-supply.com
 0.0.0.0 op.88dush.com
 :: op.88dush.com
+0.0.0.0 op.cnazb.xyz
+:: op.cnazb.xyz
 0.0.0.0 op.ssp.qq.com
 :: op.ssp.qq.com
 0.0.0.0 opal.webserwer.pl
@@ -50987,6 +50995,8 @@
 :: phpmon.brainsonic.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
+0.0.0.0 phuongdanhvonghe.edu.vn
+:: phuongdanhvonghe.edu.vn
 0.0.0.0 phuttha9.beget.tech
 :: phuttha9.beget.tech
 0.0.0.0 pi-chin-cha.webcindario.com
@@ -58355,6 +58365,8 @@
 :: shoppstop.comood.opsource.net
 0.0.0.0 shopriteco.besaba.com
 :: shopriteco.besaba.com
+0.0.0.0 shopwizz.digital-comet.biz
+:: shopwizz.digital-comet.biz
 0.0.0.0 shouji.yd126.com
 :: shouji.yd126.com
 0.0.0.0 shovi.frost-electric-supply.com
@@ -62793,8 +62805,6 @@
 :: test.dirktuip.nl
 0.0.0.0 test.eduancm.com
 :: test.eduancm.com
-0.0.0.0 test.farstaforvaltning.se
-:: test.farstaforvaltning.se
 0.0.0.0 test.fireonlineradio.com
 :: test.fireonlineradio.com
 0.0.0.0 test.gaxtoa.com
@@ -68069,6 +68079,8 @@
 :: vmpp.comule.com
 0.0.0.0 vn.grab-credit4u.com
 :: vn.grab-credit4u.com
+0.0.0.0 vnedu.kovo.vn
+:: vnedu.kovo.vn
 0.0.0.0 vnks.areteenergy.com
 :: vnks.areteenergy.com
 0.0.0.0 vnx7swmze4mgimpf6i6t125f4n4bkj2f7.uberdescontos.link
@@ -72539,8 +72551,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -73901,6 +73911,8 @@
 :: www.lovetrust.ru
 0.0.0.0 www.lowes-pianos-and-organs.com
 :: www.lowes-pianos-and-organs.com
+0.0.0.0 www.lp.macapps-centers.club
+:: www.lp.macapps-centers.club
 0.0.0.0 www.lp.speedytools.club
 :: www.lp.speedytools.club
 0.0.0.0 www.lpmxp2014.com
@@ -74941,8 +74953,6 @@
 :: www.pub.axiatraders.com
 0.0.0.0 www.pull-3045.kxcdn.com
 :: www.pull-3045.kxcdn.com
-0.0.0.0 www.pulsefl.0catch.com
-:: www.pulsefl.0catch.com
 0.0.0.0 www.puntoit-informatica.com
 :: www.puntoit-informatica.com
 0.0.0.0 www.purplehorses.net
@@ -75335,8 +75345,6 @@
 :: www.servermax.de
 0.0.0.0 www.servertasarimbu.com
 :: www.servertasarimbu.com
-0.0.0.0 www.servipisos.com.ar
-:: www.servipisos.com.ar
 0.0.0.0 www.serwis.kb.help
 :: www.serwis.kb.help
 0.0.0.0 www.sexegratis.com
@@ -75679,6 +75687,8 @@
 :: www.subscribe.livingsocial.com
 0.0.0.0 www.successgroupiitjee.com
 :: www.successgroupiitjee.com
+0.0.0.0 www.successinteaching.info
+:: www.successinteaching.info
 0.0.0.0 www.suckpenis.com
 :: www.suckpenis.com
 0.0.0.0 www.suczki-mlode.blogspot.com
@@ -75927,6 +75937,8 @@
 :: www.tiergestuetzt.de
 0.0.0.0 www.timefor.com
 :: www.timefor.com
+0.0.0.0 www.timelessimagesmi.com
+:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tinayr.go.ro
@@ -76173,8 +76185,6 @@
 :: www.upgradeexplorer.com
 0.0.0.0 www.upi6.pillsstore-c.com
 :: www.upi6.pillsstore-c.com
-0.0.0.0 www.upperlensmagazine.com
-:: www.upperlensmagazine.com
 0.0.0.0 www.urbani.com.au
 :: www.urbani.com.au
 0.0.0.0 www.urdoot.win
@@ -77955,8 +77965,6 @@
 :: your.dailytopdealz.com
 0.0.0.0 yourdailytrailer.yournewtab.com
 :: yourdailytrailer.yournewtab.com
-0.0.0.0 yourimagination.angelcities.com
-:: yourimagination.angelcities.com
 0.0.0.0 yourparty.cba.pl
 :: yourparty.cba.pl
 0.0.0.0 yourpic.msk.ru
