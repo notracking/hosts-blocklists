@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Oct 10 08:36:12 CEST 2019
+# Last update: Fri Oct 11 08:38:10 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 39259
+# Number of unique hostnames: 39263
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -13505,6 +13505,8 @@
 :: agent.maddy.additional.information.checkbackwithus559.com
 0.0.0.0 agent.tamedia.com.tw
 :: agent.tamedia.com.tw
+0.0.0.0 agent31.juming.com
+:: agent31.juming.com
 0.0.0.0 aggiornamento57586546464.altervista.org
 :: aggiornamento57586546464.altervista.org
 0.0.0.0 agl-intl.hotstar.com
@@ -14445,6 +14447,8 @@
 :: analytics.eduxe.com.br
 0.0.0.0 analytics.epublica.de
 :: analytics.epublica.de
+0.0.0.0 analytics.ext.go-tellm.com
+:: analytics.ext.go-tellm.com
 0.0.0.0 analytics.ff.avast.com
 :: analytics.ff.avast.com
 0.0.0.0 analytics.freedom.com
@@ -23757,6 +23761,14 @@
 :: coinbaseboggether.tumblr.com
 0.0.0.0 coinbasespromo.tumblr.com
 :: coinbasespromo.tumblr.com
+0.0.0.0 coincharts.now.sh
+:: coincharts.now.sh
+0.0.0.0 coinhive-proxy-renxoslote.now.sh
+:: coinhive-proxy-renxoslote.now.sh
+0.0.0.0 coins.now.sh
+:: coins.now.sh
+0.0.0.0 coinstash1.now.sh
+:: coinstash1.now.sh
 0.0.0.0 col.eum-appdynamics.com
 :: col.eum-appdynamics.com
 0.0.0.0 col.hztags.net
@@ -31683,8 +31695,6 @@
 :: fdams.qublixaws.com
 0.0.0.0 fdcbn-url-photos.zyro.com
 :: fdcbn-url-photos.zyro.com
-0.0.0.0 fdd.tianhuafund.cn
-:: fdd.tianhuafund.cn
 0.0.0.0 fdg.10eurosbonheur.net
 :: fdg.10eurosbonheur.net
 0.0.0.0 fdl.eu.msn.com
@@ -75687,8 +75697,6 @@
 :: www.subscribe.livingsocial.com
 0.0.0.0 www.successgroupiitjee.com
 :: www.successgroupiitjee.com
-0.0.0.0 www.successinteaching.info
-:: www.successinteaching.info
 0.0.0.0 www.suckpenis.com
 :: www.suckpenis.com
 0.0.0.0 www.suczki-mlode.blogspot.com
