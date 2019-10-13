@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Oct 12 08:38:49 CEST 2019
+# Last update: Sun Oct 13 08:51:11 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 39260
+# Number of unique hostnames: 39261
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -13505,8 +13505,6 @@
 :: agent.maddy.additional.information.checkbackwithus559.com
 0.0.0.0 agent.tamedia.com.tw
 :: agent.tamedia.com.tw
-0.0.0.0 agent31.juming.com
-:: agent31.juming.com
 0.0.0.0 aggiornamento57586546464.altervista.org
 :: aggiornamento57586546464.altervista.org
 0.0.0.0 agl-intl.hotstar.com
@@ -55351,6 +55349,8 @@
 :: rvzr2-a.akamaihd.net
 0.0.0.0 rwq.youle55.com
 :: rwq.youle55.com
+0.0.0.0 rwww.samsungotn.net
+:: rwww.samsungotn.net
 0.0.0.0 rwy653.first.pershoretaxi.co.uk
 :: rwy653.first.pershoretaxi.co.uk
 0.0.0.0 rx9aef.driver-id.ru
@@ -58015,6 +58015,8 @@
 :: services.webestools.com
 0.0.0.0 services.wes.df.telemetry.microsoft.com
 :: services.wes.df.telemetry.microsoft.com
+0.0.0.0 services.zam.com
+:: services.zam.com
 0.0.0.0 services42mobilite3monbell87398nj35enligne903094jcdfkonj.kmpropertysales.com
 :: services42mobilite3monbell87398nj35enligne903094jcdfkonj.kmpropertysales.com
 0.0.0.0 servicesupport.hicloud.com
@@ -72553,8 +72555,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -75239,6 +75239,8 @@
 :: www.samrhamburg.com
 0.0.0.0 www.samsclub33.pochta.ru
 :: www.samsclub33.pochta.ru
+0.0.0.0 www.samsungotn.net
+:: www.samsungotn.net
 0.0.0.0 www.sand-mechanic.ru
 :: www.sand-mechanic.ru
 0.0.0.0 www.sankyo.gr.jp
