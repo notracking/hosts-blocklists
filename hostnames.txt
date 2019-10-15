@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Oct 14 08:34:30 CEST 2019
+# Last update: Tue Oct 15 08:45:24 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 39257
+# Number of unique hostnames: 39278
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -11345,6 +11345,8 @@
 :: adserver.dayrates.com
 0.0.0.0 adserver.dbusiness.com
 :: adserver.dbusiness.com
+0.0.0.0 adserver.dca13.com
+:: adserver.dca13.com
 0.0.0.0 adserver.developersnetwork.com
 :: adserver.developersnetwork.com
 0.0.0.0 adserver.devx.com
@@ -15159,6 +15161,8 @@
 :: api.ipinfodb.com
 0.0.0.0 api.iris.tv
 :: api.iris.tv
+0.0.0.0 api.jsfc8.cn
+:: api.jsfc8.cn
 0.0.0.0 api.ketedata.com
 :: api.ketedata.com
 0.0.0.0 api.lanistaads.com
@@ -20315,6 +20319,8 @@
 :: c.in.msn.com
 0.0.0.0 c.it.msn.com
 :: c.it.msn.com
+0.0.0.0 c.j782e.cn
+:: c.j782e.cn
 0.0.0.0 c.jp.msn.com
 :: c.jp.msn.com
 0.0.0.0 c.k429fma.com
@@ -21327,8 +21333,6 @@
 :: cdn.dirjournal.com
 0.0.0.0 cdn.discoveryad.castoola.tv
 :: cdn.discoveryad.castoola.tv
-0.0.0.0 cdn.districtm.ca
-:: cdn.districtm.ca
 0.0.0.0 cdn.districtm.io
 :: cdn.districtm.io
 0.0.0.0 cdn.doublepimpssl.com
@@ -26235,6 +26239,8 @@
 :: d2o7lat8cdoi27.cloudfront.net
 0.0.0.0 d2o9ozfswytaqz.cloudfront.net
 :: d2o9ozfswytaqz.cloudfront.net
+0.0.0.0 d2oa97wrxvxm7y.cloudfront.net
+:: d2oa97wrxvxm7y.cloudfront.net
 0.0.0.0 d2oallm7wrqvmi.cloudfront.net
 :: d2oallm7wrqvmi.cloudfront.net
 0.0.0.0 d2od2b2huvmzuj.cloudfront.net
@@ -26527,6 +26533,8 @@
 :: d3cxv97fi8q177.cloudfront.net
 0.0.0.0 d3d.3dwwwgame.com
 :: d3d.3dwwwgame.com
+0.0.0.0 d3d52lhoy0sh2w.cloudfront.net
+:: d3d52lhoy0sh2w.cloudfront.net
 0.0.0.0 d3d5har4hmweni.cloudfront.net
 :: d3d5har4hmweni.cloudfront.net
 0.0.0.0 d3d6wi7c7pa6m0.cloudfront.net
@@ -29425,6 +29433,8 @@
 :: e.1zq4lj.cn
 0.0.0.0 e.21lxb.cn
 :: e.21lxb.cn
+0.0.0.0 e.2hqd0b.cn
+:: e.2hqd0b.cn
 0.0.0.0 e.2j75d.cn
 :: e.2j75d.cn
 0.0.0.0 e.2l06k.cn
@@ -29579,6 +29589,8 @@
 :: e.gglay.com
 0.0.0.0 e.gjiaj.com
 :: e.gjiaj.com
+0.0.0.0 e.gkz39.cn
+:: e.gkz39.cn
 0.0.0.0 e.glaef.cn
 :: e.glaef.cn
 0.0.0.0 e.gnfpzc.cn
@@ -29683,6 +29695,8 @@
 :: e.njiet.com
 0.0.0.0 e.nmsxi.cn
 :: e.nmsxi.cn
+0.0.0.0 e.nsjpu.com
+:: e.nsjpu.com
 0.0.0.0 e.o5vm6c.cn
 :: e.o5vm6c.cn
 0.0.0.0 e.ofuda.cc
@@ -29723,6 +29737,8 @@
 :: e.rgjrq.cn
 0.0.0.0 e.ricpt.com
 :: e.ricpt.com
+0.0.0.0 e.rkw29.cn
+:: e.rkw29.cn
 0.0.0.0 e.rp71l.cn
 :: e.rp71l.cn
 0.0.0.0 e.s0o5g.cn
@@ -29805,6 +29821,8 @@
 :: e.wduis.com
 0.0.0.0 e.wj57g.cn
 :: e.wj57g.cn
+0.0.0.0 e.wkm89.cn
+:: e.wkm89.cn
 0.0.0.0 e.wlues.com
 :: e.wlues.com
 0.0.0.0 e.wqiuj.com
@@ -31173,6 +31191,8 @@
 :: f3.p0y.com
 0.0.0.0 f3.souid.com
 :: f3.souid.com
+0.0.0.0 f3fea4450e3b.xzccie.com
+:: f3fea4450e3b.xzccie.com
 0.0.0.0 f4.p0y.com
 :: f4.p0y.com
 0.0.0.0 f4ds4g6253dh737d648h7j6489.000webhostapp.com
@@ -42011,6 +42031,8 @@
 :: m.gglay.com
 0.0.0.0 m.gjiaj.com
 :: m.gjiaj.com
+0.0.0.0 m.gkz39.cn
+:: m.gkz39.cn
 0.0.0.0 m.glaef.cn
 :: m.glaef.cn
 0.0.0.0 m.gnfpzc.cn
@@ -42113,6 +42135,8 @@
 :: m.jc9388.com
 0.0.0.0 m.jdhq188.cn
 :: m.jdhq188.cn
+0.0.0.0 m.jg59q.cn
+:: m.jg59q.cn
 0.0.0.0 m.jganv.com
 :: m.jganv.com
 0.0.0.0 m.jhcgood.com
@@ -42241,6 +42265,8 @@
 :: m.nouaa.com
 0.0.0.0 m.nqut.cn
 :: m.nqut.cn
+0.0.0.0 m.nsjpu.com
+:: m.nsjpu.com
 0.0.0.0 m.o4hpc.cn
 :: m.o4hpc.cn
 0.0.0.0 m.o5vm6c.cn
@@ -42309,6 +42335,8 @@
 :: m.rhcapass.com
 0.0.0.0 m.ricpt.com
 :: m.ricpt.com
+0.0.0.0 m.rkw29.cn
+:: m.rkw29.cn
 0.0.0.0 m.rp71l.cn
 :: m.rp71l.cn
 0.0.0.0 m.rrsdl.com
@@ -42463,6 +42491,8 @@
 :: m.wduis.com
 0.0.0.0 m.wgewj.cn
 :: m.wgewj.cn
+0.0.0.0 m.wkm89.cn
+:: m.wkm89.cn
 0.0.0.0 m.wlues.com
 :: m.wlues.com
 0.0.0.0 m.wnxcg.com
@@ -42569,6 +42599,10 @@
 :: m.zg39b.cn
 0.0.0.0 m.zhipianwu.com
 :: m.zhipianwu.com
+0.0.0.0 m.zhongfujiaoyu.cn
+:: m.zhongfujiaoyu.cn
+0.0.0.0 m.zkp53.cn
+:: m.zkp53.cn
 0.0.0.0 m.zq4ka.cn
 :: m.zq4ka.cn
 0.0.0.0 m.zvfuka.cn
@@ -44801,6 +44835,8 @@
 :: mldy.yxxgab.cn
 0.0.0.0 mldys.mfis6.cn
 :: mldys.mfis6.cn
+0.0.0.0 mldys.mqchy.cn
+:: mldys.mqchy.cn
 0.0.0.0 mlog.aipai.com
 :: mlog.aipai.com
 0.0.0.0 mlog.hiido.com
@@ -45615,6 +45651,8 @@
 :: mvchallenges.s3-website-eu-west-1.amazonaws.com
 0.0.0.0 mvduk.kiev.ua
 :: mvduk.kiev.ua
+0.0.0.0 mvo.nefcd.xyz
+:: mvo.nefcd.xyz
 0.0.0.0 mvo.nwffx.xyz
 :: mvo.nwffx.xyz
 0.0.0.0 mvo.ythbr.xyz
@@ -52257,8 +52295,6 @@
 :: prcappzone.intel.com
 0.0.0.0 pre.footprintpredict.com
 :: pre.footprintpredict.com
-0.0.0.0 prebid.districtm.ca
-:: prebid.districtm.ca
 0.0.0.0 predmety.in.ua
 :: predmety.in.ua
 0.0.0.0 prefer.gutterhelment.com
@@ -67177,6 +67213,8 @@
 :: v.vomedia.tv
 0.0.0.0 v.wpimg.pl
 :: v.wpimg.pl
+0.0.0.0 v.xinshide.cn
+:: v.xinshide.cn
 0.0.0.0 v0.stat.ku6.com
 :: v0.stat.ku6.com
 0.0.0.0 v1-feed.idreamsky.com
@@ -72863,6 +72901,8 @@
 :: www.greensustainabilitycoach.com
 0.0.0.0 www.greentools.com.tr
 :: www.greentools.com.tr
+0.0.0.0 www.grjs01.com
+:: www.grjs01.com
 0.0.0.0 www.group-metrics.com
 :: www.group-metrics.com
 0.0.0.0 www.grouphappy.com
@@ -76351,6 +76391,8 @@
 :: www.w1a.cc
 0.0.0.0 www.w3counter.com
 :: www.w3counter.com
+0.0.0.0 www.w4pma.cn
+:: www.w4pma.cn
 0.0.0.0 www.wakadoo.dk
 :: www.wakadoo.dk
 0.0.0.0 www.wallyontheweb.com
