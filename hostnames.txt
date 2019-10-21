@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Oct 20 08:26:47 CEST 2019
+# Last update: Mon Oct 21 08:27:57 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 39300
+# Number of unique hostnames: 39297
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -13971,6 +13971,8 @@
 :: alpventures.bravejournal.com
 0.0.0.0 alrafidain.n-idea.us
 :: alrafidain.n-idea.us
+0.0.0.0 als-svc.nytimes.com
+:: als-svc.nytimes.com
 0.0.0.0 als.baidu.com
 :: als.baidu.com
 0.0.0.0 alt.24x7loan.com
@@ -19867,6 +19869,8 @@
 :: bt641499.gotoip4.com
 0.0.0.0 btcgroup.lgg.ru
 :: btcgroup.lgg.ru
+0.0.0.0 btcprofit.onlinetradingplatform.pro
+:: btcprofit.onlinetradingplatform.pro
 0.0.0.0 btfile.mycosmetiks.fr
 :: btfile.mycosmetiks.fr
 0.0.0.0 btg.mtvnservices.com
@@ -27965,8 +27969,6 @@
 :: diagnostics.support.microsoft.com
 0.0.0.0 dialer.cdn.cootekservice.com
 :: dialer.cdn.cootekservice.com
-0.0.0.0 dian.199530.com
-:: dian.199530.com
 0.0.0.0 dianagar.cz.cc
 :: dianagar.cz.cc
 0.0.0.0 diaopic.14bobo.com
@@ -39801,6 +39803,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -41765,8 +41769,6 @@
 :: m.ajiuc.com
 0.0.0.0 m.ajxqiongbg.com
 :: m.ajxqiongbg.com
-0.0.0.0 m.alahmads.com
-:: m.alahmads.com
 0.0.0.0 m.amhmhg.cn
 :: m.amhmhg.cn
 0.0.0.0 m.analytics.126.net
@@ -42615,8 +42617,6 @@
 :: m.zg39b.cn
 0.0.0.0 m.zhipianwu.com
 :: m.zhipianwu.com
-0.0.0.0 m.zhongfujiaoyu.cn
-:: m.zhongfujiaoyu.cn
 0.0.0.0 m.zkp53.cn
 :: m.zkp53.cn
 0.0.0.0 m.zq4ka.cn
@@ -51909,8 +51909,6 @@
 :: png.lu.sogoucdn.com
 0.0.0.0 pnmgghschool.edu.bd
 :: pnmgghschool.edu.bd
-0.0.0.0 pntc.ac.th
-:: pntc.ac.th
 0.0.0.0 po.fyybox.com
 :: po.fyybox.com
 0.0.0.0 po.spynets.ru
@@ -55277,6 +55275,8 @@
 :: rt.globalmailer.com
 0.0.0.0 rt.globo.com
 :: rt.globo.com
+0.0.0.0 rt.inistrack.net
+:: rt.inistrack.net
 0.0.0.0 rt.prnewswire.com
 :: rt.prnewswire.com
 0.0.0.0 rt.rakuten.co.jp
@@ -70445,8 +70445,6 @@
 :: www.15b37.skroc.pl
 0.0.0.0 www.163ren.com
 :: www.163ren.com
-0.0.0.0 www.17bqg.top
-:: www.17bqg.top
 0.0.0.0 www.17k.originalsafteyredir.com
 :: www.17k.originalsafteyredir.com
 0.0.0.0 www.17zhaole.com
@@ -72617,8 +72615,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -76433,8 +76429,6 @@
 :: www.w1a.cc
 0.0.0.0 www.w3counter.com
 :: www.w3counter.com
-0.0.0.0 www.w4pma.cn
-:: www.w4pma.cn
 0.0.0.0 www.wakadoo.dk
 :: www.wakadoo.dk
 0.0.0.0 www.wallyontheweb.com
