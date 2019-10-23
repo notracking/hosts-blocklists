@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Tue Oct 22 08:50:59 CEST 2019
+# Last update: Wed Oct 23 08:45:39 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 39027
+# Number of unique hostnames: 39030
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -23423,8 +23423,6 @@
 :: cmonitor.iqiyi.com
 0.0.0.0 cmop.mgtv.com
 :: cmop.mgtv.com
-0.0.0.0 cmp.dreamlab.pl
-:: cmp.dreamlab.pl
 0.0.0.0 cmp.entertainmentcrave.com
 :: cmp.entertainmentcrave.com
 0.0.0.0 cmp.vidcoin.com
@@ -25785,6 +25783,8 @@
 :: d1qqddufal4d58.cloudfront.net
 0.0.0.0 d1qtf1avwa1wvl.cloudfront.net
 :: d1qtf1avwa1wvl.cloudfront.net
+0.0.0.0 d1r90st78epsag.cloudfront.net
+:: d1r90st78epsag.cloudfront.net
 0.0.0.0 d1rb5wwywwoqqm.cloudfront.net
 :: d1rb5wwywwoqqm.cloudfront.net
 0.0.0.0 d1rdh3xxuqlqfo.cloudfront.net
@@ -32977,6 +32977,8 @@
 :: gameads.digyourowngrave.com
 0.0.0.0 gameanalisys.appcpi.net
 :: gameanalisys.appcpi.net
+0.0.0.0 gameanalysis.appcpi.net
+:: gameanalysis.appcpi.net
 0.0.0.0 gamebox.kugou.com
 :: gamebox.kugou.com
 0.0.0.0 gamecenter.iqiyi.com
@@ -37715,6 +37717,8 @@
 :: iphoneunlocker.org.uk
 0.0.0.0 ipic.staticsdo.com
 :: ipic.staticsdo.com
+0.0.0.0 ipko.pl-weryfikacja-konta-bank-pko.j.pl
+:: ipko.pl-weryfikacja-konta-bank-pko.j.pl
 0.0.0.0 ipl.t-liga.ru
 :: ipl.t-liga.ru
 0.0.0.0 ipm-provider.ff.avast.com
@@ -48543,6 +48547,8 @@
 :: oth.eve.mdt.qq.com
 0.0.0.0 oth.str.mdt.qq.com
 :: oth.str.mdt.qq.com
+0.0.0.0 other.appcpi.net
+:: other.appcpi.net
 0.0.0.0 otheve.play.aiseet.atianqi.com
 :: otheve.play.aiseet.atianqi.com
 0.0.0.0 othstr.play.aiseet.atianqi.com
@@ -66855,6 +66861,8 @@
 :: v.velaro.com
 0.0.0.0 v.vomedia.tv
 :: v.vomedia.tv
+0.0.0.0 v.wpimg.pl
+:: v.wpimg.pl
 0.0.0.0 v.xinshide.cn
 :: v.xinshide.cn
 0.0.0.0 v0.stat.ku6.com
@@ -71747,8 +71755,6 @@
 :: www.duiba.com.cn
 0.0.0.0 www.dukewayne.talktalk.net
 :: www.dukewayne.talktalk.net
-0.0.0.0 www.dulceselsombreron.com
-:: www.dulceselsombreron.com
 0.0.0.0 www.duolaimi.net
 :: www.duolaimi.net
 0.0.0.0 www.dutchsales.org
@@ -72921,6 +72927,8 @@
 :: www.iperbanner.com
 0.0.0.0 www.ipfovdeqdenaries.review
 :: www.ipfovdeqdenaries.review
+0.0.0.0 www.ipko.pl-weryfikacja-konta-bank-pko.j.pl
+:: www.ipko.pl-weryfikacja-konta-bank-pko.j.pl
 0.0.0.0 www.ipm.upel.edu.ve
 :: www.ipm.upel.edu.ve
 0.0.0.0 www.ipnwombonefish.review
@@ -74867,8 +74875,6 @@
 :: www.scoutvda.it
 0.0.0.0 www.scribol.com
 :: www.scribol.com
-0.0.0.0 www.sdfbd.org
-:: www.sdfbd.org
 0.0.0.0 www.sdkconfig.ad.intl.xiaomi.com
 :: www.sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 www.sdlpgift.com
