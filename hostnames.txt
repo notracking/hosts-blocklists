@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Oct 23 08:45:39 CEST 2019
+# Last update: Thu Oct 24 08:56:14 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 39030
+# Number of unique hostnames: 39021
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -13397,6 +13397,8 @@
 :: affl.sucuri.net
 0.0.0.0 afflow.18-plus.net
 :: afflow.18-plus.net
+0.0.0.0 afflow.amazonpresent.info
+:: afflow.amazonpresent.info
 0.0.0.0 afftracking.justanswer.com
 :: afftracking.justanswer.com
 0.0.0.0 afiliados.kads.com.br
@@ -18979,6 +18981,8 @@
 :: bicpzone.wwwsgss2.a2hosted.com
 0.0.0.0 bid.axiatraders.com
 :: bid.axiatraders.com
+0.0.0.0 bidbarrel.cbsnews.com
+:: bidbarrel.cbsnews.com
 0.0.0.0 bidder.mdspinc.com
 :: bidder.mdspinc.com
 0.0.0.0 big.sddan.com
@@ -29303,8 +29307,6 @@
 :: e.1zq4lj.cn
 0.0.0.0 e.21lxb.cn
 :: e.21lxb.cn
-0.0.0.0 e.2hqd0b.cn
-:: e.2hqd0b.cn
 0.0.0.0 e.2j75d.cn
 :: e.2j75d.cn
 0.0.0.0 e.2l06k.cn
@@ -29739,8 +29741,6 @@
 :: e.yycqc.com
 0.0.0.0 e.zg39b.cn
 :: e.zg39b.cn
-0.0.0.0 e.zu08e.cn
-:: e.zu08e.cn
 0.0.0.0 e.zvfuka.cn
 :: e.zvfuka.cn
 0.0.0.0 e2.molbuk.ua
@@ -30117,8 +30117,6 @@
 :: elb.qublixaws.com
 0.0.0.0 elbcradio.tcalr.org
 :: elbcradio.tcalr.org
-0.0.0.0 electricfence.levsantronic.ro
-:: electricfence.levsantronic.ro
 0.0.0.0 electro.demos.su
 :: electro.demos.su
 0.0.0.0 electrohemostasis.makemoneywithmegan.net
@@ -30147,8 +30145,6 @@
 :: ellusakit.000webhostapp.com
 0.0.0.0 ellylldan.demos.su
 :: ellylldan.demos.su
-0.0.0.0 elma.7080.ru
-:: elma.7080.ru
 0.0.0.0 elmar.rzeszow.pl
 :: elmar.rzeszow.pl
 0.0.0.0 eloquent-thompson-93ac4c.netlify.com
@@ -31687,8 +31683,6 @@
 :: festigenvaiennut.onlypositivesphotography.com
 0.0.0.0 festival.cocobau.com
 :: festival.cocobau.com
-0.0.0.0 festivalguy.bravepages.com
-:: festivalguy.bravepages.com
 0.0.0.0 feu7654te.isa-geek.org
 :: feu7654te.isa-geek.org
 0.0.0.0 fewfshgrge.cecilialagoons.com
@@ -39585,8 +39579,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -42387,8 +42379,6 @@
 :: m.zkp53.cn
 0.0.0.0 m.zq4ka.cn
 :: m.zq4ka.cn
-0.0.0.0 m.zu08e.cn
-:: m.zu08e.cn
 0.0.0.0 m.zvfuka.cn
 :: m.zvfuka.cn
 0.0.0.0 m0-s.san.ru
@@ -46343,6 +46333,8 @@
 :: nkbzryw.republika.pl
 0.0.0.0 nkedu1.go.th
 :: nkedu1.go.th
+0.0.0.0 nkis.nikkei.com
+:: nkis.nikkei.com
 0.0.0.0 nl-moneyou.netmining.com
 :: nl-moneyou.netmining.com
 0.0.0.0 nl-saab.netmining.com
@@ -47565,6 +47557,8 @@
 :: offers.bittorrent.com
 0.0.0.0 offers.bycontext.com
 :: offers.bycontext.com
+0.0.0.0 offers.cloackp.com
+:: offers.cloackp.com
 0.0.0.0 offers.dooyoo.de
 :: offers.dooyoo.de
 0.0.0.0 offers.egroups.com
@@ -50461,8 +50455,6 @@
 :: peindre.asso.fr
 0.0.0.0 pelli.mzf.cz
 :: pelli.mzf.cz
-0.0.0.0 peloteros1.50webs.com
-:: peloteros1.50webs.com
 0.0.0.0 pen.kidsonboats.net
 :: pen.kidsonboats.net
 0.0.0.0 pen.zzn.com
@@ -60961,8 +60953,6 @@
 :: strip.alicdn.com
 0.0.0.0 strip.taobaocdn.com
 :: strip.taobaocdn.com
-0.0.0.0 stripe.rs-1028-a.com
-:: stripe.rs-1028-a.com
 0.0.0.0 stripensrq.global.ssl.fastly.net
 :: stripensrq.global.ssl.fastly.net
 0.0.0.0 struct.nt-com.co
@@ -63873,6 +63863,8 @@
 :: track.scrillaspace.com
 0.0.0.0 track.searchignite.com
 :: track.searchignite.com
+0.0.0.0 track.searchiq.co
+:: track.searchiq.co
 0.0.0.0 track.securedvisit.com
 :: track.securedvisit.com
 0.0.0.0 track.send-crm.pro
@@ -65609,8 +65601,6 @@
 :: ultra1.socomm.net
 0.0.0.0 ultra2.tsinghua.edu.cn
 :: ultra2.tsinghua.edu.cn
-0.0.0.0 ultraman.dax.ru
-:: ultraman.dax.ru
 0.0.0.0 uma.gtags.net
 :: uma.gtags.net
 0.0.0.0 umid.orion.meizu.com
@@ -70291,8 +70281,6 @@
 :: www.act.poznan.pl
 0.0.0.0 www.actiagroup.com
 :: www.actiagroup.com
-0.0.0.0 www.actiogen.com
-:: www.actiogen.com
 0.0.0.0 www.action.ientry.net
 :: www.action.ientry.net
 0.0.0.0 www.activedriver.com
@@ -71187,8 +71175,6 @@
 :: www.carloabati.com
 0.0.0.0 www.carrelliusati.it
 :: www.carrelliusati.it
-0.0.0.0 www.carrosserie-promocar.net
-:: www.carrosserie-promocar.net
 0.0.0.0 www.cartoonporn.biz
 :: www.cartoonporn.biz
 0.0.0.0 www.casalparis.cat
@@ -71245,8 +71231,6 @@
 :: www.cdirealestate.com
 0.0.0.0 www.cdn.beginads.com
 :: www.cdn.beginads.com
-0.0.0.0 www.ceccosport.it
-:: www.ceccosport.it
 0.0.0.0 www.ceisystems.it
 :: www.ceisystems.it
 0.0.0.0 www.cellularbeton.it
@@ -71307,8 +71291,6 @@
 :: www.ciapparelli.com
 0.0.0.0 www.cifor.com
 :: www.cifor.com
-0.0.0.0 www.cioccolatopaolillo.it
-:: www.cioccolatopaolillo.it
 0.0.0.0 www.ciqugasox.cn
 :: www.ciqugasox.cn
 0.0.0.0 www.citaly.it
@@ -73521,8 +73503,6 @@
 :: www.luarisharif.com
 0.0.0.0 www.luckyday.world
 :: www.luckyday.world
-0.0.0.0 www.luigi-varsalona.net
-:: www.luigi-varsalona.net
 0.0.0.0 www.lx167.com
 :: www.lx167.com
 0.0.0.0 www.lydaoyou.com
@@ -74099,6 +74079,8 @@
 :: www.one-clap.jp
 0.0.0.0 www.one-door.com
 :: www.one-door.com
+0.0.0.0 www.onesafe-software.com
+:: www.onesafe-software.com
 0.0.0.0 www.onetad.com
 :: www.onetad.com
 0.0.0.0 www.onewhee.com
@@ -74875,6 +74857,8 @@
 :: www.scoutvda.it
 0.0.0.0 www.scribol.com
 :: www.scribol.com
+0.0.0.0 www.sdfbd.org
+:: www.sdfbd.org
 0.0.0.0 www.sdkconfig.ad.intl.xiaomi.com
 :: www.sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 www.sdlpgift.com
@@ -75817,8 +75801,6 @@
 :: www.vanetti.it
 0.0.0.0 www.vangmobi.com
 :: www.vangmobi.com
-0.0.0.0 www.vanhoenacker.net
-:: www.vanhoenacker.net
 0.0.0.0 www.vaultsappsbyte.com
 :: www.vaultsappsbyte.com
 0.0.0.0 www.vayvonvietcombank24h.net
