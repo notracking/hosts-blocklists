@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Oct 24 08:56:14 CEST 2019
+# Last update: Fri Oct 25 08:31:08 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 39021
+# Number of unique hostnames: 39022
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -39579,6 +39579,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -40127,8 +40129,6 @@
 :: lib.rus.ec
 0.0.0.0 lib.trafit.com
 :: lib.trafit.com
-0.0.0.0 lib.wtg-ads.com
-:: lib.wtg-ads.com
 0.0.0.0 lib.yoll.net
 :: lib.yoll.net
 0.0.0.0 liba.haotv8.com
@@ -70281,6 +70281,8 @@
 :: www.act.poznan.pl
 0.0.0.0 www.actiagroup.com
 :: www.actiagroup.com
+0.0.0.0 www.actiogen.com
+:: www.actiogen.com
 0.0.0.0 www.action.ientry.net
 :: www.action.ientry.net
 0.0.0.0 www.activedriver.com
@@ -71737,6 +71739,8 @@
 :: www.duiba.com.cn
 0.0.0.0 www.dukewayne.talktalk.net
 :: www.dukewayne.talktalk.net
+0.0.0.0 www.dulceselsombreron.com
+:: www.dulceselsombreron.com
 0.0.0.0 www.duolaimi.net
 :: www.duolaimi.net
 0.0.0.0 www.dutchsales.org
@@ -73463,8 +73467,6 @@
 :: www.locatorprotocol.com
 0.0.0.0 www.locgest.com
 :: www.locgest.com
-0.0.0.0 www.log-in-verlag.de
-:: www.log-in-verlag.de
 0.0.0.0 www.loggerx.com
 :: www.loggerx.com
 0.0.0.0 www.logging.to
