@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Oct 25 08:31:08 CEST 2019
+# Last update: Sat Oct 26 08:33:54 CEST 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 39022
+# Number of unique hostnames: 39016
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -697,6 +697,8 @@
 :: 28.securefinds2.com
 0.0.0.0 283.laobanfa.com
 :: 283.laobanfa.com
+0.0.0.0 2837c085a88c1ba307d4594a.cloudhosting.rsaweb.co.za
+:: 2837c085a88c1ba307d4594a.cloudhosting.rsaweb.co.za
 0.0.0.0 290684.en.world-stone.com
 :: 290684.en.world-stone.com
 0.0.0.0 296f4h3wluqxmie0yqbk8n.littlematchagirl.com.au
@@ -19621,8 +19623,6 @@
 :: bpdyttrlp.yi.org
 0.0.0.0 bpt.sragenkab.go.id
 :: bpt.sragenkab.go.id
-0.0.0.0 bptpm.sragenkab.go.id
-:: bptpm.sragenkab.go.id
 0.0.0.0 bpts.8111216.cn
 :: bpts.8111216.cn
 0.0.0.0 bqfqdm96hrbxlo6cc9af.mafe.edu.co
@@ -26459,8 +26459,6 @@
 :: d3f.houyi.baofeng.net
 0.0.0.0 d3f4u3khr0ycep.cloudfront.net
 :: d3f4u3khr0ycep.cloudfront.net
-0.0.0.0 d3f5l8ze0o4j2m.cloudfront.net
-:: d3f5l8ze0o4j2m.cloudfront.net
 0.0.0.0 d3f9mcik999dte.cloudfront.net
 :: d3f9mcik999dte.cloudfront.net
 0.0.0.0 d3fqhkmofpujs3.cloudfront.net
@@ -35547,6 +35545,8 @@
 :: host238.hostmonster.com
 0.0.0.0 hostcpanelverfyonline.16mb.com
 :: hostcpanelverfyonline.16mb.com
+0.0.0.0 hosted.adback.co
+:: hosted.adback.co
 0.0.0.0 hosted.stats.com
 :: hosted.stats.com
 0.0.0.0 hosted.stats.com.edgesuite.net
@@ -39579,8 +39579,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -57111,8 +57109,6 @@
 :: securityinbox6876.000webhostapp.com
 0.0.0.0 securityinfo6467.000webhostapp.com
 :: securityinfo6467.000webhostapp.com
-0.0.0.0 securityinfonuman.000webhostapp.com
-:: securityinfonuman.000webhostapp.com
 0.0.0.0 securityjam.000webhostapp.com
 :: securityjam.000webhostapp.com
 0.0.0.0 securityjamteam113.000webhostapp.com
@@ -67211,8 +67207,6 @@
 :: verifyappleid.validation-apple.co.uk
 0.0.0.0 verifyme.kitaghana.org
 :: verifyme.kitaghana.org
-0.0.0.0 veriiificasion22.registrasi-fanpage-alert23.tk
-:: veriiificasion22.registrasi-fanpage-alert23.tk
 0.0.0.0 veroniud.beget.tech
 :: veroniud.beget.tech
 0.0.0.0 versionsupport.set2updatenowsafesystemset4now.info
@@ -68271,6 +68265,8 @@
 :: wallsfargo0240.000webhostapp.com
 0.0.0.0 walp.atm.youku.com
 :: walp.atm.youku.com
+0.0.0.0 waltersburgburgoon.adback.co
+:: waltersburgburgoon.adback.co
 0.0.0.0 wamanet.virtualave.net
 :: wamanet.virtualave.net
 0.0.0.0 wan.2345.com
@@ -70839,8 +70835,6 @@
 :: www.auctionshare.net
 0.0.0.0 www.audio-book.net.pl
 :: www.audio-book.net.pl
-0.0.0.0 www.auditcitoyen.be
-:: www.auditcitoyen.be
 0.0.0.0 www.auditude.com
 :: www.auditude.com
 0.0.0.0 www.aussiemoneymethod.com
@@ -71073,8 +71067,6 @@
 :: www.browser-statistik.de
 0.0.0.0 www.browsersolution.win
 :: www.browsersolution.win
-0.0.0.0 www.broxlab.com
-:: www.broxlab.com
 0.0.0.0 www.bruciati.com
 :: www.bruciati.com
 0.0.0.0 www.bruining-administraties.nl
@@ -71205,8 +71197,6 @@
 :: www.casinoxo.com
 0.0.0.0 www.catgallery.com
 :: www.catgallery.com
-0.0.0.0 www.caynannews.com
-:: www.caynannews.com
 0.0.0.0 www.cbpassiveincome.com
 :: www.cbpassiveincome.com
 0.0.0.0 www.cbproads.com
@@ -71885,8 +71875,6 @@
 :: www.epwinsupreme.com
 0.0.0.0 www.equilibriumm.com
 :: www.equilibriumm.com
-0.0.0.0 www.equipe4.net
-:: www.equipe4.net
 0.0.0.0 www.erasmusensemble.org
 :: www.erasmusensemble.org
 0.0.0.0 www.ere3j2e001.com
@@ -72925,8 +72913,6 @@
 :: www.iqtestuj.glt.pl
 0.0.0.0 www.iranwebads.com
 :: www.iranwebads.com
-0.0.0.0 www.isaleapp.com
-:: www.isaleapp.com
 0.0.0.0 www.isfilebest.com
 :: www.isfilebest.com
 0.0.0.0 www.isikpandizot.com
@@ -73467,6 +73453,8 @@
 :: www.locatorprotocol.com
 0.0.0.0 www.locgest.com
 :: www.locgest.com
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.loggerx.com
 :: www.loggerx.com
 0.0.0.0 www.logging.to
