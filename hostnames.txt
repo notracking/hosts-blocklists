@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Oct 26 08:33:54 CEST 2019
+# Last update: Sun Oct 27 08:29:55 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 39016
+# Number of unique hostnames: 39011
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -271,6 +271,8 @@
 :: 1.sharkadnetwork.com
 0.0.0.0 1.sj33.net
 :: 1.sj33.net
+0.0.0.0 1.snzfj.net
+:: 1.snzfj.net
 0.0.0.0 1.soufy.cn
 :: 1.soufy.cn
 0.0.0.0 1.tongquee.com
@@ -295,8 +297,6 @@
 :: 1.wenzhangba.cn
 0.0.0.0 1.win7china.com
 :: 1.win7china.com
-0.0.0.0 1.win7sky.com
-:: 1.win7sky.com
 0.0.0.0 1.xiaopin5.com
 :: 1.xiaopin5.com
 0.0.0.0 1.xiaozhizhijia.com
@@ -395,6 +395,8 @@
 :: 119.29.196.104.bc.googleusercontent.com
 0.0.0.0 1224.dxsbb.com
 :: 1224.dxsbb.com
+0.0.0.0 123.39jz.com
+:: 123.39jz.com
 0.0.0.0 123.8w8w8w.com.cn
 :: 123.8w8w8w.com.cn
 0.0.0.0 123.ydylwang.net
@@ -2279,6 +2281,8 @@
 :: 8098.nut.cc
 0.0.0.0 80aczhyfg8v3bu7jzesb.viomil.ro
 :: 80aczhyfg8v3bu7jzesb.viomil.ro
+0.0.0.0 8131.qizhihaotian.cn
+:: 8131.qizhihaotian.cn
 0.0.0.0 817.dopa.com
 :: 817.dopa.com
 0.0.0.0 818.dopa.com
@@ -2427,6 +2431,8 @@
 :: a.198banjia.com
 0.0.0.0 a.1nimo.com
 :: a.1nimo.com
+0.0.0.0 a.4aqq.com
+:: a.4aqq.com
 0.0.0.0 a.52wubi.com
 :: a.52wubi.com
 0.0.0.0 a.52zxw.com
@@ -2511,6 +2517,8 @@
 :: a.bizarremag.com
 0.0.0.0 a.bizhiku.net
 :: a.bizhiku.net
+0.0.0.0 a.booksir.cn
+:: a.booksir.cn
 0.0.0.0 a.bshu.com
 :: a.bshu.com
 0.0.0.0 a.cam4free.com
@@ -2861,6 +2869,8 @@
 :: a.votpusk.ru
 0.0.0.0 a.walla.co.il
 :: a.walla.co.il
+0.0.0.0 a.wanzhuang.com
+:: a.wanzhuang.com
 0.0.0.0 a.watershed-publishing.com
 :: a.watershed-publishing.com
 0.0.0.0 a.wifi33.com
@@ -3341,6 +3351,8 @@
 :: ac.ybinst8.ec.yimg.com
 0.0.0.0 ac.ybinst9.ec.yimg.com
 :: ac.ybinst9.ec.yimg.com
+0.0.0.0 ac1.786ip.com
+:: ac1.786ip.com
 0.0.0.0 ac1.ayee.net
 :: ac1.ayee.net
 0.0.0.0 ac1.faxingchina.com
@@ -5505,8 +5517,6 @@
 :: adb.fling.com
 0.0.0.0 adb.nikkei.co.jp
 :: adb.nikkei.co.jp
-0.0.0.0 adb.wp.pl
-:: adb.wp.pl
 0.0.0.0 adback.tango.me
 :: adback.tango.me
 0.0.0.0 adbana.adultcity.tv
@@ -11007,8 +11017,6 @@
 :: adse.portalmundos.com
 0.0.0.0 adse.ximalaya.com
 :: adse.ximalaya.com
-0.0.0.0 adsearch.wp.pl
-:: adsearch.wp.pl
 0.0.0.0 adsearch.www1.biz
 :: adsearch.www1.biz
 0.0.0.0 adseller.hop.ru
@@ -12367,8 +12375,6 @@
 :: adv.domino.it
 0.0.0.0 adv.dontcrack.com
 :: adv.dontcrack.com
-0.0.0.0 adv.dot.wp.pl
-:: adv.dot.wp.pl
 0.0.0.0 adv.drtuber.com
 :: adv.drtuber.com
 0.0.0.0 adv.ecape.com
@@ -12473,8 +12479,6 @@
 :: adv.quipo.it
 0.0.0.0 adv.r7.com
 :: adv.r7.com
-0.0.0.0 adv.reklama.wp.pl
-:: adv.reklama.wp.pl
 0.0.0.0 adv.riza.it
 :: adv.riza.it
 0.0.0.0 adv.rockstar.bg
@@ -12523,8 +12527,6 @@
 :: adv.webvariant.com
 0.0.0.0 adv.wisdom.bg
 :: adv.wisdom.bg
-0.0.0.0 adv.wp.pl
-:: adv.wp.pl
 0.0.0.0 adv.yo.cz
 :: adv.yo.cz
 0.0.0.0 adv.zapal.ru
@@ -16943,6 +16945,8 @@
 :: b1.91jucai.com
 0.0.0.0 b1.b2b168.com
 :: b1.b2b168.com
+0.0.0.0 b1.b2b168.net
+:: b1.b2b168.net
 0.0.0.0 b1.baomihua.com
 :: b1.baomihua.com
 0.0.0.0 b1.c1km4.com
@@ -17083,8 +17087,6 @@
 :: badges.instagram.com
 0.0.0.0 badservant.guj.de
 :: badservant.guj.de
-0.0.0.0 badv.wp.pl
-:: badv.wp.pl
 0.0.0.0 bag.mobile.system.video.sms13.de
 :: bag.mobile.system.video.sms13.de
 0.0.0.0 bagalambin.000webhostapp.com
@@ -18553,8 +18555,6 @@
 :: bd1.szhk.com
 0.0.0.0 bd1.wowoqq.com
 :: bd1.wowoqq.com
-0.0.0.0 bd1.xiangha.com
-:: bd1.xiangha.com
 0.0.0.0 bd1.xiby.cn
 :: bd1.xiby.cn
 0.0.0.0 bd1.yidu.cc
@@ -18647,6 +18647,8 @@
 :: bdjs.6237237.com
 0.0.0.0 bdjs.6822.com
 :: bdjs.6822.com
+0.0.0.0 bdjs.91zhuti.com
+:: bdjs.91zhuti.com
 0.0.0.0 bdjs.999d.com
 :: bdjs.999d.com
 0.0.0.0 bdjs.a-site.cn
@@ -24239,8 +24241,6 @@
 :: correo.masousa.com
 0.0.0.0 corroshield.estb.com.sg
 :: corroshield.estb.com.sg
-0.0.0.0 corto.www.wp.pl
-:: corto.www.wp.pl
 0.0.0.0 corusads.dserv.ca
 :: corusads.dserv.ca
 0.0.0.0 cosmeticscentre.uk.com
@@ -28195,6 +28195,8 @@
 :: dm.haojuzi.net
 0.0.0.0 dm.huochepiao.com
 :: dm.huochepiao.com
+0.0.0.0 dm.hxzdhn.com
+:: dm.hxzdhn.com
 0.0.0.0 dm.ishuo.cn
 :: dm.ishuo.cn
 0.0.0.0 dm.jb51.net
@@ -28287,6 +28289,8 @@
 :: dmros.ysm.yahoo.com
 0.0.0.0 dmrzwh2nnpd64.cloudfront.net
 :: dmrzwh2nnpd64.cloudfront.net
+0.0.0.0 dmsz.win7sky.com
+:: dmsz.win7sky.com
 0.0.0.0 dmtk.linternaute.com
 :: dmtk.linternaute.com
 0.0.0.0 dmtracking.alibaba.com
@@ -28485,8 +28489,6 @@
 :: dos.velek.com
 0.0.0.0 dot.eporner.com
 :: dot.eporner.com
-0.0.0.0 dot.wp.pl
-:: dot.wp.pl
 0.0.0.0 dot2.eporner.com
 :: dot2.eporner.com
 0.0.0.0 dota2betakeys.hasbeenhacked.org
@@ -30397,8 +30399,6 @@
 :: entry.baidu.com
 0.0.0.0 entry12-bk-mfug-ufj-ssl-salam.grittygirls.org
 :: entry12-bk-mfug-ufj-ssl-salam.grittygirls.org
-0.0.0.0 entryhit.wp.pl
-:: entryhit.wp.pl
 0.0.0.0 enucip.spacefoot.com
 :: enucip.spacefoot.com
 0.0.0.0 eol1.egyptonline.com
@@ -35769,6 +35769,8 @@
 :: hxueu.code.weddingeeos.com
 0.0.0.0 hy-brasil.mhwang.com
 :: hy-brasil.mhwang.com
+0.0.0.0 hy.huangye88.com.cn
+:: hy.huangye88.com.cn
 0.0.0.0 hy.huangye88.net
 :: hy.huangye88.net
 0.0.0.0 hyareview-document.pdf-iso.webapps-security.review-2jk39w92.ccloemb.gq
@@ -38353,6 +38355,8 @@
 :: jldnserror4.wo.com.cn
 0.0.0.0 jldnserror5.wo.com.cn
 :: jldnserror5.wo.com.cn
+0.0.0.0 jm1.xiao89.com
+:: jm1.xiao89.com
 0.0.0.0 jm6y4zxuwo.harrisdentalsolutions.com
 :: jm6y4zxuwo.harrisdentalsolutions.com
 0.0.0.0 jmasuhr0011.5gbfree.com
@@ -38627,6 +38631,8 @@
 :: js.idgdmg.com.cn
 0.0.0.0 js.idgdmgroup.com.cn
 :: js.idgdmgroup.com.cn
+0.0.0.0 js.itaiju.com
+:: js.itaiju.com
 0.0.0.0 js.keywordsconnect.com
 :: js.keywordsconnect.com
 0.0.0.0 js.kt250.com
@@ -39141,8 +39147,6 @@
 :: kenmollens.hackerz5.com
 0.0.0.0 ker.pic2pic.site
 :: ker.pic2pic.site
-0.0.0.0 ker.www.wp.pl
-:: ker.www.wp.pl
 0.0.0.0 keramago.web.fc2.com
 :: keramago.web.fc2.com
 0.0.0.0 kerchiefed-bets.000webhostapp.com
@@ -39197,6 +39201,8 @@
 :: khg.xinrongblg.com
 0.0.0.0 khmdurdmadrasha.edu.bd
 :: khmdurdmadrasha.edu.bd
+0.0.0.0 khrtac.xiangha.com
+:: khrtac.xiangha.com
 0.0.0.0 kiahs.edu.bd
 :: kiahs.edu.bd
 0.0.0.0 kickboxing.cba.pl
@@ -39455,8 +39461,6 @@
 :: kosdyvore.angelcities.com
 0.0.0.0 kostenloseanzeigen.momentblick.de
 :: kostenloseanzeigen.momentblick.de
-0.0.0.0 koszykrd.wp.pl
-:: koszykrd.wp.pl
 0.0.0.0 kotahenacc.sch.lk
 :: kotahenacc.sch.lk
 0.0.0.0 kotaprabumulih.go.id
@@ -39579,6 +39583,8 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
+0.0.0.0 kumher.savedalyfield.com
+:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -42465,8 +42471,6 @@
 :: ma.baidu.com
 0.0.0.0 ma.tinyflashlight.com
 :: ma.tinyflashlight.com
-0.0.0.0 ma.wp.pl
-:: ma.wp.pl
 0.0.0.0 ma1.meishij.net
 :: ma1.meishij.net
 0.0.0.0 ma2.meishij.net
@@ -48603,8 +48607,6 @@
 :: ow.s1.shuhuangge.org
 0.0.0.0 ow.s2.shuhuangge.org
 :: ow.s2.shuhuangge.org
-0.0.0.0 owabgxis.wp.pl
-:: owabgxis.wp.pl
 0.0.0.0 owaexcessacct.000webhostapp.com
 :: owaexcessacct.000webhostapp.com
 0.0.0.0 owaloginno.16mb.com
@@ -51141,8 +51143,6 @@
 :: pixel.vihub.ru
 0.0.0.0 pixel.wp.com
 :: pixel.wp.com
-0.0.0.0 pixel.wp.pl
-:: pixel.wp.pl
 0.0.0.0 pixel.wp.tv
 :: pixel.wp.tv
 0.0.0.0 pixel.yola.com
@@ -52991,8 +52991,6 @@
 :: push.zhanzhang.baidu.com
 0.0.0.0 pushapi.lenovomm.com
 :: pushapi.lenovomm.com
-0.0.0.0 pushuser.wp.pl
-:: pushuser.wp.pl
 0.0.0.0 pustulate-twine.000webhostapp.com
 :: pustulate-twine.000webhostapp.com
 0.0.0.0 pv.anzhi.com
@@ -53079,8 +53077,6 @@
 :: px.topspin.net
 0.0.0.0 px.wa.ui-portal.de
 :: px.wa.ui-portal.de
-0.0.0.0 px.wp.pl
-:: px.wp.pl
 0.0.0.0 px0ihffhra.bradul.creatory.org
 :: px0ihffhra.bradul.creatory.org
 0.0.0.0 pxc.otto.de
@@ -54235,8 +54231,6 @@
 :: rek.hepaffiliates.com
 0.0.0.0 rek.serial24.com
 :: rek.serial24.com
-0.0.0.0 rek.www.wp.pl
-:: rek.www.wp.pl
 0.0.0.0 rek2.tascatlasa.com
 :: rek2.tascatlasa.com
 0.0.0.0 rekl.seasonvar.ru
@@ -54291,8 +54285,6 @@
 :: reklama.ve.lt
 0.0.0.0 reklama.wisdom.bg
 :: reklama.wisdom.bg
-0.0.0.0 reklama.wp.pl
-:: reklama.wp.pl
 0.0.0.0 reklame.unwired-i.net
 :: reklame.unwired-i.net
 0.0.0.0 reklamy.sfd.pl
@@ -55459,6 +55451,8 @@
 :: s1.tansuotv.com
 0.0.0.0 s1.teknum.com
 :: s1.teknum.com
+0.0.0.0 s1.tuzhaozhao.com
+:: s1.tuzhaozhao.com
 0.0.0.0 s1.vidtod.me
 :: s1.vidtod.me
 0.0.0.0 s1.wan1979.com
@@ -60821,8 +60815,6 @@
 :: stern.met.vgwort.de
 0.0.0.0 stf.terra.com.br
 :: stf.terra.com.br
-0.0.0.0 stg.wp.pl
-:: stg.wp.pl
 0.0.0.0 stgg5jv6mqiibmax.toradmin.li
 :: stgg5jv6mqiibmax.toradmin.li
 0.0.0.0 stgg5jv6mqiibmax.toranimals.li
@@ -61501,8 +61493,6 @@
 :: synthes.vo.llnwd.net
 0.0.0.0 syp.shcfpx.com
 :: syp.shcfpx.com
-0.0.0.0 syrena.gminanekla.pl
-:: syrena.gminanekla.pl
 0.0.0.0 sys.osttirol-online.at
 :: sys.osttirol-online.at
 0.0.0.0 sys.zhangyue.com
@@ -66787,6 +66777,8 @@
 :: uu.zeverdg.com
 0.0.0.0 uuidapi.yunos.com
 :: uuidapi.yunos.com
+0.0.0.0 uuu.pctowap.com
+:: uuu.pctowap.com
 0.0.0.0 uuvm.pornpics.com
 :: uuvm.pornpics.com
 0.0.0.0 uv.terra.com.br
@@ -66869,6 +66861,8 @@
 :: v1.res.log.hunantv.com
 0.0.0.0 v1.stat.ku6.com
 :: v1.stat.ku6.com
+0.0.0.0 v1.taksh.cn
+:: v1.taksh.cn
 0.0.0.0 v1.ujian.cc
 :: v1.ujian.cc
 0.0.0.0 v1.your-notification.tools
@@ -67059,8 +67053,6 @@
 :: vda.17173.com
 0.0.0.0 vda.gtarcade.com
 :: vda.gtarcade.com
-0.0.0.0 vda.wp.pl
-:: vda.wp.pl
 0.0.0.0 vdapprecv.app.cntvwb.cn
 :: vdapprecv.app.cntvwb.cn
 0.0.0.0 vdinfo.baofeng.com
@@ -69627,8 +69619,6 @@
 :: wpk.edu.hk
 0.0.0.0 wpkcuewcemh.fgppchg.fgpp.com
 :: wpkcuewcemh.fgppchg.fgpp.com
-0.0.0.0 wpkoszyk.wp.pl
-:: wpkoszyk.wp.pl
 0.0.0.0 wplogin.5v.pl
 :: wplogin.5v.pl
 0.0.0.0 wpvhiedhnzxs.myfw.us
@@ -72129,8 +72119,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -76689,6 +76677,8 @@
 :: x.adpro.cn
 0.0.0.0 x.appbaqend.com
 :: x.appbaqend.com
+0.0.0.0 x.bidswitch.com
+:: x.bidswitch.com
 0.0.0.0 x.bikaer.com
 :: x.bikaer.com
 0.0.0.0 x.bloggurat.net
