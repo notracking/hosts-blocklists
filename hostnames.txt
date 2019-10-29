@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Mon Oct 28 08:31:31 CET 2019
+# Last update: Tue Oct 29 08:45:10 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 39020
+# Number of unique hostnames: 39045
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -16221,6 +16221,8 @@
 :: assets-polarb-com.a.ssl.fastly.net
 0.0.0.0 assets.2343sdxs.com
 :: assets.2343sdxs.com
+0.0.0.0 assets.bilsyndication.com
+:: assets.bilsyndication.com
 0.0.0.0 assets.booztx.com
 :: assets.booztx.com
 0.0.0.0 assets.customer.io
@@ -19023,6 +19025,8 @@
 :: billing.zabiyaka.org
 0.0.0.0 billingproblem-cl-appid.itsmepuput.id
 :: billingproblem-cl-appid.itsmepuput.id
+0.0.0.0 biltag.bilsyndication.com
+:: biltag.bilsyndication.com
 0.0.0.0 bima.weathercn.com
 :: bima.weathercn.com
 0.0.0.0 bimg.abv.bg
@@ -20661,6 +20665,8 @@
 :: cacheserve.williamhill.com
 0.0.0.0 cachewww.europacasino.com
 :: cachewww.europacasino.com
+0.0.0.0 caclick.baidu.com
+:: caclick.baidu.com
 0.0.0.0 cad.chosun.com
 :: cad.chosun.com
 0.0.0.0 cad.donga.com
@@ -24755,10 +24761,14 @@
 :: cps.yaoqing.com
 0.0.0.0 cpsess10035642.000webhostapp.com
 :: cpsess10035642.000webhostapp.com
+0.0.0.0 cpu-baidu-com-block.cdn.bcebos.com
+:: cpu-baidu-com-block.cdn.bcebos.com
 0.0.0.0 cpu.baidu.com
 :: cpu.baidu.com
 0.0.0.0 cpu.firingsquad.com
 :: cpu.firingsquad.com
+0.0.0.0 cpucdn.baidu.com
+:: cpucdn.baidu.com
 0.0.0.0 cpull.360.cn
 :: cpull.360.cn
 0.0.0.0 cpv-adv.ggytc.com
@@ -27203,6 +27213,8 @@
 :: dcads.sina.com.cn
 0.0.0.0 dcapps.disney.go.com
 :: dcapps.disney.go.com
+0.0.0.0 dcc.ghrtgf.xyz
+:: dcc.ghrtgf.xyz
 0.0.0.0 dcdd29eaa743c493e732-7dc0216bc6cc2f4ed239035dfc17235b.ssl.cf3.rackcdn.com
 :: dcdd29eaa743c493e732-7dc0216bc6cc2f4ed239035dfc17235b.ssl.cf3.rackcdn.com
 0.0.0.0 dcdevtzxo4bb0.cloudfront.net
@@ -29125,6 +29137,8 @@
 :: dvser02.china.com
 0.0.0.0 dvt4pepo9om3r.cloudfront.net
 :: dvt4pepo9om3r.cloudfront.net
+0.0.0.0 dvv.lkgtvc.xyz
+:: dvv.lkgtvc.xyz
 0.0.0.0 dw-collect.ksosoft.com
 :: dw-collect.ksosoft.com
 0.0.0.0 dw-online.ksosoft.com
@@ -29409,6 +29423,8 @@
 :: e.banmamedia.com
 0.0.0.0 e.bgj582.cn
 :: e.bgj582.cn
+0.0.0.0 e.bjvvqu.cn
+:: e.bjvvqu.cn
 0.0.0.0 e.bsnnk.com
 :: e.bsnnk.com
 0.0.0.0 e.by29s.cn
@@ -29467,6 +29483,8 @@
 :: e.gglay.com
 0.0.0.0 e.gjiaj.com
 :: e.gjiaj.com
+0.0.0.0 e.gk277.cn
+:: e.gk277.cn
 0.0.0.0 e.gkz39.cn
 :: e.gkz39.cn
 0.0.0.0 e.glaef.cn
@@ -29487,6 +29505,8 @@
 :: e.hdanc.com
 0.0.0.0 e.hellomingpian.com
 :: e.hellomingpian.com
+0.0.0.0 e.hf355.cn
+:: e.hf355.cn
 0.0.0.0 e.hm196.cn
 :: e.hm196.cn
 0.0.0.0 e.hm203.cn
@@ -32355,6 +32375,8 @@
 :: fp.uclo.net
 0.0.0.0 fp108.digitaloptout.com
 :: fp108.digitaloptout.com
+0.0.0.0 fpag.w48ge.cn
+:: fpag.w48ge.cn
 0.0.0.0 fpb.docin.com
 :: fpb.docin.com
 0.0.0.0 fpb.kuhou.com
@@ -34665,8 +34687,6 @@
 :: hdb.maxli.cn
 0.0.0.0 hdc.maxli.cn
 :: hdc.maxli.cn
-0.0.0.0 hdc.watchtimes.com.cn
-:: hdc.watchtimes.com.cn
 0.0.0.0 hdfc.pp.ru
 :: hdfc.pp.ru
 0.0.0.0 hdggcdn.bayimob.com
@@ -35389,6 +35409,8 @@
 :: hlok.qertewrt.com
 0.0.0.0 hm.baidu.com
 :: hm.baidu.com
+0.0.0.0 hm.baidu.com.jnsiematcnc.com
+:: hm.baidu.com.jnsiematcnc.com
 0.0.0.0 hm.l.qq.com
 :: hm.l.qq.com
 0.0.0.0 hm.ubiej.com
@@ -39587,8 +39609,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -41301,6 +41321,8 @@
 :: m.0544yh.cn
 0.0.0.0 m.05yzt.cn
 :: m.05yzt.cn
+0.0.0.0 m.06v2j.cn
+:: m.06v2j.cn
 0.0.0.0 m.072va.cn
 :: m.072va.cn
 0.0.0.0 m.07seb.cn
@@ -41609,6 +41631,8 @@
 :: m.bififd.cn
 0.0.0.0 m.biquge5200.cc
 :: m.biquge5200.cc
+0.0.0.0 m.bjvvqu.cn
+:: m.bjvvqu.cn
 0.0.0.0 m.bkuax.com
 :: m.bkuax.com
 0.0.0.0 m.bs641.cn
@@ -41809,6 +41833,8 @@
 :: m.gglay.com
 0.0.0.0 m.gjiaj.com
 :: m.gjiaj.com
+0.0.0.0 m.gk277.cn
+:: m.gk277.cn
 0.0.0.0 m.gkz39.cn
 :: m.gkz39.cn
 0.0.0.0 m.glaef.cn
@@ -41851,6 +41877,8 @@
 :: m.hellomingpian.com
 0.0.0.0 m.heshanwan.cn
 :: m.heshanwan.cn
+0.0.0.0 m.hf355.cn
+:: m.hf355.cn
 0.0.0.0 m.hhllyt.com
 :: m.hhllyt.com
 0.0.0.0 m.hm146.cn
@@ -41989,6 +42017,8 @@
 :: m.ly0p9e.cn
 0.0.0.0 m.m8l0ka.cn
 :: m.m8l0ka.cn
+0.0.0.0 m.maiduoer.com
+:: m.maiduoer.com
 0.0.0.0 m.maila88.com
 :: m.maila88.com
 0.0.0.0 m.maopuzw.com
@@ -45413,6 +45443,8 @@
 :: mvchallenges.s3-website-eu-west-1.amazonaws.com
 0.0.0.0 mvduk.kiev.ua
 :: mvduk.kiev.ua
+0.0.0.0 mvo.bd6t4.xyz
+:: mvo.bd6t4.xyz
 0.0.0.0 mvo.nefcd.xyz
 :: mvo.nefcd.xyz
 0.0.0.0 mvo.nwffx.xyz
@@ -50653,6 +50685,8 @@
 :: photo.backerbiotech.cn
 0.0.0.0 photo.bjdfhy.cn
 :: photo.bjdfhy.cn
+0.0.0.0 photo.bscy05.cn
+:: photo.bscy05.cn
 0.0.0.0 photo.dhford.cn
 :: photo.dhford.cn
 0.0.0.0 photo.domainrank.cn
@@ -52883,6 +52917,8 @@
 :: publicidades.redtotalonline.com
 0.0.0.0 publicidadinternet.lavozdegalicia.es
 :: publicidadinternet.lavozdegalicia.es
+0.0.0.0 publish-pic-cpu.baidu.com
+:: publish-pic-cpu.baidu.com
 0.0.0.0 publish.ad.youth.cn
 :: publish.ad.youth.cn
 0.0.0.0 publish.bonzaii.no
@@ -53903,6 +53939,8 @@
 :: reco.hardsextube.com
 0.0.0.0 recommend.kbmj.com
 :: recommend.kbmj.com
+0.0.0.0 recommend.union.39.net
+:: recommend.union.39.net
 0.0.0.0 recommendation.24.com
 :: recommendation.24.com
 0.0.0.0 reconfim-accountinfolog.000webhostapp.com
@@ -57711,6 +57749,8 @@
 :: services.apple-security.khk0l3vf3.ilfsacademy.org
 0.0.0.0 services.avoidunlimitedaccount.com
 :: services.avoidunlimitedaccount.com
+0.0.0.0 services.bilsyndication.com
+:: services.bilsyndication.com
 0.0.0.0 services.coem.awem.com
 :: services.coem.awem.com
 0.0.0.0 services.gfe.nvidia.com
@@ -61499,6 +61539,8 @@
 :: synthes.vo.llnwd.net
 0.0.0.0 syp.shcfpx.com
 :: syp.shcfpx.com
+0.0.0.0 syrena.gminanekla.pl
+:: syrena.gminanekla.pl
 0.0.0.0 sys.osttirol-online.at
 :: sys.osttirol-online.at
 0.0.0.0 sys.zhangyue.com
@@ -61827,6 +61869,8 @@
 :: t7z.cupid.iqiyi.com
 0.0.0.0 t7z.cupid.ptqy.gitv.tv
 :: t7z.cupid.ptqy.gitv.tv
+0.0.0.0 t8ac8a8f8.jingfeed.com
+:: t8ac8a8f8.jingfeed.com
 0.0.0.0 ta.at.ic5mp.net
 :: ta.at.ic5mp.net
 0.0.0.0 ta.at.user-mode-linux.net
@@ -68171,6 +68215,8 @@
 :: w11.zhongkaohelp.com
 0.0.0.0 w18.9939.com
 :: w18.9939.com
+0.0.0.0 w2.okcloud.me
+:: w2.okcloud.me
 0.0.0.0 w2.yotpo.com
 :: w2.yotpo.com
 0.0.0.0 w20.iit.guru
@@ -71055,6 +71101,8 @@
 :: www.boys4ever.com
 0.0.0.0 www.bozenan.swk.vectranet.pl
 :: www.bozenan.swk.vectranet.pl
+0.0.0.0 www.brafsc.top
+:: www.brafsc.top
 0.0.0.0 www.bravenetmedianetwork.com
 :: www.bravenetmedianetwork.com
 0.0.0.0 www.breastfeedme.com
@@ -73457,6 +73505,8 @@
 :: www.locatorprotocol.com
 0.0.0.0 www.locgest.com
 :: www.locgest.com
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.loggerx.com
 :: www.loggerx.com
 0.0.0.0 www.logging.to
