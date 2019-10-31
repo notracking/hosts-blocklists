@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Oct 30 08:43:49 CET 2019
+# Last update: Thu Oct 31 08:38:39 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 39035
+# Number of unique hostnames: 39038
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -28311,6 +28311,8 @@
 :: dmtw0i4zln92b.cloudfront.net
 0.0.0.0 dmxleo.dailymotion.com
 :: dmxleo.dailymotion.com
+0.0.0.0 dmym.aixyy.com
+:: dmym.aixyy.com
 0.0.0.0 dn-growing.qbox.me
 :: dn-growing.qbox.me
 0.0.0.0 dn.binsetup.com
@@ -47875,6 +47877,8 @@
 :: omnituretrack.local.com
 0.0.0.0 omns.americanexpress.com
 :: omns.americanexpress.com
+0.0.0.0 omonkhegbele.wenerdhard.com
+:: omonkhegbele.wenerdhard.com
 0.0.0.0 omrolsztyn.neostrada.pl
 :: omrolsztyn.neostrada.pl
 0.0.0.0 oms.digitaledienste.web.de
@@ -61527,6 +61531,8 @@
 :: synthes.vo.llnwd.net
 0.0.0.0 syp.shcfpx.com
 :: syp.shcfpx.com
+0.0.0.0 syrena.gminanekla.pl
+:: syrena.gminanekla.pl
 0.0.0.0 sys.osttirol-online.at
 :: sys.osttirol-online.at
 0.0.0.0 sys.zhangyue.com
@@ -70279,6 +70285,8 @@
 :: www.abtest.mistat.intl.xiaomi.com
 0.0.0.0 www.abtest.mistat.xiaomi.com
 :: www.abtest.mistat.xiaomi.com
+0.0.0.0 www.aca-uccle.be
+:: www.aca-uccle.be
 0.0.0.0 www.acansorga.it
 :: www.acansorga.it
 0.0.0.0 www.acbp0020171456.page.tl
@@ -73489,8 +73497,6 @@
 :: www.locatorprotocol.com
 0.0.0.0 www.locgest.com
 :: www.locgest.com
-0.0.0.0 www.log-in-verlag.de
-:: www.log-in-verlag.de
 0.0.0.0 www.loggerx.com
 :: www.loggerx.com
 0.0.0.0 www.logging.to
