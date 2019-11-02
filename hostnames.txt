@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Nov 1 08:31:55 CET 2019
+# Last update: Sat Nov 2 08:47:52 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 39119
+# Number of unique hostnames: 39120
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -9783,6 +9783,8 @@
 :: ads.sport1.bg
 0.0.0.0 ads.sportingnews.com
 :: ads.sportingnews.com
+0.0.0.0 ads.sportradar.com
+:: ads.sportradar.com
 0.0.0.0 ads.sports.fr
 :: ads.sports.fr
 0.0.0.0 ads.sportsblog.com
@@ -15109,8 +15111,6 @@
 :: api.gimbal.com
 0.0.0.0 api.goulegu.com
 :: api.goulegu.com
-0.0.0.0 api.gzxiongwa.cn
-:: api.gzxiongwa.cn
 0.0.0.0 api.hybrid.intl.xiaomi.com
 :: api.hybrid.intl.xiaomi.com
 0.0.0.0 api.iapps.ifeng.com
@@ -25561,6 +25561,8 @@
 :: d144jmuhz9kvbq.cloudfront.net
 0.0.0.0 d145tbca0156xf.cloudfront.net
 :: d145tbca0156xf.cloudfront.net
+0.0.0.0 d14jnbmekseru6.cloudfront.net
+:: d14jnbmekseru6.cloudfront.net
 0.0.0.0 d14nx4uiqzwnqt.cloudfront.net
 :: d14nx4uiqzwnqt.cloudfront.net
 0.0.0.0 d14p8nzdvd75ly.cloudfront.net
@@ -25945,6 +25947,8 @@
 :: d22248tsz5887t.cloudfront.net
 0.0.0.0 d22lo5bcpq2fif.cloudfront.net
 :: d22lo5bcpq2fif.cloudfront.net
+0.0.0.0 d22sfab2t5o9bq.cloudfront.net
+:: d22sfab2t5o9bq.cloudfront.net
 0.0.0.0 d234h234l.000webhostapp.com
 :: d234h234l.000webhostapp.com
 0.0.0.0 d239g0z67jcted.cloudfront.net
@@ -33747,6 +33751,8 @@
 :: gjsqbsqawb.myfw.us
 0.0.0.0 gjtikylryey.000webhostapp.com
 :: gjtikylryey.000webhostapp.com
+0.0.0.0 gk1.582582.com
+:: gk1.582582.com
 0.0.0.0 gk1.zjbiz.net
 :: gk1.zjbiz.net
 0.0.0.0 gk4aiims.000webhostapp.com
@@ -35619,8 +35625,6 @@
 :: host238.hostmonster.com
 0.0.0.0 hostcpanelverfyonline.16mb.com
 :: hostcpanelverfyonline.16mb.com
-0.0.0.0 hosted.adback.co
-:: hosted.adback.co
 0.0.0.0 hosted.stats.com
 :: hosted.stats.com
 0.0.0.0 hosted.stats.com.edgesuite.net
@@ -39653,8 +39657,6 @@
 :: kulro.csheaven.com
 0.0.0.0 kumaku.5gbfree.com
 :: kumaku.5gbfree.com
-0.0.0.0 kumher.savedalyfield.com
-:: kumher.savedalyfield.com
 0.0.0.0 kunal3291.ibprofits.cpa.clicksure.com
 :: kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0 kundendienst.de.com
@@ -68407,8 +68409,6 @@
 :: wallsfargo0240.000webhostapp.com
 0.0.0.0 walp.atm.youku.com
 :: walp.atm.youku.com
-0.0.0.0 waltersburgburgoon.adback.co
-:: waltersburgburgoon.adback.co
 0.0.0.0 wamanet.virtualave.net
 :: wamanet.virtualave.net
 0.0.0.0 wan.2345.com
@@ -73631,6 +73631,8 @@
 :: www.locatorprotocol.com
 0.0.0.0 www.locgest.com
 :: www.locgest.com
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.loggerx.com
 :: www.loggerx.com
 0.0.0.0 www.logging.to
