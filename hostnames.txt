@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Nov 9 08:33:36 CET 2019
+# Last update: Sun Nov 10 08:32:24 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37861
+# Number of unique hostnames: 37874
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -3157,6 +3157,8 @@
 :: aa1.ifeng.com
 0.0.0.0 aa1.pub.funshion.com
 :: aa1.pub.funshion.com
+0.0.0.0 aa1atghd0uhfffgftyfasdgfjsq20.s3.amazonaws.com
+:: aa1atghd0uhfffgftyfasdgfjsq20.s3.amazonaws.com
 0.0.0.0 aaa.dv0.info
 :: aaa.dv0.info
 0.0.0.0 aaaaaa.icfoscolosoverato.it
@@ -35409,6 +35411,8 @@
 :: i-sn2-cor002.api.p001.1drv.com
 0.0.0.0 i-sn3p-cor001.api.p001.1drv.com
 :: i-sn3p-cor001.api.p001.1drv.com
+0.0.0.0 i-sn3p-cor002.api.p001.1drv.com
+:: i-sn3p-cor002.api.p001.1drv.com
 0.0.0.0 i.1cat.com
 :: i.1cat.com
 0.0.0.0 i.1o26.com
@@ -40381,8 +40385,16 @@
 :: loock.curingcruelty.com
 0.0.0.0 loock.dreamsempowerct.com
 :: loock.dreamsempowerct.com
+0.0.0.0 look.djfiln.com
+:: look.djfiln.com
 0.0.0.0 look.kfiopkln.com
 :: look.kfiopkln.com
+0.0.0.0 look.opskln.com
+:: look.opskln.com
+0.0.0.0 look.udncoeln.com
+:: look.udncoeln.com
+0.0.0.0 look.ufinkln.com
+:: look.ufinkln.com
 0.0.0.0 look1.traveloka-flight.com
 :: look1.traveloka-flight.com
 0.0.0.0 looking-unblock.000webhostapp.com
@@ -52381,6 +52393,8 @@
 :: qto.reprintingstakeholder.com
 0.0.0.0 quangl3m.beget.tech
 :: quangl3m.beget.tech
+0.0.0.0 quantcast.mgr.consensu.org
+:: quantcast.mgr.consensu.org
 0.0.0.0 quasar.sitegauge.com
 :: quasar.sitegauge.com
 0.0.0.0 qubitanalytics.appspot.com
@@ -52931,6 +52945,8 @@
 :: realtouchbannerwidget.aebn.net
 0.0.0.0 rebolyschool.iso.karelia.ru
 :: rebolyschool.iso.karelia.ru
+0.0.0.0 rec-ir.quartic.pl
+:: rec-ir.quartic.pl
 0.0.0.0 rec.api.baifendian.com
 :: rec.api.baifendian.com
 0.0.0.0 rec.g.163.com
@@ -54563,6 +54579,8 @@
 :: s3-tracking.synthasite.net.s3.amazonaws.com
 0.0.0.0 s3.chengmingliang.com
 :: s3.chengmingliang.com
+0.0.0.0 s3.in.ua
+:: s3.in.ua
 0.0.0.0 s3.joexl.com
 :: s3.joexl.com
 0.0.0.0 s3.ongsono.com
@@ -56959,6 +56977,8 @@
 :: shop.adamjk.com
 0.0.0.0 shop.admin.yinyuetai.com
 :: shop.admin.yinyuetai.com
+0.0.0.0 shop.buybox.click
+:: shop.buybox.click
 0.0.0.0 shop.dr-rath.com
 :: shop.dr-rath.com
 0.0.0.0 shop.fangiobrokeraggio.com
@@ -57701,6 +57721,8 @@
 :: sokarajatengah.or.id
 0.0.0.0 solar.doctortoken.co.in
 :: solar.doctortoken.co.in
+0.0.0.0 soldi.duckdns.org
+:: soldi.duckdns.org
 0.0.0.0 soldi.msn.it
 :: soldi.msn.it
 0.0.0.0 solo4sse.beget.tech
@@ -58805,6 +58827,8 @@
 :: static.parkingpanel.com
 0.0.0.0 static.proximic.com
 :: static.proximic.com
+0.0.0.0 static.quantcast.mgr.consensu.org
+:: static.quantcast.mgr.consensu.org
 0.0.0.0 static.realmediadigital.com
 :: static.realmediadigital.com
 0.0.0.0 static.regiojobs.be
@@ -70215,6 +70239,8 @@
 :: www.elmodel.com
 0.0.0.0 www.elpais.es
 :: www.elpais.es
+0.0.0.0 www.elsiedesigns.com
+:: www.elsiedesigns.com
 0.0.0.0 www.email-login-support.com
 :: www.email-login-support.com
 0.0.0.0 www.email-marketing.net
