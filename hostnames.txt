@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sun Nov 10 08:32:24 CET 2019
+# Last update: Mon Nov 11 08:27:30 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37874
+# Number of unique hostnames: 37856
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -701,6 +701,8 @@
 :: 28.securefinds2.com
 0.0.0.0 283.laobanfa.com
 :: 283.laobanfa.com
+0.0.0.0 2837c085a88c1ba307d4594a.cloudhosting.rsaweb.co.za
+:: 2837c085a88c1ba307d4594a.cloudhosting.rsaweb.co.za
 0.0.0.0 290684.en.world-stone.com
 :: 290684.en.world-stone.com
 0.0.0.0 296f4h3wluqxmie0yqbk8n.littlematchagirl.com.au
@@ -3157,8 +3159,6 @@
 :: aa1.ifeng.com
 0.0.0.0 aa1.pub.funshion.com
 :: aa1.pub.funshion.com
-0.0.0.0 aa1atghd0uhfffgftyfasdgfjsq20.s3.amazonaws.com
-:: aa1atghd0uhfffgftyfasdgfjsq20.s3.amazonaws.com
 0.0.0.0 aaa.dv0.info
 :: aaa.dv0.info
 0.0.0.0 aaaaaa.icfoscolosoverato.it
@@ -3315,8 +3315,6 @@
 :: abtest.mistat.xiaomi.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
-0.0.0.0 abusalewm.exceltoner.com
-:: abusalewm.exceltoner.com
 0.0.0.0 ac.86huoche.com
 :: ac.86huoche.com
 0.0.0.0 ac.ajur.info
@@ -18321,6 +18319,8 @@
 :: bansys.onzin.com
 0.0.0.0 banzai.moodlogic.com
 :: banzai.moodlogic.com
+0.0.0.0 bappeda.dharmasrayakab.go.id
+:: bappeda.dharmasrayakab.go.id
 0.0.0.0 bar.baidu.com
 :: bar.baidu.com
 0.0.0.0 bar.hit-counter.udub.com
@@ -19033,8 +19033,6 @@
 :: bigtits.xxxallaccesspass.com
 0.0.0.0 bikelovers.blog.br
 :: bikelovers.blog.br
-0.0.0.0 bikepaintpureworks.web.fc2.com
-:: bikepaintpureworks.web.fc2.com
 0.0.0.0 bikini.fsn.net
 :: bikini.fsn.net
 0.0.0.0 bilbo.counted.net
@@ -19049,8 +19047,6 @@
 :: bill.ecsuite.com
 0.0.0.0 bill4939.njealle.co.uk
 :: bill4939.njealle.co.uk
-0.0.0.0 billiard.design-ekb.ru
-:: billiard.design-ekb.ru
 0.0.0.0 billing.netflix.user.solution.id2.client-redirection.com
 :: billing.netflix.user.solution.id2.client-redirection.com
 0.0.0.0 billing.zabiyaka.org
@@ -27253,8 +27249,6 @@
 :: declip.crakmedia.snaxxx.tv
 0.0.0.0 decorator.crabgrab.cl
 :: decorator.crabgrab.cl
-0.0.0.0 decorstyle.ig.com.br
-:: decorstyle.ig.com.br
 0.0.0.0 dedicheanonime2017.altervista.org
 :: dedicheanonime2017.altervista.org
 0.0.0.0 dedterr8.beget.tech
@@ -27513,8 +27507,6 @@
 :: dev.mundomediainc.com
 0.0.0.0 dev.no8.cc
 :: dev.no8.cc
-0.0.0.0 dev.rvatech.org
-:: dev.rvatech.org
 0.0.0.0 dev.sfbg.com
 :: dev.sfbg.com
 0.0.0.0 dev.soletriangle.com
@@ -36103,8 +36095,6 @@
 :: images.freeshop.com
 0.0.0.0 images.go2net.com
 :: images.go2net.com
-0.0.0.0 images.gyffu.com
-:: images.gyffu.com
 0.0.0.0 images.hi5.com
 :: images.hi5.com
 0.0.0.0 images.hitwise.co.uk
@@ -36211,22 +36201,6 @@
 :: imalaseko.win.co.tz
 0.0.0.0 imamnhearte.hotmail.ru
 :: imamnhearte.hotmail.ru
-0.0.0.0 imap.anoxa.de
-:: imap.anoxa.de
-0.0.0.0 imap.creativity.it
-:: imap.creativity.it
-0.0.0.0 imap.eiakr.com
-:: imap.eiakr.com
-0.0.0.0 imap.hamnail.net
-:: imap.hamnail.net
-0.0.0.0 imap.hotmial.com
-:: imap.hotmial.com
-0.0.0.0 imap.nyron.com
-:: imap.nyron.com
-0.0.0.0 imap.secci.it
-:: imap.secci.it
-0.0.0.0 imap.seznnam.cz
-:: imap.seznnam.cz
 0.0.0.0 imasdk.googleapis.com
 :: imasdk.googleapis.com
 0.0.0.0 imc.l.qq.com
@@ -36753,8 +36727,6 @@
 :: index99.kiev.ua
 0.0.0.0 india.nbnweb.com
 :: india.nbnweb.com
-0.0.0.0 indiana.phone.directory.sms13.de
-:: indiana.phone.directory.sms13.de
 0.0.0.0 indianapolis.hosted.xms.keynote.com
 :: indianapolis.hosted.xms.keynote.com
 0.0.0.0 indieclick.3janecdn.com
@@ -37057,6 +37029,8 @@
 :: install.kugou.com
 0.0.0.0 install.myvideotab.com
 :: install.myvideotab.com
+0.0.0.0 install.pdfconverterhd.com
+:: install.pdfconverterhd.com
 0.0.0.0 install.sidesearch.lycos.com
 :: install.sidesearch.lycos.com
 0.0.0.0 installer.betterinstaller.com
@@ -37075,8 +37049,6 @@
 :: instantonlineverification.usaabank.verification.fajitaritas.com
 0.0.0.0 instink.smkmfsudimoro.sch.id
 :: instink.smkmfsudimoro.sch.id
-0.0.0.0 institutomariadapenha.org.br
-:: institutomariadapenha.org.br
 0.0.0.0 instruminahui.edu.ec
 :: instruminahui.edu.ec
 0.0.0.0 int-found-online.bizpartner.biz
@@ -37091,8 +37063,6 @@
 :: intelli.ageuk.org.uk
 0.0.0.0 intelligence.dgmsearchlab.com
 :: intelligence.dgmsearchlab.com
-0.0.0.0 intenalco.edu.co
-:: intenalco.edu.co
 0.0.0.0 interac-e-transfer-bell-refund.manachetalks.com
 :: interac-e-transfer-bell-refund.manachetalks.com
 0.0.0.0 interac-e-transfer-refund.login33-secure.com
@@ -37413,8 +37383,6 @@
 :: itunesfreecodes.goldmovie-trailer.com
 0.0.0.0 itupg.000webhostapp.com
 :: itupg.000webhostapp.com
-0.0.0.0 itv.ard.de
-:: itv.ard.de
 0.0.0.0 itv.hexun.com
 :: itv.hexun.com
 0.0.0.0 ity.elusmedic.ru
@@ -41917,6 +41885,8 @@
 :: magnify360-cdn.s3.amazonaws.com
 0.0.0.0 maiicenterteam.000webhostapp.com
 :: maiicenterteam.000webhostapp.com
+0.0.0.0 mail-ads.google.com
+:: mail-ads.google.com
 0.0.0.0 mail-gw.jbic.go.jp
 :: mail-gw.jbic.go.jp
 0.0.0.0 mail.bangla.net
@@ -61309,8 +61279,6 @@
 :: test.ishvara-yoga.com
 0.0.0.0 test.sexeanonyme.com
 :: test.sexeanonyme.com
-0.0.0.0 test.sies.uz
-:: test.sies.uz
 0.0.0.0 test.surepush.cn
 :: test.surepush.cn
 0.0.0.0 test1.lmsoft.cz
@@ -67957,8 +67925,6 @@
 :: window32.in.net
 0.0.0.0 window64.in.net
 :: window64.in.net
-0.0.0.0 windows.firewall-gateway.de
-:: windows.firewall-gateway.de
 0.0.0.0 wine.iwebsite.com.au
 :: wine.iwebsite.com.au
 0.0.0.0 winebear.domainleader.net
@@ -71105,6 +71071,8 @@
 :: www.inoprosport.su
 0.0.0.0 www.insnw.ne
 :: www.insnw.ne
+0.0.0.0 www.install.pdfconverterhd.com
+:: www.install.pdfconverterhd.com
 0.0.0.0 www.instantcashloans.net.au
 :: www.instantcashloans.net.au
 0.0.0.0 www.instantdownloaderpro.com
@@ -71599,8 +71567,6 @@
 :: www.loansbadcredit.net.au
 0.0.0.0 www.locatorprotocol.com
 :: www.locatorprotocol.com
-0.0.0.0 www.log-in-verlag.de
-:: www.log-in-verlag.de
 0.0.0.0 www.loggerx.com
 :: www.loggerx.com
 0.0.0.0 www.logging.to
@@ -73337,8 +73303,6 @@
 :: www.tiergestuetzt.de
 0.0.0.0 www.timefor.com
 :: www.timefor.com
-0.0.0.0 www.timelessimagesmi.com
-:: www.timelessimagesmi.com
 0.0.0.0 www.tinascherry.com
 :: www.tinascherry.com
 0.0.0.0 www.tings.com
