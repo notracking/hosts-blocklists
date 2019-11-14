@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Wed Nov 13 08:46:31 CET 2019
+# Last update: Thu Nov 14 08:39:12 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37928
+# Number of unique hostnames: 37943
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -2451,6 +2451,8 @@
 :: a.198banjia.com
 0.0.0.0 a.1nimo.com
 :: a.1nimo.com
+0.0.0.0 a.20minutes.fr
+:: a.20minutes.fr
 0.0.0.0 a.4aqq.com
 :: a.4aqq.com
 0.0.0.0 a.52wubi.com
@@ -11231,6 +11233,8 @@
 :: adserver.71i.de
 0.0.0.0 adserver.a.in.monster.com
 :: adserver.a.in.monster.com
+0.0.0.0 adserver.a24.com.tr
+:: adserver.a24.com.tr
 0.0.0.0 adserver.abv.bg
 :: adserver.abv.bg
 0.0.0.0 adserver.ad-it.dk
@@ -19853,6 +19857,8 @@
 :: bucp-r04.blue.aol.com
 0.0.0.0 budcreditcontrol.000webhostapp.com
 :: budcreditcontrol.000webhostapp.com
+0.0.0.0 buf.lemonde.fr
+:: buf.lemonde.fr
 0.0.0.0 bugaga.tut.by
 :: bugaga.tut.by
 0.0.0.0 bugsense.appspot.com
@@ -20425,6 +20431,8 @@
 :: c0.adalyser.com
 0.0.0.0 c0.ifengimg.com
 :: c0.ifengimg.com
+0.0.0.0 c0011.boursorama.com
+:: c0011.boursorama.com
 0.0.0.0 c01.brickoffers.com
 :: c01.brickoffers.com
 0.0.0.0 c02.3dwwwgame.com
@@ -27271,6 +27279,8 @@
 :: dedterr8.beget.tech
 0.0.0.0 defejgwdtct.psychiatriemerima.com
 :: defejgwdtct.psychiatriemerima.com
+0.0.0.0 degh48.fnac.com
+:: degh48.fnac.com
 0.0.0.0 degree.pes.edu
 :: degree.pes.edu
 0.0.0.0 dehua.ixinfan.com
@@ -28753,6 +28763,8 @@
 :: dsp.ali213.net
 0.0.0.0 dsp.brand.sogou.com
 :: dsp.brand.sogou.com
+0.0.0.0 dsp.colpirio.com
+:: dsp.colpirio.com
 0.0.0.0 dsp.dianru.com
 :: dsp.dianru.com
 0.0.0.0 dsp.face2trade.com
@@ -32159,6 +32171,8 @@
 :: free.internetspeedtracker.com
 0.0.0.0 free.mobile.infoconsulte.info
 :: free.mobile.infoconsulte.info
+0.0.0.0 free.mymapsexpress.com
+:: free.mymapsexpress.com
 0.0.0.0 free.netsons.com
 :: free.netsons.com
 0.0.0.0 free.sexmuseum.com
@@ -49915,6 +49929,8 @@
 :: phpadsnew.wn.com
 0.0.0.0 phs.tanx.com
 :: phs.tanx.com
+0.0.0.0 phuongdanhvonghe.edu.vn
+:: phuongdanhvonghe.edu.vn
 0.0.0.0 phuttha9.beget.tech
 :: phuttha9.beget.tech
 0.0.0.0 pi-chin-cha.webcindario.com
@@ -50333,6 +50349,8 @@
 :: pjyu.golden1.sogou.com
 0.0.0.0 pk.zhuaji.org
 :: pk.zhuaji.org
+0.0.0.0 pk8n57.fnac.com
+:: pk8n57.fnac.com
 0.0.0.0 pkk1.zuimeiniwo.com
 :: pkk1.zuimeiniwo.com
 0.0.0.0 pks-setiabudi.or.id
@@ -51745,6 +51763,8 @@
 :: proxy-pol-2.inf.nimiq.net
 0.0.0.0 proxy-pol-2.inf.nimiq.network
 :: proxy-pol-2.inf.nimiq.network
+0.0.0.0 proxy-tracker.colpirio.com
+:: proxy-tracker.colpirio.com
 0.0.0.0 proxy.dlf.lt
 :: proxy.dlf.lt
 0.0.0.0 proxy.ladot.com
@@ -60391,6 +60411,8 @@
 :: synthes.vo.llnwd.net
 0.0.0.0 syp.shcfpx.com
 :: syp.shcfpx.com
+0.0.0.0 syrena.gminanekla.pl
+:: syrena.gminanekla.pl
 0.0.0.0 sys.osttirol-online.at
 :: sys.osttirol-online.at
 0.0.0.0 sys.zhangyue.com
@@ -62009,6 +62031,8 @@
 :: tr.buzzlogic.com
 0.0.0.0 tr.cloud-media.fr
 :: tr.cloud-media.fr
+0.0.0.0 tr.colpirio.com
+:: tr.colpirio.com
 0.0.0.0 tr.etrxc.com
 :: tr.etrxc.com
 0.0.0.0 tr.himedia.individuad.net
@@ -62915,6 +62939,8 @@
 :: tracker.cds-tracking.com
 0.0.0.0 tracker.cl1.fidelizador.com
 :: tracker.cl1.fidelizador.com
+0.0.0.0 tracker.colpirio.com
+:: tracker.colpirio.com
 0.0.0.0 tracker.consumerpackage.net
 :: tracker.consumerpackage.net
 0.0.0.0 tracker.coopt.com
@@ -65629,6 +65655,8 @@
 :: v.jwpcdn.com
 0.0.0.0 v.landingzone.se
 :: v.landingzone.se
+0.0.0.0 v.oui.sncf
+:: v.oui.sncf
 0.0.0.0 v.smtcdns.net
 :: v.smtcdns.net
 0.0.0.0 v.szpaopao.com
@@ -70553,8 +70581,6 @@
 :: www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
 :: www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
-:: www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 :: www.fixin.de
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -71671,6 +71697,8 @@
 :: www.loansbadcredit.net.au
 0.0.0.0 www.locatorprotocol.com
 :: www.locatorprotocol.com
+0.0.0.0 www.log-in-verlag.de
+:: www.log-in-verlag.de
 0.0.0.0 www.loggerx.com
 :: www.loggerx.com
 0.0.0.0 www.logging.to
@@ -72163,6 +72191,8 @@
 :: www.nuvon.com
 0.0.0.0 www.nvshenfan.com
 :: www.nvshenfan.com
+0.0.0.0 www.nwd-ly.com
+:: www.nwd-ly.com
 0.0.0.0 www.nxsrv1.com
 :: www.nxsrv1.com
 0.0.0.0 www.oainternet.com
