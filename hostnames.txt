@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Nov 15 08:35:28 CET 2019
+# Last update: Sat Nov 16 08:38:09 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37930
+# Number of unique hostnames: 37936
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -11971,6 +11971,8 @@
 :: adservice.google.com.au
 0.0.0.0 adservice.google.com.hk
 :: adservice.google.com.hk
+0.0.0.0 adservice.google.com.mt
+:: adservice.google.com.mt
 0.0.0.0 adservice.google.com.tr
 :: adservice.google.com.tr
 0.0.0.0 adservice.google.com.vn
@@ -23631,6 +23633,8 @@
 :: collector-axa.cloud.ca.com
 0.0.0.0 collector-cdn.github.com
 :: collector-cdn.github.com
+0.0.0.0 collector-medium.lightstep.com
+:: collector-medium.lightstep.com
 0.0.0.0 collector-pxel3l4xih.perimeterx.net
 :: collector-pxel3l4xih.perimeterx.net
 0.0.0.0 collector-test.staging.mb-internal.com
@@ -24019,8 +24023,6 @@
 :: controlroom.netmining.com
 0.0.0.0 conv.youdao.com
 :: conv.youdao.com
-0.0.0.0 converse.tm-awx.com
-:: converse.tm-awx.com
 0.0.0.0 conversion.adpro.cn
 :: conversion.adpro.cn
 0.0.0.0 convertglobal.s3.amazonaws.com
@@ -30185,6 +30187,8 @@
 :: erectile.byethost33.com
 0.0.0.0 erg.boutiquedepro.net
 :: erg.boutiquedepro.net
+0.0.0.0 ergjt.bxugac.live
+:: ergjt.bxugac.live
 0.0.0.0 ericzworkz.free.fr
 :: ericzworkz.free.fr
 0.0.0.0 erie.smartage.com
@@ -38565,8 +38569,6 @@
 :: kencho-1hararah.anulcreampie.com
 0.0.0.0 kencooper55.5gbfree.com
 :: kencooper55.5gbfree.com
-0.0.0.0 keniisha.realdealpsychic.com
-:: keniisha.realdealpsychic.com
 0.0.0.0 kenmollens.hackerz5.com
 :: kenmollens.hackerz5.com
 0.0.0.0 ker.pic2pic.site
@@ -42461,6 +42463,8 @@
 :: md.tvzhe.com
 0.0.0.0 mdc.meitustat.com
 :: mdc.meitustat.com
+0.0.0.0 mdd68xwtofd2g4h.cjpyqf.live
+:: mdd68xwtofd2g4h.cjpyqf.live
 0.0.0.0 mdefbugivafmnk.ivydancefloors.com
 :: mdefbugivafmnk.ivydancefloors.com
 0.0.0.0 mdennis2-5.000webhostapp.com
@@ -57815,6 +57819,8 @@
 :: soundwave.mobile.yahoo.com
 0.0.0.0 soup.v.qq.com
 :: soup.v.qq.com
+0.0.0.0 sourcepoint.vice.com
+:: sourcepoint.vice.com
 0.0.0.0 sourcescdn.xiaobingw.cn
 :: sourcescdn.xiaobingw.cn
 0.0.0.0 southpointrs.edu.np
@@ -57945,6 +57951,8 @@
 :: sponsors.thoughtsmedia.com
 0.0.0.0 sponsors.webosroundup.com
 :: sponsors.webosroundup.com
+0.0.0.0 spoor-api.asia.nikkei.com
+:: spoor-api.asia.nikkei.com
 0.0.0.0 sport-betting-online.hitslog.net
 :: sport-betting-online.hitslog.net
 0.0.0.0 sport.albeu.al
@@ -68669,6 +68677,8 @@
 :: wwp-cartasi-titoari-portale-sicreuzza-2017-ci.dynamic-dns.net
 0.0.0.0 wwv.onetad.com
 :: wwv.onetad.com
+0.0.0.0 www-apple-com-anti-virus-systems.virus-removals.com
+:: www-apple-com-anti-virus-systems.virus-removals.com
 0.0.0.0 www-apple-com-virus-removal-systems.fixingit.solutions
 :: www-apple-com-virus-removal-systems.fixingit.solutions
 0.0.0.0 www-banner.chat.ru
@@ -70331,6 +70341,8 @@
 :: www.epwinsupreme.com
 0.0.0.0 www.ere3j2e001.com
 :: www.ere3j2e001.com
+0.0.0.0 www.ergjt.bxugac.live
+:: www.ergjt.bxugac.live
 0.0.0.0 www.ergotherapie-schleswig.de
 :: www.ergotherapie-schleswig.de
 0.0.0.0 www.erodynamics.nl
@@ -71797,6 +71809,8 @@
 :: www.mbai.cn
 0.0.0.0 www.mcsqd.com
 :: www.mcsqd.com
+0.0.0.0 www.mdd68xwtofd2g4h.cjpyqf.live
+:: www.mdd68xwtofd2g4h.cjpyqf.live
 0.0.0.0 www.mecz.ujm.pl
 :: www.mecz.ujm.pl
 0.0.0.0 www.media-motor.com
@@ -72055,8 +72069,6 @@
 :: www.needmorehits.com
 0.0.0.0 www.neomedia.in.net
 :: www.neomedia.in.net
-0.0.0.0 www.neonconcursos.com.br
-:: www.neonconcursos.com.br
 0.0.0.0 www.neonetmax.in.net
 :: www.neonetmax.in.net
 0.0.0.0 www.neosearch.com
