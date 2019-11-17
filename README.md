@@ -15,9 +15,6 @@ It's important to use both `domains.txt` and `hostnames.txt` simultaniously in d
  - Blocks malware servers
  - Blocks webminers
 
-## Donations
-Donations are welcome and will be used to pay for our dedicated server hosting bills: ❤️ [donate with Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VPTVYWY3B7XWG&source=url)
-
 # How to install
 ## Default dnsmasq setup
  - Download the following two files (or use a daily cronjob to do it automatically)
@@ -47,6 +44,9 @@ addn-hosts=/path/to/hostnames.txt
 DNS over HTTPS will prevent clients in your network from using the default local DNS services. Mozilla Firefox has a feature to disable DOH network wide for all clients as described [here](https://support.mozilla.org/en-US/kb/configuring-networks-disable-dns-over-https).
 
 If you use [domains.txt](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt) in your dnsmasq configuration you will have DOH disabled on all clients by default.
+
+## Donations
+Donations are welcome and will be used to pay for our dedicated server hosting bills: ❤️ [donate with Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VPTVYWY3B7XWG&source=url)
 
 # Sources
 **Domain and hostname lists**
@@ -101,6 +101,8 @@ If you use [domains.txt](https://raw.githubusercontent.com/notracking/hosts-bloc
  - https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
  - https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/basic/common.txt
  - https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+ - https://phishing.army/download/phishing_army_blocklist.txt
+ - https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt
  - a large set of custom entries
   
 **Adblock Plus lists** (only full hostname, non-3rd party filters)
