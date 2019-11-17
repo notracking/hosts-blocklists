@@ -1,8 +1,8 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Nov 16 08:38:09 CET 2019
+# Last update: Sun Nov 17 08:36:32 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37936
+# Number of unique hostnames: 37939
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
@@ -617,6 +617,8 @@
 :: 24200.h5ixp.com
 0.0.0.0 24200.luvbr.com
 :: 24200.luvbr.com
+0.0.0.0 24fkxhnr3cdtvwmy.onion.link
+:: 24fkxhnr3cdtvwmy.onion.link
 0.0.0.0 24fkxhnr3cdtvwmy.onion.nu
 :: 24fkxhnr3cdtvwmy.onion.nu
 0.0.0.0 24fkxhnr3cdtvwmy.onion.to
@@ -715,6 +717,8 @@
 :: 296f4h3wluqxmie0yqbk8n.littlematchagirl.com.au
 0.0.0.0 299800-de-nutzung-mitteilung-benutzer.sicherheitshilfe-sicherheitssystem.ga
 :: 299800-de-nutzung-mitteilung-benutzer.sicherheitshilfe-sicherheitssystem.ga
+0.0.0.0 2ahiru2school.houkou-onchi.com
+:: 2ahiru2school.houkou-onchi.com
 0.0.0.0 2bai8wb5d6.kenstewardministries.org
 :: 2bai8wb5d6.kenstewardministries.org
 0.0.0.0 2bdfb.spinakrosa.at
@@ -765,6 +769,8 @@
 :: 3.chuanyi5.com
 0.0.0.0 3.guidaye.com
 :: 3.guidaye.com
+0.0.0.0 3.ihenan.com
+:: 3.ihenan.com
 0.0.0.0 3.iscrv.com
 :: 3.iscrv.com
 0.0.0.0 3.ssqzj.com
@@ -2197,6 +2203,8 @@
 :: 6qbrxcchyely9xgsulhe.richambitions.co.uk
 0.0.0.0 6qhzz.allvideos.keme.info
 :: 6qhzz.allvideos.keme.info
+0.0.0.0 6rota.costav.edusite.ru
+:: 6rota.costav.edusite.ru
 0.0.0.0 6zsslsvosk.bradul.creatory.org
 :: 6zsslsvosk.bradul.creatory.org
 0.0.0.0 7.1tb.in
@@ -3189,6 +3197,8 @@
 :: aansluitingallekirjoittamaan.vbay.la
 0.0.0.0 aaron.fansju.com
 :: aaron.fansju.com
+0.0.0.0 aashima.goyal.com.au
+:: aashima.goyal.com.au
 0.0.0.0 aassp.wgzty.cn
 :: aassp.wgzty.cn
 0.0.0.0 aat.worldatclick.com
@@ -3983,6 +3993,8 @@
 :: ad.centrum.cz
 0.0.0.0 ad.cgi.cz
 :: ad.cgi.cz
+0.0.0.0 ad.ch5.tv
+:: ad.ch5.tv
 0.0.0.0 ad.chip.de
 :: ad.chip.de
 0.0.0.0 ad.choiceradio.com
@@ -5235,6 +5247,8 @@
 :: ad1.sportschosun.com
 0.0.0.0 ad1.sportsseoul.com
 :: ad1.sportsseoul.com
+0.0.0.0 ad1.tinong.net
+:: ad1.tinong.net
 0.0.0.0 ad1.udn.com
 :: ad1.udn.com
 0.0.0.0 ad1.virtualave.com
@@ -5493,6 +5507,8 @@
 :: adagiobanner.s3.amazonaws.com
 0.0.0.0 adagiof3.repubblica.it
 :: adagiof3.repubblica.it
+0.0.0.0 adamjarekelk.freehost.pl
+:: adamjarekelk.freehost.pl
 0.0.0.0 adapi.gunosy.com
 :: adapi.gunosy.com
 0.0.0.0 adapi.inlcorp.com
@@ -13701,6 +13717,8 @@
 :: aitligold.tripod.com
 0.0.0.0 aitsngnuu.angelcities.com
 :: aitsngnuu.angelcities.com
+0.0.0.0 aivee.koiwazurai.com
+:: aivee.koiwazurai.com
 0.0.0.0 ajbhsh.edu.bd
 :: ajbhsh.edu.bd
 0.0.0.0 ak-ns.sascdn.com
@@ -13823,6 +13841,8 @@
 :: alexannk.beget.tech
 0.0.0.0 alexey.blog21.ru
 :: alexey.blog21.ru
+0.0.0.0 alexiedb.home.ro
+:: alexiedb.home.ro
 0.0.0.0 alexpay2.beget.tech
 :: alexpay2.beget.tech
 0.0.0.0 alfredog.beget.tech
@@ -13925,10 +13945,14 @@
 :: alleron.andree.free.fr
 0.0.0.0 allisto.rusjohn.ru
 :: allisto.rusjohn.ru
+0.0.0.0 allmp3.hostil.pl
+:: allmp3.hostil.pl
 0.0.0.0 allmusic.c0.pl
 :: allmusic.c0.pl
 0.0.0.0 allrinku.web.fc2.com
 :: allrinku.web.fc2.com
+0.0.0.0 allsex.atspace.com
+:: allsex.atspace.com
 0.0.0.0 allvideo.org.uk
 :: allvideo.org.uk
 0.0.0.0 allvideos.sampleboot.xyz
@@ -14005,6 +14029,8 @@
 :: alwaysnewsoft.thegoodonesystemforcontentingstable.stream
 0.0.0.0 alwaysnewsoft.thegreatstabilitycontentingclear.win
 :: alwaysnewsoft.thegreatstabilitycontentingclear.win
+0.0.0.0 alynawebx.go.ro
+:: alynawebx.go.ro
 0.0.0.0 alyruby.000webhostapp.com
 :: alyruby.000webhostapp.com
 0.0.0.0 alyssamilano.1stok.com
@@ -15993,6 +16019,8 @@
 :: aquiwef22.esy.es
 0.0.0.0 ar.mytrack.pro
 :: ar.mytrack.pro
+0.0.0.0 arabian-horse-highlights.homepage.t-online.de
+:: arabian-horse-highlights.homepage.t-online.de
 0.0.0.0 arabiantrade.000webhostapp.com
 :: arabiantrade.000webhostapp.com
 0.0.0.0 arabic-offenses.000webhostapp.com
@@ -20913,6 +20941,8 @@
 :: cbs.wondershare.com
 0.0.0.0 cbuzoo.comlu.com
 :: cbuzoo.comlu.com
+0.0.0.0 cbvjddh.23txt.com
+:: cbvjddh.23txt.com
 0.0.0.0 cc.dace.hupu.com
 :: cc.dace.hupu.com
 0.0.0.0 cc.gofile.io
@@ -25201,8 +25231,6 @@
 :: d.beigedi.com
 0.0.0.0 d.billyaffcontent.com
 :: d.billyaffcontent.com
-0.0.0.0 d.businessinsider.com
-:: d.businessinsider.com
 0.0.0.0 d.cfcnet.to
 :: d.cfcnet.to
 0.0.0.0 d.clkservice.youdao.com
@@ -25233,8 +25261,6 @@
 :: d.gettvwizard.com
 0.0.0.0 d.ghostery.com
 :: d.ghostery.com
-0.0.0.0 d.gossipcenter.com
-:: d.gossipcenter.com
 0.0.0.0 d.greece-search.com
 :: d.greece-search.com
 0.0.0.0 d.gz2010.cn
@@ -25283,8 +25309,6 @@
 :: d.tailtarget.com
 0.0.0.0 d.thanksearch.com
 :: d.thanksearch.com
-0.0.0.0 d.thelocal.com
-:: d.thelocal.com
 0.0.0.0 d.tonghua5.com
 :: d.tonghua5.com
 0.0.0.0 d.union.ijinshan.com
@@ -27215,8 +27239,6 @@
 :: dealoftheday.yellowpages.com
 0.0.0.0 deals.buxr.net
 :: deals.buxr.net
-0.0.0.0 deals.ledgertranscript.com
-:: deals.ledgertranscript.com
 0.0.0.0 deals.macupdate.com
 :: deals.macupdate.com
 0.0.0.0 debility.adelgazar360.es
@@ -28193,8 +28215,6 @@
 :: dofeb.frenchgerlemanelectric.com
 0.0.0.0 dog.halfbirthdayproducts.com
 :: dog.halfbirthdayproducts.com
-0.0.0.0 dog1.verystream.com
-:: dog1.verystream.com
 0.0.0.0 dogus-ads-cdn.dygdigital.com
 :: dogus-ads-cdn.dygdigital.com
 0.0.0.0 dohs95d6tfj19.cloudfront.net
@@ -29517,10 +29537,6 @@
 :: e2.molbuk.ua
 0.0.0.0 e2cb3799.ngrok.io
 :: e2cb3799.ngrok.io
-0.0.0.0 e2e.mashable.com
-:: e2e.mashable.com
-0.0.0.0 e2e.pcmag.com
-:: e2e.pcmag.com
 0.0.0.0 e3.adpushup.com
 :: e3.adpushup.com
 0.0.0.0 e32e0c3c972d179cd1d0-1847ac4c91d55b307d162b6d5ad07fe3.r71.cf2.rackcdn.com
@@ -29941,8 +29957,6 @@
 :: embed.spokenlayer.com
 0.0.0.0 embed.tonews.org
 :: embed.tonews.org
-0.0.0.0 embed.xinhuanet.com
-:: embed.xinhuanet.com
 0.0.0.0 embedlog.duiba.com.cn
 :: embedlog.duiba.com.cn
 0.0.0.0 embroidery.embroidery.embroidery.ebp-items-offer-now.com
@@ -30051,8 +30065,6 @@
 :: engage2.advanstar.com
 0.0.0.0 engager.tmg.nl
 :: engager.tmg.nl
-0.0.0.0 engagesrvr.filefactory.com
-:: engagesrvr.filefactory.com
 0.0.0.0 engine.a.redditmedia.com
 :: engine.a.redditmedia.com
 0.0.0.0 engine.airtransat.co.uk
@@ -30141,8 +30153,6 @@
 :: enucip.spacefoot.com
 0.0.0.0 eol1.egyptonline.com
 :: eol1.egyptonline.com
-0.0.0.0 eontent.streamp1ay.me
-:: eontent.streamp1ay.me
 0.0.0.0 eotech-yoqblou5gqrdrn.netdna-ssl.com
 :: eotech-yoqblou5gqrdrn.netdna-ssl.com
 0.0.0.0 ep.xone.com
@@ -30455,8 +30465,6 @@
 :: euytkfwa.ddns.info
 0.0.0.0 ev.ib-ibi.com
 :: ev.ib-ibi.com
-0.0.0.0 eva.ucas.com
-:: eva.ucas.com
 0.0.0.0 evans.babajilab.in
 :: evans.babajilab.in
 0.0.0.0 evasi0n.jailbreakhost.com
@@ -31769,8 +31777,6 @@
 :: findapps.in.net
 0.0.0.0 finder.cox.net
 :: finder.cox.net
-0.0.0.0 finding.hardwareheaven.com
-:: finding.hardwareheaven.com
 0.0.0.0 findnsave.idahostatesman.com
 :: findnsave.idahostatesman.com
 0.0.0.0 fine.ancestrybloodhound.biz
@@ -31959,6 +31965,8 @@
 :: fone.joreynolds.com
 0.0.0.0 fonecta.leiki.com
 :: fonecta.leiki.com
+0.0.0.0 fontent.streamp1ay.me
+:: fontent.streamp1ay.me
 0.0.0.0 foo.cosmocode.de
 :: foo.cosmocode.de
 0.0.0.0 food.epicurious.com
@@ -32941,8 +32949,6 @@
 :: gen-hydrocodone.polybuild.ru
 0.0.0.0 gen.alicdn.com
 :: gen.alicdn.com
-0.0.0.0 gen.etherscan.io
-:: gen.etherscan.io
 0.0.0.0 general-fb-security10000.000webhostapp.com
 :: general-fb-security10000.000webhostapp.com
 0.0.0.0 general1245.pe.hu
@@ -34293,8 +34299,6 @@
 :: heathergraham.ca.tt
 0.0.0.0 heavengg-hearing.c9users.io
 :: heavengg-hearing.c9users.io
-0.0.0.0 heavenmedia.v3g4s.com
-:: heavenmedia.v3g4s.com
 0.0.0.0 heavyindustries.viuu.site
 :: heavyindustries.viuu.site
 0.0.0.0 heimo.rrsdl.com
@@ -34303,8 +34307,6 @@
 :: heise.met.vgwort.de
 0.0.0.0 heisebanner.geizhals.at
 :: heisebanner.geizhals.at
-0.0.0.0 hejban.youwatch.org
-:: hejban.youwatch.org
 0.0.0.0 hekate.porntrack.nl
 :: hekate.porntrack.nl
 0.0.0.0 helal.net.bd
@@ -35857,8 +35859,6 @@
 :: ifomzrs7ap7353oky4vr.littlematchagirl.com.au
 0.0.0.0 iframe.lachainemeteo.com
 :: iframe.lachainemeteo.com
-0.0.0.0 iframe.travel.yahoo.com
-:: iframe.travel.yahoo.com
 0.0.0.0 iframes.hustler.com
 :: iframes.hustler.com
 0.0.0.0 iframes.perfectgonzo.com
@@ -36215,6 +36215,8 @@
 :: imalaseko.win.co.tz
 0.0.0.0 imamnhearte.hotmail.ru
 :: imamnhearte.hotmail.ru
+0.0.0.0 imap.dpsl.net
+:: imap.dpsl.net
 0.0.0.0 imasdk.googleapis.com
 :: imasdk.googleapis.com
 0.0.0.0 imc.l.qq.com
@@ -36737,6 +36739,8 @@
 :: incontech.owncube.com
 0.0.0.0 increasingly.nut.cc
 :: increasingly.nut.cc
+0.0.0.0 indetiske.ya.ru
+:: indetiske.ya.ru
 0.0.0.0 index-pdf-admin-profile00000000.renusasrl.com
 :: index-pdf-admin-profile00000000.renusasrl.com
 0.0.0.0 index.gh-xh-nwe.com
@@ -38195,6 +38199,8 @@
 :: js.vipyy88.com
 0.0.0.0 js.worthathousandwords.com
 :: js.worthathousandwords.com
+0.0.0.0 js.xiao7cdn.com
+:: js.xiao7cdn.com
 0.0.0.0 js.xtgreat.com
 :: js.xtgreat.com
 0.0.0.0 js.xuexila.com
@@ -38463,8 +38469,6 @@
 :: kali.mycom.co.jp
 0.0.0.0 kali.mynavi.jp
 :: kali.mynavi.jp
-0.0.0.0 kalo.onvid.xyz
-:: kalo.onvid.xyz
 0.0.0.0 kalstats.kaltura.com
 :: kalstats.kaltura.com
 0.0.0.0 kameliya.dn.ua
@@ -38569,10 +38573,10 @@
 :: kencho-1hararah.anulcreampie.com
 0.0.0.0 kencooper55.5gbfree.com
 :: kencooper55.5gbfree.com
+0.0.0.0 keniisha.realdealpsychic.com
+:: keniisha.realdealpsychic.com
 0.0.0.0 kenmollens.hackerz5.com
 :: kenmollens.hackerz5.com
-0.0.0.0 ker.pic2pic.site
-:: ker.pic2pic.site
 0.0.0.0 kerchiefed-bets.000webhostapp.com
 :: kerchiefed-bets.000webhostapp.com
 0.0.0.0 kermit.macnn.com
@@ -39517,8 +39521,6 @@
 :: lie9thli-site.dtempurl.com
 0.0.0.0 lif.yaicom.ru
 :: lif.yaicom.ru
-0.0.0.0 life.imagepix.org
-:: life.imagepix.org
 0.0.0.0 lifemediahouse1.onlinewelten.com
 :: lifemediahouse1.onlinewelten.com
 0.0.0.0 lifescience.sysu.edu.cn
@@ -59995,6 +59997,8 @@
 :: suntrustealrts.esy.es
 0.0.0.0 sunturst2017.000webhostapp.com
 :: sunturst2017.000webhostapp.com
+0.0.0.0 suolaka.23txt.com
+:: suolaka.23txt.com
 0.0.0.0 sup-port.netne.net
 :: sup-port.netne.net
 0.0.0.0 super.cat898.com
@@ -72069,6 +72073,8 @@
 :: www.needmorehits.com
 0.0.0.0 www.neomedia.in.net
 :: www.neomedia.in.net
+0.0.0.0 www.neonconcursos.com.br
+:: www.neonconcursos.com.br
 0.0.0.0 www.neonetmax.in.net
 :: www.neonetmax.in.net
 0.0.0.0 www.neosearch.com
