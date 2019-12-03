@@ -33,8 +33,13 @@ addn-hosts=/path/to/hostnames.txt
 ```
  - Restart dnsmasq (reload will **not** update list changes) `sudo service dnsmasq restart`
 
+## Automatic update and whitelist script
+For automatic updates and whitelisting on Debian based systems you can use the [notracking update script](https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/notracking_update) as a daily cronjob (detailed instructions inside).
+
 ## For a Pi-hole setup
-Because Pi-hole does not fully support loading of dnsmasq domain filters ([details here](https://github.com/pi-hole/pi-hole/blob/1e87850952b6d886674b487f57e47fae1c20dc8a/gravity.sh#L338)), you should add your own `.conf` file in `/etc/dnsmasq.d/`. This way you can still use our blocklists with Pi-hole, but updating has to be done by an external daily cronjob. It's also recommended to remove all default Pi-hole lists, since these are already included in our list in a more efficient manner.
+Pi-hole is a webinterface (and more) on top of dnsmasq, but it does not support loading of dnsmasq based domain filters ([details here](https://github.com/pi-hole/pi-hole/blob/1e87850952b6d886674b487f57e47fae1c20dc8a/gravity.sh#L338)). In order to use the dnsmasq domain capabilities you should add your own `.conf` file in `/etc/dnsmasq.d/`. This way you can still use the notracking blocklists within Pi-hole. 
+
+Please note that it is required to update the notracking lists automatically by using an external [daily cronjob](https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/notracking_update) (instructions inside). It's also recommended to remove all default Pi-hole lists, since these are already included in our list in a more efficient manner.
 
  - Add the following lines to `/etc/dnsmasq.d/99-pihole-custom-lists.conf` (example filename)
 ```
