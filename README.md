@@ -40,15 +40,16 @@ For automatic updates and whitelisting on Debian based systems you can use the [
 ## For a Pi-hole setup
 Pi-hole is a webinterface (and more) on top of dnsmasq, but it does not support loading of dnsmasq based domain filters ([details here](https://github.com/pi-hole/pi-hole/blob/1e87850952b6d886674b487f57e47fae1c20dc8a/gravity.sh#L338)). In order to use the dnsmasq domain capabilities you should add your own `.conf` file in `/etc/dnsmasq.d/`. This way you can still use the notracking blocklists within Pi-hole. 
 
-Please note that it is required to update the notracking lists automatically by using an external [daily cronjob](https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/notracking_update) (instructions inside). It's also recommended to remove all default Pi-hole lists, since these are already included in our list in a more efficient manner.
+Please note that it is required to update the notracking lists automatically by using an external [daily cronjob](https://github.com/notracking/hosts-blocklists#automatic-update-and-whitelist-script) (instructions inside). It's also recommended to remove all default Pi-hole lists, since these are already included in our list in a more efficient manner.
 
- - Add the following lines to `/etc/dnsmasq.d/99-pihole-custom-lists.conf` (example filename)
+ - Add (and edit) the following lines to `/etc/dnsmasq.d/99-notracking-lists.conf`
 ```
 conf-file=/path/to/domains.txt
 addn-hosts=/path/to/hostnames.txt
 ```
- - (Optional, but recommended) Remove the default Pi-hole lists in `/etc/pihole/adlists.list`
+ - Remove the default Pi-hole lists in `/etc/pihole/adlists.list`
  - Update Pi-hole `pihole -g`
+ - Add a [daily cronjob](https://github.com/notracking/hosts-blocklists#automatic-update-and-whitelist-script) to automatically update
 
 ## DNS over HTTPS (DOH)
 DNS over HTTPS will prevent clients in your network from using the default local DNS services. Mozilla Firefox has a feature to disable DOH network wide for all clients as described [here](https://support.mozilla.org/en-US/kb/configuring-networks-disable-dns-over-https).
