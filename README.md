@@ -66,9 +66,6 @@ Donations are welcome and will be used to pay for our dedicated server hosting b
  - http://someonewhocares.org/hosts/hosts/
  - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
  - https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
- - http://hosts-file.net/ad_servers.txt
- - http://hosts-file.net/exp.txt
- - http://hosts-file.net/mmt.txt
  - http://pgl.yoyo.org/as/serverlist.php?hostformat=hosts
  - https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
  - https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt
