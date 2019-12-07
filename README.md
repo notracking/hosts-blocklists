@@ -18,7 +18,9 @@ The optimizer makes full use of dnsmasqs capability to block entire domains such
 It's important to use both `domains.txt` and `hostnames.txt` simultaneously in dnsmasq to get full coverage!
 
 ## Dead hosts removal
-All hosts DNS records are constantly monitored for updates. In case the A, AAAA and CNAME records return NXDOMAIN for at least 7 days in a row, they will be marked as dead and removed from the filterlist. The current list of dead hosts can be found [here](https://github.com/notracking/hosts-blocklists-scripts/blob/master/deadhosts.txt).
+All hostname DNS records are constantly monitored for updates. In case the A, AAAA, CNAME and NS records return NXDOMAIN they will be marked as dead and removed from hostnames.txt. Domains are tested on their whois data, all unregistered domains will be filtered out of domains.txt.
+
+The current list of dead hostnames can be found [here](https://github.com/notracking/hosts-blocklists-scripts/blob/master/hostnames.dead.txt) and have a look [here](https://github.com/notracking/hosts-blocklists-scripts/blob/master/domains.dead.txt) for all unregistered domains.
 
 # How to install
 ## Default dnsmasq setup
