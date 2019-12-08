@@ -1,10 +1,10 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Dec 7 08:55:26 CET 2019
+# Last update: Sun Dec 8 09:01:35 CET 2019
 # License: MIT
 # Buy me a beer: https://www.paypal.me/notracking
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 26275
+# Number of unique hostnames: 26297
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed false calls, dead hosts and added a large set of custom entries
@@ -89,6 +89,8 @@
 :: 09099808900090909.000webhostapp.com
 0.0.0.0 09_19.supfree.net
 :: 09_19.supfree.net
+0.0.0.0 0c584d61-0ba8-48fe-8709-44323bfc47c1.htmlcomponentservice.com
+:: 0c584d61-0ba8-48fe-8709-44323bfc47c1.htmlcomponentservice.com
 0.0.0.0 0ec97c88.000webhostapp.com
 :: 0ec97c88.000webhostapp.com
 0.0.0.0 0f1dc77bd4.000webhostapp.com
@@ -967,6 +969,8 @@
 :: 987449-deu-prob-sicher-nachweis.sicher-vorbeugung.tk
 0.0.0.0 999ways.blogspot.co.uk
 :: 999ways.blogspot.co.uk
+0.0.0.0 99brands.fabandroll.co.ke
+:: 99brands.fabandroll.co.ke
 0.0.0.0 9aad7115.amy.gs
 :: 9aad7115.amy.gs
 0.0.0.0 9ambgkopn1xawlzj7um8.maherstcottage.com.au
@@ -1553,6 +1557,8 @@
 :: ab159015.adbutler-zilon.com
 0.0.0.0 ab163949.adbutler-kaon.com
 :: ab163949.adbutler-kaon.com
+0.0.0.0 ab453bbe-3b65-47cf-9eca-798689d971d5.htmlcomponentservice.com
+:: ab453bbe-3b65-47cf-9eca-798689d971d5.htmlcomponentservice.com
 0.0.0.0 ababy.dragon.uaezvcvs.tk
 :: ababy.dragon.uaezvcvs.tk
 0.0.0.0 abandonment.saas.seewhy.com
@@ -1631,8 +1637,6 @@
 :: abtest.mistat.xiaomi.com
 0.0.0.0 abtracker.adultbouncer.com
 :: abtracker.adultbouncer.com
-0.0.0.0 abusalewm.exceltoner.com
-:: abusalewm.exceltoner.com
 0.0.0.0 ac.86huoche.com
 :: ac.86huoche.com
 0.0.0.0 ac.ajur.info
@@ -8709,6 +8713,8 @@
 :: adult.shengen.ru
 0.0.0.0 adultdatingtest.worlddatingforum.com
 :: adultdatingtest.worlddatingforum.com
+0.0.0.0 adultweb.demoparlour.com
+:: adultweb.demoparlour.com
 0.0.0.0 adunit.cdn.auditude.com
 :: adunit.cdn.auditude.com
 0.0.0.0 adus.imageg.net
@@ -10351,6 +10357,8 @@
 :: amer.rel.msn.com
 0.0.0.0 americanas-com-br-eletroeletronicos-desconto.cuccfree.com
 :: americanas-com-br-eletroeletronicos-desconto.cuccfree.com
+0.0.0.0 americanas.black-friday-dezembro-01.ml
+:: americanas.black-friday-dezembro-01.ml
 0.0.0.0 americancorner.udp.cl
 :: americancorner.udp.cl
 0.0.0.0 ameritasinsurance.000webhostapp.com
@@ -11445,12 +11453,12 @@
 :: apple.www.letv.com
 0.0.0.0 appleid.apple.com.ios-m.us
 :: appleid.apple.com.ios-m.us
+0.0.0.0 appleld-apple.accountlocked-feedbackld.hgabergen.com
+:: appleld-apple.accountlocked-feedbackld.hgabergen.com
 0.0.0.0 appleld.apple-supports.servicemail-activity.com
 :: appleld.apple-supports.servicemail-activity.com
 0.0.0.0 appleld.apple.com.t5j2kdkc88dd2m423-verif.info
 :: appleld.apple.com.t5j2kdkc88dd2m423-verif.info
-0.0.0.0 applelnce.com-h3lps1ng493jkv.haedas.com
-:: applelnce.com-h3lps1ng493jkv.haedas.com
 0.0.0.0 applets.sulekha.com
 :: applets.sulekha.com
 0.0.0.0 applog.camera360.com
@@ -11511,6 +11519,8 @@
 :: appsto30.beget.tech
 0.0.0.0 appstore-id.000webhostapp.com
 :: appstore-id.000webhostapp.com
+0.0.0.0 appstoreid-order-item.decadealbum.com
+:: appstoreid-order-item.decadealbum.com
 0.0.0.0 appsupport.stargame.com
 :: appsupport.stargame.com
 0.0.0.0 appwall.tv2phone.cn
@@ -12401,8 +12411,6 @@
 :: banking.raiffeisen.at.id809123.top
 0.0.0.0 bankofamerica.com.account-update.oasisoutsourcingfirm.com
 :: bankofamerica.com.account-update.oasisoutsourcingfirm.com
-0.0.0.0 bankofamerica.com.albadiah-stone.com
-:: bankofamerica.com.albadiah-stone.com
 0.0.0.0 bankofamerica.justusianet.id
 :: bankofamerica.justusianet.id
 0.0.0.0 bankofamerica1.serveirc.com
@@ -12811,8 +12819,6 @@
 :: banners.iop.org
 0.0.0.0 banners.iq.pl
 :: banners.iq.pl
-0.0.0.0 banners.japantoday.com
-:: banners.japantoday.com
 0.0.0.0 banners.jewishfriendfinder.com
 :: banners.jewishfriendfinder.com
 0.0.0.0 banners.kinoafisha.info
@@ -13659,6 +13665,8 @@
 :: bd1.xiby.cn
 0.0.0.0 bd1.yidu.cc
 :: bd1.yidu.cc
+0.0.0.0 bd1.zuimeitianqi.com
+:: bd1.zuimeitianqi.com
 0.0.0.0 bd11.nipic.com
 :: bd11.nipic.com
 0.0.0.0 bd2.52che.com
@@ -13677,6 +13685,8 @@
 :: bd2.nipic.com
 0.0.0.0 bd2.pipaw.com
 :: bd2.pipaw.com
+0.0.0.0 bd2.zuimeitianqi.com
+:: bd2.zuimeitianqi.com
 0.0.0.0 bd3.chuiyue.com
 :: bd3.chuiyue.com
 0.0.0.0 bd3.jobui.com
@@ -14559,6 +14569,8 @@
 :: browsermine.12finance.com
 0.0.0.0 browsersurf.12finance.com
 :: browsersurf.12finance.com
+0.0.0.0 brrof-csgoroll-7.tradesteal-demo-fakes.com
+:: brrof-csgoroll-7.tradesteal-demo-fakes.com
 0.0.0.0 brupuoli.tempsite.ws
 :: brupuoli.tempsite.ws
 0.0.0.0 bs-meta.yandex.ru
@@ -15055,8 +15067,6 @@
 :: c03.optimix.asia
 0.0.0.0 c04.adsummos.net
 :: c04.adsummos.net
-0.0.0.0 c0nfrim-supoort22.regist3r2.ga
-:: c0nfrim-supoort22.regist3r2.ga
 0.0.0.0 c1.4qx.net
 :: c1.4qx.net
 0.0.0.0 c1.668559.com
@@ -15203,8 +15213,6 @@
 :: cache.izearanks.com
 0.0.0.0 cache.realitykings.com
 :: cache.realitykings.com
-0.0.0.0 cache.unicast.com
-:: cache.unicast.com
 0.0.0.0 cache.xw126.com
 :: cache.xw126.com
 0.0.0.0 cachebanners.toteme.com
@@ -15377,6 +15385,8 @@
 :: casino-ad-mediation.me2zengame.com
 0.0.0.0 caspertour.asc-florida.com
 :: caspertour.asc-florida.com
+0.0.0.0 cassini.efigence.com
+:: cassini.efigence.com
 0.0.0.0 cassmcdn.000webhostapp.com
 :: cassmcdn.000webhostapp.com
 0.0.0.0 cassmcdsa.000webhostapp.com
@@ -16053,14 +16063,14 @@
 :: cfcs1.duckdns.org
 0.0.0.0 cfdac.8g0ymk.cn
 :: cfdac.8g0ymk.cn
-0.0.0.0 cfg.imtt.qq.com
-:: cfg.imtt.qq.com
 0.0.0.0 cfrandle.ironside.tk
 :: cfrandle.ironside.tk
 0.0.0.0 cfs8.blog.daum.net
 :: cfs8.blog.daum.net
 0.0.0.0 cfspart.impots.gouv.fr.particulier.vfd.com.ua
 :: cfspart.impots.gouv.fr.particulier.vfd.com.ua
+0.0.0.0 cft.od.ua
+:: cft.od.ua
 0.0.0.0 cg.wandashops.com
 :: cg.wandashops.com
 0.0.0.0 cggqbjvncbw4ihibbsuw.maherstcottage.com.au
@@ -17647,8 +17657,6 @@
 :: couponwinner.com-net.info
 0.0.0.0 courier.karelia.ru
 :: courier.karelia.ru
-0.0.0.0 courtneyavenuedaycare.nbcomputerworks.com
-:: courtneyavenuedaycare.nbcomputerworks.com
 0.0.0.0 coveracctyourfb998120134.000webhostapp.com
 :: coveracctyourfb998120134.000webhostapp.com
 0.0.0.0 cowboy.contextuads.com
@@ -17769,8 +17777,6 @@
 :: create.lidstatic.com
 0.0.0.0 createyourfuture.org.uk
 :: createyourfuture.org.uk
-0.0.0.0 creatiby1.unicast.com
-:: creatiby1.unicast.com
 0.0.0.0 creational-nouns.000webhostapp.com
 :: creational-nouns.000webhostapp.com
 0.0.0.0 creative.jdkic.com
@@ -17881,6 +17887,8 @@
 :: cs.twcczhu.com
 0.0.0.0 cs.twojanagroda.pl
 :: cs.twojanagroda.pl
+0.0.0.0 cs02-pps-drcn.dbankcdn.com
+:: cs02-pps-drcn.dbankcdn.com
 0.0.0.0 cs1.wpc.v0cdn.net
 :: cs1.wpc.v0cdn.net
 0.0.0.0 cs126.wpc.edgecastcdn.net
@@ -20121,8 +20129,6 @@
 :: digitalmore-a.akamaihd.net
 0.0.0.0 digitalnoirtest.net.au
 :: digitalnoirtest.net.au
-0.0.0.0 digitauact.sslblindado.com
-:: digitauact.sslblindado.com
 0.0.0.0 dildo.tnaflix.com
 :: dildo.tnaflix.com
 0.0.0.0 dillerator.chat.ru
@@ -20151,8 +20157,6 @@
 :: disablesaccount.000webhostapp.com
 0.0.0.0 discount.s3blog.org
 :: discount.s3blog.org
-0.0.0.0 discover.alert.service.manegers.online.secure.tattsfin.com.au
-:: discover.alert.service.manegers.online.secure.tattsfin.com.au
 0.0.0.0 discover.dnsi.co.za
 :: discover.dnsi.co.za
 0.0.0.0 discoveryad.castoola.tv
@@ -20817,8 +20821,6 @@
 :: dropbox.chyenterprise.com
 0.0.0.0 dropbox.disndat.com.ng
 :: dropbox.disndat.com.ng
-0.0.0.0 dropbox.mini-shop.si
-:: dropbox.mini-shop.si
 0.0.0.0 dropbox.royalgrace.co.za
 :: dropbox.royalgrace.co.za
 0.0.0.0 dropdeact.000webhostapp.com
@@ -21161,8 +21163,6 @@
 :: e.7hs3ja.cn
 0.0.0.0 e.91.com
 :: e.91.com
-0.0.0.0 e.9xws7p.cn
-:: e.9xws7p.cn
 0.0.0.0 e.ailix.cn
 :: e.ailix.cn
 0.0.0.0 e.baidu.com
@@ -21483,6 +21483,10 @@
 :: edwlifes.vo.llnwd.net
 0.0.0.0 edxkx.saqibsiddiqui.com
 :: edxkx.saqibsiddiqui.com
+0.0.0.0 ee-update.ref408.com
+:: ee-update.ref408.com
+0.0.0.0 ee-update.ref84.com
+:: ee-update.ref84.com
 0.0.0.0 ee.32z8d.cn
 :: ee.32z8d.cn
 0.0.0.0 ee.60w3s.cn
@@ -22167,6 +22171,8 @@
 :: f7ds.liberation.fr
 0.0.0.0 f7space.zg5.ru
 :: f7space.zg5.ru
+0.0.0.0 f80e476c-4329-4a82-ae2b-40a9bc5e96df.htmlcomponentservice.com
+:: f80e476c-4329-4a82-ae2b-40a9bc5e96df.htmlcomponentservice.com
 0.0.0.0 faaceboook-com.000webhostapp.com
 :: faaceboook-com.000webhostapp.com
 0.0.0.0 faarl.saqibsiddiqui.com
@@ -22585,6 +22591,8 @@
 :: festival.cocobau.com
 0.0.0.0 festivalguy.bravepages.com
 :: festivalguy.bravepages.com
+0.0.0.0 fewvsdrtr.re.kr
+:: fewvsdrtr.re.kr
 0.0.0.0 fexclick.baidu.com
 :: fexclick.baidu.com
 0.0.0.0 ff.astv.ru
@@ -22607,10 +22615,6 @@
 :: fff.dailymail.co.uk
 0.0.0.0 fffyfyfyfhuhjn.000webhostapp.com
 :: fffyfyfyfhuhjn.000webhostapp.com
-0.0.0.0 ffoqr3ug7m726zou.jye7lt.top
-:: ffoqr3ug7m726zou.jye7lt.top
-0.0.0.0 ffoqr3ug7m726zou.zkxb17.top
-:: ffoqr3ug7m726zou.zkxb17.top
 0.0.0.0 fforum.pisz.pl
 :: fforum.pisz.pl
 0.0.0.0 ffre.ffrepair.com
@@ -23801,8 +23805,6 @@
 :: gif.lu.sogoucdn.com
 0.0.0.0 gift-token-events.mywebcommunity.org
 :: gift-token-events.mywebcommunity.org
-0.0.0.0 giftcardsbay.newton.gknu.com
-:: giftcardsbay.newton.gknu.com
 0.0.0.0 giftcardsurveys.us.com
 :: giftcardsurveys.us.com
 0.0.0.0 gifts.invity.com
@@ -23873,6 +23875,8 @@
 :: globaldesk.sitey.me
 0.0.0.0 globalmagatrading.nexuscoltd.com
 :: globalmagatrading.nexuscoltd.com
+0.0.0.0 globaloffensiv.srvsupportinfo.com
+:: globaloffensiv.srvsupportinfo.com
 0.0.0.0 globalsrv.srvsupportinfo.com
 :: globalsrv.srvsupportinfo.com
 0.0.0.0 glosowanie.ujm.pl
@@ -23967,6 +23971,8 @@
 :: goa.camimbu.com
 0.0.0.0 gobba.myeffect.net
 :: gobba.myeffect.net
+0.0.0.0 goblin.hupu.com
+:: goblin.hupu.com
 0.0.0.0 gocidollar420.000webhostapp.com
 :: gocidollar420.000webhostapp.com
 0.0.0.0 godfather3movies.blogs-blogs.com
@@ -24089,6 +24095,8 @@
 :: greatfind-a.akamaihd.net
 0.0.0.0 greatfireoflondon.org.uk
 :: greatfireoflondon.org.uk
+0.0.0.0 greatgoods2.bravepages.com
+:: greatgoods2.bravepages.com
 0.0.0.0 greenindex.dynamic-dns.net
 :: greenindex.dynamic-dns.net
 0.0.0.0 greenpois0n-gc.blogspot.com
@@ -24377,8 +24385,6 @@
 :: hansrane.000webhostapp.com
 0.0.0.0 hanzele.wpdevcloud.com
 :: hanzele.wpdevcloud.com
-0.0.0.0 hao.315hyw.com
-:: hao.315hyw.com
 0.0.0.0 hao.360hyzj.com
 :: hao.360hyzj.com
 0.0.0.0 hao.7654.com
@@ -24741,8 +24747,6 @@
 :: hitweb.chosun.com
 0.0.0.0 hjem.get2net.dk
 :: hjem.get2net.dk
-0.0.0.0 hjhqmbxyinislkkt.13eymq.top
-:: hjhqmbxyinislkkt.13eymq.top
 0.0.0.0 hjk.sygjls.com
 :: hjk.sygjls.com
 0.0.0.0 hk.adserver.yahoo.com
@@ -24929,8 +24933,6 @@
 :: hmma.baidu.com
 0.0.0.0 hmora.fred-build.tk
 :: hmora.fred-build.tk
-0.0.0.0 hmrc.7verifications.com
-:: hmrc.7verifications.com
 0.0.0.0 hmrevenue.gov.uk.claim-tax-refunds.overview.danpn.com
 :: hmrevenue.gov.uk.claim-tax-refunds.overview.danpn.com
 0.0.0.0 hndndndnddmdndnd.000webhostapp.com
@@ -25047,6 +25049,8 @@
 :: hotclick.app.linezing.com
 0.0.0.0 hotelimperium.go.ro
 :: hotelimperium.go.ro
+0.0.0.0 hotmusic.vipereskariot.ru
+:: hotmusic.vipereskariot.ru
 0.0.0.0 hotsex.3hosting.net
 :: hotsex.3hosting.net
 0.0.0.0 hotstar.pubnub.net
@@ -25177,6 +25181,8 @@
 :: hvetdfqh.sufx.net
 0.0.0.0 hw.srca.org
 :: hw.srca.org
+0.0.0.0 hwad.zuimeitianqi.com
+:: hwad.zuimeitianqi.com
 0.0.0.0 hwt.player888.cn
 :: hwt.player888.cn
 0.0.0.0 hwusdi.000webhostapp.com
@@ -25559,6 +25565,8 @@
 :: iftikharchaudhry.50webs.com
 0.0.0.0 igagh.tourstogo.us
 :: igagh.tourstogo.us
+0.0.0.0 ignitevsdrtr.re.kr
+:: ignitevsdrtr.re.kr
 0.0.0.0 ignorable-pieces.000webhostapp.com
 :: ignorable-pieces.000webhostapp.com
 0.0.0.0 igoby.frost-electric-supply.com
@@ -25771,8 +25779,6 @@
 :: images2.laih.com
 0.0.0.0 images3.linkwithin.com
 :: images3.linkwithin.com
-0.0.0.0 imagesc.net-temps.com
-:: imagesc.net-temps.com
 0.0.0.0 imagescroll.detik.com
 :: imagescroll.detik.com
 0.0.0.0 imalaseko.win.co.tz
@@ -26145,8 +26151,6 @@
 :: inapp.1sapp.com
 0.0.0.0 inc-wccustomer.euweb.cz
 :: inc-wccustomer.euweb.cz
-0.0.0.0 inc.2-5-d.jp
-:: inc.2-5-d.jp
 0.0.0.0 incanto.in.ua
 :: incanto.in.ua
 0.0.0.0 inclockswitchswdes.000webhostapp.com
@@ -26281,6 +26285,8 @@
 :: infocoard.50webs.com
 0.0.0.0 infodiirectives.000webhostapp.com
 :: infodiirectives.000webhostapp.com
+0.0.0.0 infokid.softwareelite.com
+:: infokid.softwareelite.com
 0.0.0.0 infolmck.beget.tech
 :: infolmck.beget.tech
 0.0.0.0 infolmnz.beget.tech
@@ -26459,6 +26465,8 @@
 :: intranet.nantucketislandresorts.com
 0.0.0.0 intranet.trf.co.in
 :: intranet.trf.co.in
+0.0.0.0 intranet.tsfbe.be
+:: intranet.tsfbe.be
 0.0.0.0 intuit.securityupdateserver-1.com
 :: intuit.securityupdateserver-1.com
 0.0.0.0 inurbane-poisons.000webhostapp.com
@@ -26603,12 +26611,16 @@
 :: it.erosadv.com
 0.0.0.0 it4cio.servicos.ws
 :: it4cio.servicos.ws
+0.0.0.0 itaes.edu.mx
+:: itaes.edu.mx
 0.0.0.0 italcase.ve.it
 :: italcase.ve.it
 0.0.0.0 italy-amazon-sicurezza.vbasc.com
 :: italy-amazon-sicurezza.vbasc.com
 0.0.0.0 italy-mps-cartetitolari.www1.biz
 :: italy-mps-cartetitolari.www1.biz
+0.0.0.0 itauempresa.linkface.es
+:: itauempresa.linkface.es
 0.0.0.0 itc.2081.blueseek.com
 :: itc.2081.blueseek.com
 0.0.0.0 itc.slav.dn.ua
@@ -26685,6 +26697,8 @@
 :: ixmwqbvtibvv428mu4as.maherstcottage.com.au
 0.0.0.0 ixoox.csheaven.com
 :: ixoox.csheaven.com
+0.0.0.0 ixpo.reco.sk
+:: ixpo.reco.sk
 0.0.0.0 iyes.youku.com
 :: iyes.youku.com
 0.0.0.0 iyuurrfdfd.gobnd.com
@@ -27019,8 +27033,6 @@
 :: join.pro-gaming-world.com
 0.0.0.0 join1.winhundred.com
 :: join1.winhundred.com
-0.0.0.0 joingrupwhatsap.get22.ga
-:: joingrupwhatsap.get22.ga
 0.0.0.0 joinit.ns13-wistee.fr
 :: joinit.ns13-wistee.fr
 0.0.0.0 jokowi12.000webhostapp.com
@@ -27085,6 +27097,8 @@
 :: jrclick.jd.com
 0.0.0.0 jrlt.beacon.qq.com
 :: jrlt.beacon.qq.com
+0.0.0.0 jrockish.bravepages.com
+:: jrockish.bravepages.com
 0.0.0.0 jrpfekf.angelfire.com
 :: jrpfekf.angelfire.com
 0.0.0.0 jrpt.jrptweb.org
@@ -27333,8 +27347,6 @@
 :: jshoppingbox.joinsmsn.com
 0.0.0.0 jsjs.nthyn.com
 :: jsjs.nthyn.com
-0.0.0.0 jskrnekewe.mofans.net
-:: jskrnekewe.mofans.net
 0.0.0.0 jsm.39yst.com
 :: jsm.39yst.com
 0.0.0.0 jsm.9939.com
@@ -27415,8 +27427,6 @@
 :: jwz.3conline.com
 0.0.0.0 jx.tmall.com
 :: jx.tmall.com
-0.0.0.0 jxad.jx163.com
-:: jxad.jx163.com
 0.0.0.0 jxgz0kijwc.bvvz1oh0an.madpendesign.com.au
 :: jxgz0kijwc.bvvz1oh0an.madpendesign.com.au
 0.0.0.0 jy.zhongxues.com
@@ -27465,8 +27475,6 @@
 :: kad.kaskus.co.id
 0.0.0.0 kad.kaskus.com
 :: kad.kaskus.com
-0.0.0.0 kadubeureum-serang.desa.id
-:: kadubeureum-serang.desa.id
 0.0.0.0 kafle.net.pl
 :: kafle.net.pl
 0.0.0.0 kaidxqxxzh.dgqdpcdjre.madpendesign.com.au
@@ -27859,8 +27867,6 @@
 :: kuatbai.000webhostapp.com
 0.0.0.0 kudopepek.000webhostapp.com
 :: kudopepek.000webhostapp.com
-0.0.0.0 kudunkal.heliohost.org
-:: kudunkal.heliohost.org
 0.0.0.0 kula-dep.justdied.com
 :: kula-dep.justdied.com
 0.0.0.0 kulmatog.beget.tech
@@ -28855,6 +28861,8 @@
 :: m.17w3a.cn
 0.0.0.0 m.181mob.com
 :: m.181mob.com
+0.0.0.0 m.198nc.cn
+:: m.198nc.cn
 0.0.0.0 m.1j5wc.cn
 :: m.1j5wc.cn
 0.0.0.0 m.1q89b.cn
@@ -28879,8 +28887,6 @@
 :: m.3987.com
 0.0.0.0 m.3m49h.cn
 :: m.3m49h.cn
-0.0.0.0 m.3r76q.cn
-:: m.3r76q.cn
 0.0.0.0 m.448u79.cn
 :: m.448u79.cn
 0.0.0.0 m.495495.com
@@ -29631,10 +29637,10 @@
 :: maiicenterteam.000webhostapp.com
 0.0.0.0 mail-ads.google.com
 :: mail-ads.google.com
-0.0.0.0 mail.a24assistance.rs
-:: mail.a24assistance.rs
 0.0.0.0 mail.bangla.net
 :: mail.bangla.net
+0.0.0.0 mail.beloinox.pl
+:: mail.beloinox.pl
 0.0.0.0 mail.cyberh.fr
 :: mail.cyberh.fr
 0.0.0.0 mail.fierceathlete.com
@@ -29651,16 +29657,18 @@
 :: mail.ioc.ac.ru
 0.0.0.0 mail.issas.ac.cn
 :: mail.issas.ac.cn
+0.0.0.0 mail.lehavre-fr.com
+:: mail.lehavre-fr.com
 0.0.0.0 mail.mgeducation.org
 :: mail.mgeducation.org
 0.0.0.0 mail.myiris.com
 :: mail.myiris.com
-0.0.0.0 mail.photomilan.com.np
-:: mail.photomilan.com.np
 0.0.0.0 mail.pmo.ac.cn
 :: mail.pmo.ac.cn
 0.0.0.0 mail.radar.imgsmail.ru
 :: mail.radar.imgsmail.ru
+0.0.0.0 mail.relaxhomelife.com
+:: mail.relaxhomelife.com
 0.0.0.0 mail.siom.ac.cn
 :: mail.siom.ac.cn
 0.0.0.0 mail.tropmet.res.in
@@ -30837,8 +30845,6 @@
 :: mickagain.000webhostapp.com
 0.0.0.0 microsoft-office-36563.webnode.com
 :: microsoft-office-36563.webnode.com
-0.0.0.0 microsoft-portal.dynv6.net
-:: microsoft-portal.dynv6.net
 0.0.0.0 microsoft365-secured-documentfile.000webhostapp.com
 :: microsoft365-secured-documentfile.000webhostapp.com
 0.0.0.0 microsoft81.webnode.com
@@ -30861,8 +30867,6 @@
 :: middlerush-a.akamaihd.net
 0.0.0.0 midinfo.baofeng.com
 :: midinfo.baofeng.com
-0.0.0.0 migration.vuonsite.com
-:: migration.vuonsite.com
 0.0.0.0 miiklaf3.beget.tech
 :: miiklaf3.beget.tech
 0.0.0.0 mijnknwu.knwu.nl
@@ -31511,8 +31515,6 @@
 :: mtrkooxi.dyndns.org
 0.0.0.0 mtsas.freehost.pl
 :: mtsas.freehost.pl
-0.0.0.0 mtsnu-miftahululum.sch.id
-:: mtsnu-miftahululum.sch.id
 0.0.0.0 mtty-cdn.mtty.xin
 :: mtty-cdn.mtty.xin
 0.0.0.0 mtvbrazil-services.vimn.com
@@ -31573,6 +31575,8 @@
 :: mvduk.kiev.ua
 0.0.0.0 mvo.bd6t4.xyz
 :: mvo.bd6t4.xyz
+0.0.0.0 mvo.lki6hy.xyz
+:: mvo.lki6hy.xyz
 0.0.0.0 mvo.mftgyh.xyz
 :: mvo.mftgyh.xyz
 0.0.0.0 mvo.nefcd.xyz
@@ -31715,6 +31719,8 @@
 :: na-toursru.416.com1.ru
 0.0.0.0 na.ads.yahoo.com
 :: na.ads.yahoo.com
+0.0.0.0 nab.id.au
+:: nab.id.au
 0.0.0.0 nabdefence-au-securesession-accountrestore.login9-secure.com
 :: nabdefence-au-securesession-accountrestore.login9-secure.com
 0.0.0.0 nad.cbs.co.kr
@@ -31815,8 +31821,6 @@
 :: nclog.pad.baofeng.net
 0.0.0.0 ncsqb.saqibsiddiqui.com
 :: ncsqb.saqibsiddiqui.com
-0.0.0.0 nd11mx1-a-fixed.sancharnet.in
-:: nd11mx1-a-fixed.sancharnet.in
 0.0.0.0 ndiop.kiev.ua
 :: ndiop.kiev.ua
 0.0.0.0 ndl1pp1-a-fixed.sancharnet.in
@@ -31877,8 +31881,6 @@
 :: netflix.apple-green.net
 0.0.0.0 netflix.configuration-manager-page.com
 :: netflix.configuration-manager-page.com
-0.0.0.0 netflix.login.active-application-management.com
-:: netflix.login.active-application-management.com
 0.0.0.0 netflix.login.secure-program-options.com
 :: netflix.login.secure-program-options.com
 0.0.0.0 netflixusersupport.sysvalidate.safeguard.validatebilling42.com
@@ -32025,8 +32027,6 @@
 :: news.sla.org
 0.0.0.0 news.soptv.ws
 :: news.soptv.ws
-0.0.0.0 news.svnhforum.com
-:: news.svnhforum.com
 0.0.0.0 newsdon01.000webhostapp.com
 :: newsdon01.000webhostapp.com
 0.0.0.0 newsgolf.50webs.com
@@ -33069,6 +33069,8 @@
 :: offside2.000webhostapp.com
 0.0.0.0 ofice.idol-s.com
 :: ofice.idol-s.com
+0.0.0.0 ofunatocci.or.jp
+:: ofunatocci.or.jp
 0.0.0.0 oglasi.slo-tech.com
 :: oglasi.slo-tech.com
 0.0.0.0 ohfaxtzzgetrberhiwjp.ahdaaf.org
@@ -33293,8 +33295,6 @@
 :: online.citi.com.ura3vgncre.ignition3.tv
 0.0.0.0 online.citi.com.zijkwmwpvc.ignition3.tv
 :: online.citi.com.zijkwmwpvc.ignition3.tv
-0.0.0.0 online.creditsuissegroupsag.com
-:: online.creditsuissegroupsag.com
 0.0.0.0 online.dropbox.com.reload.access.check.now.latrobevillage.com.au
 :: online.dropbox.com.reload.access.check.now.latrobevillage.com.au
 0.0.0.0 online.hmrc.gov.uk.alaventa.cl
@@ -33307,6 +33307,8 @@
 :: online.securedept02.ga
 0.0.0.0 online.sh.cn
 :: online.sh.cn
+0.0.0.0 online.vdk.be.fvdesqos.com
+:: online.vdk.be.fvdesqos.com
 0.0.0.0 online.wellsfargo.com.kingsmeadgroup.com
 :: online.wellsfargo.com.kingsmeadgroup.com
 0.0.0.0 online1.webcams.com
@@ -33629,8 +33631,6 @@
 :: oukoku.shinobiashi.com
 0.0.0.0 ouriya13.beget.tech
 :: ouriya13.beget.tech
-0.0.0.0 ourtime.com.kmarxcurtainsandblinds.co.za
-:: ourtime.com.kmarxcurtainsandblinds.co.za
 0.0.0.0 oustuner2.000webhostapp.com
 :: oustuner2.000webhostapp.com
 0.0.0.0 out-lok.hpage.com
@@ -33831,6 +33831,8 @@
 :: p.porn.fr
 0.0.0.0 p.profistats.net
 :: p.profistats.net
+0.0.0.0 p.pypl-checkinformation.betscapital.co.za
+:: p.pypl-checkinformation.betscapital.co.za
 0.0.0.0 p.qijijs.top
 :: p.qijijs.top
 0.0.0.0 p.raasnet.com
@@ -34241,8 +34243,6 @@
 :: patriot.cs.pp.cn
 0.0.0.0 paulor.pro.br
 :: paulor.pro.br
-0.0.0.0 paws.org.au
-:: paws.org.au
 0.0.0.0 pay-btc2phone1-refund.000webhostapp.com
 :: pay-btc2phone1-refund.000webhostapp.com
 0.0.0.0 pay.holaq.com
@@ -34293,14 +34293,14 @@
 :: paypal.com-update-your-account-information-for-security-update.bagaskarafurniture.com
 0.0.0.0 paypal.com.au-dispute50043.gajsiddhiglobal.com
 :: paypal.com.au-dispute50043.gajsiddhiglobal.com
+0.0.0.0 paypal.com.hrmy.mtbank.shnpoc.net
+:: paypal.com.hrmy.mtbank.shnpoc.net
 0.0.0.0 paypal.com.ma.cgi.bin.webscr.cmd.flow.session.ok-dui.com
 :: paypal.com.ma.cgi.bin.webscr.cmd.flow.session.ok-dui.com
 0.0.0.0 paypal.com.my-accounte-support-verefication.serverlux.me
 :: paypal.com.my-accounte-support-verefication.serverlux.me
 0.0.0.0 paypal.com.resolutioncenter-account-issue.net
 :: paypal.com.resolutioncenter-account-issue.net
-0.0.0.0 paypal.com.update-limited.accounts.interdom.info
-:: paypal.com.update-limited.accounts.interdom.info
 0.0.0.0 paypal.konten-aanmelden-sicherheit.tk
 :: paypal.konten-aanmelden-sicherheit.tk
 0.0.0.0 paypal.konten-assistance.tk
@@ -34321,6 +34321,8 @@
 :: paypal.kunden080aanmelden.tk
 0.0.0.0 paypal.meinkonto-hilfe-ssl.de
 :: paypal.meinkonto-hilfe-ssl.de
+0.0.0.0 paypal.security-0730.com
+:: paypal.security-0730.com
 0.0.0.0 paypal.security-login-0612.com
 :: paypal.security-login-0612.com
 0.0.0.0 paypal.signin.account-term-policy.com
@@ -35493,8 +35495,6 @@
 :: print.khingtracking.com
 0.0.0.0 print.theyeshivaworld.info
 :: print.theyeshivaworld.info
-0.0.0.0 priscure.heliohost.org
-:: priscure.heliohost.org
 0.0.0.0 prism.pandora.tv
 :: prism.pandora.tv
 0.0.0.0 private.atlanticgam.es
@@ -37049,8 +37049,6 @@
 :: report.appmetrica.yandex.net
 0.0.0.0 report.hb.brainlyads.com
 :: report.hb.brainlyads.com
-0.0.0.0 report.huatuo.qq.com
-:: report.huatuo.qq.com
 0.0.0.0 report.mitsubishicars.com
 :: report.mitsubishicars.com
 0.0.0.0 reporting.singlefeed.com
@@ -37235,6 +37233,8 @@
 :: rlbyc.saqibsiddiqui.com
 0.0.0.0 rlc.org.au
 :: rlc.org.au
+0.0.0.0 rlcportal.reallifechoices.com.au
+:: rlcportal.reallifechoices.com.au
 0.0.0.0 rlog-video.conn.aiseet.atianqi.com
 :: rlog-video.conn.aiseet.atianqi.com
 0.0.0.0 rm.gdt.qq.com
@@ -38455,8 +38455,6 @@
 :: secure.adwebster.com
 0.0.0.0 secure.airsoftcanada.com
 :: secure.airsoftcanada.com
-0.0.0.0 secure.auth.kevinyou.com
-:: secure.auth.kevinyou.com
 0.0.0.0 secure.bankofamerica.com.update.connect.login.ostora.com.sa
 :: secure.bankofamerica.com.update.connect.login.ostora.com.sa
 0.0.0.0 secure.c23073.shared.hc.ru
@@ -38483,6 +38481,10 @@
 :: secure.marketengines.com
 0.0.0.0 secure.netscope.marktest.pt
 :: secure.netscope.marktest.pt
+0.0.0.0 secure.runescape.com-en.ru
+:: secure.runescape.com-en.ru
+0.0.0.0 secure.runescape.com-zx.ru
+:: secure.runescape.com-zx.ru
 0.0.0.0 secure.updates.preferenc.cgi-bin.webscr.cmd-login-submit.dispatch.6785d80a13c0db15d80a13c0db1114821217568496849684968484654654s1.veganhedonist.com
 :: secure.updates.preferenc.cgi-bin.webscr.cmd-login-submit.dispatch.6785d80a13c0db15d80a13c0db1114821217568496849684968484654654s1.veganhedonist.com
 0.0.0.0 secure.v.co.zw
@@ -38825,14 +38827,10 @@
 :: sephorso.beget.tech
 0.0.0.0 serepotre.000webhostapp.com
 :: serepotre.000webhostapp.com
-0.0.0.0 serg.pics-money.ru
-:: serg.pics-money.ru
 0.0.0.0 serl.mooo.com
 :: serl.mooo.com
 0.0.0.0 serpihan7711at.000webhostapp.com
 :: serpihan7711at.000webhostapp.com
-0.0.0.0 serv.bangsri.web.id
-:: serv.bangsri.web.id
 0.0.0.0 serv.tooplay.com
 :: serv.tooplay.com
 0.0.0.0 servad.mynet.com
@@ -38923,8 +38921,6 @@
 :: service-paypal-information.sweddy.com
 0.0.0.0 service-settings.000webhostapp.com
 :: service-settings.000webhostapp.com
-0.0.0.0 service.a1aruba.com
-:: service.a1aruba.com
 0.0.0.0 service.ad.adesk.com
 :: service.ad.adesk.com
 0.0.0.0 service.ad.duomi.com
@@ -38939,8 +38935,6 @@
 :: service.face2trade.com
 0.0.0.0 service.game-mode.net
 :: service.game-mode.net
-0.0.0.0 service.help-desk.stockrelayke8.com
-:: service.help-desk.stockrelayke8.com
 0.0.0.0 service.jiagu.360.cn
 :: service.jiagu.360.cn
 0.0.0.0 service.multi-pops.com
@@ -38975,6 +38969,8 @@
 :: services.gfe.nvidia.com
 0.0.0.0 services.hearstmags.com
 :: services.hearstmags.com
+0.0.0.0 services.runescape.com-ax.ru
+:: services.runescape.com-ax.ru
 0.0.0.0 services.wes.df.telemetry.microsoft.com
 :: services.wes.df.telemetry.microsoft.com
 0.0.0.0 services.zam.com
@@ -39057,8 +39053,6 @@
 :: sgg.southcn.com
 0.0.0.0 sgp.o2o.api.xiaomi.com
 :: sgp.o2o.api.xiaomi.com
-0.0.0.0 sgpes.trt11.jus.br
-:: sgpes.trt11.jus.br
 0.0.0.0 sgqcvfjvr.onet.pl
 :: sgqcvfjvr.onet.pl
 0.0.0.0 sgs.us.com
@@ -39321,8 +39315,6 @@
 :: signin.encoding.amaz.fbbcr4xmu0ucvwec2graqrjs5pksoamofxrgj5uyza2hm5spdf3fm7gl3rgn.chinaboca.com
 0.0.0.0 signs-lifes.125mb.com
 :: signs-lifes.125mb.com
-0.0.0.0 signsecureankmerife.viewdns.net
-:: signsecureankmerife.viewdns.net
 0.0.0.0 signup.advance.net
 :: signup.advance.net
 0.0.0.0 siitess-evenntsclaimnotices.000webhostapp.com
@@ -39445,8 +39437,6 @@
 :: sjbtn.appfh.com
 0.0.0.0 sjs.jcshouhui.com
 :: sjs.jcshouhui.com
-0.0.0.0 ska.energia.cz
-:: ska.energia.cz
 0.0.0.0 skeet.advetime.ru
 :: skeet.advetime.ru
 0.0.0.0 skfass.in.net
@@ -39615,8 +39605,6 @@
 :: smpia1.al-azhar.sch.id
 0.0.0.0 smpl.hit.ppdb.pl
 :: smpl.hit.ppdb.pl
-0.0.0.0 smpn2wonosalamdemak.sch.id
-:: smpn2wonosalamdemak.sch.id
 0.0.0.0 smr.so-net.ne.jp
 :: smr.so-net.ne.jp
 0.0.0.0 sms.otair.com
@@ -40973,8 +40961,6 @@
 :: statto.plus8.net
 0.0.0.0 stattrack.0catch.com
 :: stattrack.0catch.com
-0.0.0.0 status.kino-dom.org
-:: status.kino-dom.org
 0.0.0.0 stb.eat.int.ru
 :: stb.eat.int.ru
 0.0.0.0 std.o.webmd.com
@@ -41055,6 +41041,10 @@
 :: store.tv.api.3g.youku.com
 0.0.0.0 store.xl.api.3g.youku.com
 :: store.xl.api.3g.youku.com
+0.0.0.0 store2.hispace.hicloud.com
+:: store2.hispace.hicloud.com
+0.0.0.0 store3.hispace.hicloud.com
+:: store3.hispace.hicloud.com
 0.0.0.0 storeconfig.mistat.intl.xiaomi.com
 :: storeconfig.mistat.intl.xiaomi.com
 0.0.0.0 storeconfig.mistat.xiaomi.com
@@ -41181,8 +41171,6 @@
 :: supersonicads-a.akamaihd.net
 0.0.0.0 supertracker.flashget.com
 :: supertracker.flashget.com
-0.0.0.0 superwebnet2018-com.umbler.net
-:: superwebnet2018-com.umbler.net
 0.0.0.0 supooreter-fannpaqee.regis-fanpage1.tk
 :: supooreter-fannpaqee.regis-fanpage1.tk
 0.0.0.0 supoort24.confriim-supporit.ml
@@ -41493,6 +41481,8 @@
 :: t.afftrackr.com
 0.0.0.0 t.atpanel.com
 :: t.atpanel.com
+0.0.0.0 t.basictool.vip
+:: t.basictool.vip
 0.0.0.0 t.bbtrack.net
 :: t.bbtrack.net
 0.0.0.0 t.beanstalkdata.com
@@ -41547,6 +41537,8 @@
 :: t.grtyb.com
 0.0.0.0 t.h5data.com
 :: t.h5data.com
+0.0.0.0 t.hmwebs.top
+:: t.hmwebs.top
 0.0.0.0 t.insigit.com
 :: t.insigit.com
 0.0.0.0 t.iz55.com
@@ -41597,6 +41589,8 @@
 :: t.svtrd.com
 0.0.0.0 t.targetuse.com
 :: t.targetuse.com
+0.0.0.0 t.trackingxnads.com
+:: t.trackingxnads.com
 0.0.0.0 t.tttmedd.com
 :: t.tttmedd.com
 0.0.0.0 t.tzcccm.com
@@ -42167,6 +42161,8 @@
 :: thecourtyardcolfaxcom.sites.qwestoffice.net
 0.0.0.0 thehub.devclever.net
 :: thehub.devclever.net
+0.0.0.0 thehybrid.0catch.com
+:: thehybrid.0catch.com
 0.0.0.0 thelifeisbinary.ddns.net
 :: thelifeisbinary.ddns.net
 0.0.0.0 thelifeisbinary.netlify.com
@@ -42825,8 +42821,6 @@
 :: track.msadcenter.lzwp.com
 0.0.0.0 track.msadcenter.mjze.com
 :: track.msadcenter.mjze.com
-0.0.0.0 track.msadcenter.mkqa.com
-:: track.msadcenter.mkqa.com
 0.0.0.0 track.msadcenter.msw.com
 :: track.msadcenter.msw.com
 0.0.0.0 track.msadcenter.mur.com
@@ -43547,8 +43541,6 @@
 :: trk132.benchurl.com
 0.0.0.0 trnunmavidonghemayddosok-unsuspendible-entophyte.mybluemix.net
 :: trnunmavidonghemayddosok-unsuspendible-entophyte.mybluemix.net
-0.0.0.0 tronuprising.heliohost.org
-:: tronuprising.heliohost.org
 0.0.0.0 trouble.cachetinvestments.com
 :: trouble.cachetinvestments.com
 0.0.0.0 trtlu.ddns.info
@@ -43585,8 +43577,6 @@
 :: tspipp.tsu.tula.ru
 0.0.0.0 tsr.cdns.com.ua
 :: tsr.cdns.com.ua
-0.0.0.0 tsr.zlatoff.ru
-:: tsr.zlatoff.ru
 0.0.0.0 tste.startribune.com
 :: tste.startribune.com
 0.0.0.0 tsxwbywjwdm.myfw.us
@@ -43791,8 +43781,6 @@
 :: u532344488.hostingerapp.com
 0.0.0.0 u532392okm.ha003.t.justns.ru
 :: u532392okm.ha003.t.justns.ru
-0.0.0.0 u532572olx.ha003.t.justns.ru
-:: u532572olx.ha003.t.justns.ru
 0.0.0.0 u54bbnhf354fbkh254tbkhjbgy8258gnkwerg.tahaplap.com
 :: u54bbnhf354fbkh254tbkhjbgy8258gnkwerg.tahaplap.com
 0.0.0.0 u6091953.ct.sendgrid.net
@@ -43833,6 +43821,10 @@
 :: uc.xiaoxuehelp.com
 0.0.0.0 uc.zhuici.com
 :: uc.zhuici.com
+0.0.0.0 uc2.hispace.hicloud.com
+:: uc2.hispace.hicloud.com
+0.0.0.0 uc3.hispace.hicloud.com
+:: uc3.hispace.hicloud.com
 0.0.0.0 ucan.25pp.com
 :: ucan.25pp.com
 0.0.0.0 ucccu.or.ug
@@ -43925,8 +43917,6 @@
 :: uk.osgeurope.com
 0.0.0.0 uk606.directrouter.com
 :: uk606.directrouter.com
-0.0.0.0 ukonline.hc0.me
-:: ukonline.hc0.me
 0.0.0.0 ukrtvory.in.ua
 :: ukrtvory.in.ua
 0.0.0.0 uktc.ijento.com
@@ -44037,8 +44027,6 @@
 :: unit8.test2.itembridge.com
 0.0.0.0 unitex.home.pl
 :: unitex.home.pl
-0.0.0.0 unitus.mk.ua
-:: unitus.mk.ua
 0.0.0.0 unitus.synergy-e.com
 :: unitus.synergy-e.com
 0.0.0.0 universidad.uflo.edu.ar
@@ -44049,8 +44037,6 @@
 :: unjs.jfcdns.com
 0.0.0.0 unknow.now.sh
 :: unknow.now.sh
-0.0.0.0 unknown.counsellor.gov.cn
-:: unknown.counsellor.gov.cn
 0.0.0.0 unmoving-report.000webhostapp.com
 :: unmoving-report.000webhostapp.com
 0.0.0.0 unocl45trpuoefft.249isv.bid
@@ -44115,8 +44101,6 @@
 :: update-accounte.strikefighterconsultinginc.com
 0.0.0.0 update-csc.apps-true-login.com
 :: update-csc.apps-true-login.com
-0.0.0.0 update-now-chase.com.usahabaru.web.id
-:: update-now-chase.com.usahabaru.web.id
 0.0.0.0 update-payment.paperform.co
 :: update-payment.paperform.co
 0.0.0.0 update-paypal.unatransport.ba
@@ -44127,8 +44111,6 @@
 :: update-security-measuring.servicdl.beget.tech
 0.0.0.0 update-skype.freehostia.com
 :: update-skype.freehostia.com
-0.0.0.0 update-statement-account.succsse.com
-:: update-statement-account.succsse.com
 0.0.0.0 update.51edm.net
 :: update.51edm.net
 0.0.0.0 update.aut5.com
@@ -44755,8 +44737,6 @@
 :: veterans-cms.pvbproperties.com.ph
 0.0.0.0 vex.analytics.wildtangent.com
 :: vex.analytics.wildtangent.com
-0.0.0.0 vexxhost.bebabeauty.com
-:: vexxhost.bebabeauty.com
 0.0.0.0 vf7.soundsecureredir.com
 :: vf7.soundsecureredir.com
 0.0.0.0 vg.ad.asap-asp.net
@@ -44895,8 +44875,6 @@
 :: vip.mall044.com
 0.0.0.0 vip.media8.cn
 :: vip.media8.cn
-0.0.0.0 vip.pai76.com
-:: vip.pai76.com
 0.0.0.0 vip.pinghuhome.com
 :: vip.pinghuhome.com
 0.0.0.0 vip.qqxwf.com
@@ -45503,8 +45481,6 @@
 :: weblinsave.000webhostapp.com
 0.0.0.0 webmail.chukai.co.th
 :: webmail.chukai.co.th
-0.0.0.0 webmail.mcevoys.net
-:: webmail.mcevoys.net
 0.0.0.0 webmail.process-digital.com
 :: webmail.process-digital.com
 0.0.0.0 webmailserveurmailings01.000webhostapp.com
@@ -45539,6 +45515,8 @@
 :: websatpub.fth.net
 0.0.0.0 webscr.cgi-bin.payzen.securesession.net
 :: webscr.cgi-bin.payzen.securesession.net
+0.0.0.0 websecure.mainidwms.locksystem.secure884748.globalinsurens.com
+:: websecure.mainidwms.locksystem.secure884748.globalinsurens.com
 0.0.0.0 webserv.mos.ru
 :: webserv.mos.ru
 0.0.0.0 webservices.sub2tech.com
@@ -45977,8 +45955,6 @@
 :: wpc.32df9.rhocdn.net
 0.0.0.0 wpcdn1.herokuapp.com
 :: wpcdn1.herokuapp.com
-0.0.0.0 wpconte.heliohost.org
-:: wpconte.heliohost.org
 0.0.0.0 wpk.edu.hk
 :: wpk.edu.hk
 0.0.0.0 wpkcuewcemh.fgppchg.fgpp.com
@@ -46199,12 +46175,16 @@
 :: www.100dof.com
 0.0.0.0 www.142904.com
 :: www.142904.com
+0.0.0.0 www.1550-impossible.com
+:: www.1550-impossible.com
 0.0.0.0 www.15b37.skroc.pl
 :: www.15b37.skroc.pl
 0.0.0.0 www.163ren.com
 :: www.163ren.com
 0.0.0.0 www.17zhaole.com
 :: www.17zhaole.com
+0.0.0.0 www.1887-firewood.com
+:: www.1887-firewood.com
 0.0.0.0 www.18access.com
 :: www.18access.com
 0.0.0.0 www.1933000.com
@@ -46423,8 +46403,6 @@
 :: www.acbp0020171456.page.tl
 0.0.0.0 www.acclaimenvironmental.co.uk
 :: www.acclaimenvironmental.co.uk
-0.0.0.0 www.accountsnavigator-servicede-helpoverview.eu
-:: www.accountsnavigator-servicede-helpoverview.eu
 0.0.0.0 www.acheri.it
 :: www.acheri.it
 0.0.0.0 www.acint.net
@@ -46499,8 +46477,6 @@
 :: www.adhexa.com
 0.0.0.0 www.adimages.beeb.com
 :: www.adimages.beeb.com
-0.0.0.0 www.aditv.co.id
-:: www.aditv.co.id
 0.0.0.0 www.adloader.com
 :: www.adloader.com
 0.0.0.0 www.adlzyei.com
@@ -46701,6 +46677,8 @@
 :: www.alldsm.com
 0.0.0.0 www.allegro.pl-nowe-regulamini7913.uhu362.com
 :: www.allegro.pl-nowe-regulamini7913.uhu362.com
+0.0.0.0 www.allot-1695-might.com
+:: www.allot-1695-might.com
 0.0.0.0 www.almarjantobacco.com
 :: www.almarjantobacco.com
 0.0.0.0 www.almaservice.it
@@ -46751,6 +46729,8 @@
 :: www.andyhoppe.com
 0.0.0.0 www.andyschwietzer.homepage.t-online.de
 :: www.andyschwietzer.homepage.t-online.de
+0.0.0.0 www.angelsmodernclothing.com
+:: www.angelsmodernclothing.com
 0.0.0.0 www.angliaprint.co.uk
 :: www.angliaprint.co.uk
 0.0.0.0 www.anime.reactor.cc
@@ -46835,6 +46815,10 @@
 :: www.apple.com-speed-macos.live
 0.0.0.0 www.apple.com-speedup-macos.live
 :: www.apple.com-speedup-macos.live
+0.0.0.0 www.apple.com.arshig.cn
+:: www.apple.com.arshig.cn
+0.0.0.0 www.apple.ios.arshig.cn
+:: www.apple.ios.arshig.cn
 0.0.0.0 www.appleid.apple.com.ios-m.us
 :: www.appleid.apple.com.ios-m.us
 0.0.0.0 www.applelounge.com
@@ -46889,6 +46873,8 @@
 :: www.assetscdn.stream
 0.0.0.0 www.assetzone.ro
 :: www.assetzone.ro
+0.0.0.0 www.assicuriamoci.net
+:: www.assicuriamoci.net
 0.0.0.0 www.association-julescatoire.fr
 :: www.association-julescatoire.fr
 0.0.0.0 www.assonet.org
@@ -46915,6 +46901,8 @@
 :: www.atpanel.com
 0.0.0.0 www.atrub.com
 :: www.atrub.com
+0.0.0.0 www.attackrackbrahms.com
+:: www.attackrackbrahms.com
 0.0.0.0 www.audio-book.net.pl
 :: www.audio-book.net.pl
 0.0.0.0 www.auditcitoyen.be
@@ -46933,6 +46921,8 @@
 :: www.autoriparazioniflorisgiorgio.com
 0.0.0.0 www.autosurfpro.com
 :: www.autosurfpro.com
+0.0.0.0 www.averyartattack.com
+:: www.averyartattack.com
 0.0.0.0 www.avidity.com
 :: www.avidity.com
 0.0.0.0 www.avisgibellina.it
@@ -46941,8 +46931,6 @@
 :: www.avita.net.pl
 0.0.0.0 www.awalkerjones.com
 :: www.awalkerjones.com
-0.0.0.0 www.awelelogistics.com
-:: www.awelelogistics.com
 0.0.0.0 www.awmads.com
 :: www.awmads.com
 0.0.0.0 www.axiatraders.com
@@ -46951,6 +46939,8 @@
 :: www.axill.com
 0.0.0.0 www.axipub.com
 :: www.axipub.com
+0.0.0.0 www.axylgroup.com
+:: www.axylgroup.com
 0.0.0.0 www.azetapiemonte.it
 :: www.azetapiemonte.it
 0.0.0.0 www.azrodandclassic.com
@@ -46975,8 +46965,6 @@
 :: www.baigm.com
 0.0.0.0 www.baihe.com
 :: www.baihe.com
-0.0.0.0 www.balans.no
-:: www.balans.no
 0.0.0.0 www.bals.nichost.ru
 :: www.bals.nichost.ru
 0.0.0.0 www.bangbuddy.com
@@ -47013,6 +47001,8 @@
 :: www.bb1429.com
 0.0.0.0 www.bblacastellana.eu
 :: www.bblacastellana.eu
+0.0.0.0 www.bcsbirds.com
+:: www.bcsbirds.com
 0.0.0.0 www.bcservice.it
 :: www.bcservice.it
 0.0.0.0 www.bfsa.gov.bd
@@ -47187,6 +47177,8 @@
 :: www.canuckmethods.com
 0.0.0.0 www.captaincookscasino.com
 :: www.captaincookscasino.com
+0.0.0.0 www.captainoffset.com
+:: www.captainoffset.com
 0.0.0.0 www.caradonna.com
 :: www.caradonna.com
 0.0.0.0 www.caramail.com
@@ -47239,6 +47231,8 @@
 :: www.ccp14.ac.uk
 0.0.0.0 www.cdirealestate.com
 :: www.cdirealestate.com
+0.0.0.0 www.cdkuandai.cn
+:: www.cdkuandai.cn
 0.0.0.0 www.cdn.beginads.com
 :: www.cdn.beginads.com
 0.0.0.0 www.cec.ro
@@ -47303,12 +47297,12 @@
 :: www.ciapparelli.com
 0.0.0.0 www.cifor.com
 :: www.cifor.com
-0.0.0.0 www.cinzaurban.com.br
-:: www.cinzaurban.com.br
 0.0.0.0 www.cioccolatopaolillo.it
 :: www.cioccolatopaolillo.it
 0.0.0.0 www.citaly.it
 :: www.citaly.it
+0.0.0.0 www.citywolfs.com
+:: www.citywolfs.com
 0.0.0.0 www.clap4ya.com
 :: www.clap4ya.com
 0.0.0.0 www.clear-reports.com
@@ -47345,6 +47339,8 @@
 :: www.cmg-ingegneria.it
 0.0.0.0 www.cmmob.cn
 :: www.cmmob.cn
+0.0.0.0 www.cn-aojie.com
+:: www.cn-aojie.com
 0.0.0.0 www.cnetdirectintl.com
 :: www.cnetdirectintl.com
 0.0.0.0 www.cnhdin.cn
@@ -47387,6 +47383,8 @@
 :: www.comperialead.pl
 0.0.0.0 www.compland.ee
 :: www.compland.ee
+0.0.0.0 www.compressive-625.com
+:: www.compressive-625.com
 0.0.0.0 www.compsec.co.nz
 :: www.compsec.co.nz
 0.0.0.0 www.computerxchange.com
@@ -47471,6 +47469,8 @@
 :: www.crazywinnings.com
 0.0.0.0 www.credit-dreams.com
 :: www.credit-dreams.com
+0.0.0.0 www.crewblush.com
+:: www.crewblush.com
 0.0.0.0 www.cristaleriadominguez.com
 :: www.cristaleriadominguez.com
 0.0.0.0 www.cristinabertuzzi.com
@@ -47489,10 +47489,10 @@
 :: www.csm94.org
 0.0.0.0 www.csomediakit.com
 :: www.csomediakit.com
-0.0.0.0 www.cszonlinestore.com
-:: www.cszonlinestore.com
 0.0.0.0 www.currentupdateconcepts.com
 :: www.currentupdateconcepts.com
+0.0.0.0 www.custodianwarmth.com
+:: www.custodianwarmth.com
 0.0.0.0 www.cutillas.fr
 :: www.cutillas.fr
 0.0.0.0 www.cvent.axiatraders.com
@@ -47587,10 +47587,14 @@
 :: www.del-marine.com
 0.0.0.0 www.delegacionbenitojuarez.gob.mx
 :: www.delegacionbenitojuarez.gob.mx
+0.0.0.0 www.delmarvaconfident.com
+:: www.delmarvaconfident.com
 0.0.0.0 www.delton.com
 :: www.delton.com
 0.0.0.0 www.demelkwegtuk.nl
 :: www.demelkwegtuk.nl
+0.0.0.0 www.demit-begin.com
+:: www.demit-begin.com
 0.0.0.0 www.denis928.000webhostapp.com
 :: www.denis928.000webhostapp.com
 0.0.0.0 www.dentaltourismsouthindia.com
@@ -47599,6 +47603,8 @@
 :: www.dephantomz.duckdns.org
 0.0.0.0 www.depraetere.net
 :: www.depraetere.net
+0.0.0.0 www.designerserviceonline.fr
+:: www.designerserviceonline.fr
 0.0.0.0 www.designmycakes.com
 :: www.designmycakes.com
 0.0.0.0 www.destinationurl.com
@@ -47663,8 +47669,6 @@
 :: www.disquesanciens.com
 0.0.0.0 www.dlamure.com
 :: www.dlamure.com
-0.0.0.0 www.dlape.com
-:: www.dlape.com
 0.0.0.0 www.dlink.com.br
 :: www.dlink.com.br
 0.0.0.0 www.dmc-finland.fi
@@ -47675,8 +47679,6 @@
 :: www.dntx.com
 0.0.0.0 www.dobadongthap.vn
 :: www.dobadongthap.vn
-0.0.0.0 www.dobrohram.ru
-:: www.dobrohram.ru
 0.0.0.0 www.doctorhelp.de
 :: www.doctorhelp.de
 0.0.0.0 www.document.pdf.kfunk.co.za
@@ -47725,8 +47727,6 @@
 :: www.dulceselsombreron.com
 0.0.0.0 www.dultrasolutions.duckdns.org
 :: www.dultrasolutions.duckdns.org
-0.0.0.0 www.dunlaoghairetestcentre.ie
-:: www.dunlaoghairetestcentre.ie
 0.0.0.0 www.duoduoluo.com
 :: www.duoduoluo.com
 0.0.0.0 www.dutchsales.org
@@ -47791,6 +47791,8 @@
 :: www.eduancm.com
 0.0.0.0 www.educationthai.co.th
 :: www.educationthai.co.th
+0.0.0.0 www.edukiespirita.com.br
+:: www.edukiespirita.com.br
 0.0.0.0 www.eduspb.com
 :: www.eduspb.com
 0.0.0.0 www.efficienttraffic.com
@@ -47801,6 +47803,8 @@
 :: www.einsteindiploms.com
 0.0.0.0 www.eivamos.com
 :: www.eivamos.com
+0.0.0.0 www.ekowen.sk
+:: www.ekowen.sk
 0.0.0.0 www.elante.com
 :: www.elante.com
 0.0.0.0 www.elc.tomsk.ru
@@ -47831,6 +47835,8 @@
 :: www.energieperlacitta.com
 0.0.0.0 www.energyresourceiq.com
 :: www.energyresourceiq.com
+0.0.0.0 www.enerway.com.br
+:: www.enerway.com.br
 0.0.0.0 www.englishworld.it
 :: www.englishworld.it
 0.0.0.0 www.engware.it
@@ -48029,6 +48035,8 @@
 :: www.fejspodgllaadacz.blogspot.com
 0.0.0.0 www.fejspodglladacz.blogspot.com
 :: www.fejspodglladacz.blogspot.com
+0.0.0.0 www.fellbreakcataclysmic.com
+:: www.fellbreakcataclysmic.com
 0.0.0.0 www.fennerdunlopamericas.com
 :: www.fennerdunlopamericas.com
 0.0.0.0 www.fenqihome.com
@@ -48053,6 +48061,8 @@
 :: www.fidgetspinner.5v.pl
 0.0.0.0 www.fiduciariobajio.com.mx
 :: www.fiduciariobajio.com.mx
+0.0.0.0 www.figure993.com
+:: www.figure993.com
 0.0.0.0 www.fileconvertertab.com
 :: www.fileconvertertab.com
 0.0.0.0 www.filix.it
@@ -48077,6 +48087,8 @@
 :: www.fizjoterapia.5v.pl
 0.0.0.0 www.fjlqqc.com
 :: www.fjlqqc.com
+0.0.0.0 www.flagrantyokohama.com
+:: www.flagrantyokohama.com
 0.0.0.0 www.flagships.de
 :: www.flagships.de
 0.0.0.0 www.flamarimports.com.br
@@ -48121,6 +48133,8 @@
 :: www.fotoidea.com
 0.0.0.0 www.fotosdelburgo.com
 :: www.fotosdelburgo.com
+0.0.0.0 www.foul-perfect.com
+:: www.foul-perfect.com
 0.0.0.0 www.foyerstg.pro
 :: www.foyerstg.pro
 0.0.0.0 www.fpcpopunder.com
@@ -48229,6 +48243,8 @@
 :: www.giuni.it
 0.0.0.0 www.giveskincs.nd.pl
 :: www.giveskincs.nd.pl
+0.0.0.0 www.gizzlenation.com
+:: www.gizzlenation.com
 0.0.0.0 www.gj500.com
 :: www.gj500.com
 0.0.0.0 www.gjscomputerservices.com.au
@@ -48305,16 +48321,18 @@
 :: www.griffinsoftware.cf
 0.0.0.0 www.grimaldidance.com
 :: www.grimaldidance.com
+0.0.0.0 www.griswold765.com
+:: www.griswold765.com
 0.0.0.0 www.grjs01.com
 :: www.grjs01.com
+0.0.0.0 www.ground-973-aloof.com
+:: www.ground-973-aloof.com
 0.0.0.0 www.group-metrics.com
 :: www.group-metrics.com
 0.0.0.0 www.grouperdi.com
 :: www.grouperdi.com
 0.0.0.0 www.grouphappy.com
 :: www.grouphappy.com
-0.0.0.0 www.growthuniversity.net
-:: www.growthuniversity.net
 0.0.0.0 www.grsacademy.com
 :: www.grsacademy.com
 0.0.0.0 www.gruetzi.es
@@ -48341,26 +48359,22 @@
 :: www.gunaldy.com
 0.0.0.0 www.gxdhgb.com
 :: www.gxdhgb.com
-0.0.0.0 www.habitat-soldeur.com
-:: www.habitat-soldeur.com
 0.0.0.0 www.hackidomsp.blogspot.com
 :: www.hackidomsp.blogspot.com
+0.0.0.0 www.haier.com
+:: www.haier.com
 0.0.0.0 www.hair4real.in
 :: www.hair4real.in
 0.0.0.0 www.haisictirdeaici.go.ro
 :: www.haisictirdeaici.go.ro
 0.0.0.0 www.halloweenparty.go.ro
 :: www.halloweenparty.go.ro
-0.0.0.0 www.hamdamfoundation.org.pk
-:: www.hamdamfoundation.org.pk
 0.0.0.0 www.hanecaklaw.com
 :: www.hanecaklaw.com
 0.0.0.0 www.hao934.com
 :: www.hao934.com
 0.0.0.0 www.harmonyhealthandbeautyclinic.com
 :: www.harmonyhealthandbeautyclinic.com
-0.0.0.0 www.haryanakishanmandi.com
-:: www.haryanakishanmandi.com
 0.0.0.0 www.hausnet.ru
 :: www.hausnet.ru
 0.0.0.0 www.hayatesabz.ir
@@ -48401,6 +48415,10 @@
 :: www.hh-shaker.com.sa
 0.0.0.0 www.hi-segno.com
 :: www.hi-segno.com
+0.0.0.0 www.hiawatha-violate-maloney.com
+:: www.hiawatha-violate-maloney.com
+0.0.0.0 www.hidest.ml
+:: www.hidest.ml
 0.0.0.0 www.higame123.com
 :: www.higame123.com
 0.0.0.0 www.highsport.se
@@ -48435,6 +48453,8 @@
 :: www.hobbylolbby.com
 0.0.0.0 www.hobwelt.com
 :: www.hobwelt.com
+0.0.0.0 www.holderconvergentmolasses.com
+:: www.holderconvergentmolasses.com
 0.0.0.0 www.holzrueckewagen.de
 :: www.holzrueckewagen.de
 0.0.0.0 www.homeagd.in.net
@@ -48479,8 +48499,6 @@
 :: www.hotstar.pubnub.net
 0.0.0.0 www.howupdateworks.amazingupdates4youtoday.website
 :: www.howupdateworks.amazingupdates4youtoday.website
-0.0.0.0 www.hrevert.com
-:: www.hrevert.com
 0.0.0.0 www.https-paypal-com.tk
 :: www.https-paypal-com.tk
 0.0.0.0 www.huadianbeijing.com
@@ -48517,8 +48535,6 @@
 :: www.icentric.net
 0.0.0.0 www.icloud-rastrear.com
 :: www.icloud-rastrear.com
-0.0.0.0 www.icomfort.ca
-:: www.icomfort.ca
 0.0.0.0 www.icp.edu.pk
 :: www.icp.edu.pk
 0.0.0.0 www.icybrand.eu
@@ -48593,8 +48609,6 @@
 :: www.infoteria.cba.pl
 0.0.0.0 www.inglesenveranoenjavea.com
 :: www.inglesenveranoenjavea.com
-0.0.0.0 www.inkedconnection.com
-:: www.inkedconnection.com
 0.0.0.0 www.innovateads.com
 :: www.innovateads.com
 0.0.0.0 www.innovativemddevices.com
@@ -48631,8 +48645,6 @@
 :: www.iridiumsuite.com
 0.0.0.0 www.iroenergy.com
 :: www.iroenergy.com
-0.0.0.0 www.is-hensley.com
-:: www.is-hensley.com
 0.0.0.0 www.isabelleauto.com
 :: www.isabelleauto.com
 0.0.0.0 www.isaleapp.com
@@ -48853,6 +48865,8 @@
 :: www.kngcjx.com
 0.0.0.0 www.knowinteractive.com
 :: www.knowinteractive.com
+0.0.0.0 www.knowit.co.il
+:: www.knowit.co.il
 0.0.0.0 www.kocham-cie.c0.pl
 :: www.kocham-cie.c0.pl
 0.0.0.0 www.kodyrabatowe.16mb.com
@@ -48987,8 +49001,6 @@
 :: www.lifelabs.vn
 0.0.0.0 www.lifestyleinnovationsinc.com
 :: www.lifestyleinnovationsinc.com
-0.0.0.0 www.lifetimeconx.com
-:: www.lifetimeconx.com
 0.0.0.0 www.liganews.gr
 :: www.liganews.gr
 0.0.0.0 www.limpotools.com
@@ -49079,6 +49091,8 @@
 :: www.luigi-varsalona.net
 0.0.0.0 www.lunartechit.com
 :: www.lunartechit.com
+0.0.0.0 www.lupakaland.com
+:: www.lupakaland.com
 0.0.0.0 www.lx167.com
 :: www.lx167.com
 0.0.0.0 www.lydaoyou.com
@@ -49101,14 +49115,14 @@
 :: www.madmulla.duckdns.org
 0.0.0.0 www.madonnaceleste.com
 :: www.madonnaceleste.com
+0.0.0.0 www.magazineluiizablackweek.com
+:: www.magazineluiizablackweek.com
 0.0.0.0 www.mail4nature.org
 :: www.mail4nature.org
 0.0.0.0 www.mail6.de
 :: www.mail6.de
 0.0.0.0 www.majorleaguesecurity.com
 :: www.majorleaguesecurity.com
-0.0.0.0 www.makepower.co.in
-:: www.makepower.co.in
 0.0.0.0 www.makohela.tk
 :: www.makohela.tk
 0.0.0.0 www.malhaviaria.com.br
@@ -49275,6 +49289,8 @@
 :: www.minesage.com
 0.0.0.0 www.minkssalon.com
 :: www.minkssalon.com
+0.0.0.0 www.minneapolisdixon.com
+:: www.minneapolisdixon.com
 0.0.0.0 www.minntech.com
 :: www.minntech.com
 0.0.0.0 www.mktrack.com
@@ -49303,6 +49319,8 @@
 :: www.mondoperaio.net
 0.0.0.0 www.montacarichi.it
 :: www.montacarichi.it
+0.0.0.0 www.monte-hayes-propylene.com
+:: www.monte-hayes-propylene.com
 0.0.0.0 www.montegelato.it
 :: www.montegelato.it
 0.0.0.0 www.moquanad.com
@@ -49477,6 +49495,8 @@
 :: www.noema2k.it
 0.0.0.0 www.noowho.com
 :: www.noowho.com
+0.0.0.0 www.noreplyamex1supports.com
+:: www.noreplyamex1supports.com
 0.0.0.0 www.notaverde.com
 :: www.notaverde.com
 0.0.0.0 www.nothingcompares.co.uk
@@ -49601,6 +49621,8 @@
 :: www.opendownload.de
 0.0.0.0 www.openload.de
 :: www.openload.de
+0.0.0.0 www.openspace9915.com
+:: www.openspace9915.com
 0.0.0.0 www.openstreetmap-montreal.org
 :: www.openstreetmap-montreal.org
 0.0.0.0 www.opinionlab.com
@@ -49635,8 +49657,6 @@
 :: www.oszukacruletke.blogspot.com
 0.0.0.0 www.oszukacruletke.like.pl
 :: www.oszukacruletke.like.pl
-0.0.0.0 www.otoffroad.club
-:: www.otoffroad.club
 0.0.0.0 www.ourfuckbook.com
 :: www.ourfuckbook.com
 0.0.0.0 www.outlinearray.com
@@ -49657,8 +49677,6 @@
 :: www.pagechoice.net
 0.0.0.0 www.pagerank10.co.uk
 :: www.pagerank10.co.uk
-0.0.0.0 www.paintingplaystudio.com
-:: www.paintingplaystudio.com
 0.0.0.0 www.pakiety-lte-5gb.blogspot.com
 :: www.pakiety-lte-5gb.blogspot.com
 0.0.0.0 www.pakiety-pokemon-go.blogspot.com
@@ -49691,8 +49709,6 @@
 :: www.pawnauctions.net
 0.0.0.0 www.pay.mobiltek.pl
 :: www.pay.mobiltek.pl
-0.0.0.0 www.payinfosicurezzapal.it
-:: www.payinfosicurezzapal.it
 0.0.0.0 www.paypal.com.hrmy.mtbank.shnpoc.net
 :: www.paypal.com.hrmy.mtbank.shnpoc.net
 0.0.0.0 www.paypayl.com.kalibrain.com
@@ -49701,12 +49717,18 @@
 :: www.payperclickadvertising.org.uk
 0.0.0.0 www.pb2bb2c.com
 :: www.pb2bb2c.com
+0.0.0.0 www.pdc-nop.nl
+:: www.pdc-nop.nl
 0.0.0.0 www.peachy18.com
 :: www.peachy18.com
 0.0.0.0 www.pececitos.com
 :: www.pececitos.com
+0.0.0.0 www.pedagogy-861-bulldog.com
+:: www.pedagogy-861-bulldog.com
 0.0.0.0 www.pentahealthinstitute.com
 :: www.pentahealthinstitute.com
+0.0.0.0 www.percentageshortfetish.com
+:: www.percentageshortfetish.com
 0.0.0.0 www.perfectgirls.net
 :: www.perfectgirls.net
 0.0.0.0 www.performics.com
@@ -49741,6 +49763,8 @@
 :: www.pieiron.co.uk
 0.0.0.0 www.pierwszaligablog.wordpress.com
 :: www.pierwszaligablog.wordpress.com
+0.0.0.0 www.pigskinrevelrymahayanist.com
+:: www.pigskinrevelrymahayanist.com
 0.0.0.0 www.pikacn.com
 :: www.pikacn.com
 0.0.0.0 www.piklerloczy.org
@@ -49817,20 +49841,18 @@
 :: www.poli-mec.it
 0.0.0.0 www.pollmonkey.com
 :: www.pollmonkey.com
-0.0.0.0 www.polluxcoop.com
-:: www.polluxcoop.com
 0.0.0.0 www.polsatboxingnight-transmisjahd.ujm.pl
 :: www.polsatboxingnight-transmisjahd.ujm.pl
 0.0.0.0 www.polskieinfo365.wordpress.com
 :: www.polskieinfo365.wordpress.com
 0.0.0.0 www.polskilimerick.com.pl
 :: www.polskilimerick.com.pl
-0.0.0.0 www.poolservicemanalapan.com
-:: www.poolservicemanalapan.com
 0.0.0.0 www.popadvert.com
 :: www.popadvert.com
 0.0.0.0 www.popboxads.com
 :: www.popboxads.com
+0.0.0.0 www.poptardsgo.com
+:: www.poptardsgo.com
 0.0.0.0 www.poricaci.wz.cz
 :: www.poricaci.wz.cz
 0.0.0.0 www.porndad.com
@@ -49933,6 +49955,8 @@
 :: www.pub.axiatraders.com
 0.0.0.0 www.pull-3045.kxcdn.com
 :: www.pull-3045.kxcdn.com
+0.0.0.0 www.pulsefl.0catch.com
+:: www.pulsefl.0catch.com
 0.0.0.0 www.puntoit-informatica.com
 :: www.puntoit-informatica.com
 0.0.0.0 www.purplehorses.net
@@ -49987,8 +50011,12 @@
 :: www.ra-goebel.eu
 0.0.0.0 www.racingandclassic.com
 :: www.racingandclassic.com
+0.0.0.0 www.radiovozessoberanas.pt
+:: www.radiovozessoberanas.pt
 0.0.0.0 www.rafaelgalindo.com
 :: www.rafaelgalindo.com
+0.0.0.0 www.ramirez-howe-johnson.com
+:: www.ramirez-howe-johnson.com
 0.0.0.0 www.ranchapptag.com
 :: www.ranchapptag.com
 0.0.0.0 www.random-logic.com
@@ -50057,6 +50085,8 @@
 :: www.refresh-js.bitbucket.io
 0.0.0.0 www.registrarads.com
 :: www.registrarads.com
+0.0.0.0 www.regrettedcampbell.com
+:: www.regrettedcampbell.com
 0.0.0.0 www.reklam3.net
 :: www.reklam3.net
 0.0.0.0 www.rekrutacja.zafriko.pl
@@ -50169,6 +50199,8 @@
 :: www.sajuname131.com
 0.0.0.0 www.salentoeasy.it
 :: www.salentoeasy.it
+0.0.0.0 www.salvatorebabysitchildren.com
+:: www.salvatorebabysitchildren.com
 0.0.0.0 www.samrhamburg.com
 :: www.samrhamburg.com
 0.0.0.0 www.samsungotn.net
@@ -50191,6 +50223,8 @@
 :: www.sashraf.plus.com
 0.0.0.0 www.saumi.jazztel.es
 :: www.saumi.jazztel.es
+0.0.0.0 www.savageconquest.com
+:: www.savageconquest.com
 0.0.0.0 www.saveconstructionapprenticeships.org
 :: www.saveconstructionapprenticeships.org
 0.0.0.0 www.saxmcu.cn
@@ -50267,8 +50301,6 @@
 :: www.serwis.kb.help
 0.0.0.0 www.sesvanderhave.com
 :: www.sesvanderhave.com
-0.0.0.0 www.setarehbaran.com
-:: www.setarehbaran.com
 0.0.0.0 www.sexcount.de
 :: www.sexcount.de
 0.0.0.0 www.sextronix.com
@@ -50279,6 +50311,8 @@
 :: www.sgp.o2o.api.xiaomi.com
 0.0.0.0 www.sgspeziapallamano.com
 :: www.sgspeziapallamano.com
+0.0.0.0 www.shadyacresminis.bravepages.com
+:: www.shadyacresminis.bravepages.com
 0.0.0.0 www.shanty-chor-neuengoers.de
 :: www.shanty-chor-neuengoers.de
 0.0.0.0 www.sharepoint-attachment-7429.ml
@@ -50339,8 +50373,6 @@
 :: www.sitestatslive.com
 0.0.0.0 www.sjones.talktalk.net
 :: www.sjones.talktalk.net
-0.0.0.0 www.sjr-photo.com
-:: www.sjr-photo.com
 0.0.0.0 www.skattabrain.com
 :: www.skattabrain.com
 0.0.0.0 www.skinsycs.89.pl
@@ -50419,6 +50451,8 @@
 :: www.soliferm.com
 0.0.0.0 www.solistex.com
 :: www.solistex.com
+0.0.0.0 www.solitary-programmable.com
+:: www.solitary-programmable.com
 0.0.0.0 www.solo-juegos.com
 :: www.solo-juegos.com
 0.0.0.0 www.somennew.com
@@ -50491,6 +50525,8 @@
 :: www.st.acstnst.com
 0.0.0.0 www.stabilizator220.ru
 :: www.stabilizator220.ru
+0.0.0.0 www.stanley-burke.com
+:: www.stanley-burke.com
 0.0.0.0 www.star-media.cn
 :: www.star-media.cn
 0.0.0.0 www.start-page.org
@@ -50559,6 +50595,8 @@
 :: www.successinteaching.info
 0.0.0.0 www.suczki-mlode.blogspot.com
 :: www.suczki-mlode.blogspot.com
+0.0.0.0 www.sudanesetukul.com
+:: www.sudanesetukul.com
 0.0.0.0 www.suesswarentechniker.de
 :: www.suesswarentechniker.de
 0.0.0.0 www.sugarsync.com
@@ -50685,6 +50723,8 @@
 :: www.technix.it
 0.0.0.0 www.tecnohellas.gr
 :: www.tecnohellas.gr
+0.0.0.0 www.teddybearmuseum.com
+:: www.teddybearmuseum.com
 0.0.0.0 www.telefon-50-zl.is-best.net
 :: www.telefon-50-zl.is-best.net
 0.0.0.0 www.telsiel.com
@@ -50701,8 +50741,6 @@
 :: www.terrapops.com
 0.0.0.0 www.test--na--iq.blogspot.com
 :: www.test--na--iq.blogspot.com
-0.0.0.0 www.testimone-di-nozze.it
-:: www.testimone-di-nozze.it
 0.0.0.0 www.testinteligencji.bo.pl
 :: www.testinteligencji.bo.pl
 0.0.0.0 www.testo.5v.pl
@@ -50771,8 +50809,6 @@
 :: www.tiendatresort.com.vn
 0.0.0.0 www.tiergestuetzt.de
 :: www.tiergestuetzt.de
-0.0.0.0 www.timelessimagesmi.com
-:: www.timelessimagesmi.com
 0.0.0.0 www.timepacific.com.my
 :: www.timepacific.com.my
 0.0.0.0 www.tinayr.go.ro
@@ -50803,8 +50839,6 @@
 :: www.top100.ro
 0.0.0.0 www.top25.ro
 :: www.top25.ro
-0.0.0.0 www.topaze.com
-:: www.topaze.com
 0.0.0.0 www.topblogging.com
 :: www.topblogging.com
 0.0.0.0 www.topblogs.com.ph
@@ -50813,6 +50847,8 @@
 :: www.toplistim.com
 0.0.0.0 www.toppees.com.au
 :: www.toppees.com.au
+0.0.0.0 www.topphukiengiabuon.com
+:: www.topphukiengiabuon.com
 0.0.0.0 www.toprostezarub.xaa.pl
 :: www.toprostezarub.xaa.pl
 0.0.0.0 www.topsiteguide.com
@@ -51057,6 +51093,8 @@
 :: www.vayvonvietcombank24h.net
 0.0.0.0 www.vbpctraining.com
 :: www.vbpctraining.com
+0.0.0.0 www.vendaingresso.com.br
+:: www.vendaingresso.com.br
 0.0.0.0 www.venko.co
 :: www.venko.co
 0.0.0.0 www.vertourmer.com
@@ -51105,6 +51143,8 @@
 :: www.vivaimontina.com
 0.0.0.0 www.vjsoft.net
 :: www.vjsoft.net
+0.0.0.0 www.vocalhealthmart.com
+:: www.vocalhealthmart.com
 0.0.0.0 www.vogelsang-net.de
 :: www.vogelsang-net.de
 0.0.0.0 www.voiceads.cn
@@ -51235,8 +51275,6 @@
 :: www.widebanner.com
 0.0.0.0 www.wifidown.com
 :: www.wifidown.com
-0.0.0.0 www.wifijia.net
-:: www.wifijia.net
 0.0.0.0 www.wigglewoo.com
 :: www.wigglewoo.com
 0.0.0.0 www.wildarcade.com
@@ -51251,6 +51289,8 @@
 :: www.winbaicai.com
 0.0.0.0 www.windaily.com
 :: www.windaily.com
+0.0.0.0 www.winnerschapelarlington.org
+:: www.winnerschapelarlington.org
 0.0.0.0 www.wjxcdn.com
 :: www.wjxcdn.com
 0.0.0.0 www.wolyncalyfilm.wordpress.com
@@ -51337,8 +51377,6 @@
 :: www.xtremeorganix.co.uk
 0.0.0.0 www.xtwjx.cn
 :: www.xtwjx.cn
-0.0.0.0 www.xuongmaythanhy.com
-:: www.xuongmaythanhy.com
 0.0.0.0 www.xxeden.com
 :: www.xxeden.com
 0.0.0.0 www.xxkhh.com
@@ -51475,6 +51513,8 @@
 :: www.zoeblitzer-natursteine.de
 0.0.0.0 www.zoominnovate.online
 :: www.zoominnovate.online
+0.0.0.0 www.zpr.io
+:: www.zpr.io
 0.0.0.0 www.zshacker.com
 :: www.zshacker.com
 0.0.0.0 www.zvideo.at
@@ -51507,14 +51547,22 @@
 :: www18.officedepot.com
 0.0.0.0 www180.myway.com
 :: www180.myway.com
-0.0.0.0 www2.account-update.amazon.co.jp.e07835d95d66576e95afa9646d9e94d3.top
-:: www2.account-update.amazon.co.jp.e07835d95d66576e95afa9646d9e94d3.top
+0.0.0.0 www2.account-update.amazon.co.jp.7a732687525294e0e8482c7e0925406b.top
+:: www2.account-update.amazon.co.jp.7a732687525294e0e8482c7e0925406b.top
 0.0.0.0 www2.acint.net
 :: www2.acint.net
 0.0.0.0 www2.amazon.co.jp.anammeooddy-co.xyz
 :: www2.amazon.co.jp.anammeooddy-co.xyz
+0.0.0.0 www2.amazon.co.jp.anamz-accoutfafdsf.monster
+:: www2.amazon.co.jp.anamz-accoutfafdsf.monster
+0.0.0.0 www2.amazon.co.jp.anamz-accoutfafdsf.xyz
+:: www2.amazon.co.jp.anamz-accoutfafdsf.xyz
+0.0.0.0 www2.amazon.co.jp.anamz-coco-nom.xyz
+:: www2.amazon.co.jp.anamz-coco-nom.xyz
 0.0.0.0 www2.amazon.co.jp.anamzds-fasdqsad.monster
 :: www2.amazon.co.jp.anamzds-fasdqsad.monster
+0.0.0.0 www2.amazon.co.jp.anamzds-fasdqsad.xyz
+:: www2.amazon.co.jp.anamzds-fasdqsad.xyz
 0.0.0.0 www2.amazon.co.jp.anamzoodk-cn.monster
 :: www2.amazon.co.jp.anamzoodk-cn.monster
 0.0.0.0 www2.autopartswarehouse.com
@@ -51541,8 +51589,6 @@
 :: www2.xinmin.cn
 0.0.0.0 www2.yidsense.com
 :: www2.yidsense.com
-0.0.0.0 www21.counsellor.gov.cn
-:: www21.counsellor.gov.cn
 0.0.0.0 www213.hdhd55.com
 :: www213.hdhd55.com
 0.0.0.0 www238.killevo.com
@@ -51719,8 +51765,6 @@
 :: x1.kantu.com
 0.0.0.0 x1qh81ukvq.ygtsbuaqsq.madpendesign.com.au
 :: x1qh81ukvq.ygtsbuaqsq.madpendesign.com.au
-0.0.0.0 x25.2mydns.com
-:: x25.2mydns.com
 0.0.0.0 x4.lov3.net
 :: x4.lov3.net
 0.0.0.0 x5engqblicfklf6x0mf6.maherstcottage.com.au
@@ -52155,6 +52199,8 @@
 :: your.dailytopdealz.com
 0.0.0.0 yourdailytrailer.yournewtab.com
 :: yourdailytrailer.yournewtab.com
+0.0.0.0 yourimagination.angelcities.com
+:: yourimagination.angelcities.com
 0.0.0.0 yourparty.cba.pl
 :: yourparty.cba.pl
 0.0.0.0 yourpic.msk.ru
@@ -52207,8 +52253,6 @@
 :: yumcs.xiaohuau.xyz
 0.0.0.0 yuminhong.blog.neworiental.org
 :: yuminhong.blog.neworiental.org
-0.0.0.0 yun-hl.3g.qq.com
-:: yun-hl.3g.qq.com
 0.0.0.0 yun.duiba.com.cn
 :: yun.duiba.com.cn
 0.0.0.0 yun.sifuhe.cn
