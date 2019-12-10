@@ -94,7 +94,6 @@ Donations are welcome and will be used to pay for our dedicated server hosting b
  - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
  - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
  - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts
- - https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
  - http://www.urlvir.com/export-hosts/
  - https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/.dev-tools/output/domains/ACTIVE/list
  - https://malc0de.com/bl/BOOT
