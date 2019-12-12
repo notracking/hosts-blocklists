@@ -70,7 +70,6 @@ Donations are welcome and will be used to pay for our dedicated server hosting b
  - https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
  - http://pgl.yoyo.org/as/serverlist.php?hostformat=hosts
  - https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
- - https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt
  - http://malwaredomains.lehigh.edu/files/BOOT
  - http://malwaredomains.lehigh.edu/files/immortal_domains.txt
  - https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt `Excluding legit license servers`
