@@ -1,10 +1,10 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Thu Dec 12 12:08:44 CET 2019
+# Last update: Thu Dec 12 13:18:21 CET 2019
 # License: MIT
 # Buy me a beer: https://www.paypal.me/notracking
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 26294
+# Number of unique hostnames: 26308
 #################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed false calls, dead hosts and added a large set of custom entries
@@ -13587,6 +13587,8 @@
 :: bcode.zhantai.com
 0.0.0.0 bcpfb.perutracker.com
 :: bcpfb.perutracker.com
+0.0.0.0 bcpzonasegurabeta.viabcp.com.pe.sms.notificaciones.vibcp.online
+:: bcpzonasegurabeta.viabcp.com.pe.sms.notificaciones.vibcp.online
 0.0.0.0 bcpzonaseguranet-viabcp.bc-kes.com
 :: bcpzonaseguranet-viabcp.bc-kes.com
 0.0.0.0 bd-js.baixing.net
@@ -17087,6 +17089,8 @@
 :: collectorb.tvsquared.com
 0.0.0.0 colmeia.eduead.com.br
 :: colmeia.eduead.com.br
+0.0.0.0 colo-mate.web.app
+:: colo-mate.web.app
 0.0.0.0 colo.cachefly.net
 :: colo.cachefly.net
 0.0.0.0 colors-app.blogspot.com
@@ -21927,6 +21931,8 @@
 :: eule1.pmu.fr
 0.0.0.0 eumi.doomby.com
 :: eumi.doomby.com
+0.0.0.0 eun-das.web.app
+:: eun-das.web.app
 0.0.0.0 euroad1.advantage.as
 :: euroad1.advantage.as
 0.0.0.0 euroagd.in.net
@@ -22297,6 +22303,8 @@
 :: faithfull.kdm.pl
 0.0.0.0 fakes.fsn.net
 :: fakes.fsn.net
+0.0.0.0 fam-linto.web.app
+:: fam-linto.web.app
 0.0.0.0 famous-kookabura.cloudvent.net
 :: famous-kookabura.cloudvent.net
 0.0.0.0 fan.9939.com
@@ -23373,6 +23381,8 @@
 :: gardinotec.ind.br
 0.0.0.0 garo903.web.fc2.com
 :: garo903.web.fc2.com
+0.0.0.0 garud.org.in
+:: garud.org.in
 0.0.0.0 gas.data.pplive.com
 :: gas.data.pplive.com
 0.0.0.0 gasasthe.freehostia.com
@@ -25411,6 +25421,8 @@
 :: ib.nab.com.au.verify-acc.ml
 0.0.0.0 ib.nab.com.au.verify-nab.ga
 :: ib.nab.com.au.verify-nab.ga
+0.0.0.0 ib.nab.restricted-online.com
+:: ib.nab.restricted-online.com
 0.0.0.0 ib.nab.restricteduser.com
 :: ib.nab.restricteduser.com
 0.0.0.0 ibdcivil.org.br
@@ -25437,6 +25449,8 @@
 :: ichnaea.netflix.com
 0.0.0.0 icloud.com.signin-id.eu
 :: icloud.com.signin-id.eu
+0.0.0.0 icloud.com.signinfmi.eu
+:: icloud.com.signinfmi.eu
 0.0.0.0 icn.southmoney.com
 :: icn.southmoney.com
 0.0.0.0 icn.tectrade.bg
@@ -34295,6 +34309,8 @@
 :: paypal.kunden00-konten-aktualiseren.tk
 0.0.0.0 paypal.kunden080aanmelden.tk
 :: paypal.kunden080aanmelden.tk
+0.0.0.0 paypal.login-form.com
+:: paypal.login-form.com
 0.0.0.0 paypal.meinkonto-hilfe-ssl.de
 :: paypal.meinkonto-hilfe-ssl.de
 0.0.0.0 paypal.security-0712.com
@@ -35269,6 +35285,8 @@
 :: popme.163.com
 0.0.0.0 popo98.000webhostapp.com
 :: popo98.000webhostapp.com
+0.0.0.0 popos.srvsupportinfo2019.in
+:: popos.srvsupportinfo2019.in
 0.0.0.0 popspace.virgilio.us
 :: popspace.virgilio.us
 0.0.0.0 popunder.adtrgt.com
@@ -41089,6 +41107,8 @@
 :: stuff-nzwhistleout.s3.amazonaws.com
 0.0.0.0 stuff.cdn.biddingx.com
 :: stuff.cdn.biddingx.com
+0.0.0.0 stvrc-accountsupportsigninservice.nsupdate.info
+:: stvrc-accountsupportsigninservice.nsupdate.info
 0.0.0.0 su.bdimg.com
 :: su.bdimg.com
 0.0.0.0 su.bdstatic.com
@@ -44677,6 +44697,8 @@
 :: vendorweb.citibank.com
 0.0.0.0 venex.webjump.net
 :: venex.webjump.net
+0.0.0.0 vent-mose.web.app
+:: vent-mose.web.app
 0.0.0.0 ventricuncut.nfcfhosting.com
 :: ventricuncut.nfcfhosting.com
 0.0.0.0 venudre.000webhostapp.com
@@ -45697,6 +45719,8 @@
 :: wetyt.tourstogo.us
 0.0.0.0 wew.dushiwenxue.net
 :: wew.dushiwenxue.net
+0.0.0.0 wew.secure-resolution-webkit03.com
+:: wew.secure-resolution-webkit03.com
 0.0.0.0 wez-bon.24.eu
 :: wez-bon.24.eu
 0.0.0.0 wf-89547346.000webhostapp.com
@@ -51115,6 +51139,8 @@
 :: www.vocalhealthmart.com
 0.0.0.0 www.vogelsang-net.de
 :: www.vogelsang-net.de
+0.0.0.0 www.vogt-erdbau.de
+:: www.vogt-erdbau.de
 0.0.0.0 www.voiceads.cn
 :: www.voiceads.cn
 0.0.0.0 www.vokr-gtavc.ic.cz
@@ -51553,6 +51579,8 @@
 :: www2.xinmin.cn
 0.0.0.0 www2.yidsense.com
 :: www2.yidsense.com
+0.0.0.0 www200.o-melhor-de-novidades-da-semana.com
+:: www200.o-melhor-de-novidades-da-semana.com
 0.0.0.0 www213.hdhd55.com
 :: www213.hdhd55.com
 0.0.0.0 www22.sonho-de-natal.com
