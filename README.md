@@ -112,6 +112,7 @@ Donations are welcome and will be used to pay for our dedicated server hosting b
  - https://phishing.army/download/phishing_army_blocklist.txt
  - https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt
  - https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSites/master/steamscamsite.txt
+ - https://raw.githubusercontent.com/Kees1958/WS3_annual_most_used_survey_blocklist/master/w3tech_hostfile.txt
  - a large set of custom entries
   
 **Adblock Plus lists** (only full hostname, non-3rd party filters)
