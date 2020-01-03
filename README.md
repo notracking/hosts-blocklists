@@ -93,7 +93,6 @@ Donations are welcome and will be used to pay for our dedicated server hosting b
  - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
  - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
  - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts
- - http://www.urlvir.com/export-hosts/
  - https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/.dev-tools/output/domains/ACTIVE/list
  - https://malc0de.com/bl/BOOT
  - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
@@ -113,6 +112,7 @@ Donations are welcome and will be used to pay for our dedicated server hosting b
  - https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt
  - https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSites/master/steamscamsite.txt
  - https://raw.githubusercontent.com/Kees1958/WS3_annual_most_used_survey_blocklist/master/w3tech_hostfile.txt
+ - https://infosec.cert-pa.it/analyze/listdomains.txt
  - a large set of custom entries
   
 **Adblock Plus lists** (only full hostname, non-3rd party filters)
