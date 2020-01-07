@@ -125,6 +125,7 @@ Donations are welcome and will be used to pay for our dedicated server hosting b
  - https://www.botvrij.eu/data/ioclist.domain.raw
  - https://www.botvrij.eu/data/ioclist.hostname.raw
  - https://www.joewein.net/dl/bl/dom-bl.txt
+ - https://infosharing.cybersaiyan.it/feeds/CS-PIHOLE
  - a large set of custom entries
   
 **Adblock Plus lists** (only full hostname, non-3rd party filters)
