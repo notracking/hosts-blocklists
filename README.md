@@ -126,6 +126,18 @@ Donations are welcome and will be used to pay for our dedicated server hosting b
  - https://www.botvrij.eu/data/ioclist.hostname.raw
  - https://www.joewein.net/dl/bl/dom-bl.txt
  - https://infosharing.cybersaiyan.it/feeds/CS-PIHOLE
+ - https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/bad_service.txt
+ - https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_fallout.txt
+ - https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_grandsoft.txt
+ - https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_neutrino.txt
+ - https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_purplefox.txt
+ - https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_radio.txt
+ - https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_rig.txt
+ - https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_router.txt
+ - https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_shade.txt
+ - https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_spelevo.txt
+ - https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_underminer.txt
+ - https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/magentocore.txt
  - a large set of custom entries
   
 **Adblock Plus lists** (only full hostname, non-3rd party filters)
