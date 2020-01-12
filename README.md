@@ -138,6 +138,7 @@ Donations are welcome and will be used to pay for our dedicated server hosting b
  - https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_spelevo.txt
  - https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_underminer.txt
  - https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/magentocore.txt
+ - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/feeds.txt
  - a large set of custom entries
   
 **Adblock Plus lists** (only full hostname, non-3rd party filters)
