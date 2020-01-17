@@ -139,10 +139,12 @@ Donations are welcome and will be used to pay for our dedicated server hosting b
  - https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_underminer.txt
  - https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/magentocore.txt
  - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/feeds.txt
+ - https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
+ - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
  - a large set of custom entries
   
 **Adblock Plus lists** (only full hostname, non-3rd party filters)
- - https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt
+ - https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt
  - https://www.fanboy.co.nz/enhancedstats.txt
  - https://easylist-downloads.adblockplus.org/easylist.txt
  - https://easylist-downloads.adblockplus.org/easylistchina.txt
