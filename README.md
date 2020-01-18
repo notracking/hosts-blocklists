@@ -1,6 +1,5 @@
 # No more ads, tracking and other virtual garbage
-This repository provides a host and domainname based blocklist specifically designed for use with dnsmasq.
-Most entries are gathered from multiple, actively maintained sources and automatically updated, cleaned, optimized and moderated on a daily basis. The blocklists support both ipv4 and ipv6.
+All blocklists are gathered from multiple, actively maintained sources and automatically updated, cleaned, optimized and moderated on a daily basis. The main [domains.txt](domains.txt) and [hostnames.txt](hostnames.txt) are designed for usage with dnsmasq, but a [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) [combined blacklist](dnscrypt-proxy/dnscrypt-proxy.blacklist.txt) with the same coverage is also available as it has the added benifit of being able to [block](https://github.com/DNSCrypt/dnscrypt-proxy/issues/1067) [cnames](https://github.com/uBlockOrigin/uBlock-issues/issues/780).
 
 ## General blocklist policies
  - Should not break useful websites or apps
@@ -22,44 +21,16 @@ All hostname DNS records are constantly monitored for updates. In case the A, AA
 
 The current list of dead hostnames can be found [here](https://github.com/notracking/hosts-blocklists-scripts/blob/master/hostnames.dead.txt) and have a look [here](https://github.com/notracking/hosts-blocklists-scripts/blob/master/domains.dead.txt) for all unregistered domains.
 
-# How to install
-## Default dnsmasq setup
- - Download the following two files (or use a daily cronjob to do it automatically)
-```
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
-```
- - Add the following lines to your dnsmasq.conf
-```
-conf-file=/path/to/domains.txt
-addn-hosts=/path/to/hostnames.txt
-```
- - Restart dnsmasq (reload will **not** update list changes) `sudo service dnsmasq restart`
-
-## Automatic update and whitelist script
-For automatic updates and whitelisting on Debian based systems you can use the [notracking update script](https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/notracking_update) as a daily cronjob (detailed instructions inside).
-
-## For a Pi-hole setup
-Pi-hole is a webinterface (and more) on top of dnsmasq, but it does not support loading of dnsmasq based domain filters ([details here](https://github.com/pi-hole/pi-hole/blob/1e87850952b6d886674b487f57e47fae1c20dc8a/gravity.sh#L338)). In order to use the dnsmasq domain capabilities you should add your own `.conf` file in `/etc/dnsmasq.d/`. This way you can still use the notracking blocklists within Pi-hole. 
-
-Please note that it is required to update the notracking lists automatically by using an external [daily cronjob](https://github.com/notracking/hosts-blocklists#automatic-update-and-whitelist-script) (instructions inside). It's also recommended to remove all default Pi-hole lists, since these are already included in our list in a more efficient manner.
-
- - Add (and edit) the following lines to `/etc/dnsmasq.d/99-notracking-lists.conf`
-```
-conf-file=/path/to/domains.txt
-addn-hosts=/path/to/hostnames.txt
-```
- - Remove the default Pi-hole lists in `/etc/pihole/adlists.list`
- - Update Pi-hole `pihole -g`
- - Add a [daily cronjob](https://github.com/notracking/hosts-blocklists#automatic-update-and-whitelist-script) to automatically update
-
 ## DNS over HTTPS (DOH)
 DNS over HTTPS will prevent clients in your network from using the default local DNS services. Mozilla Firefox has a feature to disable DOH network wide for all clients as described [here](https://support.mozilla.org/en-US/kb/configuring-networks-disable-dns-over-https).
 
-If you use [domains.txt](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt) in your dnsmasq configuration you will have DOH disabled on all clients by default.
+All domain and combined lists will block the canary domain `use-application-dns.net`, disabeling DOH by default on all clients.
+
+# How to install
+See [Wiki](https://github.com/notracking/hosts-blocklists/wiki).
 
 ## Donations
-Donations are welcome and will be used to pay for our dedicated server hosting bills: ❤️ [donate with Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VPTVYWY3B7XWG&source=url)
+Donations are welcome and will be used to pay for our dedicated server hosting bills: [donate with Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VPTVYWY3B7XWG&source=url)
 
 # Sources
 **Domain and hostname lists**
