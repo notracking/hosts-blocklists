@@ -25,9 +25,9 @@ DNS over HTTPS will prevent clients in your network from using the default local
 All domain and combined lists will block the canary domain `use-application-dns.net`, disabeling DOH by default on all clients.
 
 # How to install
- - [Instructions for dnsmasq](https://github.com/notracking/hosts-blocklists/wiki/Install---dnsmasq)
+ - [Instructions for dnsmasq](https://github.com/notracking/hosts-blocklists/wiki/Install-dnsmasq)
  - [Instructions for dnscrypt-proxy](https://github.com/notracking/hosts-blocklists/wiki/Install-dnscrypt-proxy)
- - [Instructions for Pi-hole](https://github.com/notracking/hosts-blocklists/wiki/Install-Pi-hole)
+ - [Instructions for Pi-hole](https://github.com/notracking/hosts-blocklists/wiki/Install-pi-hole)
 
 ## Donations
 Donations are welcome and will be used to pay for our dedicated server hosting bills: [donate with Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VPTVYWY3B7XWG&source=url)
