@@ -6,7 +6,7 @@ All blocklists are gathered from multiple, actively maintained sources and autom
  - Blocks tracking servers
  - Blocks advertising servers
  - Blocks analytics servers
- - Blocks fake websites
+ - Blocks scam websites
  - Blocks malware servers
  - Blocks webminers
  - Blocks phishing servers
