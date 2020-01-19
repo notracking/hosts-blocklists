@@ -109,7 +109,8 @@ Donations are welcome and will be used to pay for our dedicated server hosting b
  - https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_spelevo.txt
  - https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_underminer.txt
  - https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/magentocore.txt
- - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/feeds.txt
+ - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/cert-pa.txt
+ - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/yoroi.txt
  - https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
  - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
  - a large set of custom entries
