@@ -59,7 +59,6 @@ Donations are welcome and will be used to pay for our dedicated server hosting b
  - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/StreamingAds/hosts
  - https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
  - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
- - https://raw.githubusercontent.com/tyzbit/hosts/master/data/tyzbit/hosts
  - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
  - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
  - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts
@@ -131,7 +130,6 @@ Donations are welcome and will be used to pay for our dedicated server hosting b
  - https://easylist-downloads.adblockplus.org/liste_fr.txt
  - https://easylist-downloads.adblockplus.org/easylistitaly.txt
  - https://www.void.gr/kargig/void-gr-filters.txt
- - https://raw.githubusercontent.com/k2jp/abp-japanese-filters/master/abpjf.txt
  - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
  - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
  - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
