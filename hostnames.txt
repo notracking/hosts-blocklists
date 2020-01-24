@@ -1,6 +1,6 @@
 ################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Jan 24 12:29:31 CET 2020
+# Last update: Fri Jan 24 15:04:54 CET 2020
 # Number of unique hostnames: 28633
 # License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 # Buy me a beer!: https://www.paypal.me/notracking
@@ -1580,6 +1580,8 @@
 :: a876.g.akamai.net
 0.0.0.0 a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com
 :: a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com
+0.0.0.0 a92c0bbf24f7811e985630ec70d216ec-405837804.us-east-1.elb.amazonaws.com
+:: a92c0bbf24f7811e985630ec70d216ec-405837804.us-east-1.elb.amazonaws.com
 0.0.0.0 a9e200df2b051136fd78db6e116ee7b9.cz.cc
 :: a9e200df2b051136fd78db6e116ee7b9.cz.cc
 0.0.0.0 aa.0xbdairolkoie.space
@@ -9460,6 +9462,8 @@
 :: ak-cdn.placelocal.com
 0.0.0.0 ak-events-collector.spot.im
 :: ak-events-collector.spot.im
+0.0.0.0 ak-ns.sascdn.com
+:: ak-ns.sascdn.com
 0.0.0.0 ak.dxsvr.com
 :: ak.dxsvr.com
 0.0.0.0 ak.sailthru.com
@@ -10626,8 +10630,6 @@
 :: api.247-inc.net
 0.0.0.0 api.24kidea.com
 :: api.24kidea.com
-0.0.0.0 api.accengage.com
-:: api.accengage.com
 0.0.0.0 api.accengage.net
 :: api.accengage.net
 0.0.0.0 api.ad.intl.xiaomi.com
@@ -10728,8 +10730,6 @@
 :: api.bailingjiankang.com
 0.0.0.0 api.band.us
 :: api.band.us
-0.0.0.0 api.batch.com
-:: api.batch.com
 0.0.0.0 api.beaconforstore.com
 :: api.beaconforstore.com
 0.0.0.0 api.beaconsinspace.com
@@ -10750,6 +10750,8 @@
 :: api.bugfender.com
 0.0.0.0 api.bugsee.com
 :: api.bugsee.com
+0.0.0.0 api.buzztv.technology
+:: api.buzztv.technology
 0.0.0.0 api.callget.cn
 :: api.callget.cn
 0.0.0.0 api.cheatsheet.me
@@ -11228,8 +11230,6 @@
 :: apikozakanet-a.akamaihd.net
 0.0.0.0 apinas.nct.vn
 :: apinas.nct.vn
-0.0.0.0 apiproxy.accengage.com
-:: apiproxy.accengage.com
 0.0.0.0 apipub.oumma.com
 :: apipub.oumma.com
 0.0.0.0 apir.direct-tap.com
@@ -12204,8 +12204,6 @@
 :: audit3.median.hu
 0.0.0.0 auditdelivery.000webhostapp.com
 :: auditdelivery.000webhostapp.com
-0.0.0.0 audownload.windowsupdate.nsatc.net
-:: audownload.windowsupdate.nsatc.net
 0.0.0.0 aunz.yimg.com
 :: aunz.yimg.com
 0.0.0.0 aurora.cdl-sc.org.br
@@ -15696,8 +15694,6 @@
 :: cdn.810236.com
 0.0.0.0 cdn.88-f.net
 :: cdn.88-f.net
-0.0.0.0 cdn.accengage.com
-:: cdn.accengage.com
 0.0.0.0 cdn.ad.plus
 :: cdn.ad.plus
 0.0.0.0 cdn.adbert.info
@@ -16308,6 +16304,8 @@
 :: ceco.jestersofny.com
 0.0.0.0 ceco.myheritageins.com
 :: ceco.myheritageins.com
+0.0.0.0 ced.sascdn.com
+:: ced.sascdn.com
 0.0.0.0 cee1.iteye.com
 :: cee1.iteye.com
 0.0.0.0 cee2.iteye.com
@@ -16500,6 +16498,8 @@
 :: chaseverification.haman01.tk
 0.0.0.0 chat.whatsapp.guied17.my.id
 :: chat.whatsapp.guied17.my.id
+0.0.0.0 chat.whattapps.ga
+:: chat.whattapps.ga
 0.0.0.0 chat2.livechatinc.com
 :: chat2.livechatinc.com
 0.0.0.0 chatbokep18.mevnt21.com
@@ -20630,8 +20630,6 @@
 :: dev-supoort00.regis-fanpageee-confirm.ml
 0.0.0.0 dev.a-t-martialarts.com
 :: dev.a-t-martialarts.com
-0.0.0.0 dev.accengage.com
-:: dev.accengage.com
 0.0.0.0 dev.adforum.com
 :: dev.adforum.com
 0.0.0.0 dev.cenov.fr
@@ -25504,6 +25502,8 @@
 :: groupchatting.netne.net
 0.0.0.0 grow.rtk.io
 :: grow.rtk.io
+0.0.0.0 grp01.id.rakuten.co.jp.275bcd75e7217f0db297ff8bdd9602a0b26616d1.info
+:: grp01.id.rakuten.co.jp.275bcd75e7217f0db297ff8bdd9602a0b26616d1.info
 0.0.0.0 grupamedialna.hekko24.pl
 :: grupamedialna.hekko24.pl
 0.0.0.0 gry1asdqw1.blob.core.windows.net
@@ -27006,8 +27006,12 @@
 :: ichnaea.netflix.com
 0.0.0.0 icloud.com-locations.in
 :: icloud.com-locations.in
+0.0.0.0 icloud.com-mob.support
+:: icloud.com-mob.support
 0.0.0.0 icloud.com.loging.in
 :: icloud.com.loging.in
+0.0.0.0 icloud.com.uk-login.info
+:: icloud.com.uk-login.info
 0.0.0.0 icloud.com.us-fmi.live
 :: icloud.com.us-fmi.live
 0.0.0.0 icm-tracking.meltwater.com
@@ -28476,6 +28480,8 @@
 :: iu.snssdk.com.edgekey.net
 0.0.0.0 iurhxzmr.ga.gfycat.com
 :: iurhxzmr.ga.gfycat.com
+0.0.0.0 iurotsiwhaa.omtieebovte.xyz
+:: iurotsiwhaa.omtieebovte.xyz
 0.0.0.0 iutr.uozwys.top
 :: iutr.uozwys.top
 0.0.0.0 ivansaru.418.com1.ru
@@ -30740,8 +30746,6 @@
 :: login.live.com.uhat.gq
 0.0.0.0 login.meexy.com
 :: login.meexy.com
-0.0.0.0 login.msa.akadns6.net
-:: login.msa.akadns6.net
 0.0.0.0 loginid.facebook.weekendtime.com.au
 :: loginid.facebook.weekendtime.com.au
 0.0.0.0 loginonline-com.firebaseapp.com
@@ -31358,6 +31362,8 @@
 :: m.fsdlu.cn
 0.0.0.0 m.fsouo.com
 :: m.fsouo.com
+0.0.0.0 m.fx3236.com
+:: m.fx3236.com
 0.0.0.0 m.fx6469.com
 :: m.fx6469.com
 0.0.0.0 m.fx8423.com
@@ -31540,6 +31546,8 @@
 :: m.lisla.cn
 0.0.0.0 m.lisln.cn
 :: m.lisln.cn
+0.0.0.0 m.lke3363.com
+:: m.lke3363.com
 0.0.0.0 m.lko2759.com
 :: m.lko2759.com
 0.0.0.0 m.lks2983.com
@@ -31554,6 +31562,8 @@
 :: m.loi8586.com
 0.0.0.0 m.loldlxmy.com
 :: m.loldlxmy.com
+0.0.0.0 m.lou6275.com
+:: m.lou6275.com
 0.0.0.0 m.lu.sogou.com
 :: m.lu.sogou.com
 0.0.0.0 m.lucky88.com
@@ -31766,6 +31776,8 @@
 :: m.wqiuj.com
 0.0.0.0 m.wshufa.com
 :: m.wshufa.com
+0.0.0.0 m.wt4788.com
+:: m.wt4788.com
 0.0.0.0 m.wt6554.com
 :: m.wt6554.com
 0.0.0.0 m.wtb5333.com
@@ -33866,8 +33878,6 @@
 :: mobilebox.arpuplus.com
 0.0.0.0 mobilebox1212.godaddysites.com
 :: mobilebox1212.godaddysites.com
-0.0.0.0 mobilecrm.accengage.com
-:: mobilecrm.accengage.com
 0.0.0.0 mobiledl.adboe.com
 :: mobiledl.adboe.com
 0.0.0.0 mobileiosapi.punchh.com
@@ -37498,6 +37508,8 @@
 :: paypal-active.herokuapp.com
 0.0.0.0 paypal-com-au-login-au.18.to
 :: paypal-com-au-login-au.18.to
+0.0.0.0 paypal-confirm-account-locked-now-id5.blogspot.be
+:: paypal-confirm-account-locked-now-id5.blogspot.be
 0.0.0.0 paypal-confirmation.aoic.org.my
 :: paypal-confirmation.aoic.org.my
 0.0.0.0 paypal-information.net23.net
@@ -38076,8 +38088,6 @@
 :: ping.weiduofan.com
 0.0.0.0 ping1.unicast.com
 :: ping1.unicast.com
-0.0.0.0 pingapi.accengage.com
-:: pingapi.accengage.com
 0.0.0.0 pingback.issuu.com
 :: pingback.issuu.com
 0.0.0.0 pingbi.diudou.com
@@ -38838,8 +38848,6 @@
 :: premium.2ch.net
 0.0.0.0 premium.ihuh.pl
 :: premium.ihuh.pl
-0.0.0.0 preprod.accengage.com
-:: preprod.accengage.com
 0.0.0.0 preptrad.mixh.jp
 :: preptrad.mixh.jp
 0.0.0.0 prerol.tut.by
@@ -39624,8 +39632,6 @@
 :: push.zhangyue.com
 0.0.0.0 push.zhanzhang.baidu.com
 :: push.zhanzhang.baidu.com
-0.0.0.0 push1.dev.accengage.com
-:: push1.dev.accengage.com
 0.0.0.0 push2.eastmoney.com
 :: push2.eastmoney.com
 0.0.0.0 pushapi.lenovomm.com
@@ -40440,6 +40446,8 @@
 :: redirect.winnersplaycasinos.com
 0.0.0.0 redirect.xmladfeed.com
 :: redirect.xmladfeed.com
+0.0.0.0 redirecting.is-not-certified.com
+:: redirecting.is-not-certified.com
 0.0.0.0 redirection.linternaute.com
 :: redirection.linternaute.com
 0.0.0.0 redirects.coldhardcash.com
@@ -45144,8 +45152,6 @@
 :: stats.abbi.io
 0.0.0.0 stats.absol.co.za
 :: stats.absol.co.za
-0.0.0.0 stats.accengage.com
-:: stats.accengage.com
 0.0.0.0 stats.acunn.com
 :: stats.acunn.com
 0.0.0.0 stats.adisn.com
@@ -45558,8 +45564,6 @@
 :: stattrack.0catch.com
 0.0.0.0 status.appsee.com
 :: status.appsee.com
-0.0.0.0 status.batch.com
-:: status.batch.com
 0.0.0.0 status.engage.co
 :: status.engage.co
 0.0.0.0 status.taplytics.com
@@ -50322,8 +50326,6 @@
 :: vs.blackplanet.com
 0.0.0.0 vs.funshion.com
 :: vs.funshion.com
-0.0.0.0 vs.login.msa.akadns6.net
-:: vs.login.msa.akadns6.net
 0.0.0.0 vs.tucows.com
 :: vs.tucows.com
 0.0.0.0 vseccz.weebly.com
@@ -51250,8 +51252,6 @@
 :: ws-widget-lb-1.subiz.com
 0.0.0.0 ws-widget-lb-2.subiz.com
 :: ws-widget-lb-2.subiz.com
-0.0.0.0 ws.batch.com
-:: ws.batch.com
 0.0.0.0 ws.cmgsystems.it
 :: ws.cmgsystems.it
 0.0.0.0 ws.ksmobile.net
@@ -52250,8 +52250,6 @@
 :: www.bjhdrx.com
 0.0.0.0 www.bkdg.net
 :: www.bkdg.net
-0.0.0.0 www.blfp.in
-:: www.blfp.in
 0.0.0.0 www.blog.jacekpaciorek.pl
 :: www.blog.jacekpaciorek.pl
 0.0.0.0 www.blog.lalalalala.club
@@ -52654,6 +52652,8 @@
 :: www.d77777777.com
 0.0.0.0 www.dafc.co.uk
 :: www.dafc.co.uk
+0.0.0.0 www.daft.ie-agents-upgrade.info
+:: www.daft.ie-agents-upgrade.info
 0.0.0.0 www.danseboutique.com
 :: www.danseboutique.com
 0.0.0.0 www.darley.co.uk
@@ -53638,6 +53638,8 @@
 :: www.jetpackdigital.com
 0.0.0.0 www.jetseeker.com
 :: www.jetseeker.com
+0.0.0.0 www.jfarrenprice.com.au
+:: www.jfarrenprice.com.au
 0.0.0.0 www.jhondi33.duckdns.org
 :: www.jhondi33.duckdns.org
 0.0.0.0 www.jiayuan.com
@@ -54354,8 +54356,6 @@
 :: www.ntsearch.com
 0.0.0.0 www.nu26.com
 :: www.nu26.com
-0.0.0.0 www.nuappinspy.com
-:: www.nuappinspy.com
 0.0.0.0 www.nunu-001.now.sh
 :: www.nunu-001.now.sh
 0.0.0.0 www.nutaku.com
