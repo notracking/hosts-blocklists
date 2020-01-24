@@ -112,6 +112,8 @@ Donations are welcome and will be used to pay for our dedicated server hosting b
  - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/cert-pa.txt
  - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/yoroi.txt
  - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/pan-unit42/mirai.txt
+ - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/tgsoft.txt
+ - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/zscaler.txt
  - https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
  - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
  - a large set of custom entries
