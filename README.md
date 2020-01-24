@@ -49,7 +49,6 @@ Donations are welcome and will be used to pay for our dedicated server hosting b
  - https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
  - https://www.dshield.org/feeds/suspiciousdomains_Medium.txt
  - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
- - http://www.shallalist.de/Downloads/shallalist.tar.gz `only 'adv' & 'tracker' lists`
  - https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz `only 'publicite' list`
  - https://ssl.bblck.me/blacklists/hosts-file.txt
  - https://v.firebog.net/hosts/static/w3kbl.txt
