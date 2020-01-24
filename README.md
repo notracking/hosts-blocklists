@@ -52,7 +52,6 @@ Donations are welcome and will be used to pay for our dedicated server hosting b
  - http://www.shallalist.de/Downloads/shallalist.tar.gz `only 'adv' & 'tracker' lists`
  - https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz `only 'publicite' list`
  - https://ssl.bblck.me/blacklists/hosts-file.txt
- - https://raw.githubusercontent.com/bkrcrc/turk-adlist/master/hosts
  - https://v.firebog.net/hosts/static/w3kbl.txt
  - https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
  - https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt
