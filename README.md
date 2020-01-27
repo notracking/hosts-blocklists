@@ -102,13 +102,15 @@ Donations are welcome and will be used to pay for our dedicated server hosting b
  - https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/magentocore.txt
  - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/cert-pa.txt
  - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/yoroi.txt
- - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/pan-unit42/iran-linked-operators.txt
- - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/pan-unit42/mirai.txt
+ - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/citizenlab.txt
+ - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/malware-traffic-analysis.txt
+ - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/pan-unit42.txt
  - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/tgsoft.txt
  - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/zscaler.txt
  - https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
  - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
  - https://openphish.com/feed.txt `only full domain filters`
+ - https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
  - a large set of custom entries
   
 **Adblock Plus lists** (only full hostname, non-3rd party filters)
