@@ -107,6 +107,8 @@ Donations are welcome and will be used to pay for our dedicated server hosting b
  - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/pan-unit42.txt
  - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/tgsoft.txt
  - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/zscaler.txt
+ - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/checkpoint.txt
+ - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/symantec
  - https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
  - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
  - https://openphish.com/feed.txt `only full domain filters`
