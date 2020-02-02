@@ -29,8 +29,13 @@ All domain and combined lists will block the canary domain `use-application-dns.
  - [Instructions for dnscrypt-proxy](https://github.com/notracking/hosts-blocklists/wiki/Install-dnscrypt-proxy)
  - [Instructions for Pi-hole](https://github.com/notracking/hosts-blocklists/wiki/Install-pi-hole)
 
-## Donations
-Donations are welcome and will be used to pay for our dedicated server hosting bills: [donate with Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VPTVYWY3B7XWG&source=url)
+## Supporting Notracking blocklist
+You can support in multiple ways:
+ - Submit false positives
+ - Submit new (tested) sources
+ - [Donate with Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VPTVYWY3B7XWG&source=url)
+ 
+*Donations are used to pay for hosting bills, generation of the blocklists cost more resources then you might expect (running databases, 24/7 active updating of whois info etc..)*
 
 # Sources
 **Domain and hostname lists**
@@ -108,7 +113,7 @@ Donations are welcome and will be used to pay for our dedicated server hosting b
  - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/tgsoft.txt
  - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/zscaler.txt
  - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/checkpoint.txt
- - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/symantec
+ - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/symantec.txt
  - https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
  - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
  - https://openphish.com/feed.txt `only full domain filters`
