@@ -41,7 +41,7 @@ You can support in multiple ways:
 **Domain and hostname lists**
  - http://winhelp2002.mvps.org/hosts.txt
  - https://www.malwaredomainlist.com/hostslist/hosts.txt
- - https://someonewhocares.org/hosts/hosts/
+ - https://someonewhocares.org/hosts/
  - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
  - https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
  - http://pgl.yoyo.org/as/serverlist.php?hostformat=hosts
