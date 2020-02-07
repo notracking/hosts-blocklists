@@ -152,3 +152,5 @@ You can support in multiple ways:
  - https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt
  - https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
  - https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt
+ - https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt
+ - https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt
