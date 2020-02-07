@@ -43,8 +43,7 @@ You can support in multiple ways:
  - https://www.malwaredomainlist.com/hostslist/hosts.txt
  - https://someonewhocares.org/hosts/
  - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
- - https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
- - http://pgl.yoyo.org/as/serverlist.php?hostformat=hosts
+ - https://pgl.yoyo.org/as/serverlist.php?hostformat=hosts
  - https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
  - http://malwaredomains.lehigh.edu/files/BOOT
  - http://malwaredomains.lehigh.edu/files/immortal_domains.txt
