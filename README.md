@@ -1,5 +1,7 @@
 # No more ads, tracking and other virtual garbage
-All blocklists are gathered from multiple, actively maintained sources and automatically updated, cleaned, optimized and moderated on a daily basis. The main [domains.txt](domains.txt) and [hostnames.txt](hostnames.txt) are designed for usage with [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html), but a [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) [combined blacklist](dnscrypt-proxy/dnscrypt-proxy.blacklist.txt) with the same coverage is also available as it has the added benifit of being able to [block](https://github.com/DNSCrypt/dnscrypt-proxy/issues/1067) [cnames](https://github.com/uBlockOrigin/uBlock-issues/issues/780).
+All blocklists are gathered from multiple, actively maintained sources and automatically updated, cleaned, optimized and moderated on a daily basis.
+
+The main [domains.txt](domains.txt) and [hostnames.txt](hostnames.txt) are designed for usage with [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html), but a [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) [combined blacklist](dnscrypt-proxy/dnscrypt-proxy.blacklist.txt) with the same coverage is also available as it has the added benifit of being able to [block](https://github.com/DNSCrypt/dnscrypt-proxy/issues/1067) [cnames](https://github.com/uBlockOrigin/uBlock-issues/issues/780). For any other adblocker that support the AdblockPlus format a [network filter](adblock/adblock.txt) list is available.
 
 ## General blocklist policies
  - Should not break useful websites or apps
@@ -25,6 +27,7 @@ DNS over HTTPS will prevent clients in your network from using the default local
 All domain and combined lists will block the canary domain `use-application-dns.net`, disabeling DOH by default on all clients.
 
 # How to install
+ - [Instructions for AdblockPlus](https://github.com/notracking/hosts-blocklists/wiki/Install-AdblockPlus) (eg. [uBlock](https://github.com/gorhill/uBlock), [Adguard Home](https://github.com/AdguardTeam/AdGuardHome/))
  - [Instructions for dnsmasq](https://github.com/notracking/hosts-blocklists/wiki/Install-dnsmasq)
  - [Instructions for dnscrypt-proxy](https://github.com/notracking/hosts-blocklists/wiki/Install-dnscrypt-proxy)
  - [Instructions for Pi-hole](https://github.com/notracking/hosts-blocklists/wiki/Install-pi-hole)
@@ -33,9 +36,7 @@ All domain and combined lists will block the canary domain `use-application-dns.
 You can support in multiple ways:
  - Submit false positives
  - Submit new (tested) sources
- - [Donate with Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VPTVYWY3B7XWG&source=url)
- 
-*Donations are used to pay for hosting bills, generation of the blocklists cost more resources then you might expect (running databases, 24/7 active updating of whois info etc..)*
+ - [Donate with Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VPTVYWY3B7XWG&source=url) (yes, it helps!)
 
 # Sources
 **Domain and hostname lists**
