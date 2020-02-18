@@ -121,6 +121,7 @@ You can support in multiple ways:
  - https://openphish.com/feed.txt `only full domain filters`
  - https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
  - https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
+ - https://280blocker.net/files/280blocker_domain.txt
  - a large set of custom entries
   
 **Adblock Plus lists** (only full hostname, non-3rd party filters)
