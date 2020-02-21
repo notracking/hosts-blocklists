@@ -46,8 +46,8 @@ You can support in multiple ways:
  - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
  - https://pgl.yoyo.org/as/serverlist.php?hostformat=hosts
  - https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
- - http://malwaredomains.lehigh.edu/files/BOOT
- - http://malwaredomains.lehigh.edu/files/immortal_domains.txt
+ - https://mirror1.malwaredomains.com/files/justdomains
+ - https://mirror1.malwaredomains.com/files/immortal_domains.txt
  - https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt `Excluding legit license servers`
  - https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt
  - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
