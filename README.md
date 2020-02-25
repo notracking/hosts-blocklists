@@ -116,6 +116,7 @@ You can support in multiple ways:
  - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/symantec.txt
  - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/eset.txt
  - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/kaspersky.txt
+ - https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/sophos.txt
  - https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
  - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
  - https://openphish.com/feed.txt `only full domain filters`
