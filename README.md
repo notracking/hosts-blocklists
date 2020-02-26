@@ -87,7 +87,6 @@ You can support in multiple ways:
  - https://phishing.army/download/phishing_army_blocklist.txt
  - https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt
  - https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSites/master/steamscamsite.txt
- - https://raw.githubusercontent.com/Kees1958/WS3_annual_most_used_survey_blocklist/master/w3tech_hostfile.txt
  - https://infosec.cert-pa.it/analyze/listdomains.txt
  - https://www.botvrij.eu/data/ioclist.domain.raw
  - https://www.botvrij.eu/data/ioclist.hostname.raw
