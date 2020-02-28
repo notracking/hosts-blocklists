@@ -36,7 +36,7 @@ All domain and combined lists will block the canary domain `use-application-dns.
 You can support in multiple ways:
  - Submit false positives
  - Submit new (tested) sources
- - [Donate with Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VPTVYWY3B7XWG&source=url) (yes, it helps!)
+ - [Donate with Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VPTVYWY3B7XWG&source=url)
 
 # Sources
 **Domain and hostname lists**
@@ -123,6 +123,8 @@ You can support in multiple ways:
  - https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
  - https://280blocker.net/files/280blocker_domain.txt
  - https://filtri-dns.ga/filtri.txt
+ - https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
+ - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
  - a large set of custom entries
   
 **Adblock Plus lists** (only full hostname, non-3rd party filters)
