@@ -88,6 +88,8 @@ https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt|hos
 https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt|hostfile|`ads`|
 https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/trendmicro.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/sentinelone.txt|hostfile|`malware`|
+https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts|hostfile|`phishing`|
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN|hostfile|`ads`|
 large set of custom entries|hostfile|`ads` `malware` `spam` `trackers`|
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt|adblock|`ads`|
 https://www.fanboy.co.nz/enhancedstats.txt|adblock|`ads`|
@@ -121,3 +123,11 @@ https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscrip
 https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt|adblock|`ads`|
 https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt|adblock|`ads`|
 https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt|adblock|`ads`|
+http://gurud.ee/ab.txt|adblock|`ads`|
+https://raw.githubusercontent.com/farrokhi/adblock-iran/master/filter.txt|adblock|`ads`|
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt|adblock|`tracking`|
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt|adblock|`tracking`|
+https://easylist-downloads.adblockplus.org/adwarefilters.txt|adblock|`ads`
+https://www.zoso.ro/pages/rolist.txt|adblock|`ads`|
+https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt|adblock|`malware`|
+https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/adblock.txt|adblock|`ads`|
