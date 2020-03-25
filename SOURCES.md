@@ -123,7 +123,7 @@ https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscrip
 https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt|adblock|`ads`|
 https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt|adblock|`ads`|
 https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt|adblock|`ads`|
-http://gurud.ee/ab.txt|adblock|`ads`|
+https://gurud.ee/ab.txt|adblock|`ads`|
 https://raw.githubusercontent.com/farrokhi/adblock-iran/master/filter.txt|adblock|`ads`|
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt|adblock|`tracking`|
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt|adblock|`tracking`|
