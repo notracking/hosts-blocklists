@@ -86,8 +86,8 @@ https://filtri-dns.ga/filtri.txt|hostfile|`ads`|
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt|hostfile|`ads`|
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt|hostfile|`ads`|
 https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt|hostfile|`ads`|
-https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/trendmicro.txt|hostfile|`ads`|
-https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/sentinelone.txt|hostfile|`ads`|
+https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/trendmicro.txt|hostfile|`malware`|
+https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/sentinelone.txt|hostfile|`malware`|
 large set of custom entries|hostfile|`ads` `malware` `spam` `trackers`|
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt|adblock|`ads`|
 https://www.fanboy.co.nz/enhancedstats.txt|adblock|`ads`|
