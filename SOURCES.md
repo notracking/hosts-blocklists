@@ -90,6 +90,7 @@ https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/trendmicr
 https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/sentinelone.txt|hostfile|`malware`|
 https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts|hostfile|`phishing`|
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN|hostfile|`ads`|
+https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/drweb.txt|hostfile|`malware`|
 large set of custom entries|hostfile|`ads` `malware` `spam` `trackers`|
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt|adblock|`ads`|
 https://www.fanboy.co.nz/enhancedstats.txt|adblock|`ads`|
