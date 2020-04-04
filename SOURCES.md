@@ -85,7 +85,6 @@ https://280blocker.net/files/280blocker_domain.txt|hostfile|`ads`|
 https://filtri-dns.ga/filtri.txt|hostfile|`ads`|
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt|hostfile|`ads`|
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt|hostfile|`ads`|
-https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt|hostfile|`ads`|
 https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/trendmicro.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/sentinelone.txt|hostfile|`malware`|
 https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts|hostfile|`phishing`|
