@@ -81,7 +81,6 @@ https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt|hostfi
 https://openphish.com/feed.txt|hostfile|`malware`|only full domain filters
 https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt|hostfile|`ads`|
 https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt|hostfile|`ads`|
-https://280blocker.net/files/280blocker_domain.txt|hostfile|`ads`|
 https://filtri-dns.ga/filtri.txt|hostfile|`ads`|
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt|hostfile|`ads`|
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt|hostfile|`ads`|
