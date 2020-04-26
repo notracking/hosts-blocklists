@@ -76,6 +76,7 @@ https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt|hos
 https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts|hostfile|`phishing`|
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN|hostfile|`ads`|
 https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt|hostfile|`tracking`|
+https://blocklist.cyberthreatcoalition.org/vetted/domain.txt|hostfile|`phishing`|
 large set of custom entries|hostfile|`ads` `malware` `spam` `trackers`|
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt|adblock|`ads`|
 https://www.fanboy.co.nz/enhancedstats.txt|adblock|`ads`|
