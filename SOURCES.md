@@ -64,18 +64,7 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicio
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_spelevo.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_underminer.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/magentocore.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/cert-pa.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/yoroi.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/citizenlab.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/malware-traffic-analysis.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/pan-unit42.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/tgsoft.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/zscaler.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/checkpoint.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/symantec.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/eset.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/kaspersky.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/sophos.txt|hostfile|`malware`|
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-main.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains|hostfile|`ads`|
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt|hostfile|`spam`|
 https://openphish.com/feed.txt|hostfile|`malware`|only full domain filters
@@ -84,11 +73,9 @@ https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Fre
 https://filtri-dns.ga/filtri.txt|hostfile|`ads`|
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt|hostfile|`ads`|
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt|hostfile|`ads`|
-https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/trendmicro.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/sentinelone.txt|hostfile|`malware`|
 https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts|hostfile|`phishing`|
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN|hostfile|`ads`|
-https://raw.githubusercontent.com/scafroglia93/hosts-blocklists/master/drweb.txt|hostfile|`malware`|
+https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt|hostfile|`tracking`|
 large set of custom entries|hostfile|`ads` `malware` `spam` `trackers`|
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt|adblock|`ads`|
 https://www.fanboy.co.nz/enhancedstats.txt|adblock|`ads`|
@@ -124,7 +111,7 @@ https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filte
 https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt|adblock|`ads`|
 https://gurud.ee/ab.txt|adblock|`ads`|
 https://raw.githubusercontent.com/farrokhi/adblock-iran/master/filter.txt|adblock|`ads`|
-https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt|adblock|`tracking`|
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/ing_servers_firstparty.txt|adblock|`tracking`|
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt|adblock|`tracking`|
 https://easylist-downloads.adblockplus.org/adwarefilters.txt|adblock|`ads`
 https://www.zoso.ro/pages/rolist.txt|adblock|`ads`|
