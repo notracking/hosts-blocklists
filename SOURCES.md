@@ -78,6 +78,7 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN|hostf
 https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt|hostfile|`tracking`|
 https://blocklist.cyberthreatcoalition.org/vetted/domain.txt|hostfile|`phishing`|
 https://github.com/durablenapkin/scamblocklist/raw/master/hosts.txt|hostfile|`phishing`|
+https://azorult-tracker.net/api/list/domain?format=plain|hostfiles|`malware`|
 large set of custom entries|hostfile|`ads` `malware` `spam` `trackers`|
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt|adblock|`ads`|
 https://www.fanboy.co.nz/enhancedstats.txt|adblock|`ads`|
