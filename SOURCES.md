@@ -8,7 +8,7 @@ https://pgl.yoyo.org/as/serverlist.php?hostformat=hosts|hostfile|`ads`|
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts|hostfile|`ads`|
 https://mirror1.malwaredomains.com/files/justdomains|hostfile|`malware`|
 https://mirror1.malwaredomains.com/files/immortal_domains.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt|hostfile|`ads`|Excluding legit license servers
+https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt|hostfile|`ads`|Excluding legit license servers
 https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt|hostfile|`spam`|
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt|hostfile|`ads`|
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt|hostfile|`ads`|
