@@ -82,6 +82,7 @@ https://kriskintel.com/ktip_corona.txt|hostfile|`phishing` `malware`|
 https://kriskintel.com/ktip_maze.txt|hostfile|`phishing` `malware`|
 https://kriskintel.com/ktip_domain_blacklist.txt|hostfile|`phishing` `malware`|
 https://raw.githubusercontent.com/socram8888/not-on-my-shift/master/domains.txt|hostfile|`malware` `phishing` `ads`|
+https://raw.githubusercontent.com/deletescape/noads/master/lists/add-switzerland.txt|hostfile|`ads`|
 large set of custom entries|hostfile|`ads` `malware` `spam` `trackers`|
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt|adblock|`ads`|
 https://www.fanboy.co.nz/enhancedstats.txt|adblock|`ads`|
