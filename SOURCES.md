@@ -10,7 +10,6 @@ https://mirror1.malwaredomains.com/files/justdomains|hostfile|`malware`|
 https://mirror1.malwaredomains.com/files/immortal_domains.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt|hostfile|`ads`|Excluding legit license servers
 https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt|hostfile|`spam`|
-https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt|hostfile|`ads`|
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt|hostfile|`ads`|
 https://www.dshield.org/feeds/suspiciousdomains_Medium.txt|hostfile|`ads`|
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts|hostfile|`spam`|
