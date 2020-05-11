@@ -51,23 +51,12 @@ https://www.botvrij.eu/data/ioclist.domain.raw|hostfile|`malware`|
 https://www.botvrij.eu/data/ioclist.hostname.raw|hostfile|`malware`|
 https://www.joewein.net/dl/bl/dom-bl.txt|hostfile|`spam` `malware` `phishing`|
 https://infosharing.cybersaiyan.it/feeds/CS-PIHOLE|hostfile|`malware`|
-https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/bad_service.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_fallout.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_grandsoft.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_neutrino.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_purplefox.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_radio.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_rig.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_router.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_shade.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_spelevo.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/ek_underminer.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malicious/magentocore.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-main.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains|hostfile|`ads`|
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt|hostfile|`spam`|
 https://openphish.com/feed.txt|hostfile|`malware`|only full domain filters
 https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt|hostfile|`ads`|
+https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt|hostfile|`ads`|
 https://filtri-dns.ga/filtri.txt|hostfile|`ads`|
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt|hostfile|`ads`|
