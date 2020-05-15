@@ -74,6 +74,7 @@ https://raw.githubusercontent.com/socram8888/not-on-my-shift/master/domains.txt|
 https://raw.githubusercontent.com/deletescape/noads/master/lists/add-switzerland.txt|hostfile|`ads`|
 https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/malicious_domains.txt|hostfile|`phishing` `malware`|
 https://rescure.fruxlabs.com/covid.txt|hostfile|`phishing` `malware`|
+https://raw.githubusercontent.com/Meldon6/AttackVectors-Domain-List/master/AttackVectorsDomains|hostfile|`phishing`|
 large set of custom entries|hostfile|`ads` `malware` `spam` `trackers`|
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt|adblock|`ads`|
 https://www.fanboy.co.nz/enhancedstats.txt|adblock|`ads`|
