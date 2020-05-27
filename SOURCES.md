@@ -70,7 +70,7 @@ https://azorult-tracker.net/api/list/domain?format=plain|hostfiles|`malware`|
 https://kriskintel.com/ktip_corona.txt|hostfile|`phishing` `malware`|
 https://kriskintel.com/ktip_maze.txt|hostfile|`phishing` `malware`|
 https://kriskintel.com/ktip_domain_blacklist.txt|hostfile|`phishing` `malware`|
-https://raw.githubusercontent.com/socram8888/not-on-my-shift/master/domains.txt|hostfile|`malware` `phishing` `ads`|
+https://orca.pet/notonmyshift/domains.txt|hostfile|`malware` `phishing` `ads`|
 https://raw.githubusercontent.com/deletescape/noads/master/lists/add-switzerland.txt|hostfile|`ads`|
 https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/malicious_domains.txt|hostfile|`phishing` `malware`|
 https://rescure.fruxlabs.com/covid.txt|hostfile|`phishing` `malware`|
