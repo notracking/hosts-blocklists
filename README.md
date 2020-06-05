@@ -26,9 +26,19 @@ DNS over HTTPS will prevent clients in your network from using the default local
 
 All domain and combined lists will block the canary domain `use-application-dns.net`, disabeling DOH by default on all clients.
 
-# How to install
+## Versions
+| List | List Type | Compatibility |
+| ------------- | ------------- | ------------- |
+| [dnsmasq/dnsmasq.blacklist.txt](https://github.com/notracking/hosts-blocklists/raw/master/dnsmasq/dnsmasq.blacklist.txt) | config | Dnsmasq |
+| [dnscrypt-proxy.blacklist.txt](https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt)| hostnames | Dnscrypt-proxy |
+| [adblock/adblock.txt](https://github.com/notracking/hosts-blocklists/raw/master/adblock/adblock.txt)| AdblockPlus | Adguard Home, uBlock Origin |
+| [hostnames.txt](https://github.com/notracking/hosts-blocklists/raw/master/hostnames.txt) | hosts | Dnsmasq (old: pre version 2.80) |
+| [domains.txt](https://github.com/notracking/hosts-blocklists/raw/master/domains.txt) | config | Dnsmasq (old: pre version 2.80) |
+
+## How to install
  - [Instructions for AdblockPlus](https://github.com/notracking/hosts-blocklists/wiki/Install-AdblockPlus) (eg. [uBlock](https://github.com/gorhill/uBlock), [Adguard Home](https://github.com/AdguardTeam/AdGuardHome/))
  - [Instructions for dnsmasq](https://github.com/notracking/hosts-blocklists/wiki/Install-dnsmasq)
+ - [Instructions for dnsmasq (old: pre v2.80)](https://github.com/notracking/hosts-blocklists/wiki/Install-dnsmasq-(old:-pre-v2.80))
  - [Instructions for dnscrypt-proxy](https://github.com/notracking/hosts-blocklists/wiki/Install-dnscrypt-proxy)
  - [Instructions for Pi-hole](https://github.com/notracking/hosts-blocklists/wiki/Install-pi-hole)
 
@@ -38,5 +48,5 @@ You can support in multiple ways:
  - Submit new (tested) sources
  - [Donate with Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VPTVYWY3B7XWG&source=url)
 
-# Sources
+## Sources
 Most sources come from public hostfile type lists, though several AdblockPlus lists are also included only for their non-3rd party networking filters `||evilhost.com^`. See [SOURCES.md](SOURCES.md) for the full overview of all included lists.
