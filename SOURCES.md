@@ -3,7 +3,6 @@ List Source | Type | Category | Comments
 http://winhelp2002.mvps.org/hosts.txt|hostfile|`ads`|
 https://www.malwaredomainlist.com/hostslist/hosts.txt|hostfile|`ads`|
 https://someonewhocares.org/hosts/|hostfile|`ads`|
-https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt|hostfile|`ads` `malware`|
 https://pgl.yoyo.org/as/serverlist.php?hostformat=hosts|hostfile|`ads`|
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts|hostfile|`ads`|
 https://mirror1.malwaredomains.com/files/justdomains|hostfile|`malware`|
@@ -74,6 +73,7 @@ https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/malicious_domains
 https://rescure.fruxlabs.com/covid.txt|hostfile|`phishing` `malware`|
 https://raw.githubusercontent.com/Meldon6/AttackVectors-Domain-List/master/AttackVectorsDomains|hostfile|`phishing`|
 https://hole.cert.pl/domains/domains.txt|hostfile|`phishing` `malware`|
+https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/malware_domains.txt|hostfile|`phishing` `malware`|
 large set of custom entries|hostfile|`ads` `malware` `spam` `trackers`|
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt|adblock|`ads`|
 https://www.fanboy.co.nz/enhancedstats.txt|adblock|`ads`|
