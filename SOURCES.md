@@ -69,11 +69,12 @@ https://kriskintel.com/ktip_maze.txt|hostfile|`phishing` `malware`|
 https://kriskintel.com/ktip_domain_blacklist.txt|hostfile|`phishing` `malware`|
 https://orca.pet/notonmyshift/domains.txt|hostfile|`malware` `phishing` `ads`|
 https://raw.githubusercontent.com/deletescape/noads/master/lists/add-switzerland.txt|hostfile|`ads`|
-https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/malicious_domains.txt|hostfile|`phishing` `malware`|
+https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/cyber_threat_coalition_ioc/domain.txt|hostfile|`phishing` `malware`|
 https://rescure.fruxlabs.com/covid.txt|hostfile|`phishing` `malware`|
 https://raw.githubusercontent.com/Meldon6/AttackVectors-Domain-List/master/AttackVectorsDomains|hostfile|`phishing`|
 https://hole.cert.pl/domains/domains.txt|hostfile|`phishing` `malware`|
 https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/malware_domains.txt|hostfile|`phishing` `malware`|
+https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt|hostfile|`malware`|
 large set of custom entries|hostfile|`ads` `malware` `spam` `trackers`|
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt|adblock|`ads`|
 https://www.fanboy.co.nz/enhancedstats.txt|adblock|`ads`|
