@@ -9,7 +9,6 @@ https://mirror1.malwaredomains.com/files/justdomains|hostfile|`malware`|
 https://mirror1.malwaredomains.com/files/immortal_domains.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt|hostfile|`ads`|Excluding legit license servers
 https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt|hostfile|`spam`|
-https://www.dshield.org/feeds/suspiciousdomains_Medium.txt|hostfile|`ads`|
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts|hostfile|`spam`|
 https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz|hostfile|`ads`|only 'publicite' list
 https://ssl.bblck.me/blacklists/hosts-file.txt|hostfile|`ads`|
