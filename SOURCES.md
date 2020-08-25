@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt|hostfile|`ads
 https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt|hostfile|`spam`|
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts|hostfile|`spam`|
 https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz|hostfile|`ads`|only 'publicite' list
-https://ssl.bblck.me/blacklists/hosts-file.txt|hostfile|`ads`|
+https://raw.githubusercontent.com/paulgb/BarbBlock/master/blacklists/domain-list.txt|hostfile|`ads`|
 https://v.firebog.net/hosts/static/w3kbl.txt|hostfile|`ads`|
 https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts|hostfile|`ads`|
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt|hostfile|`ads`|
