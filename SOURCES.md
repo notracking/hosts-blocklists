@@ -114,3 +114,4 @@ https://easylist-downloads.adblockplus.org/adwarefilters.txt|adblock|`ads`
 https://www.zoso.ro/pages/rolist.txt|adblock|`ads`|
 https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt|adblock|`malware`|
 https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/adblock.txt|adblock|`ads`|
+https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt|adblock|`ads`|
