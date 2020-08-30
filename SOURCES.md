@@ -62,9 +62,9 @@ https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt|hostfile|
 https://blocklist.cyberthreatcoalition.org/vetted/domain.txt|hostfile|`phishing`|
 https://github.com/durablenapkin/scamblocklist/raw/master/hosts.txt|hostfile|`phishing`|
 https://azorult-tracker.net/api/list/domain?format=plain|hostfiles|`malware`|
-https://kriskintel.com/ktip_corona.txt|hostfile|`phishing` `malware`|
-https://kriskintel.com/ktip_maze.txt|hostfile|`phishing` `malware`|
-https://kriskintel.com/ktip_domain_blacklist.txt|hostfile|`phishing` `malware`|
+https://kriskintel.com/feeds/ktip_corona.txt|hostfile|`phishing` `malware`|
+https://kriskintel.com/feeds/ktip_maze.txt|hostfile|`phishing` `malware`|
+https://kriskintel.com/feeds/ktip_domain_blacklist.txt|hostfile|`phishing` `malware`|
 https://orca.pet/notonmyshift/domains.txt|hostfile|`malware` `phishing` `ads`|
 https://raw.githubusercontent.com/deletescape/noads/master/lists/add-switzerland.txt|hostfile|`ads`|
 https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/cyber_threat_coalition_ioc/domain.txt|hostfile|`phishing` `malware`|
