@@ -1,8 +1,6 @@
 # No more ads, tracking and other virtual garbage
 All blocklists are gathered from multiple, actively maintained sources and automatically updated, cleaned, optimized and moderated on a daily basis.
 
-The main [domains.txt](domains.txt) and [hostnames.txt](hostnames.txt) are designed for usage with [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html), but a [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) [combined blacklist](dnscrypt-proxy/dnscrypt-proxy.blacklist.txt) with the same coverage is also available as it has the added benifit of being able to [block](https://github.com/DNSCrypt/dnscrypt-proxy/issues/1067) [cnames](https://github.com/uBlockOrigin/uBlock-issues/issues/780). For any other adblocker that support the AdblockPlus format a [network filter](adblock/adblock.txt) list is available.
-
 ## General blocklist policies
  - Should not break useful websites or apps
  - Blocks tracking servers
