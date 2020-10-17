@@ -45,6 +45,7 @@ You can support in multiple ways:
  - Submit false positives
  - Submit new (tested) sources
  - [Donate with Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VPTVYWY3B7XWG&source=url)
+ - [Become a Patreon!](https://www.patreon.com/notracking)
 
 ## Sources
 Most sources come from public hostfile type lists, though several AdblockPlus lists are also included only for their non-3rd party networking filters `||evilhost.com^`. See [SOURCES.md](SOURCES.md) for the full overview of all included lists.
