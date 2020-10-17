@@ -1,5 +1,5 @@
 # No more ads, tracking and other virtual garbage
-All blocklists are gathered from multiple, actively maintained sources and automatically updated, cleaned, optimized and moderated on a daily basis.
+The NoTracking blocklist is a DNS based filter list for blocking ads, malware, phising and other online garbage.
 
 ## General blocklist policies
  - Should not break useful websites or apps
