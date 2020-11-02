@@ -110,7 +110,6 @@ https://gurud.ee/ab.txt|adblock|`ads`|
 https://raw.githubusercontent.com/farrokhi/adblock-iran/master/filter.txt|adblock|`ads`|
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/ing_servers_firstparty.txt|adblock|`tracking`|
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt|adblock|`tracking`|
-https://easylist-downloads.adblockplus.org/adwarefilters.txt|adblock|`ads`
 https://www.zoso.ro/pages/rolist.txt|adblock|`ads`|
 https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt|adblock|`malware`|
 https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/adblock.txt|adblock|`ads`|
