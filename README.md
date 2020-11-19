@@ -10,7 +10,7 @@ The NoTracking blocklist is a DNS based filter list for blocking ads, malware, p
  - Blocks malware servers
  - Blocks webminers
  - Blocks phishing servers
- 
+
 ## Optimization
 The optimizer makes full use of domainname based wildcard filtering `*.doubleclick.net`, this reduces the chance of missing any new subdomains and significantly reduces the size of the blocklists. Hostnames that cannot be blocked on a domain level will still be listed in a regular hostname based blocklist.
 
@@ -32,6 +32,8 @@ All domain and combined lists will block the canary domain `use-application-dns.
 | [adblock/adblock.txt](https://github.com/notracking/hosts-blocklists/raw/master/adblock/adblock.txt)| AdblockPlus | Adguard Home, uBlock Origin |
 | [hostnames.txt](https://github.com/notracking/hosts-blocklists/raw/master/hostnames.txt) | hosts | Dnsmasq (old: pre version 2.80) |
 | [domains.txt](https://github.com/notracking/hosts-blocklists/raw/master/domains.txt) | config | Dnsmasq (old: pre version 2.80) |
+| [domains.lsrules](https://raw.githubusercontent.com/chrispaynter/little-snitch-block-lists/master/dist/notracking-domains.lsrules) | lsrules | Little Snitch |
+| [hostnames.lsrules](https://raw.githubusercontent.com/chrispaynter/little-snitch-block-lists/master/dist/notracking-hostnames.lsrules) | lsrules | Little Snitch |
 
 ## How to install
  - [Instructions for AdblockPlus](https://github.com/notracking/hosts-blocklists/wiki/Install-AdblockPlus) (eg. [uBlock](https://github.com/gorhill/uBlock), [Adguard Home](https://github.com/AdguardTeam/AdGuardHome/))
