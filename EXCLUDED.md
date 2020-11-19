@@ -106,3 +106,4 @@ https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt # https://git
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Corona-Blocklist # Combined list
 http://tweettioc.com/feed/domain # 80+ false calls
 https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt # Too many false calls
+https://rescure.me/rescure_domain_blacklist.txt # Blocking www.google.com vk.com etc
