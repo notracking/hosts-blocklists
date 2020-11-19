@@ -32,8 +32,8 @@ All domain and combined lists will block the canary domain `use-application-dns.
 | [adblock/adblock.txt](https://github.com/notracking/hosts-blocklists/raw/master/adblock/adblock.txt)| AdblockPlus | Adguard Home, uBlock Origin |
 | [hostnames.txt](https://github.com/notracking/hosts-blocklists/raw/master/hostnames.txt) | hosts | Dnsmasq (old: pre version 2.80) |
 | [domains.txt](https://github.com/notracking/hosts-blocklists/raw/master/domains.txt) | config | Dnsmasq (old: pre version 2.80) |
-| [domains.lsrules](https://raw.githubusercontent.com/chrispaynter/little-snitch-block-lists/master/dist/notracking-domains.lsrules) | lsrules | Little Snitch |
-| [hostnames.lsrules](https://raw.githubusercontent.com/chrispaynter/little-snitch-block-lists/master/dist/notracking-hostnames.lsrules) | lsrules | Little Snitch |
+| [domains.lsrules](https://raw.githubusercontent.com/chrispaynter/little-snitch-rules/master/dist/notracking-domains.lsrules) | lsrules | Little Snitch |
+| [hostnames.lsrules](https://raw.githubusercontent.com/chrispaynter/little-snitch-rules/master/dist/notracking-hostnames.lsrules) | lsrules | Little Snitch |
 
 ## How to install
  - [Instructions for AdblockPlus](https://github.com/notracking/hosts-blocklists/wiki/Install-AdblockPlus) (eg. [uBlock](https://github.com/gorhill/uBlock), [Adguard Home](https://github.com/AdguardTeam/AdGuardHome/))
