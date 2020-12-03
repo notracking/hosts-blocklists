@@ -31,7 +31,7 @@ https://data.netlab.360.com/feeds/dga/matsnu.txt|hostfile|`malware`|
 https://data.netlab.360.com/feeds/dga/tofsee.txt|hostfile|`malware`|
 https://data.netlab.360.com/feeds/dga/xshellghost.txt|hostfile|`malware`|
 http://security-research.dyndns.org/pub/malware-feeds/ponmocup-infected-domains-shadowserver.csv|hostfile|`malware`|
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersDnsmasq.conf|hostfile|`ads`|
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersPiHole.txt|hostfile|`ads`|
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/gamefake.txt|hostfile|`malware` `phishing`|
 https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/mobile.txt|hostfile|`malware`|
