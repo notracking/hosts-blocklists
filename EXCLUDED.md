@@ -107,3 +107,4 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Corona-Blo
 http://tweettioc.com/feed/domain # 80+ false calls
 https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt # Too many false calls
 https://rescure.me/rescure_domain_blacklist.txt # Blocking www.google.com vk.com etc
+https://www.malwaredomainlist.com/hostslist/hosts.txt # No longer maintained
