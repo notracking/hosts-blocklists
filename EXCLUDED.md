@@ -108,3 +108,6 @@ http://tweettioc.com/feed/domain # 80+ false calls
 https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt # Too many false calls
 https://rescure.me/rescure_domain_blacklist.txt # Blocking www.google.com vk.com etc
 https://www.malwaredomainlist.com/hostslist/hosts.txt # No longer maintained
+https://mirror1.malwaredomains.com/files/justdomains # No longer maintained
+https://www.malwaredomainlist.com/hostslist/hosts.txt # No longer maintained
+https://mirror1.malwaredomains.com/files/immortal_domains.txt # No longer maintained

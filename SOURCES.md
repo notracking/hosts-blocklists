@@ -1,12 +1,9 @@
 List Source | Type | Category | Comments
 --- | --- | --- | ---
 http://winhelp2002.mvps.org/hosts.txt|hostfile|`ads`|
-https://www.malwaredomainlist.com/hostslist/hosts.txt|hostfile|`ads`|
 https://someonewhocares.org/hosts/|hostfile|`ads`|
 https://pgl.yoyo.org/as/serverlist.php?hostformat=hosts|hostfile|`ads`|
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts|hostfile|`ads`|
-https://mirror1.malwaredomains.com/files/justdomains|hostfile|`malware`|
-https://mirror1.malwaredomains.com/files/immortal_domains.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt|hostfile|`ads`|Excluding legit license servers
 https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt|hostfile|`spam`|
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts|hostfile|`spam`|
