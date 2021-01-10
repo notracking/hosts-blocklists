@@ -28,17 +28,18 @@ All domain and combined lists will block the canary domain `use-application-dns.
 | List | List Type | Compatibility |
 | ------------- | ------------- | ------------- |
 | [dnsmasq/dnsmasq.blacklist.txt](https://github.com/notracking/hosts-blocklists/raw/master/dnsmasq/dnsmasq.blacklist.txt) | config | Dnsmasq |
-| [dnscrypt-proxy.blacklist.txt](https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt)| hostnames | Dnscrypt-proxy |
 | [adblock/adblock.txt](https://github.com/notracking/hosts-blocklists/raw/master/adblock/adblock.txt)| AdblockPlus | Adguard Home, uBlock Origin |
-| [hostnames.txt](https://github.com/notracking/hosts-blocklists/raw/master/hostnames.txt) | hosts | Dnsmasq (old: pre version 2.80) |
-| [domains.txt](https://github.com/notracking/hosts-blocklists/raw/master/domains.txt) | config | Dnsmasq (old: pre version 2.80) |
+| [dnscrypt-proxy/dnscrypt-proxy.blacklist.txt](https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt)| hostnames | Dnscrypt-proxy |
+| [unbound/unbound.blacklist.conf](https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt)| config | Unbound |
+| [hostnames.txt](https://github.com/notracking/hosts-blocklists/raw/master/hostnames.txt) & [domains.txt](https://github.com/notracking/hosts-blocklists/raw/master/domains.txt)| hosts / config | Dnsmasq (old: pre version 2.80) |
 
 ## How to install
  - [Instructions for AdblockPlus](https://github.com/notracking/hosts-blocklists/wiki/Install-AdblockPlus) (eg. [uBlock](https://github.com/gorhill/uBlock), [Adguard Home](https://github.com/AdguardTeam/AdGuardHome/))
- - [Instructions for dnsmasq](https://github.com/notracking/hosts-blocklists/wiki/Install-dnsmasq)
- - [Instructions for dnsmasq (old: pre v2.80)](https://github.com/notracking/hosts-blocklists/wiki/Install-dnsmasq-(old:-pre-v2.80))
  - [Instructions for dnscrypt-proxy](https://github.com/notracking/hosts-blocklists/wiki/Install-dnscrypt-proxy)
+  - [Instructions for dnsmasq](https://github.com/notracking/hosts-blocklists/wiki/Install-dnsmasq)
+ - [Instructions for dnsmasq (old: pre v2.80)](https://github.com/notracking/hosts-blocklists/wiki/Install-dnsmasq-(old:-pre-v2.80))
  - [Instructions for Pi-hole](https://github.com/notracking/hosts-blocklists/wiki/Install-pi-hole)
+ - [Instructions for unbound](https://github.com/notracking/hosts-blocklists/wiki/Install-unbound)
 
 ## Supporting Notracking blocklist
 You can support in multiple ways:
