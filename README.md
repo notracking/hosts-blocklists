@@ -30,8 +30,8 @@ All domain and combined lists will block the canary domain `use-application-dns.
 | [dnsmasq/dnsmasq.blacklist.txt](https://github.com/notracking/hosts-blocklists/raw/master/dnsmasq/dnsmasq.blacklist.txt) | config | Dnsmasq |
 | [adblock/adblock.txt](https://github.com/notracking/hosts-blocklists/raw/master/adblock/adblock.txt)| AdblockPlus | Adguard Home, uBlock Origin |
 | [dnscrypt-proxy/dnscrypt-proxy.blacklist.txt](https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt)| hostnames | Dnscrypt-proxy |
-| [unbound/unbound.blacklist.conf](https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt)| config | Unbound |
-| [hostnames.txt](https://github.com/notracking/hosts-blocklists/raw/master/hostnames.txt) & [domains.txt](https://github.com/notracking/hosts-blocklists/raw/master/domains.txt)| hosts / config | Dnsmasq (old: pre version 2.80) |
+| [unbound/unbound.blacklist.conf](https://github.com/notracking/hosts-blocklists/raw/master/unbound/unbound.blacklist.conf)| config | Unbound |
+| [hostnames.txt](https://github.com/notracking/hosts-blocklists/raw/master/hostnames.txt) & [domains.txt](https://github.com/notracking/hosts-blocklists/raw/master/domains.txt)| hosts / config | Dnsmasq (old! pre version 2.80 only) |
 
 ## How to install
  - [Instructions for AdblockPlus](https://github.com/notracking/hosts-blocklists/wiki/Install-AdblockPlus) (eg. [uBlock](https://github.com/gorhill/uBlock), [Adguard Home](https://github.com/AdguardTeam/AdGuardHome/))
