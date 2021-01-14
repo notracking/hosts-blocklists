@@ -12,7 +12,7 @@ The NoTracking blocklist is a DNS based filter list for blocking ads, malware, p
  - Blocks phishing servers
  
 ## Optimization
-The optimizer makes full use of domainname based wildcard filtering `*.adhost.net`, this reduces the chance of missing any new subdomains and significantly reduces the size of the blocklists. Hostnames that cannot be blocked on a domain level will still be listed in a regular hostname based blocklist.
+The optimizer makes full use of domainname based wildcard filtering `*.adhost.net`, this reduces the chance of missing any new subdomains and significantly reduces the size of the blocklists.
 
 ## Dead hosts removal
 All hostnames are constantly monitored for updates. In case the A, AAAA, CNAME and NS records return NXDOMAIN they will be marked as dead and removed. Domains are tested on their whois data and removed if they have been unregistered for a certain time.
