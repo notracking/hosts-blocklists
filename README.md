@@ -40,7 +40,8 @@ Most sources come from public hostfile type lists, though several AdblockPlus li
  - [Instructions for unbound](https://github.com/notracking/hosts-blocklists/wiki/Install-unbound)
 
 ## Supporting Notracking blocklist
-You can support in multiple ways:
+If you are intrested in supporting the project you can:
  - Submit false positives
  - [Donate with Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VPTVYWY3B7XWG&source=url)
  - [Become a Patreon](https://www.patreon.com/notracking)
+ - Donate Bitcoin: 1MVHQVRoEvFFmEo4ndJQynMbvAdy3qJbij
