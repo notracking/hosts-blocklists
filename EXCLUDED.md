@@ -111,3 +111,4 @@ https://www.malwaredomainlist.com/hostslist/hosts.txt # No longer maintained
 https://mirror1.malwaredomains.com/files/justdomains # No longer maintained
 https://www.malwaredomainlist.com/hostslist/hosts.txt # No longer maintained
 https://mirror1.malwaredomains.com/files/immortal_domains.txt # No longer maintained
+https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Youtube-Ads-List.txt #YT adds cannot be blocked on dns level
