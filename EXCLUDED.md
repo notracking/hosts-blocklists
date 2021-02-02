@@ -44,7 +44,6 @@ https://v.firebog.net/hosts/Prigent-Malware.txt # is no longer maintained
 https://dsi.ut-capitole.fr/blacklists/download/malware.tar.gz # copy of above
 https://raw.githubusercontent.com/Kees1958/WS3_annual_most_used_survey_blocklist/master/w3tech_hostfile.txt # is no longer maintained
 https://raw.githubusercontent.com/Hestat/minerchk/master/hostslist.txt # not actively maintained
-https://www.malwaredomainlist.com/hostslist/hosts.txt # is already included
 https://raw.githubusercontent.com/gwillem/magento-malware-scanner/master/rules/burner-domains.txt # nice list, but adds nothing new (all are covered already)
 https://raw.githubusercontent.com/Neo23x0/signature-base/master/iocs/otx-c2-iocs.txt # although there are a lot of good entries in here, this feed should be used for detection services only. Too many shared hosts / small business websites that are no longer infected. Will create too many false positives.
 https://osint.bambenekconsulting.com/feeds/dga-feed.txt # dga expiry time too short
@@ -107,7 +106,6 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Corona-Blo
 http://tweettioc.com/feed/domain # 80+ false calls
 https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt # Too many false calls
 https://rescure.me/rescure_domain_blacklist.txt # Blocking www.google.com vk.com etc
-https://www.malwaredomainlist.com/hostslist/hosts.txt # No longer maintained
 https://mirror1.malwaredomains.com/files/justdomains # No longer maintained
 https://www.malwaredomainlist.com/hostslist/hosts.txt # No longer maintained
 https://mirror1.malwaredomains.com/files/immortal_domains.txt # No longer maintained
@@ -115,3 +113,9 @@ https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual
 https://www.usom.gov.tr/url-list.txt # Government funded and very restrictive webservices
 https://easylist-downloads.adblockplus.org/easylistchina.txt # No longer maintained, see: https://github.com/gorhill/uBlock/commit/de1ed2c519a9987411199db831fdd0ce38fd48c1
 https://www.fanboy.co.nz/enhancedstats.txt # New url, see: https://github.com/uBlockOrigin/uAssets/issues/8166
+https://raw.githubusercontent.com/NanoMeow/MDLMirror/master/hosts.txt # No longer maintained
+https://raw.githubusercontent.com/NanoMeow/MDLMirror/master/filter.txt # No longer maintained
+https://mirror.cedia.org.ec/malwaredomains/justdomains # No longer maintained
+https://mirror1.malwaredomains.com/files/justdomains # No longer maintained
+https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt # Already included
+
