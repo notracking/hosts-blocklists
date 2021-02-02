@@ -7,6 +7,7 @@ https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easypriva
 https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/adblock.txt # not trusted
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt # not trusted
 https://raw.githubusercontent.com/EnergizedProtection/block/master/spark/formats/filter # blocks porn
+https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/filter # Too many false positives, license issues
 https://v.firebog.net/hosts/AdguardDNS.txt # too many false calls
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts # too many false calls
 https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts.txt # false positives, blocks all amazon aws instances
