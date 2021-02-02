@@ -118,4 +118,5 @@ https://raw.githubusercontent.com/NanoMeow/MDLMirror/master/filter.txt # No long
 https://mirror.cedia.org.ec/malwaredomains/justdomains # No longer maintained
 https://mirror1.malwaredomains.com/files/justdomains # No longer maintained
 https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt # Already included
-
+https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt # Adds nothing
+http://winhelp2002.mvps.org/hosts.txt # Secure url version already included
