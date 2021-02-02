@@ -73,9 +73,8 @@ https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.
 https://raw.githubusercontent.com/Segasec/feed/master/phishing-domains.json|json|`phishing`|
 large set of custom entries|hostfile|`ads` `malware` `spam` `trackers`|
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt|adblock|`ads`|
-https://www.fanboy.co.nz/enhancedstats.txt|adblock|`ads`|
+https://secure.fanboy.co.nz/enhancedstats.txt|adblock|`ads`|
 https://easylist-downloads.adblockplus.org/easylist.txt|adblock|`ads`|
-https://easylist-downloads.adblockplus.org/easylistchina.txt|adblock|`ads`|
 https://easylist-downloads.adblockplus.org/easylistdutch.txt|adblock|`ads`|
 https://easylist-downloads.adblockplus.org/easylistgermany.txt|adblock|`ads`|
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock.txt|adblock|`ads`|
@@ -114,3 +113,4 @@ https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/adblock
 https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt|adblock|`ads`|
 https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt|adblock|`ads`|
 https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-annoyances.txt|adblock|`ads`|
+https://https://filters.adtidy.org/extension/ublock/filters/224.txt|adblock|`ads`|

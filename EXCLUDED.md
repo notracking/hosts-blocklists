@@ -113,3 +113,5 @@ https://www.malwaredomainlist.com/hostslist/hosts.txt # No longer maintained
 https://mirror1.malwaredomains.com/files/immortal_domains.txt # No longer maintained
 https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Youtube-Ads-List.txt #YT adds cannot be blocked on dns level
 https://www.usom.gov.tr/url-list.txt # Government funded and very restrictive webservices
+https://easylist-downloads.adblockplus.org/easylistchina.txt # No longer maintained, see: https://github.com/gorhill/uBlock/commit/de1ed2c519a9987411199db831fdd0ce38fd48c1
+https://www.fanboy.co.nz/enhancedstats.txt # New url, see: https://github.com/uBlockOrigin/uAssets/issues/8166
