@@ -71,6 +71,7 @@ https://hole.cert.pl/domains/domains.txt|hostfile|`phishing` `malware`|
 https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/malware_domains.txt|hostfile|`phishing` `malware`|
 https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/Segasec/feed/master/phishing-domains.json|json|`phishing`|
+https://feeds.alphasoc.net/ryuk.txt|hostfile|`malware`|
 large set of custom entries|hostfile|`ads` `malware` `spam` `trackers`|
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt|adblock|`ads`|
 https://secure.fanboy.co.nz/enhancedstats.txt|adblock|`ads`|
