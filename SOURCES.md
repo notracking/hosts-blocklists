@@ -10,7 +10,6 @@ https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts|ho
 https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz|hostfile|`ads`|only 'publicite' list
 https://raw.githubusercontent.com/paulgb/BarbBlock/master/blacklists/domain-list.txt|hostfile|`ads`|
 https://v.firebog.net/hosts/static/w3kbl.txt|hostfile|`ads`|
-https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts|hostfile|`ads`|
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt|hostfile|`ads`|
 https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt|hostfile|`mining`|
 https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt|hostfile|`ads`|
@@ -30,14 +29,10 @@ https://data.netlab.360.com/feeds/dga/xshellghost.txt|hostfile|`malware`|
 http://security-research.dyndns.org/pub/malware-feeds/ponmocup-infected-domains-shadowserver.csv|hostfile|`malware`|
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersPiHole.txt|hostfile|`ads`|
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/gamefake.txt|hostfile|`malware` `phishing`|
-https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/mobile.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts|hostfile|`ads`|
-https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/basic/common.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt|hostfile|`ads`|
 https://phishing.army/download/phishing_army_blocklist.txt|hostfile|`malware` `phishing`|
 https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt|hostfile|`mining`|
-https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSites/master/steamscamsite.txt|hostfile|`malware` `phishing`|
 https://infosec.cert-pa.it/analyze/listdomains.txt|hostfile|`malware`|
 https://www.botvrij.eu/data/ioclist.domain.raw|hostfile|`malware`|
 https://www.botvrij.eu/data/ioclist.hostname.raw|hostfile|`malware`|
@@ -53,7 +48,6 @@ https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Fre
 https://filtri-dns.ga/filtri.txt|hostfile|`ads`|
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt|hostfile|`ads`|
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt|hostfile|`ads`|
-https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts|hostfile|`phishing`|
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN|hostfile|`ads`|
 https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt|hostfile|`tracking`|
 https://blocklist.cyberthreatcoalition.org/vetted/domain.txt|hostfile|`phishing`|
@@ -64,9 +58,7 @@ https://kriskintel.com/feeds/ktip_ransomware_feeds.txt|hostfile|`phishing` `malw
 https://kriskintel.com/feeds/ktip_malicious_domains.txt|hostfile|`phishing` `malware`|
 https://orca.pet/notonmyshift/domains.txt|hostfile|`malware` `phishing` `ads`|
 https://raw.githubusercontent.com/deletescape/noads/master/lists/add-switzerland.txt|hostfile|`ads`|
-https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/cyber_threat_coalition_ioc/domain.txt|hostfile|`phishing` `malware`|
 https://rescure.fruxlabs.com/covid.txt|hostfile|`phishing` `malware`|
-https://raw.githubusercontent.com/Meldon6/AttackVectors-Domain-List/master/AttackVectorsDomains|hostfile|`phishing`|
 https://hole.cert.pl/domains/domains.txt|hostfile|`phishing` `malware`|
 https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/malware_domains.txt|hostfile|`phishing` `malware`|
 https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt|hostfile|`malware`|
