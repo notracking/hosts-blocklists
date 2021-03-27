@@ -13,12 +13,10 @@ https://v.firebog.net/hosts/static/w3kbl.txt|hostfile|`ads`|
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt|hostfile|`ads`|
 https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt|hostfile|`mining`|
 https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt|hostfile|`ads`|
-https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts|hostfile|`ads`|
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts|hostfile|`spam` `malware` `phishing`|
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts|hostfile|`malware`|
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts|hostfile|`malware`|
 https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/.dev-tools/output/domains/ACTIVE/list|hostfile|`malware`|
-https://malc0de.com/bl/BOOT|hostfile|`malware`|
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt|hostfile|`mining`|
 https://data.netlab.360.com/feeds/dga/dircrypt.txt|hostfile|`malware`|
 https://data.netlab.360.com/feeds/dga/fobber.txt|hostfile|`malware`|
@@ -37,7 +35,6 @@ https://infosec.cert-pa.it/analyze/listdomains.txt|hostfile|`malware`|
 https://www.botvrij.eu/data/ioclist.domain.raw|hostfile|`malware`|
 https://www.botvrij.eu/data/ioclist.hostname.raw|hostfile|`malware`|
 https://www.joewein.net/dl/bl/dom-bl.txt|hostfile|`spam` `malware` `phishing`|
-https://infosharing.cybersaiyan.it/feeds/CS-PIHOLE|hostfile|`malware`|
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-main.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains|hostfile|`ads`|
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt|hostfile|`spam`|
@@ -57,7 +54,6 @@ https://kriskintel.com/feeds/ktip_covid_domains.txt|hostfile|`phishing` `malware
 https://kriskintel.com/feeds/ktip_ransomware_feeds.txt|hostfile|`phishing` `malware`|
 https://kriskintel.com/feeds/ktip_malicious_domains.txt|hostfile|`phishing` `malware`|
 https://orca.pet/notonmyshift/domains.txt|hostfile|`malware` `phishing` `ads`|
-https://raw.githubusercontent.com/deletescape/noads/master/lists/add-switzerland.txt|hostfile|`ads`|
 https://rescure.fruxlabs.com/covid.txt|hostfile|`phishing` `malware`|
 https://hole.cert.pl/domains/domains.txt|hostfile|`phishing` `malware`|
 https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/malware_domains.txt|hostfile|`phishing` `malware`|
@@ -84,7 +80,6 @@ https://raw.githubusercontent.com/abpvn/abpvn/master/filter/src/abpvn_general.tx
 https://raw.githubusercontent.com/szpeter80/hufilter/master/hufilter.txt|adblock|`ads`|
 https://easylist-downloads.adblockplus.org/advblock.txt|adblock|`ads`|
 https://raw.githubusercontent.com/yous/YousList/master/youslist.txt|adblock|`ads`|
-https://raw.githubusercontent.com/jspenguin2017/uBlockProtector/master/uBlockProtectorList.txt|adblock|`ads`|
 https://filters.adtidy.org/extension/chromium/filters/11.txt|adblock|`ads`|
 https://filters.adtidy.org/extension/chromium/filters/1.txt|adblock|`ads`|
 https://filters.adtidy.org/extension/chromium/filters/16.txt|adblock|`ads`|
@@ -97,12 +92,9 @@ https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscrip
 https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt|adblock|`ads`|
 https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt|adblock|`ads`|
 https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt|adblock|`ads`|
-https://gurud.ee/ab.txt|adblock|`ads`|
-https://raw.githubusercontent.com/farrokhi/adblock-iran/master/filter.txt|adblock|`ads`|
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/ing_servers_firstparty.txt|adblock|`tracking`|
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt|adblock|`tracking`|
 https://www.zoso.ro/pages/rolist.txt|adblock|`ads`|
-https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt|adblock|`malware`|
 https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/adblock.txt|adblock|`ads`|
 https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt|adblock|`ads`|
 https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt|adblock|`ads`|
