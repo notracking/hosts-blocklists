@@ -122,3 +122,12 @@ https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt # 
 https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt # Adds nothing
 http://winhelp2002.mvps.org/hosts.txt # Secure url version already included
 https://phishing.army/download/phishing_army_blocklist_extended.txt # Normal version is already included
+https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/cyber_threat_coalition_ioc/domain.txt # No longer updated
+https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts # No Longer updated
+https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSites/master/steamscamsite.txt # No longer updated
+https://raw.githubusercontent.com/Meldon6/AttackVectors-Domain-List/master/AttackVectorsDomains # No longer updated
+https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts # No longer updated
+https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/basic/common.txt # No longer updated
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/gamefake.txt # No longer updated
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/mobile.txt # No longer updated
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/jbfake.txt # No longer updated
