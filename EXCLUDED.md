@@ -138,3 +138,9 @@ https://raw.githubusercontent.com/farrokhi/adblock-iran/master/filter.txt # No l
 https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt # No longer updated
 https://gurud.ee/ab.txt # No longer updated
 https://infosharing.cybersaiyan.it/feeds/CS-PIHOLE # No longer updated
+https://raw.githubusercontent.com/matomo-org/referrer-spam-list/master/spammers.txt # Too many false positives
+https://assets.windscribe.com/custom_blocklists/clickbait.txt # Content is subjective, lost of doubtfull newssites in here, bu not suited for generic blocking.
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads # overly regressive, not added
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Shock # Not added, also contains politically unacceptable lists, which is out of scope for the notracking list
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking # Way to many false calls
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Typo # Too many dead hosts, get the idea but adding any form of typo will increase the list size indefinately
