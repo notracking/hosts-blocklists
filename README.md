@@ -2,7 +2,7 @@
 The NoTracking blocklist is a DNS based filter list for blocking ads, malware, phising and other online garbage.
 
 ## General blocklist policies
- - Should not break useful websites or apps
+ - Should not break useful and commonly used services
  - Blocks tracking servers
  - Blocks advertising servers
  - Blocks analytics servers
