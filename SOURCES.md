@@ -61,7 +61,6 @@ https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.
 https://raw.githubusercontent.com/Segasec/feed/master/phishing-domains.json|json|`phishing`|
 https://feeds.alphasoc.net/ryuk.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt|hostfile|`tracking`|
-https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-nolovia.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-government-malware.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/Neo23x0/signature-base/master/iocs/c2-iocs.txt|hostfile|`malware`|
 large set of custom entries|hostfile|`ads` `malware` `spam` `trackers`|
