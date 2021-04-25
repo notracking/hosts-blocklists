@@ -145,7 +145,7 @@ https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Shock 
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking # Way to many false calls
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Typo # Too many dead hosts, get the idea but adding any form of typo will increase the list size indefinately
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware #	Too many false positives
-https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam 	# Too many false positives
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam # Too many false positives
 https://raw.githubusercontent.com/prodaft/malware-ioc/master/FluBot/v3.7_5000_domain.txt # https://github.com/notracking/hosts-blocklists/issues/563
 https://raw.githubusercontent.com/prodaft/malware-ioc/master/FluBot/v3.7_germany.txt # https://github.com/notracking/hosts-blocklists/issues/563
 https://raw.githubusercontent.com/prodaft/malware-ioc/master/FluBot/v3.8_domains.txt # https://github.com/notracking/hosts-blocklists/issues/563
@@ -158,3 +158,4 @@ https://blocklistproject.github.io/Lists/phishing.txt # https://github.com/notra
 https://blocklistproject.github.io/Lists/ransomware.txt # https://github.com/notracking/hosts-blocklists/issues/543
 https://blocklistproject.github.io/Lists/scam.txt # https://github.com/notracking/hosts-blocklists/issues/543
 https://blocklistproject.github.io/Lists/tracking.txt # https://github.com/notracking/hosts-blocklists/issues/543
+https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-nolovia.txt # Too many false positives (new ones popping up every day)
