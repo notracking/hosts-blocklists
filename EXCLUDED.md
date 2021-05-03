@@ -159,3 +159,4 @@ https://blocklistproject.github.io/Lists/ransomware.txt # https://github.com/not
 https://blocklistproject.github.io/Lists/scam.txt # https://github.com/notracking/hosts-blocklists/issues/543
 https://blocklistproject.github.io/Lists/tracking.txt # https://github.com/notracking/hosts-blocklists/issues/543
 https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-nolovia.txt # Too many false positives (new ones popping up every day)
+https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/APPLE%20Malware%2C%20Exploits%2C%20Hacks%20IOCs # https://github.com/notracking/hosts-blocklists/issues/548
