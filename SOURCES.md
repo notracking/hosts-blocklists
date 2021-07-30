@@ -48,7 +48,6 @@ https://www.stopforumspam.com/downloads/toxic_domains_whole.txt|hostfile|`ads`|
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt|hostfile|`ads`|
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN|hostfile|`ads`|
 https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt|hostfile|`tracking`|
-https://blocklist.cyberthreatcoalition.org/vetted/domain.txt|hostfile|`phishing`|
 https://github.com/durablenapkin/scamblocklist/raw/master/hosts.txt|hostfile|`phishing`|
 https://azorult-tracker.net/api/list/domain?format=plain|hostfiles|`malware`|
 https://kriskintel.com/feeds/ktip_covid_domains.txt|hostfile|`phishing` `malware`|
