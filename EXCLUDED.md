@@ -161,3 +161,9 @@ https://blocklistproject.github.io/Lists/tracking.txt # https://github.com/notra
 https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-nolovia.txt # Too many false positives (new ones popping up every day)
 https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/APPLE%20Malware%2C%20Exploits%2C%20Hacks%20IOCs # https://github.com/notracking/hosts-blocklists/issues/548
 https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/list/phish_domains.txt # tdl blocks and doc.google.com etc.
+https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/domains.txt # Already covered via other lists
+https://raw.githubusercontent.com/0n1cOn3/nso-blacklist/main/hosts.txt # Blocks entire cloudfront.net
+http://www.carl.net/spam/access.txt # Too many false calls and curated as mail filter
+http://www.taz.net.au/Mail/SpamDomains # Way too many false calls and curated as mail filter
+https://github.com/marco-acorte/antispam-it/blob/main/antispam-it.txt # https://github.com/notracking/hosts-blocklists/issues/616
+https://blocklist.cyberthreatcoalition.org/vetted/domain.txt # No longer being updated
