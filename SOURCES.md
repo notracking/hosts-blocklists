@@ -38,6 +38,7 @@ https://www.joewein.net/dl/bl/dom-bl.txt|hostfile|`spam` `malware` `phishing`|
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-main.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certego.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-personal.txt|hostfile|`spam` `malware` `phishing`|
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-silverterrier.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains|hostfile|`ads`|
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt|hostfile|`spam`|
 https://openphish.com/feed.txt|hostfile|`malware`|only full domain filters
