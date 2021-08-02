@@ -167,3 +167,5 @@ http://www.carl.net/spam/access.txt # Too many false calls and curated as mail f
 http://www.taz.net.au/Mail/SpamDomains # Way too many false calls and curated as mail filter
 https://github.com/marco-acorte/antispam-it/blob/main/antispam-it.txt # https://github.com/notracking/hosts-blocklists/issues/616
 https://blocklist.cyberthreatcoalition.org/vetted/domain.txt # No longer being updated
+https://gist.githubusercontent.com/romaincointepas/b9b8990ee824b013125d87d1ab1f8944/raw/e369597ce9f93b3fb4ce465c03c0f505cc11d8d5/REvil%2520potential%2520C2%2520domains # https://github.com/notracking/hosts-blocklists/issues/630
+https://raw.githubusercontent.com/hpthreatresearch/iocs/main/CryptBot/domains.txt # https://github.com/notracking/hosts-blocklists/issues/610
