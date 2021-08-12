@@ -16,7 +16,6 @@ https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt|hostfile|`
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts|hostfile|`spam` `malware` `phishing`|
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts|hostfile|`malware`|
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts|hostfile|`malware`|
-https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/.dev-tools/output/domains/ACTIVE/list|hostfile|`malware`|
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt|hostfile|`mining`|
 https://data.netlab.360.com/feeds/dga/dircrypt.txt|hostfile|`malware`|
 https://data.netlab.360.com/feeds/dga/fobber.txt|hostfile|`malware`|
@@ -27,7 +26,6 @@ https://data.netlab.360.com/feeds/dga/xshellghost.txt|hostfile|`malware`|
 http://security-research.dyndns.org/pub/malware-feeds/ponmocup-infected-domains-shadowserver.csv|hostfile|`malware`|
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersPiHole.txt|hostfile|`ads`|
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts|hostfile|`ads`|
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt|hostfile|`ads`|
 https://phishing.army/download/phishing_army_blocklist.txt|hostfile|`malware` `phishing`|
 https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt|hostfile|`mining`|
@@ -58,7 +56,6 @@ https://kriskintel.com/feeds/ktip_ransomware_feeds.txt|hostfile|`phishing` `malw
 https://orca.pet/notonmyshift/domains.txt|hostfile|`malware` `phishing` `ads`|
 https://rescure.fruxlabs.com/covid.txt|hostfile|`phishing` `malware`|
 https://hole.cert.pl/domains/domains.txt|hostfile|`phishing` `malware`|
-https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/malware_domains.txt|hostfile|`phishing` `malware`|
 https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/Segasec/feed/master/phishing-domains.json|json|`phishing`|
 https://feeds.alphasoc.net/ryuk.txt|hostfile|`malware`|
