@@ -170,3 +170,8 @@ https://blocklist.cyberthreatcoalition.org/vetted/domain.txt # No longer being u
 https://gist.githubusercontent.com/romaincointepas/b9b8990ee824b013125d87d1ab1f8944/raw/e369597ce9f93b3fb4ce465c03c0f505cc11d8d5/REvil%2520potential%2520C2%2520domains # https://github.com/notracking/hosts-blocklists/issues/630
 https://raw.githubusercontent.com/hpthreatresearch/iocs/main/CryptBot/domains.txt # https://github.com/notracking/hosts-blocklists/issues/610
 https://kriskintel.com/feeds/ktip_malicious_domains.txt # Too many false positives
+https://raw.githubusercontent.com/jdlingyu/ad-wars/739ba3be1786ffbdc3eb0c97b8f1a34d2d2eba82/hosts # no longer updated
+https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts # no longer updated
+https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list # not regulary updated
+https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/.dev-tools/output/domains/ACTIVE/list # not regulary updated
+https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/malware_domains.txt # no longer updated
