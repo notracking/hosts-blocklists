@@ -80,7 +80,7 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.tx
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt|adblock|`ads`|
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt|adblock|`ads`|
 https://raw.githubusercontent.com/abpvn/abpvn/master/filter/src/abpvn_general.txt|adblock|`ads`|
-https://raw.githubusercontent.com/szpeter80/hufilter/master/hufilter.txt|adblock|`ads`|
+https://raw.githubusercontent.com/hufilter/hufilter/master/hufilter.txt|adblock|`ads`|
 https://easylist-downloads.adblockplus.org/advblock.txt|adblock|`ads`|
 https://raw.githubusercontent.com/yous/YousList/master/youslist.txt|adblock|`ads`|
 https://filters.adtidy.org/extension/chromium/filters/11.txt|adblock|`ads`|
