@@ -49,7 +49,7 @@ https://www.stopforumspam.com/downloads/toxic_domains_whole.txt|hostfile|`ads`|
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt|hostfile|`ads`|
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN|hostfile|`ads`|
 https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt|hostfile|`tracking`|
-https://github.com/durablenapkin/scamblocklist/raw/master/hosts.txt|hostfile|`phishing`|
+https://github.com/durablenapkin/scamblocklist/raw/master/hosts.txt|hostfile|`phishing` `scam`|
 https://azorult-tracker.net/api/list/domain?format=plain|hostfiles|`malware`|
 https://kriskintel.com/feeds/ktip_covid_domains.txt|hostfile|`phishing` `malware`|
 https://kriskintel.com/feeds/ktip_ransomware_feeds.txt|hostfile|`phishing` `malware`|
@@ -63,7 +63,8 @@ https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_dis
 https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-government-malware.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/Neo23x0/signature-base/master/iocs/c2-iocs.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/hpthreatresearch/iocs/main/TA551/domains.txt|hostfile|`phishing` `malware`|
-large set of custom entries|hostfile|`ads` `malware` `spam` `trackers`|
+https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt|hostfile|`phishing` `scam`|
+large set of custom entries|hostfile|`ads` `malware` `spam` `trackers` `scam`|
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt|adblock|`ads`|
 https://secure.fanboy.co.nz/enhancedstats.txt|adblock|`ads`|
 https://easylist-downloads.adblockplus.org/easylist.txt|adblock|`ads`|
