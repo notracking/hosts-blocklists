@@ -4,7 +4,6 @@ https://winhelp2002.mvps.org/hosts.txt|hostfile|`ads`|
 https://someonewhocares.org/hosts/|hostfile|`ads`|
 https://pgl.yoyo.org/as/serverlist.php?hostformat=hosts|hostfile|`ads`|
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts|hostfile|`ads`|
-https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt|hostfile|`ads`|Excluding legit license servers
 https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt|hostfile|`spam`|
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts|hostfile|`spam`|
 https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz|hostfile|`ads`|only 'publicite' list
