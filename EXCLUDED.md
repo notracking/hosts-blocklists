@@ -175,3 +175,4 @@ https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts # no longer upda
 https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list # not regulary updated
 https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/.dev-tools/output/domains/ACTIVE/list # not regulary updated
 https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/malware_domains.txt # no longer updated
+https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt # To many false calls
