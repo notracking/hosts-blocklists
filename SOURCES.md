@@ -38,6 +38,13 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-pers
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-silverterrier.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-playbook.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-malware-traffic.txt|hostfile|`malware`|
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-eset.txt|hostfile|`malware`|
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-sentinelone.txt|hostfile|`malware`|
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-cyble.txt|hostfile|`malware`|
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-citizenlabs.txt|hostfile|`malware`|
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-drweb.txt|hostfile|`malware`|
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-amnenstytech.txt|hostfile|`malware`|
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-zscaler.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains|hostfile|`ads`|
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt|hostfile|`spam`|
 https://openphish.com/feed.txt|hostfile|`malware`|only full domain filters
