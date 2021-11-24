@@ -109,5 +109,5 @@ https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/adblock
 https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt|adblock|`ads`|
 https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt|adblock|`ads`|
 https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-annoyances.txt|adblock|`ads`|
-https://https://filters.adtidy.org/extension/ublock/filters/224.txt|adblock|`ads`|
+https://filters.adtidy.org/extension/ublock/filters/224.txt|adblock|`ads`|
 https://raw.githubusercontent.com/abpvn/abpvn/master/filter/src/abpvn_ad_domain.txt|adblock|`ads`|
