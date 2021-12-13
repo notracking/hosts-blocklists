@@ -43,5 +43,5 @@ Most sources come from public hostfile type lists, though several AdblockPlus li
 If you are intrested in supporting the project you can:
  - Submit false positives
  - [Donate with Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VPTVYWY3B7XWG&source=url)
- - [Become a Patreon](https://www.patreon.com/notracking)
- - Donate Bitcoin: 1MVHQVRoEvFFmEo4ndJQynMbvAdy3qJbij
+ - Donate Bitcoin: 37VkbtMDgxCiHaCSS4PNPDo2z5AwM8grB2
+ - Donate Ethereum: 0xaf446938cd43de5a267e9596a40be55a86f6b4a8
