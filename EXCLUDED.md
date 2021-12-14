@@ -176,3 +176,7 @@ https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-
 https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/.dev-tools/output/domains/ACTIVE/list # not regulary updated
 https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/malware_domains.txt # no longer updated
 https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt # To many false calls
+https://airvpn.org/api/dns_lists/?code=air_ads&block=0.0.0.0&style=domains #to many false positives
+https://airvpn.org/api/dns_lists/?code=air_malware&block=0.0.0.0&style=domains #to many false positives
+https://airvpn.org/api/dns_lists/?code=air_cryptojacking&block=0.0.0.0&style=domains #also includes legit mining pools
+https://infosec.cert-pa.it/analyze/listdomains.txt # https://github.com/notracking/hosts-blocklists/issues/684
