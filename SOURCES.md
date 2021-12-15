@@ -70,6 +70,7 @@ https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-government
 https://raw.githubusercontent.com/Neo23x0/signature-base/master/iocs/c2-iocs.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/hpthreatresearch/iocs/main/TA551/domains.txt|hostfile|`phishing` `malware`|
 https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt|hostfile|`phishing` `scam`|
+https://raw.githubusercontent.com/craiu/iocs/main/log4shell/log4j_blocklist.txt|hostfile|`malware`|
 large set of custom entries|hostfile|`ads` `malware` `spam` `trackers` `scam`|
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt|adblock|`ads`|
 https://secure.fanboy.co.nz/enhancedstats.txt|adblock|`ads`|
