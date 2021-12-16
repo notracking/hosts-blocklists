@@ -180,3 +180,4 @@ https://airvpn.org/api/dns_lists/?code=air_ads&block=0.0.0.0&style=domains #to m
 https://airvpn.org/api/dns_lists/?code=air_malware&block=0.0.0.0&style=domains #to many false positives
 https://airvpn.org/api/dns_lists/?code=air_cryptojacking&block=0.0.0.0&style=domains #also includes legit mining pools
 https://infosec.cert-pa.it/analyze/listdomains.txt # https://github.com/notracking/hosts-blocklists/issues/684
+https://raw.githubusercontent.com/Zelo72/hosts/main/personal.txt # Too many false positives (blocking knab.nl and many official gov sites)
