@@ -71,6 +71,8 @@ https://raw.githubusercontent.com/Neo23x0/signature-base/master/iocs/c2-iocs.txt
 https://raw.githubusercontent.com/hpthreatresearch/iocs/main/TA551/domains.txt|hostfile|`phishing` `malware`|
 https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt|hostfile|`phishing` `scam`|
 https://raw.githubusercontent.com/craiu/iocs/main/log4shell/log4j_blocklist.txt|hostfile|`malware`|
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certagid.txt|hostfile|`malware`|
+https://cert-agid.gov.it/download/log4shell-iocs-raw-domain.txt|hostfile|`malware`|
 large set of custom entries|hostfile|`ads` `malware` `spam` `trackers` `scam`|
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt|adblock|`ads`|
 https://secure.fanboy.co.nz/enhancedstats.txt|adblock|`ads`|
