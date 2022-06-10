@@ -62,7 +62,7 @@ https://kriskintel.com/feeds/ktip_ransomware_feeds.txt|hostfile|`phishing` `malw
 https://orca.pet/notonmyshift/domains.txt|hostfile|`malware` `phishing` `ads`|
 https://rescure.fruxlabs.com/covid.txt|hostfile|`phishing` `malware`|
 https://hole.cert.pl/domains/domains.txt|hostfile|`phishing` `malware`|
-https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt|hostfile|`malware`|
+https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts-online.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/Segasec/feed/master/phishing-domains.json|json|`phishing`|
 https://feeds.alphasoc.net/ryuk.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt|hostfile|`tracking`|
