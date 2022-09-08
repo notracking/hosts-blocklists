@@ -135,7 +135,6 @@ https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
 https://raw.githubusercontent.com/jspenguin2017/uBlockProtector/master/uBlockProtectorList.txt # No longer updated
 https://raw.githubusercontent.com/deletescape/noads/master/lists/add-switzerland.txt # No longer updated
 https://raw.githubusercontent.com/farrokhi/adblock-iran/master/filter.txt # No longer updated
-https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt # No longer updated
 https://gurud.ee/ab.txt # No longer updated
 https://infosharing.cybersaiyan.it/feeds/CS-PIHOLE # No longer updated
 https://raw.githubusercontent.com/matomo-org/referrer-spam-list/master/spammers.txt # Too many false positives
