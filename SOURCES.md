@@ -16,12 +16,6 @@ https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts|ho
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts|hostfile|`malware`|
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts|hostfile|`malware`|
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt|hostfile|`mining`|
-https://data.netlab.360.com/feeds/dga/dircrypt.txt|hostfile|`malware`|
-https://data.netlab.360.com/feeds/dga/fobber.txt|hostfile|`malware`|
-https://data.netlab.360.com/feeds/dga/ccleaner.txt|hostfile|`malware`|
-https://data.netlab.360.com/feeds/dga/matsnu.txt|hostfile|`malware`|
-https://data.netlab.360.com/feeds/dga/tofsee.txt|hostfile|`malware`|
-https://data.netlab.360.com/feeds/dga/xshellghost.txt|hostfile|`malware`|
 http://security-research.dyndns.org/pub/malware-feeds/ponmocup-infected-domains-shadowserver.csv|hostfile|`malware`|
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersPiHole.txt|hostfile|`ads`|
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt|hostfile|`malware`|
