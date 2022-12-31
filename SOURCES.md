@@ -24,7 +24,6 @@ https://phishing.army/download/phishing_army_blocklist.txt|hostfile|`malware` `p
 https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt|hostfile|`mining`|
 https://www.botvrij.eu/data/ioclist.domain.raw|hostfile|`malware`|
 https://www.botvrij.eu/data/ioclist.hostname.raw|hostfile|`malware`|
-https://www.joewein.net/dl/bl/dom-bl.txt|hostfile|`spam` `malware` `phishing`|
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-main.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certego.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-personal.txt|hostfile|`spam` `malware` `phishing`|
@@ -58,8 +57,6 @@ https://orca.pet/notonmyshift/domains.txt|hostfile|`malware` `phishing` `ads`|
 https://rescure.fruxlabs.com/covid.txt|hostfile|`phishing` `malware`|
 https://hole.cert.pl/domains/domains.txt|hostfile|`phishing` `malware`|
 https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts-online.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/Segasec/feed/master/phishing-domains.json|json|`phishing`|
-https://feeds.alphasoc.net/ryuk.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt|hostfile|`tracking`|
 https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-government-malware.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/Neo23x0/signature-base/master/iocs/c2-iocs.txt|hostfile|`malware`|
