@@ -1,6 +1,5 @@
 List Source | Type | Category | Comments
 --- | --- | --- | ---
-https://winhelp2002.mvps.org/hosts.txt|hostfile|`ads`|
 https://someonewhocares.org/hosts/|hostfile|`ads`|
 https://pgl.yoyo.org/as/serverlist.php?hostformat=hosts|hostfile|`ads`|
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts|hostfile|`ads`|
