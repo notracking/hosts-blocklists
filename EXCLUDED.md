@@ -182,3 +182,4 @@ https://infosec.cert-pa.it/analyze/listdomains.txt # https://github.com/notracki
 https://raw.githubusercontent.com/Zelo72/hosts/main/personal.txt # Too many false positives (blocking knab.nl and many official gov sites)
 https://gitlab.com/malware-filter/urlhaus-filter/-/raw/master/urlhaus-filter-hosts-online.txt # Outdated URL
 https://winhelp2002.mvps.org/hosts.txt # No longer maintained
+https://pgl.yoyo.org/as/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext # Too many false postives
