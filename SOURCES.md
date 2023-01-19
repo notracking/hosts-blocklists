@@ -53,7 +53,6 @@ https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt|hostfile|
 https://github.com/durablenapkin/scamblocklist/raw/master/hosts.txt|hostfile|`phishing` `scam`|
 https://azorult-tracker.net/api/list/domain?format=plain|hostfiles|`malware`|
 https://kriskintel.com/feeds/ktip_covid_domains.txt|hostfile|`phishing` `malware`|
-https://kriskintel.com/feeds/ktip_ransomware_feeds.txt|hostfile|`phishing` `malware`|
 https://orca.pet/notonmyshift/domains.txt|hostfile|`malware` `phishing` `ads`|
 https://rescure.fruxlabs.com/covid.txt|hostfile|`phishing` `malware`|
 https://hole.cert.pl/domains/domains.txt|hostfile|`phishing` `malware`|
