@@ -183,3 +183,5 @@ https://raw.githubusercontent.com/Zelo72/hosts/main/personal.txt # Too many fals
 https://gitlab.com/malware-filter/urlhaus-filter/-/raw/master/urlhaus-filter-hosts-online.txt # Outdated URL
 https://winhelp2002.mvps.org/hosts.txt # No longer maintained
 https://pgl.yoyo.org/as/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext # Too many false postives
+https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt # Too many false positives
+https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-annoyances.txt # Not adding anything
