@@ -185,3 +185,6 @@ https://winhelp2002.mvps.org/hosts.txt # No longer maintained
 https://pgl.yoyo.org/as/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext # Too many false postives
 https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt # Too many false positives
 https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-annoyances.txt # Not adding anything
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt # Too many false positives
+https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt # https://github.com/hagezi/dns-blocklists/issues/362#issuecomment-1454895925
+https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt # https://github.com/notracking/hosts-blocklists/issues/841
