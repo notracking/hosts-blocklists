@@ -189,3 +189,11 @@ https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt # 
 https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt # https://github.com/hagezi/dns-blocklists/issues/362#issuecomment-1454895925
 https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt # https://github.com/notracking/hosts-blocklists/issues/841
 https://raw.githubusercontent.com/Neo23x0/signature-base/master/iocs/c2-iocs.txt # https://github.com/notracking/hosts-blocklists/issues/859
+https://kriskintel.com/feeds/ktip_covid_domains.txt # No longer updated + site ssl issues.
+https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt # No longer updated.
+https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts # No longer updated
+https://raw.githubusercontent.com/paulgb/BarbBlock/master/blacklists/domain-list.txt # No longer updated
+https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains # No longer updated
+https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt # No longer updated (even though the filedate suggests otherwise..)
+https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz # # No longer updated (even though the filedate suggests otherwise..)
+https://secure.fanboy.co.nz/enhancedstats.txt # No Longer updated
