@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/craiu/iocs/main/log4shell/log4j_blocklist.txt|
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certagid.txt|hostfile|`malware`|
 https://cert-agid.gov.it/download/log4shell-iocs-raw-domain.txt|hostfile|`malware`|
 https://threatfox.abuse.ch/downloads/hostfile/|hostfile|`malware`|
-https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/domains|hostfile|`phishing`|
+https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/domains|hostfile|`phishing` `scam`|
 large set of custom entries|hostfile|`ads` `malware` `spam` `trackers` `scam`|
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt|adblock|`ads`|
 https://easylist-downloads.adblockplus.org/easylist.txt|adblock|`ads`|
