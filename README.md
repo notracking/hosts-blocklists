@@ -32,11 +32,10 @@ Most sources come from public hostfile type lists, though several AdblockPlus li
 | [hostnames.txt](https://github.com/notracking/hosts-blocklists/raw/master/hostnames.txt) & [domains.txt](https://github.com/notracking/hosts-blocklists/raw/master/domains.txt)| Dnsmasq (version < 2.80 only, use both files) |
 
 ## How to install
- - [Instructions for AdblockPlus](https://github.com/notracking/hosts-blocklists/wiki/Install-AdblockPlus) (eg. [uBlock](https://github.com/gorhill/uBlock), [Adguard Home](https://github.com/AdguardTeam/AdGuardHome/))
+ - [Instructions for AdblockPlus](https://github.com/notracking/hosts-blocklists/wiki/Install-AdblockPlus) (eg. [uBlock](https://github.com/gorhill/uBlock), [Adguard Home](https://github.com/AdguardTeam/AdGuardHome/), [Pi-Hole](https://github.com/pi-hole/pi-hole/))
  - [Instructions for dnscrypt-proxy](https://github.com/notracking/hosts-blocklists/wiki/Install-dnscrypt-proxy)
  - [Instructions for dnsmasq](https://github.com/notracking/hosts-blocklists/wiki/Install-dnsmasq)
  - [Instructions for dnsmasq (old: pre v2.80)](https://github.com/notracking/hosts-blocklists/wiki/Install-dnsmasq-(old:-pre-v2.80))
- - [Instructions for Pi-hole](https://github.com/notracking/hosts-blocklists/wiki/Install-pi-hole)
  - [Instructions for unbound](https://github.com/notracking/hosts-blocklists/wiki/Install-unbound)
 
 ## Supporting Notracking blocklist
