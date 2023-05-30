@@ -37,6 +37,7 @@ Most sources come from public hostfile type lists, though several AdblockPlus li
  - [Instructions for dnsmasq](https://github.com/notracking/hosts-blocklists/wiki/Install-dnsmasq)
  - [Instructions for dnsmasq (old: pre v2.80)](https://github.com/notracking/hosts-blocklists/wiki/Install-dnsmasq-(old:-pre-v2.80))
  - [Instructions for unbound](https://github.com/notracking/hosts-blocklists/wiki/Install-unbound)
+ - [Instructions for Control D](https://docs.controld.com/docs/free-dns)
 
 ## Supporting Notracking blocklist
 If you are intrested in supporting the project you can:
