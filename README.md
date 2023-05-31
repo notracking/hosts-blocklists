@@ -26,7 +26,7 @@ Most sources come from public hostfile type lists, though several AdblockPlus li
 | List | Compatibility |
 | ------------- | ------------- |
 | [dnsmasq/dnsmasq.blacklist.txt](https://github.com/notracking/hosts-blocklists/raw/master/dnsmasq/dnsmasq.blacklist.txt) | Dnsmasq |
-| [adblock/adblock.txt](https://github.com/notracking/hosts-blocklists/raw/master/adblock/adblock.txt)| Adguard Home, uBlock Origin |
+| [adblock/adblock.txt](https://github.com/notracking/hosts-blocklists/raw/master/adblock/adblock.txt)| Adguard Home, uBlock Origin, Pi-Hole |
 | [dnscrypt-proxy/dnscrypt-proxy.blacklist.txt](https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt)| Dnscrypt-proxy |
 | [unbound/unbound.blacklist.conf](https://github.com/notracking/hosts-blocklists/raw/master/unbound/unbound.blacklist.conf)| Unbound |
 | [hostnames.txt](https://github.com/notracking/hosts-blocklists/raw/master/hostnames.txt) & [domains.txt](https://github.com/notracking/hosts-blocklists/raw/master/domains.txt)| Dnsmasq (version < 2.80 only, use both files) |
