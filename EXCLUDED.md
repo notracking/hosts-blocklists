@@ -197,3 +197,4 @@ https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domain
 https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt # No longer updated (even though the filedate suggests otherwise..)
 https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz # # No longer updated (even though the filedate suggests otherwise..)
 https://secure.fanboy.co.nz/enhancedstats.txt # No Longer updated
+https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt # Adds nothing new

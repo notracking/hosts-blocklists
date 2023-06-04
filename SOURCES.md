@@ -27,8 +27,9 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-drwe
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-amnenstytech.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-zscaler.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-orangecyber.txt|hostfile|`malware`|
-https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-matomo.txt|hostfile|`tracking`|
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-stats.txt|hostfile|`tracking`|
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-checkpoint.txt|hostfile|`malware`|
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-symantec.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt|hostfile|`spam`|
 https://openphish.com/feed.txt|hostfile|`malware`|only full domain filters
