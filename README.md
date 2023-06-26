@@ -1,3 +1,5 @@
+# The NoTracking blocklist will be shutting down soon. Please read https://github.com/notracking/hosts-blocklists/issues/900 for more details.
+
 # No more ads, tracking and other virtual garbage
 The NoTracking blocklist is a DNS based filter list for blocking ads, malware, phising and other online garbage.
 
